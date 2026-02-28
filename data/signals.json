@@ -12,11 +12,11 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 117680,
-      "forks": 12685,
+      "stars": 117692,
+      "forks": 12688,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T08:29:43Z",
-      "updated_at": "2026-02-28T08:44:31Z"
+      "updated_at": "2026-02-28T13:10:55Z"
     },
     {
       "id": 13428264,
@@ -24,131 +24,120 @@
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
       "stars": 35727,
-      "forks": 3616,
+      "forks": 3615,
       "language": "C#",
-      "pushed_at": "2026-02-28T08:39:12Z",
-      "updated_at": "2026-02-28T08:39:19Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 33280,
-      "forks": 714,
-      "language": "Rust",
-      "pushed_at": "2026-02-28T05:18:26Z",
-      "updated_at": "2026-02-28T08:28:33Z"
+      "pushed_at": "2026-02-28T12:59:31Z",
+      "updated_at": "2026-02-28T12:59:36Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17687,
+      "stars": 17691,
       "forks": 1506,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T05:02:51Z",
-      "updated_at": "2026-02-28T06:50:34Z"
+      "pushed_at": "2026-02-28T13:24:40Z",
+      "updated_at": "2026-02-28T13:28:44Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14003,
+      "stars": 14004,
       "forks": 557,
       "language": "C#",
-      "pushed_at": "2026-02-28T07:14:38Z",
-      "updated_at": "2026-02-28T08:30:45Z"
+      "pushed_at": "2026-02-28T13:23:23Z",
+      "updated_at": "2026-02-28T11:54:33Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10133,
+      "stars": 10136,
       "forks": 1216,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T08:07:15Z",
-      "updated_at": "2026-02-28T08:55:46Z"
+      "updated_at": "2026-02-28T13:40:53Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4237,
-      "forks": 832,
-      "language": "JavaScript",
-      "pushed_at": "2026-02-28T03:31:35Z",
-      "updated_at": "2026-02-28T08:32:53Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3501,
-      "forks": 733,
+      "id": 1052845083,
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 9297,
+      "forks": 1282,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T08:52:20Z",
-      "updated_at": "2026-02-28T07:41:34Z"
+      "pushed_at": "2026-02-28T13:25:24Z",
+      "updated_at": "2026-02-28T13:25:34Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5543,
+      "forks": 695,
+      "language": "Swift",
+      "pushed_at": "2026-02-28T12:31:40Z",
+      "updated_at": "2026-02-28T10:36:52Z"
+    },
+    {
+      "id": 70557651,
+      "full_name": "oliverschwendener/ueli",
+      "html_url": "https://github.com/oliverschwendener/ueli",
+      "description": "Cross-Platform Keystroke Launcher",
+      "stars": 4462,
+      "forks": 277,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T09:19:50Z",
+      "updated_at": "2026-02-28T09:19:52Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3296,
+      "forks": 157,
+      "language": "Kotlin",
+      "pushed_at": "2026-02-28T13:00:04Z",
+      "updated_at": "2026-02-28T13:00:08Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3011,
+      "stars": 3012,
       "forks": 978,
       "language": "C++",
-      "pushed_at": "2026-02-28T07:50:39Z",
-      "updated_at": "2026-02-28T05:07:27Z"
+      "pushed_at": "2026-02-28T12:22:00Z",
+      "updated_at": "2026-02-28T12:11:02Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 2931,
-      "forks": 187,
+      "id": 254879070,
+      "full_name": "xpf0000/FlyEnv",
+      "html_url": "https://github.com/xpf0000/FlyEnv",
+      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
+      "stars": 2500,
+      "forks": 240,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T03:54:36Z",
-      "updated_at": "2026-02-28T08:47:22Z"
+      "pushed_at": "2026-02-28T12:58:24Z",
+      "updated_at": "2026-02-28T13:42:07Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2570,
-      "forks": 169,
-      "language": "Python",
-      "pushed_at": "2026-02-28T04:52:25Z",
-      "updated_at": "2026-02-28T05:58:58Z"
-    },
-    {
-      "id": 76633312,
-      "full_name": "Ibexoft/awesome-startup-tools-list",
-      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
-      "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 953,
-      "forks": 164,
-      "language": "Unknown",
-      "pushed_at": "2026-02-28T03:39:58Z",
-      "updated_at": "2026-02-28T03:40:01Z"
-    },
-    {
-      "id": 542909593,
-      "full_name": "yenche123/liubai",
-      "html_url": "https://github.com/yenche123/liubai",
-      "description": "Supercharge yourself!",
-      "stars": 852,
-      "forks": 85,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T08:12:17Z",
-      "updated_at": "2026-02-28T06:38:53Z"
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1046,
+      "forks": 38,
+      "language": "C++",
+      "pushed_at": "2026-02-28T10:00:31Z",
+      "updated_at": "2026-02-28T10:00:34Z"
     },
     {
       "id": 1039979190,
@@ -158,8 +147,19 @@
       "stars": 365,
       "forks": 23,
       "language": "Shell",
-      "pushed_at": "2026-02-28T07:27:56Z",
-      "updated_at": "2026-02-28T07:23:37Z"
+      "pushed_at": "2026-02-28T12:09:39Z",
+      "updated_at": "2026-02-28T12:09:29Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "A modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 361,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-02-28T11:39:09Z",
+      "updated_at": "2026-02-28T11:32:18Z"
     },
     {
       "id": 226175035,
@@ -169,8 +169,8 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T05:01:49Z",
-      "updated_at": "2026-02-28T05:01:52Z"
+      "pushed_at": "2026-02-28T13:12:09Z",
+      "updated_at": "2026-02-28T13:12:12Z"
     }
   ]
 }
