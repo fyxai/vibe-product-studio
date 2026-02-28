@@ -8,70 +8,48 @@
   "total_found": 677,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 117692,
-      "forks": 12688,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T08:29:43Z",
-      "updated_at": "2026-02-28T13:10:55Z"
-    },
-    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 35727,
+      "stars": 35728,
       "forks": 3615,
       "language": "C#",
       "pushed_at": "2026-02-28T12:59:31Z",
-      "updated_at": "2026-02-28T12:59:36Z"
+      "updated_at": "2026-02-28T16:35:42Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17691,
+      "stars": 17694,
       "forks": 1506,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T13:24:40Z",
-      "updated_at": "2026-02-28T13:28:44Z"
+      "updated_at": "2026-02-28T15:38:29Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14004,
+      "stars": 14003,
       "forks": 557,
       "language": "C#",
-      "pushed_at": "2026-02-28T13:23:23Z",
-      "updated_at": "2026-02-28T11:54:33Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10136,
-      "forks": 1216,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T08:07:15Z",
-      "updated_at": "2026-02-28T13:40:53Z"
+      "pushed_at": "2026-02-28T15:40:41Z",
+      "updated_at": "2026-02-28T15:50:40Z"
     },
     {
       "id": 1052845083,
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 9297,
-      "forks": 1282,
+      "stars": 9305,
+      "forks": 1285,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T13:25:24Z",
-      "updated_at": "2026-02-28T13:25:34Z"
+      "updated_at": "2026-02-28T16:45:05Z"
     },
     {
       "id": 129699403,
@@ -81,19 +59,8 @@
       "stars": 5543,
       "forks": 695,
       "language": "Swift",
-      "pushed_at": "2026-02-28T12:31:40Z",
-      "updated_at": "2026-02-28T10:36:52Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4462,
-      "forks": 277,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T09:19:50Z",
-      "updated_at": "2026-02-28T09:19:52Z"
+      "pushed_at": "2026-02-28T16:03:37Z",
+      "updated_at": "2026-02-28T16:14:21Z"
     },
     {
       "id": 418086942,
@@ -112,21 +79,43 @@
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
       "stars": 3012,
-      "forks": 978,
+      "forks": 979,
       "language": "C++",
-      "pushed_at": "2026-02-28T12:22:00Z",
+      "pushed_at": "2026-02-28T16:47:36Z",
       "updated_at": "2026-02-28T12:11:02Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2571,
+      "forks": 169,
+      "language": "Python",
+      "pushed_at": "2026-02-28T16:40:11Z",
+      "updated_at": "2026-02-28T16:40:15Z"
     },
     {
       "id": 254879070,
       "full_name": "xpf0000/FlyEnv",
       "html_url": "https://github.com/xpf0000/FlyEnv",
       "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
-      "stars": 2500,
+      "stars": 2501,
       "forks": 240,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T12:58:24Z",
-      "updated_at": "2026-02-28T13:42:07Z"
+      "pushed_at": "2026-02-28T14:42:57Z",
+      "updated_at": "2026-02-28T15:49:32Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1766,
+      "forks": 131,
+      "language": "Dart",
+      "pushed_at": "2026-02-28T16:21:21Z",
+      "updated_at": "2026-02-28T16:21:24Z"
     },
     {
       "id": 177397013,
@@ -136,19 +125,30 @@
       "stars": 1046,
       "forks": 38,
       "language": "C++",
-      "pushed_at": "2026-02-28T10:00:31Z",
-      "updated_at": "2026-02-28T10:00:34Z"
+      "pushed_at": "2026-02-28T16:02:12Z",
+      "updated_at": "2026-02-28T16:02:15Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 365,
-      "forks": 23,
-      "language": "Shell",
-      "pushed_at": "2026-02-28T12:09:39Z",
-      "updated_at": "2026-02-28T12:09:29Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 705,
+      "forks": 65,
+      "language": "Python",
+      "pushed_at": "2026-02-28T16:48:14Z",
+      "updated_at": "2026-02-28T16:48:19Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 537,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-02-28T14:06:18Z",
+      "updated_at": "2026-02-28T14:06:21Z"
     },
     {
       "id": 1111053300,
@@ -158,19 +158,19 @@
       "stars": 361,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-02-28T11:39:09Z",
-      "updated_at": "2026-02-28T11:32:18Z"
+      "pushed_at": "2026-02-28T15:35:21Z",
+      "updated_at": "2026-02-28T15:35:15Z"
     },
     {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T13:12:09Z",
-      "updated_at": "2026-02-28T13:12:12Z"
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 29 个真实场景：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 331,
+      "forks": 39,
+      "language": "Unknown",
+      "pushed_at": "2026-02-28T15:15:37Z",
+      "updated_at": "2026-02-28T16:35:32Z"
     }
   ]
 }
