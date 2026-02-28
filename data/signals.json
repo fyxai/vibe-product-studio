@@ -5,84 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 676,
+  "total_found": 677,
   "items": [
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 117680,
+      "forks": 12685,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T08:29:43Z",
+      "updated_at": "2026-02-28T08:44:31Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 35727,
+      "forks": 3616,
+      "language": "C#",
+      "pushed_at": "2026-02-28T08:39:12Z",
+      "updated_at": "2026-02-28T08:39:19Z"
+    },
     {
       "id": 663900193,
       "full_name": "sxyazi/yazi",
       "html_url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 33278,
+      "stars": 33280,
       "forks": 714,
       "language": "Rust",
       "pushed_at": "2026-02-28T05:18:26Z",
-      "updated_at": "2026-02-28T05:45:23Z"
+      "updated_at": "2026-02-28T08:28:33Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17686,
-      "forks": 1505,
+      "stars": 17687,
+      "forks": 1506,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T05:02:51Z",
-      "updated_at": "2026-02-28T05:01:31Z"
+      "updated_at": "2026-02-28T06:50:34Z"
     },
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, cross-platform terminal for seamless workflows",
-      "stars": 17568,
-      "forks": 784,
-      "language": "Go",
-      "pushed_at": "2026-02-28T02:08:36Z",
-      "updated_at": "2026-02-28T05:42:55Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14003,
+      "forks": 557,
+      "language": "C#",
+      "pushed_at": "2026-02-28T07:14:38Z",
+      "updated_at": "2026-02-28T08:30:45Z"
     },
     {
-      "id": 47524979,
-      "full_name": "guarinogabriel/Mac-CLI",
-      "html_url": "https://github.com/guarinogabriel/Mac-CLI",
-      "description": " macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.",
-      "stars": 9039,
-      "forks": 335,
-      "language": "Shell",
-      "pushed_at": "2026-02-28T02:21:48Z",
-      "updated_at": "2026-02-28T02:21:52Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10133,
+      "forks": 1216,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T08:07:15Z",
+      "updated_at": "2026-02-28T08:55:46Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6577,
-      "forks": 162,
-      "language": "C++",
-      "pushed_at": "2026-02-28T02:07:26Z",
-      "updated_at": "2026-02-28T05:34:09Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4237,
+      "forks": 832,
+      "language": "JavaScript",
+      "pushed_at": "2026-02-28T03:31:35Z",
+      "updated_at": "2026-02-28T08:32:53Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 4972,
-      "forks": 600,
-      "language": "Kotlin",
-      "pushed_at": "2026-02-28T01:16:21Z",
-      "updated_at": "2026-02-28T03:29:26Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3295,
-      "forks": 157,
-      "language": "Kotlin",
-      "pushed_at": "2026-02-28T02:40:18Z",
-      "updated_at": "2026-02-28T02:40:22Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3501,
+      "forks": 733,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T08:52:20Z",
+      "updated_at": "2026-02-28T07:41:34Z"
     },
     {
       "id": 300155217,
@@ -92,7 +103,7 @@
       "stars": 3011,
       "forks": 978,
       "language": "C++",
-      "pushed_at": "2026-02-28T04:32:36Z",
+      "pushed_at": "2026-02-28T07:50:39Z",
       "updated_at": "2026-02-28T05:07:27Z"
     },
     {
@@ -100,22 +111,22 @@
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 2911,
+      "stars": 2931,
       "forks": 187,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T03:54:36Z",
-      "updated_at": "2026-02-28T05:49:22Z"
+      "updated_at": "2026-02-28T08:47:22Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2569,
-      "forks": 168,
+      "stars": 2570,
+      "forks": 169,
       "language": "Python",
       "pushed_at": "2026-02-28T04:52:25Z",
-      "updated_at": "2026-02-28T05:32:29Z"
+      "updated_at": "2026-02-28T05:58:58Z"
     },
     {
       "id": 76633312,
@@ -133,33 +144,22 @@
       "full_name": "yenche123/liubai",
       "html_url": "https://github.com/yenche123/liubai",
       "description": "Supercharge yourself!",
-      "stars": 853,
+      "stars": 852,
       "forks": 85,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T05:27:28Z",
-      "updated_at": "2026-02-28T05:14:29Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 566,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T02:51:09Z",
-      "updated_at": "2026-02-28T02:48:49Z"
+      "pushed_at": "2026-02-28T08:12:17Z",
+      "updated_at": "2026-02-28T06:38:53Z"
     },
     {
       "id": 1039979190,
       "full_name": "rz1989s/claude-code-statusline",
       "html_url": "https://github.com/rz1989s/claude-code-statusline",
       "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 364,
+      "stars": 365,
       "forks": 23,
       "language": "Shell",
-      "pushed_at": "2026-02-28T05:45:20Z",
-      "updated_at": "2026-02-28T05:40:40Z"
+      "pushed_at": "2026-02-28T07:27:56Z",
+      "updated_at": "2026-02-28T07:23:37Z"
     },
     {
       "id": 226175035,
