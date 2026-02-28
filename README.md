@@ -1,12 +1,27 @@
 # Vibe Product Studio
 
-An autonomous product studio that turns trending topics into micro-SaaS landing pages and MVP specs in minutes.
+Tracks product-building and design tool repositories from GitHub signals.
 
-## Why interesting
-- Trending: AI-native product generation
-- Useful: fast validation loop for founders
+## Quick start
 
-## Next milestone
-- Trend ingestion
-- Idea scoring model
-- One-click Next.js starter generator
+```bash
+npm ci
+npm run update-data
+npm run build
+npm run start
+```
+
+## Scripts
+
+- `npm run update-data` — fetches public GitHub signals and updates `data/signals.json`
+- `npm run build` — validates generated JSON
+- `npm run start` — prints a concise top-list view in the terminal
+
+## Automation
+
+A GitHub Actions workflow at `.github/workflows/update.yml` runs every 4 hours:
+
+- cron: `0 */4 * * *`
+- runs `npm ci`
+- runs `npm run update-data`
+- commits and pushes only when `data/signals.json` changed

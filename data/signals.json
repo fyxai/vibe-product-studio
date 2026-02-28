@@ -1,0 +1,176 @@
+{
+  "project": "Vibe Product Studio",
+  "description": "Tracks product-building and design tool repositories from GitHub signals.",
+  "source": {
+    "type": "github-search",
+    "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
+  },
+  "total_found": 675,
+  "items": [
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 22076,
+      "forks": 2358,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T00:47:15Z",
+      "updated_at": "2026-02-28T02:58:42Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 17684,
+      "forks": 1505,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T02:37:40Z",
+      "updated_at": "2026-02-28T03:05:40Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "stars": 17565,
+      "forks": 784,
+      "language": "Go",
+      "pushed_at": "2026-02-28T02:08:36Z",
+      "updated_at": "2026-02-28T03:06:01Z"
+    },
+    {
+      "id": 1052845083,
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 9279,
+      "forks": 1278,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-27T23:53:58Z",
+      "updated_at": "2026-02-28T01:53:54Z"
+    },
+    {
+      "id": 47524979,
+      "full_name": "guarinogabriel/Mac-CLI",
+      "html_url": "https://github.com/guarinogabriel/Mac-CLI",
+      "description": " macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.",
+      "stars": 9039,
+      "forks": 335,
+      "language": "Shell",
+      "pushed_at": "2026-02-28T02:21:48Z",
+      "updated_at": "2026-02-28T02:21:52Z"
+    },
+    {
+      "id": 49516849,
+      "full_name": "xwmx/nb",
+      "html_url": "https://github.com/xwmx/nb",
+      "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+      "stars": 8027,
+      "forks": 243,
+      "language": "Shell",
+      "pushed_at": "2026-02-27T22:29:13Z",
+      "updated_at": "2026-02-27T22:27:22Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6573,
+      "forks": 159,
+      "language": "C++",
+      "pushed_at": "2026-02-28T02:07:26Z",
+      "updated_at": "2026-02-28T02:56:48Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 4997,
+      "forks": 292,
+      "language": "Vala",
+      "pushed_at": "2026-02-27T23:25:29Z",
+      "updated_at": "2026-02-27T23:25:32Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 4981,
+      "forks": 425,
+      "language": "Vue",
+      "pushed_at": "2026-02-28T00:27:25Z",
+      "updated_at": "2026-02-27T23:18:24Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3295,
+      "forks": 157,
+      "language": "Kotlin",
+      "pushed_at": "2026-02-28T02:40:18Z",
+      "updated_at": "2026-02-28T02:40:22Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3010,
+      "forks": 978,
+      "language": "C++",
+      "pushed_at": "2026-02-28T00:40:21Z",
+      "updated_at": "2026-02-28T00:40:24Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 566,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T02:51:09Z",
+      "updated_at": "2026-02-28T02:48:49Z"
+    },
+    {
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 460,
+      "forks": 48,
+      "language": "JavaScript",
+      "pushed_at": "2026-02-27T23:21:28Z",
+      "updated_at": "2026-02-27T23:21:32Z"
+    },
+    {
+      "id": 1009089036,
+      "full_name": "satococoa/wtp",
+      "html_url": "https://github.com/satococoa/wtp",
+      "description": "🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation",
+      "stars": 385,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-02-27T23:34:14Z",
+      "updated_at": "2026-02-28T01:45:30Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T01:25:36Z",
+      "updated_at": "2026-02-28T01:25:39Z"
+    }
+  ]
+}

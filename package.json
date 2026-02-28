@@ -1,0 +1,15 @@
+{
+  "name": "vibe-product-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tracks product-building and design tool repositories from GitHub signals.",
+  "scripts": {
+    "update-data": "node scripts/update-data.mjs",
+    "build": "node scripts/validate.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

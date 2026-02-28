@@ -1,0 +1,9 @@
+{
+  "project": "Vibe Product Studio",
+  "description": "Tracks product-building and design tool repositories from GitHub signals.",
+  "source": {
+    "type": "github-search",
+    "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
+  },
+  "items": []
+}
