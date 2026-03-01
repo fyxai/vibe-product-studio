@@ -8,37 +8,15 @@
   "total_found": 678,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185028,
-      "forks": 26294,
-      "language": "Shell",
-      "pushed_at": "2026-03-01T15:42:35Z",
-      "updated_at": "2026-03-01T16:46:57Z"
-    },
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 117750,
-      "forks": 12695,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-01T14:08:07Z",
-      "updated_at": "2026-03-01T16:44:18Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 35736,
-      "forks": 3613,
-      "language": "C#",
-      "pushed_at": "2026-03-01T15:31:39Z",
-      "updated_at": "2026-03-01T15:31:46Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.",
+      "stars": 56041,
+      "forks": 6892,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-01T20:07:13Z",
+      "updated_at": "2026-03-01T20:52:33Z"
     },
     {
       "id": 665613753,
@@ -48,30 +26,30 @@
       "stars": 10140,
       "forks": 1216,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T16:31:26Z",
-      "updated_at": "2026-03-01T16:28:13Z"
+      "pushed_at": "2026-03-01T20:32:11Z",
+      "updated_at": "2026-03-01T18:53:28Z"
     },
     {
-      "id": 85459264,
-      "full_name": "ohmybash/oh-my-bash",
-      "html_url": "https://github.com/ohmybash/oh-my-bash",
-      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
-      "stars": 7287,
-      "forks": 767,
-      "language": "Shell",
-      "pushed_at": "2026-03-01T15:23:05Z",
-      "updated_at": "2026-03-01T15:23:09Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3014,
-      "forks": 979,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6611,
+      "forks": 162,
       "language": "C++",
-      "pushed_at": "2026-03-01T16:31:48Z",
-      "updated_at": "2026-03-01T16:31:52Z"
+      "pushed_at": "2026-03-01T18:03:15Z",
+      "updated_at": "2026-03-01T20:49:01Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3505,
+      "forks": 734,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T18:38:56Z",
+      "updated_at": "2026-03-01T18:38:28Z"
     },
     {
       "id": 897595329,
@@ -81,19 +59,19 @@
       "stars": 2575,
       "forks": 169,
       "language": "Python",
-      "pushed_at": "2026-03-01T15:41:23Z",
-      "updated_at": "2026-03-01T15:41:26Z"
+      "pushed_at": "2026-03-01T19:18:56Z",
+      "updated_at": "2026-03-01T19:19:00Z"
     },
     {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart session manager for the terminal",
-      "stars": 1778,
-      "forks": 87,
-      "language": "Go",
-      "pushed_at": "2026-03-01T15:57:40Z",
-      "updated_at": "2026-03-01T15:57:44Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2128,
+      "forks": 82,
+      "language": "Swift",
+      "pushed_at": "2026-03-01T19:42:30Z",
+      "updated_at": "2026-03-01T19:42:32Z"
     },
     {
       "id": 323279421,
@@ -103,30 +81,30 @@
       "stars": 1766,
       "forks": 130,
       "language": "Dart",
-      "pushed_at": "2026-03-01T14:10:03Z",
-      "updated_at": "2026-03-01T14:10:07Z"
+      "pushed_at": "2026-03-01T20:52:33Z",
+      "updated_at": "2026-03-01T20:27:41Z"
     },
     {
-      "id": 1001200358,
-      "full_name": "qdhenry/Claude-Command-Suite",
-      "html_url": "https://github.com/qdhenry/Claude-Command-Suite",
-      "description": "Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and architectural analysis.",
-      "stars": 961,
-      "forks": 95,
-      "language": "Shell",
-      "pushed_at": "2026-03-01T16:54:06Z",
-      "updated_at": "2026-03-01T16:54:11Z"
+      "id": 1119754832,
+      "full_name": "OlaProeis/Ferrite",
+      "html_url": "https://github.com/OlaProeis/Ferrite",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "stars": 1194,
+      "forks": 50,
+      "language": "Rust",
+      "pushed_at": "2026-03-01T20:02:21Z",
+      "updated_at": "2026-03-01T20:25:57Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 709,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-03-01T15:16:52Z",
-      "updated_at": "2026-03-01T15:16:57Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1175,
+      "forks": 115,
+      "language": "Go",
+      "pushed_at": "2026-03-01T20:20:50Z",
+      "updated_at": "2026-03-01T20:20:52Z"
     },
     {
       "id": 1111978380,
@@ -136,41 +114,63 @@
       "stars": 573,
       "forks": 29,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T16:55:09Z",
-      "updated_at": "2026-03-01T16:55:12Z"
+      "pushed_at": "2026-03-01T17:11:51Z",
+      "updated_at": "2026-03-01T17:11:55Z"
     },
     {
-      "id": 1009089036,
-      "full_name": "satococoa/wtp",
-      "html_url": "https://github.com/satococoa/wtp",
-      "description": "🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation",
-      "stars": 387,
-      "forks": 15,
-      "language": "Go",
-      "pushed_at": "2026-03-01T15:53:02Z",
-      "updated_at": "2026-03-01T15:58:23Z"
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex.",
+      "stars": 506,
+      "forks": 50,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-01T17:56:58Z",
+      "updated_at": "2026-03-01T19:08:47Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 37 个真实场景（国内+国际）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 381,
-      "forks": 43,
-      "language": "Unknown",
-      "pushed_at": "2026-03-01T14:11:48Z",
-      "updated_at": "2026-03-01T16:34:36Z"
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 221,
+      "forks": 6,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T17:10:33Z",
+      "updated_at": "2026-03-01T20:46:49Z"
     },
     {
       "id": 1112283364,
       "full_name": "dorcha-inc/orla",
       "html_url": "https://github.com/dorcha-inc/orla",
       "description": "A high performance execution engine for open-source agents ",
-      "stars": 202,
+      "stars": 203,
       "forks": 4,
       "language": "Go",
-      "pushed_at": "2026-03-01T15:59:11Z",
-      "updated_at": "2026-03-01T15:59:14Z"
+      "pushed_at": "2026-03-01T20:35:01Z",
+      "updated_at": "2026-03-01T20:35:05Z"
+    },
+    {
+      "id": 854514249,
+      "full_name": "aload0/Reef",
+      "html_url": "https://github.com/aload0/Reef",
+      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
+      "stars": 198,
+      "forks": 18,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-01T17:50:56Z",
+      "updated_at": "2026-03-01T17:02:46Z"
+    },
+    {
+      "id": 1150833483,
+      "full_name": "0xMassi/stik_app",
+      "html_url": "https://github.com/0xMassi/stik_app",
+      "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
+      "stars": 137,
+      "forks": 4,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T17:00:11Z",
+      "updated_at": "2026-03-01T17:00:14Z"
     }
   ]
 }
