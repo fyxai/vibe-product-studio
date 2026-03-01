@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 677,
+  "total_found": 678,
   "items": [
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42187,
-      "forks": 2620,
-      "language": "C#",
-      "pushed_at": "2026-03-01T00:54:07Z",
-      "updated_at": "2026-03-01T03:03:24Z"
-    },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 22139,
+      "stars": 22146,
       "forks": 2365,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T01:40:19Z",
-      "updated_at": "2026-03-01T04:58:45Z"
+      "pushed_at": "2026-03-01T05:29:18Z",
+      "updated_at": "2026-03-01T08:57:49Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 17709,
+      "forks": 1510,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T08:05:26Z",
+      "updated_at": "2026-03-01T08:50:43Z"
     },
     {
       "id": 257526212,
@@ -37,85 +37,74 @@
       "stars": 14006,
       "forks": 558,
       "language": "C#",
-      "pushed_at": "2026-03-01T04:58:10Z",
-      "updated_at": "2026-03-01T04:49:14Z"
+      "pushed_at": "2026-03-01T08:23:37Z",
+      "updated_at": "2026-03-01T08:13:10Z"
     },
     {
-      "id": 1052845083,
-      "full_name": "danielmiessler/Personal_AI_Infrastructure",
-      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 9324,
-      "forks": 1288,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-01T02:45:35Z",
-      "updated_at": "2026-03-01T05:01:38Z"
+      "id": 187916430,
+      "full_name": "muety/wakapi",
+      "html_url": "https://github.com/muety/wakapi",
+      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+      "stars": 4178,
+      "forks": 266,
+      "language": "Go",
+      "pushed_at": "2026-03-01T07:33:06Z",
+      "updated_at": "2026-03-01T07:26:38Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6600,
-      "forks": 162,
-      "language": "C++",
-      "pushed_at": "2026-03-01T02:33:29Z",
-      "updated_at": "2026-03-01T04:16:14Z"
-    },
-    {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 4980,
-      "forks": 426,
-      "language": "Vue",
-      "pushed_at": "2026-03-01T01:19:54Z",
-      "updated_at": "2026-03-01T02:28:18Z"
-    },
-    {
-      "id": 70306830,
-      "full_name": "hoothin/UserScripts",
-      "html_url": "https://github.com/hoothin/UserScripts",
-      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
-      "stars": 4071,
-      "forks": 580,
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
+      "stars": 3626,
+      "forks": 261,
       "language": "JavaScript",
-      "pushed_at": "2026-03-01T03:56:23Z",
-      "updated_at": "2026-03-01T03:56:26Z"
+      "pushed_at": "2026-03-01T07:59:35Z",
+      "updated_at": "2026-03-01T08:56:13Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3503,
+      "stars": 3504,
       "forks": 734,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T02:16:57Z",
-      "updated_at": "2026-03-01T04:49:34Z"
+      "pushed_at": "2026-03-01T08:23:58Z",
+      "updated_at": "2026-03-01T08:05:38Z"
     },
     {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 1972,
-      "forks": 203,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-01T01:05:55Z",
-      "updated_at": "2026-03-01T01:05:58Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3304,
+      "forks": 156,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-01T08:43:32Z",
+      "updated_at": "2026-03-01T08:51:41Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 924,
-      "forks": 82,
+      "id": 254879070,
+      "full_name": "xpf0000/FlyEnv",
+      "html_url": "https://github.com/xpf0000/FlyEnv",
+      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
+      "stars": 2503,
+      "forks": 240,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T03:10:15Z",
-      "updated_at": "2026-03-01T03:10:19Z"
+      "pushed_at": "2026-03-01T07:09:00Z",
+      "updated_at": "2026-03-01T07:08:58Z"
+    },
+    {
+      "id": 264844037,
+      "full_name": "lindell/multi-gitter",
+      "html_url": "https://github.com/lindell/multi-gitter",
+      "description": "Update multiple repositories in with one command",
+      "stars": 1165,
+      "forks": 79,
+      "language": "Go",
+      "pushed_at": "2026-03-01T05:34:02Z",
+      "updated_at": "2026-03-01T05:33:25Z"
     },
     {
       "id": 1111978380,
@@ -129,48 +118,59 @@
       "updated_at": "2026-03-01T04:32:41Z"
     },
     {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex.",
-      "stars": 502,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-01T00:51:12Z",
-      "updated_at": "2026-03-01T00:51:16Z"
+      "id": 85922134,
+      "full_name": "brocode/fw",
+      "html_url": "https://github.com/brocode/fw",
+      "description": "workspace productivity booster",
+      "stars": 562,
+      "forks": 23,
+      "language": "Rust",
+      "pushed_at": "2026-03-01T06:07:44Z",
+      "updated_at": "2026-03-01T06:07:46Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "A modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 362,
+      "stars": 363,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-03-01T03:53:27Z",
-      "updated_at": "2026-03-01T03:53:23Z"
+      "pushed_at": "2026-03-01T05:47:06Z",
+      "updated_at": "2026-03-01T08:50:59Z"
     },
     {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "The eye-candy note taking and to-do application for all desktops",
-      "stars": 261,
-      "forks": 7,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-01T01:27:29Z",
-      "updated_at": "2026-03-01T01:27:33Z"
+      "id": 575872406,
+      "full_name": "linear-b/gitstream",
+      "html_url": "https://github.com/linear-b/gitstream",
+      "description": "/:\\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.",
+      "stars": 326,
+      "forks": 46,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-01T07:37:21Z",
+      "updated_at": "2026-03-01T07:36:38Z"
     },
     {
-      "id": 1112283364,
-      "full_name": "dorcha-inc/orla",
-      "html_url": "https://github.com/dorcha-inc/orla",
-      "description": "A high performance execution engine for open-source agents ",
-      "stars": 202,
-      "forks": 4,
-      "language": "Go",
-      "pushed_at": "2026-03-01T02:21:57Z",
-      "updated_at": "2026-03-01T02:22:00Z"
+      "id": 626659549,
+      "full_name": "2e3s/awatcher",
+      "html_url": "https://github.com/2e3s/awatcher",
+      "description": "Activity and idle watchers",
+      "stars": 258,
+      "forks": 18,
+      "language": "Rust",
+      "pushed_at": "2026-03-01T05:42:34Z",
+      "updated_at": "2026-03-01T05:42:37Z"
+    },
+    {
+      "id": 1085282019,
+      "full_name": "thehimel/cursor-rules-and-prompts",
+      "html_url": "https://github.com/thehimel/cursor-rules-and-prompts",
+      "description": "A comprehensive, open-source collection of rules and prompts designed to guide Cursor AI in generating better, more consistent code. Enhance code quality, enforce coding standards, and streamline development workflows automatically.",
+      "stars": 211,
+      "forks": 50,
+      "language": "Shell",
+      "pushed_at": "2026-03-01T05:19:10Z",
+      "updated_at": "2026-03-01T05:19:13Z"
     }
   ]
 }
