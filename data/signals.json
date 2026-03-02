@@ -8,37 +8,37 @@
   "total_found": 678,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 117800,
-      "forks": 12701,
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14019,
+      "forks": 558,
+      "language": "C#",
+      "pushed_at": "2026-03-02T13:08:04Z",
+      "updated_at": "2026-03-02T13:36:10Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10147,
+      "forks": 1215,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T08:15:55Z",
-      "updated_at": "2026-03-02T09:58:30Z"
+      "pushed_at": "2026-03-02T13:27:09Z",
+      "updated_at": "2026-03-02T13:27:14Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 33353,
-      "forks": 716,
-      "language": "Rust",
-      "pushed_at": "2026-03-02T09:03:18Z",
-      "updated_at": "2026-03-02T10:21:46Z"
-    },
-    {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "Generate a timeline of your day, automatically",
-      "stars": 5803,
-      "forks": 301,
-      "language": "Swift",
-      "pushed_at": "2026-03-02T09:35:37Z",
-      "updated_at": "2026-03-02T09:35:40Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 8968,
+      "forks": 768,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T12:22:33Z",
+      "updated_at": "2026-03-02T13:46:26Z"
     },
     {
       "id": 129699403,
@@ -46,32 +46,43 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "A virtual platform team for mobile devs who ship ",
       "stars": 5548,
-      "forks": 696,
+      "forks": 697,
       "language": "Swift",
-      "pushed_at": "2026-03-02T10:28:42Z",
-      "updated_at": "2026-03-02T09:42:20Z"
+      "pushed_at": "2026-03-02T14:08:32Z",
+      "updated_at": "2026-03-02T14:05:04Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5009,
+      "forks": 292,
+      "language": "Vala",
+      "pushed_at": "2026-03-02T13:06:03Z",
+      "updated_at": "2026-03-02T13:06:07Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3514,
+      "stars": 3516,
       "forks": 735,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T10:23:22Z",
-      "updated_at": "2026-03-02T10:21:25Z"
+      "pushed_at": "2026-03-02T13:20:11Z",
+      "updated_at": "2026-03-02T12:36:46Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 3070,
-      "forks": 198,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-02T09:21:58Z",
-      "updated_at": "2026-03-02T10:29:20Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3311,
+      "forks": 157,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-02T13:55:02Z",
+      "updated_at": "2026-03-02T13:55:06Z"
     },
     {
       "id": 300155217,
@@ -81,8 +92,8 @@
       "stars": 3016,
       "forks": 979,
       "language": "C++",
-      "pushed_at": "2026-03-02T10:16:42Z",
-      "updated_at": "2026-03-02T09:59:40Z"
+      "pushed_at": "2026-03-02T13:48:31Z",
+      "updated_at": "2026-03-02T13:48:33Z"
     },
     {
       "id": 254879070,
@@ -92,30 +103,8 @@
       "stars": 2508,
       "forks": 241,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T09:52:27Z",
-      "updated_at": "2026-03-02T09:52:33Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 2155,
-      "forks": 135,
-      "language": "Rust",
-      "pushed_at": "2026-03-02T10:09:32Z",
-      "updated_at": "2026-03-02T10:16:21Z"
-    },
-    {
-      "id": 527121729,
-      "full_name": "Smaug6739/Alexandrie",
-      "html_url": "https://github.com/Smaug6739/Alexandrie",
-      "description": "Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline.",
-      "stars": 1291,
-      "forks": 78,
-      "language": "Vue",
-      "pushed_at": "2026-03-02T10:20:27Z",
-      "updated_at": "2026-03-02T10:20:31Z"
+      "pushed_at": "2026-03-02T13:09:35Z",
+      "updated_at": "2026-03-02T13:09:40Z"
     },
     {
       "id": 264844037,
@@ -125,52 +114,63 @@
       "stars": 1165,
       "forks": 79,
       "language": "Go",
-      "pushed_at": "2026-03-02T09:10:39Z",
-      "updated_at": "2026-03-02T09:10:06Z"
+      "pushed_at": "2026-03-02T13:02:06Z",
+      "updated_at": "2026-03-02T13:01:23Z"
     },
     {
-      "id": 417447748,
-      "full_name": "dailydotdev/docs",
-      "html_url": "https://github.com/dailydotdev/docs",
-      "description": "The official product docs of daily.dev",
-      "stars": 362,
-      "forks": 192,
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 940,
+      "forks": 213,
+      "language": "Scala",
+      "pushed_at": "2026-03-02T12:12:45Z",
+      "updated_at": "2026-03-02T12:10:09Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 537,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-03-02T13:20:31Z",
+      "updated_at": "2026-03-02T13:20:33Z"
+    },
+    {
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex.",
+      "stars": 508,
+      "forks": 50,
       "language": "JavaScript",
-      "pushed_at": "2026-03-02T09:18:01Z",
-      "updated_at": "2026-03-02T09:18:03Z"
+      "pushed_at": "2026-03-02T14:09:20Z",
+      "updated_at": "2026-03-02T14:09:24Z"
     },
     {
-      "id": 1164540365,
-      "full_name": "sangrokjung/claude-forge",
-      "html_url": "https://github.com/sangrokjung/claude-forge",
-      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-      "stars": 284,
-      "forks": 58,
-      "language": "Shell",
-      "pushed_at": "2026-03-02T10:26:14Z",
-      "updated_at": "2026-03-02T10:26:17Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 267,
-      "forks": 15,
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - Open Work and Project Management Platform - https://ever.team",
+      "stars": 485,
+      "forks": 92,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T09:59:04Z",
-      "updated_at": "2026-03-02T09:57:50Z"
+      "pushed_at": "2026-03-02T13:11:25Z",
+      "updated_at": "2026-03-02T13:08:48Z"
     },
     {
-      "id": 183060538,
-      "full_name": "gopinath-langote/1build",
-      "html_url": "https://github.com/gopinath-langote/1build",
-      "description": "Frictionless way of managing project-specific commands",
-      "stars": 242,
-      "forks": 30,
-      "language": "Go",
-      "pushed_at": "2026-03-02T10:06:59Z",
-      "updated_at": "2026-03-02T09:58:18Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 460,
+      "forks": 48,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-02T14:24:16Z",
+      "updated_at": "2026-03-02T14:25:08Z"
     }
   ]
 }
