@@ -8,59 +8,48 @@
   "total_found": 684,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185066,
-      "forks": 26302,
-      "language": "Shell",
-      "pushed_at": "2026-03-04T08:28:48Z",
-      "updated_at": "2026-03-04T08:29:00Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24433,
+      "forks": 2263,
+      "language": "Python",
+      "pushed_at": "2026-03-04T13:38:15Z",
+      "updated_at": "2026-03-04T13:38:25Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 33419,
-      "forks": 717,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 17805,
+      "forks": 1515,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-04T12:19:01Z",
+      "updated_at": "2026-03-04T12:48:02Z"
+    },
+    {
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 13309,
+      "forks": 390,
       "language": "Rust",
-      "pushed_at": "2026-03-04T08:06:14Z",
-      "updated_at": "2026-03-04T09:56:31Z"
+      "pushed_at": "2026-03-04T13:48:56Z",
+      "updated_at": "2026-03-04T13:49:01Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10184,
-      "forks": 1219,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-04T09:15:31Z",
-      "updated_at": "2026-03-04T09:57:51Z"
-    },
-    {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8117,
-      "forks": 904,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-04T07:08:58Z",
-      "updated_at": "2026-03-04T09:39:59Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6640,
-      "forks": 163,
-      "language": "C++",
-      "pushed_at": "2026-03-04T09:41:32Z",
-      "updated_at": "2026-03-04T09:41:38Z"
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "Generate a timeline of your day, automatically",
+      "stars": 5817,
+      "forks": 303,
+      "language": "Swift",
+      "pushed_at": "2026-03-04T11:17:56Z",
+      "updated_at": "2026-03-04T11:18:00Z"
     },
     {
       "id": 129699403,
@@ -70,30 +59,19 @@
       "stars": 5562,
       "forks": 697,
       "language": "Swift",
-      "pushed_at": "2026-03-04T09:57:29Z",
-      "updated_at": "2026-03-04T09:50:21Z"
+      "pushed_at": "2026-03-04T14:01:58Z",
+      "updated_at": "2026-03-04T13:59:37Z"
     },
     {
-      "id": 1083188349,
-      "full_name": "RICHQAQ/PasteMD",
-      "html_url": "https://github.com/RICHQAQ/PasteMD",
-      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 4257,
-      "forks": 267,
-      "language": "Python",
-      "pushed_at": "2026-03-04T08:17:58Z",
-      "updated_at": "2026-03-04T10:01:59Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3534,
-      "forks": 739,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 3211,
+      "forks": 206,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T09:35:59Z",
-      "updated_at": "2026-03-04T09:35:52Z"
+      "pushed_at": "2026-03-04T14:09:27Z",
+      "updated_at": "2026-03-04T14:00:31Z"
     },
     {
       "id": 300155217,
@@ -103,74 +81,96 @@
       "stars": 3026,
       "forks": 978,
       "language": "C++",
-      "pushed_at": "2026-03-04T09:52:32Z",
-      "updated_at": "2026-03-04T09:58:46Z"
+      "pushed_at": "2026-03-04T13:42:05Z",
+      "updated_at": "2026-03-04T13:32:41Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 2358,
-      "forks": 147,
+      "stars": 2378,
+      "forks": 151,
       "language": "Rust",
-      "pushed_at": "2026-03-04T09:39:05Z",
-      "updated_at": "2026-03-04T09:57:18Z"
-    },
-    {
-      "id": 527121729,
-      "full_name": "Smaug6739/Alexandrie",
-      "html_url": "https://github.com/Smaug6739/Alexandrie",
-      "description": "Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline.",
-      "stars": 1292,
-      "forks": 78,
-      "language": "Vue",
-      "pushed_at": "2026-03-04T06:55:46Z",
-      "updated_at": "2026-03-04T06:54:40Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
-      "stars": 654,
-      "forks": 31,
-      "language": "Python",
-      "pushed_at": "2026-03-04T09:19:37Z",
-      "updated_at": "2026-03-04T09:19:44Z"
+      "pushed_at": "2026-03-04T11:53:58Z",
+      "updated_at": "2026-03-04T13:58:27Z"
     },
     {
       "id": 1164376059,
       "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
       "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
       "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景，更新中（国内特色用例 + 海外用例的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 625,
-      "forks": 71,
+      "stars": 639,
+      "forks": 74,
       "language": "Unknown",
-      "pushed_at": "2026-03-04T08:45:09Z",
-      "updated_at": "2026-03-04T09:59:48Z"
+      "pushed_at": "2026-03-04T12:33:58Z",
+      "updated_at": "2026-03-04T14:09:23Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 584,
-      "forks": 29,
+      "id": 1152120087,
+      "full_name": "nicepkg/ctxport",
+      "html_url": "https://github.com/nicepkg/ctxport",
+      "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
+      "stars": 423,
+      "forks": 104,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T07:09:13Z",
-      "updated_at": "2026-03-04T07:09:17Z"
+      "pushed_at": "2026-03-04T12:33:53Z",
+      "updated_at": "2026-03-04T13:57:37Z"
     },
     {
-      "id": 1164725227,
-      "full_name": "aspasskiy/GoGogot",
-      "html_url": "https://github.com/aspasskiy/GoGogot",
-      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
-      "stars": 404,
-      "forks": 0,
+      "id": 1164540365,
+      "full_name": "sangrokjung/claude-forge",
+      "html_url": "https://github.com/sangrokjung/claude-forge",
+      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
+      "stars": 392,
+      "forks": 78,
+      "language": "Shell",
+      "pushed_at": "2026-03-04T12:07:55Z",
+      "updated_at": "2026-03-04T12:07:58Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "A modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 373,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-03-04T11:52:33Z",
+      "updated_at": "2026-03-04T13:16:58Z"
+    },
+    {
+      "id": 1132392761,
+      "full_name": "tzachbon/smart-ralph",
+      "html_url": "https://github.com/tzachbon/smart-ralph",
+      "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.",
+      "stars": 231,
+      "forks": 13,
+      "language": "Shell",
+      "pushed_at": "2026-03-04T11:55:51Z",
+      "updated_at": "2026-03-04T12:40:55Z"
+    },
+    {
+      "id": 1112283364,
+      "full_name": "dorcha-inc/orla",
+      "html_url": "https://github.com/dorcha-inc/orla",
+      "description": "A high performance execution engine for open-source agents ",
+      "stars": 205,
+      "forks": 5,
       "language": "Go",
-      "pushed_at": "2026-03-04T08:56:58Z",
-      "updated_at": "2026-03-04T08:57:03Z"
+      "pushed_at": "2026-03-04T12:48:02Z",
+      "updated_at": "2026-03-04T12:48:06Z"
+    },
+    {
+      "id": 803836942,
+      "full_name": "lotos-linux/hypr-dock",
+      "html_url": "https://github.com/lotos-linux/hypr-dock",
+      "description": "Interactive Dock Panel for Hyprland",
+      "stars": 176,
+      "forks": 10,
+      "language": "Go",
+      "pushed_at": "2026-03-04T13:18:10Z",
+      "updated_at": "2026-03-04T13:18:16Z"
     }
   ]
 }
