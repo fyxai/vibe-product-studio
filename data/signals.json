@@ -8,39 +8,6 @@
   "total_found": 688,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 118195,
-      "forks": 12776,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-07T11:05:35Z",
-      "updated_at": "2026-03-07T13:38:02Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 22511,
-      "forks": 2413,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-07T13:36:10Z",
-      "updated_at": "2026-03-07T13:35:58Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17850,
-      "forks": 1520,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-07T12:33:11Z",
-      "updated_at": "2026-03-07T12:57:31Z"
-    },
-    {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
@@ -48,74 +15,52 @@
       "stars": 12600,
       "forks": 770,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T13:42:30Z",
-      "updated_at": "2026-03-07T13:42:34Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5022,
-      "forks": 292,
-      "language": "Vala",
-      "pushed_at": "2026-03-07T11:11:56Z",
-      "updated_at": "2026-03-07T11:12:00Z"
-    },
-    {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4245,
-      "forks": 846,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-07T13:41:10Z",
-      "updated_at": "2026-03-07T13:43:52Z"
+      "pushed_at": "2026-03-07T16:06:06Z",
+      "updated_at": "2026-03-07T16:06:10Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 3981,
-      "forks": 227,
+      "stars": 4084,
+      "forks": 230,
       "language": "Rust",
-      "pushed_at": "2026-03-07T12:17:25Z",
-      "updated_at": "2026-03-07T13:39:06Z"
+      "pushed_at": "2026-03-07T15:07:15Z",
+      "updated_at": "2026-03-07T16:53:47Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3552,
+      "stars": 3551,
       "forks": 741,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T12:48:20Z",
-      "updated_at": "2026-03-07T13:26:57Z"
+      "pushed_at": "2026-03-07T16:39:41Z",
+      "updated_at": "2026-03-07T16:39:13Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3339,
-      "forks": 160,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-07T13:43:42Z",
-      "updated_at": "2026-03-07T13:43:47Z"
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3032,
+      "forks": 980,
+      "language": "C++",
+      "pushed_at": "2026-03-07T16:42:44Z",
+      "updated_at": "2026-03-07T14:43:01Z"
     },
     {
-      "id": 751038600,
-      "full_name": "tach-org/tach",
-      "html_url": "https://github.com/tach-org/tach",
-      "description": "A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust",
-      "stars": 2662,
-      "forks": 82,
-      "language": "Rust",
-      "pushed_at": "2026-03-07T10:51:17Z",
-      "updated_at": "2026-03-07T11:02:32Z"
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1854,
+      "forks": 88,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-07T14:41:08Z",
+      "updated_at": "2026-03-07T14:41:13Z"
     },
     {
       "id": 257400448,
@@ -125,8 +70,8 @@
       "stars": 1724,
       "forks": 104,
       "language": "Go",
-      "pushed_at": "2026-03-07T13:36:47Z",
-      "updated_at": "2026-03-07T12:23:58Z"
+      "pushed_at": "2026-03-07T13:58:35Z",
+      "updated_at": "2026-03-07T13:54:45Z"
     },
     {
       "id": 349950689,
@@ -134,32 +79,76 @@
       "html_url": "https://github.com/FancyWM/fancywm",
       "description": "FancyWM - Dynamic Tiling Window Manager for Windows",
       "stars": 1076,
-      "forks": 41,
+      "forks": 42,
       "language": "C#",
-      "pushed_at": "2026-03-07T12:07:06Z",
-      "updated_at": "2026-03-07T12:07:06Z"
+      "pushed_at": "2026-03-07T14:08:10Z",
+      "updated_at": "2026-03-07T14:08:14Z"
     },
     {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
-      "stars": 655,
-      "forks": 32,
-      "language": "Python",
-      "pushed_at": "2026-03-07T12:01:35Z",
-      "updated_at": "2026-03-07T12:01:39Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 793,
+      "forks": 11,
+      "language": "Swift",
+      "pushed_at": "2026-03-07T15:32:20Z",
+      "updated_at": "2026-03-07T16:03:34Z"
     },
     {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
-      "stars": 604,
-      "forks": 38,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-07T10:45:20Z",
-      "updated_at": "2026-03-07T10:38:03Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 540,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-03-07T14:20:58Z",
+      "updated_at": "2026-03-07T14:21:02Z"
+    },
+    {
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 463,
+      "forks": 31,
+      "language": "Rust",
+      "pushed_at": "2026-03-07T15:56:59Z",
+      "updated_at": "2026-03-07T15:57:02Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 407,
+      "forks": 62,
+      "language": "Go",
+      "pushed_at": "2026-03-07T15:07:47Z",
+      "updated_at": "2026-03-07T14:20:45Z"
+    },
+    {
+      "id": 1164725227,
+      "full_name": "aspasskiy/GoGogot",
+      "html_url": "https://github.com/aspasskiy/GoGogot",
+      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "stars": 390,
+      "forks": 0,
+      "language": "Go",
+      "pushed_at": "2026-03-07T16:38:08Z",
+      "updated_at": "2026-03-07T16:38:11Z"
+    },
+    {
+      "id": 689740171,
+      "full_name": "pivoshenko/catppuccin-startpage",
+      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
+      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+      "stars": 289,
+      "forks": 311,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-07T15:53:43Z",
+      "updated_at": "2026-03-07T15:48:11Z"
     },
     {
       "id": 1126665558,
@@ -171,6 +160,17 @@
       "language": "TypeScript",
       "pushed_at": "2026-03-07T13:48:04Z",
       "updated_at": "2026-03-07T13:48:07Z"
+    },
+    {
+      "id": 854514249,
+      "full_name": "aload0/Reef",
+      "html_url": "https://github.com/aload0/Reef",
+      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
+      "stars": 212,
+      "forks": 19,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-07T14:18:52Z",
+      "updated_at": "2026-03-07T14:18:56Z"
     }
   ]
 }
