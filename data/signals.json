@@ -12,55 +12,22 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 65324,
-      "forks": 8110,
+      "stars": 65834,
+      "forks": 8171,
       "language": "JavaScript",
-      "pushed_at": "2026-03-08T04:26:28Z",
-      "updated_at": "2026-03-08T05:01:09Z"
-    },
-    {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, cross-platform terminal for seamless workflows",
-      "stars": 17920,
-      "forks": 800,
-      "language": "Go",
-      "pushed_at": "2026-03-07T22:09:42Z",
-      "updated_at": "2026-03-08T04:26:37Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17858,
-      "forks": 1521,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-07T21:34:08Z",
-      "updated_at": "2026-03-08T02:25:13Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13339,
-      "forks": 390,
-      "language": "Rust",
-      "pushed_at": "2026-03-08T00:21:36Z",
-      "updated_at": "2026-03-08T04:32:21Z"
+      "pushed_at": "2026-03-08T06:45:49Z",
+      "updated_at": "2026-03-08T08:59:16Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 12603,
+      "stars": 12605,
       "forks": 770,
       "language": "TypeScript",
       "pushed_at": "2026-03-08T03:16:03Z",
-      "updated_at": "2026-03-08T03:16:07Z"
+      "updated_at": "2026-03-08T07:59:29Z"
     },
     {
       "id": 592882602,
@@ -78,77 +45,44 @@
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6686,
+      "stars": 6691,
       "forks": 165,
       "language": "C++",
       "pushed_at": "2026-03-08T04:54:50Z",
-      "updated_at": "2026-03-08T03:44:16Z"
+      "updated_at": "2026-03-08T08:52:03Z"
     },
     {
       "id": 475337801,
       "full_name": "massCodeIO/massCode",
       "html_url": "https://github.com/massCodeIO/massCode",
       "description": "A free and open source code snippet manager for developers",
-      "stars": 6651,
-      "forks": 247,
+      "stars": 6652,
+      "forks": 248,
       "language": "TypeScript",
-      "pushed_at": "2026-03-08T02:01:13Z",
-      "updated_at": "2026-03-08T02:01:16Z"
+      "pushed_at": "2026-03-08T06:51:42Z",
+      "updated_at": "2026-03-08T07:57:02Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3343,
-      "forks": 160,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-08T01:55:48Z",
-      "updated_at": "2026-03-08T03:30:03Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 4461,
+      "forks": 251,
+      "language": "Rust",
+      "pushed_at": "2026-03-08T08:42:43Z",
+      "updated_at": "2026-03-08T08:53:29Z"
     },
     {
       "id": 925501678,
       "full_name": "supreme-gg-gg/instagram-cli",
       "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
       "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
-      "stars": 1647,
+      "stars": 1649,
       "forks": 105,
       "language": "TypeScript",
-      "pushed_at": "2026-03-08T03:43:20Z",
-      "updated_at": "2026-03-08T04:12:17Z"
-    },
-    {
-      "id": 1073337396,
-      "full_name": "jeremylongshore/claude-code-plugins-plus-skills",
-      "html_url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
-      "description": "270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0",
-      "stars": 1539,
-      "forks": 186,
-      "language": "Python",
-      "pushed_at": "2026-03-08T00:36:09Z",
-      "updated_at": "2026-03-08T03:29:01Z"
-    },
-    {
-      "id": 837514404,
-      "full_name": "SnapXL/SnapX",
-      "html_url": "https://github.com/SnapXL/SnapX",
-      "description": "SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork",
-      "stars": 818,
-      "forks": 16,
-      "language": "C#",
-      "pushed_at": "2026-03-08T01:01:57Z",
-      "updated_at": "2026-03-08T01:02:01Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
-      "stars": 656,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-03-08T02:23:51Z",
-      "updated_at": "2026-03-08T02:23:55Z"
+      "pushed_at": "2026-03-08T07:16:37Z",
+      "updated_at": "2026-03-08T08:13:44Z"
     },
     {
       "id": 1111978380,
@@ -162,6 +96,39 @@
       "updated_at": "2026-03-08T04:38:24Z"
     },
     {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 378,
+      "forks": 24,
+      "language": "Shell",
+      "pushed_at": "2026-03-08T08:24:55Z",
+      "updated_at": "2026-03-08T08:24:50Z"
+    },
+    {
+      "id": 163642755,
+      "full_name": "cuongtk8/awesome-linux-apps",
+      "html_url": "https://github.com/cuongtk8/awesome-linux-apps",
+      "description": "🚀 A list of awesome applications for 🐧 Linux distributions.",
+      "stars": 217,
+      "forks": 32,
+      "language": "Unknown",
+      "pushed_at": "2026-03-08T06:44:15Z",
+      "updated_at": "2026-03-08T06:53:10Z"
+    },
+    {
+      "id": 16852661,
+      "full_name": "emad-elsaid/xlog",
+      "html_url": "https://github.com/emad-elsaid/xlog",
+      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
+      "stars": 204,
+      "forks": 22,
+      "language": "Go",
+      "pushed_at": "2026-03-08T08:32:46Z",
+      "updated_at": "2026-03-08T08:32:50Z"
+    },
+    {
       "id": 1027092197,
       "full_name": "shinpr/ai-coding-project-boilerplate",
       "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
@@ -169,8 +136,41 @@
       "stars": 182,
       "forks": 19,
       "language": "JavaScript",
-      "pushed_at": "2026-03-08T02:37:47Z",
-      "updated_at": "2026-03-08T02:37:48Z"
+      "pushed_at": "2026-03-08T07:39:01Z",
+      "updated_at": "2026-03-08T07:38:00Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 172,
+      "forks": 34,
+      "language": "Unknown",
+      "pushed_at": "2026-03-08T07:54:04Z",
+      "updated_at": "2026-03-08T07:53:28Z"
+    },
+    {
+      "id": 994302918,
+      "full_name": "Diraw/AI-Screenshot-Translator",
+      "html_url": "https://github.com/Diraw/AI-Screenshot-Translator",
+      "description": "🚀全新重构！论文阅读工具，一键截图AI翻译，支持数学公式，贴片截图，窗口锁定，归档管理",
+      "stars": 140,
+      "forks": 19,
+      "language": "C",
+      "pushed_at": "2026-03-08T08:45:31Z",
+      "updated_at": "2026-03-08T08:45:35Z"
+    },
+    {
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 103,
+      "forks": 4,
+      "language": "CSS",
+      "pushed_at": "2026-03-08T08:38:58Z",
+      "updated_at": "2026-03-08T08:39:01Z"
     }
   ]
 }
