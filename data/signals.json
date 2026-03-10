@@ -8,17 +8,6 @@
   "total_found": 694,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42346,
-      "forks": 2625,
-      "language": "C#",
-      "pushed_at": "2026-03-10T14:50:50Z",
-      "updated_at": "2026-03-10T17:34:48Z"
-    },
-    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
@@ -34,11 +23,11 @@
       "full_name": "Lissy93/dashy",
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24191,
+      "stars": 24195,
       "forks": 1775,
       "language": "Vue",
       "pushed_at": "2026-03-10T16:11:15Z",
-      "updated_at": "2026-03-10T17:02:13Z"
+      "updated_at": "2026-03-10T20:38:47Z"
     },
     {
       "id": 501045649,
@@ -48,7 +37,7 @@
       "stars": 17980,
       "forks": 800,
       "language": "Go",
-      "pushed_at": "2026-03-10T16:38:04Z",
+      "pushed_at": "2026-03-10T18:27:04Z",
       "updated_at": "2026-03-10T17:22:03Z"
     },
     {
@@ -56,22 +45,11 @@
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17896,
+      "stars": 17895,
       "forks": 1527,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T15:17:42Z",
-      "updated_at": "2026-03-10T17:54:11Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14129,
-      "forks": 573,
-      "language": "C#",
-      "pushed_at": "2026-03-10T15:29:54Z",
-      "updated_at": "2026-03-10T17:35:24Z"
+      "pushed_at": "2026-03-10T21:00:04Z",
+      "updated_at": "2026-03-10T21:00:10Z"
     },
     {
       "id": 665613753,
@@ -81,19 +59,19 @@
       "stars": 10220,
       "forks": 1228,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T15:45:13Z",
-      "updated_at": "2026-03-10T16:47:06Z"
+      "pushed_at": "2026-03-10T20:49:31Z",
+      "updated_at": "2026-03-10T20:49:35Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 5829,
+      "stars": 5855,
       "forks": 314,
       "language": "Rust",
-      "pushed_at": "2026-03-10T17:42:08Z",
-      "updated_at": "2026-03-10T18:02:35Z"
+      "pushed_at": "2026-03-10T20:43:12Z",
+      "updated_at": "2026-03-10T20:58:13Z"
     },
     {
       "id": 129699403,
@@ -103,52 +81,74 @@
       "stars": 5573,
       "forks": 703,
       "language": "Swift",
-      "pushed_at": "2026-03-10T17:32:22Z",
-      "updated_at": "2026-03-10T17:44:01Z"
+      "pushed_at": "2026-03-10T21:02:13Z",
+      "updated_at": "2026-03-10T20:47:52Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3361,
-      "forks": 161,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-10T17:35:48Z",
-      "updated_at": "2026-03-10T17:04:50Z"
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5006,
+      "forks": 433,
+      "language": "Rust",
+      "pushed_at": "2026-03-10T19:04:31Z",
+      "updated_at": "2026-03-10T18:29:51Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3559,
+      "forks": 744,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-10T20:53:45Z",
+      "updated_at": "2026-03-10T20:53:07Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3041,
+      "stars": 3042,
       "forks": 982,
       "language": "C++",
-      "pushed_at": "2026-03-10T17:43:53Z",
-      "updated_at": "2026-03-10T16:58:54Z"
+      "pushed_at": "2026-03-10T19:08:44Z",
+      "updated_at": "2026-03-10T20:47:21Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2618,
+      "forks": 175,
+      "language": "Python",
+      "pushed_at": "2026-03-10T19:16:07Z",
+      "updated_at": "2026-03-10T19:52:26Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1436,
-      "forks": 143,
+      "stars": 1441,
+      "forks": 145,
       "language": "Go",
       "pushed_at": "2026-03-10T17:30:56Z",
-      "updated_at": "2026-03-10T18:00:52Z"
+      "updated_at": "2026-03-10T20:41:25Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 1020,
+      "stars": 1025,
       "forks": 90,
       "language": "TypeScript",
       "pushed_at": "2026-03-10T16:37:29Z",
-      "updated_at": "2026-03-10T17:49:21Z"
+      "updated_at": "2026-03-10T19:33:47Z"
     },
     {
       "id": 843554833,
@@ -158,19 +158,19 @@
       "stars": 892,
       "forks": 30,
       "language": "Swift",
-      "pushed_at": "2026-03-10T17:51:34Z",
-      "updated_at": "2026-03-10T17:51:37Z"
+      "pushed_at": "2026-03-10T20:22:39Z",
+      "updated_at": "2026-03-10T20:22:41Z"
     },
     {
-      "id": 1035658478,
-      "full_name": "Bahaaio/pomo",
-      "html_url": "https://github.com/Bahaaio/pomo",
-      "description": "Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.",
-      "stars": 330,
-      "forks": 9,
-      "language": "Go",
-      "pushed_at": "2026-03-10T14:52:00Z",
-      "updated_at": "2026-03-10T16:38:44Z"
+      "id": 1079547517,
+      "full_name": "jezweb/claude-skills",
+      "html_url": "https://github.com/jezweb/claude-skills",
+      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+      "stars": 591,
+      "forks": 45,
+      "language": "Python",
+      "pushed_at": "2026-03-10T19:58:51Z",
+      "updated_at": "2026-03-10T19:58:56Z"
     }
   ]
 }
