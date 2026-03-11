@@ -8,6 +8,17 @@
   "total_found": 695,
   "items": [
     {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 118582,
+      "forks": 12834,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-11T15:51:05Z",
+      "updated_at": "2026-03-11T18:26:05Z"
+    },
+    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
@@ -15,41 +26,41 @@
       "stars": 42360,
       "forks": 2626,
       "language": "C#",
-      "pushed_at": "2026-03-11T14:17:17Z",
-      "updated_at": "2026-03-11T14:17:18Z"
+      "pushed_at": "2026-03-11T15:05:17Z",
+      "updated_at": "2026-03-11T17:35:50Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14137,
-      "forks": 573,
-      "language": "C#",
-      "pushed_at": "2026-03-11T13:51:55Z",
-      "updated_at": "2026-03-11T14:09:11Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 17916,
+      "forks": 1532,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-11T15:00:40Z",
+      "updated_at": "2026-03-11T16:17:23Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10225,
-      "forks": 1231,
+      "stars": 10227,
+      "forks": 1232,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T14:16:22Z",
-      "updated_at": "2026-03-11T13:42:10Z"
+      "pushed_at": "2026-03-11T16:53:20Z",
+      "updated_at": "2026-03-11T18:29:43Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 6166,
-      "forks": 329,
+      "stars": 6211,
+      "forks": 332,
       "language": "Rust",
-      "pushed_at": "2026-03-11T13:10:41Z",
-      "updated_at": "2026-03-11T14:37:13Z"
+      "pushed_at": "2026-03-11T18:19:49Z",
+      "updated_at": "2026-03-11T18:33:07Z"
     },
     {
       "id": 129699403,
@@ -57,120 +68,109 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "A virtual platform team for mobile devs who ship ",
       "stars": 5572,
-      "forks": 703,
+      "forks": 702,
       "language": "Swift",
-      "pushed_at": "2026-03-11T14:32:33Z",
-      "updated_at": "2026-03-11T14:30:40Z"
+      "pushed_at": "2026-03-11T18:34:23Z",
+      "updated_at": "2026-03-11T18:32:23Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5010,
-      "forks": 434,
-      "language": "Rust",
-      "pushed_at": "2026-03-11T13:57:24Z",
-      "updated_at": "2026-03-11T13:50:24Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3562,
-      "forks": 745,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-11T13:12:24Z",
-      "updated_at": "2026-03-11T12:05:32Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3367,
+      "forks": 161,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-11T16:59:53Z",
+      "updated_at": "2026-03-11T16:59:58Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3046,
+      "stars": 3048,
       "forks": 982,
       "language": "C++",
-      "pushed_at": "2026-03-11T14:24:12Z",
-      "updated_at": "2026-03-11T13:29:17Z"
+      "pushed_at": "2026-03-11T18:20:30Z",
+      "updated_at": "2026-03-11T17:20:28Z"
     },
     {
-      "id": 1119754832,
-      "full_name": "OlaProeis/Ferrite",
-      "html_url": "https://github.com/OlaProeis/Ferrite",
-      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
-      "stars": 1268,
-      "forks": 54,
-      "language": "Rust",
-      "pushed_at": "2026-03-11T14:26:03Z",
-      "updated_at": "2026-03-11T14:26:05Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 542,
-      "forks": 72,
-      "language": "C#",
-      "pushed_at": "2026-03-11T13:07:11Z",
-      "updated_at": "2026-03-11T13:07:14Z"
-    },
-    {
-      "id": 992325192,
-      "full_name": "joinly-ai/joinly",
-      "html_url": "https://github.com/joinly-ai/joinly",
-      "description": "Make your meetings accessible to AI Agents",
-      "stars": 466,
-      "forks": 72,
-      "language": "Python",
-      "pushed_at": "2026-03-11T14:01:41Z",
-      "updated_at": "2026-03-11T13:02:00Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 313,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-11T13:12:01Z",
-      "updated_at": "2026-03-11T13:44:58Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "dorcha-inc/orla",
-      "html_url": "https://github.com/dorcha-inc/orla",
-      "description": "A high performance execution engine for open-source agents ",
-      "stars": 206,
-      "forks": 5,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1464,
+      "forks": 146,
       "language": "Go",
-      "pushed_at": "2026-03-11T12:58:20Z",
-      "updated_at": "2026-03-11T13:13:41Z"
+      "pushed_at": "2026-03-11T15:59:10Z",
+      "updated_at": "2026-03-11T16:48:42Z"
     },
     {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-11T12:49:23Z",
-      "updated_at": "2026-03-11T12:49:27Z"
-    },
-    {
-      "id": 1150833483,
-      "full_name": "0xMassi/stik_app",
-      "html_url": "https://github.com/0xMassi/stik_app",
-      "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
-      "stars": 142,
-      "forks": 4,
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 1078,
+      "forks": 100,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T13:00:23Z",
-      "updated_at": "2026-03-11T13:00:27Z"
+      "pushed_at": "2026-03-11T18:24:02Z",
+      "updated_at": "2026-03-11T18:24:07Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 981,
+      "forks": 85,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-11T15:01:42Z",
+      "updated_at": "2026-03-11T16:26:26Z"
+    },
+    {
+      "id": 378725581,
+      "full_name": "translate-tools/linguist",
+      "html_url": "https://github.com/translate-tools/linguist",
+      "description": "Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline",
+      "stars": 950,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-11T16:52:52Z",
+      "updated_at": "2026-03-11T16:51:00Z"
+    },
+    {
+      "id": 843554833,
+      "full_name": "Shopify/tophat",
+      "html_url": "https://github.com/Shopify/tophat",
+      "description": "Easily install and test mobile applications with a single click.",
+      "stars": 892,
+      "forks": 30,
+      "language": "Swift",
+      "pushed_at": "2026-03-11T18:14:53Z",
+      "updated_at": "2026-03-11T18:14:56Z"
+    },
+    {
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Efficiently control your mouse with keyboard inputs for a completely mouseless experience.",
+      "stars": 695,
+      "forks": 30,
+      "language": "Java",
+      "pushed_at": "2026-03-11T18:27:37Z",
+      "updated_at": "2026-03-11T18:27:52Z"
+    },
+    {
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 659,
+      "forks": 42,
+      "language": "Python",
+      "pushed_at": "2026-03-11T16:29:10Z",
+      "updated_at": "2026-03-11T16:29:14Z"
     }
   ]
 }
