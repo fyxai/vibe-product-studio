@@ -12,55 +12,66 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 118649,
-      "forks": 12850,
+      "stars": 118658,
+      "forks": 12849,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T11:48:46Z",
-      "updated_at": "2026-03-12T14:27:13Z"
+      "pushed_at": "2026-03-12T16:32:15Z",
+      "updated_at": "2026-03-12T18:08:55Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10230,
-      "forks": 1231,
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 73197,
+      "forks": 9168,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-12T17:32:19Z",
+      "updated_at": "2026-03-12T18:09:20Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42378,
+      "forks": 2628,
+      "language": "C#",
+      "pushed_at": "2026-03-12T16:27:24Z",
+      "updated_at": "2026-03-12T17:25:28Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24212,
+      "forks": 1776,
+      "language": "Vue",
+      "pushed_at": "2026-03-12T17:45:53Z",
+      "updated_at": "2026-03-12T18:05:15Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 18020,
+      "forks": 804,
+      "language": "Go",
+      "pushed_at": "2026-03-12T17:46:00Z",
+      "updated_at": "2026-03-12T18:04:07Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9141,
+      "forks": 777,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T14:20:38Z",
-      "updated_at": "2026-03-12T13:59:11Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6751,
-      "forks": 166,
-      "language": "C++",
-      "pushed_at": "2026-03-12T14:11:14Z",
-      "updated_at": "2026-03-12T14:11:20Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 6437,
-      "forks": 353,
-      "language": "Rust",
-      "pushed_at": "2026-03-12T14:36:20Z",
-      "updated_at": "2026-03-12T14:32:26Z"
-    },
-    {
-      "id": 52319036,
-      "full_name": "passbolt/passbolt_api",
-      "html_url": "https://github.com/passbolt/passbolt_api",
-      "description": "Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!",
-      "stars": 5693,
-      "forks": 377,
-      "language": "PHP",
-      "pushed_at": "2026-03-12T11:41:09Z",
-      "updated_at": "2026-03-12T14:04:06Z"
+      "pushed_at": "2026-03-12T18:00:05Z",
+      "updated_at": "2026-03-12T18:07:09Z"
     },
     {
       "id": 129699403,
@@ -70,8 +81,52 @@
       "stars": 5572,
       "forks": 705,
       "language": "Swift",
-      "pushed_at": "2026-03-12T14:35:27Z",
-      "updated_at": "2026-03-12T14:13:12Z"
+      "pushed_at": "2026-03-12T18:10:04Z",
+      "updated_at": "2026-03-12T17:58:47Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5014,
+      "forks": 602,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-12T17:31:26Z",
+      "updated_at": "2026-03-12T17:31:32Z"
+    },
+    {
+      "id": 1083188349,
+      "full_name": "RICHQAQ/PasteMD",
+      "html_url": "https://github.com/RICHQAQ/PasteMD",
+      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
+      "stars": 4349,
+      "forks": 272,
+      "language": "Python",
+      "pushed_at": "2026-03-12T16:52:58Z",
+      "updated_at": "2026-03-12T16:53:01Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3566,
+      "forks": 747,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-12T18:04:18Z",
+      "updated_at": "2026-03-12T16:28:51Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3369,
+      "forks": 161,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-12T16:37:10Z",
+      "updated_at": "2026-03-12T16:37:14Z"
     },
     {
       "id": 300155217,
@@ -81,52 +136,8 @@
       "stars": 3051,
       "forks": 983,
       "language": "C++",
-      "pushed_at": "2026-03-12T14:36:04Z",
-      "updated_at": "2026-03-12T14:36:07Z"
-    },
-    {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
-      "stars": 2532,
-      "forks": 243,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-12T14:04:12Z",
-      "updated_at": "2026-03-12T14:04:17Z"
-    },
-    {
-      "id": 217049587,
-      "full_name": "alan-ai/alan-sdk-web",
-      "html_url": "https://github.com/alan-ai/alan-sdk-web",
-      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
-      "stars": 2437,
-      "forks": 105,
-      "language": "Unknown",
-      "pushed_at": "2026-03-12T12:56:29Z",
-      "updated_at": "2026-03-12T12:56:32Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1774,
-      "forks": 131,
-      "language": "Dart",
-      "pushed_at": "2026-03-12T14:37:10Z",
-      "updated_at": "2026-03-12T14:36:35Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1013,
-      "forks": 27,
-      "language": "Rust",
-      "pushed_at": "2026-03-12T14:02:35Z",
-      "updated_at": "2026-03-12T14:00:48Z"
+      "pushed_at": "2026-03-12T17:54:51Z",
+      "updated_at": "2026-03-12T16:56:30Z"
     },
     {
       "id": 843554833,
@@ -136,19 +147,19 @@
       "stars": 892,
       "forks": 30,
       "language": "Swift",
-      "pushed_at": "2026-03-12T14:28:44Z",
-      "updated_at": "2026-03-12T14:28:47Z"
+      "pushed_at": "2026-03-12T16:46:08Z",
+      "updated_at": "2026-03-12T16:46:10Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 715,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-03-12T11:34:01Z",
-      "updated_at": "2026-03-12T11:35:21Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 840,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-03-12T17:50:02Z",
+      "updated_at": "2026-03-12T17:50:07Z"
     },
     {
       "id": 1112283364,
@@ -156,21 +167,10 @@
       "html_url": "https://github.com/dorcha-inc/orla",
       "description": "A high performance execution engine for open-source agents ",
       "stars": 206,
-      "forks": 5,
+      "forks": 6,
       "language": "Go",
-      "pushed_at": "2026-03-12T13:22:32Z",
-      "updated_at": "2026-03-12T13:22:36Z"
-    },
-    {
-      "id": 168433850,
-      "full_name": "jamestomasino/stutter",
-      "html_url": "https://github.com/jamestomasino/stutter",
-      "description": "RSVP for browsers",
-      "stars": 167,
-      "forks": 13,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-12T12:29:23Z",
-      "updated_at": "2026-03-12T12:29:26Z"
+      "pushed_at": "2026-03-12T18:01:27Z",
+      "updated_at": "2026-03-12T18:01:31Z"
     }
   ]
 }
