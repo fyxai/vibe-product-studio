@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 697,
+  "total_found": 701,
   "items": [
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 35848,
-      "forks": 3619,
+      "stars": 35850,
+      "forks": 3620,
       "language": "C#",
-      "pushed_at": "2026-03-12T18:39:14Z",
-      "updated_at": "2026-03-12T19:29:56Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24457,
-      "forks": 2263,
-      "language": "Python",
-      "pushed_at": "2026-03-12T20:55:15Z",
-      "updated_at": "2026-03-12T18:52:22Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24213,
-      "forks": 1776,
-      "language": "Vue",
-      "pushed_at": "2026-03-12T17:45:53Z",
-      "updated_at": "2026-03-12T18:27:14Z"
+      "pushed_at": "2026-03-13T00:25:46Z",
+      "updated_at": "2026-03-13T00:28:58Z"
     },
     {
       "id": 501045649,
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 18031,
+      "stars": 18054,
       "forks": 804,
       "language": "Go",
-      "pushed_at": "2026-03-12T19:40:40Z",
-      "updated_at": "2026-03-12T20:58:01Z"
+      "pushed_at": "2026-03-13T00:56:20Z",
+      "updated_at": "2026-03-13T04:57:21Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14153,
+      "forks": 574,
+      "language": "C#",
+      "pushed_at": "2026-03-13T02:39:44Z",
+      "updated_at": "2026-03-13T02:12:51Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13815,
+      "forks": 935,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-13T04:39:08Z",
+      "updated_at": "2026-03-13T04:18:57Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12657,
+      "forks": 774,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-13T03:14:39Z",
+      "updated_at": "2026-03-13T05:00:39Z"
     },
     {
       "id": 665613753,
@@ -59,118 +70,107 @@
       "stars": 10230,
       "forks": 1232,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T20:56:19Z",
-      "updated_at": "2026-03-12T20:23:58Z"
+      "pushed_at": "2026-03-13T00:37:24Z",
+      "updated_at": "2026-03-13T00:35:34Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9150,
-      "forks": 776,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6767,
+      "forks": 166,
+      "language": "C++",
+      "pushed_at": "2026-03-13T00:28:22Z",
+      "updated_at": "2026-03-13T04:21:23Z"
+    },
+    {
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free and open source code snippet manager for developers",
+      "stars": 6660,
+      "forks": 248,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T18:43:13Z",
-      "updated_at": "2026-03-12T20:50:52Z"
+      "pushed_at": "2026-03-13T05:01:26Z",
+      "updated_at": "2026-03-13T05:01:27Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 6499,
-      "forks": 357,
-      "language": "Rust",
-      "pushed_at": "2026-03-12T19:26:55Z",
-      "updated_at": "2026-03-12T21:00:59Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1497,
+      "forks": 149,
+      "language": "Go",
+      "pushed_at": "2026-03-13T00:58:47Z",
+      "updated_at": "2026-03-13T04:58:32Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5572,
-      "forks": 705,
-      "language": "Swift",
-      "pushed_at": "2026-03-12T18:23:47Z",
-      "updated_at": "2026-03-12T17:58:47Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5014,
-      "forks": 602,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-12T20:55:42Z",
-      "updated_at": "2026-03-12T20:23:11Z"
+      "id": 1118483478,
+      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
+      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
+      "description": "The agent skills I actually keep around.",
+      "stars": 925,
+      "forks": 101,
+      "language": "Python",
+      "pushed_at": "2026-03-13T04:24:55Z",
+      "updated_at": "2026-03-13T04:24:59Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 841,
+      "stars": 855,
       "forks": 14,
       "language": "Swift",
-      "pushed_at": "2026-03-12T19:40:06Z",
-      "updated_at": "2026-03-12T19:40:30Z"
+      "pushed_at": "2026-03-13T01:49:52Z",
+      "updated_at": "2026-03-13T04:03:04Z"
     },
     {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐",
-      "stars": 664,
-      "forks": 36,
-      "language": "Shell",
-      "pushed_at": "2026-03-12T19:57:38Z",
-      "updated_at": "2026-03-12T20:38:24Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "dorcha-inc/orla",
-      "html_url": "https://github.com/dorcha-inc/orla",
-      "description": "A high performance execution engine for open-source agents ",
-      "stars": 206,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-03-12T18:01:27Z",
-      "updated_at": "2026-03-12T18:01:31Z"
-    },
-    {
-      "id": 168433850,
-      "full_name": "jamestomasino/stutter",
-      "html_url": "https://github.com/jamestomasino/stutter",
-      "description": "RSVP for browsers",
-      "stars": 167,
-      "forks": 13,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-12T17:47:03Z",
-      "updated_at": "2026-03-12T17:47:07Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 159,
-      "forks": 56,
+      "id": 1079547517,
+      "full_name": "jezweb/claude-skills",
+      "html_url": "https://github.com/jezweb/claude-skills",
+      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+      "stars": 598,
+      "forks": 46,
       "language": "Python",
-      "pushed_at": "2026-03-12T18:32:50Z",
-      "updated_at": "2026-03-12T18:32:04Z"
+      "pushed_at": "2026-03-13T03:27:31Z",
+      "updated_at": "2026-03-13T03:27:34Z"
     },
     {
-      "id": 943441588,
-      "full_name": "sushaantu/boxento",
-      "html_url": "https://github.com/sushaantu/boxento",
-      "description": "Open-source customizable start page ",
-      "stars": 153,
-      "forks": 12,
+      "id": 88267809,
+      "full_name": "wmjordan/Codist",
+      "html_url": "https://github.com/wmjordan/Codist",
+      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
+      "stars": 384,
+      "forks": 34,
+      "language": "C#",
+      "pushed_at": "2026-03-13T03:32:07Z",
+      "updated_at": "2026-03-13T03:32:12Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 324,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T17:48:23Z",
-      "updated_at": "2026-03-12T17:48:26Z"
+      "pushed_at": "2026-03-13T04:20:36Z",
+      "updated_at": "2026-03-13T03:45:29Z"
+    },
+    {
+      "id": 920960456,
+      "full_name": "anig1scur/tocify",
+      "html_url": "https://github.com/anig1scur/tocify",
+      "description": "Add or edit PDF bookmarks / Table of Contents (ToCs) online - 快速给 PDF 添加目录 / 书签",
+      "stars": 171,
+      "forks": 4,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-13T04:50:49Z",
+      "updated_at": "2026-03-13T04:50:53Z"
     }
   ]
 }
