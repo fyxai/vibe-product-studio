@@ -5,40 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 701,
+  "total_found": 702,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 74396,
-      "forks": 9299,
+      "stars": 74570,
+      "forks": 9323,
       "language": "JavaScript",
-      "pushed_at": "2026-03-13T13:05:53Z",
-      "updated_at": "2026-03-13T14:29:47Z"
+      "pushed_at": "2026-03-13T16:37:23Z",
+      "updated_at": "2026-03-13T17:52:26Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42389,
-      "forks": 2629,
-      "language": "C#",
-      "pushed_at": "2026-03-13T14:22:08Z",
-      "updated_at": "2026-03-13T14:22:15Z"
+      "id": 253222599,
+      "full_name": "CorentinTh/it-tools",
+      "html_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. ",
+      "stars": 37548,
+      "forks": 4687,
+      "language": "Vue",
+      "pushed_at": "2026-03-13T16:18:15Z",
+      "updated_at": "2026-03-13T17:28:25Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 22824,
+      "forks": 2444,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-13T16:00:56Z",
+      "updated_at": "2026-03-13T16:13:29Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 18088,
+      "forks": 803,
+      "language": "Go",
+      "pushed_at": "2026-03-13T16:11:19Z",
+      "updated_at": "2026-03-13T16:32:44Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17945,
-      "forks": 1536,
+      "stars": 17947,
+      "forks": 1538,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T14:06:43Z",
-      "updated_at": "2026-03-13T13:51:35Z"
+      "pushed_at": "2026-03-13T15:45:14Z",
+      "updated_at": "2026-03-13T17:40:20Z"
     },
     {
       "id": 665613753,
@@ -48,41 +70,41 @@
       "stars": 10231,
       "forks": 1232,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T13:32:13Z",
-      "updated_at": "2026-03-13T13:21:32Z"
+      "pushed_at": "2026-03-13T16:23:00Z",
+      "updated_at": "2026-03-13T16:13:23Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9193,
+      "forks": 784,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-13T17:40:26Z",
+      "updated_at": "2026-03-13T16:45:53Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 6933,
-      "forks": 379,
+      "stars": 7055,
+      "forks": 382,
       "language": "Rust",
-      "pushed_at": "2026-03-13T14:29:05Z",
-      "updated_at": "2026-03-13T14:30:04Z"
+      "pushed_at": "2026-03-13T16:24:34Z",
+      "updated_at": "2026-03-13T17:53:12Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6773,
-      "forks": 166,
+      "stars": 6776,
+      "forks": 167,
       "language": "C++",
-      "pushed_at": "2026-03-13T14:00:45Z",
-      "updated_at": "2026-03-13T14:25:34Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free and open source code snippet manager for developers",
-      "stars": 6662,
-      "forks": 247,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-13T13:02:06Z",
-      "updated_at": "2026-03-13T14:20:25Z"
+      "pushed_at": "2026-03-13T17:47:56Z",
+      "updated_at": "2026-03-13T17:34:10Z"
     },
     {
       "id": 129699403,
@@ -92,30 +114,41 @@
       "stars": 5573,
       "forks": 705,
       "language": "Swift",
-      "pushed_at": "2026-03-13T14:27:18Z",
-      "updated_at": "2026-03-13T14:23:42Z"
+      "pushed_at": "2026-03-13T17:46:36Z",
+      "updated_at": "2026-03-13T17:46:27Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5018,
+      "stars": 5019,
       "forks": 602,
       "language": "Kotlin",
-      "pushed_at": "2026-03-13T14:22:33Z",
-      "updated_at": "2026-03-13T14:22:37Z"
+      "pushed_at": "2026-03-13T17:22:50Z",
+      "updated_at": "2026-03-13T17:22:53Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4329,
-      "forks": 97,
-      "language": "Rust",
-      "pushed_at": "2026-03-13T13:24:46Z",
-      "updated_at": "2026-03-13T13:24:48Z"
+      "id": 222709217,
+      "full_name": "wmariuss/awesome-devops",
+      "html_url": "https://github.com/wmariuss/awesome-devops",
+      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+      "stars": 3969,
+      "forks": 784,
+      "language": "Python",
+      "pushed_at": "2026-03-13T17:23:15Z",
+      "updated_at": "2026-03-13T17:23:01Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3104,
+      "forks": 142,
+      "language": "Gherkin",
+      "pushed_at": "2026-03-13T15:32:10Z",
+      "updated_at": "2026-03-13T15:32:13Z"
     },
     {
       "id": 300155217,
@@ -125,52 +158,19 @@
       "stars": 3053,
       "forks": 985,
       "language": "C++",
-      "pushed_at": "2026-03-13T14:14:08Z",
-      "updated_at": "2026-03-13T13:52:59Z"
+      "pushed_at": "2026-03-13T16:43:53Z",
+      "updated_at": "2026-03-13T15:46:41Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 2118,
-      "forks": 216,
+      "id": 217049587,
+      "full_name": "alan-ai/alan-sdk-web",
+      "html_url": "https://github.com/alan-ai/alan-sdk-web",
+      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
+      "stars": 2437,
+      "forks": 105,
       "language": "Unknown",
-      "pushed_at": "2026-03-13T13:43:27Z",
-      "updated_at": "2026-03-13T14:29:59Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1015,
-      "forks": 27,
-      "language": "Rust",
-      "pushed_at": "2026-03-13T13:24:59Z",
-      "updated_at": "2026-03-13T13:25:02Z"
-    },
-    {
-      "id": 1118483478,
-      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
-      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
-      "description": "my curated agent skills library ",
-      "stars": 927,
-      "forks": 101,
-      "language": "Python",
-      "pushed_at": "2026-03-13T12:51:42Z",
-      "updated_at": "2026-03-13T12:51:45Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 862,
-      "forks": 14,
-      "language": "Swift",
-      "pushed_at": "2026-03-13T13:43:31Z",
-      "updated_at": "2026-03-13T13:43:35Z"
+      "pushed_at": "2026-03-13T17:17:44Z",
+      "updated_at": "2026-03-13T17:17:47Z"
     }
   ]
 }
