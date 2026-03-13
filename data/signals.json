@@ -5,117 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 702,
+  "total_found": 704,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 74570,
-      "forks": 9323,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-13T16:37:23Z",
-      "updated_at": "2026-03-13T17:52:26Z"
-    },
-    {
-      "id": 253222599,
-      "full_name": "CorentinTh/it-tools",
-      "html_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. ",
-      "stars": 37548,
-      "forks": 4687,
-      "language": "Vue",
-      "pushed_at": "2026-03-13T16:18:15Z",
-      "updated_at": "2026-03-13T17:28:25Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 35859,
+      "forks": 3623,
+      "language": "C#",
+      "pushed_at": "2026-03-13T19:55:28Z",
+      "updated_at": "2026-03-13T20:38:37Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 22824,
+      "stars": 22826,
       "forks": 2444,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T16:00:56Z",
-      "updated_at": "2026-03-13T16:13:29Z"
+      "pushed_at": "2026-03-13T20:54:04Z",
+      "updated_at": "2026-03-13T21:37:00Z"
     },
     {
       "id": 501045649,
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 18088,
+      "stars": 18094,
       "forks": 803,
       "language": "Go",
-      "pushed_at": "2026-03-13T16:11:19Z",
-      "updated_at": "2026-03-13T16:32:44Z"
+      "pushed_at": "2026-03-13T21:09:43Z",
+      "updated_at": "2026-03-13T21:32:18Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17947,
+      "stars": 17948,
       "forks": 1538,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T15:45:14Z",
-      "updated_at": "2026-03-13T17:40:20Z"
+      "pushed_at": "2026-03-13T20:10:35Z",
+      "updated_at": "2026-03-13T21:22:01Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10231,
-      "forks": 1232,
+      "id": 1052845083,
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 9858,
+      "forks": 1391,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T16:23:00Z",
-      "updated_at": "2026-03-13T16:13:23Z"
+      "pushed_at": "2026-03-13T19:44:36Z",
+      "updated_at": "2026-03-13T21:45:02Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9193,
-      "forks": 784,
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 8868,
+      "forks": 560,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T17:40:26Z",
-      "updated_at": "2026-03-13T16:45:53Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 7055,
-      "forks": 382,
-      "language": "Rust",
-      "pushed_at": "2026-03-13T16:24:34Z",
-      "updated_at": "2026-03-13T17:53:12Z"
+      "pushed_at": "2026-03-13T19:30:17Z",
+      "updated_at": "2026-03-13T21:36:09Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6776,
+      "stars": 6775,
       "forks": 167,
       "language": "C++",
-      "pushed_at": "2026-03-13T17:47:56Z",
-      "updated_at": "2026-03-13T17:34:10Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5573,
-      "forks": 705,
-      "language": "Swift",
-      "pushed_at": "2026-03-13T17:46:36Z",
-      "updated_at": "2026-03-13T17:46:27Z"
+      "pushed_at": "2026-03-13T20:58:51Z",
+      "updated_at": "2026-03-13T21:26:23Z"
     },
     {
       "id": 11512043,
@@ -125,52 +92,85 @@
       "stars": 5019,
       "forks": 602,
       "language": "Kotlin",
-      "pushed_at": "2026-03-13T17:22:50Z",
-      "updated_at": "2026-03-13T17:22:53Z"
+      "pushed_at": "2026-03-13T21:17:45Z",
+      "updated_at": "2026-03-13T21:17:50Z"
     },
     {
-      "id": 222709217,
-      "full_name": "wmariuss/awesome-devops",
-      "html_url": "https://github.com/wmariuss/awesome-devops",
-      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
-      "stars": 3969,
-      "forks": 784,
-      "language": "Python",
-      "pushed_at": "2026-03-13T17:23:15Z",
-      "updated_at": "2026-03-13T17:23:01Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4258,
+      "forks": 854,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-13T19:45:24Z",
+      "updated_at": "2026-03-13T19:45:29Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3104,
-      "forks": 142,
-      "language": "Gherkin",
-      "pushed_at": "2026-03-13T15:32:10Z",
-      "updated_at": "2026-03-13T15:32:13Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3053,
-      "forks": 985,
-      "language": "C++",
-      "pushed_at": "2026-03-13T16:43:53Z",
-      "updated_at": "2026-03-13T15:46:41Z"
-    },
-    {
-      "id": 217049587,
-      "full_name": "alan-ai/alan-sdk-web",
-      "html_url": "https://github.com/alan-ai/alan-sdk-web",
-      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
-      "stars": 2437,
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1732,
       "forks": 105,
-      "language": "Unknown",
-      "pushed_at": "2026-03-13T17:17:44Z",
-      "updated_at": "2026-03-13T17:17:47Z"
+      "language": "Go",
+      "pushed_at": "2026-03-13T21:39:10Z",
+      "updated_at": "2026-03-13T21:00:09Z"
+    },
+    {
+      "id": 1118483478,
+      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
+      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
+      "description": "my curated agent skills library ",
+      "stars": 927,
+      "forks": 101,
+      "language": "Python",
+      "pushed_at": "2026-03-13T20:58:10Z",
+      "updated_at": "2026-03-13T20:58:15Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 871,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-03-13T19:47:26Z",
+      "updated_at": "2026-03-13T20:29:57Z"
+    },
+    {
+      "id": 1079547517,
+      "full_name": "jezweb/claude-skills",
+      "html_url": "https://github.com/jezweb/claude-skills",
+      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+      "stars": 602,
+      "forks": 47,
+      "language": "Python",
+      "pushed_at": "2026-03-13T20:34:50Z",
+      "updated_at": "2026-03-13T20:52:53Z"
+    },
+    {
+      "id": 1035658478,
+      "full_name": "Bahaaio/pomo",
+      "html_url": "https://github.com/Bahaaio/pomo",
+      "description": "Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.",
+      "stars": 332,
+      "forks": 9,
+      "language": "Go",
+      "pushed_at": "2026-03-13T21:33:32Z",
+      "updated_at": "2026-03-13T21:33:35Z"
+    },
+    {
+      "id": 105088940,
+      "full_name": "sorenlouv/backport",
+      "html_url": "https://github.com/sorenlouv/backport",
+      "description": "A simple CLI tool that automates the process of backporting commits on a GitHub repo",
+      "stars": 273,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-13T21:07:55Z",
+      "updated_at": "2026-03-13T20:40:36Z"
     }
   ]
 }
