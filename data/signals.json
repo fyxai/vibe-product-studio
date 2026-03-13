@@ -12,44 +12,33 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 74140,
-      "forks": 9271,
+      "stars": 74396,
+      "forks": 9299,
       "language": "JavaScript",
-      "pushed_at": "2026-03-13T09:14:40Z",
-      "updated_at": "2026-03-13T09:57:59Z"
+      "pushed_at": "2026-03-13T13:05:53Z",
+      "updated_at": "2026-03-13T14:29:47Z"
     },
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24215,
-      "forks": 1777,
-      "language": "Vue",
-      "pushed_at": "2026-03-13T09:27:15Z",
-      "updated_at": "2026-03-13T09:23:32Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 22814,
-      "forks": 2444,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-13T08:43:40Z",
-      "updated_at": "2026-03-13T09:56:00Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14154,
-      "forks": 574,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42389,
+      "forks": 2629,
       "language": "C#",
-      "pushed_at": "2026-03-13T09:03:30Z",
-      "updated_at": "2026-03-13T09:18:02Z"
+      "pushed_at": "2026-03-13T14:22:08Z",
+      "updated_at": "2026-03-13T14:22:15Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 17945,
+      "forks": 1536,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-13T14:06:43Z",
+      "updated_at": "2026-03-13T13:51:35Z"
     },
     {
       "id": 665613753,
@@ -59,41 +48,41 @@
       "stars": 10231,
       "forks": 1232,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T09:03:26Z",
-      "updated_at": "2026-03-13T08:55:40Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9174,
-      "forks": 780,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-13T08:28:34Z",
-      "updated_at": "2026-03-13T08:55:57Z"
+      "pushed_at": "2026-03-13T13:32:13Z",
+      "updated_at": "2026-03-13T13:21:32Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 6663,
-      "forks": 368,
+      "stars": 6933,
+      "forks": 379,
       "language": "Rust",
-      "pushed_at": "2026-03-13T09:48:42Z",
-      "updated_at": "2026-03-13T09:58:42Z"
+      "pushed_at": "2026-03-13T14:29:05Z",
+      "updated_at": "2026-03-13T14:30:04Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6773,
+      "forks": 166,
+      "language": "C++",
+      "pushed_at": "2026-03-13T14:00:45Z",
+      "updated_at": "2026-03-13T14:25:34Z"
     },
     {
       "id": 475337801,
       "full_name": "massCodeIO/massCode",
       "html_url": "https://github.com/massCodeIO/massCode",
       "description": "A free and open source code snippet manager for developers",
-      "stars": 6661,
-      "forks": 248,
+      "stars": 6662,
+      "forks": 247,
       "language": "TypeScript",
-      "pushed_at": "2026-03-13T08:38:21Z",
-      "updated_at": "2026-03-13T08:38:23Z"
+      "pushed_at": "2026-03-13T13:02:06Z",
+      "updated_at": "2026-03-13T14:20:25Z"
     },
     {
       "id": 129699403,
@@ -103,8 +92,30 @@
       "stars": 5573,
       "forks": 705,
       "language": "Swift",
-      "pushed_at": "2026-03-13T09:56:54Z",
-      "updated_at": "2026-03-13T09:34:19Z"
+      "pushed_at": "2026-03-13T14:27:18Z",
+      "updated_at": "2026-03-13T14:23:42Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5018,
+      "forks": 602,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-13T14:22:33Z",
+      "updated_at": "2026-03-13T14:22:37Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4329,
+      "forks": 97,
+      "language": "Rust",
+      "pushed_at": "2026-03-13T13:24:46Z",
+      "updated_at": "2026-03-13T13:24:48Z"
     },
     {
       "id": 300155217,
@@ -114,63 +125,52 @@
       "stars": 3053,
       "forks": 985,
       "language": "C++",
-      "pushed_at": "2026-03-13T09:48:54Z",
-      "updated_at": "2026-03-13T09:48:57Z"
+      "pushed_at": "2026-03-13T14:14:08Z",
+      "updated_at": "2026-03-13T13:52:59Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1731,
-      "forks": 105,
-      "language": "Go",
-      "pushed_at": "2026-03-13T09:45:31Z",
-      "updated_at": "2026-03-13T09:41:36Z"
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 2118,
+      "forks": 216,
+      "language": "Unknown",
+      "pushed_at": "2026-03-13T13:43:27Z",
+      "updated_at": "2026-03-13T14:29:59Z"
     },
     {
-      "id": 1119754832,
-      "full_name": "OlaProeis/Ferrite",
-      "html_url": "https://github.com/OlaProeis/Ferrite",
-      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
-      "stars": 1275,
-      "forks": 55,
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1015,
+      "forks": 27,
       "language": "Rust",
-      "pushed_at": "2026-03-13T09:25:25Z",
-      "updated_at": "2026-03-13T09:34:50Z"
+      "pushed_at": "2026-03-13T13:24:59Z",
+      "updated_at": "2026-03-13T13:25:02Z"
     },
     {
       "id": 1118483478,
       "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
       "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
       "description": "my curated agent skills library ",
-      "stars": 926,
+      "stars": 927,
       "forks": 101,
       "language": "Python",
-      "pushed_at": "2026-03-13T08:45:16Z",
-      "updated_at": "2026-03-13T08:45:20Z"
+      "pushed_at": "2026-03-13T12:51:42Z",
+      "updated_at": "2026-03-13T12:51:45Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 325,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-13T09:31:45Z",
-      "updated_at": "2026-03-13T09:44:39Z"
-    },
-    {
-      "id": 854514249,
-      "full_name": "aload0/Reef",
-      "html_url": "https://github.com/aload0/Reef",
-      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
-      "stars": 221,
-      "forks": 22,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-13T08:01:31Z",
-      "updated_at": "2026-03-13T08:01:37Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 862,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-03-13T13:43:31Z",
+      "updated_at": "2026-03-13T13:43:35Z"
     }
   ]
 }
