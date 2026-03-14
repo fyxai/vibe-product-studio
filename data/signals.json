@@ -8,158 +8,158 @@
   "total_found": 707,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 118711,
-      "forks": 12864,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-14T12:12:49Z",
-      "updated_at": "2026-03-14T13:55:15Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17956,
+      "stars": 17960,
       "forks": 1539,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T12:07:31Z",
-      "updated_at": "2026-03-14T13:51:09Z"
+      "pushed_at": "2026-03-14T14:51:33Z",
+      "updated_at": "2026-03-14T16:46:22Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14167,
+      "forks": 574,
+      "language": "C#",
+      "pushed_at": "2026-03-14T15:30:56Z",
+      "updated_at": "2026-03-14T16:03:24Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 12663,
+      "stars": 12665,
       "forks": 774,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T09:04:30Z",
-      "updated_at": "2026-03-14T09:04:33Z"
+      "pushed_at": "2026-03-14T16:14:47Z",
+      "updated_at": "2026-03-14T16:14:50Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9234,
+      "forks": 788,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-14T16:27:13Z",
+      "updated_at": "2026-03-14T16:14:36Z"
+    },
+    {
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8195,
+      "forks": 915,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-14T14:46:04Z",
+      "updated_at": "2026-03-14T14:45:17Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5021,
+      "forks": 603,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-14T15:23:10Z",
+      "updated_at": "2026-03-14T15:23:15Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5014,
+      "forks": 435,
+      "language": "Rust",
+      "pushed_at": "2026-03-14T16:48:42Z",
+      "updated_at": "2026-03-14T16:48:42Z"
     },
     {
       "id": 19825320,
       "full_name": "git-town/git-town",
       "html_url": "https://github.com/git-town/git-town",
       "description": "Git branches made easy",
-      "stars": 3105,
+      "stars": 3107,
       "forks": 142,
       "language": "Gherkin",
-      "pushed_at": "2026-03-14T13:23:50Z",
-      "updated_at": "2026-03-14T11:46:51Z"
+      "pushed_at": "2026-03-14T14:32:38Z",
+      "updated_at": "2026-03-14T15:26:13Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3054,
+      "stars": 3055,
       "forks": 986,
       "language": "C++",
-      "pushed_at": "2026-03-14T13:28:52Z",
-      "updated_at": "2026-03-14T11:02:48Z"
-    },
-    {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1858,
-      "forks": 88,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-14T11:11:21Z",
-      "updated_at": "2026-03-14T11:14:08Z"
+      "pushed_at": "2026-03-14T16:36:47Z",
+      "updated_at": "2026-03-14T16:34:52Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1516,
+      "stars": 1518,
       "forks": 152,
       "language": "Go",
       "pushed_at": "2026-03-14T13:49:56Z",
-      "updated_at": "2026-03-14T13:41:57Z"
+      "updated_at": "2026-03-14T16:23:35Z"
     },
     {
-      "id": 1118483478,
-      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
-      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
-      "description": "my curated agent skills library ",
-      "stars": 930,
-      "forks": 101,
-      "language": "Python",
-      "pushed_at": "2026-03-14T10:59:25Z",
-      "updated_at": "2026-03-14T13:53:22Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 715,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-03-14T11:22:17Z",
-      "updated_at": "2026-03-14T11:22:22Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "A modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 523,
-      "forks": 12,
-      "language": "Swift",
-      "pushed_at": "2026-03-14T10:02:21Z",
-      "updated_at": "2026-03-14T13:43:47Z"
-    },
-    {
-      "id": 1150496175,
-      "full_name": "mergisi/awesome-openclaw-agents",
-      "html_url": "https://github.com/mergisi/awesome-openclaw-agents",
-      "description": "103 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
-      "stars": 367,
-      "forks": 62,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-14T12:52:17Z",
-      "updated_at": "2026-03-14T13:44:56Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 622,
+      "forks": 33,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T09:56:08Z",
-      "updated_at": "2026-03-14T09:56:11Z"
+      "pushed_at": "2026-03-14T14:59:32Z",
+      "updated_at": "2026-03-14T15:21:31Z"
     },
     {
-      "id": 854514249,
-      "full_name": "aload0/Reef",
-      "html_url": "https://github.com/aload0/Reef",
-      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
-      "stars": 221,
-      "forks": 22,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-14T13:09:58Z",
-      "updated_at": "2026-03-14T13:10:02Z"
-    },
-    {
-      "id": 16852661,
-      "full_name": "emad-elsaid/xlog",
-      "html_url": "https://github.com/emad-elsaid/xlog",
-      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
-      "stars": 204,
-      "forks": 22,
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 412,
+      "forks": 62,
       "language": "Go",
-      "pushed_at": "2026-03-14T13:15:27Z",
-      "updated_at": "2026-03-14T13:15:31Z"
+      "pushed_at": "2026-03-14T14:32:49Z",
+      "updated_at": "2026-03-14T14:19:17Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 381,
+      "forks": 44,
+      "language": "PHP",
+      "pushed_at": "2026-03-14T14:47:56Z",
+      "updated_at": "2026-03-14T14:45:42Z"
+    },
+    {
+      "id": 820101145,
+      "full_name": "0xstepit/flow.nvim",
+      "html_url": "https://github.com/0xstepit/flow.nvim",
+      "description": "A flow-immersive Nvim colorscheme with fluorescent details.",
+      "stars": 284,
+      "forks": 9,
+      "language": "Lua",
+      "pushed_at": "2026-03-14T16:18:19Z",
+      "updated_at": "2026-03-14T16:17:47Z"
     },
     {
       "id": 1140897918,
@@ -169,8 +169,8 @@
       "stars": 181,
       "forks": 20,
       "language": "Python",
-      "pushed_at": "2026-03-14T12:40:14Z",
-      "updated_at": "2026-03-14T12:39:52Z"
+      "pushed_at": "2026-03-14T14:53:39Z",
+      "updated_at": "2026-03-14T14:53:42Z"
     }
   ]
 }
