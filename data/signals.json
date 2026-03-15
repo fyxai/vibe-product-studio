@@ -5,29 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 707,
+  "total_found": 708,
   "items": [
     {
       "id": 291137,
       "full_name": "ohmyzsh/ohmyzsh",
       "html_url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185357,
-      "forks": 26318,
+      "stars": 185371,
+      "forks": 26319,
       "language": "Shell",
       "pushed_at": "2026-03-15T12:52:21Z",
-      "updated_at": "2026-03-15T13:58:19Z"
+      "updated_at": "2026-03-15T16:45:09Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42416,
+      "forks": 2636,
+      "language": "C#",
+      "pushed_at": "2026-03-15T16:45:29Z",
+      "updated_at": "2026-03-15T16:53:39Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24237,
+      "forks": 1777,
+      "language": "Vue",
+      "pushed_at": "2026-03-15T15:43:59Z",
+      "updated_at": "2026-03-15T16:24:44Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17975,
+      "stars": 17978,
       "forks": 1540,
       "language": "TypeScript",
-      "pushed_at": "2026-03-15T12:51:40Z",
-      "updated_at": "2026-03-15T13:17:08Z"
+      "pushed_at": "2026-03-15T16:12:40Z",
+      "updated_at": "2026-03-15T16:38:03Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14172,
+      "forks": 575,
+      "language": "C#",
+      "pushed_at": "2026-03-15T15:14:26Z",
+      "updated_at": "2026-03-15T15:14:30Z"
     },
     {
       "id": 665613753,
@@ -37,19 +70,41 @@
       "stars": 10239,
       "forks": 1233,
       "language": "TypeScript",
-      "pushed_at": "2026-03-15T12:52:25Z",
-      "updated_at": "2026-03-15T12:52:29Z"
+      "pushed_at": "2026-03-15T16:56:11Z",
+      "updated_at": "2026-03-15T16:31:46Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 7853,
-      "forks": 430,
+      "stars": 7919,
+      "forks": 433,
       "language": "Rust",
       "pushed_at": "2026-03-15T13:28:56Z",
-      "updated_at": "2026-03-15T13:57:06Z"
+      "updated_at": "2026-03-15T16:57:50Z"
+    },
+    {
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 5836,
+      "forks": 302,
+      "language": "Swift",
+      "pushed_at": "2026-03-15T14:53:40Z",
+      "updated_at": "2026-03-15T14:53:43Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5575,
+      "forks": 707,
+      "language": "Swift",
+      "pushed_at": "2026-03-15T16:03:55Z",
+      "updated_at": "2026-03-15T14:09:34Z"
     },
     {
       "id": 11512043,
@@ -59,41 +114,30 @@
       "stars": 5023,
       "forks": 603,
       "language": "Kotlin",
-      "pushed_at": "2026-03-15T12:11:22Z",
-      "updated_at": "2026-03-15T12:11:27Z"
+      "pushed_at": "2026-03-15T17:01:19Z",
+      "updated_at": "2026-03-15T17:01:24Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3378,
+      "stars": 3379,
       "forks": 161,
       "language": "Kotlin",
       "pushed_at": "2026-03-15T13:05:44Z",
-      "updated_at": "2026-03-15T13:05:48Z"
+      "updated_at": "2026-03-15T16:08:08Z"
     },
     {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1857,
-      "forks": 88,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T10:49:22Z",
-      "updated_at": "2026-03-15T13:54:35Z"
-    },
-    {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
-      "stars": 1687,
-      "forks": 107,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T10:33:28Z",
-      "updated_at": "2026-03-15T13:06:18Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 901,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-03-15T16:57:56Z",
+      "updated_at": "2026-03-15T17:00:24Z"
     },
     {
       "id": 919664598,
@@ -107,70 +151,26 @@
       "updated_at": "2026-03-15T12:43:59Z"
     },
     {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 15 plugins, 35 agents, and 32 skills · for Claude Code, OpenCode, Codex, cursor, kiro.",
-      "stars": 596,
-      "forks": 59,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-15T12:03:00Z",
-      "updated_at": "2026-03-15T12:03:02Z"
-    },
-    {
-      "id": 208359230,
-      "full_name": "TTLApp/time-to-leave",
-      "html_url": "https://github.com/TTLApp/time-to-leave",
-      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
-      "stars": 485,
-      "forks": 278,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-15T12:28:40Z",
-      "updated_at": "2026-03-15T12:28:44Z"
-    },
-    {
-      "id": 1150496175,
-      "full_name": "mergisi/awesome-openclaw-agents",
-      "html_url": "https://github.com/mergisi/awesome-openclaw-agents",
-      "description": "103 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
-      "stars": 410,
-      "forks": 71,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-15T12:30:22Z",
-      "updated_at": "2026-03-15T13:35:57Z"
-    },
-    {
-      "id": 1113746923,
-      "full_name": "kriuchkov/tock",
-      "html_url": "https://github.com/kriuchkov/tock",
-      "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 378,
-      "forks": 17,
-      "language": "Go",
-      "pushed_at": "2026-03-15T13:43:37Z",
-      "updated_at": "2026-03-15T13:43:15Z"
-    },
-    {
-      "id": 105088940,
-      "full_name": "sorenlouv/backport",
-      "html_url": "https://github.com/sorenlouv/backport",
-      "description": "A simple CLI tool that automates the process of backporting commits on a GitHub repo",
-      "stars": 273,
-      "forks": 68,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T11:49:11Z",
-      "updated_at": "2026-03-15T11:49:14Z"
-    },
-    {
-      "id": 1140897918,
-      "full_name": "kbanc85/claudia",
-      "html_url": "https://github.com/kbanc85/claudia",
-      "description": "Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.",
-      "stars": 181,
-      "forks": 20,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 716,
+      "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-03-15T13:30:56Z",
-      "updated_at": "2026-03-15T13:30:58Z"
+      "pushed_at": "2026-03-15T16:42:53Z",
+      "updated_at": "2026-03-15T16:42:57Z"
+    },
+    {
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐",
+      "stars": 674,
+      "forks": 37,
+      "language": "Shell",
+      "pushed_at": "2026-03-15T16:07:04Z",
+      "updated_at": "2026-03-15T16:19:17Z"
     }
   ]
 }
