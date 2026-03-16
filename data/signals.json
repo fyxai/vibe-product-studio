@@ -5,95 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 708,
+  "total_found": 711,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 118827,
-      "forks": 12876,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T19:19:30Z",
-      "updated_at": "2026-03-15T20:33:38Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42417,
-      "forks": 2636,
-      "language": "C#",
-      "pushed_at": "2026-03-15T16:45:29Z",
-      "updated_at": "2026-03-15T18:28:32Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17978,
-      "forks": 1540,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T18:20:52Z",
-      "updated_at": "2026-03-15T19:38:50Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14172,
-      "forks": 575,
-      "language": "C#",
-      "pushed_at": "2026-03-15T17:29:19Z",
-      "updated_at": "2026-03-15T17:29:21Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10240,
-      "forks": 1233,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T18:12:51Z",
-      "updated_at": "2026-03-15T18:51:02Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9259,
-      "forks": 790,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T18:19:52Z",
-      "updated_at": "2026-03-15T20:24:34Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5024,
-      "forks": 603,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-15T17:49:53Z",
-      "updated_at": "2026-03-15T18:35:22Z"
-    },
-    {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
-      "stars": 4802,
-      "forks": 339,
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 78264,
+      "forks": 9921,
       "language": "JavaScript",
-      "pushed_at": "2026-03-15T20:32:06Z",
-      "updated_at": "2026-03-15T20:51:43Z"
+      "pushed_at": "2026-03-16T04:47:39Z",
+      "updated_at": "2026-03-16T05:58:55Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 34224,
+      "forks": 742,
+      "language": "Rust",
+      "pushed_at": "2026-03-16T05:44:11Z",
+      "updated_at": "2026-03-16T05:58:52Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13828,
+      "forks": 933,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T05:56:35Z",
+      "updated_at": "2026-03-16T05:22:09Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12672,
+      "forks": 775,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T03:28:17Z",
+      "updated_at": "2026-03-16T03:28:21Z"
+    },
+    {
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4259,
+      "forks": 854,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-16T04:38:07Z",
+      "updated_at": "2026-03-16T04:48:12Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 3892,
+      "forks": 233,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T05:46:29Z",
+      "updated_at": "2026-03-16T05:53:22Z"
     },
     {
       "id": 300155217,
@@ -101,76 +79,98 @@
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
       "stars": 3061,
-      "forks": 986,
+      "forks": 985,
       "language": "C++",
-      "pushed_at": "2026-03-15T20:56:16Z",
-      "updated_at": "2026-03-15T19:51:32Z"
+      "pushed_at": "2026-03-16T05:45:47Z",
+      "updated_at": "2026-03-16T05:38:46Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1777,
-      "forks": 131,
-      "language": "Dart",
-      "pushed_at": "2026-03-15T20:57:12Z",
-      "updated_at": "2026-03-15T20:54:43Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 1236,
-      "forks": 116,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-15T19:47:39Z",
-      "updated_at": "2026-03-15T20:54:50Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2648,
+      "forks": 175,
+      "language": "Python",
+      "pushed_at": "2026-03-16T03:23:05Z",
+      "updated_at": "2026-03-16T04:49:45Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 912,
+      "stars": 918,
       "forks": 14,
       "language": "Swift",
-      "pushed_at": "2026-03-15T18:36:29Z",
-      "updated_at": "2026-03-15T20:41:13Z"
+      "pushed_at": "2026-03-16T05:21:52Z",
+      "updated_at": "2026-03-16T05:36:10Z"
+    },
+    {
+      "id": 837514404,
+      "full_name": "SnapXL/SnapX",
+      "html_url": "https://github.com/SnapXL/SnapX",
+      "description": "SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork",
+      "stars": 845,
+      "forks": 15,
+      "language": "C#",
+      "pushed_at": "2026-03-16T03:34:40Z",
+      "updated_at": "2026-03-16T05:43:18Z"
     },
     {
       "id": 860188605,
       "full_name": "iwe-org/iwe",
       "html_url": "https://github.com/iwe-org/iwe",
       "description": "Markdown knowledge based management for your favorite text editor & AI agents ",
-      "stars": 734,
+      "stars": 733,
       "forks": 25,
       "language": "Rust",
-      "pushed_at": "2026-03-15T20:14:49Z",
-      "updated_at": "2026-03-15T20:13:16Z"
+      "pushed_at": "2026-03-16T01:43:04Z",
+      "updated_at": "2026-03-16T01:41:24Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 716,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-03-15T16:42:53Z",
-      "updated_at": "2026-03-15T16:42:57Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 623,
-      "forks": 33,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 339,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-03-15T17:08:52Z",
-      "updated_at": "2026-03-15T19:40:12Z"
+      "pushed_at": "2026-03-16T05:34:08Z",
+      "updated_at": "2026-03-16T05:34:11Z"
+    },
+    {
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 201,
+      "forks": 9,
+      "language": "Go",
+      "pushed_at": "2026-03-16T02:11:33Z",
+      "updated_at": "2026-03-16T02:11:36Z"
+    },
+    {
+      "id": 714280515,
+      "full_name": "ever-works/awesome-time-tracking",
+      "html_url": "https://github.com/ever-works/awesome-time-tracking",
+      "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.works",
+      "stars": 159,
+      "forks": 8,
+      "language": "Unknown",
+      "pushed_at": "2026-03-16T05:58:49Z",
+      "updated_at": "2026-03-16T05:58:53Z"
+    },
+    {
+      "id": 270276040,
+      "full_name": "pycontribs/mk",
+      "html_url": "https://github.com/pycontribs/mk",
+      "description": "mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!",
+      "stars": 122,
+      "forks": 11,
+      "language": "Python",
+      "pushed_at": "2026-03-16T05:40:33Z",
+      "updated_at": "2026-03-16T01:45:39Z"
     }
   ]
 }
