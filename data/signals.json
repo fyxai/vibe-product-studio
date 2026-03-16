@@ -5,84 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 712,
+  "total_found": 714,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185409,
-      "forks": 26317,
-      "language": "Shell",
-      "pushed_at": "2026-03-16T11:00:44Z",
-      "updated_at": "2026-03-16T11:00:52Z"
-    },
-    {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 79049,
-      "forks": 10078,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-16T08:59:53Z",
-      "updated_at": "2026-03-16T11:13:16Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 17989,
-      "forks": 1540,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 118887,
+      "forks": 12884,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T09:22:56Z",
-      "updated_at": "2026-03-16T09:32:31Z"
+      "pushed_at": "2026-03-16T15:08:22Z",
+      "updated_at": "2026-03-16T15:36:07Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13833,
-      "forks": 934,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T08:08:00Z",
-      "updated_at": "2026-03-16T09:41:20Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10241,
-      "forks": 1234,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T11:09:43Z",
-      "updated_at": "2026-03-16T11:09:48Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9267,
-      "forks": 790,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T10:14:24Z",
-      "updated_at": "2026-03-16T10:24:57Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24467,
+      "forks": 2265,
+      "language": "Python",
+      "pushed_at": "2026-03-16T15:38:05Z",
+      "updated_at": "2026-03-16T15:21:35Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 8197,
-      "forks": 446,
+      "stars": 8456,
+      "forks": 456,
       "language": "Rust",
-      "pushed_at": "2026-03-16T11:11:05Z",
-      "updated_at": "2026-03-16T11:11:08Z"
+      "pushed_at": "2026-03-16T14:15:46Z",
+      "updated_at": "2026-03-16T15:44:22Z"
     },
     {
       "id": 129699403,
@@ -92,30 +48,30 @@
       "stars": 5575,
       "forks": 707,
       "language": "Swift",
-      "pushed_at": "2026-03-16T11:11:14Z",
-      "updated_at": "2026-03-16T11:11:05Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5054,
-      "forks": 293,
-      "language": "Vala",
-      "pushed_at": "2026-03-16T09:32:34Z",
-      "updated_at": "2026-03-16T09:32:38Z"
+      "pushed_at": "2026-03-16T15:37:25Z",
+      "updated_at": "2026-03-16T15:34:26Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 3923,
+      "stars": 4029,
       "forks": 233,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T09:27:25Z",
-      "updated_at": "2026-03-16T11:12:23Z"
+      "pushed_at": "2026-03-16T15:26:24Z",
+      "updated_at": "2026-03-16T15:42:54Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3577,
+      "forks": 749,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T15:01:32Z",
+      "updated_at": "2026-03-16T13:59:50Z"
     },
     {
       "id": 300155217,
@@ -125,52 +81,96 @@
       "stars": 3061,
       "forks": 985,
       "language": "C++",
-      "pushed_at": "2026-03-16T10:56:58Z",
-      "updated_at": "2026-03-16T10:26:05Z"
+      "pushed_at": "2026-03-16T15:34:45Z",
+      "updated_at": "2026-03-16T14:48:35Z"
     },
     {
-      "id": 500278038,
-      "full_name": "Pool-Of-Tears/GreenStash",
-      "html_url": "https://github.com/Pool-Of-Tears/GreenStash",
-      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
-      "stars": 758,
-      "forks": 65,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-16T09:52:56Z",
-      "updated_at": "2026-03-16T09:51:37Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2652,
+      "forks": 175,
+      "language": "Python",
+      "pushed_at": "2026-03-16T15:44:22Z",
+      "updated_at": "2026-03-16T15:21:34Z"
     },
     {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 15 plugins, 35 agents, and 32 skills · for Claude Code, OpenCode, Codex, cursor, kiro.",
-      "stars": 598,
-      "forks": 60,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-16T09:52:25Z",
-      "updated_at": "2026-03-16T09:52:28Z"
+      "id": 254879070,
+      "full_name": "xpf0000/FlyEnv",
+      "html_url": "https://github.com/xpf0000/FlyEnv",
+      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
+      "stars": 2552,
+      "forks": 246,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T14:01:30Z",
+      "updated_at": "2026-03-16T14:01:59Z"
+    },
+    {
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 2461,
+      "forks": 255,
+      "language": "Unknown",
+      "pushed_at": "2026-03-16T13:38:44Z",
+      "updated_at": "2026-03-16T15:44:54Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1548,
+      "forks": 156,
+      "language": "Go",
+      "pushed_at": "2026-03-16T14:03:00Z",
+      "updated_at": "2026-03-16T15:38:00Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 1436,
+      "forks": 137,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T13:34:48Z",
+      "updated_at": "2026-03-16T15:44:05Z"
+    },
+    {
+      "id": 210626964,
+      "full_name": "totumonline/totum-mit",
+      "html_url": "https://github.com/totumonline/totum-mit",
+      "description": "Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interface.",
+      "stars": 983,
+      "forks": 55,
+      "language": "PHP",
+      "pushed_at": "2026-03-16T13:17:53Z",
+      "updated_at": "2026-03-16T13:17:58Z"
     },
     {
       "id": 1180917769,
       "full_name": "uditgoenka/autoresearch",
       "html_url": "https://github.com/uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 547,
-      "forks": 45,
+      "stars": 638,
+      "forks": 57,
       "language": "Unknown",
-      "pushed_at": "2026-03-16T09:41:17Z",
-      "updated_at": "2026-03-16T11:03:08Z"
+      "pushed_at": "2026-03-16T14:25:28Z",
+      "updated_at": "2026-03-16T15:44:49Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 341,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T09:00:33Z",
-      "updated_at": "2026-03-16T09:00:35Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 381,
+      "forks": 44,
+      "language": "PHP",
+      "pushed_at": "2026-03-16T15:33:10Z",
+      "updated_at": "2026-03-16T15:32:45Z"
     }
   ]
 }
