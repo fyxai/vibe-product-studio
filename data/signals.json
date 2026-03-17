@@ -8,15 +8,26 @@
   "total_found": 716,
   "items": [
     {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 118979,
+      "forks": 12902,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-17T17:06:07Z",
+      "updated_at": "2026-03-17T19:31:39Z"
+    },
+    {
       "id": 66150122,
       "full_name": "jarun/nnn",
       "html_url": "https://github.com/jarun/nnn",
       "description": "n³ The unorthodox terminal file manager",
-      "stars": 21388,
-      "forks": 797,
+      "stars": 21390,
+      "forks": 796,
       "language": "C",
-      "pushed_at": "2026-03-17T13:49:46Z",
-      "updated_at": "2026-03-17T14:47:01Z"
+      "pushed_at": "2026-03-17T16:33:42Z",
+      "updated_at": "2026-03-17T18:44:43Z"
     },
     {
       "id": 665613753,
@@ -26,19 +37,30 @@
       "stars": 10250,
       "forks": 1234,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T13:49:26Z",
-      "updated_at": "2026-03-17T15:26:25Z"
+      "pushed_at": "2026-03-17T18:22:39Z",
+      "updated_at": "2026-03-17T18:18:32Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 9502,
-      "forks": 504,
+      "stars": 9588,
+      "forks": 505,
       "language": "Rust",
-      "pushed_at": "2026-03-17T14:42:14Z",
-      "updated_at": "2026-03-17T15:42:32Z"
+      "pushed_at": "2026-03-17T17:36:40Z",
+      "updated_at": "2026-03-17T19:36:55Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9280,
+      "forks": 789,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-17T15:06:12Z",
+      "updated_at": "2026-03-17T19:27:54Z"
     },
     {
       "id": 129699403,
@@ -48,107 +70,96 @@
       "stars": 5576,
       "forks": 707,
       "language": "Swift",
-      "pushed_at": "2026-03-17T15:30:41Z",
-      "updated_at": "2026-03-17T15:29:41Z"
+      "pushed_at": "2026-03-17T17:31:29Z",
+      "updated_at": "2026-03-17T17:31:20Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5027,
+      "forks": 602,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-17T19:06:59Z",
+      "updated_at": "2026-03-17T19:06:56Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 4434,
-      "forks": 256,
+      "stars": 4446,
+      "forks": 257,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T15:27:53Z",
-      "updated_at": "2026-03-17T15:41:49Z"
+      "pushed_at": "2026-03-17T17:23:32Z",
+      "updated_at": "2026-03-17T18:34:53Z"
     },
     {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
-      "stars": 3935,
-      "forks": 320,
-      "language": "PHP",
-      "pushed_at": "2026-03-17T13:19:58Z",
-      "updated_at": "2026-03-17T13:20:03Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3384,
-      "forks": 162,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-17T15:03:53Z",
-      "updated_at": "2026-03-17T15:04:09Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3065,
-      "forks": 984,
-      "language": "C++",
-      "pushed_at": "2026-03-17T15:14:16Z",
-      "updated_at": "2026-03-17T14:32:58Z"
-    },
-    {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
-      "stars": 2557,
-      "forks": 246,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3581,
+      "forks": 748,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T14:11:33Z",
-      "updated_at": "2026-03-17T14:11:39Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2147,
-      "forks": 82,
-      "language": "Swift",
-      "pushed_at": "2026-03-17T14:28:12Z",
-      "updated_at": "2026-03-17T14:28:20Z"
+      "pushed_at": "2026-03-17T15:56:46Z",
+      "updated_at": "2026-03-17T15:56:01Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse",
-      "stars": 2062,
+      "stars": 2080,
       "forks": 45,
       "language": "Python",
-      "pushed_at": "2026-03-17T13:58:46Z",
-      "updated_at": "2026-03-17T15:28:46Z"
+      "pushed_at": "2026-03-17T19:36:54Z",
+      "updated_at": "2026-03-17T19:36:58Z"
     },
     {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
-      "stars": 1706,
-      "forks": 109,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-17T14:31:54Z",
-      "updated_at": "2026-03-17T15:07:26Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1737,
+      "forks": 105,
+      "language": "Go",
+      "pushed_at": "2026-03-17T18:42:19Z",
+      "updated_at": "2026-03-17T18:38:04Z"
     },
     {
       "id": 1180917769,
       "full_name": "uditgoenka/autoresearch",
       "html_url": "https://github.com/uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1033,
-      "forks": 87,
-      "language": "Unknown",
-      "pushed_at": "2026-03-17T13:42:24Z",
-      "updated_at": "2026-03-17T15:39:59Z"
+      "stars": 1091,
+      "forks": 93,
+      "language": "Shell",
+      "pushed_at": "2026-03-17T19:11:06Z",
+      "updated_at": "2026-03-17T19:33:19Z"
+    },
+    {
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 940,
+      "forks": 214,
+      "language": "Scala",
+      "pushed_at": "2026-03-17T17:13:38Z",
+      "updated_at": "2026-03-17T17:10:51Z"
+    },
+    {
+      "id": 843554833,
+      "full_name": "Shopify/tophat",
+      "html_url": "https://github.com/Shopify/tophat",
+      "description": "Easily install and test mobile applications with a single click.",
+      "stars": 895,
+      "forks": 30,
+      "language": "Swift",
+      "pushed_at": "2026-03-17T18:37:16Z",
+      "updated_at": "2026-03-17T18:37:19Z"
     },
     {
       "id": 1111978380,
@@ -158,19 +169,8 @@
       "stars": 629,
       "forks": 33,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T15:19:01Z",
-      "updated_at": "2026-03-17T15:21:21Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 566,
-      "forks": 14,
-      "language": "Swift",
-      "pushed_at": "2026-03-17T14:15:00Z",
-      "updated_at": "2026-03-17T14:15:04Z"
+      "pushed_at": "2026-03-17T16:58:15Z",
+      "updated_at": "2026-03-17T16:58:18Z"
     }
   ]
 }
