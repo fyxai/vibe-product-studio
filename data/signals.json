@@ -12,55 +12,33 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 118979,
-      "forks": 12902,
+      "stars": 118962,
+      "forks": 12903,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T17:06:07Z",
-      "updated_at": "2026-03-17T19:31:39Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21390,
-      "forks": 796,
-      "language": "C",
-      "pushed_at": "2026-03-17T16:33:42Z",
-      "updated_at": "2026-03-17T18:44:43Z"
+      "pushed_at": "2026-03-17T20:57:47Z",
+      "updated_at": "2026-03-17T21:46:58Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10250,
+      "stars": 10252,
       "forks": 1234,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T18:22:39Z",
-      "updated_at": "2026-03-17T18:18:32Z"
+      "pushed_at": "2026-03-17T21:37:40Z",
+      "updated_at": "2026-03-17T21:02:20Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 9588,
-      "forks": 505,
+      "stars": 9630,
+      "forks": 507,
       "language": "Rust",
-      "pushed_at": "2026-03-17T17:36:40Z",
-      "updated_at": "2026-03-17T19:36:55Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9280,
-      "forks": 789,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-17T15:06:12Z",
-      "updated_at": "2026-03-17T19:27:54Z"
+      "pushed_at": "2026-03-17T21:05:24Z",
+      "updated_at": "2026-03-17T21:52:51Z"
     },
     {
       "id": 129699403,
@@ -70,8 +48,8 @@
       "stars": 5576,
       "forks": 707,
       "language": "Swift",
-      "pushed_at": "2026-03-17T17:31:29Z",
-      "updated_at": "2026-03-17T17:31:20Z"
+      "pushed_at": "2026-03-17T21:20:26Z",
+      "updated_at": "2026-03-17T20:25:03Z"
     },
     {
       "id": 11512043,
@@ -89,33 +67,33 @@
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 4446,
+      "stars": 4449,
       "forks": 257,
       "language": "TypeScript",
       "pushed_at": "2026-03-17T17:23:32Z",
-      "updated_at": "2026-03-17T18:34:53Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3581,
-      "forks": 748,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-17T15:56:46Z",
-      "updated_at": "2026-03-17T15:56:01Z"
+      "updated_at": "2026-03-17T21:42:51Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse",
-      "stars": 2080,
+      "stars": 2085,
       "forks": 45,
       "language": "Python",
-      "pushed_at": "2026-03-17T19:36:54Z",
-      "updated_at": "2026-03-17T19:36:58Z"
+      "pushed_at": "2026-03-17T19:59:20Z",
+      "updated_at": "2026-03-17T21:40:51Z"
+    },
+    {
+      "id": 89766385,
+      "full_name": "cassidoo/todometer",
+      "html_url": "https://github.com/cassidoo/todometer",
+      "description": "A meter-based to-do list",
+      "stars": 2054,
+      "forks": 294,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-17T20:00:06Z",
+      "updated_at": "2026-03-17T20:00:14Z"
     },
     {
       "id": 257400448,
@@ -133,11 +111,11 @@
       "full_name": "uditgoenka/autoresearch",
       "html_url": "https://github.com/uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1091,
-      "forks": 93,
+      "stars": 1114,
+      "forks": 94,
       "language": "Shell",
       "pushed_at": "2026-03-17T19:11:06Z",
-      "updated_at": "2026-03-17T19:33:19Z"
+      "updated_at": "2026-03-17T21:54:16Z"
     },
     {
       "id": 110334159,
@@ -162,6 +140,17 @@
       "updated_at": "2026-03-17T18:37:19Z"
     },
     {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
+      "stars": 659,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-03-17T21:33:07Z",
+      "updated_at": "2026-03-17T21:33:11Z"
+    },
+    {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
@@ -171,6 +160,17 @@
       "language": "TypeScript",
       "pushed_at": "2026-03-17T16:58:15Z",
       "updated_at": "2026-03-17T16:58:18Z"
+    },
+    {
+      "id": 608574029,
+      "full_name": "seratch/ChatGPT-in-Slack",
+      "html_url": "https://github.com/seratch/ChatGPT-in-Slack",
+      "description": "Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot",
+      "stars": 512,
+      "forks": 186,
+      "language": "Python",
+      "pushed_at": "2026-03-17T21:11:15Z",
+      "updated_at": "2026-03-17T21:11:20Z"
     }
   ]
 }
