@@ -8,37 +8,81 @@
   "total_found": 716,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185446,
-      "forks": 26320,
-      "language": "Shell",
-      "pushed_at": "2026-03-18T16:26:47Z",
-      "updated_at": "2026-03-18T19:13:43Z"
-    },
-    {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 119027,
-      "forks": 12916,
+      "stars": 119032,
+      "forks": 12917,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T18:25:22Z",
-      "updated_at": "2026-03-18T19:28:09Z"
+      "pushed_at": "2026-03-18T21:33:27Z",
+      "updated_at": "2026-03-18T21:28:09Z"
+    },
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 85302,
+      "forks": 11140,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-18T21:34:15Z",
+      "updated_at": "2026-03-18T21:50:33Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42460,
+      "forks": 2638,
+      "language": "C#",
+      "pushed_at": "2026-03-18T20:08:16Z",
+      "updated_at": "2026-03-18T20:21:59Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 23083,
+      "stars": 23085,
       "forks": 2469,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T16:42:36Z",
-      "updated_at": "2026-03-18T18:41:10Z"
+      "pushed_at": "2026-03-18T21:29:46Z",
+      "updated_at": "2026-03-18T21:40:31Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 18259,
+      "forks": 811,
+      "language": "Go",
+      "pushed_at": "2026-03-18T21:24:48Z",
+      "updated_at": "2026-03-18T20:34:22Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18028,
+      "forks": 1546,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-18T21:07:10Z",
+      "updated_at": "2026-03-18T21:07:16Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 10295,
+      "forks": 534,
+      "language": "Rust",
+      "pushed_at": "2026-03-18T20:50:26Z",
+      "updated_at": "2026-03-18T21:48:51Z"
     },
     {
       "id": 665613753,
@@ -46,54 +90,32 @@
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
       "stars": 10260,
-      "forks": 1233,
+      "forks": 1232,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T18:25:09Z",
-      "updated_at": "2026-03-18T19:15:49Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 10235,
-      "forks": 530,
-      "language": "Rust",
-      "pushed_at": "2026-03-18T18:08:34Z",
-      "updated_at": "2026-03-18T19:28:45Z"
+      "pushed_at": "2026-03-18T21:49:55Z",
+      "updated_at": "2026-03-18T21:32:58Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 9282,
-      "forks": 789,
+      "stars": 9283,
+      "forks": 790,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T18:03:13Z",
-      "updated_at": "2026-03-18T18:52:20Z"
+      "pushed_at": "2026-03-18T20:04:10Z",
+      "updated_at": "2026-03-18T21:36:41Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6846,
-      "forks": 171,
-      "language": "C++",
-      "pushed_at": "2026-03-18T17:59:54Z",
-      "updated_at": "2026-03-18T18:27:36Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5577,
-      "forks": 708,
-      "language": "Swift",
-      "pushed_at": "2026-03-18T18:41:09Z",
-      "updated_at": "2026-03-18T18:13:03Z"
+      "id": 187916430,
+      "full_name": "muety/wakapi",
+      "html_url": "https://github.com/muety/wakapi",
+      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+      "stars": 4219,
+      "forks": 274,
+      "language": "Go",
+      "pushed_at": "2026-03-18T20:43:47Z",
+      "updated_at": "2026-03-18T21:41:18Z"
     },
     {
       "id": 300155217,
@@ -103,74 +125,52 @@
       "stars": 3067,
       "forks": 984,
       "language": "C++",
-      "pushed_at": "2026-03-18T17:16:38Z",
-      "updated_at": "2026-03-18T16:51:15Z"
+      "pushed_at": "2026-03-18T21:31:26Z",
+      "updated_at": "2026-03-18T21:08:57Z"
+    },
+    {
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 1978,
+      "forks": 205,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-18T21:17:08Z",
+      "updated_at": "2026-03-18T21:17:15Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 1895,
+      "stars": 1902,
       "forks": 187,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T16:16:30Z",
-      "updated_at": "2026-03-18T19:26:58Z"
+      "pushed_at": "2026-03-18T21:33:46Z",
+      "updated_at": "2026-03-18T21:43:49Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1585,
-      "forks": 165,
-      "language": "Go",
-      "pushed_at": "2026-03-18T18:40:56Z",
-      "updated_at": "2026-03-18T19:12:08Z"
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
+      "stars": 659,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-03-18T20:57:59Z",
+      "updated_at": "2026-03-18T20:58:03Z"
     },
     {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization.",
-      "stars": 704,
-      "forks": 30,
-      "language": "Java",
-      "pushed_at": "2026-03-18T16:41:57Z",
-      "updated_at": "2026-03-18T18:19:17Z"
-    },
-    {
-      "id": 105088940,
-      "full_name": "sorenlouv/backport",
-      "html_url": "https://github.com/sorenlouv/backport",
-      "description": "A simple CLI tool that automates the process of backporting commits on a GitHub repo",
-      "stars": 273,
-      "forks": 68,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 635,
+      "forks": 34,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T18:45:46Z",
-      "updated_at": "2026-03-18T18:45:50Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 257,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18T18:14:58Z",
-      "updated_at": "2026-03-18T18:34:57Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "dorcha-inc/orla",
-      "html_url": "https://github.com/dorcha-inc/orla",
-      "description": "A high performance execution engine for open-source agents ",
-      "stars": 206,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-03-18T18:51:58Z",
-      "updated_at": "2026-03-18T18:52:02Z"
+      "pushed_at": "2026-03-18T21:49:33Z",
+      "updated_at": "2026-03-18T21:49:36Z"
     }
   ]
 }
