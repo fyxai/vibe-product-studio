@@ -8,70 +8,81 @@
   "total_found": 722,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185471,
-      "forks": 26322,
-      "language": "Shell",
-      "pushed_at": "2026-03-19T16:05:21Z",
-      "updated_at": "2026-03-19T17:54:52Z"
-    },
-    {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 119108,
-      "forks": 12928,
+      "stars": 119121,
+      "forks": 12930,
       "language": "TypeScript",
-      "pushed_at": "2026-03-19T16:48:00Z",
-      "updated_at": "2026-03-19T17:50:38Z"
+      "pushed_at": "2026-03-19T20:21:01Z",
+      "updated_at": "2026-03-19T21:44:41Z"
     },
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 18354,
-      "forks": 817,
-      "language": "Go",
-      "pushed_at": "2026-03-19T17:18:16Z",
-      "updated_at": "2026-03-19T17:46:09Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42501,
+      "forks": 2639,
+      "language": "C#",
+      "pushed_at": "2026-03-19T20:22:34Z",
+      "updated_at": "2026-03-19T21:20:59Z"
+    },
+    {
+      "id": 396569538,
+      "full_name": "khoj-ai/khoj",
+      "html_url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33498,
+      "forks": 2070,
+      "language": "Python",
+      "pushed_at": "2026-03-19T19:28:44Z",
+      "updated_at": "2026-03-19T21:23:41Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18043,
+      "stars": 18049,
       "forks": 1551,
       "language": "TypeScript",
-      "pushed_at": "2026-03-19T18:05:44Z",
-      "updated_at": "2026-03-19T18:01:47Z"
+      "pushed_at": "2026-03-19T19:43:56Z",
+      "updated_at": "2026-03-19T21:33:28Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 10848,
-      "forks": 559,
+      "stars": 10940,
+      "forks": 564,
       "language": "Rust",
-      "pushed_at": "2026-03-19T17:50:46Z",
-      "updated_at": "2026-03-19T18:09:17Z"
+      "pushed_at": "2026-03-19T20:39:53Z",
+      "updated_at": "2026-03-19T21:49:31Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 5669,
-      "forks": 114,
+      "id": 592882602,
+      "full_name": "MrKai77/Loop",
+      "html_url": "https://github.com/MrKai77/Loop",
+      "description": "Window management made elegant.",
+      "stars": 10245,
+      "forks": 220,
       "language": "Swift",
-      "pushed_at": "2026-03-19T17:17:42Z",
-      "updated_at": "2026-03-19T17:16:37Z"
+      "pushed_at": "2026-03-19T20:33:26Z",
+      "updated_at": "2026-03-19T21:33:28Z"
+    },
+    {
+      "id": 49516849,
+      "full_name": "xwmx/nb",
+      "html_url": "https://github.com/xwmx/nb",
+      "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+      "stars": 8055,
+      "forks": 244,
+      "language": "Shell",
+      "pushed_at": "2026-03-19T19:09:24Z",
+      "updated_at": "2026-03-19T19:08:47Z"
     },
     {
       "id": 129699403,
@@ -81,19 +92,41 @@
       "stars": 5581,
       "forks": 708,
       "language": "Swift",
-      "pushed_at": "2026-03-19T18:07:12Z",
-      "updated_at": "2026-03-19T17:40:51Z"
+      "pushed_at": "2026-03-19T21:12:23Z",
+      "updated_at": "2026-03-19T21:03:41Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5037,
+      "forks": 604,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-19T21:08:32Z",
+      "updated_at": "2026-03-19T21:08:38Z"
     },
     {
       "id": 307192103,
       "full_name": "swiftbar/SwiftBar",
       "html_url": "https://github.com/swiftbar/SwiftBar",
       "description": "Powerful macOS menu bar customization tool",
-      "stars": 3824,
+      "stars": 3826,
       "forks": 113,
       "language": "Swift",
-      "pushed_at": "2026-03-19T17:20:21Z",
-      "updated_at": "2026-03-19T17:21:30Z"
+      "pushed_at": "2026-03-19T21:08:23Z",
+      "updated_at": "2026-03-19T21:08:28Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3585,
+      "forks": 748,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-19T20:13:34Z",
+      "updated_at": "2026-03-19T19:58:44Z"
     },
     {
       "id": 300155217,
@@ -103,74 +136,41 @@
       "stars": 3067,
       "forks": 986,
       "language": "C++",
-      "pushed_at": "2026-03-19T17:38:37Z",
-      "updated_at": "2026-03-19T17:38:39Z"
+      "pushed_at": "2026-03-19T21:08:15Z",
+      "updated_at": "2026-03-19T19:54:52Z"
     },
     {
-      "id": 491202920,
-      "full_name": "mhss1/MyBrain",
-      "html_url": "https://github.com/mhss1/MyBrain",
-      "description": "All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.",
-      "stars": 1920,
-      "forks": 151,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-19T18:06:18Z",
-      "updated_at": "2026-03-19T17:03:24Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 997,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-03-19T17:57:36Z",
-      "updated_at": "2026-03-19T17:57:41Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 721,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-03-19T17:22:08Z",
-      "updated_at": "2026-03-19T17:22:47Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 663,
-      "forks": 42,
-      "language": "Python",
-      "pushed_at": "2026-03-19T17:10:23Z",
-      "updated_at": "2026-03-19T17:17:35Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 640,
-      "forks": 34,
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 1972,
+      "forks": 195,
       "language": "TypeScript",
-      "pushed_at": "2026-03-19T17:40:10Z",
-      "updated_at": "2026-03-19T17:40:14Z"
+      "pushed_at": "2026-03-19T19:46:23Z",
+      "updated_at": "2026-03-19T21:33:41Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 205,
-      "forks": 9,
-      "language": "Go",
-      "pushed_at": "2026-03-19T17:43:20Z",
-      "updated_at": "2026-03-19T17:43:14Z"
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1860,
+      "forks": 89,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-19T21:29:51Z",
+      "updated_at": "2026-03-19T21:29:57Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1782,
+      "forks": 132,
+      "language": "Dart",
+      "pushed_at": "2026-03-19T20:44:39Z",
+      "updated_at": "2026-03-19T20:42:02Z"
     }
   ]
 }
