@@ -15,63 +15,30 @@
       "stars": 24472,
       "forks": 2268,
       "language": "Python",
-      "pushed_at": "2026-03-20T17:34:04Z",
+      "pushed_at": "2026-03-20T20:04:42Z",
       "updated_at": "2026-03-20T17:20:12Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 23595,
-      "forks": 2505,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T16:22:44Z",
-      "updated_at": "2026-03-20T17:47:08Z"
     },
     {
       "id": 501045649,
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 18431,
-      "forks": 822,
+      "stars": 18433,
+      "forks": 824,
       "language": "Go",
-      "pushed_at": "2026-03-20T17:36:32Z",
-      "updated_at": "2026-03-20T17:33:50Z"
+      "pushed_at": "2026-03-20T20:08:00Z",
+      "updated_at": "2026-03-20T20:08:02Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 11366,
-      "forks": 587,
-      "language": "Rust",
-      "pushed_at": "2026-03-20T16:07:53Z",
-      "updated_at": "2026-03-20T17:54:55Z"
-    },
-    {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 8923,
-      "forks": 577,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18059,
+      "forks": 1554,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T17:07:54Z",
-      "updated_at": "2026-03-20T17:07:59Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 5672,
-      "forks": 114,
-      "language": "Swift",
-      "pushed_at": "2026-03-20T17:09:04Z",
-      "updated_at": "2026-03-20T17:09:07Z"
+      "pushed_at": "2026-03-20T20:38:06Z",
+      "updated_at": "2026-03-20T20:57:18Z"
     },
     {
       "id": 129699403,
@@ -81,52 +48,63 @@
       "stars": 5582,
       "forks": 709,
       "language": "Swift",
-      "pushed_at": "2026-03-20T17:47:10Z",
-      "updated_at": "2026-03-20T17:47:02Z"
+      "pushed_at": "2026-03-20T18:15:50Z",
+      "updated_at": "2026-03-20T18:06:37Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5039,
-      "forks": 604,
+      "stars": 5038,
+      "forks": 605,
       "language": "Kotlin",
-      "pushed_at": "2026-03-20T16:13:41Z",
-      "updated_at": "2026-03-20T16:13:46Z"
+      "pushed_at": "2026-03-20T19:36:15Z",
+      "updated_at": "2026-03-20T20:22:53Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5035,
+      "forks": 437,
+      "language": "Rust",
+      "pushed_at": "2026-03-20T19:12:33Z",
+      "updated_at": "2026-03-20T19:12:30Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 4700,
+      "stars": 4705,
       "forks": 273,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T16:32:29Z",
-      "updated_at": "2026-03-20T17:38:15Z"
+      "pushed_at": "2026-03-20T18:19:59Z",
+      "updated_at": "2026-03-20T20:37:38Z"
+    },
+    {
+      "id": 307192103,
+      "full_name": "swiftbar/SwiftBar",
+      "html_url": "https://github.com/swiftbar/SwiftBar",
+      "description": "Powerful macOS menu bar customization tool",
+      "stars": 3828,
+      "forks": 113,
+      "language": "Swift",
+      "pushed_at": "2026-03-20T20:47:36Z",
+      "updated_at": "2026-03-20T20:47:41Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3070,
+      "stars": 3069,
       "forks": 985,
       "language": "C++",
-      "pushed_at": "2026-03-20T17:21:36Z",
-      "updated_at": "2026-03-20T17:02:40Z"
-    },
-    {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 2775,
-      "forks": 291,
-      "language": "Unknown",
-      "pushed_at": "2026-03-20T16:22:29Z",
-      "updated_at": "2026-03-20T17:10:11Z"
+      "pushed_at": "2026-03-20T20:48:05Z",
+      "updated_at": "2026-03-20T20:48:09Z"
     },
     {
       "id": 323279421,
@@ -140,37 +118,59 @@
       "updated_at": "2026-03-20T17:29:58Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1623,
-      "forks": 172,
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
+      "stars": 1723,
+      "forks": 112,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T20:02:41Z",
+      "updated_at": "2026-03-20T20:12:44Z"
+    },
+    {
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1510,
+      "forks": 125,
+      "language": "Dart",
+      "pushed_at": "2026-03-20T20:30:13Z",
+      "updated_at": "2026-03-20T20:30:17Z"
+    },
+    {
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 380,
+      "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-03-20T15:50:04Z",
-      "updated_at": "2026-03-20T17:22:55Z"
+      "pushed_at": "2026-03-20T19:22:12Z",
+      "updated_at": "2026-03-20T19:22:16Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 643,
-      "forks": 34,
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 365,
+      "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T15:56:02Z",
-      "updated_at": "2026-03-20T15:56:05Z"
+      "pushed_at": "2026-03-20T20:52:02Z",
+      "updated_at": "2026-03-20T20:52:06Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 361,
-      "forks": 21,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T16:23:58Z",
-      "updated_at": "2026-03-20T16:22:20Z"
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-20T17:38:46Z",
+      "updated_at": "2026-03-20T17:38:50Z"
     }
   ]
 }
