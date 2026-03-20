@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 722,
+  "total_found": 723,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 89655,
-      "forks": 11744,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-20T14:30:52Z",
-      "updated_at": "2026-03-20T14:31:50Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24472,
+      "forks": 2268,
+      "language": "Python",
+      "pushed_at": "2026-03-20T17:34:04Z",
+      "updated_at": "2026-03-20T17:20:12Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 23595,
+      "forks": 2505,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T16:22:44Z",
+      "updated_at": "2026-03-20T17:47:08Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 18431,
+      "forks": 822,
+      "language": "Go",
+      "pushed_at": "2026-03-20T17:36:32Z",
+      "updated_at": "2026-03-20T17:33:50Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 11294,
-      "forks": 582,
+      "stars": 11366,
+      "forks": 587,
       "language": "Rust",
-      "pushed_at": "2026-03-20T13:42:40Z",
-      "updated_at": "2026-03-20T14:32:02Z"
+      "pushed_at": "2026-03-20T16:07:53Z",
+      "updated_at": "2026-03-20T17:54:55Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10279,
-      "forks": 1236,
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 8923,
+      "forks": 577,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T13:25:58Z",
-      "updated_at": "2026-03-20T13:26:04Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9297,
-      "forks": 790,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T12:48:32Z",
-      "updated_at": "2026-03-20T14:01:41Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6872,
-      "forks": 172,
-      "language": "C++",
-      "pushed_at": "2026-03-20T14:16:43Z",
-      "updated_at": "2026-03-20T14:17:07Z"
+      "pushed_at": "2026-03-20T17:07:54Z",
+      "updated_at": "2026-03-20T17:07:59Z"
     },
     {
       "id": 375653778,
@@ -70,8 +70,8 @@
       "stars": 5672,
       "forks": 114,
       "language": "Swift",
-      "pushed_at": "2026-03-20T12:46:59Z",
-      "updated_at": "2026-03-20T13:28:16Z"
+      "pushed_at": "2026-03-20T17:09:04Z",
+      "updated_at": "2026-03-20T17:09:07Z"
     },
     {
       "id": 129699403,
@@ -81,8 +81,8 @@
       "stars": 5582,
       "forks": 709,
       "language": "Swift",
-      "pushed_at": "2026-03-20T14:30:16Z",
-      "updated_at": "2026-03-20T14:29:56Z"
+      "pushed_at": "2026-03-20T17:47:10Z",
+      "updated_at": "2026-03-20T17:47:02Z"
     },
     {
       "id": 11512043,
@@ -92,85 +92,85 @@
       "stars": 5039,
       "forks": 604,
       "language": "Kotlin",
-      "pushed_at": "2026-03-20T14:22:25Z",
-      "updated_at": "2026-03-20T14:22:30Z"
+      "pushed_at": "2026-03-20T16:13:41Z",
+      "updated_at": "2026-03-20T16:13:46Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 4700,
+      "forks": 273,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T16:32:29Z",
+      "updated_at": "2026-03-20T17:38:15Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3068,
+      "stars": 3070,
       "forks": 985,
       "language": "C++",
-      "pushed_at": "2026-03-20T13:54:05Z",
-      "updated_at": "2026-03-20T12:49:32Z"
+      "pushed_at": "2026-03-20T17:21:36Z",
+      "updated_at": "2026-03-20T17:02:40Z"
     },
     {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
-      "stars": 2565,
-      "forks": 246,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T13:51:13Z",
-      "updated_at": "2026-03-20T13:51:19Z"
-    },
-    {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1571,
-      "forks": 117,
-      "language": "Shell",
-      "pushed_at": "2026-03-20T13:49:51Z",
-      "updated_at": "2026-03-20T14:12:20Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1010,
-      "forks": 18,
-      "language": "Swift",
-      "pushed_at": "2026-03-20T13:58:50Z",
-      "updated_at": "2026-03-20T14:28:12Z"
-    },
-    {
-      "id": 76633312,
-      "full_name": "Ibexoft/awesome-startup-tools-list",
-      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
-      "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 963,
-      "forks": 183,
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 2775,
+      "forks": 291,
       "language": "Unknown",
-      "pushed_at": "2026-03-20T13:23:41Z",
-      "updated_at": "2026-03-20T13:23:46Z"
+      "pushed_at": "2026-03-20T16:22:29Z",
+      "updated_at": "2026-03-20T17:10:11Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 721,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-03-20T13:04:17Z",
-      "updated_at": "2026-03-20T13:04:21Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1783,
+      "forks": 132,
+      "language": "Dart",
+      "pushed_at": "2026-03-20T17:29:53Z",
+      "updated_at": "2026-03-20T17:29:58Z"
     },
     {
-      "id": 1079547517,
-      "full_name": "jezweb/claude-skills",
-      "html_url": "https://github.com/jezweb/claude-skills",
-      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
-      "stars": 632,
-      "forks": 49,
-      "language": "Python",
-      "pushed_at": "2026-03-20T14:19:37Z",
-      "updated_at": "2026-03-20T14:19:42Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1623,
+      "forks": 172,
+      "language": "Go",
+      "pushed_at": "2026-03-20T15:50:04Z",
+      "updated_at": "2026-03-20T17:22:55Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 643,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T15:56:02Z",
+      "updated_at": "2026-03-20T15:56:05Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 361,
+      "forks": 21,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T16:23:58Z",
+      "updated_at": "2026-03-20T16:22:20Z"
     }
   ]
 }
