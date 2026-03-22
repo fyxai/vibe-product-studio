@@ -5,73 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 724,
+  "total_found": 725,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 94803,
-      "forks": 12408,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-22T02:48:21Z",
-      "updated_at": "2026-03-22T05:11:53Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18073,
-      "forks": 1554,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-22T00:50:52Z",
-      "updated_at": "2026-03-22T02:13:48Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13427,
-      "forks": 392,
-      "language": "Rust",
-      "pushed_at": "2026-03-22T00:23:22Z",
-      "updated_at": "2026-03-22T02:14:47Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14236,
+      "forks": 576,
+      "language": "C#",
+      "pushed_at": "2026-03-22T08:35:52Z",
+      "updated_at": "2026-03-22T08:35:55Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 12703,
+      "stars": 12704,
       "forks": 781,
       "language": "TypeScript",
       "pushed_at": "2026-03-22T03:22:28Z",
-      "updated_at": "2026-03-22T03:24:52Z"
+      "updated_at": "2026-03-22T06:43:35Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10302,
+      "stars": 10304,
       "forks": 1238,
       "language": "TypeScript",
-      "pushed_at": "2026-03-22T02:43:37Z",
-      "updated_at": "2026-03-22T03:18:41Z"
+      "pushed_at": "2026-03-22T07:18:15Z",
+      "updated_at": "2026-03-22T07:30:04Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6901,
-      "forks": 173,
-      "language": "C++",
-      "pushed_at": "2026-03-22T02:50:52Z",
-      "updated_at": "2026-03-22T02:44:15Z"
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free and open source code snippet manager for developers",
+      "stars": 6673,
+      "forks": 247,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-22T05:46:22Z",
+      "updated_at": "2026-03-22T05:46:25Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 5681,
+      "forks": 115,
+      "language": "Swift",
+      "pushed_at": "2026-03-22T08:55:23Z",
+      "updated_at": "2026-03-22T08:55:25Z"
     },
     {
       "id": 11512043,
@@ -85,59 +74,59 @@
       "updated_at": "2026-03-22T05:09:15Z"
     },
     {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 2368,
-      "forks": 55,
-      "language": "Python",
-      "pushed_at": "2026-03-22T01:19:12Z",
-      "updated_at": "2026-03-22T05:09:08Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3592,
+      "forks": 749,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-22T03:20:32Z",
+      "updated_at": "2026-03-22T07:52:25Z"
     },
     {
       "id": 925501678,
       "full_name": "supreme-gg-gg/instagram-cli",
       "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
       "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
-      "stars": 1730,
+      "stars": 1731,
       "forks": 113,
       "language": "TypeScript",
       "pushed_at": "2026-03-22T03:05:52Z",
-      "updated_at": "2026-03-22T03:15:55Z"
+      "updated_at": "2026-03-22T06:18:48Z"
     },
     {
-      "id": 12969529,
-      "full_name": "ptsochantaris/trailer",
-      "html_url": "https://github.com/ptsochantaris/trailer",
-      "description": "Managing Pull Requests and Issues For GitHub & GitHub Enterprise",
-      "stars": 1206,
-      "forks": 73,
+      "id": 919664598,
+      "full_name": "WINBIGFOX/TimeScribe",
+      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "stars": 769,
+      "forks": 68,
+      "language": "PHP",
+      "pushed_at": "2026-03-22T08:47:12Z",
+      "updated_at": "2026-03-22T08:47:15Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 603,
+      "forks": 15,
       "language": "Swift",
-      "pushed_at": "2026-03-22T02:09:32Z",
-      "updated_at": "2026-03-22T02:09:36Z"
+      "pushed_at": "2026-03-22T06:15:00Z",
+      "updated_at": "2026-03-22T08:09:33Z"
     },
     {
-      "id": 1118483478,
-      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
-      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
-      "description": "my curated agent skills library ",
-      "stars": 951,
-      "forks": 105,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-22T02:37:03Z",
-      "updated_at": "2026-03-22T03:28:02Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - Open Work and Project Management Platform - https://ever.team",
-      "stars": 493,
-      "forks": 93,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
+      "stars": 504,
+      "forks": 85,
       "language": "TypeScript",
-      "pushed_at": "2026-03-22T02:08:23Z",
-      "updated_at": "2026-03-22T02:08:11Z"
+      "pushed_at": "2026-03-22T06:59:34Z",
+      "updated_at": "2026-03-22T08:30:26Z"
     },
     {
       "id": 1147139359,
@@ -147,8 +136,8 @@
       "stars": 207,
       "forks": 10,
       "language": "Go",
-      "pushed_at": "2026-03-22T01:33:59Z",
-      "updated_at": "2026-03-22T04:59:56Z"
+      "pushed_at": "2026-03-22T08:35:34Z",
+      "updated_at": "2026-03-22T08:35:37Z"
     },
     {
       "id": 259807763,
@@ -162,15 +151,26 @@
       "updated_at": "2026-03-22T03:21:06Z"
     },
     {
+      "id": 438792454,
+      "full_name": "eltos/PasteIntoFile",
+      "html_url": "https://github.com/eltos/PasteIntoFile",
+      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
+      "stars": 174,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-03-22T07:05:54Z",
+      "updated_at": "2026-03-22T07:04:32Z"
+    },
+    {
       "id": 1165281056,
       "full_name": "miragecoa/AI-Cubby",
       "html_url": "https://github.com/miragecoa/AI-Cubby",
       "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 134,
+      "stars": 135,
       "forks": 2,
       "language": "Vue",
-      "pushed_at": "2026-03-22T01:00:53Z",
-      "updated_at": "2026-03-22T02:16:28Z"
+      "pushed_at": "2026-03-22T07:09:38Z",
+      "updated_at": "2026-03-22T08:58:47Z"
     }
   ]
 }
