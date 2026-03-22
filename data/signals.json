@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 725,
+  "total_found": 726,
   "items": [
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14236,
-      "forks": 576,
-      "language": "C#",
-      "pushed_at": "2026-03-22T08:35:52Z",
-      "updated_at": "2026-03-22T08:35:55Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 185569,
+      "forks": 26314,
+      "language": "Shell",
+      "pushed_at": "2026-03-22T12:52:38Z",
+      "updated_at": "2026-03-22T13:38:46Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12704,
-      "forks": 781,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 119339,
+      "forks": 12951,
       "language": "TypeScript",
-      "pushed_at": "2026-03-22T03:22:28Z",
-      "updated_at": "2026-03-22T06:43:35Z"
+      "pushed_at": "2026-03-22T13:18:07Z",
+      "updated_at": "2026-03-22T13:21:02Z"
+    },
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 96347,
+      "forks": 12594,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-22T13:47:18Z",
+      "updated_at": "2026-03-22T13:55:47Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 11906,
+      "forks": 609,
+      "language": "Rust",
+      "pushed_at": "2026-03-22T11:43:20Z",
+      "updated_at": "2026-03-22T13:55:46Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10304,
-      "forks": 1238,
+      "stars": 10306,
+      "forks": 1239,
       "language": "TypeScript",
-      "pushed_at": "2026-03-22T07:18:15Z",
-      "updated_at": "2026-03-22T07:30:04Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free and open source code snippet manager for developers",
-      "stars": 6673,
-      "forks": 247,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-22T05:46:22Z",
-      "updated_at": "2026-03-22T05:46:25Z"
+      "pushed_at": "2026-03-22T13:01:34Z",
+      "updated_at": "2026-03-22T13:01:38Z"
     },
     {
       "id": 375653778,
@@ -59,8 +70,8 @@
       "stars": 5681,
       "forks": 115,
       "language": "Swift",
-      "pushed_at": "2026-03-22T08:55:23Z",
-      "updated_at": "2026-03-22T08:55:25Z"
+      "pushed_at": "2026-03-22T11:38:31Z",
+      "updated_at": "2026-03-22T13:20:44Z"
     },
     {
       "id": 11512043,
@@ -70,63 +81,74 @@
       "stars": 5041,
       "forks": 605,
       "language": "Kotlin",
-      "pushed_at": "2026-03-22T05:09:11Z",
-      "updated_at": "2026-03-22T05:09:15Z"
+      "pushed_at": "2026-03-22T13:55:29Z",
+      "updated_at": "2026-03-22T13:55:33Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3592,
+      "stars": 3593,
       "forks": 749,
       "language": "TypeScript",
-      "pushed_at": "2026-03-22T03:20:32Z",
-      "updated_at": "2026-03-22T07:52:25Z"
+      "pushed_at": "2026-03-22T11:30:47Z",
+      "updated_at": "2026-03-22T13:47:16Z"
     },
     {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
-      "stars": 1731,
-      "forks": 113,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-22T03:05:52Z",
-      "updated_at": "2026-03-22T06:18:48Z"
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3071,
+      "forks": 986,
+      "language": "C++",
+      "pushed_at": "2026-03-22T12:54:55Z",
+      "updated_at": "2026-03-22T13:12:25Z"
     },
     {
-      "id": 919664598,
-      "full_name": "WINBIGFOX/TimeScribe",
-      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
-      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
-      "stars": 769,
-      "forks": 68,
-      "language": "PHP",
-      "pushed_at": "2026-03-22T08:47:12Z",
-      "updated_at": "2026-03-22T08:47:15Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 603,
-      "forks": 15,
+      "id": 12969529,
+      "full_name": "ptsochantaris/trailer",
+      "html_url": "https://github.com/ptsochantaris/trailer",
+      "description": "Managing Pull Requests and Issues For GitHub & GitHub Enterprise",
+      "stars": 1206,
+      "forks": 73,
       "language": "Swift",
-      "pushed_at": "2026-03-22T06:15:00Z",
-      "updated_at": "2026-03-22T08:09:33Z"
+      "pushed_at": "2026-03-22T11:35:19Z",
+      "updated_at": "2026-03-22T11:35:23Z"
     },
     {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
-      "stars": 504,
-      "forks": 85,
+      "id": 378725581,
+      "full_name": "translate-tools/linguist",
+      "html_url": "https://github.com/translate-tools/linguist",
+      "description": "Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline",
+      "stars": 956,
+      "forks": 43,
       "language": "TypeScript",
-      "pushed_at": "2026-03-22T06:59:34Z",
-      "updated_at": "2026-03-22T08:30:26Z"
+      "pushed_at": "2026-03-22T12:28:17Z",
+      "updated_at": "2026-03-22T12:28:21Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 722,
+      "forks": 67,
+      "language": "Python",
+      "pushed_at": "2026-03-22T12:55:42Z",
+      "updated_at": "2026-03-22T12:55:47Z"
+    },
+    {
+      "id": 1079547517,
+      "full_name": "jezweb/claude-skills",
+      "html_url": "https://github.com/jezweb/claude-skills",
+      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+      "stars": 638,
+      "forks": 49,
+      "language": "Python",
+      "pushed_at": "2026-03-22T12:23:41Z",
+      "updated_at": "2026-03-22T13:17:24Z"
     },
     {
       "id": 1147139359,
@@ -136,41 +158,19 @@
       "stars": 207,
       "forks": 10,
       "language": "Go",
-      "pushed_at": "2026-03-22T08:35:34Z",
-      "updated_at": "2026-03-22T08:35:37Z"
+      "pushed_at": "2026-03-22T13:21:13Z",
+      "updated_at": "2026-03-22T13:21:16Z"
     },
     {
-      "id": 259807763,
-      "full_name": "brainless/dwata",
-      "html_url": "https://github.com/brainless/dwata",
-      "description": "AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!",
-      "stars": 177,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-03-22T03:21:04Z",
-      "updated_at": "2026-03-22T03:21:06Z"
-    },
-    {
-      "id": 438792454,
-      "full_name": "eltos/PasteIntoFile",
-      "html_url": "https://github.com/eltos/PasteIntoFile",
-      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
-      "stars": 174,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-03-22T07:05:54Z",
-      "updated_at": "2026-03-22T07:04:32Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 135,
-      "forks": 2,
-      "language": "Vue",
-      "pushed_at": "2026-03-22T07:09:38Z",
-      "updated_at": "2026-03-22T08:58:47Z"
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 167,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-03-22T11:55:49Z",
+      "updated_at": "2026-03-22T11:55:52Z"
     }
   ]
 }
