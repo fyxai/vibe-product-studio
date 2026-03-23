@@ -8,17 +8,6 @@
   "total_found": 732,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 119431,
-      "forks": 12970,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-23T14:55:01Z",
-      "updated_at": "2026-03-23T15:26:45Z"
-    },
-    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
@@ -26,30 +15,41 @@
       "stars": 42644,
       "forks": 2651,
       "language": "C#",
-      "pushed_at": "2026-03-23T15:39:50Z",
-      "updated_at": "2026-03-23T15:04:43Z"
+      "pushed_at": "2026-03-23T17:02:58Z",
+      "updated_at": "2026-03-23T18:12:53Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24481,
+      "forks": 2269,
+      "language": "Python",
+      "pushed_at": "2026-03-23T18:31:38Z",
+      "updated_at": "2026-03-23T18:28:50Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18106,
-      "forks": 1561,
+      "stars": 18107,
+      "forks": 1563,
       "language": "TypeScript",
-      "pushed_at": "2026-03-23T14:35:55Z",
-      "updated_at": "2026-03-23T15:39:20Z"
+      "pushed_at": "2026-03-23T18:33:30Z",
+      "updated_at": "2026-03-23T18:33:35Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14245,
-      "forks": 576,
-      "language": "C#",
-      "pushed_at": "2026-03-23T14:17:24Z",
-      "updated_at": "2026-03-23T14:43:41Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 12349,
+      "forks": 624,
+      "language": "Rust",
+      "pushed_at": "2026-03-23T18:00:57Z",
+      "updated_at": "2026-03-23T18:29:59Z"
     },
     {
       "id": 129699403,
@@ -59,63 +59,30 @@
       "stars": 5584,
       "forks": 713,
       "language": "Swift",
-      "pushed_at": "2026-03-23T15:26:51Z",
-      "updated_at": "2026-03-23T15:18:15Z"
+      "pushed_at": "2026-03-23T18:26:33Z",
+      "updated_at": "2026-03-23T18:12:58Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5044,
-      "forks": 437,
-      "language": "Rust",
-      "pushed_at": "2026-03-23T13:50:12Z",
-      "updated_at": "2026-03-23T14:29:58Z"
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1862,
+      "forks": 89,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-23T16:36:11Z",
+      "updated_at": "2026-03-23T16:36:15Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5044,
-      "forks": 606,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-23T15:11:36Z",
-      "updated_at": "2026-03-23T15:12:02Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3072,
-      "forks": 988,
-      "language": "C++",
-      "pushed_at": "2026-03-23T15:25:26Z",
-      "updated_at": "2026-03-23T15:03:52Z"
-    },
-    {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart session manager for the terminal",
-      "stars": 1835,
-      "forks": 93,
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1752,
+      "forks": 107,
       "language": "Go",
-      "pushed_at": "2026-03-23T15:16:17Z",
-      "updated_at": "2026-03-23T15:16:24Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1783,
-      "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-03-23T14:42:34Z",
-      "updated_at": "2026-03-23T14:42:46Z"
+      "pushed_at": "2026-03-23T17:37:29Z",
+      "updated_at": "2026-03-23T18:26:13Z"
     },
     {
       "id": 980286881,
@@ -125,52 +92,85 @@
       "stars": 1037,
       "forks": 88,
       "language": "TypeScript",
-      "pushed_at": "2026-03-23T14:04:00Z",
-      "updated_at": "2026-03-23T14:04:04Z"
+      "pushed_at": "2026-03-23T18:01:35Z",
+      "updated_at": "2026-03-23T18:01:39Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 723,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-03-23T15:18:45Z",
-      "updated_at": "2026-03-23T15:18:52Z"
+      "id": 837514404,
+      "full_name": "SnapXL/SnapX",
+      "html_url": "https://github.com/SnapXL/SnapX",
+      "description": "SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork",
+      "stars": 854,
+      "forks": 14,
+      "language": "C#",
+      "pushed_at": "2026-03-23T17:54:10Z",
+      "updated_at": "2026-03-23T17:54:14Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 658,
-      "forks": 35,
+      "id": 445118741,
+      "full_name": "manekinekko/awesome-devcontainers",
+      "html_url": "https://github.com/manekinekko/awesome-devcontainers",
+      "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
+      "stars": 488,
+      "forks": 23,
+      "language": "Unknown",
+      "pushed_at": "2026-03-23T17:21:41Z",
+      "updated_at": "2026-03-23T17:21:46Z"
+    },
+    {
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 371,
+      "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-03-23T15:29:03Z",
-      "updated_at": "2026-03-23T15:29:11Z"
+      "pushed_at": "2026-03-23T18:24:38Z",
+      "updated_at": "2026-03-23T18:24:44Z"
     },
     {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 642,
-      "forks": 18,
-      "language": "Swift",
-      "pushed_at": "2026-03-23T14:32:45Z",
-      "updated_at": "2026-03-23T14:34:58Z"
+      "id": 1149240503,
+      "full_name": "lightmode-laboratories/nova",
+      "html_url": "https://github.com/lightmode-laboratories/nova",
+      "description": "Nova — A futuristic canvas for your personal development",
+      "stars": 173,
+      "forks": 5,
+      "language": "Unknown",
+      "pushed_at": "2026-03-23T18:17:21Z",
+      "updated_at": "2026-03-23T18:21:42Z"
     },
     {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
-      "stars": 545,
-      "forks": 93,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-23T14:54:19Z",
-      "updated_at": "2026-03-23T15:34:59Z"
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 144,
+      "forks": 2,
+      "language": "Vue",
+      "pushed_at": "2026-03-23T17:49:03Z",
+      "updated_at": "2026-03-23T17:49:08Z"
+    },
+    {
+      "id": 1028437757,
+      "full_name": "mylee04/code-notify",
+      "html_url": "https://github.com/mylee04/code-notify",
+      "description": "Cross-platform desktop notifications for Claude Code/Codex/Gemini - Get alerts when tasks complete",
+      "stars": 144,
+      "forks": 14,
+      "language": "Shell",
+      "pushed_at": "2026-03-23T17:26:43Z",
+      "updated_at": "2026-03-23T17:26:43Z"
+    },
+    {
+      "id": 672647029,
+      "full_name": "BOTbkcd/mayhem",
+      "html_url": "https://github.com/BOTbkcd/mayhem",
+      "description": "A minimal TUI based task tracker 📝",
+      "stars": 97,
+      "forks": 1,
+      "language": "Go",
+      "pushed_at": "2026-03-23T17:37:08Z",
+      "updated_at": "2026-03-23T17:32:42Z"
     }
   ]
 }
