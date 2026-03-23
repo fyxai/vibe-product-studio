@@ -12,11 +12,11 @@
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42644,
-      "forks": 2651,
+      "stars": 42646,
+      "forks": 2652,
       "language": "C#",
-      "pushed_at": "2026-03-23T17:02:58Z",
-      "updated_at": "2026-03-23T18:12:53Z"
+      "pushed_at": "2026-03-23T21:18:21Z",
+      "updated_at": "2026-03-23T21:28:37Z"
     },
     {
       "id": 33702544,
@@ -26,8 +26,19 @@
       "stars": 24481,
       "forks": 2269,
       "language": "Python",
-      "pushed_at": "2026-03-23T18:31:38Z",
-      "updated_at": "2026-03-23T18:28:50Z"
+      "pushed_at": "2026-03-23T20:42:46Z",
+      "updated_at": "2026-03-23T19:19:17Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 18560,
+      "forks": 837,
+      "language": "Go",
+      "pushed_at": "2026-03-23T19:35:59Z",
+      "updated_at": "2026-03-23T21:23:23Z"
     },
     {
       "id": 78243781,
@@ -37,19 +48,30 @@
       "stars": 18107,
       "forks": 1563,
       "language": "TypeScript",
-      "pushed_at": "2026-03-23T18:33:30Z",
-      "updated_at": "2026-03-23T18:33:35Z"
+      "pushed_at": "2026-03-23T20:13:32Z",
+      "updated_at": "2026-03-23T20:20:27Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 12349,
-      "forks": 624,
-      "language": "Rust",
-      "pushed_at": "2026-03-23T18:00:57Z",
-      "updated_at": "2026-03-23T18:29:59Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10319,
+      "forks": 1241,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-23T21:26:59Z",
+      "updated_at": "2026-03-23T20:54:04Z"
+    },
+    {
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8244,
+      "forks": 920,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-23T20:35:05Z",
+      "updated_at": "2026-03-23T20:28:58Z"
     },
     {
       "id": 129699403,
@@ -59,41 +81,85 @@
       "stars": 5584,
       "forks": 713,
       "language": "Swift",
-      "pushed_at": "2026-03-23T18:26:33Z",
-      "updated_at": "2026-03-23T18:12:58Z"
+      "pushed_at": "2026-03-23T21:50:35Z",
+      "updated_at": "2026-03-23T21:33:53Z"
     },
     {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1862,
-      "forks": 89,
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4275,
+      "forks": 861,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-23T20:35:36Z",
+      "updated_at": "2026-03-23T20:35:34Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3595,
+      "forks": 750,
       "language": "TypeScript",
-      "pushed_at": "2026-03-23T16:36:11Z",
-      "updated_at": "2026-03-23T16:36:15Z"
+      "pushed_at": "2026-03-23T20:51:13Z",
+      "updated_at": "2026-03-23T20:50:42Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1752,
-      "forks": 107,
-      "language": "Go",
-      "pushed_at": "2026-03-23T17:37:29Z",
-      "updated_at": "2026-03-23T18:26:13Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3117,
+      "forks": 142,
+      "language": "Gherkin",
+      "pushed_at": "2026-03-23T19:15:41Z",
+      "updated_at": "2026-03-23T19:15:47Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1037,
-      "forks": 88,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-23T18:01:35Z",
-      "updated_at": "2026-03-23T18:01:39Z"
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3072,
+      "forks": 988,
+      "language": "C++",
+      "pushed_at": "2026-03-23T20:25:44Z",
+      "updated_at": "2026-03-23T19:26:53Z"
+    },
+    {
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 2423,
+      "forks": 58,
+      "language": "Python",
+      "pushed_at": "2026-03-23T21:04:16Z",
+      "updated_at": "2026-03-23T21:04:22Z"
+    },
+    {
+      "id": 1150496175,
+      "full_name": "mergisi/awesome-openclaw-agents",
+      "html_url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+      "stars": 1783,
+      "forks": 251,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-23T20:49:05Z",
+      "updated_at": "2026-03-23T21:39:38Z"
+    },
+    {
+      "id": 582248876,
+      "full_name": "chocoford/ExcalidrawZ",
+      "html_url": "https://github.com/chocoford/ExcalidrawZ",
+      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
+      "stars": 1069,
+      "forks": 50,
+      "language": "Swift",
+      "pushed_at": "2026-03-23T19:16:35Z",
+      "updated_at": "2026-03-23T19:16:43Z"
     },
     {
       "id": 837514404,
@@ -103,74 +169,8 @@
       "stars": 854,
       "forks": 14,
       "language": "C#",
-      "pushed_at": "2026-03-23T17:54:10Z",
-      "updated_at": "2026-03-23T17:54:14Z"
-    },
-    {
-      "id": 445118741,
-      "full_name": "manekinekko/awesome-devcontainers",
-      "html_url": "https://github.com/manekinekko/awesome-devcontainers",
-      "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
-      "stars": 488,
-      "forks": 23,
-      "language": "Unknown",
-      "pushed_at": "2026-03-23T17:21:41Z",
-      "updated_at": "2026-03-23T17:21:46Z"
-    },
-    {
-      "id": 1126665558,
-      "full_name": "3xpyth0n/ideon",
-      "html_url": "https://github.com/3xpyth0n/ideon",
-      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
-      "stars": 371,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-23T18:24:38Z",
-      "updated_at": "2026-03-23T18:24:44Z"
-    },
-    {
-      "id": 1149240503,
-      "full_name": "lightmode-laboratories/nova",
-      "html_url": "https://github.com/lightmode-laboratories/nova",
-      "description": "Nova — A futuristic canvas for your personal development",
-      "stars": 173,
-      "forks": 5,
-      "language": "Unknown",
-      "pushed_at": "2026-03-23T18:17:21Z",
-      "updated_at": "2026-03-23T18:21:42Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 144,
-      "forks": 2,
-      "language": "Vue",
-      "pushed_at": "2026-03-23T17:49:03Z",
-      "updated_at": "2026-03-23T17:49:08Z"
-    },
-    {
-      "id": 1028437757,
-      "full_name": "mylee04/code-notify",
-      "html_url": "https://github.com/mylee04/code-notify",
-      "description": "Cross-platform desktop notifications for Claude Code/Codex/Gemini - Get alerts when tasks complete",
-      "stars": 144,
-      "forks": 14,
-      "language": "Shell",
-      "pushed_at": "2026-03-23T17:26:43Z",
-      "updated_at": "2026-03-23T17:26:43Z"
-    },
-    {
-      "id": 672647029,
-      "full_name": "BOTbkcd/mayhem",
-      "html_url": "https://github.com/BOTbkcd/mayhem",
-      "description": "A minimal TUI based task tracker 📝",
-      "stars": 97,
-      "forks": 1,
-      "language": "Go",
-      "pushed_at": "2026-03-23T17:37:08Z",
-      "updated_at": "2026-03-23T17:32:42Z"
+      "pushed_at": "2026-03-23T21:45:26Z",
+      "updated_at": "2026-03-23T21:45:30Z"
     }
   ]
 }
