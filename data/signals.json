@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 736,
+  "total_found": 737,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 35980,
-      "forks": 3628,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42649,
+      "forks": 2652,
       "language": "C#",
-      "pushed_at": "2026-03-24T09:49:30Z",
-      "updated_at": "2026-03-24T09:52:38Z"
+      "pushed_at": "2026-03-24T15:45:54Z",
+      "updated_at": "2026-03-24T15:18:37Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13860,
-      "forks": 934,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 35194,
+      "forks": 778,
+      "language": "Rust",
+      "pushed_at": "2026-03-24T14:28:29Z",
+      "updated_at": "2026-03-24T15:43:14Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18119,
+      "forks": 1566,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T09:29:09Z",
-      "updated_at": "2026-03-24T09:22:56Z"
+      "pushed_at": "2026-03-24T15:28:25Z",
+      "updated_at": "2026-03-24T15:28:32Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 12612,
-      "forks": 634,
+      "stars": 12729,
+      "forks": 641,
       "language": "Rust",
-      "pushed_at": "2026-03-24T10:24:56Z",
-      "updated_at": "2026-03-24T10:36:18Z"
+      "pushed_at": "2026-03-24T15:08:33Z",
+      "updated_at": "2026-03-24T15:46:11Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9318,
-      "forks": 792,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T10:09:28Z",
-      "updated_at": "2026-03-24T10:33:47Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6933,
+      "forks": 174,
+      "language": "C++",
+      "pushed_at": "2026-03-24T14:13:20Z",
+      "updated_at": "2026-03-24T15:25:36Z"
     },
     {
       "id": 129699403,
@@ -59,118 +70,107 @@
       "stars": 5584,
       "forks": 714,
       "language": "Swift",
-      "pushed_at": "2026-03-24T10:29:48Z",
-      "updated_at": "2026-03-24T10:29:30Z"
+      "pushed_at": "2026-03-24T15:44:14Z",
+      "updated_at": "2026-03-24T15:33:34Z"
     },
     {
-      "id": 1142423471,
-      "full_name": "mindfold-ai/Trellis",
-      "html_url": "https://github.com/mindfold-ai/Trellis",
-      "description": "The best agent harness.",
-      "stars": 4095,
-      "forks": 212,
-      "language": "Python",
-      "pushed_at": "2026-03-24T09:00:16Z",
-      "updated_at": "2026-03-24T10:28:17Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3599,
-      "forks": 749,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T08:53:07Z",
-      "updated_at": "2026-03-24T08:55:35Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3391,
+      "forks": 163,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-24T15:34:10Z",
+      "updated_at": "2026-03-24T15:12:22Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3073,
+      "stars": 3074,
       "forks": 989,
       "language": "C++",
-      "pushed_at": "2026-03-24T10:02:15Z",
-      "updated_at": "2026-03-24T08:17:27Z"
+      "pushed_at": "2026-03-24T15:43:10Z",
+      "updated_at": "2026-03-24T15:43:13Z"
+    },
+    {
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 3002,
+      "forks": 311,
+      "language": "Unknown",
+      "pushed_at": "2026-03-24T14:42:55Z",
+      "updated_at": "2026-03-24T15:38:03Z"
+    },
+    {
+      "id": 217049587,
+      "full_name": "alan-ai/alan-sdk-web",
+      "html_url": "https://github.com/alan-ai/alan-sdk-web",
+      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
+      "stars": 2434,
+      "forks": 105,
+      "language": "Unknown",
+      "pushed_at": "2026-03-24T15:31:11Z",
+      "updated_at": "2026-03-24T15:31:08Z"
     },
     {
       "id": 1180917769,
       "full_name": "uditgoenka/autoresearch",
       "html_url": "https://github.com/uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 2021,
-      "forks": 148,
+      "stars": 2100,
+      "forks": 155,
       "language": "Shell",
-      "pushed_at": "2026-03-24T08:42:53Z",
-      "updated_at": "2026-03-24T10:27:32Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 724,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-03-24T10:02:28Z",
-      "updated_at": "2026-03-24T10:02:31Z"
+      "pushed_at": "2026-03-24T15:04:07Z",
+      "updated_at": "2026-03-24T15:43:43Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 654,
+      "stars": 661,
       "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-03-24T09:54:27Z",
-      "updated_at": "2026-03-24T10:22:23Z"
+      "pushed_at": "2026-03-24T15:20:21Z",
+      "updated_at": "2026-03-24T15:25:34Z"
+    },
+    {
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 463,
+      "forks": 30,
+      "language": "Rust",
+      "pushed_at": "2026-03-24T15:40:29Z",
+      "updated_at": "2026-03-24T15:40:34Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 379,
+      "stars": 380,
       "forks": 22,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T09:45:50Z",
-      "updated_at": "2026-03-24T09:45:52Z"
+      "pushed_at": "2026-03-24T15:26:54Z",
+      "updated_at": "2026-03-24T15:28:22Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 308,
-      "forks": 12,
-      "language": "Shell",
-      "pushed_at": "2026-03-24T08:30:04Z",
-      "updated_at": "2026-03-24T08:30:09Z"
-    },
-    {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 279,
-      "forks": 48,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-24T10:00:28Z",
-      "updated_at": "2026-03-24T10:00:35Z"
-    },
-    {
-      "id": 1185061197,
-      "full_name": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
-      "html_url": "https://github.com/NubPlayz/GoodLib-Zlib-Goodreads-extension",
-      "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox",
-      "stars": 200,
-      "forks": 4,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T09:59:46Z",
-      "updated_at": "2026-03-24T10:35:20Z"
+      "id": 1190424251,
+      "full_name": "marswaveai/TypeNo",
+      "html_url": "https://github.com/marswaveai/TypeNo",
+      "description": "A free, open source, privacy-first voice input app for macOS.",
+      "stars": 263,
+      "forks": 25,
+      "language": "Swift",
+      "pushed_at": "2026-03-24T14:17:38Z",
+      "updated_at": "2026-03-24T15:46:19Z"
     }
   ]
 }
