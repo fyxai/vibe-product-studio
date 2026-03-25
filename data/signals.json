@@ -12,55 +12,77 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 119553,
-      "forks": 13005,
+      "stars": 119562,
+      "forks": 13006,
       "language": "TypeScript",
-      "pushed_at": "2026-03-25T17:11:46Z",
-      "updated_at": "2026-03-25T18:23:31Z"
+      "pushed_at": "2026-03-25T20:03:21Z",
+      "updated_at": "2026-03-25T21:50:20Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42669,
-      "forks": 2653,
+      "stars": 42671,
+      "forks": 2654,
       "language": "C#",
-      "pushed_at": "2026-03-25T16:59:25Z",
-      "updated_at": "2026-03-25T18:29:07Z"
+      "pushed_at": "2026-03-25T21:39:19Z",
+      "updated_at": "2026-03-25T21:18:07Z"
+    },
+    {
+      "id": 396569538,
+      "full_name": "khoj-ai/khoj",
+      "html_url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33627,
+      "forks": 2083,
+      "language": "Python",
+      "pushed_at": "2026-03-25T20:11:50Z",
+      "updated_at": "2026-03-25T21:34:57Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24486,
+      "forks": 2269,
+      "language": "Python",
+      "pushed_at": "2026-03-25T21:51:59Z",
+      "updated_at": "2026-03-25T20:12:26Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 18632,
+      "forks": 838,
+      "language": "Go",
+      "pushed_at": "2026-03-25T20:59:22Z",
+      "updated_at": "2026-03-25T21:26:54Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 13282,
-      "forks": 672,
+      "stars": 13337,
+      "forks": 676,
       "language": "Rust",
-      "pushed_at": "2026-03-25T18:12:49Z",
-      "updated_at": "2026-03-25T18:35:28Z"
+      "pushed_at": "2026-03-25T21:32:07Z",
+      "updated_at": "2026-03-25T21:56:10Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10333,
-      "forks": 1244,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-25T16:28:03Z",
-      "updated_at": "2026-03-25T18:19:46Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9325,
-      "forks": 794,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-25T17:04:40Z",
-      "updated_at": "2026-03-25T18:00:09Z"
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
+      "stars": 6734,
+      "forks": 461,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-25T21:08:20Z",
+      "updated_at": "2026-03-25T21:08:25Z"
     },
     {
       "id": 129699403,
@@ -70,19 +92,19 @@
       "stars": 5591,
       "forks": 715,
       "language": "Swift",
-      "pushed_at": "2026-03-25T18:31:40Z",
-      "updated_at": "2026-03-25T17:47:40Z"
+      "pushed_at": "2026-03-25T21:09:54Z",
+      "updated_at": "2026-03-25T21:03:39Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5047,
-      "forks": 607,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-25T18:08:40Z",
-      "updated_at": "2026-03-25T16:21:53Z"
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3077,
+      "forks": 989,
+      "language": "C++",
+      "pushed_at": "2026-03-25T21:41:16Z",
+      "updated_at": "2026-03-25T21:41:20Z"
     },
     {
       "id": 89766385,
@@ -92,85 +114,63 @@
       "stars": 2055,
       "forks": 293,
       "language": "JavaScript",
-      "pushed_at": "2026-03-25T17:19:47Z",
-      "updated_at": "2026-03-25T17:29:52Z"
+      "pushed_at": "2026-03-25T21:48:01Z",
+      "updated_at": "2026-03-25T21:46:58Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1785,
-      "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-03-25T17:13:16Z",
-      "updated_at": "2026-03-25T17:13:21Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1069,
+      "forks": 24,
+      "language": "Swift",
+      "pushed_at": "2026-03-25T19:58:16Z",
+      "updated_at": "2026-03-25T20:34:57Z"
     },
     {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1524,
-      "forks": 129,
-      "language": "Dart",
-      "pushed_at": "2026-03-25T17:02:07Z",
-      "updated_at": "2026-03-25T17:25:46Z"
-    },
-    {
-      "id": 591366844,
-      "full_name": "lasantosr/intelli-shell",
-      "html_url": "https://github.com/lasantosr/intelli-shell",
-      "description": "Like IntelliSense, but for shells",
-      "stars": 1202,
-      "forks": 18,
-      "language": "Rust",
-      "pushed_at": "2026-03-25T17:11:39Z",
-      "updated_at": "2026-03-25T17:11:44Z"
-    },
-    {
-      "id": 1118483478,
-      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
-      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
-      "description": "my curated agent skills library ",
-      "stars": 958,
-      "forks": 107,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-25T17:52:59Z",
-      "updated_at": "2026-03-25T17:53:04Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 671,
-      "forks": 42,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 723,
+      "forks": 67,
       "language": "Python",
-      "pushed_at": "2026-03-25T16:40:59Z",
-      "updated_at": "2026-03-25T16:41:13Z"
+      "pushed_at": "2026-03-25T20:35:22Z",
+      "updated_at": "2026-03-25T20:35:26Z"
     },
     {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
-      "stars": 608,
-      "forks": 106,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-25T16:36:53Z",
-      "updated_at": "2026-03-25T16:36:58Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 469,
-      "forks": 48,
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 39 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 647,
+      "forks": 67,
       "language": "JavaScript",
-      "pushed_at": "2026-03-25T17:36:46Z",
-      "updated_at": "2026-03-25T17:35:32Z"
+      "pushed_at": "2026-03-25T21:52:19Z",
+      "updated_at": "2026-03-25T21:51:41Z"
+    },
+    {
+      "id": 672605495,
+      "full_name": "iffse/pay-respects",
+      "html_url": "https://github.com/iffse/pay-respects",
+      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
+      "stars": 557,
+      "forks": 29,
+      "language": "Rust",
+      "pushed_at": "2026-03-25T19:47:53Z",
+      "updated_at": "2026-03-25T19:47:58Z"
+    },
+    {
+      "id": 16852661,
+      "full_name": "emad-elsaid/xlog",
+      "html_url": "https://github.com/emad-elsaid/xlog",
+      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
+      "stars": 206,
+      "forks": 22,
+      "language": "Go",
+      "pushed_at": "2026-03-25T21:40:19Z",
+      "updated_at": "2026-03-25T21:40:22Z"
     }
   ]
 }
