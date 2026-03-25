@@ -8,81 +8,59 @@
   "total_found": 738,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 119487,
-      "forks": 12989,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T20:03:15Z",
-      "updated_at": "2026-03-24T21:37:14Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 105475,
+      "forks": 13698,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-25T04:23:46Z",
+      "updated_at": "2026-03-25T05:15:34Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42651,
+      "stars": 42655,
       "forks": 2653,
       "language": "C#",
-      "pushed_at": "2026-03-24T21:54:36Z",
-      "updated_at": "2026-03-24T21:36:52Z"
+      "pushed_at": "2026-03-25T04:12:58Z",
+      "updated_at": "2026-03-25T05:01:33Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 24455,
-      "forks": 2574,
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12727,
+      "forks": 785,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T21:21:09Z",
-      "updated_at": "2026-03-24T21:42:59Z"
+      "pushed_at": "2026-03-25T03:20:37Z",
+      "updated_at": "2026-03-25T03:20:40Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18122,
-      "forks": 1566,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 5033,
+      "forks": 287,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T20:54:30Z",
-      "updated_at": "2026-03-24T20:24:53Z"
+      "pushed_at": "2026-03-25T05:13:31Z",
+      "updated_at": "2026-03-25T05:05:16Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 12824,
-      "forks": 646,
-      "language": "Rust",
-      "pushed_at": "2026-03-24T21:38:06Z",
-      "updated_at": "2026-03-24T21:54:15Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5588,
-      "forks": 714,
-      "language": "Swift",
-      "pushed_at": "2026-03-24T20:34:54Z",
-      "updated_at": "2026-03-24T21:51:05Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3074,
-      "forks": 989,
-      "language": "C++",
-      "pushed_at": "2026-03-24T20:07:21Z",
-      "updated_at": "2026-03-24T20:07:23Z"
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "The best agent harness.",
+      "stars": 4131,
+      "forks": 215,
+      "language": "Python",
+      "pushed_at": "2026-03-25T04:23:34Z",
+      "updated_at": "2026-03-25T04:30:00Z"
     },
     {
       "id": 89766385,
@@ -92,74 +70,52 @@
       "stars": 2055,
       "forks": 293,
       "language": "JavaScript",
-      "pushed_at": "2026-03-24T20:49:00Z",
-      "updated_at": "2026-03-24T20:57:11Z"
-    },
-    {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1862,
-      "forks": 89,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T20:27:45Z",
-      "updated_at": "2026-03-24T20:27:49Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1785,
-      "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-03-24T21:15:03Z",
-      "updated_at": "2026-03-24T21:15:07Z"
+      "pushed_at": "2026-03-25T04:47:14Z",
+      "updated_at": "2026-03-25T04:47:17Z"
     },
     {
       "id": 257400448,
       "full_name": "carapace-sh/carapace-bin",
       "html_url": "https://github.com/carapace-sh/carapace-bin",
       "description": "A multi-shell completion binary.",
-      "stars": 1753,
+      "stars": 1754,
       "forks": 107,
       "language": "Go",
-      "pushed_at": "2026-03-24T19:54:22Z",
-      "updated_at": "2026-03-24T19:50:26Z"
+      "pushed_at": "2026-03-25T04:15:37Z",
+      "updated_at": "2026-03-25T04:11:44Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1561,
-      "forks": 151,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-24T19:51:35Z",
-      "updated_at": "2026-03-24T19:50:56Z"
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1520,
+      "forks": 128,
+      "language": "Dart",
+      "pushed_at": "2026-03-25T03:36:48Z",
+      "updated_at": "2026-03-25T04:25:17Z"
     },
     {
-      "id": 264844037,
-      "full_name": "lindell/multi-gitter",
-      "html_url": "https://github.com/lindell/multi-gitter",
-      "description": "Update multiple repositories in with one command",
-      "stars": 1170,
-      "forks": 83,
-      "language": "Go",
-      "pushed_at": "2026-03-24T20:50:23Z",
-      "updated_at": "2026-03-24T20:49:24Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
-      "stars": 663,
-      "forks": 33,
+      "id": 1094171135,
+      "full_name": "dtsola/xiaoyaosearch",
+      "html_url": "https://github.com/dtsola/xiaoyaosearch",
+      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
+      "stars": 1181,
+      "forks": 106,
       "language": "Python",
-      "pushed_at": "2026-03-24T20:15:47Z",
-      "updated_at": "2026-03-24T20:15:55Z"
+      "pushed_at": "2026-03-25T02:01:54Z",
+      "updated_at": "2026-03-25T02:01:58Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1060,
+      "forks": 23,
+      "language": "Swift",
+      "pushed_at": "2026-03-25T01:50:48Z",
+      "updated_at": "2026-03-25T01:50:34Z"
     },
     {
       "id": 1111978380,
@@ -169,8 +125,52 @@
       "stars": 662,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T21:14:08Z",
-      "updated_at": "2026-03-24T21:14:12Z"
+      "pushed_at": "2026-03-25T02:42:37Z",
+      "updated_at": "2026-03-25T02:42:41Z"
+    },
+    {
+      "id": 1190424251,
+      "full_name": "marswaveai/TypeNo",
+      "html_url": "https://github.com/marswaveai/TypeNo",
+      "description": "A free, open source, privacy-first voice input app for macOS.",
+      "stars": 426,
+      "forks": 32,
+      "language": "Swift",
+      "pushed_at": "2026-03-25T04:11:33Z",
+      "updated_at": "2026-03-25T05:14:28Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 382,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-25T05:06:04Z",
+      "updated_at": "2026-03-25T05:06:06Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 240,
+      "forks": 39,
+      "language": "Unknown",
+      "pushed_at": "2026-03-25T05:14:13Z",
+      "updated_at": "2026-03-25T05:13:14Z"
+    },
+    {
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 208,
+      "forks": 11,
+      "language": "Go",
+      "pushed_at": "2026-03-25T04:20:16Z",
+      "updated_at": "2026-03-25T04:20:19Z"
     }
   ]
 }
