@@ -8,59 +8,59 @@
   "total_found": 743,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 111251,
-      "forks": 14500,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-27T10:25:51Z",
-      "updated_at": "2026-03-27T10:31:58Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 119679,
+      "forks": 13022,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-27T12:43:53Z",
+      "updated_at": "2026-03-27T15:08:57Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 25039,
-      "forks": 2630,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-27T08:33:47Z",
-      "updated_at": "2026-03-27T10:29:26Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42706,
+      "forks": 2658,
+      "language": "C#",
+      "pushed_at": "2026-03-27T14:33:08Z",
+      "updated_at": "2026-03-27T14:46:57Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18150,
-      "forks": 1568,
+      "stars": 18152,
+      "forks": 1569,
       "language": "TypeScript",
-      "pushed_at": "2026-03-27T10:13:04Z",
-      "updated_at": "2026-03-27T10:16:02Z"
+      "pushed_at": "2026-03-27T14:53:19Z",
+      "updated_at": "2026-03-27T14:53:18Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 14327,
-      "forks": 725,
-      "language": "Rust",
-      "pushed_at": "2026-03-27T10:27:00Z",
-      "updated_at": "2026-03-27T10:31:23Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10344,
+      "forks": 1245,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-27T14:31:26Z",
+      "updated_at": "2026-03-27T14:31:20Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14288,
-      "forks": 577,
-      "language": "C#",
-      "pushed_at": "2026-03-27T09:28:18Z",
-      "updated_at": "2026-03-27T10:16:19Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6971,
+      "forks": 174,
+      "language": "C++",
+      "pushed_at": "2026-03-27T13:07:56Z",
+      "updated_at": "2026-03-27T13:42:18Z"
     },
     {
       "id": 475337801,
@@ -70,8 +70,8 @@
       "stars": 6677,
       "forks": 247,
       "language": "TypeScript",
-      "pushed_at": "2026-03-27T10:13:59Z",
-      "updated_at": "2026-03-27T10:14:03Z"
+      "pushed_at": "2026-03-27T14:28:00Z",
+      "updated_at": "2026-03-27T14:28:03Z"
     },
     {
       "id": 129699403,
@@ -81,96 +81,96 @@
       "stars": 5592,
       "forks": 719,
       "language": "Swift",
-      "pushed_at": "2026-03-27T10:31:27Z",
-      "updated_at": "2026-03-27T10:28:41Z"
+      "pushed_at": "2026-03-27T15:06:49Z",
+      "updated_at": "2026-03-27T13:50:33Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 5247,
+      "stars": 5255,
       "forks": 300,
       "language": "TypeScript",
-      "pushed_at": "2026-03-27T10:17:26Z",
-      "updated_at": "2026-03-27T10:33:55Z"
+      "pushed_at": "2026-03-27T13:28:50Z",
+      "updated_at": "2026-03-27T15:04:19Z"
     },
     {
-      "id": 1142423471,
-      "full_name": "mindfold-ai/Trellis",
-      "html_url": "https://github.com/mindfold-ai/Trellis",
-      "description": "The best agent harness.",
-      "stars": 4272,
-      "forks": 222,
-      "language": "Python",
-      "pushed_at": "2026-03-27T09:05:26Z",
-      "updated_at": "2026-03-27T10:27:44Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3604,
-      "forks": 750,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-27T09:46:38Z",
-      "updated_at": "2026-03-27T09:36:50Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3504,
+      "forks": 170,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-27T15:03:37Z",
+      "updated_at": "2026-03-27T15:07:08Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3082,
-      "forks": 990,
+      "stars": 3086,
+      "forks": 991,
       "language": "C++",
-      "pushed_at": "2026-03-27T10:30:00Z",
-      "updated_at": "2026-03-27T10:28:28Z"
+      "pushed_at": "2026-03-27T15:03:27Z",
+      "updated_at": "2026-03-27T14:52:56Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2323,
+      "stars": 2327,
       "forks": 236,
       "language": "TypeScript",
-      "pushed_at": "2026-03-27T09:14:08Z",
-      "updated_at": "2026-03-27T09:14:14Z"
+      "pushed_at": "2026-03-27T13:49:57Z",
+      "updated_at": "2026-03-27T15:02:57Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1757,
-      "forks": 186,
-      "language": "Go",
-      "pushed_at": "2026-03-27T08:20:35Z",
-      "updated_at": "2026-03-27T10:04:19Z"
+      "id": 1094171135,
+      "full_name": "dtsola/xiaoyaosearch",
+      "html_url": "https://github.com/dtsola/xiaoyaosearch",
+      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
+      "stars": 1201,
+      "forks": 109,
+      "language": "Python",
+      "pushed_at": "2026-03-27T13:42:03Z",
+      "updated_at": "2026-03-27T14:32:59Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1042,
+      "forks": 27,
+      "language": "Rust",
+      "pushed_at": "2026-03-27T13:11:40Z",
+      "updated_at": "2026-03-27T13:11:24Z"
+    },
+    {
+      "id": 1118483478,
+      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
+      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
+      "description": "my curated agent skills library ",
+      "stars": 963,
+      "forks": 107,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-27T13:37:40Z",
+      "updated_at": "2026-03-27T13:37:50Z"
     },
     {
       "id": 1190424251,
       "full_name": "marswaveai/TypeNo",
       "html_url": "https://github.com/marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 708,
+      "stars": 715,
       "forks": 58,
       "language": "Swift",
-      "pushed_at": "2026-03-27T07:41:08Z",
-      "updated_at": "2026-03-27T09:38:42Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 396,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-27T10:28:36Z",
-      "updated_at": "2026-03-27T10:28:39Z"
+      "pushed_at": "2026-03-27T13:57:15Z",
+      "updated_at": "2026-03-27T14:16:43Z"
     }
   ]
 }
