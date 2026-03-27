@@ -8,26 +8,15 @@
   "total_found": 744,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42709,
-      "forks": 2658,
-      "language": "C#",
-      "pushed_at": "2026-03-27T16:16:27Z",
-      "updated_at": "2026-03-27T18:31:42Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24490,
-      "forks": 2269,
-      "language": "Python",
-      "pushed_at": "2026-03-27T15:27:58Z",
-      "updated_at": "2026-03-27T17:13:46Z"
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 25102,
+      "forks": 2638,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-27T18:14:50Z",
+      "updated_at": "2026-03-27T20:52:57Z"
     },
     {
       "id": 66150122,
@@ -45,33 +34,44 @@
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 18710,
+      "stars": 18712,
       "forks": 848,
       "language": "Go",
-      "pushed_at": "2026-03-27T18:23:45Z",
-      "updated_at": "2026-03-27T17:27:36Z"
+      "pushed_at": "2026-03-27T21:05:14Z",
+      "updated_at": "2026-03-27T21:15:31Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18159,
-      "forks": 1570,
+      "stars": 18163,
+      "forks": 1571,
       "language": "TypeScript",
       "pushed_at": "2026-03-27T18:19:58Z",
-      "updated_at": "2026-03-27T18:33:41Z"
+      "updated_at": "2026-03-27T21:51:46Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 14505,
-      "forks": 736,
+      "stars": 14531,
+      "forks": 737,
       "language": "Rust",
       "pushed_at": "2026-03-27T18:36:45Z",
-      "updated_at": "2026-03-27T18:28:27Z"
+      "updated_at": "2026-03-27T21:42:14Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13874,
+      "forks": 934,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-27T19:21:06Z",
+      "updated_at": "2026-03-27T19:21:06Z"
     },
     {
       "id": 665613753,
@@ -81,8 +81,19 @@
       "stars": 10346,
       "forks": 1246,
       "language": "TypeScript",
-      "pushed_at": "2026-03-27T18:26:26Z",
-      "updated_at": "2026-03-27T17:22:16Z"
+      "pushed_at": "2026-03-27T20:21:10Z",
+      "updated_at": "2026-03-27T19:56:06Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9331,
+      "forks": 796,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-27T19:11:46Z",
+      "updated_at": "2026-03-27T19:26:14Z"
     },
     {
       "id": 475337801,
@@ -92,8 +103,8 @@
       "stars": 6678,
       "forks": 247,
       "language": "TypeScript",
-      "pushed_at": "2026-03-27T18:34:04Z",
-      "updated_at": "2026-03-27T18:33:56Z"
+      "pushed_at": "2026-03-27T18:54:33Z",
+      "updated_at": "2026-03-27T18:54:34Z"
     },
     {
       "id": 129699403,
@@ -114,52 +125,19 @@
       "stars": 5052,
       "forks": 607,
       "language": "Kotlin",
-      "pushed_at": "2026-03-27T16:40:06Z",
-      "updated_at": "2026-03-27T16:40:11Z"
+      "pushed_at": "2026-03-27T20:57:05Z",
+      "updated_at": "2026-03-27T20:55:30Z"
     },
     {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3087,
-      "forks": 991,
-      "language": "C++",
-      "pushed_at": "2026-03-27T18:24:35Z",
-      "updated_at": "2026-03-27T17:39:19Z"
-    },
-    {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
-      "stars": 1755,
-      "forks": 115,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-27T15:35:34Z",
-      "updated_at": "2026-03-27T15:34:14Z"
-    },
-    {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1572,
-      "forks": 151,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-27T17:25:31Z",
-      "updated_at": "2026-03-27T16:58:26Z"
-    },
-    {
-      "id": 1118483478,
-      "full_name": "MoizIbnYousaf/Ai-Agent-Skills",
-      "html_url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
-      "description": "my curated agent skills library ",
-      "stars": 963,
-      "forks": 107,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-27T17:31:40Z",
-      "updated_at": "2026-03-27T17:31:44Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1784,
+      "forks": 132,
+      "language": "Dart",
+      "pushed_at": "2026-03-27T21:22:24Z",
+      "updated_at": "2026-03-27T21:22:27Z"
     },
     {
       "id": 843554833,
@@ -169,8 +147,30 @@
       "stars": 895,
       "forks": 30,
       "language": "Swift",
-      "pushed_at": "2026-03-27T18:12:47Z",
-      "updated_at": "2026-03-27T16:40:52Z"
+      "pushed_at": "2026-03-27T21:02:50Z",
+      "updated_at": "2026-03-27T21:02:53Z"
+    },
+    {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
+      "stars": 666,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-03-27T19:09:10Z",
+      "updated_at": "2026-03-27T19:09:14Z"
+    },
+    {
+      "id": 168433850,
+      "full_name": "jamestomasino/stutter",
+      "html_url": "https://github.com/jamestomasino/stutter",
+      "description": "RSVP for browsers",
+      "stars": 175,
+      "forks": 13,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-27T20:06:19Z",
+      "updated_at": "2026-03-27T20:06:22Z"
     }
   ]
 }
