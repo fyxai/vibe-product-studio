@@ -8,15 +8,15 @@
   "total_found": 746,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42743,
-      "forks": 2660,
-      "language": "C#",
-      "pushed_at": "2026-03-29T15:08:38Z",
-      "updated_at": "2026-03-29T16:07:40Z"
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24381,
+      "forks": 1782,
+      "language": "Vue",
+      "pushed_at": "2026-03-29T19:05:06Z",
+      "updated_at": "2026-03-29T18:57:53Z"
     },
     {
       "id": 66150122,
@@ -26,30 +26,30 @@
       "stars": 21437,
       "forks": 796,
       "language": "C",
-      "pushed_at": "2026-03-29T16:05:11Z",
-      "updated_at": "2026-03-29T16:05:15Z"
+      "pushed_at": "2026-03-29T17:23:40Z",
+      "updated_at": "2026-03-29T18:01:48Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18220,
-      "forks": 1579,
+      "stars": 18224,
+      "forks": 1580,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T15:35:07Z",
-      "updated_at": "2026-03-29T16:34:09Z"
+      "pushed_at": "2026-03-29T18:35:13Z",
+      "updated_at": "2026-03-29T20:13:12Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12745,
-      "forks": 784,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-29T15:37:55Z",
-      "updated_at": "2026-03-29T15:45:58Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 15104,
+      "forks": 766,
+      "language": "Rust",
+      "pushed_at": "2026-03-29T16:46:06Z",
+      "updated_at": "2026-03-29T20:30:54Z"
     },
     {
       "id": 665613753,
@@ -59,52 +59,85 @@
       "stars": 10350,
       "forks": 1248,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T16:24:25Z",
-      "updated_at": "2026-03-29T16:24:08Z"
+      "pushed_at": "2026-03-29T19:52:32Z",
+      "updated_at": "2026-03-29T19:52:36Z"
     },
     {
-      "id": 610217037,
-      "full_name": "di-sukharev/opencommit",
-      "html_url": "https://github.com/di-sukharev/opencommit",
-      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
-      "stars": 7225,
-      "forks": 418,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-29T16:20:36Z",
-      "updated_at": "2026-03-29T16:20:41Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6988,
+      "forks": 175,
+      "language": "C++",
+      "pushed_at": "2026-03-29T20:18:00Z",
+      "updated_at": "2026-03-29T20:18:05Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5599,
+      "forks": 720,
+      "language": "Swift",
+      "pushed_at": "2026-03-29T19:35:38Z",
+      "updated_at": "2026-03-29T19:35:27Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5062,
+      "forks": 436,
+      "language": "Rust",
+      "pushed_at": "2026-03-29T19:55:19Z",
+      "updated_at": "2026-03-29T20:31:10Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5062,
+      "stars": 5061,
       "forks": 608,
       "language": "Kotlin",
-      "pushed_at": "2026-03-29T16:32:28Z",
-      "updated_at": "2026-03-29T16:18:38Z"
+      "pushed_at": "2026-03-29T19:05:40Z",
+      "updated_at": "2026-03-29T19:05:36Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 3215,
-      "forks": 341,
-      "language": "Unknown",
-      "pushed_at": "2026-03-29T15:36:51Z",
-      "updated_at": "2026-03-29T16:24:36Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3552,
+      "forks": 170,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-29T17:33:52Z",
+      "updated_at": "2026-03-29T18:59:40Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3127,
-      "forks": 142,
-      "language": "Gherkin",
-      "pushed_at": "2026-03-29T14:43:45Z",
-      "updated_at": "2026-03-29T14:43:47Z"
+      "id": 736435794,
+      "full_name": "joshmedeski/sesh",
+      "html_url": "https://github.com/joshmedeski/sesh",
+      "description": "Smart tmux session manager",
+      "stars": 1928,
+      "forks": 95,
+      "language": "Go",
+      "pushed_at": "2026-03-29T17:27:09Z",
+      "updated_at": "2026-03-29T20:31:17Z"
+    },
+    {
+      "id": 1119754832,
+      "full_name": "OlaProeis/Ferrite",
+      "html_url": "https://github.com/OlaProeis/Ferrite",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "stars": 1340,
+      "forks": 58,
+      "language": "Rust",
+      "pushed_at": "2026-03-29T17:36:58Z",
+      "updated_at": "2026-03-29T19:13:08Z"
     },
     {
       "id": 591995344,
@@ -118,59 +151,26 @@
       "updated_at": "2026-03-29T16:30:28Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 418,
-      "forks": 64,
-      "language": "Go",
-      "pushed_at": "2026-03-29T15:20:33Z",
-      "updated_at": "2026-03-29T15:12:11Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+      "stars": 691,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-03-29T19:53:57Z",
+      "updated_at": "2026-03-29T19:54:00Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 412,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-29T16:15:57Z",
-      "updated_at": "2026-03-29T16:15:58Z"
-    },
-    {
-      "id": 689740171,
-      "full_name": "pivoshenko/catppuccin-startpage",
-      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
-      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
-      "stars": 293,
-      "forks": 315,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-29T16:27:50Z",
-      "updated_at": "2026-03-29T16:27:54Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 208,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-03-29T15:53:37Z",
-      "updated_at": "2026-03-29T15:53:40Z"
-    },
-    {
-      "id": 259807763,
-      "full_name": "brainless/dwata",
-      "html_url": "https://github.com/brainless/dwata",
-      "description": "AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!",
-      "stars": 176,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-03-29T15:12:34Z",
-      "updated_at": "2026-03-29T15:12:38Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 672,
+      "forks": 42,
+      "language": "Python",
+      "pushed_at": "2026-03-29T17:42:35Z",
+      "updated_at": "2026-03-29T17:42:38Z"
     }
   ]
 }
