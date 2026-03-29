@@ -5,29 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 747,
+  "total_found": 746,
   "items": [
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42743,
+      "forks": 2660,
+      "language": "C#",
+      "pushed_at": "2026-03-29T15:08:38Z",
+      "updated_at": "2026-03-29T16:07:40Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21437,
+      "forks": 796,
+      "language": "C",
+      "pushed_at": "2026-03-29T16:05:11Z",
+      "updated_at": "2026-03-29T16:05:15Z"
+    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18215,
-      "forks": 1578,
+      "stars": 18220,
+      "forks": 1579,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T12:00:24Z",
-      "updated_at": "2026-03-29T12:14:24Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 14861,
-      "forks": 754,
-      "language": "Rust",
-      "pushed_at": "2026-03-29T12:48:21Z",
-      "updated_at": "2026-03-29T12:53:56Z"
+      "pushed_at": "2026-03-29T15:35:07Z",
+      "updated_at": "2026-03-29T16:34:09Z"
     },
     {
       "id": 115446081,
@@ -37,63 +48,52 @@
       "stars": 12745,
       "forks": 784,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T10:46:49Z",
-      "updated_at": "2026-03-29T10:46:52Z"
+      "pushed_at": "2026-03-29T15:37:55Z",
+      "updated_at": "2026-03-29T15:45:58Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10348,
+      "stars": 10350,
       "forks": 1248,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T10:00:09Z",
-      "updated_at": "2026-03-29T11:25:52Z"
+      "pushed_at": "2026-03-29T16:24:25Z",
+      "updated_at": "2026-03-29T16:24:08Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free and open source code snippet manager for developers",
-      "stars": 6679,
-      "forks": 247,
+      "id": 610217037,
+      "full_name": "di-sukharev/opencommit",
+      "html_url": "https://github.com/di-sukharev/opencommit",
+      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "stars": 7225,
+      "forks": 418,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T12:19:49Z",
-      "updated_at": "2026-03-29T12:19:52Z"
+      "pushed_at": "2026-03-29T16:20:36Z",
+      "updated_at": "2026-03-29T16:20:41Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 5374,
-      "forks": 311,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-29T11:20:39Z",
-      "updated_at": "2026-03-29T12:50:53Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3606,
-      "forks": 750,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-29T10:05:38Z",
-      "updated_at": "2026-03-29T10:05:12Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5062,
+      "forks": 608,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-29T16:32:28Z",
+      "updated_at": "2026-03-29T16:18:38Z"
     },
     {
       "id": 1164376059,
       "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
       "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
       "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 3205,
-      "forks": 339,
+      "stars": 3215,
+      "forks": 341,
       "language": "Unknown",
-      "pushed_at": "2026-03-29T11:24:15Z",
-      "updated_at": "2026-03-29T12:10:13Z"
+      "pushed_at": "2026-03-29T15:36:51Z",
+      "updated_at": "2026-03-29T16:24:36Z"
     },
     {
       "id": 19825320,
@@ -103,30 +103,19 @@
       "stars": 3127,
       "forks": 142,
       "language": "Gherkin",
-      "pushed_at": "2026-03-29T12:44:10Z",
-      "updated_at": "2026-03-29T12:28:50Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1088,
-      "forks": 115,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-29T09:38:17Z",
-      "updated_at": "2026-03-29T09:38:21Z"
+      "pushed_at": "2026-03-29T14:43:45Z",
+      "updated_at": "2026-03-29T14:43:47Z"
     },
     {
       "id": 591995344,
       "full_name": "rush86999/atom",
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 727,
+      "stars": 728,
       "forks": 69,
       "language": "Python",
-      "pushed_at": "2026-03-29T12:06:39Z",
-      "updated_at": "2026-03-29T12:06:42Z"
+      "pushed_at": "2026-03-29T16:30:24Z",
+      "updated_at": "2026-03-29T16:30:28Z"
     },
     {
       "id": 244958571,
@@ -134,43 +123,54 @@
       "html_url": "https://github.com/wakatime/wakatime-cli",
       "description": "Command line interface used by all WakaTime text editor plugins",
       "stars": 418,
-      "forks": 63,
+      "forks": 64,
       "language": "Go",
-      "pushed_at": "2026-03-29T12:28:57Z",
-      "updated_at": "2026-03-29T12:24:39Z"
+      "pushed_at": "2026-03-29T15:20:33Z",
+      "updated_at": "2026-03-29T15:12:11Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 408,
-      "forks": 25,
-      "language": "Shell",
-      "pushed_at": "2026-03-29T10:36:09Z",
-      "updated_at": "2026-03-29T10:36:14Z"
-    },
-    {
-      "id": 69779247,
-      "full_name": "CodeverDotDev/codever",
-      "html_url": "https://github.com/CodeverDotDev/codever",
-      "description": "Bookmarks, Snippets and Notes Manager for Developers & Co (website)",
-      "stars": 382,
-      "forks": 57,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 412,
+      "forks": 22,
       "language": "TypeScript",
-      "pushed_at": "2026-03-29T10:10:53Z",
-      "updated_at": "2026-03-29T10:10:57Z"
+      "pushed_at": "2026-03-29T16:15:57Z",
+      "updated_at": "2026-03-29T16:15:58Z"
     },
     {
-      "id": 222278547,
-      "full_name": "penge/my-notes",
-      "html_url": "https://github.com/penge/my-notes",
-      "description": "Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.",
-      "stars": 262,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-29T10:56:27Z",
-      "updated_at": "2026-03-29T11:04:56Z"
+      "id": 689740171,
+      "full_name": "pivoshenko/catppuccin-startpage",
+      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
+      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+      "stars": 293,
+      "forks": 315,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-29T16:27:50Z",
+      "updated_at": "2026-03-29T16:27:54Z"
+    },
+    {
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 208,
+      "forks": 6,
+      "language": "Go",
+      "pushed_at": "2026-03-29T15:53:37Z",
+      "updated_at": "2026-03-29T15:53:40Z"
+    },
+    {
+      "id": 259807763,
+      "full_name": "brainless/dwata",
+      "html_url": "https://github.com/brainless/dwata",
+      "description": "AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!",
+      "stars": 176,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-03-29T15:12:34Z",
+      "updated_at": "2026-03-29T15:12:38Z"
     }
   ]
 }
