@@ -8,28 +8,6 @@
   "total_found": 746,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36012,
-      "forks": 3631,
-      "language": "C#",
-      "pushed_at": "2026-03-30T11:55:28Z",
-      "updated_at": "2026-03-30T13:12:03Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 25496,
-      "forks": 2666,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T12:37:18Z",
-      "updated_at": "2026-03-30T13:15:44Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
@@ -37,52 +15,41 @@
       "stars": 18247,
       "forks": 1581,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T13:12:42Z",
-      "updated_at": "2026-03-30T13:13:05Z"
+      "pushed_at": "2026-03-30T15:52:50Z",
+      "updated_at": "2026-03-30T16:51:34Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 15521,
-      "forks": 782,
+      "stars": 15622,
+      "forks": 786,
       "language": "Rust",
-      "pushed_at": "2026-03-30T13:13:33Z",
-      "updated_at": "2026-03-30T13:18:25Z"
+      "pushed_at": "2026-03-30T16:51:47Z",
+      "updated_at": "2026-03-30T16:50:59Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12751,
-      "forks": 784,
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8282,
+      "forks": 921,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T12:56:15Z",
-      "updated_at": "2026-03-30T13:12:48Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10355,
-      "forks": 1249,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T11:35:53Z",
-      "updated_at": "2026-03-30T12:35:01Z"
+      "pushed_at": "2026-03-30T16:02:19Z",
+      "updated_at": "2026-03-30T15:55:58Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 6997,
+      "stars": 6999,
       "forks": 176,
       "language": "C++",
-      "pushed_at": "2026-03-30T11:42:31Z",
-      "updated_at": "2026-03-30T13:17:16Z"
+      "pushed_at": "2026-03-30T15:52:06Z",
+      "updated_at": "2026-03-30T15:52:14Z"
     },
     {
       "id": 475337801,
@@ -92,8 +59,8 @@
       "stars": 6679,
       "forks": 247,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T13:05:24Z",
-      "updated_at": "2026-03-30T13:05:39Z"
+      "pushed_at": "2026-03-30T16:06:44Z",
+      "updated_at": "2026-03-30T16:06:49Z"
     },
     {
       "id": 129699403,
@@ -103,19 +70,41 @@
       "stars": 5602,
       "forks": 720,
       "language": "Swift",
-      "pushed_at": "2026-03-30T13:17:34Z",
-      "updated_at": "2026-03-30T13:16:00Z"
+      "pushed_at": "2026-03-30T16:49:26Z",
+      "updated_at": "2026-03-30T16:49:15Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 3253,
-      "forks": 348,
-      "language": "Unknown",
-      "pushed_at": "2026-03-30T12:50:39Z",
-      "updated_at": "2026-03-30T13:04:55Z"
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3095,
+      "forks": 992,
+      "language": "C++",
+      "pushed_at": "2026-03-30T16:51:40Z",
+      "updated_at": "2026-03-30T16:51:45Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2428,
+      "forks": 257,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-30T15:36:50Z",
+      "updated_at": "2026-03-30T16:03:11Z"
+    },
+    {
+      "id": 736435794,
+      "full_name": "joshmedeski/sesh",
+      "html_url": "https://github.com/joshmedeski/sesh",
+      "description": "Smart tmux session manager",
+      "stars": 2029,
+      "forks": 96,
+      "language": "Go",
+      "pushed_at": "2026-03-30T16:32:43Z",
+      "updated_at": "2026-03-30T16:54:36Z"
     },
     {
       "id": 323279421,
@@ -125,8 +114,8 @@
       "stars": 1785,
       "forks": 132,
       "language": "Dart",
-      "pushed_at": "2026-03-30T11:55:00Z",
-      "updated_at": "2026-03-30T11:53:57Z"
+      "pushed_at": "2026-03-30T16:43:11Z",
+      "updated_at": "2026-03-30T16:42:41Z"
     },
     {
       "id": 919664598,
@@ -136,30 +125,8 @@
       "stars": 784,
       "forks": 68,
       "language": "PHP",
-      "pushed_at": "2026-03-30T12:55:11Z",
-      "updated_at": "2026-03-30T12:55:15Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 729,
-      "forks": 69,
-      "language": "Python",
-      "pushed_at": "2026-03-30T12:31:43Z",
-      "updated_at": "2026-03-30T12:31:46Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
-      "stars": 670,
-      "forks": 114,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T11:31:13Z",
-      "updated_at": "2026-03-30T11:31:17Z"
+      "pushed_at": "2026-03-30T15:35:14Z",
+      "updated_at": "2026-03-30T15:35:19Z"
     },
     {
       "id": 633571482,
@@ -169,8 +136,41 @@
       "stars": 666,
       "forks": 33,
       "language": "Python",
-      "pushed_at": "2026-03-30T11:22:24Z",
-      "updated_at": "2026-03-30T11:22:20Z"
+      "pushed_at": "2026-03-30T16:21:30Z",
+      "updated_at": "2026-03-30T16:21:27Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 415,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-30T16:34:34Z",
+      "updated_at": "2026-03-30T15:37:30Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 307,
+      "forks": 13,
+      "language": "Shell",
+      "pushed_at": "2026-03-30T15:34:26Z",
+      "updated_at": "2026-03-30T15:34:30Z"
+    },
+    {
+      "id": 163642755,
+      "full_name": "cuongtk8/awesome-linux-apps",
+      "html_url": "https://github.com/cuongtk8/awesome-linux-apps",
+      "description": "🚀 A list of awesome applications for 🐧 Linux distributions.",
+      "stars": 219,
+      "forks": 33,
+      "language": "Unknown",
+      "pushed_at": "2026-03-30T16:42:55Z",
+      "updated_at": "2026-03-30T16:43:01Z"
     }
   ]
 }
