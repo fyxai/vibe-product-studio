@@ -8,92 +8,147 @@
   "total_found": 746,
   "items": [
     {
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 185756,
+      "forks": 26315,
+      "language": "Shell",
+      "pushed_at": "2026-03-30T07:53:38Z",
+      "updated_at": "2026-03-30T09:08:54Z"
+    },
+    {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 117130,
-      "forks": 15213,
+      "stars": 117576,
+      "forks": 15265,
       "language": "JavaScript",
-      "pushed_at": "2026-03-30T05:52:32Z",
-      "updated_at": "2026-03-30T05:56:47Z"
+      "pushed_at": "2026-03-30T08:58:48Z",
+      "updated_at": "2026-03-30T09:10:46Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42748,
-      "forks": 2661,
-      "language": "C#",
-      "pushed_at": "2026-03-30T04:43:47Z",
-      "updated_at": "2026-03-30T05:19:40Z"
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24384,
+      "forks": 1782,
+      "language": "Vue",
+      "pushed_at": "2026-03-30T07:25:32Z",
+      "updated_at": "2026-03-30T08:36:31Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18240,
+      "forks": 1581,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-30T08:42:53Z",
+      "updated_at": "2026-03-30T08:59:32Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 15417,
+      "forks": 777,
+      "language": "Rust",
+      "pushed_at": "2026-03-30T08:29:07Z",
+      "updated_at": "2026-03-30T09:11:31Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13870,
-      "forks": 933,
+      "stars": 13871,
+      "forks": 934,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T04:44:23Z",
-      "updated_at": "2026-03-30T04:43:58Z"
+      "pushed_at": "2026-03-30T09:00:41Z",
+      "updated_at": "2026-03-30T08:46:33Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 5451,
-      "forks": 315,
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12748,
+      "forks": 784,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T04:27:45Z",
-      "updated_at": "2026-03-30T05:45:10Z"
+      "pushed_at": "2026-03-30T07:49:54Z",
+      "updated_at": "2026-03-30T07:49:57Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4366,
-      "forks": 99,
-      "language": "Rust",
-      "pushed_at": "2026-03-30T02:26:13Z",
-      "updated_at": "2026-03-30T03:01:00Z"
-    },
-    {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1059,
-      "forks": 90,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10353,
+      "forks": 1248,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T05:18:43Z",
-      "updated_at": "2026-03-30T05:18:43Z"
+      "pushed_at": "2026-03-30T07:03:25Z",
+      "updated_at": "2026-03-30T07:50:09Z"
     },
     {
-      "id": 837514404,
-      "full_name": "SnapXL/SnapX",
-      "html_url": "https://github.com/SnapXL/SnapX",
-      "description": "SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork",
-      "stars": 866,
-      "forks": 14,
-      "language": "C#",
-      "pushed_at": "2026-03-30T04:42:12Z",
-      "updated_at": "2026-03-30T04:42:16Z"
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free and open source code snippet manager for developers",
+      "stars": 6679,
+      "forks": 247,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-30T06:38:17Z",
+      "updated_at": "2026-03-30T06:58:13Z"
     },
     {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 737,
-      "forks": 21,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5600,
+      "forks": 720,
       "language": "Swift",
-      "pushed_at": "2026-03-30T03:39:12Z",
-      "updated_at": "2026-03-30T05:13:45Z"
+      "pushed_at": "2026-03-30T09:08:26Z",
+      "updated_at": "2026-03-30T08:43:37Z"
+    },
+    {
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "The best agent harness.",
+      "stars": 4382,
+      "forks": 224,
+      "language": "Python",
+      "pushed_at": "2026-03-30T08:06:25Z",
+      "updated_at": "2026-03-30T09:10:35Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3094,
+      "forks": 991,
+      "language": "C++",
+      "pushed_at": "2026-03-30T09:10:19Z",
+      "updated_at": "2026-03-30T07:27:53Z"
+    },
+    {
+      "id": 1119754832,
+      "full_name": "OlaProeis/Ferrite",
+      "html_url": "https://github.com/OlaProeis/Ferrite",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "stars": 1346,
+      "forks": 58,
+      "language": "Rust",
+      "pushed_at": "2026-03-30T08:59:52Z",
+      "updated_at": "2026-03-30T09:10:51Z"
     },
     {
       "id": 1111978380,
@@ -103,74 +158,19 @@
       "stars": 684,
       "forks": 36,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T05:56:13Z",
-      "updated_at": "2026-03-30T05:56:18Z"
-    },
-    {
-      "id": 986669929,
-      "full_name": "ysm-dev/cpdown",
-      "html_url": "https://github.com/ysm-dev/cpdown",
-      "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
-      "stars": 528,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T01:46:33Z",
-      "updated_at": "2026-03-30T01:46:36Z"
-    },
-    {
-      "id": 1028870440,
-      "full_name": "Taskosaur/Taskosaur",
-      "html_url": "https://github.com/Taskosaur/Taskosaur",
-      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
-      "stars": 440,
-      "forks": 83,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T05:18:38Z",
-      "updated_at": "2026-03-30T05:18:41Z"
+      "pushed_at": "2026-03-30T07:09:00Z",
+      "updated_at": "2026-03-30T06:28:14Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 413,
+      "stars": 414,
       "forks": 22,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T03:34:03Z",
-      "updated_at": "2026-03-30T03:30:28Z"
-    },
-    {
-      "id": 16852661,
-      "full_name": "emad-elsaid/xlog",
-      "html_url": "https://github.com/emad-elsaid/xlog",
-      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
-      "stars": 206,
-      "forks": 21,
-      "language": "Go",
-      "pushed_at": "2026-03-30T05:02:32Z",
-      "updated_at": "2026-03-30T05:02:37Z"
-    },
-    {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 194,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-30T04:16:34Z",
-      "updated_at": "2026-03-30T04:15:06Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-30T02:22:13Z",
-      "updated_at": "2026-03-30T02:22:16Z"
+      "pushed_at": "2026-03-30T08:53:08Z",
+      "updated_at": "2026-03-30T08:17:17Z"
     }
   ]
 }
