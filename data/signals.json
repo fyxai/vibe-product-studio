@@ -8,92 +8,81 @@
   "total_found": 746,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185756,
-      "forks": 26315,
-      "language": "Shell",
-      "pushed_at": "2026-03-30T07:53:38Z",
-      "updated_at": "2026-03-30T09:08:54Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36012,
+      "forks": 3631,
+      "language": "C#",
+      "pushed_at": "2026-03-30T11:55:28Z",
+      "updated_at": "2026-03-30T13:12:03Z"
     },
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 117576,
-      "forks": 15265,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-30T08:58:48Z",
-      "updated_at": "2026-03-30T09:10:46Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24384,
-      "forks": 1782,
-      "language": "Vue",
-      "pushed_at": "2026-03-30T07:25:32Z",
-      "updated_at": "2026-03-30T08:36:31Z"
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 25496,
+      "forks": 2666,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-30T12:37:18Z",
+      "updated_at": "2026-03-30T13:15:44Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18240,
+      "stars": 18247,
       "forks": 1581,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T08:42:53Z",
-      "updated_at": "2026-03-30T08:59:32Z"
+      "pushed_at": "2026-03-30T13:12:42Z",
+      "updated_at": "2026-03-30T13:13:05Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 15417,
-      "forks": 777,
+      "stars": 15521,
+      "forks": 782,
       "language": "Rust",
-      "pushed_at": "2026-03-30T08:29:07Z",
-      "updated_at": "2026-03-30T09:11:31Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13871,
-      "forks": 934,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T09:00:41Z",
-      "updated_at": "2026-03-30T08:46:33Z"
+      "pushed_at": "2026-03-30T13:13:33Z",
+      "updated_at": "2026-03-30T13:18:25Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 12748,
+      "stars": 12751,
       "forks": 784,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T07:49:54Z",
-      "updated_at": "2026-03-30T07:49:57Z"
+      "pushed_at": "2026-03-30T12:56:15Z",
+      "updated_at": "2026-03-30T13:12:48Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10353,
-      "forks": 1248,
+      "stars": 10355,
+      "forks": 1249,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T07:03:25Z",
-      "updated_at": "2026-03-30T07:50:09Z"
+      "pushed_at": "2026-03-30T11:35:53Z",
+      "updated_at": "2026-03-30T12:35:01Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 6997,
+      "forks": 176,
+      "language": "C++",
+      "pushed_at": "2026-03-30T11:42:31Z",
+      "updated_at": "2026-03-30T13:17:16Z"
     },
     {
       "id": 475337801,
@@ -103,74 +92,85 @@
       "stars": 6679,
       "forks": 247,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T06:38:17Z",
-      "updated_at": "2026-03-30T06:58:13Z"
+      "pushed_at": "2026-03-30T13:05:24Z",
+      "updated_at": "2026-03-30T13:05:39Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5600,
+      "stars": 5602,
       "forks": 720,
       "language": "Swift",
-      "pushed_at": "2026-03-30T09:08:26Z",
-      "updated_at": "2026-03-30T08:43:37Z"
+      "pushed_at": "2026-03-30T13:17:34Z",
+      "updated_at": "2026-03-30T13:16:00Z"
     },
     {
-      "id": 1142423471,
-      "full_name": "mindfold-ai/Trellis",
-      "html_url": "https://github.com/mindfold-ai/Trellis",
-      "description": "The best agent harness.",
-      "stars": 4382,
-      "forks": 224,
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 3253,
+      "forks": 348,
+      "language": "Unknown",
+      "pushed_at": "2026-03-30T12:50:39Z",
+      "updated_at": "2026-03-30T13:04:55Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1785,
+      "forks": 132,
+      "language": "Dart",
+      "pushed_at": "2026-03-30T11:55:00Z",
+      "updated_at": "2026-03-30T11:53:57Z"
+    },
+    {
+      "id": 919664598,
+      "full_name": "WINBIGFOX/TimeScribe",
+      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "stars": 784,
+      "forks": 68,
+      "language": "PHP",
+      "pushed_at": "2026-03-30T12:55:11Z",
+      "updated_at": "2026-03-30T12:55:15Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 729,
+      "forks": 69,
       "language": "Python",
-      "pushed_at": "2026-03-30T08:06:25Z",
-      "updated_at": "2026-03-30T09:10:35Z"
+      "pushed_at": "2026-03-30T12:31:43Z",
+      "updated_at": "2026-03-30T12:31:46Z"
     },
     {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3094,
-      "forks": 991,
-      "language": "C++",
-      "pushed_at": "2026-03-30T09:10:19Z",
-      "updated_at": "2026-03-30T07:27:53Z"
-    },
-    {
-      "id": 1119754832,
-      "full_name": "OlaProeis/Ferrite",
-      "html_url": "https://github.com/OlaProeis/Ferrite",
-      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
-      "stars": 1346,
-      "forks": 58,
-      "language": "Rust",
-      "pushed_at": "2026-03-30T08:59:52Z",
-      "updated_at": "2026-03-30T09:10:51Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 684,
-      "forks": 36,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
+      "stars": 670,
+      "forks": 114,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T07:09:00Z",
-      "updated_at": "2026-03-30T06:28:14Z"
+      "pushed_at": "2026-03-30T11:31:13Z",
+      "updated_at": "2026-03-30T11:31:17Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 414,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-30T08:53:08Z",
-      "updated_at": "2026-03-30T08:17:17Z"
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland [maintainer=@fdev31]",
+      "stars": 666,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-03-30T11:22:24Z",
+      "updated_at": "2026-03-30T11:22:20Z"
     }
   ]
 }
