@@ -8,59 +8,70 @@
   "total_found": 747,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42760,
-      "forks": 2663,
-      "language": "C#",
-      "pushed_at": "2026-03-30T22:38:34Z",
-      "updated_at": "2026-03-31T02:14:34Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 120993,
+      "forks": 15737,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-31T05:40:33Z",
+      "updated_at": "2026-03-31T05:42:58Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 35667,
+      "forks": 791,
+      "language": "Rust",
+      "pushed_at": "2026-03-31T03:05:28Z",
+      "updated_at": "2026-03-31T05:35:33Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 25537,
-      "forks": 2672,
+      "stars": 25559,
+      "forks": 2674,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T01:32:45Z",
-      "updated_at": "2026-03-31T02:18:24Z"
+      "pushed_at": "2026-03-31T04:32:26Z",
+      "updated_at": "2026-03-31T05:42:17Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18275,
-      "forks": 1582,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13875,
+      "forks": 936,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T00:12:58Z",
-      "updated_at": "2026-03-31T02:11:41Z"
+      "pushed_at": "2026-03-31T04:53:21Z",
+      "updated_at": "2026-03-31T04:53:20Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10359,
-      "forks": 1249,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-31T00:15:16Z",
-      "updated_at": "2026-03-31T00:15:20Z"
+      "id": 592882602,
+      "full_name": "MrKai77/Loop",
+      "html_url": "https://github.com/MrKai77/Loop",
+      "description": "Window management made elegant.",
+      "stars": 10305,
+      "forks": 218,
+      "language": "Swift",
+      "pushed_at": "2026-03-31T04:50:55Z",
+      "updated_at": "2026-03-31T05:27:57Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
-      "stars": 6679,
-      "forks": 247,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 5528,
+      "forks": 318,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T01:51:56Z",
-      "updated_at": "2026-03-31T01:51:59Z"
+      "pushed_at": "2026-03-31T05:08:07Z",
+      "updated_at": "2026-03-31T05:43:18Z"
     },
     {
       "id": 11512043,
@@ -70,96 +81,85 @@
       "stars": 5068,
       "forks": 607,
       "language": "Kotlin",
-      "pushed_at": "2026-03-30T22:32:19Z",
-      "updated_at": "2026-03-31T00:53:06Z"
+      "pushed_at": "2026-03-31T02:58:31Z",
+      "updated_at": "2026-03-31T02:58:36Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5065,
-      "forks": 437,
-      "language": "Rust",
-      "pushed_at": "2026-03-30T23:41:20Z",
-      "updated_at": "2026-03-31T02:03:13Z"
-    },
-    {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4287,
-      "forks": 863,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-30T22:43:10Z",
-      "updated_at": "2026-03-30T22:53:13Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2728,
-      "forks": 178,
-      "language": "Python",
-      "pushed_at": "2026-03-31T00:57:32Z",
-      "updated_at": "2026-03-31T01:29:44Z"
-    },
-    {
-      "id": 264844037,
-      "full_name": "lindell/multi-gitter",
-      "html_url": "https://github.com/lindell/multi-gitter",
-      "description": "Update multiple repositories in with one command",
-      "stars": 1174,
-      "forks": 83,
-      "language": "Go",
-      "pushed_at": "2026-03-31T00:53:03Z",
-      "updated_at": "2026-03-31T00:52:31Z"
-    },
-    {
-      "id": 843554833,
-      "full_name": "Shopify/tophat",
-      "html_url": "https://github.com/Shopify/tophat",
-      "description": "Easily install and test mobile applications with a single click.",
-      "stars": 895,
-      "forks": 30,
-      "language": "Swift",
-      "pushed_at": "2026-03-30T23:02:10Z",
-      "updated_at": "2026-03-30T23:02:12Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 728,
-      "forks": 69,
-      "language": "Python",
-      "pushed_at": "2026-03-31T01:13:56Z",
-      "updated_at": "2026-03-31T01:14:01Z"
-    },
-    {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 282,
-      "forks": 48,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-30T23:18:02Z",
-      "updated_at": "2026-03-30T23:18:06Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 268,
-      "forks": 38,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3608,
+      "forks": 750,
       "language": "TypeScript",
-      "pushed_at": "2026-03-30T22:49:13Z",
-      "updated_at": "2026-03-31T00:16:17Z"
+      "pushed_at": "2026-03-31T04:06:37Z",
+      "updated_at": "2026-03-31T04:08:49Z"
+    },
+    {
+      "id": 119705647,
+      "full_name": "nosarthur/gita",
+      "html_url": "https://github.com/nosarthur/gita",
+      "description": "Manage many git repos with sanity 从容管理多个git库",
+      "stars": 1841,
+      "forks": 86,
+      "language": "Python",
+      "pushed_at": "2026-03-31T03:48:05Z",
+      "updated_at": "2026-03-31T03:48:10Z"
+    },
+    {
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
+      "stars": 1762,
+      "forks": 116,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T02:22:23Z",
+      "updated_at": "2026-03-31T04:22:34Z"
+    },
+    {
+      "id": 1094171135,
+      "full_name": "dtsola/xiaoyaosearch",
+      "html_url": "https://github.com/dtsola/xiaoyaosearch",
+      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
+      "stars": 1137,
+      "forks": 108,
+      "language": "Python",
+      "pushed_at": "2026-03-31T05:29:32Z",
+      "updated_at": "2026-03-31T05:31:03Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1063,
+      "forks": 91,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T04:45:24Z",
+      "updated_at": "2026-03-31T04:45:24Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 690,
+      "forks": 36,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T04:12:22Z",
+      "updated_at": "2026-03-31T05:27:17Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 262,
+      "forks": 45,
+      "language": "Unknown",
+      "pushed_at": "2026-03-31T03:50:16Z",
+      "updated_at": "2026-03-31T03:47:14Z"
     },
     {
       "id": 643614365,
@@ -169,8 +169,8 @@
       "stars": 181,
       "forks": 6,
       "language": "JavaScript",
-      "pushed_at": "2026-03-31T01:20:46Z",
-      "updated_at": "2026-03-31T01:20:49Z"
+      "pushed_at": "2026-03-31T03:05:43Z",
+      "updated_at": "2026-03-31T03:05:45Z"
     }
   ]
 }
