@@ -5,62 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 752,
+  "total_found": 753,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 129742,
-      "forks": 18311,
+      "stars": 130383,
+      "forks": 18542,
       "language": "JavaScript",
-      "pushed_at": "2026-04-01T11:18:17Z",
-      "updated_at": "2026-04-01T13:20:26Z"
+      "pushed_at": "2026-04-01T16:49:40Z",
+      "updated_at": "2026-04-01T16:54:17Z"
     },
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 120021,
-      "forks": 13083,
+      "stars": 120035,
+      "forks": 13087,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T12:52:59Z",
-      "updated_at": "2026-04-01T13:17:56Z"
+      "pushed_at": "2026-04-01T16:41:13Z",
+      "updated_at": "2026-04-01T16:42:54Z"
     },
     {
-      "id": 253222599,
-      "full_name": "CorentinTh/it-tools",
-      "html_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. ",
-      "stars": 37898,
-      "forks": 4727,
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24405,
+      "forks": 1785,
       "language": "Vue",
-      "pushed_at": "2026-04-01T12:49:17Z",
-      "updated_at": "2026-04-01T13:10:56Z"
+      "pushed_at": "2026-04-01T15:02:21Z",
+      "updated_at": "2026-04-01T16:44:02Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 25698,
-      "forks": 2689,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-01T13:07:18Z",
-      "updated_at": "2026-04-01T13:17:03Z"
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21443,
+      "forks": 796,
+      "language": "C",
+      "pushed_at": "2026-04-01T16:21:21Z",
+      "updated_at": "2026-04-01T16:21:25Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18344,
-      "forks": 1588,
+      "stars": 18350,
+      "forks": 1589,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T11:02:10Z",
-      "updated_at": "2026-04-01T13:20:16Z"
+      "pushed_at": "2026-04-01T16:07:47Z",
+      "updated_at": "2026-04-01T16:30:12Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10371,
+      "forks": 1251,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T15:41:28Z",
+      "updated_at": "2026-04-01T15:55:16Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9351,
+      "forks": 798,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T16:53:41Z",
+      "updated_at": "2026-04-01T16:51:04Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 5634,
+      "forks": 325,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T16:48:18Z",
+      "updated_at": "2026-04-01T16:42:02Z"
     },
     {
       "id": 129699403,
@@ -70,30 +103,30 @@
       "stars": 5608,
       "forks": 721,
       "language": "Swift",
-      "pushed_at": "2026-04-01T13:16:57Z",
-      "updated_at": "2026-04-01T12:14:51Z"
+      "pushed_at": "2026-04-01T16:51:17Z",
+      "updated_at": "2026-04-01T16:51:09Z"
     },
     {
-      "id": 187916430,
-      "full_name": "muety/wakapi",
-      "html_url": "https://github.com/muety/wakapi",
-      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
-      "stars": 4247,
-      "forks": 278,
-      "language": "Go",
-      "pushed_at": "2026-04-01T12:37:13Z",
-      "updated_at": "2026-04-01T12:37:18Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5071,
+      "forks": 610,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-01T15:13:05Z",
+      "updated_at": "2026-04-01T15:13:25Z"
     },
     {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
-      "stars": 3950,
-      "forks": 322,
-      "language": "PHP",
-      "pushed_at": "2026-04-01T12:51:24Z",
-      "updated_at": "2026-04-01T12:51:31Z"
+      "id": 1079906817,
+      "full_name": "deta/surf",
+      "html_url": "https://github.com/deta/surf",
+      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+      "stars": 3306,
+      "forks": 237,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T14:31:06Z",
+      "updated_at": "2026-04-01T14:31:04Z"
     },
     {
       "id": 300155217,
@@ -103,41 +136,30 @@
       "stars": 3099,
       "forks": 995,
       "language": "C++",
-      "pushed_at": "2026-04-01T13:19:31Z",
-      "updated_at": "2026-04-01T13:19:34Z"
+      "pushed_at": "2026-04-01T15:49:26Z",
+      "updated_at": "2026-04-01T14:42:29Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2461,
-      "forks": 263,
+      "id": 1119754832,
+      "full_name": "OlaProeis/Ferrite",
+      "html_url": "https://github.com/OlaProeis/Ferrite",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "stars": 1362,
+      "forks": 58,
+      "language": "Rust",
+      "pushed_at": "2026-04-01T15:49:44Z",
+      "updated_at": "2026-04-01T15:49:49Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 705,
+      "forks": 36,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T11:59:31Z",
-      "updated_at": "2026-04-01T12:13:47Z"
-    },
-    {
-      "id": 264844037,
-      "full_name": "lindell/multi-gitter",
-      "html_url": "https://github.com/lindell/multi-gitter",
-      "description": "Update multiple repositories in with one command",
-      "stars": 1177,
-      "forks": 83,
-      "language": "Go",
-      "pushed_at": "2026-04-01T12:39:08Z",
-      "updated_at": "2026-04-01T12:36:37Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 729,
-      "forks": 70,
-      "language": "Python",
-      "pushed_at": "2026-04-01T11:01:43Z",
-      "updated_at": "2026-04-01T11:01:49Z"
+      "pushed_at": "2026-04-01T15:27:16Z",
+      "updated_at": "2026-04-01T15:27:21Z"
     },
     {
       "id": 1125258937,
@@ -147,30 +169,8 @@
       "stars": 420,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T11:57:36Z",
-      "updated_at": "2026-04-01T11:55:16Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 267,
-      "forks": 45,
-      "language": "Unknown",
-      "pushed_at": "2026-04-01T13:06:38Z",
-      "updated_at": "2026-04-01T13:05:56Z"
-    },
-    {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 244,
-      "forks": 12,
-      "language": "Go",
-      "pushed_at": "2026-04-01T12:41:32Z",
-      "updated_at": "2026-04-01T12:41:38Z"
+      "pushed_at": "2026-04-01T16:15:59Z",
+      "updated_at": "2026-04-01T16:12:51Z"
     }
   ]
 }
