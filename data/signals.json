@@ -5,95 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 753,
+  "total_found": 752,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 130383,
-      "forks": 18542,
+      "stars": 130704,
+      "forks": 18640,
       "language": "JavaScript",
-      "pushed_at": "2026-04-01T16:49:40Z",
-      "updated_at": "2026-04-01T16:54:17Z"
+      "pushed_at": "2026-04-01T20:12:10Z",
+      "updated_at": "2026-04-01T20:41:44Z"
     },
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 120035,
-      "forks": 13087,
+      "stars": 120043,
+      "forks": 13089,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T16:41:13Z",
-      "updated_at": "2026-04-01T16:42:54Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24405,
-      "forks": 1785,
-      "language": "Vue",
-      "pushed_at": "2026-04-01T15:02:21Z",
-      "updated_at": "2026-04-01T16:44:02Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21443,
-      "forks": 796,
-      "language": "C",
-      "pushed_at": "2026-04-01T16:21:21Z",
-      "updated_at": "2026-04-01T16:21:25Z"
+      "pushed_at": "2026-04-01T17:17:40Z",
+      "updated_at": "2026-04-01T19:58:02Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18350,
-      "forks": 1589,
+      "stars": 18354,
+      "forks": 1587,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T16:07:47Z",
-      "updated_at": "2026-04-01T16:30:12Z"
+      "pushed_at": "2026-04-01T20:18:45Z",
+      "updated_at": "2026-04-01T20:22:31Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10371,
-      "forks": 1251,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-01T15:41:28Z",
-      "updated_at": "2026-04-01T15:55:16Z"
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17131,
+      "forks": 856,
+      "language": "Python",
+      "pushed_at": "2026-04-01T17:59:06Z",
+      "updated_at": "2026-04-01T17:59:03Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 16431,
+      "forks": 836,
+      "language": "Rust",
+      "pushed_at": "2026-04-01T19:42:44Z",
+      "updated_at": "2026-04-01T20:39:59Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 9351,
+      "stars": 9349,
       "forks": 798,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T16:53:41Z",
-      "updated_at": "2026-04-01T16:51:04Z"
+      "pushed_at": "2026-04-01T17:31:55Z",
+      "updated_at": "2026-04-01T18:58:37Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 5634,
-      "forks": 325,
+      "stars": 5635,
+      "forks": 324,
       "language": "TypeScript",
       "pushed_at": "2026-04-01T16:48:18Z",
-      "updated_at": "2026-04-01T16:42:02Z"
+      "updated_at": "2026-04-01T17:33:52Z"
     },
     {
       "id": 129699403,
@@ -101,76 +90,87 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "A virtual platform team for mobile devs who ship ",
       "stars": 5608,
-      "forks": 721,
+      "forks": 722,
       "language": "Swift",
-      "pushed_at": "2026-04-01T16:51:17Z",
-      "updated_at": "2026-04-01T16:51:09Z"
+      "pushed_at": "2026-04-01T20:41:02Z",
+      "updated_at": "2026-04-01T20:34:35Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5071,
+      "stars": 5072,
       "forks": 610,
       "language": "Kotlin",
-      "pushed_at": "2026-04-01T15:13:05Z",
-      "updated_at": "2026-04-01T15:13:25Z"
-    },
-    {
-      "id": 1079906817,
-      "full_name": "deta/surf",
-      "html_url": "https://github.com/deta/surf",
-      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
-      "stars": 3306,
-      "forks": 237,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-01T14:31:06Z",
-      "updated_at": "2026-04-01T14:31:04Z"
+      "pushed_at": "2026-04-01T17:18:20Z",
+      "updated_at": "2026-04-01T17:27:47Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3099,
+      "stars": 3100,
       "forks": 995,
       "language": "C++",
-      "pushed_at": "2026-04-01T15:49:26Z",
-      "updated_at": "2026-04-01T14:42:29Z"
+      "pushed_at": "2026-04-01T20:38:20Z",
+      "updated_at": "2026-04-01T20:16:21Z"
     },
     {
-      "id": 1119754832,
-      "full_name": "OlaProeis/Ferrite",
-      "html_url": "https://github.com/OlaProeis/Ferrite",
-      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
-      "stars": 1362,
-      "forks": 58,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1844,
+      "forks": 194,
+      "language": "Go",
+      "pushed_at": "2026-04-01T17:17:09Z",
+      "updated_at": "2026-04-01T19:41:47Z"
+    },
+    {
+      "id": 1147470802,
+      "full_name": "rohitg00/pro-workflow",
+      "html_url": "https://github.com/rohitg00/pro-workflow",
+      "description": "Claude Code learns from your corrections — self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+      "stars": 1516,
+      "forks": 144,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-01T17:17:38Z",
+      "updated_at": "2026-04-01T19:22:01Z"
+    },
+    {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 665,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-04-01T19:31:40Z",
+      "updated_at": "2026-04-01T19:31:49Z"
+    },
+    {
+      "id": 73134029,
+      "full_name": "jasonlong/mater",
+      "html_url": "https://github.com/jasonlong/mater",
+      "description": "🍅 A simple menubar Pomodoro app",
+      "stars": 569,
+      "forks": 40,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-01T17:54:24Z",
+      "updated_at": "2026-04-01T17:54:26Z"
+    },
+    {
+      "id": 672605495,
+      "full_name": "iffse/pay-respects",
+      "html_url": "https://github.com/iffse/pay-respects",
+      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
+      "stars": 562,
+      "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-04-01T15:49:44Z",
-      "updated_at": "2026-04-01T15:49:49Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 705,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-01T15:27:16Z",
-      "updated_at": "2026-04-01T15:27:21Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 420,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-01T16:15:59Z",
-      "updated_at": "2026-04-01T16:12:51Z"
+      "pushed_at": "2026-04-01T20:37:19Z",
+      "updated_at": "2026-04-01T20:37:24Z"
     }
   ]
 }
