@@ -8,26 +8,15 @@
   "total_found": 758,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 132765,
-      "forks": 19216,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-02T12:51:33Z",
-      "updated_at": "2026-04-02T13:12:28Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 35822,
-      "forks": 796,
-      "language": "Rust",
-      "pushed_at": "2026-04-02T12:33:21Z",
-      "updated_at": "2026-04-02T12:27:57Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 120132,
+      "forks": 13102,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T15:15:58Z",
+      "updated_at": "2026-04-02T16:38:52Z"
     },
     {
       "id": 343078060,
@@ -35,98 +24,76 @@
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "stars": 24409,
-      "forks": 1784,
+      "forks": 1783,
       "language": "Vue",
-      "pushed_at": "2026-04-02T11:38:18Z",
-      "updated_at": "2026-04-02T11:53:17Z"
+      "pushed_at": "2026-04-02T15:48:05Z",
+      "updated_at": "2026-04-02T16:46:08Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 16641,
-      "forks": 852,
+      "stars": 16706,
+      "forks": 853,
       "language": "Rust",
-      "pushed_at": "2026-04-02T12:51:14Z",
-      "updated_at": "2026-04-02T13:11:55Z"
+      "pushed_at": "2026-04-02T15:25:35Z",
+      "updated_at": "2026-04-02T16:45:57Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12766,
+      "forks": 783,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T15:51:15Z",
+      "updated_at": "2026-04-02T16:47:15Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5608,
-      "forks": 722,
+      "stars": 5607,
+      "forks": 723,
       "language": "Swift",
-      "pushed_at": "2026-04-02T13:08:01Z",
-      "updated_at": "2026-04-02T13:04:21Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5097,
-      "forks": 296,
-      "language": "Vala",
-      "pushed_at": "2026-04-02T11:26:36Z",
-      "updated_at": "2026-04-02T12:09:18Z"
+      "pushed_at": "2026-04-02T16:51:32Z",
+      "updated_at": "2026-04-02T14:53:36Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3103,
-      "forks": 997,
+      "stars": 3104,
+      "forks": 996,
       "language": "C++",
-      "pushed_at": "2026-04-02T13:08:37Z",
-      "updated_at": "2026-04-02T13:03:10Z"
+      "pushed_at": "2026-04-02T16:53:56Z",
+      "updated_at": "2026-04-02T16:54:03Z"
     },
     {
-      "id": 1147470802,
-      "full_name": "rohitg00/pro-workflow",
-      "html_url": "https://github.com/rohitg00/pro-workflow",
-      "description": "Claude Code learns from your corrections — self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
-      "stars": 1527,
-      "forks": 147,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-02T12:29:09Z",
-      "updated_at": "2026-04-02T12:40:30Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1786,
+      "forks": 132,
+      "language": "Dart",
+      "pushed_at": "2026-04-02T15:45:07Z",
+      "updated_at": "2026-04-02T15:45:11Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 862,
-      "forks": 36,
+      "id": 672605495,
+      "full_name": "iffse/pay-respects",
+      "html_url": "https://github.com/iffse/pay-respects",
+      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
+      "stars": 564,
+      "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-04-02T11:07:46Z",
-      "updated_at": "2026-04-02T11:37:08Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 849,
-      "forks": 23,
-      "language": "Swift",
-      "pushed_at": "2026-04-02T11:41:25Z",
-      "updated_at": "2026-04-02T12:39:34Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - Open Work & Productivity Platform - https://ever.team",
-      "stars": 495,
-      "forks": 95,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T12:19:25Z",
-      "updated_at": "2026-04-02T12:17:06Z"
+      "pushed_at": "2026-04-02T16:40:13Z",
+      "updated_at": "2026-04-02T16:40:18Z"
     },
     {
       "id": 1125258937,
@@ -136,30 +103,41 @@
       "stars": 429,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T12:40:56Z",
-      "updated_at": "2026-04-02T12:40:59Z"
+      "pushed_at": "2026-04-02T16:36:46Z",
+      "updated_at": "2026-04-02T16:36:51Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 419,
+      "forks": 65,
+      "language": "Go",
+      "pushed_at": "2026-04-02T15:19:37Z",
+      "updated_at": "2026-04-02T15:15:16Z"
     },
     {
       "id": 1166865874,
       "full_name": "altstackHQ/altstack-data",
       "html_url": "https://github.com/altstackHQ/altstack-data",
       "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 307,
-      "forks": 13,
+      "stars": 308,
+      "forks": 14,
       "language": "Shell",
-      "pushed_at": "2026-04-02T12:14:36Z",
-      "updated_at": "2026-04-02T12:14:40Z"
+      "pushed_at": "2026-04-02T13:54:17Z",
+      "updated_at": "2026-04-02T16:34:59Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 223,
-      "forks": 16,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T12:24:27Z",
-      "updated_at": "2026-04-02T13:11:40Z"
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 246,
+      "forks": 12,
+      "language": "Go",
+      "pushed_at": "2026-04-02T15:33:36Z",
+      "updated_at": "2026-04-02T15:33:40Z"
     },
     {
       "id": 1112283364,
@@ -169,8 +147,30 @@
       "stars": 211,
       "forks": 6,
       "language": "Go",
-      "pushed_at": "2026-04-02T11:27:42Z",
-      "updated_at": "2026-04-02T11:27:46Z"
+      "pushed_at": "2026-04-02T14:48:19Z",
+      "updated_at": "2026-04-02T14:48:23Z"
+    },
+    {
+      "id": 1157425108,
+      "full_name": "yashksaini-coder/Rustlens",
+      "html_url": "https://github.com/yashksaini-coder/Rustlens",
+      "description": "Your Rust codebase, revealed It parses your Rust source files and provides an interactive interface to browse functions, structs, enums, traits, and more — all inside your terminal.",
+      "stars": 132,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-04-02T16:49:44Z",
+      "updated_at": "2026-04-02T16:50:43Z"
+    },
+    {
+      "id": 1147536369,
+      "full_name": "shep-ai/shep",
+      "html_url": "https://github.com/shep-ai/shep",
+      "description": "Run Claude Code, Cursor, and Gemini CLI coding agents in parallel, each in its own isolated workspace",
+      "stars": 95,
+      "forks": 9,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T15:23:24Z",
+      "updated_at": "2026-04-02T15:23:32Z"
     }
   ]
 }
