@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 753,
+  "total_found": 755,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 131764,
-      "forks": 18950,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-02T03:27:22Z",
-      "updated_at": "2026-04-02T05:41:01Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 120084,
+      "forks": 13094,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T08:37:02Z",
+      "updated_at": "2026-04-02T08:39:49Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24432,
+      "stars": 24434,
       "forks": 2270,
       "language": "Python",
-      "pushed_at": "2026-04-02T05:18:55Z",
-      "updated_at": "2026-04-02T05:20:51Z"
+      "pushed_at": "2026-04-02T07:49:31Z",
+      "updated_at": "2026-04-02T08:32:27Z"
     },
     {
       "id": 353775942,
@@ -37,118 +37,74 @@
       "stars": 13884,
       "forks": 936,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T04:19:07Z",
-      "updated_at": "2026-04-02T05:27:45Z"
+      "pushed_at": "2026-04-02T08:26:48Z",
+      "updated_at": "2026-04-02T08:27:13Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9349,
-      "forks": 798,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T04:32:45Z",
-      "updated_at": "2026-04-02T04:48:49Z"
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
+      "stars": 7061,
+      "forks": 488,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T06:27:19Z",
+      "updated_at": "2026-04-02T08:49:13Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop — native, fast, extensible",
-      "stars": 7031,
-      "forks": 176,
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw中文用例与案例大全 | 46个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 3366,
+      "forks": 361,
+      "language": "Unknown",
+      "pushed_at": "2026-04-02T07:52:32Z",
+      "updated_at": "2026-04-02T08:35:28Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3102,
+      "forks": 996,
       "language": "C++",
-      "pushed_at": "2026-04-02T01:30:10Z",
-      "updated_at": "2026-04-02T03:33:12Z"
+      "pushed_at": "2026-04-02T08:43:06Z",
+      "updated_at": "2026-04-02T08:36:48Z"
     },
     {
       "id": 812362660,
       "full_name": "ViscousPot/GitSync",
       "html_url": "https://github.com/ViscousPot/GitSync",
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1565,
+      "stars": 1566,
       "forks": 135,
       "language": "Dart",
-      "pushed_at": "2026-04-02T02:06:56Z",
-      "updated_at": "2026-04-02T02:07:00Z"
+      "pushed_at": "2026-04-02T07:49:42Z",
+      "updated_at": "2026-04-02T08:39:04Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 706,
-      "forks": 36,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
+      "stars": 680,
+      "forks": 115,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T04:57:31Z",
-      "updated_at": "2026-04-02T04:57:35Z"
-    },
-    {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 563,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-04-02T02:34:01Z",
-      "updated_at": "2026-04-02T02:34:00Z"
+      "pushed_at": "2026-04-02T07:32:56Z",
+      "updated_at": "2026-04-02T07:32:59Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 425,
+      "stars": 428,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T05:18:51Z",
-      "updated_at": "2026-04-02T05:18:54Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 274,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T05:32:00Z",
-      "updated_at": "2026-04-02T01:31:38Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 211,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-04-02T02:34:11Z",
-      "updated_at": "2026-04-02T02:34:15Z"
-    },
-    {
-      "id": 259807763,
-      "full_name": "brainless/dwata",
-      "html_url": "https://github.com/brainless/dwata",
-      "description": "AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!",
-      "stars": 175,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-04-02T04:27:52Z",
-      "updated_at": "2026-04-02T04:26:52Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 156,
-      "forks": 2,
-      "language": "Vue",
-      "pushed_at": "2026-04-02T05:18:37Z",
-      "updated_at": "2026-04-02T05:16:55Z"
+      "pushed_at": "2026-04-02T07:49:26Z",
+      "updated_at": "2026-04-02T08:06:06Z"
     },
     {
       "id": 994302918,
@@ -158,19 +114,63 @@
       "stars": 148,
       "forks": 20,
       "language": "C",
-      "pushed_at": "2026-04-02T05:29:59Z",
-      "updated_at": "2026-04-02T05:30:02Z"
+      "pushed_at": "2026-04-02T06:12:20Z",
+      "updated_at": "2026-04-02T06:12:24Z"
     },
     {
-      "id": 954898264,
-      "full_name": "snipt/snipt",
-      "html_url": "https://github.com/snipt/snipt",
-      "description": "Snipt is a powerful text snippet expansion tool!",
-      "stars": 147,
-      "forks": 3,
+      "id": 75981808,
+      "full_name": "ixrock/XTranslate",
+      "html_url": "https://github.com/ixrock/XTranslate",
+      "description": "Easy translate text on web pages (browser extension)",
+      "stars": 145,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T08:34:45Z",
+      "updated_at": "2026-04-02T08:34:49Z"
+    },
+    {
+      "id": 763298631,
+      "full_name": "gustavostz/whisper-clip",
+      "html_url": "https://github.com/gustavostz/whisper-clip",
+      "description": "WhisperClip simplifies your life by automatically transcribing audio recordings and saving the text directly to your clipboard. With just a click of a button, you can effortlessly convert spoken words into written text, ready to be pasted wherever you need it. This application harnesses the power of OpenAI’s Whisper for free.",
+      "stars": 137,
+      "forks": 16,
+      "language": "Python",
+      "pushed_at": "2026-04-02T07:14:31Z",
+      "updated_at": "2026-04-02T07:14:35Z"
+    },
+    {
+      "id": 1147536369,
+      "full_name": "shep-ai/shep",
+      "html_url": "https://github.com/shep-ai/shep",
+      "description": "Run Claude Code, Cursor, and Gemini CLI coding agents in parallel, each in its own isolated workspace",
+      "stars": 93,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T08:55:38Z",
+      "updated_at": "2026-04-02T08:55:41Z"
+    },
+    {
+      "id": 1174381781,
+      "full_name": "eljulians/skillfile",
+      "html_url": "https://github.com/eljulians/skillfile",
+      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, etc)",
+      "stars": 90,
+      "forks": 10,
       "language": "Rust",
-      "pushed_at": "2026-04-02T02:46:10Z",
-      "updated_at": "2026-04-02T02:46:14Z"
+      "pushed_at": "2026-04-02T08:20:10Z",
+      "updated_at": "2026-04-02T08:28:13Z"
+    },
+    {
+      "id": 1150546081,
+      "full_name": "qualixar/superlocalmemory",
+      "html_url": "https://github.com/qualixar/superlocalmemory",
+      "description": "World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no APIs, no data leaves your machine. Additionally, mode C (LLM/Cloud) - 87.7% LoCoMo. Research-backed. arXiv: 2603.14588",
+      "stars": 80,
+      "forks": 5,
+      "language": "Python",
+      "pushed_at": "2026-04-02T08:00:40Z",
+      "updated_at": "2026-04-02T08:51:10Z"
     }
   ]
 }
