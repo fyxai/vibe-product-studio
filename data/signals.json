@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 758,
+  "total_found": 759,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 120132,
-      "forks": 13102,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T15:15:58Z",
-      "updated_at": "2026-04-02T16:38:52Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 133415,
+      "forks": 19357,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T18:09:49Z",
+      "updated_at": "2026-04-02T20:33:35Z"
     },
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24409,
-      "forks": 1783,
-      "language": "Vue",
-      "pushed_at": "2026-04-02T15:48:05Z",
-      "updated_at": "2026-04-02T16:46:08Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36054,
+      "forks": 3631,
+      "language": "C#",
+      "pushed_at": "2026-04-02T18:57:44Z",
+      "updated_at": "2026-04-02T18:57:55Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24433,
+      "forks": 2271,
+      "language": "Python",
+      "pushed_at": "2026-04-02T19:32:46Z",
+      "updated_at": "2026-04-02T19:28:16Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 16706,
+      "stars": 16756,
       "forks": 853,
       "language": "Rust",
-      "pushed_at": "2026-04-02T15:25:35Z",
-      "updated_at": "2026-04-02T16:45:57Z"
+      "pushed_at": "2026-04-02T19:33:43Z",
+      "updated_at": "2026-04-02T20:30:55Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12766,
-      "forks": 783,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T15:51:15Z",
-      "updated_at": "2026-04-02T16:47:15Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5607,
-      "forks": 723,
-      "language": "Swift",
-      "pushed_at": "2026-04-02T16:51:32Z",
-      "updated_at": "2026-04-02T14:53:36Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5076,
+      "forks": 609,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-02T17:47:34Z",
+      "updated_at": "2026-04-02T17:47:39Z"
     },
     {
       "id": 300155217,
@@ -68,21 +68,32 @@
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
       "stars": 3104,
-      "forks": 996,
+      "forks": 997,
       "language": "C++",
-      "pushed_at": "2026-04-02T16:53:56Z",
-      "updated_at": "2026-04-02T16:54:03Z"
+      "pushed_at": "2026-04-02T20:27:23Z",
+      "updated_at": "2026-04-02T20:25:36Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1786,
-      "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-04-02T15:45:07Z",
-      "updated_at": "2026-04-02T15:45:11Z"
+      "id": 1317787,
+      "full_name": "structr/structr",
+      "html_url": "https://github.com/structr/structr",
+      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
+      "stars": 821,
+      "forks": 161,
+      "language": "Java",
+      "pushed_at": "2026-04-02T17:11:03Z",
+      "updated_at": "2026-04-02T17:11:18Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 728,
+      "forks": 70,
+      "language": "Python",
+      "pushed_at": "2026-04-02T17:45:22Z",
+      "updated_at": "2026-04-02T17:45:57Z"
     },
     {
       "id": 672605495,
@@ -92,8 +103,30 @@
       "stars": 564,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-04-02T16:40:13Z",
-      "updated_at": "2026-04-02T16:40:18Z"
+      "pushed_at": "2026-04-02T20:31:09Z",
+      "updated_at": "2026-04-02T20:31:13Z"
+    },
+    {
+      "id": 208359230,
+      "full_name": "TTLApp/time-to-leave",
+      "html_url": "https://github.com/TTLApp/time-to-leave",
+      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
+      "stars": 487,
+      "forks": 277,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T19:57:57Z",
+      "updated_at": "2026-04-02T19:58:01Z"
+    },
+    {
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 442,
+      "forks": 83,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T19:40:06Z",
+      "updated_at": "2026-04-02T19:37:37Z"
     },
     {
       "id": 1125258937,
@@ -103,8 +136,8 @@
       "stars": 429,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T16:36:46Z",
-      "updated_at": "2026-04-02T16:36:51Z"
+      "pushed_at": "2026-04-02T18:22:32Z",
+      "updated_at": "2026-04-02T18:22:36Z"
     },
     {
       "id": 244958571,
@@ -114,8 +147,19 @@
       "stars": 419,
       "forks": 65,
       "language": "Go",
-      "pushed_at": "2026-04-02T15:19:37Z",
-      "updated_at": "2026-04-02T15:15:16Z"
+      "pushed_at": "2026-04-02T19:23:49Z",
+      "updated_at": "2026-04-02T19:12:00Z"
+    },
+    {
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 389,
+      "forks": 17,
+      "language": "Go",
+      "pushed_at": "2026-04-02T19:07:50Z",
+      "updated_at": "2026-04-02T19:06:10Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +169,8 @@
       "stars": 308,
       "forks": 14,
       "language": "Shell",
-      "pushed_at": "2026-04-02T13:54:17Z",
-      "updated_at": "2026-04-02T16:34:59Z"
-    },
-    {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 246,
-      "forks": 12,
-      "language": "Go",
-      "pushed_at": "2026-04-02T15:33:36Z",
-      "updated_at": "2026-04-02T15:33:40Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 211,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-04-02T14:48:19Z",
-      "updated_at": "2026-04-02T14:48:23Z"
-    },
-    {
-      "id": 1157425108,
-      "full_name": "yashksaini-coder/Rustlens",
-      "html_url": "https://github.com/yashksaini-coder/Rustlens",
-      "description": "Your Rust codebase, revealed It parses your Rust source files and provides an interactive interface to browse functions, structs, enums, traits, and more — all inside your terminal.",
-      "stars": 132,
-      "forks": 2,
-      "language": "Rust",
-      "pushed_at": "2026-04-02T16:49:44Z",
-      "updated_at": "2026-04-02T16:50:43Z"
-    },
-    {
-      "id": 1147536369,
-      "full_name": "shep-ai/shep",
-      "html_url": "https://github.com/shep-ai/shep",
-      "description": "Run Claude Code, Cursor, and Gemini CLI coding agents in parallel, each in its own isolated workspace",
-      "stars": 95,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T15:23:24Z",
-      "updated_at": "2026-04-02T15:23:32Z"
+      "pushed_at": "2026-04-02T18:50:25Z",
+      "updated_at": "2026-04-02T18:50:29Z"
     }
   ]
 }
