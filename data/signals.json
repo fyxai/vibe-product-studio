@@ -8,37 +8,48 @@
   "total_found": 761,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 138322,
+      "forks": 20611,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-05T04:53:20Z",
+      "updated_at": "2026-04-05T05:43:36Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21452,
+      "forks": 797,
+      "language": "C",
+      "pushed_at": "2026-04-05T04:42:33Z",
+      "updated_at": "2026-04-05T04:42:38Z"
+    },
+    {
       "id": 205326947,
       "full_name": "espanso/espanso",
       "html_url": "https://github.com/espanso/espanso",
       "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13515,
+      "stars": 13517,
       "forks": 397,
       "language": "Rust",
       "pushed_at": "2026-04-05T00:26:01Z",
-      "updated_at": "2026-04-05T02:12:08Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10386,
-      "forks": 1256,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-05T01:50:33Z",
-      "updated_at": "2026-04-04T23:19:24Z"
+      "updated_at": "2026-04-05T05:35:37Z"
     },
     {
       "id": 592882602,
       "full_name": "MrKai77/Loop",
       "html_url": "https://github.com/MrKai77/Loop",
       "description": "Window management made elegant.",
-      "stars": 10327,
+      "stars": 10328,
       "forks": 220,
       "language": "Swift",
-      "pushed_at": "2026-04-05T00:36:45Z",
-      "updated_at": "2026-04-05T00:52:24Z"
+      "pushed_at": "2026-04-05T02:54:45Z",
+      "updated_at": "2026-04-05T05:13:19Z"
     },
     {
       "id": 19825320,
@@ -59,8 +70,8 @@
       "stars": 2767,
       "forks": 179,
       "language": "Python",
-      "pushed_at": "2026-04-05T02:19:37Z",
-      "updated_at": "2026-04-05T02:08:23Z"
+      "pushed_at": "2026-04-05T03:06:39Z",
+      "updated_at": "2026-04-05T03:06:42Z"
     },
     {
       "id": 925501678,
@@ -78,11 +89,11 @@
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1232,
+      "stars": 1233,
       "forks": 32,
       "language": "Swift",
       "pushed_at": "2026-04-05T01:09:42Z",
-      "updated_at": "2026-04-05T01:09:47Z"
+      "updated_at": "2026-04-05T05:36:11Z"
     },
     {
       "id": 860188605,
@@ -92,41 +103,30 @@
       "stars": 862,
       "forks": 36,
       "language": "Rust",
-      "pushed_at": "2026-04-05T02:18:18Z",
-      "updated_at": "2026-04-04T23:42:38Z"
-    },
-    {
-      "id": 1317787,
-      "full_name": "structr/structr",
-      "html_url": "https://github.com/structr/structr",
-      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
-      "stars": 821,
-      "forks": 161,
-      "language": "Java",
-      "pushed_at": "2026-04-04T23:44:21Z",
-      "updated_at": "2026-04-04T23:44:25Z"
+      "pushed_at": "2026-04-05T02:35:01Z",
+      "updated_at": "2026-04-05T02:33:05Z"
     },
     {
       "id": 1079547517,
       "full_name": "jezweb/claude-skills",
       "html_url": "https://github.com/jezweb/claude-skills",
       "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
-      "stars": 689,
+      "stars": 690,
       "forks": 55,
       "language": "Python",
       "pushed_at": "2026-04-05T00:04:13Z",
-      "updated_at": "2026-04-05T02:09:01Z"
+      "updated_at": "2026-04-05T04:24:28Z"
     },
     {
       "id": 672605495,
       "full_name": "iffse/pay-respects",
       "html_url": "https://github.com/iffse/pay-respects",
       "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 569,
+      "stars": 570,
       "forks": 30,
       "language": "Rust",
       "pushed_at": "2026-04-05T00:58:08Z",
-      "updated_at": "2026-04-05T00:58:08Z"
+      "updated_at": "2026-04-05T05:27:09Z"
     },
     {
       "id": 1030039430,
@@ -136,30 +136,30 @@
       "stars": 274,
       "forks": 43,
       "language": "TypeScript",
-      "pushed_at": "2026-04-05T02:04:56Z",
+      "pushed_at": "2026-04-05T04:43:14Z",
       "updated_at": "2026-04-05T01:01:03Z"
     },
     {
-      "id": 714280515,
-      "full_name": "ever-works/awesome-time-tracking",
-      "html_url": "https://github.com/ever-works/awesome-time-tracking",
-      "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.works",
-      "stars": 165,
-      "forks": 9,
-      "language": "Unknown",
-      "pushed_at": "2026-04-04T22:55:12Z",
-      "updated_at": "2026-04-04T22:55:15Z"
+      "id": 1129541045,
+      "full_name": "hongyuan007/tapword-translator",
+      "html_url": "https://github.com/hongyuan007/tapword-translator",
+      "description": "Displays translations as subtitles, right below the original text, without popups or interruptions | 🧑‍🎨 触词翻译，像做笔记一样翻译网页",
+      "stars": 244,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-05T03:07:07Z",
+      "updated_at": "2026-04-05T03:28:34Z"
     },
     {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 157,
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 176,
       "forks": 2,
-      "language": "Vue",
-      "pushed_at": "2026-04-04T23:13:02Z",
-      "updated_at": "2026-04-05T00:23:05Z"
+      "language": "Rust",
+      "pushed_at": "2026-04-05T05:09:36Z",
+      "updated_at": "2026-04-05T05:08:26Z"
     },
     {
       "id": 737246781,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 12,
       "language": "Kotlin",
-      "pushed_at": "2026-04-05T01:01:07Z",
-      "updated_at": "2026-04-05T01:01:11Z"
+      "pushed_at": "2026-04-05T03:43:56Z",
+      "updated_at": "2026-04-05T03:44:00Z"
     }
   ]
 }
