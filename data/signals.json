@@ -5,95 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 763,
+  "total_found": 764,
   "items": [
-    {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 185924,
-      "forks": 26314,
-      "language": "Shell",
-      "pushed_at": "2026-04-05T12:52:34Z",
-      "updated_at": "2026-04-05T12:46:15Z"
-    },
-    {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 139152,
-      "forks": 20814,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-05T12:44:30Z",
-      "updated_at": "2026-04-05T12:56:21Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 17956,
-      "forks": 941,
-      "language": "Rust",
-      "pushed_at": "2026-04-05T12:09:15Z",
-      "updated_at": "2026-04-05T12:49:42Z"
-    },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14378,
+      "stars": 14380,
       "forks": 578,
       "language": "C#",
-      "pushed_at": "2026-04-05T10:31:11Z",
-      "updated_at": "2026-04-05T10:50:49Z"
+      "pushed_at": "2026-04-05T14:33:22Z",
+      "updated_at": "2026-04-05T15:08:58Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10388,
-      "forks": 1256,
+      "stars": 10390,
+      "forks": 1258,
       "language": "TypeScript",
-      "pushed_at": "2026-04-05T12:28:15Z",
-      "updated_at": "2026-04-05T11:53:06Z"
+      "pushed_at": "2026-04-05T16:04:23Z",
+      "updated_at": "2026-04-05T15:52:50Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 7071,
+      "forks": 178,
+      "language": "C++",
+      "pushed_at": "2026-04-05T16:33:33Z",
+      "updated_at": "2026-04-05T16:33:42Z"
     },
     {
       "id": 1124920990,
       "full_name": "heilcheng/awesome-agent-skills",
       "html_url": "https://github.com/heilcheng/awesome-agent-skills",
       "description": "Tutorials, Guides and Agent Skills Directories",
-      "stars": 3633,
-      "forks": 354,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-05T12:53:56Z",
-      "updated_at": "2026-04-05T12:54:00Z"
+      "stars": 3636,
+      "forks": 352,
+      "language": "HTML",
+      "pushed_at": "2026-04-05T16:03:56Z",
+      "updated_at": "2026-04-05T16:04:08Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3615,
-      "forks": 753,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-05T12:03:32Z",
-      "updated_at": "2026-04-05T12:03:06Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3132,
-      "forks": 142,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-05T12:44:59Z",
-      "updated_at": "2026-04-05T12:27:20Z"
+      "id": 1150496175,
+      "full_name": "mergisi/awesome-openclaw-agents",
+      "html_url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+      "stars": 2565,
+      "forks": 401,
+      "language": "HTML",
+      "pushed_at": "2026-04-05T16:04:03Z",
+      "updated_at": "2026-04-05T16:04:07Z"
     },
     {
       "id": 323279421,
@@ -103,74 +70,107 @@
       "stars": 1790,
       "forks": 132,
       "language": "Dart",
-      "pushed_at": "2026-04-05T12:30:07Z",
-      "updated_at": "2026-04-05T10:40:57Z"
+      "pushed_at": "2026-04-05T15:56:36Z",
+      "updated_at": "2026-04-05T15:46:54Z"
     },
     {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1064,
-      "forks": 38,
-      "language": "C++",
-      "pushed_at": "2026-04-05T12:32:36Z",
-      "updated_at": "2026-04-05T12:32:40Z"
-    },
-    {
-      "id": 1317787,
-      "full_name": "structr/structr",
-      "html_url": "https://github.com/structr/structr",
-      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
-      "stars": 821,
-      "forks": 161,
-      "language": "Java",
-      "pushed_at": "2026-04-05T11:48:23Z",
-      "updated_at": "2026-04-05T11:48:28Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 730,
-      "forks": 70,
-      "language": "Python",
-      "pushed_at": "2026-04-05T10:55:54Z",
-      "updated_at": "2026-04-05T10:55:59Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 261,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-05T11:15:04Z",
-      "updated_at": "2026-04-05T11:15:09Z"
-    },
-    {
-      "id": 1143431716,
-      "full_name": "Rench321/sklad",
-      "html_url": "https://github.com/Rench321/sklad",
-      "description": "Industrial-grade secure snippet warehouse for your system tray. 📦 Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.",
-      "stars": 167,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-05T10:56:00Z",
-      "updated_at": "2026-04-05T10:56:04Z"
-    },
-    {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 102,
-      "forks": 3,
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1237,
+      "forks": 32,
       "language": "Swift",
-      "pushed_at": "2026-04-05T10:45:52Z",
-      "updated_at": "2026-04-05T10:45:55Z"
+      "pushed_at": "2026-04-05T14:27:54Z",
+      "updated_at": "2026-04-05T14:32:05Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 711,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-05T14:59:14Z",
+      "updated_at": "2026-04-05T14:59:18Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 421,
+      "forks": 66,
+      "language": "Go",
+      "pushed_at": "2026-04-05T15:42:38Z",
+      "updated_at": "2026-04-05T15:30:29Z"
+    },
+    {
+      "id": 831216882,
+      "full_name": "Buzzpy/Dev-Encyclopedia",
+      "html_url": "https://github.com/Buzzpy/Dev-Encyclopedia",
+      "description": "An encyclopedia for everything, Programming.",
+      "stars": 317,
+      "forks": 64,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-05T15:52:27Z",
+      "updated_at": "2026-04-05T15:52:31Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 314,
+      "forks": 27,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-05T15:18:28Z",
+      "updated_at": "2026-04-05T16:03:45Z"
+    },
+    {
+      "id": 465531659,
+      "full_name": "TheJoeFin/Simple-Icon-File-Maker",
+      "html_url": "https://github.com/TheJoeFin/Simple-Icon-File-Maker",
+      "description": "Create and view .ico files in pixel perfect detail.",
+      "stars": 258,
+      "forks": 16,
+      "language": "C#",
+      "pushed_at": "2026-04-05T16:09:21Z",
+      "updated_at": "2026-04-05T16:09:25Z"
+    },
+    {
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 225,
+      "forks": 6,
+      "language": "Go",
+      "pushed_at": "2026-04-05T16:09:00Z",
+      "updated_at": "2026-04-05T16:09:04Z"
+    },
+    {
+      "id": 1124938752,
+      "full_name": "shangyankeji/super-dev",
+      "html_url": "https://github.com/shangyankeji/super-dev",
+      "description": "Engineering workflow layer for AI coding tools with specs, review, quality gates, and traceability.为 AI 编程工具提供工程化流程、质量门禁与可追溯能力。",
+      "stars": 206,
+      "forks": 53,
+      "language": "Python",
+      "pushed_at": "2026-04-05T15:25:38Z",
+      "updated_at": "2026-04-05T15:14:48Z"
+    },
+    {
+      "id": 452382183,
+      "full_name": "catppuccin/zellij",
+      "html_url": "https://github.com/catppuccin/zellij",
+      "description": "🐙 Soothing pastel theme for Zellij",
+      "stars": 188,
+      "forks": 2,
+      "language": "Just",
+      "pushed_at": "2026-04-05T15:12:32Z",
+      "updated_at": "2026-04-05T15:12:36Z"
     }
   ]
 }
