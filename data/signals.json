@@ -8,147 +8,125 @@
   "total_found": 765,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 36016,
-      "forks": 801,
-      "language": "Rust",
-      "pushed_at": "2026-04-06T07:46:41Z",
-      "updated_at": "2026-04-06T09:07:04Z"
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21456,
+      "forks": 797,
+      "language": "C",
+      "pushed_at": "2026-04-06T12:51:41Z",
+      "updated_at": "2026-04-06T12:51:45Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 18576,
-      "forks": 1000,
+      "stars": 18734,
+      "forks": 1019,
       "language": "Rust",
-      "pushed_at": "2026-04-06T08:15:32Z",
-      "updated_at": "2026-04-06T09:06:15Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18436,
-      "forks": 1597,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-06T07:09:50Z",
-      "updated_at": "2026-04-06T08:39:35Z"
-    },
-    {
-      "id": 957012,
-      "full_name": "Bash-it/bash-it",
-      "html_url": "https://github.com/Bash-it/bash-it",
-      "description": "A community Bash framework.",
-      "stars": 15004,
-      "forks": 2309,
-      "language": "Shell",
-      "pushed_at": "2026-04-06T04:42:01Z",
-      "updated_at": "2026-04-06T04:42:08Z"
+      "pushed_at": "2026-04-06T12:00:19Z",
+      "updated_at": "2026-04-06T13:08:23Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13893,
+      "stars": 13894,
       "forks": 938,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T08:55:51Z",
-      "updated_at": "2026-04-06T08:28:44Z"
+      "pushed_at": "2026-04-06T11:27:38Z",
+      "updated_at": "2026-04-06T12:43:13Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12784,
-      "forks": 784,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-06T04:04:38Z",
-      "updated_at": "2026-04-06T07:12:34Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 9363,
-      "forks": 799,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-06T08:00:46Z",
-      "updated_at": "2026-04-06T07:31:24Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop — native, fast, extensible",
+      "stars": 7084,
+      "forks": 180,
+      "language": "C++",
+      "pushed_at": "2026-04-06T12:03:20Z",
+      "updated_at": "2026-04-06T12:31:57Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 5981,
-      "forks": 346,
+      "stars": 6008,
+      "forks": 345,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T04:26:13Z",
-      "updated_at": "2026-04-06T08:49:39Z"
+      "pushed_at": "2026-04-06T12:58:39Z",
+      "updated_at": "2026-04-06T13:07:11Z"
     },
     {
-      "id": 1083188349,
-      "full_name": "RICHQAQ/PasteMD",
-      "html_url": "https://github.com/RICHQAQ/PasteMD",
-      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 4535,
-      "forks": 277,
-      "language": "Python",
-      "pushed_at": "2026-04-06T05:40:34Z",
-      "updated_at": "2026-04-06T07:37:19Z"
-    },
-    {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4299,
-      "forks": 867,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-06T05:39:10Z",
-      "updated_at": "2026-04-06T08:29:05Z"
+      "id": 1180917769,
+      "full_name": "uditgoenka/autoresearch",
+      "html_url": "https://github.com/uditgoenka/autoresearch",
+      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+      "stars": 3260,
+      "forks": 252,
+      "language": "Shell",
+      "pushed_at": "2026-04-06T13:02:47Z",
+      "updated_at": "2026-04-06T13:02:54Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3117,
+      "stars": 3118,
       "forks": 1000,
       "language": "C++",
-      "pushed_at": "2026-04-06T08:05:25Z",
-      "updated_at": "2026-04-06T07:32:00Z"
+      "pushed_at": "2026-04-06T12:53:58Z",
+      "updated_at": "2026-04-06T12:54:01Z"
+    },
+    {
+      "id": 1150496175,
+      "full_name": "mergisi/awesome-openclaw-agents",
+      "html_url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+      "stars": 2597,
+      "forks": 401,
+      "language": "HTML",
+      "pushed_at": "2026-04-06T11:14:28Z",
+      "updated_at": "2026-04-06T13:04:32Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1911,
+      "stars": 1912,
       "forks": 198,
       "language": "Go",
-      "pushed_at": "2026-04-06T08:53:44Z",
-      "updated_at": "2026-04-06T08:53:40Z"
+      "pushed_at": "2026-04-06T13:05:13Z",
+      "updated_at": "2026-04-06T13:05:18Z"
     },
     {
-      "id": 1028870440,
-      "full_name": "Taskosaur/Taskosaur",
-      "html_url": "https://github.com/Taskosaur/Taskosaur",
-      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
-      "stars": 448,
-      "forks": 83,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-06T09:06:27Z",
-      "updated_at": "2026-04-06T09:05:41Z"
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 901,
+      "forks": 23,
+      "language": "Swift",
+      "pushed_at": "2026-04-06T12:28:10Z",
+      "updated_at": "2026-04-06T12:29:02Z"
+    },
+    {
+      "id": 1197210729,
+      "full_name": "0xKarl-dev/claw-codes",
+      "html_url": "https://github.com/0xKarl-dev/claw-codes",
+      "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust.",
+      "stars": 450,
+      "forks": 572,
+      "language": "Rust",
+      "pushed_at": "2026-04-06T12:05:22Z",
+      "updated_at": "2026-04-06T12:45:30Z"
     },
     {
       "id": 1113746923,
@@ -158,19 +136,41 @@
       "stars": 390,
       "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-04-06T06:15:31Z",
-      "updated_at": "2026-04-06T06:14:11Z"
+      "pushed_at": "2026-04-06T11:09:44Z",
+      "updated_at": "2026-04-06T11:09:24Z"
     },
     {
-      "id": 1009719992,
-      "full_name": "Appaxaap/Focus",
-      "html_url": "https://github.com/Appaxaap/Focus",
-      "description": "Offline-first Eisenhower Matrix productivity app",
-      "stars": 197,
-      "forks": 8,
-      "language": "Dart",
-      "pushed_at": "2026-04-06T07:12:04Z",
-      "updated_at": "2026-04-06T07:06:57Z"
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 280,
+      "forks": 47,
+      "language": "Unknown",
+      "pushed_at": "2026-04-06T11:18:27Z",
+      "updated_at": "2026-04-06T11:17:12Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 277,
+      "forks": 44,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-06T12:30:19Z",
+      "updated_at": "2026-04-06T12:18:53Z"
+    },
+    {
+      "id": 1124938752,
+      "full_name": "shangyankeji/super-dev",
+      "html_url": "https://github.com/shangyankeji/super-dev",
+      "description": "Engineering workflow layer for AI coding tools with specs, review, quality gates, and traceability.为 AI 编程工具提供工程化流程、质量门禁与可追溯能力。",
+      "stars": 207,
+      "forks": 54,
+      "language": "Python",
+      "pushed_at": "2026-04-06T12:53:23Z",
+      "updated_at": "2026-04-06T12:48:09Z"
     }
   ]
 }
