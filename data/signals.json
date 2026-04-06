@@ -12,77 +12,110 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 140657,
-      "forks": 21200,
+      "stars": 140962,
+      "forks": 21281,
       "language": "JavaScript",
-      "pushed_at": "2026-04-06T00:53:51Z",
-      "updated_at": "2026-04-06T02:28:26Z"
+      "pushed_at": "2026-04-06T03:25:13Z",
+      "updated_at": "2026-04-06T05:57:27Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26120,
-      "forks": 2746,
+      "id": 957012,
+      "full_name": "Bash-it/bash-it",
+      "html_url": "https://github.com/Bash-it/bash-it",
+      "description": "A community Bash framework.",
+      "stars": 15004,
+      "forks": 2309,
+      "language": "Shell",
+      "pushed_at": "2026-04-06T04:42:01Z",
+      "updated_at": "2026-04-06T04:42:08Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14385,
+      "forks": 578,
+      "language": "C#",
+      "pushed_at": "2026-04-06T03:28:18Z",
+      "updated_at": "2026-04-06T05:18:55Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13892,
+      "forks": 938,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T01:17:38Z",
-      "updated_at": "2026-04-06T01:53:25Z"
+      "pushed_at": "2026-04-06T05:55:00Z",
+      "updated_at": "2026-04-06T04:20:29Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18429,
-      "forks": 1596,
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12783,
+      "forks": 784,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T00:23:33Z",
-      "updated_at": "2026-04-06T01:44:13Z"
+      "pushed_at": "2026-04-06T04:04:38Z",
+      "updated_at": "2026-04-06T04:23:53Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10391,
-      "forks": 1259,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9361,
+      "forks": 799,
       "language": "TypeScript",
-      "pushed_at": "2026-04-05T22:22:50Z",
-      "updated_at": "2026-04-06T01:50:59Z"
+      "pushed_at": "2026-04-06T04:28:40Z",
+      "updated_at": "2026-04-06T05:47:18Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
-      "stars": 6682,
-      "forks": 249,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 5963,
+      "forks": 344,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T02:25:02Z",
-      "updated_at": "2026-04-06T02:25:03Z"
+      "pushed_at": "2026-04-06T04:26:13Z",
+      "updated_at": "2026-04-06T05:57:37Z"
     },
     {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 1988,
-      "forks": 204,
+      "id": 1083188349,
+      "full_name": "RICHQAQ/PasteMD",
+      "html_url": "https://github.com/RICHQAQ/PasteMD",
+      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
+      "stars": 4533,
+      "forks": 277,
+      "language": "Python",
+      "pushed_at": "2026-04-06T05:40:34Z",
+      "updated_at": "2026-04-06T05:40:42Z"
+    },
+    {
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4298,
+      "forks": 867,
       "language": "JavaScript",
-      "pushed_at": "2026-04-06T00:06:36Z",
-      "updated_at": "2026-04-06T00:06:39Z"
+      "pushed_at": "2026-04-06T05:39:10Z",
+      "updated_at": "2026-04-06T05:39:16Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1792,
-      "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-04-05T22:16:06Z",
-      "updated_at": "2026-04-06T01:45:02Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1909,
+      "forks": 198,
+      "language": "Go",
+      "pushed_at": "2026-04-06T04:48:01Z",
+      "updated_at": "2026-04-06T05:25:40Z"
     },
     {
       "id": 1079924730,
@@ -92,8 +125,8 @@
       "stars": 1240,
       "forks": 32,
       "language": "Swift",
-      "pushed_at": "2026-04-06T01:33:05Z",
-      "updated_at": "2026-04-06T01:33:13Z"
+      "pushed_at": "2026-04-06T03:36:29Z",
+      "updated_at": "2026-04-06T03:36:34Z"
     },
     {
       "id": 1111978380,
@@ -103,63 +136,19 @@
       "stars": 712,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T02:25:35Z",
+      "pushed_at": "2026-04-06T03:18:45Z",
       "updated_at": "2026-04-06T02:25:39Z"
     },
     {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 570,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-04-06T01:21:27Z",
-      "updated_at": "2026-04-06T01:21:31Z"
-    },
-    {
-      "id": 608574029,
-      "full_name": "seratch/ChatGPT-in-Slack",
-      "html_url": "https://github.com/seratch/ChatGPT-in-Slack",
-      "description": "Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot",
-      "stars": 511,
-      "forks": 186,
-      "language": "Python",
-      "pushed_at": "2026-04-05T23:16:04Z",
-      "updated_at": "2026-04-05T23:16:11Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 279,
-      "forks": 47,
-      "language": "Unknown",
-      "pushed_at": "2026-04-05T22:18:40Z",
-      "updated_at": "2026-04-05T22:18:43Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 276,
-      "forks": 44,
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 448,
+      "forks": 83,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T01:16:23Z",
-      "updated_at": "2026-04-06T01:16:28Z"
-    },
-    {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 197,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-06T02:01:15Z",
-      "updated_at": "2026-04-05T22:56:56Z"
+      "pushed_at": "2026-04-06T05:34:24Z",
+      "updated_at": "2026-04-06T04:57:37Z"
     },
     {
       "id": 1041102492,
@@ -169,8 +158,19 @@
       "stars": 187,
       "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-04-06T02:17:21Z",
-      "updated_at": "2026-04-06T02:17:21Z"
+      "pushed_at": "2026-04-06T04:40:40Z",
+      "updated_at": "2026-04-06T04:40:42Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-06T03:05:57Z",
+      "updated_at": "2026-04-06T03:06:00Z"
     }
   ]
 }
