@@ -5,18 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 764,
+  "total_found": 765,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 140962,
-      "forks": 21281,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-06T03:25:13Z",
-      "updated_at": "2026-04-06T05:57:27Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 36016,
+      "forks": 801,
+      "language": "Rust",
+      "pushed_at": "2026-04-06T07:46:41Z",
+      "updated_at": "2026-04-06T09:07:04Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 18576,
+      "forks": 1000,
+      "language": "Rust",
+      "pushed_at": "2026-04-06T08:15:32Z",
+      "updated_at": "2026-04-06T09:06:15Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18436,
+      "forks": 1597,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-06T07:09:50Z",
+      "updated_at": "2026-04-06T08:39:35Z"
     },
     {
       "id": 957012,
@@ -30,114 +52,92 @@
       "updated_at": "2026-04-06T04:42:08Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14385,
-      "forks": 578,
-      "language": "C#",
-      "pushed_at": "2026-04-06T03:28:18Z",
-      "updated_at": "2026-04-06T05:18:55Z"
-    },
-    {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13892,
+      "stars": 13893,
       "forks": 938,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T05:55:00Z",
-      "updated_at": "2026-04-06T04:20:29Z"
+      "pushed_at": "2026-04-06T08:55:51Z",
+      "updated_at": "2026-04-06T08:28:44Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 12783,
+      "stars": 12784,
       "forks": 784,
       "language": "TypeScript",
       "pushed_at": "2026-04-06T04:04:38Z",
-      "updated_at": "2026-04-06T04:23:53Z"
+      "updated_at": "2026-04-06T07:12:34Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 9361,
+      "stars": 9363,
       "forks": 799,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T04:28:40Z",
-      "updated_at": "2026-04-06T05:47:18Z"
+      "pushed_at": "2026-04-06T08:00:46Z",
+      "updated_at": "2026-04-06T07:31:24Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 5963,
-      "forks": 344,
+      "stars": 5981,
+      "forks": 346,
       "language": "TypeScript",
       "pushed_at": "2026-04-06T04:26:13Z",
-      "updated_at": "2026-04-06T05:57:37Z"
+      "updated_at": "2026-04-06T08:49:39Z"
     },
     {
       "id": 1083188349,
       "full_name": "RICHQAQ/PasteMD",
       "html_url": "https://github.com/RICHQAQ/PasteMD",
       "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 4533,
+      "stars": 4535,
       "forks": 277,
       "language": "Python",
       "pushed_at": "2026-04-06T05:40:34Z",
-      "updated_at": "2026-04-06T05:40:42Z"
+      "updated_at": "2026-04-06T07:37:19Z"
     },
     {
       "id": 123563464,
       "full_name": "code-charity/youtube",
       "html_url": "https://github.com/code-charity/youtube",
       "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4298,
+      "stars": 4299,
       "forks": 867,
       "language": "JavaScript",
       "pushed_at": "2026-04-06T05:39:10Z",
-      "updated_at": "2026-04-06T05:39:16Z"
+      "updated_at": "2026-04-06T08:29:05Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3117,
+      "forks": 1000,
+      "language": "C++",
+      "pushed_at": "2026-04-06T08:05:25Z",
+      "updated_at": "2026-04-06T07:32:00Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1909,
+      "stars": 1911,
       "forks": 198,
       "language": "Go",
-      "pushed_at": "2026-04-06T04:48:01Z",
-      "updated_at": "2026-04-06T05:25:40Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1240,
-      "forks": 32,
-      "language": "Swift",
-      "pushed_at": "2026-04-06T03:36:29Z",
-      "updated_at": "2026-04-06T03:36:34Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 712,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-06T03:18:45Z",
-      "updated_at": "2026-04-06T02:25:39Z"
+      "pushed_at": "2026-04-06T08:53:44Z",
+      "updated_at": "2026-04-06T08:53:40Z"
     },
     {
       "id": 1028870440,
@@ -147,30 +147,30 @@
       "stars": 448,
       "forks": 83,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T05:34:24Z",
-      "updated_at": "2026-04-06T04:57:37Z"
+      "pushed_at": "2026-04-06T09:06:27Z",
+      "updated_at": "2026-04-06T09:05:41Z"
     },
     {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time",
-      "stars": 187,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-04-06T04:40:40Z",
-      "updated_at": "2026-04-06T04:40:42Z"
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 390,
+      "forks": 17,
+      "language": "Go",
+      "pushed_at": "2026-04-06T06:15:31Z",
+      "updated_at": "2026-04-06T06:14:11Z"
     },
     {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-06T03:05:57Z",
-      "updated_at": "2026-04-06T03:06:00Z"
+      "id": 1009719992,
+      "full_name": "Appaxaap/Focus",
+      "html_url": "https://github.com/Appaxaap/Focus",
+      "description": "Offline-first Eisenhower Matrix productivity app",
+      "stars": 197,
+      "forks": 8,
+      "language": "Dart",
+      "pushed_at": "2026-04-06T07:12:04Z",
+      "updated_at": "2026-04-06T07:06:57Z"
     }
   ]
 }
