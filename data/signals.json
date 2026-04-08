@@ -5,51 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 771,
+  "total_found": 772,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42917,
-      "forks": 2673,
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 146107,
+      "forks": 22478,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-08T10:56:41Z",
+      "updated_at": "2026-04-08T13:18:46Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14407,
+      "forks": 581,
       "language": "C#",
-      "pushed_at": "2026-04-08T04:35:29Z",
-      "updated_at": "2026-04-08T08:54:17Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26431,
-      "forks": 2788,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T05:29:34Z",
-      "updated_at": "2026-04-08T08:59:10Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24492,
-      "forks": 1787,
-      "language": "Vue",
-      "pushed_at": "2026-04-08T08:27:31Z",
-      "updated_at": "2026-04-08T08:26:52Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18490,
-      "forks": 1597,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T08:29:07Z",
-      "updated_at": "2026-04-08T08:59:56Z"
+      "pushed_at": "2026-04-08T11:24:04Z",
+      "updated_at": "2026-04-08T12:50:15Z"
     },
     {
       "id": 353775942,
@@ -59,52 +37,63 @@
       "stars": 13904,
       "forks": 940,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T04:51:41Z",
-      "updated_at": "2026-04-08T06:25:40Z"
+      "pushed_at": "2026-04-08T11:23:11Z",
+      "updated_at": "2026-04-08T13:16:12Z"
+    },
+    {
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 13398,
+      "forks": 1133,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T10:53:54Z",
+      "updated_at": "2026-04-08T12:45:37Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 9513,
-      "forks": 823,
+      "stars": 9626,
+      "forks": 831,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T06:01:17Z",
-      "updated_at": "2026-04-08T08:19:40Z"
+      "pushed_at": "2026-04-08T12:34:46Z",
+      "updated_at": "2026-04-08T13:18:05Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5613,
+      "stars": 5610,
       "forks": 727,
       "language": "Swift",
-      "pushed_at": "2026-04-08T08:54:35Z",
-      "updated_at": "2026-04-08T08:32:41Z"
+      "pushed_at": "2026-04-08T13:16:08Z",
+      "updated_at": "2026-04-08T12:51:42Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4419,
-      "forks": 99,
-      "language": "Rust",
-      "pushed_at": "2026-04-08T04:23:19Z",
-      "updated_at": "2026-04-08T04:23:21Z"
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5117,
+      "forks": 296,
+      "language": "Vala",
+      "pushed_at": "2026-04-08T11:39:53Z",
+      "updated_at": "2026-04-08T13:11:45Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3621,
-      "forks": 754,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T04:01:17Z",
-      "updated_at": "2026-04-08T06:14:00Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3746,
+      "forks": 188,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-08T13:07:40Z",
+      "updated_at": "2026-04-08T13:09:31Z"
     },
     {
       "id": 300155217,
@@ -114,41 +103,30 @@
       "stars": 3124,
       "forks": 999,
       "language": "C++",
-      "pushed_at": "2026-04-08T08:40:19Z",
-      "updated_at": "2026-04-08T08:24:36Z"
+      "pushed_at": "2026-04-08T13:15:51Z",
+      "updated_at": "2026-04-08T12:54:14Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2787,
-      "forks": 180,
-      "language": "Python",
-      "pushed_at": "2026-04-08T06:21:51Z",
-      "updated_at": "2026-04-08T07:36:08Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1261,
+      "forks": 33,
+      "language": "Swift",
+      "pushed_at": "2026-04-08T11:16:36Z",
+      "updated_at": "2026-04-08T11:16:43Z"
     },
     {
-      "id": 1172257670,
-      "full_name": "viperrcrypto/Siftly",
-      "html_url": "https://github.com/viperrcrypto/Siftly",
-      "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 2369,
-      "forks": 218,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T05:57:56Z",
-      "updated_at": "2026-04-08T07:18:49Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1937,
-      "forks": 203,
-      "language": "Go",
-      "pushed_at": "2026-04-08T08:23:32Z",
-      "updated_at": "2026-04-08T08:23:41Z"
+      "id": 210626964,
+      "full_name": "totumonline/totum-mit",
+      "html_url": "https://github.com/totumonline/totum-mit",
+      "description": "Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interface.",
+      "stars": 983,
+      "forks": 56,
+      "language": "PHP",
+      "pushed_at": "2026-04-08T11:49:36Z",
+      "updated_at": "2026-04-08T11:49:40Z"
     },
     {
       "id": 591995344,
@@ -158,19 +136,41 @@
       "stars": 731,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-04-08T02:56:47Z",
-      "updated_at": "2026-04-08T02:56:53Z"
+      "pushed_at": "2026-04-08T10:34:43Z",
+      "updated_at": "2026-04-08T10:34:50Z"
     },
     {
-      "id": 1113746923,
-      "full_name": "kriuchkov/tock",
-      "html_url": "https://github.com/kriuchkov/tock",
-      "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 394,
-      "forks": 17,
-      "language": "Go",
-      "pushed_at": "2026-04-08T06:05:02Z",
-      "updated_at": "2026-04-08T07:21:06Z"
+      "id": 1132392761,
+      "full_name": "tzachbon/smart-ralph",
+      "html_url": "https://github.com/tzachbon/smart-ralph",
+      "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.",
+      "stars": 276,
+      "forks": 15,
+      "language": "Shell",
+      "pushed_at": "2026-04-08T11:36:39Z",
+      "updated_at": "2026-04-08T11:36:01Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "xmqywx/CodeIsland",
+      "html_url": "https://github.com/xmqywx/CodeIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 131,
+      "forks": 25,
+      "language": "Swift",
+      "pushed_at": "2026-04-08T12:45:23Z",
+      "updated_at": "2026-04-08T12:45:29Z"
+    },
+    {
+      "id": 1174374170,
+      "full_name": "akinalpfdn/claude-ground",
+      "html_url": "https://github.com/akinalpfdn/claude-ground",
+      "description": "A modular rules & skills system for Claude Code — organize, share, and supercharge your AI coding workflow",
+      "stars": 107,
+      "forks": 5,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-08T10:32:15Z",
+      "updated_at": "2026-04-08T10:32:23Z"
     }
   ]
 }
