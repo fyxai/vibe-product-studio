@@ -5,139 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 768,
+  "total_found": 770,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 144622,
-      "forks": 22189,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-07T20:20:23Z",
-      "updated_at": "2026-04-07T20:44:34Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5095,
+      "forks": 610,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-08T02:15:24Z",
+      "updated_at": "2026-04-08T02:15:27Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36104,
-      "forks": 3633,
-      "language": "C#",
-      "pushed_at": "2026-04-07T18:24:26Z",
-      "updated_at": "2026-04-07T20:18:06Z"
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw中文用例与案例大全 | 46个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 3529,
+      "forks": 388,
+      "language": "Unknown",
+      "pushed_at": "2026-04-08T01:57:26Z",
+      "updated_at": "2026-04-08T01:57:35Z"
     },
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24491,
-      "forks": 1787,
-      "language": "Vue",
-      "pushed_at": "2026-04-07T18:49:05Z",
-      "updated_at": "2026-04-07T20:30:58Z"
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3123,
+      "forks": 999,
+      "language": "C++",
+      "pushed_at": "2026-04-08T01:40:34Z",
+      "updated_at": "2026-04-08T01:40:38Z"
     },
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 19297,
-      "forks": 886,
-      "language": "Go",
-      "pushed_at": "2026-04-07T19:01:20Z",
-      "updated_at": "2026-04-07T20:16:03Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18480,
-      "forks": 1597,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-07T19:17:22Z",
-      "updated_at": "2026-04-07T20:27:27Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12788,
-      "forks": 785,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-07T18:35:05Z",
-      "updated_at": "2026-04-07T18:43:41Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5612,
-      "forks": 727,
-      "language": "Swift",
-      "pushed_at": "2026-04-07T20:41:56Z",
-      "updated_at": "2026-04-07T19:00:15Z"
-    },
-    {
-      "id": 187916430,
-      "full_name": "muety/wakapi",
-      "html_url": "https://github.com/muety/wakapi",
-      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
-      "stars": 4258,
-      "forks": 280,
-      "language": "Go",
-      "pushed_at": "2026-04-07T19:50:22Z",
-      "updated_at": "2026-04-07T19:50:27Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2544,
-      "forks": 274,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-07T18:55:42Z",
-      "updated_at": "2026-04-07T19:25:12Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2783,
+      "forks": 180,
+      "language": "Python",
+      "pushed_at": "2026-04-08T00:00:21Z",
+      "updated_at": "2026-04-08T00:00:23Z"
     },
     {
       "id": 812362660,
       "full_name": "ViscousPot/GitSync",
       "html_url": "https://github.com/ViscousPot/GitSync",
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1593,
+      "stars": 1594,
       "forks": 136,
       "language": "Dart",
-      "pushed_at": "2026-04-07T19:38:56Z",
-      "updated_at": "2026-04-07T20:09:57Z"
+      "pushed_at": "2026-04-08T00:16:49Z",
+      "updated_at": "2026-04-08T00:57:27Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1255,
-      "forks": 33,
-      "language": "Swift",
-      "pushed_at": "2026-04-07T20:09:07Z",
-      "updated_at": "2026-04-07T20:08:50Z"
-    },
-    {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1066,
-      "forks": 38,
-      "language": "C++",
-      "pushed_at": "2026-04-07T18:40:13Z",
-      "updated_at": "2026-04-07T18:40:16Z"
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
+      "stars": 737,
+      "forks": 123,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T00:49:43Z",
+      "updated_at": "2026-04-08T00:49:52Z"
     },
     {
       "id": 591995344,
@@ -147,19 +81,19 @@
       "stars": 731,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-04-07T20:31:41Z",
-      "updated_at": "2026-04-07T20:31:47Z"
+      "pushed_at": "2026-04-08T01:41:19Z",
+      "updated_at": "2026-04-08T01:41:22Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 718,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-07T20:04:24Z",
-      "updated_at": "2026-04-07T20:04:33Z"
+      "id": 109383925,
+      "full_name": "7mind/izumi",
+      "html_url": "https://github.com/7mind/izumi",
+      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
+      "stars": 626,
+      "forks": 72,
+      "language": "Scala",
+      "pushed_at": "2026-04-08T02:16:49Z",
+      "updated_at": "2026-04-08T02:16:57Z"
     },
     {
       "id": 672605495,
@@ -169,8 +103,74 @@
       "stars": 572,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-04-07T18:43:00Z",
-      "updated_at": "2026-04-07T18:43:05Z"
+      "pushed_at": "2026-04-08T00:56:56Z",
+      "updated_at": "2026-04-08T00:57:05Z"
+    },
+    {
+      "id": 1066853103,
+      "full_name": "tamnguyenvan/screenarc",
+      "html_url": "https://github.com/tamnguyenvan/screenarc",
+      "description": "ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.",
+      "stars": 424,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T00:54:00Z",
+      "updated_at": "2026-04-08T00:54:04Z"
+    },
+    {
+      "id": 412385182,
+      "full_name": "scribe-org/Scribe-iOS",
+      "html_url": "https://github.com/scribe-org/Scribe-iOS",
+      "description": "iOS app with keyboards for language learners",
+      "stars": 169,
+      "forks": 106,
+      "language": "Swift",
+      "pushed_at": "2026-04-08T00:15:50Z",
+      "updated_at": "2026-04-08T00:15:57Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 164,
+      "forks": 2,
+      "language": "Vue",
+      "pushed_at": "2026-04-08T00:55:24Z",
+      "updated_at": "2026-04-08T00:53:40Z"
+    },
+    {
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 141,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-04-08T01:18:18Z",
+      "updated_at": "2026-04-08T02:22:20Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "xmqywx/CodeIsland",
+      "html_url": "https://github.com/xmqywx/CodeIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 109,
+      "forks": 24,
+      "language": "Swift",
+      "pushed_at": "2026-04-07T23:57:04Z",
+      "updated_at": "2026-04-08T02:14:21Z"
+    },
+    {
+      "id": 412385439,
+      "full_name": "scribe-org/Scribe-Android",
+      "html_url": "https://github.com/scribe-org/Scribe-Android",
+      "description": "Android app with keyboards for language learners",
+      "stars": 94,
+      "forks": 108,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-08T00:14:41Z",
+      "updated_at": "2026-04-08T00:14:50Z"
     }
   ]
 }
