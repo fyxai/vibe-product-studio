@@ -8,6 +8,17 @@
   "total_found": 773,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 146657,
+      "forks": 22601,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-08T20:31:19Z",
+      "updated_at": "2026-04-08T20:41:03Z"
+    },
+    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
@@ -15,19 +26,19 @@
       "stars": 36105,
       "forks": 3635,
       "language": "C#",
-      "pushed_at": "2026-04-08T15:56:00Z",
-      "updated_at": "2026-04-08T16:58:01Z"
+      "pushed_at": "2026-04-08T20:15:11Z",
+      "updated_at": "2026-04-08T18:48:15Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26467,
+      "stars": 26469,
       "forks": 2794,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T14:01:12Z",
-      "updated_at": "2026-04-08T16:48:09Z"
+      "pushed_at": "2026-04-08T18:15:39Z",
+      "updated_at": "2026-04-08T19:35:57Z"
     },
     {
       "id": 33702544,
@@ -37,52 +48,52 @@
       "stars": 24444,
       "forks": 2272,
       "language": "Python",
-      "pushed_at": "2026-04-08T16:51:53Z",
-      "updated_at": "2026-04-08T16:35:03Z"
+      "pushed_at": "2026-04-08T19:01:02Z",
+      "updated_at": "2026-04-08T20:19:33Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 20484,
-      "forks": 1146,
+      "stars": 20667,
+      "forks": 1157,
       "language": "Rust",
-      "pushed_at": "2026-04-08T15:30:26Z",
-      "updated_at": "2026-04-08T17:00:24Z"
+      "pushed_at": "2026-04-08T18:59:36Z",
+      "updated_at": "2026-04-08T20:40:52Z"
+    },
+    {
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17209,
+      "forks": 860,
+      "language": "Python",
+      "pushed_at": "2026-04-08T20:29:01Z",
+      "updated_at": "2026-04-08T20:29:11Z"
     },
     {
       "id": 814882742,
       "full_name": "iib0011/omni-tools",
       "html_url": "https://github.com/iib0011/omni-tools",
       "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9032,
-      "forks": 583,
+      "stars": 9033,
+      "forks": 582,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T15:49:08Z",
-      "updated_at": "2026-04-08T16:59:15Z"
+      "pushed_at": "2026-04-08T19:20:09Z",
+      "updated_at": "2026-04-08T20:08:37Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 6380,
-      "forks": 371,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T16:46:09Z",
-      "updated_at": "2026-04-08T16:46:16Z"
-    },
-    {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 5908,
-      "forks": 307,
-      "language": "Swift",
-      "pushed_at": "2026-04-08T14:10:33Z",
-      "updated_at": "2026-04-08T15:47:49Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7127,
+      "forks": 182,
+      "language": "C++",
+      "pushed_at": "2026-04-08T19:26:07Z",
+      "updated_at": "2026-04-08T20:36:29Z"
     },
     {
       "id": 129699403,
@@ -92,85 +103,74 @@
       "stars": 5608,
       "forks": 727,
       "language": "Swift",
-      "pushed_at": "2026-04-08T16:55:13Z",
-      "updated_at": "2026-04-08T16:42:16Z"
+      "pushed_at": "2026-04-08T19:19:33Z",
+      "updated_at": "2026-04-08T18:19:21Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5119,
-      "forks": 296,
-      "language": "Vala",
-      "pushed_at": "2026-04-08T13:50:37Z",
-      "updated_at": "2026-04-08T15:57:41Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5095,
-      "forks": 609,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-08T16:45:06Z",
-      "updated_at": "2026-04-08T16:45:05Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3758,
-      "forks": 187,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-08T14:09:33Z",
-      "updated_at": "2026-04-08T16:40:15Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3621,
-      "forks": 754,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T16:36:28Z",
-      "updated_at": "2026-04-08T16:46:09Z"
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 2823,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-04-08T18:11:54Z",
+      "updated_at": "2026-04-08T19:05:50Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2563,
-      "forks": 277,
+      "stars": 2565,
+      "forks": 279,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T16:19:17Z",
-      "updated_at": "2026-04-08T16:48:59Z"
+      "pushed_at": "2026-04-08T19:53:04Z",
+      "updated_at": "2026-04-08T19:53:09Z"
+    },
+    {
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1596,
+      "forks": 136,
+      "language": "Dart",
+      "pushed_at": "2026-04-08T19:07:57Z",
+      "updated_at": "2026-04-08T19:08:10Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1261,
+      "stars": 1263,
       "forks": 33,
       "language": "Swift",
-      "pushed_at": "2026-04-08T14:08:22Z",
-      "updated_at": "2026-04-08T14:08:29Z"
+      "pushed_at": "2026-04-08T19:19:31Z",
+      "updated_at": "2026-04-08T19:57:21Z"
     },
     {
-      "id": 837514404,
-      "full_name": "SnapXL/SnapX",
-      "html_url": "https://github.com/SnapXL/SnapX",
-      "description": "SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork",
-      "stars": 874,
-      "forks": 14,
-      "language": "C#",
-      "pushed_at": "2026-04-08T14:58:34Z",
-      "updated_at": "2026-04-08T16:46:46Z"
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 938,
+      "forks": 215,
+      "language": "Scala",
+      "pushed_at": "2026-04-08T18:32:34Z",
+      "updated_at": "2026-04-08T18:29:50Z"
+    },
+    {
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 388,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T19:33:41Z",
+      "updated_at": "2026-04-08T19:33:46Z"
     }
   ]
 }
