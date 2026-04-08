@@ -8,6 +8,39 @@
   "total_found": 770,
   "items": [
     {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 42914,
+      "forks": 2673,
+      "language": "C#",
+      "pushed_at": "2026-04-08T04:35:29Z",
+      "updated_at": "2026-04-08T04:35:05Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 26413,
+      "forks": 2787,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T05:29:34Z",
+      "updated_at": "2026-04-08T05:29:16Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13903,
+      "forks": 941,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T04:51:41Z",
+      "updated_at": "2026-04-08T04:38:05Z"
+    },
+    {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
@@ -19,15 +52,37 @@
       "updated_at": "2026-04-08T02:15:27Z"
     },
     {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4419,
+      "forks": 99,
+      "language": "Rust",
+      "pushed_at": "2026-04-08T04:23:19Z",
+      "updated_at": "2026-04-08T04:23:21Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3620,
+      "forks": 754,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T04:01:17Z",
+      "updated_at": "2026-04-08T03:23:15Z"
+    },
+    {
       "id": 1164376059,
       "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
       "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
       "description": "🇨🇳 OpenClaw中文用例与案例大全 | 46个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 3529,
-      "forks": 388,
+      "stars": 3534,
+      "forks": 389,
       "language": "Unknown",
       "pushed_at": "2026-04-08T01:57:26Z",
-      "updated_at": "2026-04-08T01:57:35Z"
+      "updated_at": "2026-04-08T04:53:02Z"
     },
     {
       "id": 300155217,
@@ -37,7 +92,7 @@
       "stars": 3123,
       "forks": 999,
       "language": "C++",
-      "pushed_at": "2026-04-08T01:40:34Z",
+      "pushed_at": "2026-04-08T04:48:54Z",
       "updated_at": "2026-04-08T01:40:38Z"
     },
     {
@@ -45,33 +100,22 @@
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2783,
+      "stars": 2785,
       "forks": 180,
       "language": "Python",
-      "pushed_at": "2026-04-08T00:00:21Z",
-      "updated_at": "2026-04-08T00:00:23Z"
+      "pushed_at": "2026-04-08T05:43:43Z",
+      "updated_at": "2026-04-08T05:39:43Z"
     },
     {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1594,
-      "forks": 136,
-      "language": "Dart",
-      "pushed_at": "2026-04-08T00:16:49Z",
-      "updated_at": "2026-04-08T00:57:27Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 737,
-      "forks": 123,
+      "id": 1172257670,
+      "full_name": "viperrcrypto/Siftly",
+      "html_url": "https://github.com/viperrcrypto/Siftly",
+      "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
+      "stars": 2368,
+      "forks": 218,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T00:49:43Z",
-      "updated_at": "2026-04-08T00:49:52Z"
+      "pushed_at": "2026-04-08T05:36:02Z",
+      "updated_at": "2026-04-08T05:32:20Z"
     },
     {
       "id": 591995344,
@@ -81,8 +125,8 @@
       "stars": 731,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-04-08T01:41:19Z",
-      "updated_at": "2026-04-08T01:41:22Z"
+      "pushed_at": "2026-04-08T02:56:47Z",
+      "updated_at": "2026-04-08T02:56:53Z"
     },
     {
       "id": 109383925,
@@ -96,81 +140,37 @@
       "updated_at": "2026-04-08T02:16:57Z"
     },
     {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 572,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-04-08T00:56:56Z",
-      "updated_at": "2026-04-08T00:57:05Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 308,
+      "forks": 13,
+      "language": "Shell",
+      "pushed_at": "2026-04-08T02:38:29Z",
+      "updated_at": "2026-04-08T04:17:58Z"
     },
     {
-      "id": 1066853103,
-      "full_name": "tamnguyenvan/screenarc",
-      "html_url": "https://github.com/tamnguyenvan/screenarc",
-      "description": "ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.",
-      "stars": 424,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T00:54:00Z",
-      "updated_at": "2026-04-08T00:54:04Z"
-    },
-    {
-      "id": 412385182,
-      "full_name": "scribe-org/Scribe-iOS",
-      "html_url": "https://github.com/scribe-org/Scribe-iOS",
-      "description": "iOS app with keyboards for language learners",
-      "stars": 169,
-      "forks": 106,
-      "language": "Swift",
-      "pushed_at": "2026-04-08T00:15:50Z",
-      "updated_at": "2026-04-08T00:15:57Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 164,
-      "forks": 2,
-      "language": "Vue",
-      "pushed_at": "2026-04-08T00:55:24Z",
-      "updated_at": "2026-04-08T00:53:40Z"
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 290,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-08T04:43:09Z",
+      "updated_at": "2026-04-08T04:43:13Z"
     },
     {
       "id": 1171240164,
       "full_name": "LumiBearStudio/SpanFinder",
       "html_url": "https://github.com/LumiBearStudio/SpanFinder",
       "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 141,
+      "stars": 144,
       "forks": 11,
       "language": "C#",
-      "pushed_at": "2026-04-08T01:18:18Z",
-      "updated_at": "2026-04-08T02:22:20Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "xmqywx/CodeIsland",
-      "html_url": "https://github.com/xmqywx/CodeIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 109,
-      "forks": 24,
-      "language": "Swift",
-      "pushed_at": "2026-04-07T23:57:04Z",
-      "updated_at": "2026-04-08T02:14:21Z"
-    },
-    {
-      "id": 412385439,
-      "full_name": "scribe-org/Scribe-Android",
-      "html_url": "https://github.com/scribe-org/Scribe-Android",
-      "description": "Android app with keyboards for language learners",
-      "stars": 94,
-      "forks": 108,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-08T00:14:41Z",
-      "updated_at": "2026-04-08T00:14:50Z"
+      "pushed_at": "2026-04-08T02:34:58Z",
+      "updated_at": "2026-04-08T05:14:38Z"
     }
   ]
 }
