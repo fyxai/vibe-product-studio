@@ -5,51 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 770,
+  "total_found": 771,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42914,
+      "stars": 42917,
       "forks": 2673,
       "language": "C#",
       "pushed_at": "2026-04-08T04:35:29Z",
-      "updated_at": "2026-04-08T04:35:05Z"
+      "updated_at": "2026-04-08T08:54:17Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26413,
-      "forks": 2787,
+      "stars": 26431,
+      "forks": 2788,
       "language": "TypeScript",
       "pushed_at": "2026-04-08T05:29:34Z",
-      "updated_at": "2026-04-08T05:29:16Z"
+      "updated_at": "2026-04-08T08:59:10Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24492,
+      "forks": 1787,
+      "language": "Vue",
+      "pushed_at": "2026-04-08T08:27:31Z",
+      "updated_at": "2026-04-08T08:26:52Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18490,
+      "forks": 1597,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T08:29:07Z",
+      "updated_at": "2026-04-08T08:59:56Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13903,
-      "forks": 941,
+      "stars": 13904,
+      "forks": 940,
       "language": "TypeScript",
       "pushed_at": "2026-04-08T04:51:41Z",
-      "updated_at": "2026-04-08T04:38:05Z"
+      "updated_at": "2026-04-08T06:25:40Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5095,
-      "forks": 610,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-08T02:15:24Z",
-      "updated_at": "2026-04-08T02:15:27Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 9513,
+      "forks": 823,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T06:01:17Z",
+      "updated_at": "2026-04-08T08:19:40Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5613,
+      "forks": 727,
+      "language": "Swift",
+      "pushed_at": "2026-04-08T08:54:35Z",
+      "updated_at": "2026-04-08T08:32:41Z"
     },
     {
       "id": 1092562478,
@@ -67,55 +100,55 @@
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3620,
+      "stars": 3621,
       "forks": 754,
       "language": "TypeScript",
       "pushed_at": "2026-04-08T04:01:17Z",
-      "updated_at": "2026-04-08T03:23:15Z"
-    },
-    {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw中文用例与案例大全 | 46个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 3534,
-      "forks": 389,
-      "language": "Unknown",
-      "pushed_at": "2026-04-08T01:57:26Z",
-      "updated_at": "2026-04-08T04:53:02Z"
+      "updated_at": "2026-04-08T06:14:00Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3123,
+      "stars": 3124,
       "forks": 999,
       "language": "C++",
-      "pushed_at": "2026-04-08T04:48:54Z",
-      "updated_at": "2026-04-08T01:40:38Z"
+      "pushed_at": "2026-04-08T08:40:19Z",
+      "updated_at": "2026-04-08T08:24:36Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2785,
+      "stars": 2787,
       "forks": 180,
       "language": "Python",
-      "pushed_at": "2026-04-08T05:43:43Z",
-      "updated_at": "2026-04-08T05:39:43Z"
+      "pushed_at": "2026-04-08T06:21:51Z",
+      "updated_at": "2026-04-08T07:36:08Z"
     },
     {
       "id": 1172257670,
       "full_name": "viperrcrypto/Siftly",
       "html_url": "https://github.com/viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 2368,
+      "stars": 2369,
       "forks": 218,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T05:36:02Z",
-      "updated_at": "2026-04-08T05:32:20Z"
+      "pushed_at": "2026-04-08T05:57:56Z",
+      "updated_at": "2026-04-08T07:18:49Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1937,
+      "forks": 203,
+      "language": "Go",
+      "pushed_at": "2026-04-08T08:23:32Z",
+      "updated_at": "2026-04-08T08:23:41Z"
     },
     {
       "id": 591995344,
@@ -129,48 +162,15 @@
       "updated_at": "2026-04-08T02:56:53Z"
     },
     {
-      "id": 109383925,
-      "full_name": "7mind/izumi",
-      "html_url": "https://github.com/7mind/izumi",
-      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
-      "stars": 626,
-      "forks": 72,
-      "language": "Scala",
-      "pushed_at": "2026-04-08T02:16:49Z",
-      "updated_at": "2026-04-08T02:16:57Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 308,
-      "forks": 13,
-      "language": "Shell",
-      "pushed_at": "2026-04-08T02:38:29Z",
-      "updated_at": "2026-04-08T04:17:58Z"
-    },
-    {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 290,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-08T04:43:09Z",
-      "updated_at": "2026-04-08T04:43:13Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 144,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-08T02:34:58Z",
-      "updated_at": "2026-04-08T05:14:38Z"
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 394,
+      "forks": 17,
+      "language": "Go",
+      "pushed_at": "2026-04-08T06:05:02Z",
+      "updated_at": "2026-04-08T07:21:06Z"
     }
   ]
 }
