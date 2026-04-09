@@ -5,29 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 772,
+  "total_found": 773,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26541,
-      "forks": 2801,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 21194,
+      "forks": 1186,
+      "language": "Rust",
+      "pushed_at": "2026-04-09T07:34:12Z",
+      "updated_at": "2026-04-09T09:06:55Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13907,
+      "forks": 941,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T02:48:15Z",
-      "updated_at": "2026-04-09T05:46:03Z"
+      "pushed_at": "2026-04-09T06:46:16Z",
+      "updated_at": "2026-04-09T08:26:25Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 10620,
-      "forks": 966,
+      "stars": 10785,
+      "forks": 987,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T04:39:30Z",
-      "updated_at": "2026-04-09T05:47:33Z"
+      "pushed_at": "2026-04-09T05:53:04Z",
+      "updated_at": "2026-04-09T09:02:30Z"
     },
     {
       "id": 475337801,
@@ -37,19 +48,41 @@
       "stars": 6682,
       "forks": 250,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T05:25:15Z",
-      "updated_at": "2026-04-09T05:25:04Z"
+      "pushed_at": "2026-04-09T07:05:43Z",
+      "updated_at": "2026-04-09T07:05:42Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5120,
-      "forks": 296,
-      "language": "Vala",
-      "pushed_at": "2026-04-09T04:41:35Z",
-      "updated_at": "2026-04-09T04:41:38Z"
+      "id": 52319036,
+      "full_name": "passbolt/passbolt_api",
+      "html_url": "https://github.com/passbolt/passbolt_api",
+      "description": "Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!",
+      "stars": 5828,
+      "forks": 381,
+      "language": "PHP",
+      "pushed_at": "2026-04-09T07:36:14Z",
+      "updated_at": "2026-04-09T07:28:03Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5608,
+      "forks": 727,
+      "language": "Swift",
+      "pushed_at": "2026-04-09T08:49:48Z",
+      "updated_at": "2026-04-09T08:43:20Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3126,
+      "forks": 998,
+      "language": "C++",
+      "pushed_at": "2026-04-09T08:20:16Z",
+      "updated_at": "2026-04-09T06:44:51Z"
     },
     {
       "id": 897595329,
@@ -57,10 +90,32 @@
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
       "stars": 2794,
-      "forks": 180,
+      "forks": 181,
       "language": "Python",
       "pushed_at": "2026-04-09T05:20:15Z",
-      "updated_at": "2026-04-09T05:39:46Z"
+      "updated_at": "2026-04-09T09:03:04Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1958,
+      "forks": 206,
+      "language": "Go",
+      "pushed_at": "2026-04-09T07:18:23Z",
+      "updated_at": "2026-04-09T07:47:53Z"
+    },
+    {
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1874,
+      "forks": 93,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-09T08:26:12Z",
+      "updated_at": "2026-04-09T06:15:53Z"
     },
     {
       "id": 1079924730,
@@ -71,7 +126,18 @@
       "forks": 34,
       "language": "Swift",
       "pushed_at": "2026-04-09T05:11:07Z",
-      "updated_at": "2026-04-09T05:10:55Z"
+      "updated_at": "2026-04-09T07:04:49Z"
+    },
+    {
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 938,
+      "forks": 215,
+      "language": "Scala",
+      "pushed_at": "2026-04-09T06:42:27Z",
+      "updated_at": "2026-04-09T06:39:52Z"
     },
     {
       "id": 1111978380,
@@ -81,30 +147,8 @@
       "stars": 721,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T05:35:07Z",
-      "updated_at": "2026-04-09T05:35:10Z"
-    },
-    {
-      "id": 134258952,
-      "full_name": "lawrencehook/remove-youtube-suggestions",
-      "html_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
-      "description": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
-      "stars": 565,
-      "forks": 57,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-09T01:56:54Z",
-      "updated_at": "2026-04-09T01:56:54Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 456,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-09T02:56:04Z",
-      "updated_at": "2026-04-09T04:42:17Z"
+      "pushed_at": "2026-04-09T07:00:19Z",
+      "updated_at": "2026-04-09T07:00:23Z"
     },
     {
       "id": 737267757,
@@ -114,63 +158,19 @@
       "stars": 291,
       "forks": 14,
       "language": "JavaScript",
-      "pushed_at": "2026-04-09T02:41:21Z",
-      "updated_at": "2026-04-09T02:41:27Z"
+      "pushed_at": "2026-04-09T08:34:42Z",
+      "updated_at": "2026-04-09T08:34:46Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 279,
-      "forks": 46,
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 269,
+      "forks": 19,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T04:00:35Z",
-      "updated_at": "2026-04-09T03:59:28Z"
-    },
-    {
-      "id": 16852661,
-      "full_name": "emad-elsaid/xlog",
-      "html_url": "https://github.com/emad-elsaid/xlog",
-      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
-      "stars": 207,
-      "forks": 21,
-      "language": "Go",
-      "pushed_at": "2026-04-09T05:30:33Z",
-      "updated_at": "2026-04-09T05:30:39Z"
-    },
-    {
-      "id": 1163713389,
-      "full_name": "brevity1swos/rgx",
-      "html_url": "https://github.com/brevity1swos/rgx",
-      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
-      "stars": 183,
-      "forks": 2,
-      "language": "Rust",
-      "pushed_at": "2026-04-09T02:47:51Z",
-      "updated_at": "2026-04-09T02:24:00Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 154,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-09T04:52:29Z",
-      "updated_at": "2026-04-09T04:49:55Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "xmqywx/CodeIsland",
-      "html_url": "https://github.com/xmqywx/CodeIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 154,
-      "forks": 27,
-      "language": "Swift",
-      "pushed_at": "2026-04-09T03:46:08Z",
-      "updated_at": "2026-04-09T03:21:39Z"
+      "pushed_at": "2026-04-09T08:37:49Z",
+      "updated_at": "2026-04-09T08:37:56Z"
     }
   ]
 }
