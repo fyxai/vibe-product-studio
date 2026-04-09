@@ -8,59 +8,48 @@
   "total_found": 773,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 21194,
-      "forks": 1186,
-      "language": "Rust",
-      "pushed_at": "2026-04-09T07:34:12Z",
-      "updated_at": "2026-04-09T09:06:55Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13907,
-      "forks": 941,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-09T06:46:16Z",
-      "updated_at": "2026-04-09T08:26:25Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 148033,
+      "forks": 22852,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-09T13:22:26Z",
+      "updated_at": "2026-04-09T13:25:21Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 10785,
-      "forks": 987,
+      "stars": 10954,
+      "forks": 1017,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T05:53:04Z",
-      "updated_at": "2026-04-09T09:02:30Z"
+      "pushed_at": "2026-04-09T11:53:42Z",
+      "updated_at": "2026-04-09T13:25:06Z"
     },
     {
       "id": 475337801,
       "full_name": "massCodeIO/massCode",
       "html_url": "https://github.com/massCodeIO/massCode",
       "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
-      "stars": 6682,
+      "stars": 6680,
       "forks": 250,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T07:05:43Z",
-      "updated_at": "2026-04-09T07:05:42Z"
+      "pushed_at": "2026-04-09T11:49:42Z",
+      "updated_at": "2026-04-09T12:00:07Z"
     },
     {
-      "id": 52319036,
-      "full_name": "passbolt/passbolt_api",
-      "html_url": "https://github.com/passbolt/passbolt_api",
-      "description": "Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!",
-      "stars": 5828,
-      "forks": 381,
-      "language": "PHP",
-      "pushed_at": "2026-04-09T07:36:14Z",
-      "updated_at": "2026-04-09T07:28:03Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 6557,
+      "forks": 385,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-09T11:26:46Z",
+      "updated_at": "2026-04-09T13:23:15Z"
     },
     {
       "id": 129699403,
@@ -70,8 +59,19 @@
       "stars": 5608,
       "forks": 727,
       "language": "Swift",
-      "pushed_at": "2026-04-09T08:49:48Z",
-      "updated_at": "2026-04-09T08:43:20Z"
+      "pushed_at": "2026-04-09T13:00:30Z",
+      "updated_at": "2026-04-09T12:58:38Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3623,
+      "forks": 754,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-09T12:29:52Z",
+      "updated_at": "2026-04-09T12:59:18Z"
     },
     {
       "id": 300155217,
@@ -81,96 +81,96 @@
       "stars": 3126,
       "forks": 998,
       "language": "C++",
-      "pushed_at": "2026-04-09T08:20:16Z",
-      "updated_at": "2026-04-09T06:44:51Z"
+      "pushed_at": "2026-04-09T13:20:00Z",
+      "updated_at": "2026-04-09T13:21:34Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2794,
-      "forks": 181,
-      "language": "Python",
-      "pushed_at": "2026-04-09T05:20:15Z",
-      "updated_at": "2026-04-09T09:03:04Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1958,
-      "forks": 206,
-      "language": "Go",
-      "pushed_at": "2026-04-09T07:18:23Z",
-      "updated_at": "2026-04-09T07:47:53Z"
-    },
-    {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1874,
-      "forks": 93,
+      "id": 542909593,
+      "full_name": "yenche123/liubai",
+      "html_url": "https://github.com/yenche123/liubai",
+      "description": "Supercharge yourself!",
+      "stars": 857,
+      "forks": 85,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T08:26:12Z",
-      "updated_at": "2026-04-09T06:15:53Z"
+      "pushed_at": "2026-04-09T13:21:36Z",
+      "updated_at": "2026-04-09T13:22:17Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1267,
-      "forks": 34,
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 452,
+      "forks": 83,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-09T11:55:38Z",
+      "updated_at": "2026-04-09T11:42:17Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 278,
+      "forks": 46,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-09T12:40:53Z",
+      "updated_at": "2026-04-09T12:39:28Z"
+    },
+    {
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 184,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-04-09T12:43:08Z",
+      "updated_at": "2026-04-09T12:42:15Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "xmqywx/CodeIsland",
+      "html_url": "https://github.com/xmqywx/CodeIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 166,
+      "forks": 27,
       "language": "Swift",
-      "pushed_at": "2026-04-09T05:11:07Z",
-      "updated_at": "2026-04-09T07:04:49Z"
+      "pushed_at": "2026-04-09T11:00:58Z",
+      "updated_at": "2026-04-09T12:19:30Z"
     },
     {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 938,
-      "forks": 215,
-      "language": "Scala",
-      "pushed_at": "2026-04-09T06:42:27Z",
-      "updated_at": "2026-04-09T06:39:52Z"
+      "id": 1187231263,
+      "full_name": "stringer07/Lattice_release",
+      "html_url": "https://github.com/stringer07/Lattice_release",
+      "description": "A lightweight macOS literature manager built in native Swift.",
+      "stars": 145,
+      "forks": 2,
+      "language": "Unknown",
+      "pushed_at": "2026-04-09T11:53:59Z",
+      "updated_at": "2026-04-09T11:54:03Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 721,
-      "forks": 37,
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 128,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-04-09T11:15:23Z",
+      "updated_at": "2026-04-09T11:54:55Z"
+    },
+    {
+      "id": 1132086156,
+      "full_name": "ctrlaltwill/LearnKit",
+      "html_url": "https://github.com/ctrlaltwill/LearnKit",
+      "description": "LearnKit is a native Obsidian study system combining flashcards, spaced repetition, note review, generated tests, AI guidance, and exam coaching in one memory layer for your vault.",
+      "stars": 88,
+      "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T07:00:19Z",
-      "updated_at": "2026-04-09T07:00:23Z"
-    },
-    {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 291,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-09T08:34:42Z",
-      "updated_at": "2026-04-09T08:34:46Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 269,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-09T08:37:49Z",
-      "updated_at": "2026-04-09T08:37:56Z"
+      "pushed_at": "2026-04-09T12:40:20Z",
+      "updated_at": "2026-04-09T12:40:25Z"
     }
   ]
 }
