@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 773,
+  "total_found": 775,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 148774,
-      "forks": 23004,
+      "stars": 149043,
+      "forks": 23054,
       "language": "JavaScript",
-      "pushed_at": "2026-04-10T01:13:11Z",
-      "updated_at": "2026-04-10T02:30:12Z"
+      "pushed_at": "2026-04-10T05:43:25Z",
+      "updated_at": "2026-04-10T05:56:51Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26663,
-      "forks": 2815,
+      "stars": 26685,
+      "forks": 2817,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T02:12:50Z",
-      "updated_at": "2026-04-10T02:12:56Z"
+      "pushed_at": "2026-04-10T05:33:56Z",
+      "updated_at": "2026-04-10T05:41:58Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18531,
-      "forks": 1600,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 11294,
+      "forks": 1063,
       "language": "TypeScript",
-      "pushed_at": "2026-04-09T22:54:02Z",
-      "updated_at": "2026-04-10T02:28:23Z"
-    },
-    {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 17219,
-      "forks": 862,
-      "language": "Python",
-      "pushed_at": "2026-04-09T23:11:51Z",
-      "updated_at": "2026-04-10T01:29:40Z"
+      "pushed_at": "2026-04-10T05:10:46Z",
+      "updated_at": "2026-04-10T05:55:27Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3790,
-      "forks": 188,
+      "stars": 3805,
+      "forks": 189,
       "language": "Kotlin",
-      "pushed_at": "2026-04-10T02:30:00Z",
-      "updated_at": "2026-04-10T02:30:04Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3625,
-      "forks": 754,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-09T22:45:34Z",
-      "updated_at": "2026-04-10T01:54:29Z"
+      "pushed_at": "2026-04-10T05:23:46Z",
+      "updated_at": "2026-04-10T05:47:59Z"
     },
     {
       "id": 19825320,
@@ -92,52 +70,63 @@
       "stars": 2796,
       "forks": 182,
       "language": "Python",
-      "pushed_at": "2026-04-10T02:23:47Z",
+      "pushed_at": "2026-04-10T02:57:36Z",
       "updated_at": "2026-04-10T02:23:50Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2582,
-      "forks": 281,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-09T22:26:29Z",
-      "updated_at": "2026-04-10T02:28:15Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1772,
+      "forks": 108,
+      "language": "Go",
+      "pushed_at": "2026-04-10T04:34:49Z",
+      "updated_at": "2026-04-10T05:56:15Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1617,
+      "forks": 155,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-10T04:47:49Z",
+      "updated_at": "2026-04-10T05:36:24Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1334,
+      "stars": 1347,
       "forks": 34,
       "language": "Swift",
-      "pushed_at": "2026-04-09T22:56:12Z",
-      "updated_at": "2026-04-10T02:13:21Z"
+      "pushed_at": "2026-04-10T03:05:49Z",
+      "updated_at": "2026-04-10T05:27:07Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 724,
-      "forks": 37,
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 475,
+      "forks": 53,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-10T03:45:01Z",
+      "updated_at": "2026-04-10T05:26:56Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 464,
+      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T01:36:33Z",
-      "updated_at": "2026-04-10T01:36:39Z"
-    },
-    {
-      "id": 17773756,
-      "full_name": "getting-things-gnome/gtg",
-      "html_url": "https://github.com/getting-things-gnome/gtg",
-      "description": "Getting Things GNOME! desktop app development",
-      "stars": 605,
-      "forks": 173,
-      "language": "Python",
-      "pushed_at": "2026-04-09T22:26:02Z",
-      "updated_at": "2026-04-09T22:26:07Z"
+      "pushed_at": "2026-04-10T05:53:57Z",
+      "updated_at": "2026-04-10T03:35:27Z"
     },
     {
       "id": 1039979190,
@@ -147,8 +136,8 @@
       "stars": 420,
       "forks": 24,
       "language": "Shell",
-      "pushed_at": "2026-04-10T02:19:09Z",
-      "updated_at": "2026-04-10T01:28:21Z"
+      "pushed_at": "2026-04-10T02:42:21Z",
+      "updated_at": "2026-04-10T02:37:28Z"
     },
     {
       "id": 1041956524,
@@ -158,19 +147,30 @@
       "stars": 419,
       "forks": 38,
       "language": "Rust",
-      "pushed_at": "2026-04-10T01:56:54Z",
-      "updated_at": "2026-04-10T01:56:53Z"
+      "pushed_at": "2026-04-10T04:57:35Z",
+      "updated_at": "2026-04-10T04:57:32Z"
     },
     {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 291,
-      "forks": 50,
-      "language": "Unknown",
-      "pushed_at": "2026-04-09T22:19:46Z",
-      "updated_at": "2026-04-10T01:26:14Z"
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 270,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-10T05:56:27Z",
+      "updated_at": "2026-04-10T05:54:53Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 180,
+      "forks": 27,
+      "language": "Swift",
+      "pushed_at": "2026-04-10T04:57:21Z",
+      "updated_at": "2026-04-10T05:21:44Z"
     }
   ]
 }
