@@ -8,81 +8,92 @@
   "total_found": 777,
   "items": [
     {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24550,
+      "forks": 1789,
+      "language": "Vue",
+      "pushed_at": "2026-04-11T12:56:02Z",
+      "updated_at": "2026-04-11T12:03:23Z"
+    },
+    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 22999,
-      "forks": 1315,
+      "stars": 23367,
+      "forks": 1329,
       "language": "Rust",
-      "pushed_at": "2026-04-11T07:55:01Z",
-      "updated_at": "2026-04-11T08:41:18Z"
+      "pushed_at": "2026-04-11T10:14:30Z",
+      "updated_at": "2026-04-11T12:56:07Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14420,
+      "stars": 14422,
       "forks": 581,
       "language": "C#",
-      "pushed_at": "2026-04-11T05:41:39Z",
-      "updated_at": "2026-04-11T08:18:23Z"
+      "pushed_at": "2026-04-11T11:40:57Z",
+      "updated_at": "2026-04-11T12:13:22Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13919,
-      "forks": 941,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-11T07:30:40Z",
-      "updated_at": "2026-04-11T08:07:26Z"
-    },
-    {
-      "id": 590604203,
-      "full_name": "TheR1D/shell_gpt",
-      "html_url": "https://github.com/TheR1D/shell_gpt",
-      "description": "A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.",
-      "stars": 11956,
-      "forks": 949,
-      "language": "Python",
-      "pushed_at": "2026-04-11T07:42:39Z",
-      "updated_at": "2026-04-11T07:36:16Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
-      "stars": 6682,
-      "forks": 250,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-11T06:42:55Z",
-      "updated_at": "2026-04-11T06:42:58Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 5800,
-      "forks": 120,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5610,
+      "forks": 728,
       "language": "Swift",
-      "pushed_at": "2026-04-11T08:26:57Z",
-      "updated_at": "2026-04-11T08:13:17Z"
+      "pushed_at": "2026-04-11T12:54:58Z",
+      "updated_at": "2026-04-11T12:47:10Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5129,
+      "forks": 297,
+      "language": "Vala",
+      "pushed_at": "2026-04-11T11:30:38Z",
+      "updated_at": "2026-04-11T11:30:41Z"
+    },
+    {
+      "id": 70557651,
+      "full_name": "oliverschwendener/ueli",
+      "html_url": "https://github.com/oliverschwendener/ueli",
+      "description": "Cross-Platform Keystroke Launcher",
+      "stars": 4491,
+      "forks": 275,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-11T10:36:48Z",
+      "updated_at": "2026-04-11T10:36:53Z"
+    },
+    {
+      "id": 1119754832,
+      "full_name": "OlaProeis/Ferrite",
+      "html_url": "https://github.com/OlaProeis/Ferrite",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "stars": 1424,
+      "forks": 63,
+      "language": "Rust",
+      "pushed_at": "2026-04-11T12:45:33Z",
+      "updated_at": "2026-04-11T12:45:39Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1388,
+      "stars": 1390,
       "forks": 35,
       "language": "Swift",
-      "pushed_at": "2026-04-11T08:33:33Z",
-      "updated_at": "2026-04-11T08:33:37Z"
+      "pushed_at": "2026-04-11T10:53:22Z",
+      "updated_at": "2026-04-11T12:51:12Z"
     },
     {
       "id": 1111053300,
@@ -92,8 +103,19 @@
       "stars": 935,
       "forks": 24,
       "language": "Swift",
-      "pushed_at": "2026-04-11T08:37:05Z",
-      "updated_at": "2026-04-11T08:37:08Z"
+      "pushed_at": "2026-04-11T11:59:13Z",
+      "updated_at": "2026-04-11T11:59:22Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 732,
+      "forks": 71,
+      "language": "Python",
+      "pushed_at": "2026-04-11T12:55:24Z",
+      "updated_at": "2026-04-11T12:55:27Z"
     },
     {
       "id": 1111978380,
@@ -103,74 +125,52 @@
       "stars": 725,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-04-11T08:34:36Z",
-      "updated_at": "2026-04-11T08:34:39Z"
+      "pushed_at": "2026-04-11T10:37:27Z",
+      "updated_at": "2026-04-11T10:37:35Z"
     },
     {
-      "id": 1197210729,
-      "full_name": "0xKarl-dev/claw-codes",
-      "html_url": "https://github.com/0xKarl-dev/claw-codes",
-      "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust.",
-      "stars": 470,
-      "forks": 577,
-      "language": "Rust",
-      "pushed_at": "2026-04-11T08:35:37Z",
-      "updated_at": "2026-04-11T08:35:41Z"
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 624,
+      "forks": 41,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-11T12:47:31Z",
+      "updated_at": "2026-04-11T12:47:36Z"
     },
     {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 294,
-      "forks": 51,
-      "language": "Unknown",
-      "pushed_at": "2026-04-11T07:20:18Z",
-      "updated_at": "2026-04-11T07:19:08Z"
+      "id": 993178051,
+      "full_name": "Deyweaver/DeyWeaver",
+      "html_url": "https://github.com/Deyweaver/DeyWeaver",
+      "description": "AI-powered task planner to structure your day with smart scheduling.",
+      "stars": 322,
+      "forks": 32,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-11T11:52:54Z",
+      "updated_at": "2026-04-11T11:53:02Z"
     },
     {
-      "id": 16852661,
-      "full_name": "emad-elsaid/xlog",
-      "html_url": "https://github.com/emad-elsaid/xlog",
-      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
-      "stars": 207,
-      "forks": 21,
-      "language": "Go",
-      "pushed_at": "2026-04-11T07:02:20Z",
-      "updated_at": "2026-04-11T07:02:24Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 205,
-      "forks": 34,
-      "language": "Swift",
-      "pushed_at": "2026-04-11T06:47:38Z",
-      "updated_at": "2026-04-11T07:59:08Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 168,
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 184,
       "forks": 2,
-      "language": "Vue",
-      "pushed_at": "2026-04-11T07:30:32Z",
-      "updated_at": "2026-04-11T07:30:32Z"
+      "language": "Rust",
+      "pushed_at": "2026-04-11T12:24:05Z",
+      "updated_at": "2026-04-11T12:23:11Z"
     },
     {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 162,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-11T04:16:06Z",
-      "updated_at": "2026-04-11T04:16:13Z"
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant for daily work, inspired by Jarvis 🌎",
+      "stars": 159,
+      "forks": 23,
+      "language": "Python",
+      "pushed_at": "2026-04-11T11:31:22Z",
+      "updated_at": "2026-04-11T11:30:33Z"
     }
   ]
 }
