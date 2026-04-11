@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 776,
+  "total_found": 777,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 149947,
-      "forks": 23207,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-10T18:53:26Z",
-      "updated_at": "2026-04-10T20:33:17Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 36242,
+      "forks": 803,
+      "language": "Rust",
+      "pushed_at": "2026-04-11T01:39:43Z",
+      "updated_at": "2026-04-11T01:51:29Z"
     },
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 120742,
-      "forks": 13217,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 26763,
+      "forks": 2822,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T18:30:43Z",
-      "updated_at": "2026-04-10T20:27:59Z"
+      "pushed_at": "2026-04-11T01:28:41Z",
+      "updated_at": "2026-04-11T01:59:12Z"
     },
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24532,
-      "forks": 1787,
-      "language": "Vue",
-      "pushed_at": "2026-04-10T17:51:34Z",
-      "updated_at": "2026-04-10T20:00:04Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24188,
-      "forks": 2274,
-      "language": "Python",
-      "pushed_at": "2026-04-10T20:08:24Z",
-      "updated_at": "2026-04-10T20:07:03Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14415,
+      "forks": 581,
+      "language": "C#",
+      "pushed_at": "2026-04-10T22:46:16Z",
+      "updated_at": "2026-04-11T01:11:50Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10427,
-      "forks": 1263,
+      "stars": 10431,
+      "forks": 1262,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T20:35:13Z",
-      "updated_at": "2026-04-10T20:35:19Z"
+      "pushed_at": "2026-04-10T22:19:17Z",
+      "updated_at": "2026-04-10T23:16:07Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 7208,
-      "forks": 426,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
+      "stars": 6682,
+      "forks": 250,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T18:26:10Z",
-      "updated_at": "2026-04-10T20:31:14Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7141,
-      "forks": 183,
-      "language": "C++",
-      "pushed_at": "2026-04-10T18:14:54Z",
-      "updated_at": "2026-04-10T20:31:28Z"
+      "pushed_at": "2026-04-10T23:49:32Z",
+      "updated_at": "2026-04-10T23:49:41Z"
     },
     {
       "id": 129699403,
@@ -92,52 +70,74 @@
       "stars": 5610,
       "forks": 728,
       "language": "Swift",
-      "pushed_at": "2026-04-10T20:32:34Z",
-      "updated_at": "2026-04-10T20:24:18Z"
+      "pushed_at": "2026-04-11T01:13:50Z",
+      "updated_at": "2026-04-11T01:13:58Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5128,
+      "forks": 296,
+      "language": "Vala",
+      "pushed_at": "2026-04-10T21:43:23Z",
+      "updated_at": "2026-04-10T22:45:07Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5105,
+      "stars": 5106,
       "forks": 610,
       "language": "Kotlin",
-      "pushed_at": "2026-04-10T18:20:18Z",
-      "updated_at": "2026-04-10T20:32:20Z"
+      "pushed_at": "2026-04-10T21:55:39Z",
+      "updated_at": "2026-04-11T00:51:33Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3628,
-      "forks": 755,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-10T18:05:48Z",
-      "updated_at": "2026-04-10T19:31:54Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1798,
-      "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-04-10T18:34:36Z",
-      "updated_at": "2026-04-10T20:24:32Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3140,
+      "forks": 143,
+      "language": "Gherkin",
+      "pushed_at": "2026-04-11T02:08:04Z",
+      "updated_at": "2026-04-11T01:10:39Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1380,
-      "forks": 34,
+      "stars": 1383,
+      "forks": 35,
       "language": "Swift",
-      "pushed_at": "2026-04-10T20:13:05Z",
-      "updated_at": "2026-04-10T20:24:39Z"
+      "pushed_at": "2026-04-11T01:17:28Z",
+      "updated_at": "2026-04-11T01:30:26Z"
+    },
+    {
+      "id": 1094171135,
+      "full_name": "dtsola/xiaoyaosearch",
+      "html_url": "https://github.com/dtsola/xiaoyaosearch",
+      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
+      "stars": 939,
+      "forks": 85,
+      "language": "Python",
+      "pushed_at": "2026-04-11T01:52:01Z",
+      "updated_at": "2026-04-11T01:52:09Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 732,
+      "forks": 71,
+      "language": "Python",
+      "pushed_at": "2026-04-11T01:15:08Z",
+      "updated_at": "2026-04-11T01:15:12Z"
     },
     {
       "id": 1111978380,
@@ -147,30 +147,30 @@
       "stars": 725,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T18:44:20Z",
-      "updated_at": "2026-04-10T18:44:28Z"
+      "pushed_at": "2026-04-11T01:08:14Z",
+      "updated_at": "2026-04-11T01:08:22Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 308,
-      "forks": 15,
-      "language": "Shell",
-      "pushed_at": "2026-04-10T18:38:32Z",
-      "updated_at": "2026-04-10T18:38:36Z"
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 710,
+      "forks": 77,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-11T01:40:34Z",
+      "updated_at": "2026-04-11T01:39:50Z"
     },
     {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 230,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-04-10T19:19:00Z",
-      "updated_at": "2026-04-10T19:19:05Z"
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Bloom, Unpluq, Blok and more!",
+      "stars": 443,
+      "forks": 78,
+      "language": "Swift",
+      "pushed_at": "2026-04-11T02:06:41Z",
+      "updated_at": "2026-04-11T02:06:44Z"
     }
   ]
 }
