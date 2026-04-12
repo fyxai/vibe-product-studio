@@ -8,169 +8,169 @@
   "total_found": 777,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 151596,
+      "forks": 23513,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-12T04:53:43Z",
+      "updated_at": "2026-04-12T05:53:09Z"
+    },
+    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42962,
+      "stars": 42964,
       "forks": 2679,
       "language": "C#",
       "pushed_at": "2026-04-12T01:38:24Z",
-      "updated_at": "2026-04-12T01:38:28Z"
+      "updated_at": "2026-04-12T04:57:46Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36131,
+      "stars": 36133,
       "forks": 3640,
       "language": "C#",
-      "pushed_at": "2026-04-11T23:27:09Z",
-      "updated_at": "2026-04-12T01:51:06Z"
+      "pushed_at": "2026-04-12T03:30:31Z",
+      "updated_at": "2026-04-12T05:06:44Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26846,
-      "forks": 2834,
+      "stars": 26865,
+      "forks": 2835,
       "language": "TypeScript",
       "pushed_at": "2026-04-12T01:14:59Z",
-      "updated_at": "2026-04-12T02:28:49Z"
+      "updated_at": "2026-04-12T05:48:08Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10437,
-      "forks": 1266,
+      "id": 1052845083,
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 11286,
+      "forks": 1571,
       "language": "TypeScript",
-      "pushed_at": "2026-04-11T23:13:24Z",
-      "updated_at": "2026-04-12T00:08:34Z"
+      "pushed_at": "2026-04-12T03:26:23Z",
+      "updated_at": "2026-04-12T05:32:03Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4308,
-      "forks": 872,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-11T22:21:40Z",
-      "updated_at": "2026-04-11T22:21:45Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3140,
-      "forks": 999,
-      "language": "C++",
-      "pushed_at": "2026-04-12T01:26:20Z",
-      "updated_at": "2026-04-11T23:17:04Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2596,
-      "forks": 289,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-12T00:48:41Z",
-      "updated_at": "2026-04-12T01:23:22Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 3916,
+      "forks": 200,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-12T01:55:50Z",
+      "updated_at": "2026-04-12T03:50:20Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1998,
+      "stars": 1999,
       "forks": 211,
       "language": "Go",
       "pushed_at": "2026-04-12T02:15:50Z",
-      "updated_at": "2026-04-12T02:16:00Z"
+      "updated_at": "2026-04-12T04:22:36Z"
+    },
+    {
+      "id": 1094171135,
+      "full_name": "dtsola/xiaoyaosearch",
+      "html_url": "https://github.com/dtsola/xiaoyaosearch",
+      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
+      "stars": 1019,
+      "forks": 88,
+      "language": "Python",
+      "pushed_at": "2026-04-12T05:13:33Z",
+      "updated_at": "2026-04-12T05:13:37Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 941,
+      "stars": 942,
       "forks": 25,
       "language": "Swift",
-      "pushed_at": "2026-04-12T02:30:44Z",
-      "updated_at": "2026-04-12T02:30:48Z"
-    },
-    {
-      "id": 826368288,
-      "full_name": "brufdev/many-notes",
-      "html_url": "https://github.com/brufdev/many-notes",
-      "description": "Markdown note-taking web application designed for simplicity",
-      "stars": 934,
-      "forks": 41,
-      "language": "PHP",
-      "pushed_at": "2026-04-11T23:20:15Z",
-      "updated_at": "2026-04-12T02:06:19Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 774,
-      "forks": 129,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-11T22:29:08Z",
-      "updated_at": "2026-04-12T01:35:31Z"
+      "pushed_at": "2026-04-12T05:50:55Z",
+      "updated_at": "2026-04-12T05:50:59Z"
     },
     {
       "id": 591995344,
       "full_name": "rush86999/atom",
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 732,
+      "stars": 733,
       "forks": 71,
       "language": "Python",
       "pushed_at": "2026-04-12T01:00:23Z",
-      "updated_at": "2026-04-12T01:00:32Z"
+      "updated_at": "2026-04-12T04:05:31Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 730,
-      "forks": 37,
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 422,
+      "forks": 24,
+      "language": "Shell",
+      "pushed_at": "2026-04-12T03:45:49Z",
+      "updated_at": "2026-04-12T04:04:00Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-04-11T22:30:04Z",
-      "updated_at": "2026-04-11T22:30:07Z"
+      "pushed_at": "2026-04-12T05:22:49Z",
+      "updated_at": "2026-04-12T05:22:57Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 424,
-      "forks": 66,
-      "language": "Go",
-      "pushed_at": "2026-04-11T23:15:34Z",
-      "updated_at": "2026-04-11T23:07:57Z"
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 273,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-12T05:48:12Z",
+      "updated_at": "2026-04-12T02:12:49Z"
     },
     {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 284,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-11T22:42:06Z",
-      "updated_at": "2026-04-11T22:42:10Z"
+      "id": 916292078,
+      "full_name": "detroittommy879/aicodeprep-gui",
+      "html_url": "https://github.com/detroittommy879/aicodeprep-gui",
+      "description": "Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run",
+      "stars": 271,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-04-12T01:40:21Z",
+      "updated_at": "2026-04-12T01:40:34Z"
+    },
+    {
+      "id": 1149110392,
+      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
+      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
+      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
+      "stars": 236,
+      "forks": 34,
+      "language": "Unknown",
+      "pushed_at": "2026-04-12T04:42:35Z",
+      "updated_at": "2026-04-12T04:42:39Z"
     }
   ]
 }
