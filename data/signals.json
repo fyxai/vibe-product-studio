@@ -12,88 +12,110 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 151596,
-      "forks": 23513,
+      "stars": 151760,
+      "forks": 23536,
       "language": "JavaScript",
       "pushed_at": "2026-04-12T04:53:43Z",
-      "updated_at": "2026-04-12T05:53:09Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42964,
-      "forks": 2679,
-      "language": "C#",
-      "pushed_at": "2026-04-12T01:38:24Z",
-      "updated_at": "2026-04-12T04:57:46Z"
+      "updated_at": "2026-04-12T08:45:18Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36133,
-      "forks": 3640,
+      "stars": 36136,
+      "forks": 3641,
       "language": "C#",
       "pushed_at": "2026-04-12T03:30:31Z",
-      "updated_at": "2026-04-12T05:06:44Z"
+      "updated_at": "2026-04-12T08:12:17Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 26865,
-      "forks": 2835,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-12T01:14:59Z",
-      "updated_at": "2026-04-12T05:48:08Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 24103,
+      "forks": 1390,
+      "language": "Rust",
+      "pushed_at": "2026-04-12T08:37:10Z",
+      "updated_at": "2026-04-12T08:46:04Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14422,
+      "forks": 581,
+      "language": "C#",
+      "pushed_at": "2026-04-12T07:58:25Z",
+      "updated_at": "2026-04-12T07:31:03Z"
     },
     {
       "id": 1052845083,
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 11286,
+      "stars": 11288,
       "forks": 1571,
       "language": "TypeScript",
       "pushed_at": "2026-04-12T03:26:23Z",
-      "updated_at": "2026-04-12T05:32:03Z"
+      "updated_at": "2026-04-12T08:19:16Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3916,
-      "forks": 200,
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 5837,
+      "forks": 120,
+      "language": "Swift",
+      "pushed_at": "2026-04-12T08:44:04Z",
+      "updated_at": "2026-04-12T08:38:08Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2600,
+      "forks": 289,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-12T08:26:17Z",
+      "updated_at": "2026-04-12T08:26:24Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1403,
+      "forks": 35,
+      "language": "Swift",
+      "pushed_at": "2026-04-12T08:36:59Z",
+      "updated_at": "2026-04-12T08:37:07Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1097,
+      "forks": 116,
       "language": "Kotlin",
-      "pushed_at": "2026-04-12T01:55:50Z",
-      "updated_at": "2026-04-12T03:50:20Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1999,
-      "forks": 211,
-      "language": "Go",
-      "pushed_at": "2026-04-12T02:15:50Z",
-      "updated_at": "2026-04-12T04:22:36Z"
+      "pushed_at": "2026-04-12T06:44:50Z",
+      "updated_at": "2026-04-12T06:44:56Z"
     },
     {
       "id": 1094171135,
       "full_name": "dtsola/xiaoyaosearch",
       "html_url": "https://github.com/dtsola/xiaoyaosearch",
       "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
-      "stars": 1019,
+      "stars": 1023,
       "forks": 88,
       "language": "Python",
-      "pushed_at": "2026-04-12T05:13:33Z",
-      "updated_at": "2026-04-12T05:13:37Z"
+      "pushed_at": "2026-04-12T07:05:36Z",
+      "updated_at": "2026-04-12T08:07:28Z"
     },
     {
       "id": 1111053300,
@@ -103,30 +125,19 @@
       "stars": 942,
       "forks": 25,
       "language": "Swift",
-      "pushed_at": "2026-04-12T05:50:55Z",
-      "updated_at": "2026-04-12T05:50:59Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 733,
-      "forks": 71,
-      "language": "Python",
-      "pushed_at": "2026-04-12T01:00:23Z",
-      "updated_at": "2026-04-12T04:05:31Z"
+      "pushed_at": "2026-04-12T07:39:48Z",
+      "updated_at": "2026-04-12T07:39:51Z"
     },
     {
       "id": 1039979190,
       "full_name": "rz1989s/claude-code-statusline",
       "html_url": "https://github.com/rz1989s/claude-code-statusline",
       "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 422,
+      "stars": 423,
       "forks": 24,
       "language": "Shell",
-      "pushed_at": "2026-04-12T03:45:49Z",
-      "updated_at": "2026-04-12T04:04:00Z"
+      "pushed_at": "2026-04-12T07:03:34Z",
+      "updated_at": "2026-04-12T08:08:18Z"
     },
     {
       "id": 226175035,
@@ -144,22 +155,11 @@
       "full_name": "spool-lab/spool",
       "html_url": "https://github.com/spool-lab/spool",
       "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 273,
+      "stars": 274,
       "forks": 19,
       "language": "TypeScript",
-      "pushed_at": "2026-04-12T05:48:12Z",
-      "updated_at": "2026-04-12T02:12:49Z"
-    },
-    {
-      "id": 916292078,
-      "full_name": "detroittommy879/aicodeprep-gui",
-      "html_url": "https://github.com/detroittommy879/aicodeprep-gui",
-      "description": "Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run",
-      "stars": 271,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-04-12T01:40:21Z",
-      "updated_at": "2026-04-12T01:40:34Z"
+      "pushed_at": "2026-04-12T08:31:47Z",
+      "updated_at": "2026-04-12T08:31:51Z"
     },
     {
       "id": 1149110392,
