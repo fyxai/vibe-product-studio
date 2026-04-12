@@ -5,40 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 779,
+  "total_found": 781,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42965,
+      "stars": 42966,
       "forks": 2680,
       "language": "C#",
-      "pushed_at": "2026-04-12T15:52:20Z",
-      "updated_at": "2026-04-12T15:32:48Z"
+      "pushed_at": "2026-04-12T19:40:39Z",
+      "updated_at": "2026-04-12T19:40:45Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36145,
+      "forks": 3642,
+      "language": "C#",
+      "pushed_at": "2026-04-12T18:12:10Z",
+      "updated_at": "2026-04-12T19:02:12Z"
     },
     {
       "id": 343078060,
       "full_name": "Lissy93/dashy",
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24569,
-      "forks": 1792,
+      "stars": 24575,
+      "forks": 1793,
       "language": "Vue",
-      "pushed_at": "2026-04-12T16:26:49Z",
-      "updated_at": "2026-04-12T16:11:33Z"
+      "pushed_at": "2026-04-12T19:32:28Z",
+      "updated_at": "2026-04-12T19:29:15Z"
     },
     {
       "id": 66150122,
       "full_name": "jarun/nnn",
       "html_url": "https://github.com/jarun/nnn",
       "description": "n³ The unorthodox terminal file manager",
-      "stars": 21476,
+      "stars": 21479,
       "forks": 799,
       "language": "C",
-      "pushed_at": "2026-04-12T14:50:50Z",
-      "updated_at": "2026-04-12T15:07:12Z"
+      "pushed_at": "2026-04-12T17:56:28Z",
+      "updated_at": "2026-04-12T19:44:44Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18573,
+      "forks": 1603,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-12T19:09:15Z",
+      "updated_at": "2026-04-12T19:24:17Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 12194,
+      "forks": 1141,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-12T18:08:42Z",
+      "updated_at": "2026-04-12T20:34:27Z"
     },
     {
       "id": 129699403,
@@ -48,63 +81,74 @@
       "stars": 5611,
       "forks": 728,
       "language": "Swift",
-      "pushed_at": "2026-04-12T16:02:06Z",
-      "updated_at": "2026-04-12T16:17:21Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5111,
-      "forks": 609,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-12T15:33:50Z",
-      "updated_at": "2026-04-12T15:33:55Z"
-    },
-    {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5100,
-      "forks": 436,
-      "language": "Rust",
-      "pushed_at": "2026-04-12T15:06:51Z",
-      "updated_at": "2026-04-12T15:07:00Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "stars": 4673,
-      "forks": 537,
-      "language": "Python",
-      "pushed_at": "2026-04-12T15:06:58Z",
-      "updated_at": "2026-04-12T16:38:21Z"
+      "pushed_at": "2026-04-12T19:46:25Z",
+      "updated_at": "2026-04-12T19:18:04Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3926,
+      "stars": 3928,
       "forks": 201,
       "language": "Kotlin",
-      "pushed_at": "2026-04-12T15:56:43Z",
-      "updated_at": "2026-04-12T15:04:45Z"
+      "pushed_at": "2026-04-12T18:04:27Z",
+      "updated_at": "2026-04-12T18:04:33Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2603,
-      "forks": 289,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3632,
+      "forks": 756,
       "language": "TypeScript",
-      "pushed_at": "2026-04-12T14:52:34Z",
-      "updated_at": "2026-04-12T14:52:42Z"
+      "pushed_at": "2026-04-12T18:14:57Z",
+      "updated_at": "2026-04-12T18:14:33Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3144,
+      "forks": 999,
+      "language": "C++",
+      "pushed_at": "2026-04-12T20:33:44Z",
+      "updated_at": "2026-04-12T20:33:52Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3142,
+      "forks": 143,
+      "language": "Gherkin",
+      "pushed_at": "2026-04-12T20:00:28Z",
+      "updated_at": "2026-04-12T19:47:38Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2008,
+      "forks": 213,
+      "language": "Go",
+      "pushed_at": "2026-04-12T17:43:00Z",
+      "updated_at": "2026-04-12T20:31:51Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1803,
+      "forks": 132,
+      "language": "Dart",
+      "pushed_at": "2026-04-12T20:17:30Z",
+      "updated_at": "2026-04-12T20:17:35Z"
     },
     {
       "id": 260652021,
@@ -114,41 +158,8 @@
       "stars": 1097,
       "forks": 116,
       "language": "Kotlin",
-      "pushed_at": "2026-04-12T15:01:11Z",
-      "updated_at": "2026-04-12T15:01:14Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1053,
-      "forks": 64,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-12T15:23:23Z",
-      "updated_at": "2026-04-12T15:20:19Z"
-    },
-    {
-      "id": 1094171135,
-      "full_name": "dtsola/xiaoyaosearch",
-      "html_url": "https://github.com/dtsola/xiaoyaosearch",
-      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
-      "stars": 1031,
-      "forks": 89,
-      "language": "Python",
-      "pushed_at": "2026-04-12T14:15:34Z",
-      "updated_at": "2026-04-12T16:21:20Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 945,
-      "forks": 25,
-      "language": "Swift",
-      "pushed_at": "2026-04-12T14:25:21Z",
-      "updated_at": "2026-04-12T14:25:24Z"
+      "pushed_at": "2026-04-12T19:28:05Z",
+      "updated_at": "2026-04-12T19:28:14Z"
     },
     {
       "id": 591995344,
@@ -158,19 +169,8 @@
       "stars": 733,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-04-12T15:27:49Z",
-      "updated_at": "2026-04-12T15:28:13Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 278,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-12T16:00:56Z",
-      "updated_at": "2026-04-12T15:15:57Z"
+      "pushed_at": "2026-04-12T18:15:37Z",
+      "updated_at": "2026-04-12T18:15:42Z"
     }
   ]
 }
