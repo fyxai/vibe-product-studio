@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 782,
+  "total_found": 783,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 25380,
-      "forks": 1467,
+      "stars": 25496,
+      "forks": 1472,
       "language": "Rust",
-      "pushed_at": "2026-04-13T16:41:36Z",
-      "updated_at": "2026-04-13T17:02:03Z"
+      "pushed_at": "2026-04-13T19:15:00Z",
+      "updated_at": "2026-04-13T20:53:23Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24200,
-      "forks": 2275,
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17257,
+      "forks": 863,
       "language": "Python",
-      "pushed_at": "2026-04-13T15:27:07Z",
-      "updated_at": "2026-04-13T16:24:09Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21483,
-      "forks": 799,
-      "language": "C",
-      "pushed_at": "2026-04-13T15:35:51Z",
-      "updated_at": "2026-04-13T16:53:06Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18588,
-      "forks": 1607,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-13T15:16:33Z",
-      "updated_at": "2026-04-13T15:56:41Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13929,
-      "forks": 939,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-13T15:36:01Z",
-      "updated_at": "2026-04-13T15:36:02Z"
+      "pushed_at": "2026-04-13T20:07:03Z",
+      "updated_at": "2026-04-13T19:43:41Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 12276,
-      "forks": 1148,
+      "stars": 12292,
+      "forks": 1150,
       "language": "TypeScript",
-      "pushed_at": "2026-04-13T17:01:03Z",
-      "updated_at": "2026-04-13T17:01:32Z"
+      "pushed_at": "2026-04-13T19:29:07Z",
+      "updated_at": "2026-04-13T20:29:31Z"
+    },
+    {
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8355,
+      "forks": 926,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T20:48:33Z",
+      "updated_at": "2026-04-13T20:48:36Z"
     },
     {
       "id": 129699403,
@@ -81,41 +59,52 @@
       "stars": 5612,
       "forks": 728,
       "language": "Swift",
-      "pushed_at": "2026-04-13T16:06:55Z",
-      "updated_at": "2026-04-13T15:50:20Z"
+      "pushed_at": "2026-04-13T20:04:30Z",
+      "updated_at": "2026-04-13T19:35:33Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3635,
+      "forks": 757,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T20:44:08Z",
+      "updated_at": "2026-04-13T20:42:34Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3146,
+      "stars": 3147,
       "forks": 1000,
       "language": "C++",
-      "pushed_at": "2026-04-13T15:50:20Z",
-      "updated_at": "2026-04-13T15:50:24Z"
+      "pushed_at": "2026-04-13T19:08:37Z",
+      "updated_at": "2026-04-13T19:54:58Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2853,
+      "stars": 2856,
       "forks": 184,
       "language": "Python",
-      "pushed_at": "2026-04-13T15:35:09Z",
-      "updated_at": "2026-04-13T15:34:08Z"
+      "pushed_at": "2026-04-13T19:27:55Z",
+      "updated_at": "2026-04-13T20:35:27Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1062,
-      "forks": 26,
-      "language": "Rust",
-      "pushed_at": "2026-04-13T15:32:34Z",
-      "updated_at": "2026-04-13T15:32:37Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2613,
+      "forks": 294,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T20:55:02Z",
+      "updated_at": "2026-04-13T19:48:43Z"
     },
     {
       "id": 919664598,
@@ -125,52 +114,63 @@
       "stars": 794,
       "forks": 72,
       "language": "PHP",
-      "pushed_at": "2026-04-13T15:58:09Z",
-      "updated_at": "2026-04-13T15:58:13Z"
+      "pushed_at": "2026-04-13T20:12:24Z",
+      "updated_at": "2026-04-13T20:47:37Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 734,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-13T16:33:26Z",
-      "updated_at": "2026-04-13T16:33:30Z"
+      "id": 109383925,
+      "full_name": "7mind/izumi",
+      "html_url": "https://github.com/7mind/izumi",
+      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
+      "stars": 628,
+      "forks": 73,
+      "language": "Scala",
+      "pushed_at": "2026-04-13T19:18:23Z",
+      "updated_at": "2026-04-13T19:18:29Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 475,
-      "forks": 57,
+      "id": 73134029,
+      "full_name": "jasonlong/mater",
+      "html_url": "https://github.com/jasonlong/mater",
+      "description": "🍅 A simple, native macOS menubar Pomodoro app",
+      "stars": 570,
+      "forks": 40,
+      "language": "Swift",
+      "pushed_at": "2026-04-13T20:51:27Z",
+      "updated_at": "2026-04-13T20:44:12Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 425,
+      "forks": 66,
+      "language": "Go",
+      "pushed_at": "2026-04-13T19:57:03Z",
+      "updated_at": "2026-04-13T19:46:10Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 393,
+      "forks": 49,
+      "language": "PHP",
+      "pushed_at": "2026-04-13T19:45:48Z",
+      "updated_at": "2026-04-13T19:45:52Z"
+    },
+    {
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 305,
+      "forks": 14,
       "language": "JavaScript",
-      "pushed_at": "2026-04-13T17:01:41Z",
-      "updated_at": "2026-04-13T15:20:41Z"
-    },
-    {
-      "id": 1028870440,
-      "full_name": "Taskosaur/Taskosaur",
-      "html_url": "https://github.com/Taskosaur/Taskosaur",
-      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
-      "stars": 457,
-      "forks": 86,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-13T15:49:44Z",
-      "updated_at": "2026-04-13T16:15:56Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 308,
-      "forks": 15,
-      "language": "Shell",
-      "pushed_at": "2026-04-13T16:22:32Z",
-      "updated_at": "2026-04-13T16:22:37Z"
+      "pushed_at": "2026-04-13T19:34:26Z",
+      "updated_at": "2026-04-13T19:34:31Z"
     }
   ]
 }
