@@ -5,117 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 782,
+  "total_found": 783,
   "items": [
-    {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 186118,
-      "forks": 26375,
-      "language": "Shell",
-      "pushed_at": "2026-04-13T09:31:03Z",
-      "updated_at": "2026-04-13T09:31:13Z"
-    },
-    {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 153493,
-      "forks": 23804,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-13T08:06:13Z",
-      "updated_at": "2026-04-13T09:53:52Z"
-    },
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 120919,
-      "forks": 13250,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-13T08:30:59Z",
-      "updated_at": "2026-04-13T09:41:17Z"
-    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 25005,
-      "forks": 1452,
+      "stars": 25201,
+      "forks": 1458,
       "language": "Rust",
-      "pushed_at": "2026-04-13T09:32:03Z",
-      "updated_at": "2026-04-13T09:51:52Z"
+      "pushed_at": "2026-04-13T12:59:19Z",
+      "updated_at": "2026-04-13T13:24:34Z"
     },
     {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 17253,
-      "forks": 863,
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24198,
+      "forks": 2275,
       "language": "Python",
-      "pushed_at": "2026-04-13T09:23:29Z",
-      "updated_at": "2026-04-13T09:23:34Z"
+      "pushed_at": "2026-04-13T13:14:42Z",
+      "updated_at": "2026-04-13T12:58:45Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13928,
-      "forks": 939,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-13T09:39:26Z",
-      "updated_at": "2026-04-13T09:27:38Z"
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21482,
+      "forks": 799,
+      "language": "C",
+      "pushed_at": "2026-04-13T13:14:59Z",
+      "updated_at": "2026-04-13T13:15:05Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 12246,
-      "forks": 1146,
+      "stars": 12265,
+      "forks": 1149,
       "language": "TypeScript",
-      "pushed_at": "2026-04-13T09:29:49Z",
-      "updated_at": "2026-04-13T09:29:49Z"
+      "pushed_at": "2026-04-13T12:53:25Z",
+      "updated_at": "2026-04-13T13:18:02Z"
     },
     {
-      "id": 610217037,
-      "full_name": "di-sukharev/opencommit",
-      "html_url": "https://github.com/di-sukharev/opencommit",
-      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
-      "stars": 7243,
-      "forks": 425,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-13T09:20:11Z",
-      "updated_at": "2026-04-13T09:20:28Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5612,
-      "forks": 728,
-      "language": "Swift",
-      "pushed_at": "2026-04-13T08:54:57Z",
-      "updated_at": "2026-04-13T08:05:22Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4494,
-      "forks": 275,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10447,
+      "forks": 1269,
       "language": "TypeScript",
-      "pushed_at": "2026-04-13T09:42:38Z",
-      "updated_at": "2026-04-13T09:42:44Z"
+      "pushed_at": "2026-04-13T12:26:58Z",
+      "updated_at": "2026-04-13T12:31:27Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
+      "stars": 4866,
+      "forks": 570,
+      "language": "Python",
+      "pushed_at": "2026-04-13T13:04:03Z",
+      "updated_at": "2026-04-13T13:07:37Z"
     },
     {
       "id": 300155217,
@@ -125,52 +81,96 @@
       "stars": 3145,
       "forks": 1000,
       "language": "C++",
-      "pushed_at": "2026-04-13T09:35:12Z",
-      "updated_at": "2026-04-13T09:18:30Z"
+      "pushed_at": "2026-04-13T13:07:56Z",
+      "updated_at": "2026-04-13T12:51:16Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3145,
+      "forks": 143,
+      "language": "Gherkin",
+      "pushed_at": "2026-04-13T13:18:06Z",
+      "updated_at": "2026-04-13T13:21:50Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 960,
+      "stars": 961,
       "forks": 25,
       "language": "Swift",
-      "pushed_at": "2026-04-13T09:07:39Z",
-      "updated_at": "2026-04-13T09:07:43Z"
+      "pushed_at": "2026-04-13T13:07:36Z",
+      "updated_at": "2026-04-13T13:07:41Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 732,
+      "forks": 71,
+      "language": "Python",
+      "pushed_at": "2026-04-13T11:37:42Z",
+      "updated_at": "2026-04-13T11:37:46Z"
+    },
+    {
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 624,
+      "forks": 41,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-13T12:29:48Z",
+      "updated_at": "2026-04-13T11:53:45Z"
+    },
+    {
+      "id": 672605495,
+      "full_name": "iffse/pay-respects",
+      "html_url": "https://github.com/iffse/pay-respects",
+      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
+      "stars": 582,
+      "forks": 31,
+      "language": "Rust",
+      "pushed_at": "2026-04-13T12:33:18Z",
+      "updated_at": "2026-04-13T12:33:21Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 484,
+      "stars": 485,
       "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-04-13T09:19:50Z",
-      "updated_at": "2026-04-13T09:19:54Z"
+      "pushed_at": "2026-04-13T11:06:41Z",
+      "updated_at": "2026-04-13T11:06:43Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 475,
-      "forks": 57,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-13T09:50:26Z",
-      "updated_at": "2026-04-13T09:50:31Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 280,
-      "forks": 19,
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 243,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-04-13T09:52:24Z",
-      "updated_at": "2026-04-13T09:52:26Z"
+      "pushed_at": "2026-04-13T11:23:14Z",
+      "updated_at": "2026-04-13T11:21:15Z"
+    },
+    {
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 169,
+      "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T11:13:31Z",
+      "updated_at": "2026-04-13T12:06:52Z"
     }
   ]
 }
