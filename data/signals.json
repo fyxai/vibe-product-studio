@@ -8,103 +8,48 @@
   "total_found": 781,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42966,
-      "forks": 2680,
-      "language": "C#",
-      "pushed_at": "2026-04-12T19:40:39Z",
-      "updated_at": "2026-04-12T19:40:45Z"
-    },
-    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36145,
+      "stars": 36147,
       "forks": 3642,
       "language": "C#",
-      "pushed_at": "2026-04-12T18:12:10Z",
-      "updated_at": "2026-04-12T19:02:12Z"
+      "pushed_at": "2026-04-13T00:33:06Z",
+      "updated_at": "2026-04-13T02:08:04Z"
     },
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24575,
-      "forks": 1793,
-      "language": "Vue",
-      "pushed_at": "2026-04-12T19:32:28Z",
-      "updated_at": "2026-04-12T19:29:15Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21479,
-      "forks": 799,
-      "language": "C",
-      "pushed_at": "2026-04-12T17:56:28Z",
-      "updated_at": "2026-04-12T19:44:44Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18573,
-      "forks": 1603,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
+      "stars": 6684,
+      "forks": 250,
       "language": "TypeScript",
-      "pushed_at": "2026-04-12T19:09:15Z",
-      "updated_at": "2026-04-12T19:24:17Z"
+      "pushed_at": "2026-04-13T01:36:38Z",
+      "updated_at": "2026-04-13T01:36:46Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 12194,
-      "forks": 1141,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-12T18:08:42Z",
-      "updated_at": "2026-04-12T20:34:27Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5611,
-      "forks": 728,
-      "language": "Swift",
-      "pushed_at": "2026-04-12T19:46:25Z",
-      "updated_at": "2026-04-12T19:18:04Z"
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
+      "stars": 4717,
+      "forks": 548,
+      "language": "Python",
+      "pushed_at": "2026-04-13T01:06:07Z",
+      "updated_at": "2026-04-13T02:28:56Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 3928,
+      "stars": 3932,
       "forks": 201,
       "language": "Kotlin",
-      "pushed_at": "2026-04-12T18:04:27Z",
-      "updated_at": "2026-04-12T18:04:33Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3632,
-      "forks": 756,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-12T18:14:57Z",
-      "updated_at": "2026-04-12T18:14:33Z"
+      "pushed_at": "2026-04-13T01:35:01Z",
+      "updated_at": "2026-04-13T02:13:38Z"
     },
     {
       "id": 300155217,
@@ -114,52 +59,41 @@
       "stars": 3144,
       "forks": 999,
       "language": "C++",
-      "pushed_at": "2026-04-12T20:33:44Z",
-      "updated_at": "2026-04-12T20:33:52Z"
+      "pushed_at": "2026-04-13T01:38:40Z",
+      "updated_at": "2026-04-12T23:37:55Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3142,
-      "forks": 143,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-12T20:00:28Z",
-      "updated_at": "2026-04-12T19:47:38Z"
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 2980,
+      "forks": 84,
+      "language": "Python",
+      "pushed_at": "2026-04-12T23:31:13Z",
+      "updated_at": "2026-04-13T02:35:59Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2008,
-      "forks": 213,
-      "language": "Go",
-      "pushed_at": "2026-04-12T17:43:00Z",
-      "updated_at": "2026-04-12T20:31:51Z"
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 952,
+      "forks": 25,
+      "language": "Swift",
+      "pushed_at": "2026-04-13T02:32:13Z",
+      "updated_at": "2026-04-13T02:32:17Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1803,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
+      "stars": 780,
       "forks": 132,
-      "language": "Dart",
-      "pushed_at": "2026-04-12T20:17:30Z",
-      "updated_at": "2026-04-12T20:17:35Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1097,
-      "forks": 116,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-12T19:28:05Z",
-      "updated_at": "2026-04-12T19:28:14Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T00:19:20Z",
+      "updated_at": "2026-04-13T02:16:18Z"
     },
     {
       "id": 591995344,
@@ -169,8 +103,74 @@
       "stars": 733,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-04-12T18:15:37Z",
-      "updated_at": "2026-04-12T18:15:42Z"
+      "pushed_at": "2026-04-13T01:56:25Z",
+      "updated_at": "2026-04-13T01:56:37Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 732,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T02:00:29Z",
+      "updated_at": "2026-04-13T02:00:33Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 482,
+      "forks": 25,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T00:59:15Z",
+      "updated_at": "2026-04-13T01:07:14Z"
+    },
+    {
+      "id": 1201775166,
+      "full_name": "Astro-Han/karpathy-llm-wiki",
+      "html_url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+      "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
+      "stars": 269,
+      "forks": 36,
+      "language": "Unknown",
+      "pushed_at": "2026-04-13T01:39:31Z",
+      "updated_at": "2026-04-13T02:30:40Z"
+    },
+    {
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 243,
+      "forks": 32,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-13T02:17:20Z",
+      "updated_at": "2026-04-13T02:07:43Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 242,
+      "forks": 37,
+      "language": "Swift",
+      "pushed_at": "2026-04-13T01:46:55Z",
+      "updated_at": "2026-04-13T02:02:18Z"
+    },
+    {
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 163,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-04-13T00:12:48Z",
+      "updated_at": "2026-04-13T00:10:37Z"
     }
   ]
 }
