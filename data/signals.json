@@ -8,48 +8,37 @@
   "total_found": 784,
   "items": [
     {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 25808,
+      "forks": 1489,
+      "language": "Rust",
+      "pushed_at": "2026-04-14T05:54:53Z",
+      "updated_at": "2026-04-14T05:59:22Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13930,
+      "forks": 939,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T04:49:04Z",
+      "updated_at": "2026-04-14T03:23:56Z"
+    },
+    {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 12311,
+      "stars": 12326,
       "forks": 1154,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T01:17:25Z",
-      "updated_at": "2026-04-14T01:57:20Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10449,
-      "forks": 1271,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-14T01:41:56Z",
-      "updated_at": "2026-04-14T01:25:56Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5113,
-      "forks": 610,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-14T01:05:52Z",
-      "updated_at": "2026-04-14T01:05:56Z"
-    },
-    {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5105,
-      "forks": 436,
-      "language": "Rust",
-      "pushed_at": "2026-04-14T01:36:38Z",
-      "updated_at": "2026-04-14T01:36:31Z"
+      "pushed_at": "2026-04-14T05:31:14Z",
+      "updated_at": "2026-04-14T05:57:38Z"
     },
     {
       "id": 300155217,
@@ -59,63 +48,30 @@
       "stars": 3148,
       "forks": 1000,
       "language": "C++",
-      "pushed_at": "2026-04-14T01:53:51Z",
-      "updated_at": "2026-04-14T01:33:54Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3050,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-04-14T02:29:30Z",
-      "updated_at": "2026-04-14T02:29:34Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2857,
-      "forks": 184,
-      "language": "Python",
-      "pushed_at": "2026-04-14T00:13:17Z",
-      "updated_at": "2026-04-14T02:15:33Z"
+      "pushed_at": "2026-04-14T05:22:33Z",
+      "updated_at": "2026-04-14T05:22:37Z"
     },
     {
       "id": 812362660,
       "full_name": "ViscousPot/GitSync",
       "html_url": "https://github.com/ViscousPot/GitSync",
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1615,
+      "stars": 1616,
       "forks": 137,
       "language": "Dart",
-      "pushed_at": "2026-04-14T02:22:04Z",
-      "updated_at": "2026-04-14T02:22:09Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 963,
-      "forks": 25,
-      "language": "Swift",
-      "pushed_at": "2026-04-14T01:51:44Z",
-      "updated_at": "2026-04-14T01:51:49Z"
+      "pushed_at": "2026-04-14T03:14:32Z",
+      "updated_at": "2026-04-14T03:16:35Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 735,
+      "stars": 736,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T00:49:45Z",
-      "updated_at": "2026-04-14T01:24:49Z"
+      "pushed_at": "2026-04-14T05:52:13Z",
+      "updated_at": "2026-04-14T05:52:16Z"
     },
     {
       "id": 33114736,
@@ -125,52 +81,96 @@
       "stars": 573,
       "forks": 95,
       "language": "Python",
-      "pushed_at": "2026-04-14T01:34:00Z",
-      "updated_at": "2026-04-14T01:15:53Z"
+      "pushed_at": "2026-04-14T03:34:25Z",
+      "updated_at": "2026-04-14T03:33:46Z"
     },
     {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 279,
-      "forks": 42,
-      "language": "Swift",
-      "pushed_at": "2026-04-14T01:40:43Z",
-      "updated_at": "2026-04-14T02:21:35Z"
+      "id": 85922134,
+      "full_name": "brocode/fw",
+      "html_url": "https://github.com/brocode/fw",
+      "description": "workspace productivity booster",
+      "stars": 562,
+      "forks": 23,
+      "language": "Rust",
+      "pushed_at": "2026-04-14T05:06:48Z",
+      "updated_at": "2026-04-14T05:06:52Z"
     },
     {
-      "id": 1081013012,
-      "full_name": "f-is-h/Usage4Claude",
-      "html_url": "https://github.com/f-is-h/Usage4Claude",
-      "description": "Monitor all your Claude AI usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.",
-      "stars": 256,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 487,
       "forks": 25,
-      "language": "Swift",
-      "pushed_at": "2026-04-14T01:02:57Z",
-      "updated_at": "2026-04-14T01:00:22Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T04:53:57Z",
+      "updated_at": "2026-04-14T04:54:00Z"
     },
     {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 165,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-14T00:18:11Z",
-      "updated_at": "2026-04-14T02:01:15Z"
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 457,
+      "forks": 86,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T05:46:14Z",
+      "updated_at": "2026-04-14T05:46:19Z"
     },
     {
-      "id": 1131245010,
-      "full_name": "TechDufus/oh-my-claude",
-      "html_url": "https://github.com/TechDufus/oh-my-claude",
-      "description": "Add ultrawork to any prompt for maximum parallel execution",
-      "stars": 123,
-      "forks": 5,
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 282,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T04:47:11Z",
+      "updated_at": "2026-04-14T04:47:18Z"
+    },
+    {
+      "id": 1124938752,
+      "full_name": "shangyankeji/super-dev",
+      "html_url": "https://github.com/shangyankeji/super-dev",
+      "description": "Engineering workflow layer for AI coding tools with specs, review, quality gates, and traceability.为 AI 编程工具提供工程化流程、质量门禁与可追溯能力。",
+      "stars": 217,
+      "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-04-14T02:02:52Z",
-      "updated_at": "2026-04-14T02:02:58Z"
+      "pushed_at": "2026-04-14T04:03:26Z",
+      "updated_at": "2026-04-14T04:03:30Z"
+    },
+    {
+      "id": 1009719992,
+      "full_name": "Appaxaap/Focus",
+      "html_url": "https://github.com/Appaxaap/Focus",
+      "description": "Offline-first Eisenhower Matrix productivity app",
+      "stars": 200,
+      "forks": 9,
+      "language": "Dart",
+      "pushed_at": "2026-04-14T05:08:08Z",
+      "updated_at": "2026-04-14T05:08:11Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-14T05:21:42Z",
+      "updated_at": "2026-04-14T05:20:38Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 172,
+      "forks": 2,
+      "language": "Vue",
+      "pushed_at": "2026-04-14T05:30:32Z",
+      "updated_at": "2026-04-14T05:30:40Z"
     }
   ]
 }
