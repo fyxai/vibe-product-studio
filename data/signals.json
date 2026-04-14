@@ -8,70 +8,136 @@
   "total_found": 784,
   "items": [
     {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121038,
+      "forks": 13271,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T19:38:45Z",
+      "updated_at": "2026-04-14T20:25:18Z"
+    },
+    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 42998,
-      "forks": 2684,
+      "stars": 43000,
+      "forks": 2685,
       "language": "C#",
-      "pushed_at": "2026-04-14T14:52:22Z",
-      "updated_at": "2026-04-14T16:44:49Z"
+      "pushed_at": "2026-04-14T20:28:07Z",
+      "updated_at": "2026-04-14T20:45:42Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27142,
-      "forks": 2863,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 26395,
+      "forks": 1528,
+      "language": "Rust",
+      "pushed_at": "2026-04-14T19:44:26Z",
+      "updated_at": "2026-04-14T20:52:02Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24600,
+      "forks": 1795,
+      "language": "Vue",
+      "pushed_at": "2026-04-14T20:37:08Z",
+      "updated_at": "2026-04-14T20:42:10Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18613,
+      "forks": 1608,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T15:04:29Z",
-      "updated_at": "2026-04-14T16:55:22Z"
-    },
-    {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 17260,
-      "forks": 864,
-      "language": "Python",
-      "pushed_at": "2026-04-14T16:26:20Z",
-      "updated_at": "2026-04-14T16:43:40Z"
+      "pushed_at": "2026-04-14T20:46:09Z",
+      "updated_at": "2026-04-14T20:46:09Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10451,
+      "stars": 10452,
       "forks": 1273,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T16:54:11Z",
-      "updated_at": "2026-04-14T15:49:39Z"
+      "pushed_at": "2026-04-14T19:01:56Z",
+      "updated_at": "2026-04-14T19:02:01Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5115,
-      "forks": 610,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-14T16:12:47Z",
-      "updated_at": "2026-04-14T16:24:37Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5612,
+      "forks": 728,
+      "language": "Swift",
+      "pushed_at": "2026-04-14T20:52:07Z",
+      "updated_at": "2026-04-14T20:49:12Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1065,
-      "forks": 26,
-      "language": "Rust",
-      "pushed_at": "2026-04-14T15:31:16Z",
-      "updated_at": "2026-04-14T15:31:36Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3147,
+      "forks": 144,
+      "language": "Gherkin",
+      "pushed_at": "2026-04-14T18:56:46Z",
+      "updated_at": "2026-04-14T20:43:31Z"
+    },
+    {
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 3078,
+      "forks": 87,
+      "language": "Python",
+      "pushed_at": "2026-04-14T19:46:51Z",
+      "updated_at": "2026-04-14T19:46:55Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2618,
+      "forks": 295,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T19:56:25Z",
+      "updated_at": "2026-04-14T20:23:08Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1805,
+      "forks": 133,
+      "language": "Dart",
+      "pushed_at": "2026-04-14T20:42:46Z",
+      "updated_at": "2026-04-14T20:42:50Z"
+    },
+    {
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1624,
+      "forks": 137,
+      "language": "Dart",
+      "pushed_at": "2026-04-14T19:24:02Z",
+      "updated_at": "2026-04-14T19:24:07Z"
     },
     {
       "id": 1111978380,
@@ -81,96 +147,30 @@
       "stars": 737,
       "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T17:06:22Z",
-      "updated_at": "2026-04-14T17:06:26Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 673,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-04-14T16:47:27Z",
-      "updated_at": "2026-04-14T16:47:31Z"
-    },
-    {
-      "id": 73134029,
-      "full_name": "jasonlong/mater",
-      "html_url": "https://github.com/jasonlong/mater",
-      "description": "🍅 A simple, native macOS menubar Pomodoro app",
-      "stars": 575,
-      "forks": 40,
-      "language": "Swift",
-      "pushed_at": "2026-04-14T15:00:59Z",
-      "updated_at": "2026-04-14T15:01:13Z"
+      "pushed_at": "2026-04-14T20:19:48Z",
+      "updated_at": "2026-04-14T20:19:52Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 489,
+      "stars": 491,
       "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T16:29:14Z",
-      "updated_at": "2026-04-14T16:29:17Z"
+      "pushed_at": "2026-04-14T19:24:19Z",
+      "updated_at": "2026-04-14T20:03:19Z"
     },
     {
-      "id": 1028870440,
-      "full_name": "Taskosaur/Taskosaur",
-      "html_url": "https://github.com/Taskosaur/Taskosaur",
-      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
-      "stars": 457,
-      "forks": 86,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-14T15:15:34Z",
-      "updated_at": "2026-04-14T14:49:55Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 425,
-      "forks": 66,
-      "language": "Go",
-      "pushed_at": "2026-04-14T16:11:17Z",
-      "updated_at": "2026-04-14T16:05:04Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 301,
-      "forks": 52,
-      "language": "Unknown",
-      "pushed_at": "2026-04-14T14:20:24Z",
-      "updated_at": "2026-04-14T15:15:24Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 283,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-14T16:08:44Z",
-      "updated_at": "2026-04-14T15:48:28Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 137,
-      "forks": 35,
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 476,
+      "forks": 58,
       "language": "JavaScript",
-      "pushed_at": "2026-04-14T15:20:21Z",
-      "updated_at": "2026-04-14T15:20:51Z"
+      "pushed_at": "2026-04-14T20:38:05Z",
+      "updated_at": "2026-04-14T20:38:09Z"
     }
   ]
 }
