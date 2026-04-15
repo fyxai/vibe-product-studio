@@ -5,139 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 784,
+  "total_found": 785,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121038,
-      "forks": 13271,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-14T19:38:45Z",
-      "updated_at": "2026-04-14T20:25:18Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 156204,
+      "forks": 24247,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-15T02:26:25Z",
+      "updated_at": "2026-04-15T02:28:55Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43000,
+      "stars": 43005,
       "forks": 2685,
       "language": "C#",
-      "pushed_at": "2026-04-14T20:28:07Z",
-      "updated_at": "2026-04-14T20:45:42Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 26395,
-      "forks": 1528,
-      "language": "Rust",
-      "pushed_at": "2026-04-14T19:44:26Z",
-      "updated_at": "2026-04-14T20:52:02Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24600,
-      "forks": 1795,
-      "language": "Vue",
-      "pushed_at": "2026-04-14T20:37:08Z",
-      "updated_at": "2026-04-14T20:42:10Z"
+      "pushed_at": "2026-04-15T02:17:21Z",
+      "updated_at": "2026-04-15T01:39:53Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18613,
+      "stars": 18615,
       "forks": 1608,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T20:46:09Z",
-      "updated_at": "2026-04-14T20:46:09Z"
+      "pushed_at": "2026-04-15T00:05:43Z",
+      "updated_at": "2026-04-15T01:50:28Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14441,
+      "forks": 583,
+      "language": "C#",
+      "pushed_at": "2026-04-14T22:46:21Z",
+      "updated_at": "2026-04-15T00:52:31Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10452,
+      "stars": 10454,
       "forks": 1273,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T19:01:56Z",
-      "updated_at": "2026-04-14T19:02:01Z"
+      "pushed_at": "2026-04-14T23:17:52Z",
+      "updated_at": "2026-04-15T01:17:45Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5612,
-      "forks": 728,
-      "language": "Swift",
-      "pushed_at": "2026-04-14T20:52:07Z",
-      "updated_at": "2026-04-14T20:49:12Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3147,
-      "forks": 144,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-14T18:56:46Z",
-      "updated_at": "2026-04-14T20:43:31Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3078,
-      "forks": 87,
-      "language": "Python",
-      "pushed_at": "2026-04-14T19:46:51Z",
-      "updated_at": "2026-04-14T19:46:55Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3639,
+      "forks": 759,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T22:33:29Z",
+      "updated_at": "2026-04-15T02:05:03Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2618,
+      "stars": 2627,
       "forks": 295,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T19:56:25Z",
-      "updated_at": "2026-04-14T20:23:08Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1805,
-      "forks": 133,
-      "language": "Dart",
-      "pushed_at": "2026-04-14T20:42:46Z",
-      "updated_at": "2026-04-14T20:42:50Z"
-    },
-    {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1624,
-      "forks": 137,
-      "language": "Dart",
-      "pushed_at": "2026-04-14T19:24:02Z",
-      "updated_at": "2026-04-14T19:24:07Z"
+      "pushed_at": "2026-04-14T22:03:00Z",
+      "updated_at": "2026-04-15T02:19:13Z"
     },
     {
       "id": 1111978380,
@@ -147,30 +92,85 @@
       "stars": 737,
       "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-04-14T20:19:48Z",
-      "updated_at": "2026-04-14T20:19:52Z"
+      "pushed_at": "2026-04-15T01:43:28Z",
+      "updated_at": "2026-04-15T01:43:32Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 491,
-      "forks": 25,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-14T19:24:19Z",
-      "updated_at": "2026-04-14T20:03:19Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 476,
-      "forks": 58,
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 729,
+      "forks": 79,
       "language": "JavaScript",
-      "pushed_at": "2026-04-14T20:38:05Z",
-      "updated_at": "2026-04-14T20:38:09Z"
+      "pushed_at": "2026-04-14T23:26:45Z",
+      "updated_at": "2026-04-15T01:56:08Z"
+    },
+    {
+      "id": 109383925,
+      "full_name": "7mind/izumi",
+      "html_url": "https://github.com/7mind/izumi",
+      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
+      "stars": 628,
+      "forks": 73,
+      "language": "Scala",
+      "pushed_at": "2026-04-15T00:12:10Z",
+      "updated_at": "2026-04-14T23:26:39Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 425,
+      "forks": 66,
+      "language": "Go",
+      "pushed_at": "2026-04-15T01:06:23Z",
+      "updated_at": "2026-04-15T00:55:17Z"
+    },
+    {
+      "id": 88267809,
+      "full_name": "wmjordan/Codist",
+      "html_url": "https://github.com/wmjordan/Codist",
+      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
+      "stars": 387,
+      "forks": 34,
+      "language": "C#",
+      "pushed_at": "2026-04-15T01:12:10Z",
+      "updated_at": "2026-04-15T01:12:14Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 172,
+      "forks": 2,
+      "language": "Vue",
+      "pushed_at": "2026-04-15T02:03:37Z",
+      "updated_at": "2026-04-15T02:00:23Z"
+    },
+    {
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 172,
+      "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-14T22:25:07Z",
+      "updated_at": "2026-04-14T22:25:12Z"
+    },
+    {
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 166,
+      "forks": 10,
+      "language": "C#",
+      "pushed_at": "2026-04-14T23:15:42Z",
+      "updated_at": "2026-04-14T23:07:04Z"
     }
   ]
 }
