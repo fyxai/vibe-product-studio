@@ -8,81 +8,48 @@
   "total_found": 785,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 156430,
-      "forks": 24281,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-15T04:23:58Z",
-      "updated_at": "2026-04-15T05:59:26Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43006,
-      "forks": 2685,
-      "language": "C#",
-      "pushed_at": "2026-04-15T04:38:27Z",
-      "updated_at": "2026-04-15T05:43:01Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14442,
-      "forks": 583,
-      "language": "C#",
-      "pushed_at": "2026-04-15T04:18:19Z",
-      "updated_at": "2026-04-15T05:42:49Z"
-    },
-    {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13932,
+      "stars": 13933,
       "forks": 938,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T05:34:05Z",
-      "updated_at": "2026-04-15T03:50:44Z"
+      "pushed_at": "2026-04-15T07:49:25Z",
+      "updated_at": "2026-04-15T08:32:10Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12830,
-      "forks": 786,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 12407,
+      "forks": 1169,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T03:08:53Z",
-      "updated_at": "2026-04-15T04:56:41Z"
+      "pushed_at": "2026-04-15T08:03:18Z",
+      "updated_at": "2026-04-15T08:35:10Z"
     },
     {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 5935,
-      "forks": 308,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10456,
+      "forks": 1276,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-15T08:15:28Z",
+      "updated_at": "2026-04-15T08:15:33Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5612,
+      "forks": 730,
       "language": "Swift",
-      "pushed_at": "2026-04-15T05:06:30Z",
-      "updated_at": "2026-04-15T05:49:47Z"
-    },
-    {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4591,
-      "forks": 100,
-      "language": "Rust",
-      "pushed_at": "2026-04-15T05:28:43Z",
-      "updated_at": "2026-04-15T05:54:20Z"
+      "pushed_at": "2026-04-15T08:25:34Z",
+      "updated_at": "2026-04-15T08:25:38Z"
     },
     {
       "id": 300155217,
@@ -90,10 +57,10 @@
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
       "stars": 3154,
-      "forks": 1002,
+      "forks": 1001,
       "language": "C++",
-      "pushed_at": "2026-04-15T05:55:25Z",
-      "updated_at": "2026-04-15T05:59:16Z"
+      "pushed_at": "2026-04-15T09:16:24Z",
+      "updated_at": "2026-04-15T08:38:18Z"
     },
     {
       "id": 89766385,
@@ -107,59 +74,92 @@
       "updated_at": "2026-04-15T05:39:27Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 737,
-      "forks": 38,
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1805,
+      "forks": 133,
+      "language": "Dart",
+      "pushed_at": "2026-04-15T08:58:48Z",
+      "updated_at": "2026-04-15T08:58:52Z"
+    },
+    {
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 729,
+      "forks": 79,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-15T08:43:46Z",
+      "updated_at": "2026-04-15T08:43:51Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 492,
+      "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T03:38:29Z",
-      "updated_at": "2026-04-15T03:38:33Z"
+      "pushed_at": "2026-04-15T09:08:21Z",
+      "updated_at": "2026-04-15T08:51:40Z"
+    },
+    {
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 457,
+      "forks": 86,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-15T06:00:23Z",
+      "updated_at": "2026-04-15T06:00:27Z"
     },
     {
       "id": 244958571,
       "full_name": "wakatime/wakatime-cli",
       "html_url": "https://github.com/wakatime/wakatime-cli",
       "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 425,
+      "stars": 426,
       "forks": 66,
       "language": "Go",
       "pushed_at": "2026-04-15T05:57:43Z",
-      "updated_at": "2026-04-15T05:36:43Z"
+      "updated_at": "2026-04-15T06:55:40Z"
     },
     {
-      "id": 1041956524,
-      "full_name": "klpod221/kerminal",
-      "html_url": "https://github.com/klpod221/kerminal",
-      "description": "// Modern Terminal Emulator & SSH Manager",
-      "stars": 423,
-      "forks": 39,
-      "language": "Rust",
-      "pushed_at": "2026-04-15T04:42:53Z",
-      "updated_at": "2026-04-15T04:42:57Z"
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 400,
+      "forks": 17,
+      "language": "Go",
+      "pushed_at": "2026-04-15T06:20:40Z",
+      "updated_at": "2026-04-15T06:20:37Z"
+    },
+    {
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 307,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-15T08:59:15Z",
+      "updated_at": "2026-04-15T08:59:19Z"
     },
     {
       "id": 1198068829,
       "full_name": "MioMioOS/MioIsland",
       "html_url": "https://github.com/MioMioOS/MioIsland",
       "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 301,
+      "stars": 303,
       "forks": 46,
       "language": "Swift",
-      "pushed_at": "2026-04-15T04:04:24Z",
-      "updated_at": "2026-04-15T04:31:32Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 301,
-      "forks": 52,
-      "language": "Unknown",
-      "pushed_at": "2026-04-15T03:43:50Z",
-      "updated_at": "2026-04-15T03:43:52Z"
+      "pushed_at": "2026-04-15T08:27:43Z",
+      "updated_at": "2026-04-15T08:48:58Z"
     },
     {
       "id": 1193364497,
@@ -169,8 +169,8 @@
       "stars": 287,
       "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T05:51:01Z",
-      "updated_at": "2026-04-15T05:38:29Z"
+      "pushed_at": "2026-04-15T08:57:47Z",
+      "updated_at": "2026-04-15T08:57:50Z"
     }
   ]
 }
