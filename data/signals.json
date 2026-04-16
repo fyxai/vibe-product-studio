@@ -8,70 +8,81 @@
   "total_found": 791,
   "items": [
     {
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 186241,
+      "forks": 26381,
+      "language": "Shell",
+      "pushed_at": "2026-04-16T17:05:25Z",
+      "updated_at": "2026-04-16T17:05:32Z"
+    },
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121212,
+      "forks": 13295,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-16T15:47:45Z",
+      "updated_at": "2026-04-16T16:58:25Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43021,
+      "forks": 2686,
+      "language": "C#",
+      "pushed_at": "2026-04-16T15:27:31Z",
+      "updated_at": "2026-04-16T16:59:46Z"
+    },
+    {
       "id": 663900193,
       "full_name": "sxyazi/yazi",
       "html_url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 36535,
+      "stars": 36545,
       "forks": 814,
       "language": "Rust",
-      "pushed_at": "2026-04-16T12:49:54Z",
-      "updated_at": "2026-04-16T13:25:50Z"
+      "pushed_at": "2026-04-16T16:16:32Z",
+      "updated_at": "2026-04-16T17:05:51Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27314,
-      "forks": 2883,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T10:36:45Z",
-      "updated_at": "2026-04-16T13:24:31Z"
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 19549,
+      "forks": 898,
+      "language": "Go",
+      "pushed_at": "2026-04-16T15:38:52Z",
+      "updated_at": "2026-04-16T17:08:30Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18641,
+      "stars": 18647,
       "forks": 1613,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T13:16:55Z",
-      "updated_at": "2026-04-16T13:17:14Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14447,
-      "forks": 582,
-      "language": "C#",
-      "pushed_at": "2026-04-16T11:25:30Z",
-      "updated_at": "2026-04-16T12:30:45Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13936,
-      "forks": 939,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T12:29:01Z",
-      "updated_at": "2026-04-16T10:11:42Z"
+      "pushed_at": "2026-04-16T16:03:46Z",
+      "updated_at": "2026-04-16T17:03:23Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 12497,
-      "forks": 1184,
+      "stars": 12512,
+      "forks": 1185,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T11:42:44Z",
-      "updated_at": "2026-04-16T13:06:10Z"
+      "pushed_at": "2026-04-16T16:13:22Z",
+      "updated_at": "2026-04-16T16:45:09Z"
     },
     {
       "id": 665613753,
@@ -81,96 +92,85 @@
       "stars": 10459,
       "forks": 1280,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T11:04:10Z",
-      "updated_at": "2026-04-16T11:50:44Z"
+      "pushed_at": "2026-04-16T16:03:34Z",
+      "updated_at": "2026-04-16T15:03:10Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8369,
-      "forks": 926,
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 5929,
+      "forks": 120,
+      "language": "Swift",
+      "pushed_at": "2026-04-16T14:33:42Z",
+      "updated_at": "2026-04-16T16:51:29Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship ",
+      "stars": 5614,
+      "forks": 730,
+      "language": "Swift",
+      "pushed_at": "2026-04-16T17:12:12Z",
+      "updated_at": "2026-04-16T17:12:15Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5123,
+      "forks": 611,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-16T15:46:50Z",
+      "updated_at": "2026-04-16T15:47:00Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3643,
+      "forks": 759,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T09:53:31Z",
-      "updated_at": "2026-04-16T12:00:47Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 8183,
-      "forks": 488,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T10:43:07Z",
-      "updated_at": "2026-04-16T13:08:47Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7207,
-      "forks": 187,
-      "language": "C++",
-      "pushed_at": "2026-04-16T11:59:27Z",
-      "updated_at": "2026-04-16T11:59:28Z"
+      "pushed_at": "2026-04-16T15:31:57Z",
+      "updated_at": "2026-04-16T16:24:27Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3156,
+      "stars": 3157,
       "forks": 1001,
       "language": "C++",
-      "pushed_at": "2026-04-16T12:48:23Z",
-      "updated_at": "2026-04-16T12:08:10Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3115,
-      "forks": 87,
-      "language": "Python",
-      "pushed_at": "2026-04-16T10:11:08Z",
-      "updated_at": "2026-04-16T12:08:57Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2651,
-      "forks": 298,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T13:27:59Z",
-      "updated_at": "2026-04-16T13:28:03Z"
+      "pushed_at": "2026-04-16T16:08:03Z",
+      "updated_at": "2026-04-16T16:08:06Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2071,
+      "stars": 2073,
       "forks": 224,
       "language": "Go",
-      "pushed_at": "2026-04-16T12:26:46Z",
-      "updated_at": "2026-04-16T13:04:27Z"
+      "pushed_at": "2026-04-16T16:58:41Z",
+      "updated_at": "2026-04-16T16:58:36Z"
     },
     {
-      "id": 231954058,
-      "full_name": "tehtbl/awesome-note-taking",
-      "html_url": "https://github.com/tehtbl/awesome-note-taking",
-      "description": "A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.",
-      "stars": 809,
-      "forks": 69,
-      "language": "Unknown",
-      "pushed_at": "2026-04-16T12:30:16Z",
-      "updated_at": "2026-04-16T12:46:57Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 743,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-16T16:45:49Z",
+      "updated_at": "2026-04-16T16:45:53Z"
     }
   ]
 }
