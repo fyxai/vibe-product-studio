@@ -8,59 +8,70 @@
   "total_found": 794,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121280,
-      "forks": 13312,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T14:57:48Z",
-      "updated_at": "2026-04-17T16:51:21Z"
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24650,
+      "forks": 1797,
+      "language": "Vue",
+      "pushed_at": "2026-04-17T20:14:21Z",
+      "updated_at": "2026-04-17T20:39:56Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24208,
+      "forks": 2275,
+      "language": "Python",
+      "pushed_at": "2026-04-17T20:07:12Z",
+      "updated_at": "2026-04-17T18:59:27Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21494,
+      "forks": 802,
+      "language": "C",
+      "pushed_at": "2026-04-17T19:38:40Z",
+      "updated_at": "2026-04-17T19:38:44Z"
     },
     {
       "id": 501045649,
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 19650,
+      "stars": 19659,
       "forks": 898,
       "language": "Go",
-      "pushed_at": "2026-04-17T16:08:44Z",
-      "updated_at": "2026-04-17T16:52:56Z"
+      "pushed_at": "2026-04-17T20:17:42Z",
+      "updated_at": "2026-04-17T20:26:27Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18669,
-      "forks": 1614,
+      "stars": 18676,
+      "forks": 1615,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:18:02Z",
-      "updated_at": "2026-04-17T16:12:50Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12839,
-      "forks": 786,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T15:41:05Z",
-      "updated_at": "2026-04-17T15:41:09Z"
+      "pushed_at": "2026-04-17T20:40:57Z",
+      "updated_at": "2026-04-17T20:41:01Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 12643,
-      "forks": 1202,
+      "stars": 12667,
+      "forks": 1210,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T15:59:19Z",
-      "updated_at": "2026-04-17T16:54:23Z"
+      "pushed_at": "2026-04-17T18:52:47Z",
+      "updated_at": "2026-04-17T20:41:08Z"
     },
     {
       "id": 665613753,
@@ -70,41 +81,8 @@
       "stars": 10467,
       "forks": 1281,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:10:42Z",
-      "updated_at": "2026-04-17T16:15:48Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7219,
-      "forks": 187,
-      "language": "C++",
-      "pushed_at": "2026-04-17T14:15:02Z",
-      "updated_at": "2026-04-17T16:36:04Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5619,
-      "forks": 732,
-      "language": "Swift",
-      "pushed_at": "2026-04-17T16:54:30Z",
-      "updated_at": "2026-04-17T16:17:26Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5190,
-      "forks": 300,
-      "language": "Vala",
-      "pushed_at": "2026-04-17T15:32:36Z",
-      "updated_at": "2026-04-17T16:44:24Z"
+      "pushed_at": "2026-04-17T19:38:02Z",
+      "updated_at": "2026-04-17T19:32:37Z"
     },
     {
       "id": 11512043,
@@ -114,63 +92,85 @@
       "stars": 5125,
       "forks": 611,
       "language": "Kotlin",
-      "pushed_at": "2026-04-17T16:42:36Z",
-      "updated_at": "2026-04-17T16:42:41Z"
+      "pushed_at": "2026-04-17T19:10:57Z",
+      "updated_at": "2026-04-17T19:11:02Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5117,
-      "forks": 440,
-      "language": "Rust",
-      "pushed_at": "2026-04-17T15:57:54Z",
-      "updated_at": "2026-04-17T15:57:51Z"
+      "id": 222709217,
+      "full_name": "wmariuss/awesome-devops",
+      "html_url": "https://github.com/wmariuss/awesome-devops",
+      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+      "stars": 4054,
+      "forks": 819,
+      "language": "Python",
+      "pushed_at": "2026-04-17T20:14:39Z",
+      "updated_at": "2026-04-17T20:14:23Z"
     },
     {
-      "id": 187916430,
-      "full_name": "muety/wakapi",
-      "html_url": "https://github.com/muety/wakapi",
-      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
-      "stars": 4267,
-      "forks": 282,
-      "language": "Go",
-      "pushed_at": "2026-04-17T15:50:37Z",
-      "updated_at": "2026-04-17T15:50:42Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4074,
-      "forks": 211,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-17T14:21:51Z",
-      "updated_at": "2026-04-17T16:21:33Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3162,
-      "forks": 1003,
-      "language": "C++",
-      "pushed_at": "2026-04-17T16:36:20Z",
-      "updated_at": "2026-04-17T15:48:51Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2872,
+      "forks": 185,
+      "language": "Python",
+      "pushed_at": "2026-04-17T18:58:22Z",
+      "updated_at": "2026-04-17T18:58:25Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2089,
+      "stars": 2091,
       "forks": 229,
       "language": "Go",
-      "pushed_at": "2026-04-17T16:11:12Z",
-      "updated_at": "2026-04-17T16:10:52Z"
+      "pushed_at": "2026-04-17T19:17:10Z",
+      "updated_at": "2026-04-17T19:37:10Z"
+    },
+    {
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1070,
+      "forks": 39,
+      "language": "C++",
+      "pushed_at": "2026-04-17T19:45:10Z",
+      "updated_at": "2026-04-17T19:42:15Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 746,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T19:42:42Z",
+      "updated_at": "2026-04-17T19:42:46Z"
+    },
+    {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 674,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-04-17T19:22:29Z",
+      "updated_at": "2026-04-17T19:22:33Z"
+    },
+    {
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 626,
+      "forks": 41,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-17T19:04:51Z",
+      "updated_at": "2026-04-17T19:04:56Z"
     }
   ]
 }
