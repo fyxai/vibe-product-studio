@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 792,
+  "total_found": 791,
   "items": [
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27344,
-      "forks": 2884,
+      "stars": 27363,
+      "forks": 2885,
       "language": "TypeScript",
       "pushed_at": "2026-04-17T02:15:58Z",
-      "updated_at": "2026-04-17T02:20:36Z"
+      "updated_at": "2026-04-17T05:59:01Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24208,
+      "stars": 24209,
       "forks": 2275,
       "language": "Python",
       "pushed_at": "2026-04-17T00:32:26Z",
-      "updated_at": "2026-04-16T23:23:27Z"
+      "updated_at": "2026-04-17T05:05:06Z"
     },
     {
       "id": 501045649,
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 19592,
+      "stars": 19611,
       "forks": 898,
       "language": "Go",
-      "pushed_at": "2026-04-17T00:08:06Z",
-      "updated_at": "2026-04-17T02:30:11Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18654,
-      "forks": 1614,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T23:31:13Z",
-      "updated_at": "2026-04-17T01:40:55Z"
+      "pushed_at": "2026-04-17T05:41:35Z",
+      "updated_at": "2026-04-17T05:11:25Z"
     },
     {
       "id": 665613753,
@@ -63,15 +52,15 @@
       "updated_at": "2026-04-17T01:28:04Z"
     },
     {
-      "id": 3868463,
-      "full_name": "jrnl-org/jrnl",
-      "html_url": "https://github.com/jrnl-org/jrnl",
-      "description": "Collect your thoughts and notes without leaving the command line.",
-      "stars": 7208,
-      "forks": 548,
-      "language": "Python",
-      "pushed_at": "2026-04-16T22:40:25Z",
-      "updated_at": "2026-04-17T02:19:54Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 8259,
+      "forks": 492,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T04:13:20Z",
+      "updated_at": "2026-04-17T05:57:13Z"
     },
     {
       "id": 11512043,
@@ -90,76 +79,76 @@
       "html_url": "https://github.com/Splode/pomotroid",
       "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
       "stars": 5117,
-      "forks": 439,
+      "forks": 440,
       "language": "Rust",
       "pushed_at": "2026-04-17T01:20:34Z",
-      "updated_at": "2026-04-17T01:40:53Z"
-    },
-    {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4315,
-      "forks": 876,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-16T22:15:26Z",
-      "updated_at": "2026-04-16T22:15:32Z"
+      "updated_at": "2026-04-17T04:38:07Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2872,
+      "stars": 2873,
       "forks": 185,
       "language": "Python",
-      "pushed_at": "2026-04-16T23:28:02Z",
-      "updated_at": "2026-04-17T01:49:12Z"
+      "pushed_at": "2026-04-17T05:32:19Z",
+      "updated_at": "2026-04-17T05:36:58Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1465,
-      "forks": 36,
-      "language": "Swift",
-      "pushed_at": "2026-04-16T22:17:18Z",
-      "updated_at": "2026-04-17T02:22:36Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2081,
+      "forks": 227,
+      "language": "Go",
+      "pushed_at": "2026-04-17T05:24:35Z",
+      "updated_at": "2026-04-17T05:40:43Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 996,
-      "forks": 27,
+      "stars": 999,
+      "forks": 28,
       "language": "Swift",
       "pushed_at": "2026-04-17T00:39:41Z",
-      "updated_at": "2026-04-17T02:17:39Z"
+      "updated_at": "2026-04-17T05:16:17Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 743,
+      "stars": 744,
       "forks": 40,
       "language": "TypeScript",
       "pushed_at": "2026-04-17T01:02:49Z",
-      "updated_at": "2026-04-17T01:02:53Z"
+      "updated_at": "2026-04-17T04:13:50Z"
     },
     {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 588,
-      "forks": 31,
-      "language": "Rust",
-      "pushed_at": "2026-04-16T22:45:44Z",
-      "updated_at": "2026-04-17T00:01:38Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 501,
+      "forks": 26,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T05:05:16Z",
+      "updated_at": "2026-04-17T05:05:20Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 286,
+      "forks": 20,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T05:59:08Z",
+      "updated_at": "2026-04-17T05:43:14Z"
     },
     {
       "id": 1030039430,
@@ -169,8 +158,19 @@
       "stars": 285,
       "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T22:42:49Z",
-      "updated_at": "2026-04-16T23:20:00Z"
+      "pushed_at": "2026-04-17T04:56:57Z",
+      "updated_at": "2026-04-17T04:55:51Z"
+    },
+    {
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "The eye-candy note taking and to-do application for all desktops",
+      "stars": 277,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T01:14:45Z",
+      "updated_at": "2026-04-17T01:14:49Z"
     }
   ]
 }
