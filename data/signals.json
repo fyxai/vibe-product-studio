@@ -8,59 +8,37 @@
   "total_found": 794,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27409,
-      "forks": 2893,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36189,
+      "forks": 3642,
+      "language": "C#",
+      "pushed_at": "2026-04-18T02:31:22Z",
+      "updated_at": "2026-04-18T04:13:52Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13950,
+      "forks": 939,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T22:16:25Z",
-      "updated_at": "2026-04-18T01:48:54Z"
+      "pushed_at": "2026-04-18T05:17:19Z",
+      "updated_at": "2026-04-18T04:28:44Z"
     },
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 19662,
-      "forks": 898,
-      "language": "Go",
-      "pushed_at": "2026-04-17T21:05:01Z",
-      "updated_at": "2026-04-18T02:01:31Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18675,
-      "forks": 1615,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 8367,
+      "forks": 500,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T20:56:37Z",
-      "updated_at": "2026-04-18T00:02:35Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5197,
-      "forks": 300,
-      "language": "Vala",
-      "pushed_at": "2026-04-17T22:09:51Z",
-      "updated_at": "2026-04-17T23:11:23Z"
-    },
-    {
-      "id": 33417782,
-      "full_name": "variadico/noti",
-      "html_url": "https://github.com/variadico/noti",
-      "description": "Monitor a process and trigger a notification.",
-      "stars": 4882,
-      "forks": 141,
-      "language": "Go",
-      "pushed_at": "2026-04-17T21:16:43Z",
-      "updated_at": "2026-04-17T21:15:11Z"
+      "pushed_at": "2026-04-18T03:41:39Z",
+      "updated_at": "2026-04-18T05:15:54Z"
     },
     {
       "id": 19825320,
@@ -74,59 +52,59 @@
       "updated_at": "2026-04-18T01:59:35Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2738,
-      "forks": 307,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T21:15:02Z",
-      "updated_at": "2026-04-18T01:43:43Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2874,
+      "forks": 185,
+      "language": "Python",
+      "pushed_at": "2026-04-18T01:47:40Z",
+      "updated_at": "2026-04-18T05:16:15Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1472,
+      "stars": 1474,
       "forks": 36,
       "language": "Swift",
-      "pushed_at": "2026-04-18T01:40:07Z",
-      "updated_at": "2026-04-18T01:40:11Z"
+      "pushed_at": "2026-04-18T04:41:50Z",
+      "updated_at": "2026-04-18T04:41:55Z"
+    },
+    {
+      "id": 264844037,
+      "full_name": "lindell/multi-gitter",
+      "html_url": "https://github.com/lindell/multi-gitter",
+      "description": "Update multiple repositories in with one command",
+      "stars": 1184,
+      "forks": 84,
+      "language": "Go",
+      "pushed_at": "2026-04-18T05:04:37Z",
+      "updated_at": "2026-04-18T05:02:29Z"
     },
     {
       "id": 980286881,
       "full_name": "amicalhq/amical",
       "html_url": "https://github.com/amicalhq/amical",
       "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1144,
+      "stars": 1145,
       "forks": 95,
       "language": "TypeScript",
       "pushed_at": "2026-04-18T00:17:57Z",
-      "updated_at": "2026-04-18T00:18:02Z"
+      "updated_at": "2026-04-18T03:29:40Z"
     },
     {
-      "id": 1317787,
-      "full_name": "structr/structr",
-      "html_url": "https://github.com/structr/structr",
-      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
-      "stars": 823,
-      "forks": 161,
-      "language": "Java",
-      "pushed_at": "2026-04-18T01:13:59Z",
-      "updated_at": "2026-04-17T22:22:33Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 813,
-      "forks": 138,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 748,
+      "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T22:41:38Z",
-      "updated_at": "2026-04-17T23:08:58Z"
+      "pushed_at": "2026-04-18T04:28:12Z",
+      "updated_at": "2026-04-18T04:28:16Z"
     },
     {
       "id": 590023059,
@@ -140,15 +118,15 @@
       "updated_at": "2026-04-17T23:49:36Z"
     },
     {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 328,
-      "forks": 50,
-      "language": "Swift",
-      "pushed_at": "2026-04-17T21:24:07Z",
-      "updated_at": "2026-04-18T01:20:37Z"
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T02:40:32Z",
+      "updated_at": "2026-04-18T02:40:36Z"
     },
     {
       "id": 476797398,
@@ -171,6 +149,28 @@
       "language": "TypeScript",
       "pushed_at": "2026-04-18T00:27:22Z",
       "updated_at": "2026-04-18T00:27:28Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.",
+      "stars": 146,
+      "forks": 42,
+      "language": "Rust",
+      "pushed_at": "2026-04-18T04:08:08Z",
+      "updated_at": "2026-04-18T05:07:13Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 119,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-18T05:32:11Z",
+      "updated_at": "2026-04-18T05:32:14Z"
     }
   ]
 }
