@@ -5,73 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 794,
+  "total_found": 795,
   "items": [
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36189,
+      "stars": 36190,
       "forks": 3642,
       "language": "C#",
       "pushed_at": "2026-04-18T02:31:22Z",
-      "updated_at": "2026-04-18T04:13:52Z"
+      "updated_at": "2026-04-18T08:16:10Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13950,
-      "forks": 939,
+      "stars": 13951,
+      "forks": 940,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T05:17:19Z",
-      "updated_at": "2026-04-18T04:28:44Z"
+      "pushed_at": "2026-04-18T05:46:13Z",
+      "updated_at": "2026-04-18T08:02:15Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 12764,
+      "forks": 1220,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T06:53:51Z",
+      "updated_at": "2026-04-18T08:41:53Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 8367,
-      "forks": 500,
+      "stars": 8378,
+      "forks": 503,
       "language": "TypeScript",
       "pushed_at": "2026-04-18T03:41:39Z",
-      "updated_at": "2026-04-18T05:15:54Z"
+      "updated_at": "2026-04-18T08:46:31Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3152,
-      "forks": 145,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-18T01:59:32Z",
-      "updated_at": "2026-04-18T01:59:35Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2874,
-      "forks": 185,
-      "language": "Python",
-      "pushed_at": "2026-04-18T01:47:40Z",
-      "updated_at": "2026-04-18T05:16:15Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2093,
+      "forks": 229,
+      "language": "Go",
+      "pushed_at": "2026-04-18T07:11:42Z",
+      "updated_at": "2026-04-18T07:11:22Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1474,
+      "stars": 1475,
       "forks": 36,
       "language": "Swift",
       "pushed_at": "2026-04-18T04:41:50Z",
-      "updated_at": "2026-04-18T04:41:55Z"
+      "updated_at": "2026-04-18T07:01:42Z"
     },
     {
       "id": 264844037,
@@ -85,15 +85,26 @@
       "updated_at": "2026-04-18T05:02:29Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1145,
-      "forks": 95,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-18T00:17:57Z",
-      "updated_at": "2026-04-18T03:29:40Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1100,
+      "forks": 116,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-18T08:22:55Z",
+      "updated_at": "2026-04-18T08:23:00Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 1012,
+      "forks": 29,
+      "language": "Swift",
+      "pushed_at": "2026-04-18T06:53:05Z",
+      "updated_at": "2026-04-18T08:44:12Z"
     },
     {
       "id": 1111978380,
@@ -107,17 +118,6 @@
       "updated_at": "2026-04-18T04:28:16Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 478,
-      "forks": 59,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-17T23:49:32Z",
-      "updated_at": "2026-04-17T23:49:36Z"
-    },
-    {
       "id": 226175035,
       "full_name": "kachkaev/njt",
       "html_url": "https://github.com/kachkaev/njt",
@@ -125,41 +125,41 @@
       "stars": 317,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T02:40:32Z",
-      "updated_at": "2026-04-18T02:40:36Z"
+      "pushed_at": "2026-04-18T05:58:10Z",
+      "updated_at": "2026-04-18T05:58:12Z"
     },
     {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "The eye-candy note taking and to-do application for all desktops",
-      "stars": 278,
-      "forks": 10,
+      "id": 1038654709,
+      "full_name": "vibe-log/vibe-log-cli",
+      "html_url": "https://github.com/vibe-log/vibe-log-cli",
+      "description": "A CLI tool for logging and analyzing Claude Code and Cursor ai-driven coding session.",
+      "stars": 315,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T23:28:50Z",
-      "updated_at": "2026-04-17T23:28:55Z"
+      "pushed_at": "2026-04-18T07:08:05Z",
+      "updated_at": "2026-04-18T07:08:09Z"
     },
     {
-      "id": 1048106675,
-      "full_name": "vasylenko/bear-notes-mcp",
-      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
-      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
-      "stars": 172,
-      "forks": 16,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-18T00:27:22Z",
-      "updated_at": "2026-04-18T00:27:28Z"
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 168,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-04-18T08:01:58Z",
+      "updated_at": "2026-04-18T07:52:59Z"
     },
     {
       "id": 1175591394,
       "full_name": "juyterman1000/entroly",
       "html_url": "https://github.com/juyterman1000/entroly",
       "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.",
-      "stars": 146,
+      "stars": 147,
       "forks": 42,
       "language": "Rust",
-      "pushed_at": "2026-04-18T04:08:08Z",
-      "updated_at": "2026-04-18T05:07:13Z"
+      "pushed_at": "2026-04-18T06:40:58Z",
+      "updated_at": "2026-04-18T08:22:59Z"
     },
     {
       "id": 737246781,
