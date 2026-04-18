@@ -8,114 +8,125 @@
   "total_found": 795,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36190,
-      "forks": 3642,
-      "language": "C#",
-      "pushed_at": "2026-04-18T02:31:22Z",
-      "updated_at": "2026-04-18T08:16:10Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18682,
+      "forks": 1618,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T11:07:49Z",
+      "updated_at": "2026-04-18T12:27:22Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13951,
-      "forks": 940,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-18T05:46:13Z",
-      "updated_at": "2026-04-18T08:02:15Z"
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17289,
+      "forks": 871,
+      "language": "Python",
+      "pushed_at": "2026-04-18T10:03:48Z",
+      "updated_at": "2026-04-18T12:18:37Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 12764,
-      "forks": 1220,
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 13432,
+      "forks": 1137,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T06:53:51Z",
-      "updated_at": "2026-04-18T08:41:53Z"
+      "pushed_at": "2026-04-18T12:00:25Z",
+      "updated_at": "2026-04-18T12:00:31Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12838,
+      "forks": 786,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T09:59:14Z",
+      "updated_at": "2026-04-18T09:59:19Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 8378,
+      "stars": 8402,
       "forks": 503,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T03:41:39Z",
-      "updated_at": "2026-04-18T08:46:31Z"
+      "pushed_at": "2026-04-18T09:01:05Z",
+      "updated_at": "2026-04-18T12:45:33Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5201,
+      "forks": 300,
+      "language": "Vala",
+      "pushed_at": "2026-04-18T11:44:35Z",
+      "updated_at": "2026-04-18T11:44:37Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2764,
+      "forks": 309,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T09:17:30Z",
+      "updated_at": "2026-04-18T12:53:34Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2093,
+      "stars": 2092,
       "forks": 229,
       "language": "Go",
-      "pushed_at": "2026-04-18T07:11:42Z",
-      "updated_at": "2026-04-18T07:11:22Z"
+      "pushed_at": "2026-04-18T12:54:49Z",
+      "updated_at": "2026-04-18T12:54:49Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1475,
-      "forks": 36,
+      "stars": 1476,
+      "forks": 37,
       "language": "Swift",
-      "pushed_at": "2026-04-18T04:41:50Z",
-      "updated_at": "2026-04-18T07:01:42Z"
+      "pushed_at": "2026-04-18T10:11:32Z",
+      "updated_at": "2026-04-18T10:47:41Z"
     },
     {
-      "id": 264844037,
-      "full_name": "lindell/multi-gitter",
-      "html_url": "https://github.com/lindell/multi-gitter",
-      "description": "Update multiple repositories in with one command",
-      "stars": 1184,
-      "forks": 84,
-      "language": "Go",
-      "pushed_at": "2026-04-18T05:04:37Z",
-      "updated_at": "2026-04-18T05:02:29Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1100,
-      "forks": 116,
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 626,
+      "forks": 41,
       "language": "Kotlin",
-      "pushed_at": "2026-04-18T08:22:55Z",
-      "updated_at": "2026-04-18T08:23:00Z"
+      "pushed_at": "2026-04-18T10:54:19Z",
+      "updated_at": "2026-04-18T10:54:24Z"
     },
     {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1012,
-      "forks": 29,
-      "language": "Swift",
-      "pushed_at": "2026-04-18T06:53:05Z",
-      "updated_at": "2026-04-18T08:44:12Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 748,
-      "forks": 40,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 512,
+      "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T04:28:12Z",
-      "updated_at": "2026-04-18T04:28:16Z"
+      "pushed_at": "2026-04-18T08:49:11Z",
+      "updated_at": "2026-04-18T12:38:24Z"
     },
     {
       "id": 226175035,
@@ -125,19 +136,30 @@
       "stars": 317,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T05:58:10Z",
-      "updated_at": "2026-04-18T05:58:12Z"
+      "pushed_at": "2026-04-18T09:18:18Z",
+      "updated_at": "2026-04-18T09:18:22Z"
     },
     {
-      "id": 1038654709,
-      "full_name": "vibe-log/vibe-log-cli",
-      "html_url": "https://github.com/vibe-log/vibe-log-cli",
-      "description": "A CLI tool for logging and analyzing Claude Code and Cursor ai-driven coding session.",
-      "stars": 315,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-18T07:08:05Z",
-      "updated_at": "2026-04-18T07:08:09Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 308,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-04-18T12:47:29Z",
+      "updated_at": "2026-04-18T12:47:34Z"
+    },
+    {
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 193,
+      "forks": 11,
+      "language": "Swift",
+      "pushed_at": "2026-04-18T11:47:52Z",
+      "updated_at": "2026-04-18T11:44:49Z"
     },
     {
       "id": 1171240164,
@@ -147,30 +169,8 @@
       "stars": 168,
       "forks": 11,
       "language": "C#",
-      "pushed_at": "2026-04-18T08:01:58Z",
-      "updated_at": "2026-04-18T07:52:59Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.",
-      "stars": 147,
-      "forks": 42,
-      "language": "Rust",
-      "pushed_at": "2026-04-18T06:40:58Z",
-      "updated_at": "2026-04-18T08:22:59Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 119,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-18T05:32:11Z",
-      "updated_at": "2026-04-18T05:32:14Z"
+      "pushed_at": "2026-04-18T09:03:51Z",
+      "updated_at": "2026-04-18T09:03:56Z"
     }
   ]
 }
