@@ -5,73 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 798,
+  "total_found": 799,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43054,
-      "forks": 2690,
+      "stars": 43058,
+      "forks": 2689,
       "language": "C#",
-      "pushed_at": "2026-04-19T14:49:36Z",
-      "updated_at": "2026-04-19T15:30:49Z"
+      "pushed_at": "2026-04-19T20:29:53Z",
+      "updated_at": "2026-04-19T20:30:00Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 29934,
+      "forks": 1737,
+      "language": "Rust",
+      "pushed_at": "2026-04-19T18:56:03Z",
+      "updated_at": "2026-04-19T20:35:27Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18730,
+      "stars": 18733,
       "forks": 1621,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T16:34:34Z",
-      "updated_at": "2026-04-19T16:30:49Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12839,
-      "forks": 786,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-19T14:19:32Z",
-      "updated_at": "2026-04-19T14:19:36Z"
+      "pushed_at": "2026-04-19T17:22:07Z",
+      "updated_at": "2026-04-19T20:25:14Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 8579,
+      "stars": 8588,
       "forks": 514,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T16:14:24Z",
-      "updated_at": "2026-04-19T16:18:50Z"
+      "pushed_at": "2026-04-19T16:58:35Z",
+      "updated_at": "2026-04-19T19:53:22Z"
     },
     {
       "id": 375653778,
       "full_name": "linearmouse/linearmouse",
       "html_url": "https://github.com/linearmouse/linearmouse",
       "description": "The mouse and trackpad utility for Mac.",
-      "stars": 5950,
+      "stars": 5952,
       "forks": 119,
       "language": "Swift",
       "pushed_at": "2026-04-19T16:27:15Z",
-      "updated_at": "2026-04-19T16:09:34Z"
+      "updated_at": "2026-04-19T18:23:19Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5131,
+      "stars": 5132,
       "forks": 613,
       "language": "Kotlin",
       "pushed_at": "2026-04-19T16:26:26Z",
-      "updated_at": "2026-04-19T16:26:31Z"
+      "updated_at": "2026-04-19T20:26:29Z"
+    },
+    {
+      "id": 187916430,
+      "full_name": "muety/wakapi",
+      "html_url": "https://github.com/muety/wakapi",
+      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+      "stars": 4274,
+      "forks": 283,
+      "language": "Go",
+      "pushed_at": "2026-04-19T19:14:12Z",
+      "updated_at": "2026-04-19T19:14:16Z"
     },
     {
       "id": 19825320,
@@ -81,30 +92,41 @@
       "stars": 3152,
       "forks": 145,
       "language": "Gherkin",
-      "pushed_at": "2026-04-19T16:36:07Z",
-      "updated_at": "2026-04-19T15:14:42Z"
+      "pushed_at": "2026-04-19T19:59:17Z",
+      "updated_at": "2026-04-19T19:59:20Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2102,
-      "forks": 233,
+      "stars": 2103,
+      "forks": 234,
       "language": "Go",
-      "pushed_at": "2026-04-19T16:36:52Z",
-      "updated_at": "2026-04-19T16:36:33Z"
+      "pushed_at": "2026-04-19T18:03:28Z",
+      "updated_at": "2026-04-19T18:50:52Z"
     },
     {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
-      "stars": 627,
-      "forks": 41,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-19T15:48:31Z",
-      "updated_at": "2026-04-19T15:50:22Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 753,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-19T19:51:53Z",
+      "updated_at": "2026-04-19T19:51:57Z"
+    },
+    {
+      "id": 134258952,
+      "full_name": "lawrencehook/remove-youtube-suggestions",
+      "html_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
+      "description": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
+      "stars": 566,
+      "forks": 58,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-19T20:27:40Z",
+      "updated_at": "2026-04-19T19:34:09Z"
     },
     {
       "id": 1125258937,
@@ -118,26 +140,15 @@
       "updated_at": "2026-04-19T16:28:04Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 428,
-      "forks": 68,
-      "language": "Go",
-      "pushed_at": "2026-04-19T15:48:59Z",
-      "updated_at": "2026-04-19T15:42:31Z"
-    },
-    {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 427,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-04-19T15:31:38Z",
-      "updated_at": "2026-04-19T15:25:27Z"
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 399,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-19T16:58:24Z",
+      "updated_at": "2026-04-19T16:57:03Z"
     },
     {
       "id": 1038654709,
@@ -147,30 +158,19 @@
       "stars": 315,
       "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T16:06:04Z",
-      "updated_at": "2026-04-19T16:06:07Z"
+      "pushed_at": "2026-04-19T19:58:32Z",
+      "updated_at": "2026-04-19T19:58:36Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 249,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-04-19T15:56:05Z",
-      "updated_at": "2026-04-19T15:56:09Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant for daily work, inspired by Jarvis 🌎",
-      "stars": 172,
-      "forks": 24,
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "A Claude Code skill that turns your Obsidian vault into a living second brain — autonomous writes, thinking tools, knowledge ingestion, scheduled agents, and _CLAUDE.md for cross-surface context.",
+      "stars": 226,
+      "forks": 27,
       "language": "Python",
-      "pushed_at": "2026-04-19T16:27:35Z",
-      "updated_at": "2026-04-19T15:02:33Z"
+      "pushed_at": "2026-04-19T17:02:25Z",
+      "updated_at": "2026-04-19T18:52:20Z"
     }
   ]
 }
