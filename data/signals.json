@@ -5,8 +5,41 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 797,
+  "total_found": 798,
   "items": [
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 160585,
+      "forks": 24988,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-19T04:53:41Z",
+      "updated_at": "2026-04-19T05:57:30Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36194,
+      "forks": 3641,
+      "language": "C#",
+      "pushed_at": "2026-04-19T03:27:26Z",
+      "updated_at": "2026-04-19T03:27:30Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21494,
+      "forks": 802,
+      "language": "C",
+      "pushed_at": "2026-04-19T05:57:03Z",
+      "updated_at": "2026-04-19T05:57:08Z"
+    },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
@@ -15,74 +48,63 @@
       "stars": 10472,
       "forks": 1282,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T02:35:56Z",
-      "updated_at": "2026-04-19T01:54:46Z"
+      "pushed_at": "2026-04-19T03:11:38Z",
+      "updated_at": "2026-04-19T03:11:41Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 8465,
-      "forks": 509,
+      "stars": 8495,
+      "forks": 513,
       "language": "TypeScript",
       "pushed_at": "2026-04-19T02:00:35Z",
-      "updated_at": "2026-04-19T02:21:30Z"
+      "updated_at": "2026-04-19T05:51:06Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
-      "stars": 5622,
-      "forks": 732,
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 5947,
+      "forks": 119,
       "language": "Swift",
-      "pushed_at": "2026-04-18T23:13:21Z",
-      "updated_at": "2026-04-19T00:28:07Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3152,
-      "forks": 145,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-19T01:38:38Z",
-      "updated_at": "2026-04-19T01:38:36Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2188,
-      "forks": 85,
-      "language": "Swift",
-      "pushed_at": "2026-04-18T22:16:50Z",
-      "updated_at": "2026-04-19T00:42:22Z"
+      "pushed_at": "2026-04-19T05:18:49Z",
+      "updated_at": "2026-04-19T05:16:49Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2098,
-      "forks": 229,
+      "stars": 2099,
+      "forks": 231,
       "language": "Go",
-      "pushed_at": "2026-04-18T22:58:25Z",
-      "updated_at": "2026-04-19T00:57:28Z"
+      "pushed_at": "2026-04-19T05:20:42Z",
+      "updated_at": "2026-04-19T05:20:45Z"
     },
     {
-      "id": 1116772709,
-      "full_name": "hanebox/ekphos",
-      "html_url": "https://github.com/hanebox/ekphos",
-      "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian",
-      "stars": 913,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-04-19T00:28:06Z",
-      "updated_at": "2026-04-19T02:23:52Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1483,
+      "forks": 38,
+      "language": "Swift",
+      "pushed_at": "2026-04-19T04:26:12Z",
+      "updated_at": "2026-04-19T05:01:26Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 1022,
+      "forks": 29,
+      "language": "Swift",
+      "pushed_at": "2026-04-19T02:36:27Z",
+      "updated_at": "2026-04-19T04:53:51Z"
     },
     {
       "id": 1079547517,
@@ -92,74 +114,30 @@
       "stars": 738,
       "forks": 60,
       "language": "Python",
-      "pushed_at": "2026-04-19T02:28:20Z",
-      "updated_at": "2026-04-19T02:28:23Z"
+      "pushed_at": "2026-04-19T03:07:59Z",
+      "updated_at": "2026-04-19T03:08:02Z"
     },
     {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 308,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-18T23:38:00Z",
-      "updated_at": "2026-04-18T23:38:06Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 291,
-      "forks": 22,
+      "id": 1038654709,
+      "full_name": "vibe-log/vibe-log-cli",
+      "html_url": "https://github.com/vibe-log/vibe-log-cli",
+      "description": "A CLI tool for logging and analyzing Claude Code and Cursor ai-driven coding session.",
+      "stars": 315,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T01:39:04Z",
-      "updated_at": "2026-04-19T02:05:09Z"
+      "pushed_at": "2026-04-19T05:43:07Z",
+      "updated_at": "2026-04-19T05:43:11Z"
     },
     {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 288,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-18T22:09:02Z",
-      "updated_at": "2026-04-18T22:04:51Z"
-    },
-    {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "The eye-candy note taking and to-do application for all desktops",
-      "stars": 278,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-19T01:59:29Z",
-      "updated_at": "2026-04-19T01:59:33Z"
-    },
-    {
-      "id": 1163713389,
-      "full_name": "brevity1swos/rgx",
-      "html_url": "https://github.com/brevity1swos/rgx",
-      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
-      "stars": 188,
-      "forks": 2,
-      "language": "Rust",
-      "pushed_at": "2026-04-19T00:01:54Z",
-      "updated_at": "2026-04-19T00:00:40Z"
-    },
-    {
-      "id": 1048106675,
-      "full_name": "vasylenko/bear-notes-mcp",
-      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
-      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
-      "stars": 173,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-18T21:57:51Z",
-      "updated_at": "2026-04-18T21:57:57Z"
+      "id": 854514249,
+      "full_name": "aload0/Reef",
+      "html_url": "https://github.com/aload0/Reef",
+      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
+      "stars": 240,
+      "forks": 20,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-19T05:18:36Z",
+      "updated_at": "2026-04-19T05:18:41Z"
     },
     {
       "id": 932721496,
@@ -171,6 +149,28 @@
       "language": "TypeScript",
       "pushed_at": "2026-04-19T02:18:56Z",
       "updated_at": "2026-04-19T02:18:55Z"
+    },
+    {
+      "id": 1187231263,
+      "full_name": "stringer07/Lattice_release",
+      "html_url": "https://github.com/stringer07/Lattice_release",
+      "description": "A lightweight macOS literature manager built in native Swift.",
+      "stars": 147,
+      "forks": 2,
+      "language": "Unknown",
+      "pushed_at": "2026-04-19T04:18:07Z",
+      "updated_at": "2026-04-19T04:18:10Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 120,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-19T03:24:12Z",
+      "updated_at": "2026-04-19T04:35:07Z"
     }
   ]
 }
