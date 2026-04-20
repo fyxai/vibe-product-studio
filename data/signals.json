@@ -8,158 +8,136 @@
   "total_found": 800,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121513,
-      "forks": 13350,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T12:59:53Z",
-      "updated_at": "2026-04-20T13:27:42Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27546,
-      "forks": 2906,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T09:51:47Z",
-      "updated_at": "2026-04-20T13:25:17Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24701,
-      "forks": 1806,
-      "language": "Vue",
-      "pushed_at": "2026-04-20T09:42:22Z",
-      "updated_at": "2026-04-20T13:23:24Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43065,
+      "forks": 2690,
+      "language": "C#",
+      "pushed_at": "2026-04-20T16:06:45Z",
+      "updated_at": "2026-04-20T16:24:11Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18750,
-      "forks": 1621,
+      "stars": 18758,
+      "forks": 1624,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T12:55:21Z",
-      "updated_at": "2026-04-20T13:22:30Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13953,
-      "forks": 940,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T11:18:06Z",
-      "updated_at": "2026-04-20T13:23:28Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 12905,
-      "forks": 1239,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T11:50:34Z",
-      "updated_at": "2026-04-20T13:24:57Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10479,
-      "forks": 1282,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T10:06:16Z",
-      "updated_at": "2026-04-20T12:14:19Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7242,
-      "forks": 187,
-      "language": "C++",
-      "pushed_at": "2026-04-20T13:23:54Z",
-      "updated_at": "2026-04-20T13:23:58Z"
+      "pushed_at": "2026-04-20T16:53:34Z",
+      "updated_at": "2026-04-20T16:53:57Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
-      "description": "A virtual platform team for mobile devs who ship ",
+      "description": "Your mobile platform team, as a service",
       "stars": 5619,
-      "forks": 733,
+      "forks": 734,
       "language": "Swift",
-      "pushed_at": "2026-04-20T13:25:25Z",
-      "updated_at": "2026-04-20T12:50:10Z"
+      "pushed_at": "2026-04-20T16:05:34Z",
+      "updated_at": "2026-04-20T16:06:26Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5215,
-      "forks": 301,
-      "language": "Vala",
-      "pushed_at": "2026-04-20T11:20:46Z",
-      "updated_at": "2026-04-20T12:11:22Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5134,
+      "forks": 615,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-20T16:28:20Z",
+      "updated_at": "2026-04-20T16:29:09Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4621,
+      "forks": 100,
+      "language": "Rust",
+      "pushed_at": "2026-04-20T16:40:39Z",
+      "updated_at": "2026-04-20T16:41:04Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4167,
+      "forks": 219,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-20T16:46:35Z",
+      "updated_at": "2026-04-20T17:01:52Z"
+    },
+    {
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw中文用例大全 | 49个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 3845,
+      "forks": 419,
+      "language": "Unknown",
+      "pushed_at": "2026-04-20T15:45:26Z",
+      "updated_at": "2026-04-20T15:36:30Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3167,
+      "stars": 3168,
       "forks": 1003,
       "language": "C++",
-      "pushed_at": "2026-04-20T13:27:53Z",
-      "updated_at": "2026-04-20T13:27:57Z"
+      "pushed_at": "2026-04-20T16:57:18Z",
+      "updated_at": "2026-04-20T16:35:39Z"
     },
     {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 825,
-      "forks": 140,
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1070,
+      "forks": 26,
+      "language": "Rust",
+      "pushed_at": "2026-04-20T16:33:24Z",
+      "updated_at": "2026-04-20T16:33:53Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 757,
+      "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T09:52:44Z",
-      "updated_at": "2026-04-20T12:59:48Z"
+      "pushed_at": "2026-04-20T16:41:57Z",
+      "updated_at": "2026-04-20T16:42:01Z"
     },
     {
-      "id": 231954058,
-      "full_name": "tehtbl/awesome-note-taking",
-      "html_url": "https://github.com/tehtbl/awesome-note-taking",
-      "description": "A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.",
-      "stars": 811,
-      "forks": 70,
-      "language": "Unknown",
-      "pushed_at": "2026-04-20T10:32:20Z",
-      "updated_at": "2026-04-20T10:32:25Z"
-    },
-    {
-      "id": 215565525,
-      "full_name": "vict0rsch/PaperMemory",
-      "html_url": "https://github.com/vict0rsch/PaperMemory",
-      "description": "Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!",
-      "stars": 563,
-      "forks": 20,
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 745,
+      "forks": 82,
       "language": "JavaScript",
-      "pushed_at": "2026-04-20T12:42:02Z",
-      "updated_at": "2026-04-20T09:20:49Z"
+      "pushed_at": "2026-04-20T15:21:23Z",
+      "updated_at": "2026-04-20T15:21:49Z"
+    },
+    {
+      "id": 1197631840,
+      "full_name": "russelleNVy/three-man-team",
+      "html_url": "https://github.com/russelleNVy/three-man-team",
+      "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
+      "stars": 560,
+      "forks": 61,
+      "language": "Shell",
+      "pushed_at": "2026-04-20T16:51:33Z",
+      "updated_at": "2026-04-20T16:51:37Z"
     },
     {
       "id": 1125258937,
@@ -169,8 +147,30 @@
       "stars": 521,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T11:35:53Z",
-      "updated_at": "2026-04-20T11:35:55Z"
+      "pushed_at": "2026-04-20T16:12:25Z",
+      "updated_at": "2026-04-20T16:10:25Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 428,
+      "forks": 68,
+      "language": "Go",
+      "pushed_at": "2026-04-20T16:09:42Z",
+      "updated_at": "2026-04-20T15:59:33Z"
+    },
+    {
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 194,
+      "forks": 12,
+      "language": "Swift",
+      "pushed_at": "2026-04-20T16:41:56Z",
+      "updated_at": "2026-04-20T16:42:10Z"
     }
   ]
 }
