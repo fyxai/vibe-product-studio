@@ -12,33 +12,33 @@
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43060,
+      "stars": 43062,
       "forks": 2689,
       "language": "C#",
       "pushed_at": "2026-04-20T02:36:40Z",
-      "updated_at": "2026-04-20T02:36:47Z"
+      "updated_at": "2026-04-20T05:35:53Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18738,
-      "forks": 1620,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13955,
+      "forks": 940,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T23:33:13Z",
-      "updated_at": "2026-04-20T02:33:00Z"
+      "pushed_at": "2026-04-20T05:38:32Z",
+      "updated_at": "2026-04-20T05:55:12Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 8604,
-      "forks": 514,
+      "stars": 8625,
+      "forks": 517,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T01:02:55Z",
-      "updated_at": "2026-04-20T02:05:52Z"
+      "pushed_at": "2026-04-20T05:53:11Z",
+      "updated_at": "2026-04-20T06:10:22Z"
     },
     {
       "id": 606031950,
@@ -52,15 +52,37 @@
       "updated_at": "2026-04-20T02:32:27Z"
     },
     {
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4317,
+      "forks": 877,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-20T05:59:22Z",
+      "updated_at": "2026-04-20T05:59:27Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2888,
+      "forks": 186,
+      "language": "Python",
+      "pushed_at": "2026-04-20T02:15:26Z",
+      "updated_at": "2026-04-20T04:50:19Z"
+    },
+    {
       "id": 1116772709,
       "full_name": "hanebox/ekphos",
       "html_url": "https://github.com/hanebox/ekphos",
       "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian",
-      "stars": 913,
+      "stars": 914,
       "forks": 33,
       "language": "Rust",
       "pushed_at": "2026-04-20T02:26:11Z",
-      "updated_at": "2026-04-20T02:26:16Z"
+      "updated_at": "2026-04-20T04:59:36Z"
     },
     {
       "id": 1111978380,
@@ -70,19 +92,8 @@
       "stars": 754,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T02:21:32Z",
-      "updated_at": "2026-04-20T02:21:36Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 683,
-      "forks": 41,
-      "language": "Python",
-      "pushed_at": "2026-04-20T00:50:15Z",
-      "updated_at": "2026-04-20T00:50:20Z"
+      "pushed_at": "2026-04-20T06:06:46Z",
+      "updated_at": "2026-04-20T06:06:50Z"
     },
     {
       "id": 633571482,
@@ -96,37 +107,15 @@
       "updated_at": "2026-04-20T02:10:16Z"
     },
     {
-      "id": 134258952,
-      "full_name": "lawrencehook/remove-youtube-suggestions",
-      "html_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
-      "description": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
-      "stars": 566,
-      "forks": 58,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-20T00:33:55Z",
-      "updated_at": "2026-04-20T00:33:58Z"
-    },
-    {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 517,
-      "forks": 26,
+      "stars": 519,
+      "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T02:25:07Z",
-      "updated_at": "2026-04-20T02:25:09Z"
-    },
-    {
-      "id": 869263252,
-      "full_name": "awaseem/foqos",
-      "html_url": "https://github.com/awaseem/foqos",
-      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
-      "stars": 464,
-      "forks": 81,
-      "language": "Swift",
-      "pushed_at": "2026-04-20T01:50:06Z",
-      "updated_at": "2026-04-20T01:50:10Z"
+      "pushed_at": "2026-04-20T05:53:39Z",
+      "updated_at": "2026-04-20T06:05:16Z"
     },
     {
       "id": 244958571,
@@ -136,41 +125,52 @@
       "stars": 428,
       "forks": 68,
       "language": "Go",
-      "pushed_at": "2026-04-20T02:34:55Z",
-      "updated_at": "2026-04-20T02:28:08Z"
+      "pushed_at": "2026-04-20T03:28:59Z",
+      "updated_at": "2026-04-20T03:21:33Z"
     },
     {
-      "id": 1163713389,
-      "full_name": "brevity1swos/rgx",
-      "html_url": "https://github.com/brevity1swos/rgx",
-      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
-      "stars": 189,
-      "forks": 2,
-      "language": "Rust",
-      "pushed_at": "2026-04-19T23:52:36Z",
-      "updated_at": "2026-04-19T23:51:27Z"
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 347,
+      "forks": 48,
+      "language": "Swift",
+      "pushed_at": "2026-04-20T06:11:51Z",
+      "updated_at": "2026-04-20T04:35:55Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 292,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T05:36:29Z",
+      "updated_at": "2026-04-20T05:36:32Z"
+    },
+    {
+      "id": 854514249,
+      "full_name": "aload0/Reef",
+      "html_url": "https://github.com/aload0/Reef",
+      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
+      "stars": 241,
+      "forks": 20,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-20T06:10:00Z",
+      "updated_at": "2026-04-20T06:10:05Z"
     },
     {
       "id": 1212093880,
       "full_name": "heyderekj/dinky",
       "html_url": "https://github.com/heyderekj/dinky",
       "description": "Dinky makes files smaller.",
-      "stars": 179,
+      "stars": 188,
       "forks": 6,
       "language": "Swift",
-      "pushed_at": "2026-04-19T23:17:49Z",
-      "updated_at": "2026-04-20T02:34:11Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 169,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-20T02:34:49Z",
-      "updated_at": "2026-04-20T02:34:53Z"
+      "pushed_at": "2026-04-20T06:13:20Z",
+      "updated_at": "2026-04-20T06:13:23Z"
     }
   ]
 }
