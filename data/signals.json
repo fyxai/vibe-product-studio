@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 803,
+  "total_found": 805,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43070,
-      "forks": 2689,
-      "language": "C#",
-      "pushed_at": "2026-04-21T02:44:12Z",
-      "updated_at": "2026-04-21T05:22:33Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121594,
+      "forks": 13368,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-21T08:43:20Z",
+      "updated_at": "2026-04-21T09:19:07Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36207,
-      "forks": 3644,
-      "language": "C#",
-      "pushed_at": "2026-04-21T02:44:28Z",
-      "updated_at": "2026-04-21T03:36:44Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 36845,
+      "forks": 822,
+      "language": "Rust",
+      "pushed_at": "2026-04-21T09:12:33Z",
+      "updated_at": "2026-04-21T09:06:18Z"
     },
     {
       "id": 353775942,
@@ -37,140 +37,140 @@
       "stars": 13953,
       "forks": 940,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T05:56:29Z",
-      "updated_at": "2026-04-21T05:55:57Z"
-    },
-    {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13438,
-      "forks": 1137,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-21T03:24:17Z",
-      "updated_at": "2026-04-21T05:12:04Z"
+      "pushed_at": "2026-04-21T09:24:54Z",
+      "updated_at": "2026-04-21T08:25:56Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 12949,
-      "forks": 1244,
+      "stars": 12966,
+      "forks": 1247,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T05:43:34Z",
-      "updated_at": "2026-04-21T05:59:07Z"
+      "pushed_at": "2026-04-21T09:11:06Z",
+      "updated_at": "2026-04-21T09:24:25Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5123,
-      "forks": 442,
-      "language": "Rust",
-      "pushed_at": "2026-04-21T02:56:43Z",
-      "updated_at": "2026-04-21T02:56:39Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 8744,
+      "forks": 520,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-21T06:43:15Z",
+      "updated_at": "2026-04-21T09:07:57Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4625,
-      "forks": 101,
-      "language": "Rust",
-      "pushed_at": "2026-04-21T05:48:31Z",
-      "updated_at": "2026-04-21T05:48:33Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your mobile platform team, as a service",
+      "stars": 5621,
+      "forks": 734,
+      "language": "Swift",
+      "pushed_at": "2026-04-21T08:38:24Z",
+      "updated_at": "2026-04-21T08:01:46Z"
+    },
+    {
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4315,
+      "forks": 881,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-21T07:40:38Z",
+      "updated_at": "2026-04-21T07:40:44Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4197,
-      "forks": 225,
+      "stars": 4207,
+      "forks": 227,
       "language": "Kotlin",
-      "pushed_at": "2026-04-21T00:44:48Z",
-      "updated_at": "2026-04-21T04:13:49Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3301,
-      "forks": 92,
-      "language": "Python",
-      "pushed_at": "2026-04-20T23:54:59Z",
-      "updated_at": "2026-04-21T05:48:18Z"
+      "pushed_at": "2026-04-21T08:47:03Z",
+      "updated_at": "2026-04-21T09:10:49Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3171,
+      "stars": 3173,
       "forks": 1003,
       "language": "C++",
-      "pushed_at": "2026-04-21T05:57:53Z",
-      "updated_at": "2026-04-21T05:57:56Z"
+      "pushed_at": "2026-04-21T08:43:55Z",
+      "updated_at": "2026-04-21T08:43:58Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2124,
-      "forks": 238,
+      "stars": 2128,
+      "forks": 239,
       "language": "Go",
-      "pushed_at": "2026-04-21T05:53:48Z",
-      "updated_at": "2026-04-21T05:53:38Z"
+      "pushed_at": "2026-04-21T08:51:52Z",
+      "updated_at": "2026-04-21T08:51:30Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1505,
+      "stars": 1512,
       "forks": 40,
       "language": "Swift",
-      "pushed_at": "2026-04-21T02:07:32Z",
-      "updated_at": "2026-04-21T05:27:11Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1060,
-      "forks": 29,
-      "language": "Swift",
-      "pushed_at": "2026-04-21T04:52:07Z",
-      "updated_at": "2026-04-21T04:52:10Z"
+      "pushed_at": "2026-04-21T08:29:04Z",
+      "updated_at": "2026-04-21T09:07:19Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 526,
+      "stars": 528,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T05:46:17Z",
-      "updated_at": "2026-04-21T04:40:36Z"
+      "pushed_at": "2026-04-21T09:10:30Z",
+      "updated_at": "2026-04-21T09:03:39Z"
     },
     {
-      "id": 575872406,
-      "full_name": "linear-b/gitstream",
-      "html_url": "https://github.com/linear-b/gitstream",
-      "description": "/:\\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.",
-      "stars": 328,
-      "forks": 45,
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 363,
+      "forks": 48,
+      "language": "Swift",
+      "pushed_at": "2026-04-21T08:59:32Z",
+      "updated_at": "2026-04-21T09:21:28Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 295,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-21T08:01:38Z",
+      "updated_at": "2026-04-21T08:25:02Z"
+    },
+    {
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 143,
+      "forks": 38,
       "language": "JavaScript",
-      "pushed_at": "2026-04-21T05:32:35Z",
-      "updated_at": "2026-04-21T05:31:54Z"
+      "pushed_at": "2026-04-21T08:16:02Z",
+      "updated_at": "2026-04-21T09:25:19Z"
     }
   ]
 }
