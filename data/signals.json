@@ -5,62 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 805,
+  "total_found": 806,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18767,
-      "forks": 1624,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-21T13:05:52Z",
-      "updated_at": "2026-04-21T13:05:57Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14492,
-      "forks": 585,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43081,
+      "forks": 2689,
       "language": "C#",
-      "pushed_at": "2026-04-21T12:00:49Z",
-      "updated_at": "2026-04-21T13:17:58Z"
+      "pushed_at": "2026-04-21T16:28:31Z",
+      "updated_at": "2026-04-21T16:28:34Z"
     },
     {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13438,
-      "forks": 1138,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-21T10:32:41Z",
-      "updated_at": "2026-04-21T12:43:23Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 36865,
+      "forks": 822,
+      "language": "Rust",
+      "pushed_at": "2026-04-21T15:51:43Z",
+      "updated_at": "2026-04-21T16:11:32Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 31533,
+      "forks": 1837,
+      "language": "Rust",
+      "pushed_at": "2026-04-21T16:57:48Z",
+      "updated_at": "2026-04-21T17:00:24Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24200,
+      "forks": 2277,
+      "language": "Python",
+      "pushed_at": "2026-04-21T15:56:07Z",
+      "updated_at": "2026-04-21T15:56:11Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10489,
+      "stars": 10494,
       "forks": 1285,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T12:00:46Z",
-      "updated_at": "2026-04-21T12:17:32Z"
+      "pushed_at": "2026-04-21T16:07:18Z",
+      "updated_at": "2026-04-21T16:01:18Z"
     },
     {
       "id": 814882742,
       "full_name": "iib0011/omni-tools",
       "html_url": "https://github.com/iib0011/omni-tools",
       "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9138,
+      "stars": 9140,
       "forks": 604,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T13:21:21Z",
-      "updated_at": "2026-04-21T13:21:27Z"
+      "pushed_at": "2026-04-21T16:36:23Z",
+      "updated_at": "2026-04-21T16:36:29Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 8785,
+      "forks": 525,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-21T15:52:34Z",
+      "updated_at": "2026-04-21T16:58:37Z"
     },
     {
       "id": 129699403,
@@ -70,41 +92,41 @@
       "stars": 5621,
       "forks": 734,
       "language": "Swift",
-      "pushed_at": "2026-04-21T13:23:43Z",
-      "updated_at": "2026-04-21T13:23:48Z"
+      "pushed_at": "2026-04-21T16:29:55Z",
+      "updated_at": "2026-04-21T16:29:57Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5221,
-      "forks": 300,
-      "language": "Vala",
-      "pushed_at": "2026-04-21T10:21:43Z",
-      "updated_at": "2026-04-21T10:21:46Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5139,
+      "forks": 616,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-21T16:15:07Z",
+      "updated_at": "2026-04-21T16:15:12Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3319,
+      "stars": 3328,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-04-21T12:18:24Z",
-      "updated_at": "2026-04-21T13:03:54Z"
+      "pushed_at": "2026-04-21T15:04:21Z",
+      "updated_at": "2026-04-21T16:19:24Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3173,
+      "stars": 3172,
       "forks": 1003,
       "language": "C++",
-      "pushed_at": "2026-04-21T13:21:13Z",
-      "updated_at": "2026-04-21T12:42:31Z"
+      "pushed_at": "2026-04-21T15:58:49Z",
+      "updated_at": "2026-04-21T14:53:13Z"
     },
     {
       "id": 1114821770,
@@ -114,8 +136,19 @@
       "stars": 2844,
       "forks": 325,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T13:18:41Z",
-      "updated_at": "2026-04-21T13:18:43Z"
+      "pushed_at": "2026-04-21T14:59:08Z",
+      "updated_at": "2026-04-21T14:59:11Z"
+    },
+    {
+      "id": 736435794,
+      "full_name": "joshmedeski/sesh",
+      "html_url": "https://github.com/joshmedeski/sesh",
+      "description": "Smart tmux session manager",
+      "stars": 2352,
+      "forks": 103,
+      "language": "Go",
+      "pushed_at": "2026-04-21T14:57:11Z",
+      "updated_at": "2026-04-21T15:51:33Z"
     },
     {
       "id": 323279421,
@@ -125,52 +158,19 @@
       "stars": 1819,
       "forks": 136,
       "language": "Dart",
-      "pushed_at": "2026-04-21T12:11:03Z",
-      "updated_at": "2026-04-21T12:18:25Z"
+      "pushed_at": "2026-04-21T16:04:03Z",
+      "updated_at": "2026-04-21T16:04:08Z"
     },
     {
-      "id": 309097908,
-      "full_name": "25H/Maya",
-      "html_url": "https://github.com/25H/Maya",
-      "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1647,
-      "forks": 127,
-      "language": "Less",
-      "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-04-21T12:27:04Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 528,
-      "forks": 27,
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 460,
+      "forks": 91,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T12:05:32Z",
-      "updated_at": "2026-04-21T12:03:48Z"
-    },
-    {
-      "id": 993178051,
-      "full_name": "Deyweaver/DeyWeaver",
-      "html_url": "https://github.com/Deyweaver/DeyWeaver",
-      "description": "AI-powered task planner to structure your day with smart scheduling.",
-      "stars": 331,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-21T13:19:39Z",
-      "updated_at": "2026-04-21T13:19:42Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Product Management Skills for Claude AI - Save 8-9 hours per week",
-      "stars": 259,
-      "forks": 45,
-      "language": "Shell",
-      "pushed_at": "2026-04-21T13:15:36Z",
-      "updated_at": "2026-04-21T13:15:30Z"
+      "pushed_at": "2026-04-21T16:32:52Z",
+      "updated_at": "2026-04-21T16:00:10Z"
     }
   ]
 }
