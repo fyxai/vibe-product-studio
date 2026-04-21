@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 802,
+  "total_found": 803,
   "items": [
     {
       "id": 164140756,
@@ -15,74 +15,52 @@
       "stars": 43070,
       "forks": 2689,
       "language": "C#",
-      "pushed_at": "2026-04-21T02:14:14Z",
-      "updated_at": "2026-04-21T01:48:42Z"
+      "pushed_at": "2026-04-21T02:44:12Z",
+      "updated_at": "2026-04-21T05:22:33Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36205,
-      "forks": 3643,
+      "stars": 36207,
+      "forks": 3644,
       "language": "C#",
-      "pushed_at": "2026-04-21T02:30:27Z",
-      "updated_at": "2026-04-21T02:30:34Z"
+      "pushed_at": "2026-04-21T02:44:28Z",
+      "updated_at": "2026-04-21T03:36:44Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27568,
-      "forks": 2908,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13953,
+      "forks": 940,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T23:17:04Z",
-      "updated_at": "2026-04-21T02:14:27Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14490,
-      "forks": 585,
-      "language": "C#",
-      "pushed_at": "2026-04-20T23:51:15Z",
-      "updated_at": "2026-04-21T00:30:59Z"
+      "pushed_at": "2026-04-21T05:56:29Z",
+      "updated_at": "2026-04-21T05:55:57Z"
     },
     {
       "id": 810364325,
       "full_name": "plait-board/drawnix",
       "html_url": "https://github.com/plait-board/drawnix",
       "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13437,
+      "stars": 13438,
       "forks": 1137,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T01:55:12Z",
-      "updated_at": "2026-04-21T01:05:04Z"
+      "pushed_at": "2026-04-21T03:24:17Z",
+      "updated_at": "2026-04-21T05:12:04Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10485,
-      "forks": 1284,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 12949,
+      "forks": 1244,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T23:47:12Z",
-      "updated_at": "2026-04-21T02:14:33Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5135,
-      "forks": 615,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-20T23:33:36Z",
-      "updated_at": "2026-04-21T01:43:46Z"
+      "pushed_at": "2026-04-21T05:43:34Z",
+      "updated_at": "2026-04-21T05:59:07Z"
     },
     {
       "id": 119006816,
@@ -92,30 +70,41 @@
       "stars": 5123,
       "forks": 442,
       "language": "Rust",
-      "pushed_at": "2026-04-21T01:09:17Z",
-      "updated_at": "2026-04-21T01:35:44Z"
+      "pushed_at": "2026-04-21T02:56:43Z",
+      "updated_at": "2026-04-21T02:56:39Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4625,
+      "forks": 101,
+      "language": "Rust",
+      "pushed_at": "2026-04-21T05:48:31Z",
+      "updated_at": "2026-04-21T05:48:33Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4190,
-      "forks": 224,
+      "stars": 4197,
+      "forks": 225,
       "language": "Kotlin",
       "pushed_at": "2026-04-21T00:44:48Z",
-      "updated_at": "2026-04-21T02:20:36Z"
+      "updated_at": "2026-04-21T04:13:49Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3288,
+      "stars": 3301,
       "forks": 92,
       "language": "Python",
       "pushed_at": "2026-04-20T23:54:59Z",
-      "updated_at": "2026-04-21T02:31:56Z"
+      "updated_at": "2026-04-21T05:48:18Z"
     },
     {
       "id": 300155217,
@@ -125,52 +114,63 @@
       "stars": 3171,
       "forks": 1003,
       "language": "C++",
-      "pushed_at": "2026-04-21T02:26:22Z",
-      "updated_at": "2026-04-21T02:26:10Z"
+      "pushed_at": "2026-04-21T05:57:53Z",
+      "updated_at": "2026-04-21T05:57:56Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2124,
+      "forks": 238,
+      "language": "Go",
+      "pushed_at": "2026-04-21T05:53:48Z",
+      "updated_at": "2026-04-21T05:53:38Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1503,
+      "stars": 1505,
       "forks": 40,
       "language": "Swift",
       "pushed_at": "2026-04-21T02:07:32Z",
-      "updated_at": "2026-04-21T02:07:37Z"
+      "updated_at": "2026-04-21T05:27:11Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 1060,
+      "forks": 29,
+      "language": "Swift",
+      "pushed_at": "2026-04-21T04:52:07Z",
+      "updated_at": "2026-04-21T04:52:10Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 524,
+      "stars": 526,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-04-21T01:35:40Z",
-      "updated_at": "2026-04-21T01:47:02Z"
+      "pushed_at": "2026-04-21T05:46:17Z",
+      "updated_at": "2026-04-21T04:40:36Z"
     },
     {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "The eye-candy note taking and to-do application for all desktops",
-      "stars": 278,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T23:18:41Z",
-      "updated_at": "2026-04-20T23:18:46Z"
-    },
-    {
-      "id": 1212093880,
-      "full_name": "heyderekj/dinky",
-      "html_url": "https://github.com/heyderekj/dinky",
-      "description": "Dinky makes files smaller.",
-      "stars": 244,
-      "forks": 10,
-      "language": "Swift",
-      "pushed_at": "2026-04-21T01:49:18Z",
-      "updated_at": "2026-04-21T02:05:41Z"
+      "id": 575872406,
+      "full_name": "linear-b/gitstream",
+      "html_url": "https://github.com/linear-b/gitstream",
+      "description": "/:\\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.",
+      "stars": 328,
+      "forks": 45,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-21T05:32:35Z",
+      "updated_at": "2026-04-21T05:31:54Z"
     }
   ]
 }
