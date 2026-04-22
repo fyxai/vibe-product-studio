@@ -8,48 +8,59 @@
   "total_found": 806,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 36907,
-      "forks": 823,
-      "language": "Rust",
-      "pushed_at": "2026-04-22T11:52:40Z",
-      "updated_at": "2026-04-22T13:07:57Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36213,
-      "forks": 3645,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43103,
+      "forks": 2694,
       "language": "C#",
-      "pushed_at": "2026-04-22T11:41:36Z",
-      "updated_at": "2026-04-22T13:19:04Z"
+      "pushed_at": "2026-04-22T15:17:05Z",
+      "updated_at": "2026-04-22T16:24:19Z"
     },
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24752,
-      "forks": 1808,
-      "language": "Vue",
-      "pushed_at": "2026-04-22T12:40:11Z",
-      "updated_at": "2026-04-22T12:15:50Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 32339,
+      "forks": 1883,
+      "language": "Rust",
+      "pushed_at": "2026-04-22T15:34:10Z",
+      "updated_at": "2026-04-22T16:48:57Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24137,
+      "forks": 2278,
+      "language": "Python",
+      "pushed_at": "2026-04-22T16:18:06Z",
+      "updated_at": "2026-04-22T16:18:00Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18786,
+      "forks": 1626,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-22T15:37:00Z",
+      "updated_at": "2026-04-22T16:37:06Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10509,
+      "stars": 10510,
       "forks": 1287,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T10:44:52Z",
-      "updated_at": "2026-04-22T10:57:31Z"
+      "pushed_at": "2026-04-22T15:18:20Z",
+      "updated_at": "2026-04-22T16:47:44Z"
     },
     {
       "id": 129699403,
@@ -59,118 +70,107 @@
       "stars": 5623,
       "forks": 735,
       "language": "Swift",
-      "pushed_at": "2026-04-22T13:21:44Z",
-      "updated_at": "2026-04-22T12:52:38Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4285,
-      "forks": 233,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-22T11:05:14Z",
-      "updated_at": "2026-04-22T13:13:58Z"
-    },
-    {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
-      "stars": 3974,
-      "forks": 325,
-      "language": "PHP",
-      "pushed_at": "2026-04-22T12:27:14Z",
-      "updated_at": "2026-04-22T12:27:19Z"
+      "pushed_at": "2026-04-22T16:58:31Z",
+      "updated_at": "2026-04-22T16:56:33Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3175,
+      "stars": 3176,
       "forks": 1003,
       "language": "C++",
-      "pushed_at": "2026-04-22T12:19:28Z",
-      "updated_at": "2026-04-22T11:43:54Z"
+      "pushed_at": "2026-04-22T16:26:08Z",
+      "updated_at": "2026-04-22T16:24:08Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2152,
+      "forks": 241,
+      "language": "Go",
+      "pushed_at": "2026-04-22T16:54:29Z",
+      "updated_at": "2026-04-22T16:35:18Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1072,
+      "stars": 1074,
       "forks": 29,
       "language": "Swift",
-      "pushed_at": "2026-04-22T12:51:18Z",
-      "updated_at": "2026-04-22T12:51:23Z"
+      "pushed_at": "2026-04-22T15:05:09Z",
+      "updated_at": "2026-04-22T16:11:27Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 917,
+      "id": 1317787,
+      "full_name": "structr/structr",
+      "html_url": "https://github.com/structr/structr",
+      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
+      "stars": 823,
+      "forks": 161,
+      "language": "Java",
+      "pushed_at": "2026-04-22T15:57:02Z",
+      "updated_at": "2026-04-22T15:57:16Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 763,
       "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-04-22T11:54:49Z",
-      "updated_at": "2026-04-22T11:52:52Z"
-    },
-    {
-      "id": 919664598,
-      "full_name": "WINBIGFOX/TimeScribe",
-      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
-      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
-      "stars": 802,
-      "forks": 72,
-      "language": "PHP",
-      "pushed_at": "2026-04-22T11:35:10Z",
-      "updated_at": "2026-04-22T11:35:14Z"
-    },
-    {
-      "id": 1079547517,
-      "full_name": "jezweb/claude-skills",
-      "html_url": "https://github.com/jezweb/claude-skills",
-      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
-      "stars": 743,
-      "forks": 62,
-      "language": "Python",
-      "pushed_at": "2026-04-22T12:46:41Z",
-      "updated_at": "2026-04-22T12:46:45Z"
-    },
-    {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
-      "stars": 628,
-      "forks": 41,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-22T13:05:31Z",
-      "updated_at": "2026-04-22T13:05:39Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-04-22T15:25:36Z",
+      "updated_at": "2026-04-22T15:26:08Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 534,
+      "stars": 535,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T11:26:52Z",
-      "updated_at": "2026-04-22T11:26:55Z"
+      "pushed_at": "2026-04-22T16:34:07Z",
+      "updated_at": "2026-04-22T16:47:43Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 250,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-04-22T13:25:08Z",
-      "updated_at": "2026-04-22T13:25:10Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 483,
+      "forks": 62,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-22T15:47:06Z",
+      "updated_at": "2026-04-22T16:31:16Z"
+    },
+    {
+      "id": 127549111,
+      "full_name": "swdotcom/swdc-vscode",
+      "html_url": "https://github.com/swdotcom/swdc-vscode",
+      "description": "Time-tracking plugin for Visual Studio Code ",
+      "stars": 483,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-22T16:03:27Z",
+      "updated_at": "2026-04-22T16:02:02Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 398,
+      "forks": 49,
+      "language": "PHP",
+      "pushed_at": "2026-04-22T15:40:11Z",
+      "updated_at": "2026-04-22T15:39:09Z"
     }
   ]
 }
