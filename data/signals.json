@@ -5,73 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 806,
+  "total_found": 807,
   "items": [
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121725,
+      "forks": 13392,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-22T19:41:00Z",
+      "updated_at": "2026-04-22T20:41:34Z"
+    },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43103,
+      "stars": 43105,
       "forks": 2694,
       "language": "C#",
-      "pushed_at": "2026-04-22T15:17:05Z",
-      "updated_at": "2026-04-22T16:24:19Z"
+      "pushed_at": "2026-04-22T20:50:25Z",
+      "updated_at": "2026-04-22T20:48:04Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 32339,
-      "forks": 1883,
+      "stars": 32479,
+      "forks": 1888,
       "language": "Rust",
-      "pushed_at": "2026-04-22T15:34:10Z",
-      "updated_at": "2026-04-22T16:48:57Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24137,
-      "forks": 2278,
-      "language": "Python",
-      "pushed_at": "2026-04-22T16:18:06Z",
-      "updated_at": "2026-04-22T16:18:00Z"
+      "pushed_at": "2026-04-22T19:12:33Z",
+      "updated_at": "2026-04-22T20:52:40Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18786,
-      "forks": 1626,
+      "stars": 18790,
+      "forks": 1628,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T15:37:00Z",
-      "updated_at": "2026-04-22T16:37:06Z"
+      "pushed_at": "2026-04-22T20:25:27Z",
+      "updated_at": "2026-04-22T20:17:26Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12857,
+      "forks": 785,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-22T19:43:25Z",
+      "updated_at": "2026-04-22T20:17:25Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10510,
-      "forks": 1287,
+      "stars": 10511,
+      "forks": 1290,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T15:18:20Z",
-      "updated_at": "2026-04-22T16:47:44Z"
+      "pushed_at": "2026-04-22T20:04:21Z",
+      "updated_at": "2026-04-22T20:17:25Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your mobile platform team, as a service",
-      "stars": 5623,
-      "forks": 735,
-      "language": "Swift",
-      "pushed_at": "2026-04-22T16:58:31Z",
-      "updated_at": "2026-04-22T16:56:33Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5139,
+      "forks": 616,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-22T19:37:09Z",
+      "updated_at": "2026-04-22T19:37:14Z"
     },
     {
       "id": 300155217,
@@ -79,98 +90,87 @@
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
       "stars": 3176,
-      "forks": 1003,
+      "forks": 1002,
       "language": "C++",
-      "pushed_at": "2026-04-22T16:26:08Z",
-      "updated_at": "2026-04-22T16:24:08Z"
+      "pushed_at": "2026-04-22T17:59:22Z",
+      "updated_at": "2026-04-22T17:59:27Z"
+    },
+    {
+      "id": 736435794,
+      "full_name": "joshmedeski/sesh",
+      "html_url": "https://github.com/joshmedeski/sesh",
+      "description": "Smart tmux session manager",
+      "stars": 2360,
+      "forks": 103,
+      "language": "Go",
+      "pushed_at": "2026-04-22T20:39:58Z",
+      "updated_at": "2026-04-22T19:20:08Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2152,
+      "stars": 2155,
       "forks": 241,
       "language": "Go",
-      "pushed_at": "2026-04-22T16:54:29Z",
-      "updated_at": "2026-04-22T16:35:18Z"
+      "pushed_at": "2026-04-22T18:46:33Z",
+      "updated_at": "2026-04-22T19:44:44Z"
     },
     {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1074,
-      "forks": 29,
-      "language": "Swift",
-      "pushed_at": "2026-04-22T15:05:09Z",
-      "updated_at": "2026-04-22T16:11:27Z"
-    },
-    {
-      "id": 1317787,
-      "full_name": "structr/structr",
-      "html_url": "https://github.com/structr/structr",
-      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
-      "stars": 823,
-      "forks": 161,
-      "language": "Java",
-      "pushed_at": "2026-04-22T15:57:02Z",
-      "updated_at": "2026-04-22T15:57:16Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 763,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-22T15:25:36Z",
-      "updated_at": "2026-04-22T15:26:08Z"
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1073,
+      "forks": 39,
+      "language": "C++",
+      "pushed_at": "2026-04-22T20:40:37Z",
+      "updated_at": "2026-04-22T20:40:40Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 535,
+      "stars": 536,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T16:34:07Z",
-      "updated_at": "2026-04-22T16:47:43Z"
+      "pushed_at": "2026-04-22T19:00:00Z",
+      "updated_at": "2026-04-22T19:03:52Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 483,
-      "forks": 62,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-22T15:47:06Z",
-      "updated_at": "2026-04-22T16:31:16Z"
-    },
-    {
-      "id": 127549111,
-      "full_name": "swdotcom/swdc-vscode",
-      "html_url": "https://github.com/swdotcom/swdc-vscode",
-      "description": "Time-tracking plugin for Visual Studio Code ",
-      "stars": 483,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-22T16:03:27Z",
-      "updated_at": "2026-04-22T16:02:02Z"
-    },
-    {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 398,
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 379,
       "forks": 49,
-      "language": "PHP",
-      "pushed_at": "2026-04-22T15:40:11Z",
-      "updated_at": "2026-04-22T15:39:09Z"
+      "language": "Swift",
+      "pushed_at": "2026-04-22T19:01:48Z",
+      "updated_at": "2026-04-22T19:52:27Z"
+    },
+    {
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 265,
+      "forks": 11,
+      "language": "Swift",
+      "pushed_at": "2026-04-22T20:32:08Z",
+      "updated_at": "2026-04-22T20:32:12Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 111,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-22T20:51:42Z",
+      "updated_at": "2026-04-22T20:43:56Z"
     }
   ]
 }
