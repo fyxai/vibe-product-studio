@@ -8,70 +8,48 @@
   "total_found": 808,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 33304,
-      "forks": 1953,
-      "language": "Rust",
-      "pushed_at": "2026-04-23T14:54:19Z",
-      "updated_at": "2026-04-23T17:19:25Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27705,
-      "forks": 2918,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121796,
+      "forks": 13411,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T14:43:53Z",
-      "updated_at": "2026-04-23T16:57:34Z"
+      "pushed_at": "2026-04-23T19:38:12Z",
+      "updated_at": "2026-04-23T20:36:47Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24139,
+      "stars": 24140,
       "forks": 2277,
       "language": "Python",
-      "pushed_at": "2026-04-23T16:52:47Z",
-      "updated_at": "2026-04-23T16:11:19Z"
+      "pushed_at": "2026-04-23T20:49:46Z",
+      "updated_at": "2026-04-23T19:10:28Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14508,
-      "forks": 588,
-      "language": "C#",
-      "pushed_at": "2026-04-23T15:54:59Z",
-      "updated_at": "2026-04-23T16:31:32Z"
-    },
-    {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13449,
-      "forks": 1139,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18802,
+      "forks": 1631,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T15:11:11Z",
-      "updated_at": "2026-04-23T16:08:45Z"
+      "pushed_at": "2026-04-23T20:14:16Z",
+      "updated_at": "2026-04-23T20:14:29Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 13044,
-      "forks": 1265,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10520,
+      "forks": 1290,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T15:59:56Z",
-      "updated_at": "2026-04-23T16:46:20Z"
+      "pushed_at": "2026-04-23T18:36:32Z",
+      "updated_at": "2026-04-23T19:51:15Z"
     },
     {
       "id": 129699403,
@@ -81,8 +59,8 @@
       "stars": 5626,
       "forks": 735,
       "language": "Swift",
-      "pushed_at": "2026-04-23T17:11:00Z",
-      "updated_at": "2026-04-23T17:11:04Z"
+      "pushed_at": "2026-04-23T20:11:41Z",
+      "updated_at": "2026-04-23T19:11:01Z"
     },
     {
       "id": 11512043,
@@ -92,30 +70,19 @@
       "stars": 5141,
       "forks": 616,
       "language": "Kotlin",
-      "pushed_at": "2026-04-23T15:17:28Z",
-      "updated_at": "2026-04-23T15:17:47Z"
+      "pushed_at": "2026-04-23T18:50:40Z",
+      "updated_at": "2026-04-23T18:50:44Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2912,
-      "forks": 187,
-      "language": "Python",
-      "pushed_at": "2026-04-23T15:12:46Z",
-      "updated_at": "2026-04-23T15:13:20Z"
-    },
-    {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 2020,
-      "forks": 210,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-23T16:27:24Z",
-      "updated_at": "2026-04-23T16:27:30Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1538,
+      "forks": 41,
+      "language": "Swift",
+      "pushed_at": "2026-04-23T20:35:50Z",
+      "updated_at": "2026-04-23T20:35:57Z"
     },
     {
       "id": 1111978380,
@@ -125,19 +92,19 @@
       "stars": 765,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T16:33:59Z",
-      "updated_at": "2026-04-23T16:34:03Z"
+      "pushed_at": "2026-04-23T20:39:15Z",
+      "updated_at": "2026-04-23T20:39:19Z"
     },
     {
       "id": 588005013,
       "full_name": "Medvedev91/timeto.me",
       "html_url": "https://github.com/Medvedev91/timeto.me",
       "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
-      "stars": 628,
+      "stars": 629,
       "forks": 41,
       "language": "Kotlin",
-      "pushed_at": "2026-04-23T15:12:27Z",
-      "updated_at": "2026-04-23T15:12:48Z"
+      "pushed_at": "2026-04-23T18:19:24Z",
+      "updated_at": "2026-04-23T18:19:29Z"
     },
     {
       "id": 672605495,
@@ -147,19 +114,52 @@
       "stars": 592,
       "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-04-23T16:21:29Z",
-      "updated_at": "2026-04-23T16:21:34Z"
+      "pushed_at": "2026-04-23T20:44:43Z",
+      "updated_at": "2026-04-23T20:44:02Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 251,
-      "forks": 14,
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 401,
+      "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-04-23T16:44:49Z",
-      "updated_at": "2026-04-23T16:37:40Z"
+      "pushed_at": "2026-04-23T18:17:37Z",
+      "updated_at": "2026-04-23T18:17:20Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 399,
+      "forks": 49,
+      "language": "PHP",
+      "pushed_at": "2026-04-23T19:44:46Z",
+      "updated_at": "2026-04-23T20:07:19Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 297,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T20:02:37Z",
+      "updated_at": "2026-04-23T19:14:49Z"
+    },
+    {
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 181,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T18:56:29Z",
+      "updated_at": "2026-04-23T18:56:34Z"
     },
     {
       "id": 737246781,
@@ -169,8 +169,8 @@
       "stars": 122,
       "forks": 12,
       "language": "Kotlin",
-      "pushed_at": "2026-04-23T15:06:36Z",
-      "updated_at": "2026-04-23T15:06:19Z"
+      "pushed_at": "2026-04-23T20:16:29Z",
+      "updated_at": "2026-04-23T20:16:32Z"
     }
   ]
 }
