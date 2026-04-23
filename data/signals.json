@@ -8,169 +8,169 @@
   "total_found": 807,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 164517,
+      "forks": 25543,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-23T02:46:16Z",
+      "updated_at": "2026-04-23T06:04:04Z"
+    },
+    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43111,
+      "stars": 43110,
       "forks": 2695,
       "language": "C#",
-      "pushed_at": "2026-04-23T02:11:37Z",
-      "updated_at": "2026-04-23T01:52:53Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36220,
-      "forks": 3646,
-      "language": "C#",
-      "pushed_at": "2026-04-23T02:24:50Z",
-      "updated_at": "2026-04-23T02:24:57Z"
+      "pushed_at": "2026-04-23T02:40:09Z",
+      "updated_at": "2026-04-23T04:06:16Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27659,
+      "stars": 27665,
       "forks": 2914,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T22:56:45Z",
-      "updated_at": "2026-04-23T02:04:55Z"
+      "pushed_at": "2026-04-23T03:04:10Z",
+      "updated_at": "2026-04-23T04:46:28Z"
     },
     {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13446,
-      "forks": 1139,
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 19815,
+      "forks": 915,
+      "language": "Go",
+      "pushed_at": "2026-04-23T04:16:04Z",
+      "updated_at": "2026-04-23T05:55:15Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13953,
+      "forks": 941,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T01:57:44Z",
-      "updated_at": "2026-04-23T01:57:48Z"
+      "pushed_at": "2026-04-23T05:43:21Z",
+      "updated_at": "2026-04-23T04:51:37Z"
+    },
+    {
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8396,
+      "forks": 927,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T04:00:27Z",
+      "updated_at": "2026-04-23T05:59:14Z"
+    },
+    {
+      "id": 70557651,
+      "full_name": "oliverschwendener/ueli",
+      "html_url": "https://github.com/oliverschwendener/ueli",
+      "description": "Cross-Platform Keystroke Launcher",
+      "stars": 4500,
+      "forks": 276,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T06:04:56Z",
+      "updated_at": "2026-04-23T06:05:00Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4318,
-      "forks": 236,
+      "stars": 4332,
+      "forks": 237,
       "language": "Kotlin",
-      "pushed_at": "2026-04-23T02:20:05Z",
-      "updated_at": "2026-04-23T02:31:08Z"
+      "pushed_at": "2026-04-23T02:50:54Z",
+      "updated_at": "2026-04-23T05:47:41Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3179,
+      "stars": 3178,
       "forks": 1002,
       "language": "C++",
-      "pushed_at": "2026-04-22T22:17:21Z",
-      "updated_at": "2026-04-23T02:34:02Z"
-    },
-    {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2362,
-      "forks": 103,
-      "language": "Go",
-      "pushed_at": "2026-04-22T23:01:13Z",
-      "updated_at": "2026-04-23T01:14:56Z"
+      "pushed_at": "2026-04-23T04:29:10Z",
+      "updated_at": "2026-04-23T04:29:14Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2157,
+      "stars": 2159,
       "forks": 241,
       "language": "Go",
-      "pushed_at": "2026-04-23T02:32:20Z",
-      "updated_at": "2026-04-23T02:32:23Z"
-    },
-    {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1679,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-04-22T23:10:30Z",
-      "updated_at": "2026-04-23T01:54:08Z"
+      "pushed_at": "2026-04-23T04:05:21Z",
+      "updated_at": "2026-04-23T05:23:43Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 764,
+      "stars": 765,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T01:34:41Z",
-      "updated_at": "2026-04-23T01:34:44Z"
+      "pushed_at": "2026-04-23T04:55:42Z",
+      "updated_at": "2026-04-23T04:55:47Z"
     },
     {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 592,
-      "forks": 31,
-      "language": "Rust",
-      "pushed_at": "2026-04-22T23:39:12Z",
-      "updated_at": "2026-04-22T23:39:07Z"
+      "id": 1079547517,
+      "full_name": "jezweb/claude-skills",
+      "html_url": "https://github.com/jezweb/claude-skills",
+      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+      "stars": 744,
+      "forks": 62,
+      "language": "Python",
+      "pushed_at": "2026-04-23T04:34:22Z",
+      "updated_at": "2026-04-23T04:15:04Z"
     },
     {
-      "id": 134258952,
-      "full_name": "lawrencehook/remove-youtube-suggestions",
-      "html_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
-      "description": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
-      "stars": 565,
-      "forks": 58,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-22T23:12:02Z",
-      "updated_at": "2026-04-22T23:10:52Z"
-    },
-    {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 287,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-23T00:10:37Z",
-      "updated_at": "2026-04-23T00:10:41Z"
-    },
-    {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "The eye-candy note taking and to-do application for all desktops",
-      "stars": 278,
-      "forks": 10,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 539,
+      "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-04-22T23:09:17Z",
-      "updated_at": "2026-04-22T23:09:21Z"
+      "pushed_at": "2026-04-23T06:04:58Z",
+      "updated_at": "2026-04-23T05:58:17Z"
     },
     {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 171,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-23T01:06:09Z",
-      "updated_at": "2026-04-23T01:00:13Z"
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.",
+      "stars": 167,
+      "forks": 47,
+      "language": "Rust",
+      "pushed_at": "2026-04-23T03:37:19Z",
+      "updated_at": "2026-04-23T05:45:53Z"
+    },
+    {
+      "id": 1108054886,
+      "full_name": "ReKindleOS/ReKindle",
+      "html_url": "https://github.com/ReKindleOS/ReKindle",
+      "description": "Your Kindle Upgraded",
+      "stars": 127,
+      "forks": 14,
+      "language": "HTML",
+      "pushed_at": "2026-04-23T02:56:39Z",
+      "updated_at": "2026-04-23T02:56:42Z"
     }
   ]
 }
