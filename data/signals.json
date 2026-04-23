@@ -8,114 +8,114 @@
   "total_found": 807,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 164517,
-      "forks": 25543,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-23T02:46:16Z",
-      "updated_at": "2026-04-23T06:04:04Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43110,
-      "forks": 2695,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36223,
+      "forks": 3648,
       "language": "C#",
-      "pushed_at": "2026-04-23T02:40:09Z",
-      "updated_at": "2026-04-23T04:06:16Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 27665,
-      "forks": 2914,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T03:04:10Z",
-      "updated_at": "2026-04-23T04:46:28Z"
-    },
-    {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 19815,
-      "forks": 915,
-      "language": "Go",
-      "pushed_at": "2026-04-23T04:16:04Z",
-      "updated_at": "2026-04-23T05:55:15Z"
+      "pushed_at": "2026-04-23T08:44:13Z",
+      "updated_at": "2026-04-23T09:24:02Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13953,
+      "stars": 13954,
       "forks": 941,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:43:21Z",
-      "updated_at": "2026-04-23T04:51:37Z"
+      "pushed_at": "2026-04-23T09:11:07Z",
+      "updated_at": "2026-04-23T08:17:52Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8396,
-      "forks": 927,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10514,
+      "forks": 1289,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T04:00:27Z",
-      "updated_at": "2026-04-23T05:59:14Z"
+      "pushed_at": "2026-04-23T08:30:58Z",
+      "updated_at": "2026-04-23T08:31:02Z"
     },
     {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4500,
-      "forks": 276,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T06:04:56Z",
-      "updated_at": "2026-04-23T06:05:00Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your mobile platform team, as a service",
+      "stars": 5623,
+      "forks": 735,
+      "language": "Swift",
+      "pushed_at": "2026-04-23T09:25:58Z",
+      "updated_at": "2026-04-23T09:09:30Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4332,
-      "forks": 237,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-23T02:50:54Z",
-      "updated_at": "2026-04-23T05:47:41Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4321,
+      "forks": 882,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-23T06:17:38Z",
+      "updated_at": "2026-04-23T07:53:09Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3178,
+      "stars": 3179,
       "forks": 1002,
       "language": "C++",
-      "pushed_at": "2026-04-23T04:29:10Z",
-      "updated_at": "2026-04-23T04:29:14Z"
+      "pushed_at": "2026-04-23T09:26:35Z",
+      "updated_at": "2026-04-23T08:01:14Z"
+    },
+    {
+      "id": 89676988,
+      "full_name": "mono0926/LicensePlist",
+      "html_url": "https://github.com/mono0926/LicensePlist",
+      "description": "A license list generator of all your dependencies for iOS applications",
+      "stars": 2521,
+      "forks": 151,
+      "language": "Swift",
+      "pushed_at": "2026-04-23T07:04:29Z",
+      "updated_at": "2026-04-23T07:04:33Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2159,
+      "stars": 2161,
       "forks": 241,
       "language": "Go",
-      "pushed_at": "2026-04-23T04:05:21Z",
-      "updated_at": "2026-04-23T05:23:43Z"
+      "pushed_at": "2026-04-23T08:01:04Z",
+      "updated_at": "2026-04-23T09:21:36Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1820,
+      "forks": 136,
+      "language": "Dart",
+      "pushed_at": "2026-04-23T08:38:36Z",
+      "updated_at": "2026-04-23T08:38:40Z"
+    },
+    {
+      "id": 1317787,
+      "full_name": "structr/structr",
+      "html_url": "https://github.com/structr/structr",
+      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
+      "stars": 823,
+      "forks": 161,
+      "language": "Java",
+      "pushed_at": "2026-04-23T09:23:10Z",
+      "updated_at": "2026-04-23T09:23:15Z"
     },
     {
       "id": 1111978380,
@@ -125,19 +125,19 @@
       "stars": 765,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T04:55:42Z",
-      "updated_at": "2026-04-23T04:55:47Z"
+      "pushed_at": "2026-04-23T06:37:06Z",
+      "updated_at": "2026-04-23T06:37:10Z"
     },
     {
-      "id": 1079547517,
-      "full_name": "jezweb/claude-skills",
-      "html_url": "https://github.com/jezweb/claude-skills",
-      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
-      "stars": 744,
-      "forks": 62,
-      "language": "Python",
-      "pushed_at": "2026-04-23T04:34:22Z",
-      "updated_at": "2026-04-23T04:15:04Z"
+      "id": 1164540365,
+      "full_name": "sangrokjung/claude-forge",
+      "html_url": "https://github.com/sangrokjung/claude-forge",
+      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
+      "stars": 659,
+      "forks": 149,
+      "language": "Shell",
+      "pushed_at": "2026-04-23T07:02:11Z",
+      "updated_at": "2026-04-23T07:02:13Z"
     },
     {
       "id": 1125258937,
@@ -147,30 +147,30 @@
       "stars": 539,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T06:04:58Z",
-      "updated_at": "2026-04-23T05:58:17Z"
+      "pushed_at": "2026-04-23T09:22:09Z",
+      "updated_at": "2026-04-23T09:17:12Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.",
-      "stars": 167,
-      "forks": 47,
-      "language": "Rust",
-      "pushed_at": "2026-04-23T03:37:19Z",
-      "updated_at": "2026-04-23T05:45:53Z"
+      "id": 1066853103,
+      "full_name": "tamnguyenvan/screenarc",
+      "html_url": "https://github.com/tamnguyenvan/screenarc",
+      "description": "ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.",
+      "stars": 445,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T07:59:32Z",
+      "updated_at": "2026-04-23T07:59:36Z"
     },
     {
-      "id": 1108054886,
-      "full_name": "ReKindleOS/ReKindle",
-      "html_url": "https://github.com/ReKindleOS/ReKindle",
-      "description": "Your Kindle Upgraded",
-      "stars": 127,
-      "forks": 14,
-      "language": "HTML",
-      "pushed_at": "2026-04-23T02:56:39Z",
-      "updated_at": "2026-04-23T02:56:42Z"
+      "id": 51590636,
+      "full_name": "passbolt/passbolt_browser_extension",
+      "html_url": "https://github.com/passbolt/passbolt_browser_extension",
+      "description": "Browser extensions (Firefox, Edge & Chrome) for Passbolt the open source password manager for teams",
+      "stars": 267,
+      "forks": 91,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-23T07:38:42Z",
+      "updated_at": "2026-04-23T07:38:46Z"
     }
   ]
 }
