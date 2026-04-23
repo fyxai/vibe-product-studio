@@ -8,37 +8,48 @@
   "total_found": 807,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36223,
-      "forks": 3648,
-      "language": "C#",
-      "pushed_at": "2026-04-23T08:44:13Z",
-      "updated_at": "2026-04-23T09:24:02Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18796,
+      "forks": 1632,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T12:14:05Z",
+      "updated_at": "2026-04-23T12:14:09Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 13954,
-      "forks": 941,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T09:11:07Z",
-      "updated_at": "2026-04-23T08:17:52Z"
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17343,
+      "forks": 875,
+      "language": "Python",
+      "pushed_at": "2026-04-23T12:22:35Z",
+      "updated_at": "2026-04-23T12:53:34Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10514,
+      "stars": 10519,
       "forks": 1289,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T08:30:58Z",
-      "updated_at": "2026-04-23T08:31:02Z"
+      "pushed_at": "2026-04-23T13:20:47Z",
+      "updated_at": "2026-04-23T13:21:32Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 5991,
+      "forks": 120,
+      "language": "Swift",
+      "pushed_at": "2026-04-23T12:18:50Z",
+      "updated_at": "2026-04-23T13:23:31Z"
     },
     {
       "id": 129699403,
@@ -48,52 +59,19 @@
       "stars": 5623,
       "forks": 735,
       "language": "Swift",
-      "pushed_at": "2026-04-23T09:25:58Z",
-      "updated_at": "2026-04-23T09:09:30Z"
+      "pushed_at": "2026-04-23T13:27:28Z",
+      "updated_at": "2026-04-23T10:54:33Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4321,
-      "forks": 882,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-23T06:17:38Z",
-      "updated_at": "2026-04-23T07:53:09Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3179,
-      "forks": 1002,
-      "language": "C++",
-      "pushed_at": "2026-04-23T09:26:35Z",
-      "updated_at": "2026-04-23T08:01:14Z"
-    },
-    {
-      "id": 89676988,
-      "full_name": "mono0926/LicensePlist",
-      "html_url": "https://github.com/mono0926/LicensePlist",
-      "description": "A license list generator of all your dependencies for iOS applications",
-      "stars": 2521,
-      "forks": 151,
-      "language": "Swift",
-      "pushed_at": "2026-04-23T07:04:29Z",
-      "updated_at": "2026-04-23T07:04:33Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2161,
-      "forks": 241,
-      "language": "Go",
-      "pushed_at": "2026-04-23T08:01:04Z",
-      "updated_at": "2026-04-23T09:21:36Z"
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4630,
+      "forks": 101,
+      "language": "Rust",
+      "pushed_at": "2026-04-23T12:16:22Z",
+      "updated_at": "2026-04-23T12:34:36Z"
     },
     {
       "id": 323279421,
@@ -103,74 +81,96 @@
       "stars": 1820,
       "forks": 136,
       "language": "Dart",
-      "pushed_at": "2026-04-23T08:38:36Z",
-      "updated_at": "2026-04-23T08:38:40Z"
+      "pushed_at": "2026-04-23T13:01:57Z",
+      "updated_at": "2026-04-23T13:02:02Z"
     },
     {
-      "id": 1317787,
-      "full_name": "structr/structr",
-      "html_url": "https://github.com/structr/structr",
-      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
-      "stars": 823,
-      "forks": 161,
-      "language": "Java",
-      "pushed_at": "2026-04-23T09:23:10Z",
-      "updated_at": "2026-04-23T09:23:15Z"
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1075,
+      "forks": 26,
+      "language": "Rust",
+      "pushed_at": "2026-04-23T12:15:49Z",
+      "updated_at": "2026-04-23T12:15:52Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 765,
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 921,
       "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T06:37:06Z",
-      "updated_at": "2026-04-23T06:37:10Z"
+      "language": "Rust",
+      "pushed_at": "2026-04-23T11:56:00Z",
+      "updated_at": "2026-04-23T13:16:15Z"
     },
     {
-      "id": 1164540365,
-      "full_name": "sangrokjung/claude-forge",
-      "html_url": "https://github.com/sangrokjung/claude-forge",
-      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-      "stars": 659,
-      "forks": 149,
-      "language": "Shell",
-      "pushed_at": "2026-04-23T07:02:11Z",
-      "updated_at": "2026-04-23T07:02:13Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 539,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T09:22:09Z",
-      "updated_at": "2026-04-23T09:17:12Z"
-    },
-    {
-      "id": 1066853103,
-      "full_name": "tamnguyenvan/screenarc",
-      "html_url": "https://github.com/tamnguyenvan/screenarc",
-      "description": "ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.",
-      "stars": 445,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T07:59:32Z",
-      "updated_at": "2026-04-23T07:59:36Z"
-    },
-    {
-      "id": 51590636,
-      "full_name": "passbolt/passbolt_browser_extension",
-      "html_url": "https://github.com/passbolt/passbolt_browser_extension",
-      "description": "Browser extensions (Firefox, Edge & Chrome) for Passbolt the open source password manager for teams",
-      "stars": 267,
-      "forks": 91,
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 749,
+      "forks": 82,
       "language": "JavaScript",
-      "pushed_at": "2026-04-23T07:38:42Z",
-      "updated_at": "2026-04-23T07:38:46Z"
+      "pushed_at": "2026-04-23T13:24:32Z",
+      "updated_at": "2026-04-23T13:25:13Z"
+    },
+    {
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 628,
+      "forks": 41,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-23T13:18:38Z",
+      "updated_at": "2026-04-23T11:37:01Z"
+    },
+    {
+      "id": 672605495,
+      "full_name": "iffse/pay-respects",
+      "html_url": "https://github.com/iffse/pay-respects",
+      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
+      "stars": 592,
+      "forks": 31,
+      "language": "Rust",
+      "pushed_at": "2026-04-23T13:13:47Z",
+      "updated_at": "2026-04-23T12:55:04Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 332,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T10:50:59Z",
+      "updated_at": "2026-04-23T13:06:37Z"
+    },
+    {
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 244,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T12:26:56Z",
+      "updated_at": "2026-04-23T12:25:56Z"
+    },
+    {
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 182,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T13:23:01Z",
+      "updated_at": "2026-04-23T11:14:15Z"
     }
   ]
 }
