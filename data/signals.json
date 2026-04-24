@@ -8,59 +8,59 @@
   "total_found": 808,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121796,
-      "forks": 13411,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T19:38:12Z",
-      "updated_at": "2026-04-23T20:36:47Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36239,
+      "forks": 3648,
+      "language": "C#",
+      "pushed_at": "2026-04-24T02:30:15Z",
+      "updated_at": "2026-04-24T02:28:15Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24140,
-      "forks": 2277,
-      "language": "Python",
-      "pushed_at": "2026-04-23T20:49:46Z",
-      "updated_at": "2026-04-23T19:10:28Z"
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18137,
+      "forks": 1461,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-23T22:50:19Z",
+      "updated_at": "2026-04-24T00:50:55Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18802,
-      "forks": 1631,
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 13451,
+      "forks": 1139,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T20:14:16Z",
-      "updated_at": "2026-04-23T20:14:29Z"
+      "pushed_at": "2026-04-24T02:32:21Z",
+      "updated_at": "2026-04-24T02:10:53Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10520,
+      "stars": 10523,
       "forks": 1290,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T18:36:32Z",
-      "updated_at": "2026-04-23T19:51:15Z"
+      "pushed_at": "2026-04-23T23:49:45Z",
+      "updated_at": "2026-04-23T23:51:07Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your mobile platform team, as a service",
-      "stars": 5626,
-      "forks": 735,
-      "language": "Swift",
-      "pushed_at": "2026-04-23T20:11:41Z",
-      "updated_at": "2026-04-23T19:11:01Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 8998,
+      "forks": 534,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T01:35:24Z",
+      "updated_at": "2026-04-24T02:29:45Z"
     },
     {
       "id": 11512043,
@@ -70,19 +70,19 @@
       "stars": 5141,
       "forks": 616,
       "language": "Kotlin",
-      "pushed_at": "2026-04-23T18:50:40Z",
-      "updated_at": "2026-04-23T18:50:44Z"
+      "pushed_at": "2026-04-24T01:53:10Z",
+      "updated_at": "2026-04-24T01:53:15Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1538,
-      "forks": 41,
-      "language": "Swift",
-      "pushed_at": "2026-04-23T20:35:50Z",
-      "updated_at": "2026-04-23T20:35:57Z"
+      "id": 2057515,
+      "full_name": "TracksApp/tracks",
+      "html_url": "https://github.com/TracksApp/tracks",
+      "description": "Tracks is a GTD™ web application, built with Ruby on Rails",
+      "stars": 1227,
+      "forks": 531,
+      "language": "Ruby",
+      "pushed_at": "2026-04-24T00:16:39Z",
+      "updated_at": "2026-04-24T02:20:40Z"
     },
     {
       "id": 1111978380,
@@ -92,19 +92,19 @@
       "stars": 765,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T20:39:15Z",
-      "updated_at": "2026-04-23T20:39:19Z"
+      "pushed_at": "2026-04-23T22:23:35Z",
+      "updated_at": "2026-04-23T22:23:40Z"
     },
     {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
-      "stars": 629,
-      "forks": 41,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-23T18:19:24Z",
-      "updated_at": "2026-04-23T18:19:29Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 735,
+      "forks": 73,
+      "language": "Python",
+      "pushed_at": "2026-04-24T02:31:13Z",
+      "updated_at": "2026-04-24T02:31:17Z"
     },
     {
       "id": 672605495,
@@ -114,63 +114,63 @@
       "stars": 592,
       "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-04-23T20:44:43Z",
-      "updated_at": "2026-04-23T20:44:02Z"
+      "pushed_at": "2026-04-24T00:50:57Z",
+      "updated_at": "2026-04-24T00:51:01Z"
     },
     {
-      "id": 1113746923,
-      "full_name": "kriuchkov/tock",
-      "html_url": "https://github.com/kriuchkov/tock",
-      "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 401,
-      "forks": 17,
-      "language": "Go",
-      "pushed_at": "2026-04-23T18:17:37Z",
-      "updated_at": "2026-04-23T18:17:20Z"
+      "id": 986669929,
+      "full_name": "ysm-dev/cpdown",
+      "html_url": "https://github.com/ysm-dev/cpdown",
+      "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
+      "stars": 535,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T02:14:01Z",
+      "updated_at": "2026-04-24T02:14:05Z"
     },
     {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 399,
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 431,
+      "forks": 26,
+      "language": "Shell",
+      "pushed_at": "2026-04-24T01:18:17Z",
+      "updated_at": "2026-04-24T01:12:04Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 388,
       "forks": 49,
-      "language": "PHP",
-      "pushed_at": "2026-04-23T19:44:46Z",
-      "updated_at": "2026-04-23T20:07:19Z"
+      "language": "Swift",
+      "pushed_at": "2026-04-24T00:39:26Z",
+      "updated_at": "2026-04-24T01:06:59Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 297,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T20:02:37Z",
-      "updated_at": "2026-04-23T19:14:49Z"
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 281,
+      "forks": 11,
+      "language": "Swift",
+      "pushed_at": "2026-04-23T22:26:04Z",
+      "updated_at": "2026-04-24T01:05:55Z"
     },
     {
-      "id": 1048106675,
-      "full_name": "vasylenko/bear-notes-mcp",
-      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
-      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
-      "stars": 181,
-      "forks": 18,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T18:56:29Z",
-      "updated_at": "2026-04-23T18:56:34Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 122,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-23T20:16:29Z",
-      "updated_at": "2026-04-23T20:16:32Z"
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 171,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-04-24T01:51:33Z",
+      "updated_at": "2026-04-24T01:47:40Z"
     }
   ]
 }
