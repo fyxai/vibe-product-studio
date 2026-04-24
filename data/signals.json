@@ -5,95 +5,117 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 808,
+  "total_found": 809,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43128,
-      "forks": 2698,
-      "language": "C#",
-      "pushed_at": "2026-04-24T04:07:33Z",
-      "updated_at": "2026-04-24T05:58:42Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121847,
+      "forks": 13417,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T07:13:49Z",
+      "updated_at": "2026-04-24T09:40:15Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36239,
+      "stars": 36243,
       "forks": 3648,
       "language": "C#",
       "pushed_at": "2026-04-24T05:14:41Z",
-      "updated_at": "2026-04-24T06:05:47Z"
+      "updated_at": "2026-04-24T09:39:27Z"
     },
     {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13450,
-      "forks": 1138,
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24779,
+      "forks": 1811,
+      "language": "Vue",
+      "pushed_at": "2026-04-24T09:25:03Z",
+      "updated_at": "2026-04-24T09:39:33Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13961,
+      "forks": 942,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T03:09:35Z",
-      "updated_at": "2026-04-24T04:31:47Z"
+      "pushed_at": "2026-04-24T06:50:03Z",
+      "updated_at": "2026-04-24T07:59:51Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 13052,
-      "forks": 1265,
+      "stars": 13058,
+      "forks": 1267,
       "language": "TypeScript",
       "pushed_at": "2026-04-24T05:46:01Z",
-      "updated_at": "2026-04-24T05:54:17Z"
+      "updated_at": "2026-04-24T09:32:44Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 9014,
-      "forks": 536,
+      "stars": 9037,
+      "forks": 537,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T06:03:18Z",
-      "updated_at": "2026-04-24T06:03:44Z"
+      "pushed_at": "2026-04-24T09:05:28Z",
+      "updated_at": "2026-04-24T09:43:38Z"
     },
     {
-      "id": 49516849,
-      "full_name": "xwmx/nb",
-      "html_url": "https://github.com/xwmx/nb",
-      "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
-      "stars": 8124,
-      "forks": 246,
-      "language": "Shell",
-      "pushed_at": "2026-04-24T03:07:28Z",
-      "updated_at": "2026-04-24T03:07:34Z"
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
+      "stars": 6689,
+      "forks": 250,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T07:17:37Z",
+      "updated_at": "2026-04-24T07:24:01Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5142,
-      "forks": 616,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-24T01:53:10Z",
-      "updated_at": "2026-04-24T04:16:53Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your mobile platform team, as a service",
+      "stars": 5628,
+      "forks": 735,
+      "language": "Swift",
+      "pushed_at": "2026-04-24T09:43:48Z",
+      "updated_at": "2026-04-24T09:43:51Z"
     },
     {
-      "id": 1094171135,
-      "full_name": "dtsola/xiaoyaosearch",
-      "html_url": "https://github.com/dtsola/xiaoyaosearch",
-      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
-      "stars": 977,
-      "forks": 71,
-      "language": "Python",
-      "pushed_at": "2026-04-24T04:08:21Z",
-      "updated_at": "2026-04-24T04:01:39Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2888,
+      "forks": 331,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T09:03:38Z",
+      "updated_at": "2026-04-24T09:03:40Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2168,
+      "forks": 243,
+      "language": "Go",
+      "pushed_at": "2026-04-24T08:25:53Z",
+      "updated_at": "2026-04-24T09:33:09Z"
     },
     {
       "id": 1111978380,
@@ -103,19 +125,19 @@
       "stars": 765,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T05:38:39Z",
-      "updated_at": "2026-04-24T04:57:07Z"
+      "pushed_at": "2026-04-24T07:22:49Z",
+      "updated_at": "2026-04-24T07:22:53Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 736,
-      "forks": 73,
-      "language": "Python",
-      "pushed_at": "2026-04-24T02:31:13Z",
-      "updated_at": "2026-04-24T02:36:46Z"
+      "id": 1164540365,
+      "full_name": "sangrokjung/claude-forge",
+      "html_url": "https://github.com/sangrokjung/claude-forge",
+      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
+      "stars": 660,
+      "forks": 149,
+      "language": "Shell",
+      "pushed_at": "2026-04-24T08:52:39Z",
+      "updated_at": "2026-04-24T08:52:41Z"
     },
     {
       "id": 1125258937,
@@ -125,52 +147,30 @@
       "stars": 546,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T06:03:02Z",
-      "updated_at": "2026-04-24T06:03:04Z"
+      "pushed_at": "2026-04-24T08:57:30Z",
+      "updated_at": "2026-04-24T08:55:23Z"
     },
     {
-      "id": 986669929,
-      "full_name": "ysm-dev/cpdown",
-      "html_url": "https://github.com/ysm-dev/cpdown",
-      "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
-      "stars": 535,
-      "forks": 24,
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 396,
+      "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T02:14:01Z",
-      "updated_at": "2026-04-24T02:14:05Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 388,
-      "forks": 49,
-      "language": "Swift",
-      "pushed_at": "2026-04-24T04:30:33Z",
-      "updated_at": "2026-04-24T04:30:37Z"
+      "pushed_at": "2026-04-24T08:26:58Z",
+      "updated_at": "2026-04-24T09:31:26Z"
     },
     {
       "id": 1175591394,
       "full_name": "juyterman1000/entroly",
       "html_url": "https://github.com/juyterman1000/entroly",
       "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.",
-      "stars": 289,
+      "stars": 291,
       "forks": 55,
       "language": "Rust",
       "pushed_at": "2026-04-24T05:43:23Z",
-      "updated_at": "2026-04-24T05:43:26Z"
-    },
-    {
-      "id": 1212093880,
-      "full_name": "heyderekj/dinky",
-      "html_url": "https://github.com/heyderekj/dinky",
-      "description": "Dinky makes files smaller.",
-      "stars": 282,
-      "forks": 11,
-      "language": "Swift",
-      "pushed_at": "2026-04-24T03:22:13Z",
-      "updated_at": "2026-04-24T05:48:45Z"
+      "updated_at": "2026-04-24T09:40:44Z"
     }
   ]
 }
