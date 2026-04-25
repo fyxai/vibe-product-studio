@@ -8,103 +8,147 @@
   "total_found": 810,
   "items": [
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 19872,
-      "forks": 923,
-      "language": "Go",
-      "pushed_at": "2026-04-24T23:24:45Z",
-      "updated_at": "2026-04-25T04:40:21Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121906,
+      "forks": 13428,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T08:48:47Z",
+      "updated_at": "2026-04-25T08:40:38Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36267,
+      "forks": 3649,
+      "language": "C#",
+      "pushed_at": "2026-04-25T07:28:00Z",
+      "updated_at": "2026-04-25T08:44:19Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 34955,
+      "forks": 2124,
+      "language": "Rust",
+      "pushed_at": "2026-04-25T08:32:27Z",
+      "updated_at": "2026-04-25T08:50:31Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24793,
+      "forks": 1811,
+      "language": "Vue",
+      "pushed_at": "2026-04-25T08:15:48Z",
+      "updated_at": "2026-04-25T08:37:38Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 13076,
+      "stars": 13080,
       "forks": 1267,
       "language": "TypeScript",
       "pushed_at": "2026-04-25T05:45:19Z",
-      "updated_at": "2026-04-25T05:47:18Z"
+      "updated_at": "2026-04-25T08:34:50Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
-      "stars": 6692,
-      "forks": 251,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T01:40:25Z",
-      "updated_at": "2026-04-25T03:49:27Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6007,
+      "forks": 124,
+      "language": "Swift",
+      "pushed_at": "2026-04-25T06:47:58Z",
+      "updated_at": "2026-04-25T08:02:45Z"
+    },
+    {
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 5982,
+      "forks": 318,
+      "language": "Swift",
+      "pushed_at": "2026-04-25T07:54:26Z",
+      "updated_at": "2026-04-25T07:54:30Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your mobile platform team, as a service",
+      "stars": 5628,
+      "forks": 736,
+      "language": "Swift",
+      "pushed_at": "2026-04-25T08:29:51Z",
+      "updated_at": "2026-04-25T08:29:55Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5142,
+      "stars": 5143,
       "forks": 616,
       "language": "Kotlin",
       "pushed_at": "2026-04-25T03:47:23Z",
-      "updated_at": "2026-04-25T05:07:21Z"
+      "updated_at": "2026-04-25T08:25:30Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3514,
+      "stars": 3521,
       "forks": 100,
       "language": "Python",
       "pushed_at": "2026-04-25T02:09:19Z",
-      "updated_at": "2026-04-25T05:14:56Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3157,
-      "forks": 146,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-25T01:02:01Z",
-      "updated_at": "2026-04-24T23:57:31Z"
+      "updated_at": "2026-04-25T08:29:56Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2174,
-      "forks": 243,
+      "stars": 2175,
+      "forks": 244,
       "language": "Go",
       "pushed_at": "2026-04-25T03:01:43Z",
-      "updated_at": "2026-04-25T04:00:00Z"
+      "updated_at": "2026-04-25T07:22:54Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1088,
+      "stars": 1089,
       "forks": 30,
       "language": "Swift",
       "pushed_at": "2026-04-25T05:19:41Z",
-      "updated_at": "2026-04-25T05:19:44Z"
+      "updated_at": "2026-04-25T07:33:56Z"
     },
     {
       "id": 1177941774,
       "full_name": "wm94i/Work_Review",
       "html_url": "https://github.com/wm94i/Work_Review",
       "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 994,
+      "stars": 996,
       "forks": 56,
       "language": "Rust",
       "pushed_at": "2026-04-25T03:07:41Z",
-      "updated_at": "2026-04-25T03:07:45Z"
+      "updated_at": "2026-04-25T06:41:12Z"
     },
     {
       "id": 1111978380,
@@ -114,19 +158,8 @@
       "stars": 765,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T01:33:45Z",
-      "updated_at": "2026-04-25T01:33:50Z"
-    },
-    {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 759,
-      "forks": 81,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-25T00:19:09Z",
-      "updated_at": "2026-04-25T00:19:14Z"
+      "pushed_at": "2026-04-25T06:18:08Z",
+      "updated_at": "2026-04-25T06:18:13Z"
     },
     {
       "id": 226175035,
@@ -138,39 +171,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-04-25T04:43:15Z",
       "updated_at": "2026-04-25T04:43:19Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Custom Providers",
-      "stars": 295,
-      "forks": 55,
-      "language": "Rust",
-      "pushed_at": "2026-04-25T02:51:36Z",
-      "updated_at": "2026-04-25T02:51:41Z"
-    },
-    {
-      "id": 1190557545,
-      "full_name": "eugeniughelbur/obsidian-second-brain",
-      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-      "description": "A Claude Code skill that turns your Obsidian vault into a living second brain — autonomous writes, thinking tools, knowledge ingestion, scheduled agents, and _CLAUDE.md for cross-surface context.",
-      "stars": 274,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-04-25T00:45:10Z",
-      "updated_at": "2026-04-25T05:42:41Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-25T01:49:32Z",
-      "updated_at": "2026-04-25T01:49:36Z"
     }
   ]
 }
