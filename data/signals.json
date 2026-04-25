@@ -12,165 +12,165 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121906,
-      "forks": 13428,
+      "stars": 121923,
+      "forks": 13430,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T08:48:47Z",
-      "updated_at": "2026-04-25T08:40:38Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36267,
-      "forks": 3649,
-      "language": "C#",
-      "pushed_at": "2026-04-25T07:28:00Z",
-      "updated_at": "2026-04-25T08:44:19Z"
+      "pushed_at": "2026-04-25T10:03:52Z",
+      "updated_at": "2026-04-25T12:59:35Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 34955,
-      "forks": 2124,
+      "stars": 35116,
+      "forks": 2134,
       "language": "Rust",
       "pushed_at": "2026-04-25T08:32:27Z",
-      "updated_at": "2026-04-25T08:50:31Z"
+      "updated_at": "2026-04-25T12:57:50Z"
     },
     {
       "id": 343078060,
       "full_name": "Lissy93/dashy",
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24793,
-      "forks": 1811,
+      "stars": 24794,
+      "forks": 1812,
       "language": "Vue",
-      "pushed_at": "2026-04-25T08:15:48Z",
-      "updated_at": "2026-04-25T08:37:38Z"
+      "pushed_at": "2026-04-25T12:24:37Z",
+      "updated_at": "2026-04-25T11:29:15Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 13080,
-      "forks": 1267,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18828,
+      "forks": 1633,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T05:45:19Z",
-      "updated_at": "2026-04-25T08:34:50Z"
+      "pushed_at": "2026-04-25T12:29:08Z",
+      "updated_at": "2026-04-25T12:34:01Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12870,
+      "forks": 787,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T12:23:16Z",
+      "updated_at": "2026-04-25T12:23:20Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10534,
+      "forks": 1290,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T10:11:56Z",
+      "updated_at": "2026-04-25T12:02:43Z"
     },
     {
       "id": 375653778,
       "full_name": "linearmouse/linearmouse",
       "html_url": "https://github.com/linearmouse/linearmouse",
       "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6007,
+      "stars": 6011,
       "forks": 124,
       "language": "Swift",
-      "pushed_at": "2026-04-25T06:47:58Z",
-      "updated_at": "2026-04-25T08:02:45Z"
-    },
-    {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 5982,
-      "forks": 318,
-      "language": "Swift",
-      "pushed_at": "2026-04-25T07:54:26Z",
-      "updated_at": "2026-04-25T07:54:30Z"
+      "pushed_at": "2026-04-25T11:11:36Z",
+      "updated_at": "2026-04-25T12:36:23Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
-      "description": "Your mobile platform team, as a service",
+      "description": "Your platform team, as a service",
       "stars": 5628,
       "forks": 736,
       "language": "Swift",
-      "pushed_at": "2026-04-25T08:29:51Z",
-      "updated_at": "2026-04-25T08:29:55Z"
+      "pushed_at": "2026-04-25T11:52:37Z",
+      "updated_at": "2026-04-25T11:16:21Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5238,
+      "forks": 302,
+      "language": "Vala",
+      "pushed_at": "2026-04-25T11:15:57Z",
+      "updated_at": "2026-04-25T11:16:00Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5143,
+      "stars": 5144,
       "forks": 616,
       "language": "Kotlin",
-      "pushed_at": "2026-04-25T03:47:23Z",
-      "updated_at": "2026-04-25T08:25:30Z"
+      "pushed_at": "2026-04-25T10:34:20Z",
+      "updated_at": "2026-04-25T10:34:25Z"
+    },
+    {
+      "id": 37319088,
+      "full_name": "johnste/finicky",
+      "html_url": "https://github.com/johnste/finicky",
+      "description": "A macOS app for customizing which browser to start",
+      "stars": 4764,
+      "forks": 190,
+      "language": "Go",
+      "pushed_at": "2026-04-25T13:01:45Z",
+      "updated_at": "2026-04-25T13:01:50Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3521,
+      "stars": 3527,
       "forks": 100,
       "language": "Python",
-      "pushed_at": "2026-04-25T02:09:19Z",
-      "updated_at": "2026-04-25T08:29:56Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2175,
-      "forks": 244,
-      "language": "Go",
-      "pushed_at": "2026-04-25T03:01:43Z",
-      "updated_at": "2026-04-25T07:22:54Z"
-    },
-    {
-      "id": 1111053300,
-      "full_name": "yuzeguitarist/Deck",
-      "html_url": "https://github.com/yuzeguitarist/Deck",
-      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1089,
-      "forks": 30,
-      "language": "Swift",
-      "pushed_at": "2026-04-25T05:19:41Z",
-      "updated_at": "2026-04-25T07:33:56Z"
+      "pushed_at": "2026-04-25T12:12:28Z",
+      "updated_at": "2026-04-25T12:50:03Z"
     },
     {
       "id": 1177941774,
       "full_name": "wm94i/Work_Review",
       "html_url": "https://github.com/wm94i/Work_Review",
       "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 996,
+      "stars": 995,
       "forks": 56,
       "language": "Rust",
-      "pushed_at": "2026-04-25T03:07:41Z",
-      "updated_at": "2026-04-25T06:41:12Z"
+      "pushed_at": "2026-04-25T12:51:46Z",
+      "updated_at": "2026-04-25T12:51:50Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 765,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T06:18:08Z",
-      "updated_at": "2026-04-25T06:18:13Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 957,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-04-25T13:00:10Z",
+      "updated_at": "2026-04-25T13:00:14Z"
     },
     {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 317,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T04:43:15Z",
-      "updated_at": "2026-04-25T04:43:19Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 729,
+      "forks": 31,
+      "language": "Java",
+      "pushed_at": "2026-04-25T12:31:29Z",
+      "updated_at": "2026-04-25T12:31:37Z"
     }
   ]
 }
