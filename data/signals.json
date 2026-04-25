@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 810,
+  "total_found": 811,
   "items": [
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121923,
-      "forks": 13430,
+      "stars": 121937,
+      "forks": 13431,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T10:03:52Z",
-      "updated_at": "2026-04-25T12:59:35Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 35116,
-      "forks": 2134,
-      "language": "Rust",
-      "pushed_at": "2026-04-25T08:32:27Z",
-      "updated_at": "2026-04-25T12:57:50Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24794,
-      "forks": 1812,
-      "language": "Vue",
-      "pushed_at": "2026-04-25T12:24:37Z",
-      "updated_at": "2026-04-25T11:29:15Z"
+      "pushed_at": "2026-04-25T16:04:23Z",
+      "updated_at": "2026-04-25T16:30:41Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18828,
+      "stars": 18834,
       "forks": 1633,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T12:29:08Z",
-      "updated_at": "2026-04-25T12:34:01Z"
+      "pushed_at": "2026-04-25T14:14:59Z",
+      "updated_at": "2026-04-25T15:35:37Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 12870,
+      "stars": 12871,
       "forks": 787,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T12:23:16Z",
-      "updated_at": "2026-04-25T12:23:20Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10534,
-      "forks": 1290,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T10:11:56Z",
-      "updated_at": "2026-04-25T12:02:43Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6011,
-      "forks": 124,
-      "language": "Swift",
-      "pushed_at": "2026-04-25T11:11:36Z",
-      "updated_at": "2026-04-25T12:36:23Z"
+      "pushed_at": "2026-04-25T16:37:56Z",
+      "updated_at": "2026-04-25T16:37:59Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5628,
+      "stars": 5627,
       "forks": 736,
       "language": "Swift",
-      "pushed_at": "2026-04-25T11:52:37Z",
-      "updated_at": "2026-04-25T11:16:21Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5238,
-      "forks": 302,
-      "language": "Vala",
-      "pushed_at": "2026-04-25T11:15:57Z",
-      "updated_at": "2026-04-25T11:16:00Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5144,
-      "forks": 616,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-25T10:34:20Z",
-      "updated_at": "2026-04-25T10:34:25Z"
+      "pushed_at": "2026-04-25T14:32:17Z",
+      "updated_at": "2026-04-25T16:39:15Z"
     },
     {
       "id": 37319088,
       "full_name": "johnste/finicky",
       "html_url": "https://github.com/johnste/finicky",
       "description": "A macOS app for customizing which browser to start",
-      "stars": 4764,
+      "stars": 4765,
       "forks": 190,
       "language": "Go",
-      "pushed_at": "2026-04-25T13:01:45Z",
-      "updated_at": "2026-04-25T13:01:50Z"
+      "pushed_at": "2026-04-25T14:55:30Z",
+      "updated_at": "2026-04-25T14:53:25Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4439,
+      "forks": 246,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-25T16:39:23Z",
+      "updated_at": "2026-04-25T16:39:26Z"
     },
     {
       "id": 1166160145,
       "full_name": "TomBadash/Mouser",
       "html_url": "https://github.com/TomBadash/Mouser",
       "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3527,
+      "stars": 3535,
       "forks": 100,
       "language": "Python",
-      "pushed_at": "2026-04-25T12:12:28Z",
-      "updated_at": "2026-04-25T12:50:03Z"
+      "pushed_at": "2026-04-25T13:20:02Z",
+      "updated_at": "2026-04-25T16:02:58Z"
+    },
+    {
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
+      "stars": 1876,
+      "forks": 126,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T15:37:37Z",
+      "updated_at": "2026-04-25T15:37:41Z"
     },
     {
       "id": 1177941774,
       "full_name": "wm94i/Work_Review",
       "html_url": "https://github.com/wm94i/Work_Review",
       "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 995,
+      "stars": 998,
       "forks": 56,
       "language": "Rust",
       "pushed_at": "2026-04-25T12:51:46Z",
-      "updated_at": "2026-04-25T12:51:50Z"
+      "updated_at": "2026-04-25T14:51:35Z"
     },
     {
       "id": 860188605,
       "full_name": "iwe-org/iwe",
       "html_url": "https://github.com/iwe-org/iwe",
       "description": "Markdown memory system for you and your AI agent",
-      "stars": 957,
+      "stars": 958,
       "forks": 41,
       "language": "Rust",
-      "pushed_at": "2026-04-25T13:00:10Z",
-      "updated_at": "2026-04-25T13:00:14Z"
+      "pushed_at": "2026-04-25T13:19:41Z",
+      "updated_at": "2026-04-25T13:35:04Z"
     },
     {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization.",
-      "stars": 729,
-      "forks": 31,
-      "language": "Java",
-      "pushed_at": "2026-04-25T12:31:29Z",
-      "updated_at": "2026-04-25T12:31:37Z"
+      "id": 508154786,
+      "full_name": "nvh95/vitest-preview",
+      "html_url": "https://github.com/nvh95/vitest-preview",
+      "description": "Debug your Vitest tests. Effortlessly. 🧪🖼⚡️",
+      "stars": 391,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T15:10:56Z",
+      "updated_at": "2026-04-25T15:11:00Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 390,
+      "forks": 49,
+      "language": "Swift",
+      "pushed_at": "2026-04-25T15:18:54Z",
+      "updated_at": "2026-04-25T15:18:57Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 330,
+      "forks": 29,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-25T12:33:18Z",
+      "updated_at": "2026-04-25T12:33:23Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T13:09:53Z",
+      "updated_at": "2026-04-25T13:09:57Z"
+    },
+    {
+      "id": 1202874035,
+      "full_name": "10xChengTu/input0",
+      "html_url": "https://github.com/10xChengTu/input0",
+      "description": "Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.",
+      "stars": 192,
+      "forks": 8,
+      "language": "Rust",
+      "pushed_at": "2026-04-25T14:59:49Z",
+      "updated_at": "2026-04-25T14:57:17Z"
     }
   ]
 }
