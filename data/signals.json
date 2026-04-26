@@ -8,158 +8,147 @@
   "total_found": 815,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 186494,
-      "forks": 26360,
-      "language": "Shell",
-      "pushed_at": "2026-04-26T06:47:07Z",
-      "updated_at": "2026-04-26T07:52:22Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 37065,
-      "forks": 830,
-      "language": "Rust",
-      "pushed_at": "2026-04-26T08:22:18Z",
-      "updated_at": "2026-04-26T08:18:49Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10535,
-      "forks": 1292,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 121983,
+      "forks": 13435,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T08:47:05Z",
-      "updated_at": "2026-04-26T08:47:10Z"
+      "pushed_at": "2026-04-26T11:19:04Z",
+      "updated_at": "2026-04-26T12:34:24Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5629,
-      "forks": 736,
-      "language": "Swift",
-      "pushed_at": "2026-04-26T08:52:53Z",
-      "updated_at": "2026-04-26T08:50:24Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 35834,
+      "forks": 2172,
+      "language": "Rust",
+      "pushed_at": "2026-04-26T11:27:56Z",
+      "updated_at": "2026-04-26T13:03:41Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24825,
+      "forks": 1816,
+      "language": "Vue",
+      "pushed_at": "2026-04-26T12:37:01Z",
+      "updated_at": "2026-04-26T12:42:10Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18847,
+      "forks": 1632,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T11:15:32Z",
+      "updated_at": "2026-04-26T12:55:36Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14532,
+      "forks": 588,
+      "language": "C#",
+      "pushed_at": "2026-04-26T12:19:48Z",
+      "updated_at": "2026-04-26T11:54:09Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5240,
+      "forks": 303,
+      "language": "Vala",
+      "pushed_at": "2026-04-26T11:29:46Z",
+      "updated_at": "2026-04-26T11:24:37Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4452,
-      "forks": 248,
+      "stars": 4458,
+      "forks": 249,
       "language": "Kotlin",
-      "pushed_at": "2026-04-26T05:23:34Z",
-      "updated_at": "2026-04-26T08:02:57Z"
+      "pushed_at": "2026-04-26T12:04:08Z",
+      "updated_at": "2026-04-26T12:30:51Z"
     },
     {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-      "stars": 3185,
-      "forks": 1004,
-      "language": "C++",
-      "pushed_at": "2026-04-26T08:12:09Z",
-      "updated_at": "2026-04-26T08:07:27Z"
+      "id": 1147470802,
+      "full_name": "rohitg00/pro-workflow",
+      "html_url": "https://github.com/rohitg00/pro-workflow",
+      "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+      "stars": 2020,
+      "forks": 192,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-26T12:34:49Z",
+      "updated_at": "2026-04-26T12:41:00Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1796,
-      "forks": 112,
-      "language": "Go",
-      "pushed_at": "2026-04-26T08:39:30Z",
-      "updated_at": "2026-04-26T08:35:33Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1825,
+      "forks": 135,
+      "language": "Dart",
+      "pushed_at": "2026-04-26T13:04:03Z",
+      "updated_at": "2026-04-26T13:04:07Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1096,
+      "stars": 1098,
       "forks": 30,
       "language": "Swift",
-      "pushed_at": "2026-04-26T07:51:13Z",
-      "updated_at": "2026-04-26T07:51:18Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 767,
-      "forks": 42,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T05:52:12Z",
-      "updated_at": "2026-04-26T06:02:59Z"
+      "pushed_at": "2026-04-26T11:33:59Z",
+      "updated_at": "2026-04-26T11:34:03Z"
     },
     {
       "id": 1134844685,
       "full_name": "agent-sh/agentsys",
       "html_url": "https://github.com/agent-sh/agentsys",
       "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 760,
+      "stars": 761,
       "forks": 81,
       "language": "JavaScript",
-      "pushed_at": "2026-04-26T07:21:57Z",
-      "updated_at": "2026-04-26T07:20:58Z"
+      "pushed_at": "2026-04-26T12:43:35Z",
+      "updated_at": "2026-04-26T12:58:53Z"
     },
     {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 676,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 736,
+      "forks": 73,
+      "language": "Python",
+      "pushed_at": "2026-04-26T10:49:54Z",
+      "updated_at": "2026-04-26T10:49:59Z"
+    },
+    {
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "A Claude Code skill that turns your Obsidian vault into a living second brain — autonomous writes, thinking tools, knowledge ingestion, scheduled agents, and _CLAUDE.md for cross-surface context.",
+      "stars": 282,
       "forks": 34,
       "language": "Python",
-      "pushed_at": "2026-04-26T06:58:17Z",
-      "updated_at": "2026-04-26T06:58:22Z"
-    },
-    {
-      "id": 85922134,
-      "full_name": "brocode/fw",
-      "html_url": "https://github.com/brocode/fw",
-      "description": "workspace productivity booster",
-      "stars": 562,
-      "forks": 23,
-      "language": "Rust",
-      "pushed_at": "2026-04-26T08:26:01Z",
-      "updated_at": "2026-04-26T08:26:04Z"
-    },
-    {
-      "id": 1066853103,
-      "full_name": "tamnguyenvan/screenarc",
-      "html_url": "https://github.com/tamnguyenvan/screenarc",
-      "description": "ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.",
-      "stars": 447,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T08:13:04Z",
-      "updated_at": "2026-04-26T08:13:05Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Custom Providers",
-      "stars": 306,
-      "forks": 55,
-      "language": "Rust",
-      "pushed_at": "2026-04-26T06:40:46Z",
-      "updated_at": "2026-04-26T07:49:00Z"
+      "pushed_at": "2026-04-26T12:47:55Z",
+      "updated_at": "2026-04-26T12:47:58Z"
     },
     {
       "id": 285515469,
@@ -169,8 +158,19 @@
       "stars": 247,
       "forks": 40,
       "language": "C#",
-      "pushed_at": "2026-04-26T08:48:22Z",
-      "updated_at": "2026-04-26T08:55:57Z"
+      "pushed_at": "2026-04-26T11:45:38Z",
+      "updated_at": "2026-04-26T11:01:46Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time",
+      "stars": 211,
+      "forks": 8,
+      "language": "Python",
+      "pushed_at": "2026-04-26T12:09:29Z",
+      "updated_at": "2026-04-26T12:09:33Z"
     }
   ]
 }
