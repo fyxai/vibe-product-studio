@@ -8,81 +8,92 @@
   "total_found": 813,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 167099,
+      "forks": 25918,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-26T04:53:53Z",
+      "updated_at": "2026-04-26T06:02:07Z"
+    },
+    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 35550,
-      "forks": 2157,
+      "stars": 35643,
+      "forks": 2162,
       "language": "Rust",
       "pushed_at": "2026-04-26T00:22:11Z",
-      "updated_at": "2026-04-26T02:39:40Z"
+      "updated_at": "2026-04-26T06:04:11Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 27825,
+      "forks": 2935,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T04:35:23Z",
+      "updated_at": "2026-04-26T05:40:47Z"
     },
     {
       "id": 343078060,
       "full_name": "Lissy93/dashy",
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24815,
-      "forks": 1814,
+      "stars": 24821,
+      "forks": 1816,
       "language": "Vue",
       "pushed_at": "2026-04-25T22:44:57Z",
-      "updated_at": "2026-04-26T02:34:41Z"
+      "updated_at": "2026-04-26T05:44:32Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18842,
+      "stars": 18843,
       "forks": 1632,
       "language": "TypeScript",
       "pushed_at": "2026-04-26T00:51:54Z",
-      "updated_at": "2026-04-26T01:19:19Z"
+      "updated_at": "2026-04-26T03:41:42Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14528,
+      "forks": 588,
+      "language": "C#",
+      "pushed_at": "2026-04-26T05:17:29Z",
+      "updated_at": "2026-04-26T05:36:15Z"
     },
     {
       "id": 205326947,
       "full_name": "espanso/espanso",
       "html_url": "https://github.com/espanso/espanso",
       "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13668,
+      "stars": 13669,
       "forks": 404,
       "language": "Rust",
       "pushed_at": "2026-04-26T00:31:38Z",
-      "updated_at": "2026-04-26T01:36:36Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10535,
-      "forks": 1292,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T22:10:23Z",
-      "updated_at": "2026-04-25T23:13:37Z"
-    },
-    {
-      "id": 592882602,
-      "full_name": "MrKai77/Loop",
-      "html_url": "https://github.com/MrKai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 10471,
-      "forks": 224,
-      "language": "Swift",
-      "pushed_at": "2026-04-25T21:39:12Z",
-      "updated_at": "2026-04-25T23:52:27Z"
+      "updated_at": "2026-04-26T05:53:44Z"
     },
     {
       "id": 814882742,
       "full_name": "iib0011/omni-tools",
       "html_url": "https://github.com/iib0011/omni-tools",
       "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9327,
+      "stars": 9328,
       "forks": 623,
       "language": "TypeScript",
       "pushed_at": "2026-04-25T23:08:52Z",
-      "updated_at": "2026-04-26T01:11:45Z"
+      "updated_at": "2026-04-26T03:59:21Z"
     },
     {
       "id": 1062234789,
@@ -96,26 +107,15 @@
       "updated_at": "2026-04-26T00:16:29Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5629,
-      "forks": 736,
-      "language": "Swift",
-      "pushed_at": "2026-04-25T21:56:04Z",
-      "updated_at": "2026-04-25T22:57:20Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5146,
-      "forks": 617,
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4449,
+      "forks": 248,
       "language": "Kotlin",
-      "pushed_at": "2026-04-25T19:08:43Z",
-      "updated_at": "2026-04-25T23:28:23Z"
+      "pushed_at": "2026-04-26T05:23:34Z",
+      "updated_at": "2026-04-26T05:29:30Z"
     },
     {
       "id": 1111053300,
@@ -129,15 +129,15 @@
       "updated_at": "2026-04-26T02:38:06Z"
     },
     {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1080,
-      "forks": 39,
-      "language": "C++",
-      "pushed_at": "2026-04-25T20:07:46Z",
-      "updated_at": "2026-04-25T22:48:32Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 767,
+      "forks": 42,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T05:52:12Z",
+      "updated_at": "2026-04-26T06:02:59Z"
     },
     {
       "id": 1134844685,
@@ -147,8 +147,8 @@
       "stars": 760,
       "forks": 81,
       "language": "JavaScript",
-      "pushed_at": "2026-04-26T00:02:14Z",
-      "updated_at": "2026-04-26T00:02:17Z"
+      "pushed_at": "2026-04-26T03:53:54Z",
+      "updated_at": "2026-04-26T03:53:14Z"
     },
     {
       "id": 591995344,
@@ -162,15 +162,15 @@
       "updated_at": "2026-04-26T02:22:28Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 488,
-      "forks": 62,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-25T21:23:21Z",
-      "updated_at": "2026-04-25T21:23:25Z"
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Custom Providers",
+      "stars": 304,
+      "forks": 55,
+      "language": "Rust",
+      "pushed_at": "2026-04-26T04:40:54Z",
+      "updated_at": "2026-04-26T04:40:59Z"
     }
   ]
 }
