@@ -8,114 +8,125 @@
   "total_found": 815,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43171,
-      "forks": 2703,
-      "language": "C#",
-      "pushed_at": "2026-04-26T15:27:09Z",
-      "updated_at": "2026-04-26T15:58:44Z"
-    },
-    {
       "id": 343078060,
       "full_name": "Lissy93/dashy",
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24825,
+      "stars": 24828,
       "forks": 1817,
       "language": "Vue",
-      "pushed_at": "2026-04-26T16:37:50Z",
-      "updated_at": "2026-04-26T16:31:29Z"
+      "pushed_at": "2026-04-26T17:28:51Z",
+      "updated_at": "2026-04-26T20:21:01Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18855,
+      "forks": 1634,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T17:19:26Z",
+      "updated_at": "2026-04-26T19:31:33Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10536,
+      "stars": 10537,
       "forks": 1293,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T14:31:24Z",
-      "updated_at": "2026-04-26T15:28:55Z"
+      "pushed_at": "2026-04-26T20:07:23Z",
+      "updated_at": "2026-04-26T20:31:45Z"
+    },
+    {
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 9360,
+      "forks": 624,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T17:07:30Z",
+      "updated_at": "2026-04-26T20:26:52Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7316,
-      "forks": 192,
+      "stars": 7323,
+      "forks": 193,
       "language": "C++",
-      "pushed_at": "2026-04-26T16:07:17Z",
-      "updated_at": "2026-04-26T16:07:53Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5627,
-      "forks": 736,
-      "language": "Swift",
-      "pushed_at": "2026-04-26T14:11:21Z",
-      "updated_at": "2026-04-26T16:23:33Z"
+      "pushed_at": "2026-04-26T19:37:15Z",
+      "updated_at": "2026-04-26T19:35:08Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4464,
+      "stars": 4468,
       "forks": 249,
       "language": "Kotlin",
       "pushed_at": "2026-04-26T16:34:19Z",
-      "updated_at": "2026-04-26T16:34:24Z"
+      "updated_at": "2026-04-26T19:18:19Z"
     },
     {
-      "id": 1079906817,
-      "full_name": "deta/surf",
-      "html_url": "https://github.com/deta/surf",
-      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
-      "stars": 3354,
-      "forks": 238,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3657,
+      "forks": 759,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T14:21:56Z",
-      "updated_at": "2026-04-26T16:25:24Z"
+      "pushed_at": "2026-04-26T16:59:39Z",
+      "updated_at": "2026-04-26T18:24:01Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3161,
-      "forks": 146,
-      "language": "Gherkin",
-      "pushed_at": "2026-04-26T15:38:41Z",
-      "updated_at": "2026-04-26T15:53:06Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1798,
+      "forks": 112,
+      "language": "Go",
+      "pushed_at": "2026-04-26T20:33:56Z",
+      "updated_at": "2026-04-26T20:33:58Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 770,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T20:16:17Z",
+      "updated_at": "2026-04-26T20:16:20Z"
     },
     {
       "id": 1134844685,
       "full_name": "agent-sh/agentsys",
       "html_url": "https://github.com/agent-sh/agentsys",
       "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 762,
+      "stars": 761,
       "forks": 81,
       "language": "JavaScript",
-      "pushed_at": "2026-04-26T15:35:49Z",
-      "updated_at": "2026-04-26T15:35:53Z"
+      "pushed_at": "2026-04-26T18:06:11Z",
+      "updated_at": "2026-04-26T20:17:31Z"
     },
     {
-      "id": 109383925,
-      "full_name": "7mind/izumi",
-      "html_url": "https://github.com/7mind/izumi",
-      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
-      "stars": 629,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 736,
       "forks": 73,
-      "language": "Scala",
-      "pushed_at": "2026-04-26T14:13:34Z",
-      "updated_at": "2026-04-26T14:13:38Z"
+      "language": "Python",
+      "pushed_at": "2026-04-26T20:23:36Z",
+      "updated_at": "2026-04-26T20:23:44Z"
     },
     {
       "id": 608333928,
@@ -125,8 +136,8 @@
       "stars": 595,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T15:45:44Z",
-      "updated_at": "2026-04-26T15:45:47Z"
+      "pushed_at": "2026-04-26T20:37:18Z",
+      "updated_at": "2026-04-26T20:36:33Z"
     },
     {
       "id": 244958571,
@@ -140,37 +151,26 @@
       "updated_at": "2026-04-26T16:25:30Z"
     },
     {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 308,
-      "forks": 15,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-26T15:12:56Z",
-      "updated_at": "2026-04-26T14:45:05Z"
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 298,
+      "forks": 12,
+      "language": "Swift",
+      "pushed_at": "2026-04-26T19:18:37Z",
+      "updated_at": "2026-04-26T19:40:50Z"
     },
     {
-      "id": 1163671946,
-      "full_name": "chrisblattman/claudeblattman",
-      "html_url": "https://github.com/chrisblattman/claudeblattman",
-      "description": "Claude Code for academics — skills, agents, and setup guides",
-      "stars": 290,
-      "forks": 54,
-      "language": "HTML",
-      "pushed_at": "2026-04-26T14:18:55Z",
-      "updated_at": "2026-04-26T14:18:07Z"
-    },
-    {
-      "id": 285515469,
-      "full_name": "poerin/Stroke",
-      "html_url": "https://github.com/poerin/Stroke",
-      "description": "A fast, scriptable mouse gesture engine for Windows. 一款快速、可编程的 Windows 鼠标手势引擎。",
-      "stars": 247,
-      "forks": 40,
-      "language": "C#",
-      "pushed_at": "2026-04-26T14:35:02Z",
-      "updated_at": "2026-04-26T14:35:07Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "Product Management Skills for Claude AI - Save 8-9 hours per week",
+      "stars": 279,
+      "forks": 48,
+      "language": "Shell",
+      "pushed_at": "2026-04-26T19:24:52Z",
+      "updated_at": "2026-04-26T19:24:57Z"
     }
   ]
 }
