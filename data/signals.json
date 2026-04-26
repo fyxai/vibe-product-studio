@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 812,
+  "total_found": 813,
   "items": [
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 121949,
-      "forks": 13429,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T16:04:23Z",
-      "updated_at": "2026-04-25T20:23:34Z"
-    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 35408,
-      "forks": 2147,
+      "stars": 35550,
+      "forks": 2157,
       "language": "Rust",
-      "pushed_at": "2026-04-25T18:53:51Z",
-      "updated_at": "2026-04-25T20:37:43Z"
+      "pushed_at": "2026-04-26T00:22:11Z",
+      "updated_at": "2026-04-26T02:39:40Z"
     },
     {
       "id": 343078060,
       "full_name": "Lissy93/dashy",
       "html_url": "https://github.com/Lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24807,
-      "forks": 1813,
+      "stars": 24815,
+      "forks": 1814,
       "language": "Vue",
-      "pushed_at": "2026-04-25T19:12:08Z",
-      "updated_at": "2026-04-25T20:07:45Z"
+      "pushed_at": "2026-04-25T22:44:57Z",
+      "updated_at": "2026-04-26T02:34:41Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 13093,
-      "forks": 1270,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 18842,
+      "forks": 1632,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T17:22:21Z",
-      "updated_at": "2026-04-25T20:23:06Z"
+      "pushed_at": "2026-04-26T00:51:54Z",
+      "updated_at": "2026-04-26T01:19:19Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12871,
-      "forks": 787,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T16:37:56Z",
-      "updated_at": "2026-04-25T16:37:59Z"
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 13668,
+      "forks": 404,
+      "language": "Rust",
+      "pushed_at": "2026-04-26T00:31:38Z",
+      "updated_at": "2026-04-26T01:36:36Z"
     },
     {
       "id": 665613753,
@@ -68,76 +57,109 @@
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
       "stars": 10535,
-      "forks": 1291,
+      "forks": 1292,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T19:31:00Z",
-      "updated_at": "2026-04-25T19:31:08Z"
+      "pushed_at": "2026-04-25T22:10:23Z",
+      "updated_at": "2026-04-25T23:13:37Z"
+    },
+    {
+      "id": 592882602,
+      "full_name": "MrKai77/Loop",
+      "html_url": "https://github.com/MrKai77/Loop",
+      "description": "Window management made elegant.",
+      "stars": 10471,
+      "forks": 224,
+      "language": "Swift",
+      "pushed_at": "2026-04-25T21:39:12Z",
+      "updated_at": "2026-04-25T23:52:27Z"
+    },
+    {
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 9327,
+      "forks": 623,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T23:08:52Z",
+      "updated_at": "2026-04-26T01:11:45Z"
+    },
+    {
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 5982,
+      "forks": 318,
+      "language": "Swift",
+      "pushed_at": "2026-04-26T00:16:23Z",
+      "updated_at": "2026-04-26T00:16:29Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5629,
+      "forks": 736,
+      "language": "Swift",
+      "pushed_at": "2026-04-25T21:56:04Z",
+      "updated_at": "2026-04-25T22:57:20Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5145,
+      "stars": 5146,
       "forks": 617,
       "language": "Kotlin",
       "pushed_at": "2026-04-25T19:08:43Z",
-      "updated_at": "2026-04-25T19:08:48Z"
+      "updated_at": "2026-04-25T23:28:23Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4442,
-      "forks": 247,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-25T18:37:14Z",
-      "updated_at": "2026-04-25T19:02:21Z"
-    },
-    {
-      "id": 1079906817,
-      "full_name": "deta/surf",
-      "html_url": "https://github.com/deta/surf",
-      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
-      "stars": 3353,
-      "forks": 239,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T19:27:06Z",
-      "updated_at": "2026-04-25T19:05:55Z"
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 1096,
+      "forks": 30,
+      "language": "Swift",
+      "pushed_at": "2026-04-26T02:38:03Z",
+      "updated_at": "2026-04-26T02:38:06Z"
     },
     {
       "id": 177397013,
       "full_name": "houmain/keymapper",
       "html_url": "https://github.com/houmain/keymapper",
       "description": "A cross-platform context-aware key remapper.",
-      "stars": 1079,
-      "forks": 38,
+      "stars": 1080,
+      "forks": 39,
       "language": "C++",
       "pushed_at": "2026-04-25T20:07:46Z",
-      "updated_at": "2026-04-25T20:07:50Z"
+      "updated_at": "2026-04-25T22:48:32Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 766,
-      "forks": 41,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T17:32:17Z",
-      "updated_at": "2026-04-25T19:23:26Z"
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 760,
+      "forks": 81,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-26T00:02:14Z",
+      "updated_at": "2026-04-26T00:02:17Z"
     },
     {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 675,
-      "forks": 34,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 736,
+      "forks": 73,
       "language": "Python",
-      "pushed_at": "2026-04-25T17:37:22Z",
-      "updated_at": "2026-04-25T19:30:15Z"
+      "pushed_at": "2026-04-26T02:22:10Z",
+      "updated_at": "2026-04-26T02:22:28Z"
     },
     {
       "id": 590023059,
@@ -147,30 +169,8 @@
       "stars": 488,
       "forks": 62,
       "language": "JavaScript",
-      "pushed_at": "2026-04-25T19:04:12Z",
-      "updated_at": "2026-04-25T19:04:15Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 330,
-      "forks": 29,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-25T19:03:21Z",
-      "updated_at": "2026-04-25T19:03:25Z"
-    },
-    {
-      "id": 1174234577,
-      "full_name": "cnfjlhj/ai-collab-playbook",
-      "html_url": "https://github.com/cnfjlhj/ai-collab-playbook",
-      "description": "Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills.",
-      "stars": 213,
-      "forks": 14,
-      "language": "Python",
-      "pushed_at": "2026-04-25T17:45:18Z",
-      "updated_at": "2026-04-25T17:45:22Z"
+      "pushed_at": "2026-04-25T21:23:21Z",
+      "updated_at": "2026-04-25T21:23:25Z"
     }
   ]
 }
