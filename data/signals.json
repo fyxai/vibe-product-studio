@@ -5,117 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 815,
+  "total_found": 814,
   "items": [
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 24828,
-      "forks": 1817,
-      "language": "Vue",
-      "pushed_at": "2026-04-26T17:28:51Z",
-      "updated_at": "2026-04-26T20:21:01Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18855,
-      "forks": 1634,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T17:19:26Z",
-      "updated_at": "2026-04-26T19:31:33Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10537,
-      "forks": 1293,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T20:07:23Z",
-      "updated_at": "2026-04-26T20:31:45Z"
-    },
-    {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9360,
-      "forks": 624,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T17:07:30Z",
-      "updated_at": "2026-04-26T20:26:52Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43174,
+      "forks": 2703,
+      "language": "C#",
+      "pushed_at": "2026-04-26T22:16:44Z",
+      "updated_at": "2026-04-27T02:04:00Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7323,
+      "stars": 7330,
       "forks": 193,
       "language": "C++",
-      "pushed_at": "2026-04-26T19:37:15Z",
-      "updated_at": "2026-04-26T19:35:08Z"
+      "pushed_at": "2026-04-26T22:41:50Z",
+      "updated_at": "2026-04-27T02:33:53Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5136,
+      "forks": 444,
+      "language": "Rust",
+      "pushed_at": "2026-04-27T02:14:09Z",
+      "updated_at": "2026-04-27T02:14:15Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4468,
+      "stars": 4479,
       "forks": 249,
       "language": "Kotlin",
-      "pushed_at": "2026-04-26T16:34:19Z",
-      "updated_at": "2026-04-26T19:18:19Z"
+      "pushed_at": "2026-04-27T01:57:12Z",
+      "updated_at": "2026-04-27T02:35:01Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3657,
-      "forks": 759,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T16:59:39Z",
-      "updated_at": "2026-04-26T18:24:01Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4327,
+      "forks": 885,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-27T00:43:38Z",
+      "updated_at": "2026-04-27T00:53:41Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1798,
-      "forks": 112,
-      "language": "Go",
-      "pushed_at": "2026-04-26T20:33:56Z",
-      "updated_at": "2026-04-26T20:33:58Z"
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 2021,
+      "forks": 211,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-27T01:57:54Z",
+      "updated_at": "2026-04-27T01:57:23Z"
+    },
+    {
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1701,
+      "forks": 139,
+      "language": "Dart",
+      "pushed_at": "2026-04-27T01:08:38Z",
+      "updated_at": "2026-04-27T01:08:42Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 770,
+      "stars": 771,
       "forks": 43,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T20:16:17Z",
-      "updated_at": "2026-04-26T20:16:20Z"
-    },
-    {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 761,
-      "forks": 81,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-26T18:06:11Z",
-      "updated_at": "2026-04-26T20:17:31Z"
+      "pushed_at": "2026-04-27T01:09:33Z",
+      "updated_at": "2026-04-27T00:29:01Z"
     },
     {
       "id": 591995344,
@@ -125,8 +103,19 @@
       "stars": 736,
       "forks": 73,
       "language": "Python",
-      "pushed_at": "2026-04-26T20:23:36Z",
-      "updated_at": "2026-04-26T20:23:44Z"
+      "pushed_at": "2026-04-27T00:47:07Z",
+      "updated_at": "2026-04-27T00:47:13Z"
+    },
+    {
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 684,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-04-27T00:53:17Z",
+      "updated_at": "2026-04-27T00:53:22Z"
     },
     {
       "id": 608333928,
@@ -136,41 +125,52 @@
       "stars": 595,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T20:37:18Z",
-      "updated_at": "2026-04-26T20:36:33Z"
+      "pushed_at": "2026-04-27T02:38:03Z",
+      "updated_at": "2026-04-26T21:45:08Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 428,
-      "forks": 69,
-      "language": "Go",
-      "pushed_at": "2026-04-26T16:33:35Z",
-      "updated_at": "2026-04-26T16:25:30Z"
-    },
-    {
-      "id": 1212093880,
-      "full_name": "heyderekj/dinky",
-      "html_url": "https://github.com/heyderekj/dinky",
-      "description": "Dinky makes files smaller.",
-      "stars": 298,
-      "forks": 12,
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
+      "stars": 467,
+      "forks": 82,
       "language": "Swift",
-      "pushed_at": "2026-04-26T19:18:37Z",
-      "updated_at": "2026-04-26T19:40:50Z"
+      "pushed_at": "2026-04-26T22:43:29Z",
+      "updated_at": "2026-04-26T23:09:04Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Product Management Skills for Claude AI - Save 8-9 hours per week",
-      "stars": 279,
-      "forks": 48,
-      "language": "Shell",
-      "pushed_at": "2026-04-26T19:24:52Z",
-      "updated_at": "2026-04-26T19:24:57Z"
+      "id": 1163671946,
+      "full_name": "chrisblattman/claudeblattman",
+      "html_url": "https://github.com/chrisblattman/claudeblattman",
+      "description": "Claude Code for academics — skills, agents, and setup guides",
+      "stars": 290,
+      "forks": 54,
+      "language": "HTML",
+      "pushed_at": "2026-04-27T00:53:43Z",
+      "updated_at": "2026-04-27T00:53:09Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time",
+      "stars": 211,
+      "forks": 8,
+      "language": "Python",
+      "pushed_at": "2026-04-27T02:19:37Z",
+      "updated_at": "2026-04-27T02:19:41Z"
+    },
+    {
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 172,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-04-26T23:22:04Z",
+      "updated_at": "2026-04-26T23:17:02Z"
     }
   ]
 }
