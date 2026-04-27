@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 814,
+  "total_found": 815,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43174,
+      "stars": 43177,
       "forks": 2703,
       "language": "C#",
-      "pushed_at": "2026-04-26T22:16:44Z",
-      "updated_at": "2026-04-27T02:04:00Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7330,
-      "forks": 193,
-      "language": "C++",
-      "pushed_at": "2026-04-26T22:41:50Z",
-      "updated_at": "2026-04-27T02:33:53Z"
+      "pushed_at": "2026-04-27T05:00:47Z",
+      "updated_at": "2026-04-27T06:00:48Z"
     },
     {
       "id": 119006816,
       "full_name": "Splode/pomotroid",
       "html_url": "https://github.com/Splode/pomotroid",
       "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5136,
+      "stars": 5138,
       "forks": 444,
       "language": "Rust",
       "pushed_at": "2026-04-27T02:14:09Z",
-      "updated_at": "2026-04-27T02:14:15Z"
+      "updated_at": "2026-04-27T05:11:23Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4641,
+      "forks": 100,
+      "language": "Rust",
+      "pushed_at": "2026-04-27T06:06:27Z",
+      "updated_at": "2026-04-27T06:06:31Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4479,
-      "forks": 249,
+      "stars": 4486,
+      "forks": 250,
       "language": "Kotlin",
       "pushed_at": "2026-04-27T01:57:12Z",
-      "updated_at": "2026-04-27T02:35:01Z"
+      "updated_at": "2026-04-27T05:50:59Z"
     },
     {
       "id": 123563464,
@@ -57,10 +57,21 @@
       "html_url": "https://github.com/code-charity/youtube",
       "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
       "stars": 4327,
-      "forks": 885,
+      "forks": 886,
       "language": "JavaScript",
-      "pushed_at": "2026-04-27T00:43:38Z",
-      "updated_at": "2026-04-27T00:53:41Z"
+      "pushed_at": "2026-04-27T03:03:55Z",
+      "updated_at": "2026-04-27T03:21:04Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2193,
+      "forks": 243,
+      "language": "Go",
+      "pushed_at": "2026-04-27T02:50:22Z",
+      "updated_at": "2026-04-27T05:32:11Z"
     },
     {
       "id": 16063480,
@@ -74,81 +85,48 @@
       "updated_at": "2026-04-27T01:57:23Z"
     },
     {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1798,
+      "forks": 112,
+      "language": "Go",
+      "pushed_at": "2026-04-27T04:47:47Z",
+      "updated_at": "2026-04-27T04:43:33Z"
+    },
+    {
       "id": 812362660,
       "full_name": "ViscousPot/GitSync",
       "html_url": "https://github.com/ViscousPot/GitSync",
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1701,
+      "stars": 1702,
       "forks": 139,
       "language": "Dart",
       "pushed_at": "2026-04-27T01:08:38Z",
-      "updated_at": "2026-04-27T01:08:42Z"
+      "updated_at": "2026-04-27T05:35:04Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 771,
-      "forks": 43,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 565,
+      "forks": 30,
       "language": "TypeScript",
-      "pushed_at": "2026-04-27T01:09:33Z",
-      "updated_at": "2026-04-27T00:29:01Z"
+      "pushed_at": "2026-04-27T05:54:22Z",
+      "updated_at": "2026-04-27T03:49:20Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 736,
-      "forks": 73,
-      "language": "Python",
-      "pushed_at": "2026-04-27T00:47:07Z",
-      "updated_at": "2026-04-27T00:47:13Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 684,
-      "forks": 41,
-      "language": "Python",
-      "pushed_at": "2026-04-27T00:53:17Z",
-      "updated_at": "2026-04-27T00:53:22Z"
-    },
-    {
-      "id": 608333928,
-      "full_name": "DeepNotesApp/DeepNotes",
-      "html_url": "https://github.com/DeepNotesApp/DeepNotes",
-      "description": "End-to-end encrypted visual note-taking tool with deep page navigation. ",
-      "stars": 595,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-27T02:38:03Z",
-      "updated_at": "2026-04-26T21:45:08Z"
-    },
-    {
-      "id": 869263252,
-      "full_name": "awaseem/foqos",
-      "html_url": "https://github.com/awaseem/foqos",
-      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
-      "stars": 467,
-      "forks": 82,
-      "language": "Swift",
-      "pushed_at": "2026-04-26T22:43:29Z",
-      "updated_at": "2026-04-26T23:09:04Z"
-    },
-    {
-      "id": 1163671946,
-      "full_name": "chrisblattman/claudeblattman",
-      "html_url": "https://github.com/chrisblattman/claudeblattman",
-      "description": "Claude Code for academics — skills, agents, and setup guides",
-      "stars": 290,
-      "forks": 54,
-      "language": "HTML",
-      "pushed_at": "2026-04-27T00:53:43Z",
-      "updated_at": "2026-04-27T00:53:09Z"
+      "id": 626659549,
+      "full_name": "2e3s/awatcher",
+      "html_url": "https://github.com/2e3s/awatcher",
+      "description": "Activity and idle watchers",
+      "stars": 274,
+      "forks": 19,
+      "language": "Rust",
+      "pushed_at": "2026-04-27T03:28:31Z",
+      "updated_at": "2026-04-27T03:28:35Z"
     },
     {
       "id": 1041102492,
@@ -158,19 +136,41 @@
       "stars": 211,
       "forks": 8,
       "language": "Python",
-      "pushed_at": "2026-04-27T02:19:37Z",
-      "updated_at": "2026-04-27T02:19:41Z"
+      "pushed_at": "2026-04-27T03:20:20Z",
+      "updated_at": "2026-04-27T03:20:23Z"
     },
     {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 172,
+      "id": 1072825057,
+      "full_name": "PanHywel/TidyMark",
+      "html_url": "https://github.com/PanHywel/TidyMark",
+      "description": "TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and optional AI assistance. Detect broken bookmarks, auto-archive infrequently used ones, and enjoy New Tab navigation with access stats.",
+      "stars": 199,
+      "forks": 15,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-27T05:27:12Z",
+      "updated_at": "2026-04-27T05:27:16Z"
+    },
+    {
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 133,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-27T02:42:02Z",
+      "updated_at": "2026-04-27T02:41:59Z"
+    },
+    {
+      "id": 270276040,
+      "full_name": "pycontribs/mk",
+      "html_url": "https://github.com/pycontribs/mk",
+      "description": "mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!",
+      "stars": 129,
       "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-26T23:22:04Z",
-      "updated_at": "2026-04-26T23:17:02Z"
+      "language": "Python",
+      "pushed_at": "2026-04-27T04:35:32Z",
+      "updated_at": "2026-04-27T01:50:52Z"
     }
   ]
 }
