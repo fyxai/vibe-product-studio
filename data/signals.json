@@ -12,55 +12,88 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 169431,
-      "forks": 26252,
+      "stars": 169586,
+      "forks": 26271,
       "language": "JavaScript",
       "pushed_at": "2026-04-29T02:20:35Z",
-      "updated_at": "2026-04-29T02:45:46Z"
+      "updated_at": "2026-04-29T06:21:50Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43192,
-      "forks": 2704,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36333,
+      "forks": 3655,
       "language": "C#",
-      "pushed_at": "2026-04-28T23:17:04Z",
-      "updated_at": "2026-04-29T01:38:13Z"
+      "pushed_at": "2026-04-29T06:13:54Z",
+      "updated_at": "2026-04-29T06:14:01Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 28088,
+      "forks": 2965,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T05:09:18Z",
+      "updated_at": "2026-04-29T06:20:14Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13974,
+      "forks": 944,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T03:51:53Z",
+      "updated_at": "2026-04-29T03:45:57Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10582,
+      "stars": 10583,
       "forks": 1299,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T00:21:34Z",
-      "updated_at": "2026-04-29T02:27:47Z"
+      "pushed_at": "2026-04-29T06:12:58Z",
+      "updated_at": "2026-04-29T06:13:04Z"
     },
     {
       "id": 592882602,
       "full_name": "MrKai77/Loop",
       "html_url": "https://github.com/MrKai77/Loop",
       "description": "Window management made elegant.",
-      "stars": 10488,
-      "forks": 226,
+      "stars": 10492,
+      "forks": 229,
       "language": "Swift",
-      "pushed_at": "2026-04-28T23:27:46Z",
-      "updated_at": "2026-04-29T02:41:07Z"
+      "pushed_at": "2026-04-29T04:22:43Z",
+      "updated_at": "2026-04-29T05:49:20Z"
     },
     {
-      "id": 3868463,
-      "full_name": "jrnl-org/jrnl",
-      "html_url": "https://github.com/jrnl-org/jrnl",
-      "description": "Collect your thoughts and notes without leaving the command line.",
-      "stars": 7221,
-      "forks": 548,
-      "language": "Python",
-      "pushed_at": "2026-04-28T23:28:39Z",
-      "updated_at": "2026-04-29T00:15:32Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 9519,
+      "forks": 580,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T04:29:50Z",
+      "updated_at": "2026-04-29T06:21:33Z"
+    },
+    {
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
+      "stars": 8009,
+      "forks": 586,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-29T04:55:29Z",
+      "updated_at": "2026-04-29T06:09:12Z"
     },
     {
       "id": 475337801,
@@ -70,8 +103,8 @@
       "stars": 6698,
       "forks": 252,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T02:27:29Z",
-      "updated_at": "2026-04-29T02:27:32Z"
+      "pushed_at": "2026-04-29T05:36:42Z",
+      "updated_at": "2026-04-29T05:36:45Z"
     },
     {
       "id": 897595329,
@@ -81,52 +114,19 @@
       "stars": 2942,
       "forks": 190,
       "language": "Python",
-      "pushed_at": "2026-04-29T01:10:38Z",
-      "updated_at": "2026-04-29T01:10:41Z"
-    },
-    {
-      "id": 89766385,
-      "full_name": "cassidoo/todometer",
-      "html_url": "https://github.com/cassidoo/todometer",
-      "description": "A meter-based to-do list",
-      "stars": 2063,
-      "forks": 293,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-29T00:06:46Z",
-      "updated_at": "2026-04-28T23:45:59Z"
+      "pushed_at": "2026-04-29T04:20:17Z",
+      "updated_at": "2026-04-29T04:20:20Z"
     },
     {
       "id": 1177941774,
       "full_name": "wm94i/Work_Review",
       "html_url": "https://github.com/wm94i/Work_Review",
       "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 1065,
+      "stars": 1068,
       "forks": 58,
       "language": "Rust",
-      "pushed_at": "2026-04-29T02:01:20Z",
-      "updated_at": "2026-04-29T02:34:43Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 888,
-      "forks": 148,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T23:01:45Z",
-      "updated_at": "2026-04-29T01:16:30Z"
-    },
-    {
-      "id": 869263252,
-      "full_name": "awaseem/foqos",
-      "html_url": "https://github.com/awaseem/foqos",
-      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
-      "stars": 468,
-      "forks": 82,
-      "language": "Swift",
-      "pushed_at": "2026-04-29T01:29:19Z",
-      "updated_at": "2026-04-29T01:29:23Z"
+      "pushed_at": "2026-04-29T04:39:08Z",
+      "updated_at": "2026-04-29T06:01:59Z"
     },
     {
       "id": 88267809,
@@ -140,37 +140,37 @@
       "updated_at": "2026-04-29T02:30:15Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Custom Providers",
-      "stars": 316,
-      "forks": 59,
-      "language": "Rust",
-      "pushed_at": "2026-04-28T23:49:35Z",
-      "updated_at": "2026-04-28T23:49:38Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 174,
-      "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-04-29T02:20:13Z",
-      "updated_at": "2026-04-29T01:55:56Z"
-    },
-    {
-      "id": 1161341007,
-      "full_name": "caffienerd/startpage",
-      "html_url": "https://github.com/caffienerd/startpage",
-      "description": "Professional Terminal Start Page is a sleek, customizable browser start page built around an interactive terminal. It combines productivity tools like semantic AI routing, Gemini integration, real-time weather, and network utilities with a premium aesthetic and multiple themes. Designed for speed and flexibility.",
-      "stars": 110,
-      "forks": 8,
+      "id": 417447748,
+      "full_name": "dailydotdev/docs",
+      "html_url": "https://github.com/dailydotdev/docs",
+      "description": "The official product docs of daily.dev",
+      "stars": 360,
+      "forks": 192,
       "language": "JavaScript",
-      "pushed_at": "2026-04-28T23:03:30Z",
-      "updated_at": "2026-04-28T23:03:33Z"
+      "pushed_at": "2026-04-29T05:54:42Z",
+      "updated_at": "2026-04-29T05:54:44Z"
+    },
+    {
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 155,
+      "forks": 41,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-29T05:28:43Z",
+      "updated_at": "2026-04-29T05:28:45Z"
+    },
+    {
+      "id": 932721496,
+      "full_name": "ridemountainpig/subflow",
+      "html_url": "https://github.com/ridemountainpig/subflow",
+      "description": "Easily flow through your subscriptions with Subflow. Track spending, organize recurring payments, and take control of your subscription management.",
+      "stars": 154,
+      "forks": 2,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T06:01:37Z",
+      "updated_at": "2026-04-29T02:49:12Z"
     }
   ]
 }
