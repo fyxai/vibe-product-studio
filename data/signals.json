@@ -8,103 +8,125 @@
   "total_found": 821,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122199,
-      "forks": 13457,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T12:39:21Z",
-      "updated_at": "2026-04-29T13:14:46Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43207,
+      "forks": 2704,
+      "language": "C#",
+      "pushed_at": "2026-04-29T16:44:24Z",
+      "updated_at": "2026-04-29T17:01:36Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 38206,
-      "forks": 2319,
+      "stars": 38315,
+      "forks": 2324,
       "language": "Rust",
-      "pushed_at": "2026-04-29T13:04:33Z",
-      "updated_at": "2026-04-29T13:53:47Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36342,
-      "forks": 3655,
-      "language": "C#",
-      "pushed_at": "2026-04-29T13:47:26Z",
-      "updated_at": "2026-04-29T13:47:30Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 28146,
-      "forks": 2968,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:11:12Z",
-      "updated_at": "2026-04-29T13:48:49Z"
+      "pushed_at": "2026-04-29T17:22:09Z",
+      "updated_at": "2026-04-29T17:21:07Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18907,
-      "forks": 1639,
+      "stars": 18910,
+      "forks": 1640,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:02:34Z",
-      "updated_at": "2026-04-29T13:10:39Z"
+      "pushed_at": "2026-04-29T16:08:33Z",
+      "updated_at": "2026-04-29T17:14:49Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10588,
-      "forks": 1300,
+      "stars": 10589,
+      "forks": 1301,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:33:39Z",
-      "updated_at": "2026-04-29T13:46:47Z"
+      "pushed_at": "2026-04-29T16:04:49Z",
+      "updated_at": "2026-04-29T16:10:29Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 9564,
-      "forks": 581,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
+      "stars": 6699,
+      "forks": 252,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:11:39Z",
-      "updated_at": "2026-04-29T13:32:20Z"
+      "pushed_at": "2026-04-29T15:01:39Z",
+      "updated_at": "2026-04-29T15:01:42Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6030,
+      "forks": 126,
+      "language": "Swift",
+      "pushed_at": "2026-04-29T15:32:44Z",
+      "updated_at": "2026-04-29T15:42:41Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5632,
-      "forks": 735,
+      "stars": 5631,
+      "forks": 736,
       "language": "Swift",
-      "pushed_at": "2026-04-29T13:53:54Z",
-      "updated_at": "2026-04-29T13:43:22Z"
+      "pushed_at": "2026-04-29T17:18:23Z",
+      "updated_at": "2026-04-29T16:56:56Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5165,
+      "forks": 618,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-29T16:42:42Z",
+      "updated_at": "2026-04-29T16:42:47Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5145,
+      "forks": 446,
+      "language": "Rust",
+      "pushed_at": "2026-04-29T16:21:35Z",
+      "updated_at": "2026-04-29T16:21:40Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4532,
+      "stars": 4535,
       "forks": 253,
       "language": "Kotlin",
-      "pushed_at": "2026-04-29T13:20:12Z",
-      "updated_at": "2026-04-29T13:12:20Z"
+      "pushed_at": "2026-04-29T16:26:53Z",
+      "updated_at": "2026-04-29T16:27:37Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2944,
+      "forks": 191,
+      "language": "Python",
+      "pushed_at": "2026-04-29T17:08:10Z",
+      "updated_at": "2026-04-29T17:04:50Z"
     },
     {
       "id": 257400448,
@@ -114,63 +136,41 @@
       "stars": 1803,
       "forks": 113,
       "language": "Go",
-      "pushed_at": "2026-04-29T13:50:47Z",
-      "updated_at": "2026-04-29T12:54:27Z"
+      "pushed_at": "2026-04-29T14:37:41Z",
+      "updated_at": "2026-04-29T14:35:21Z"
     },
     {
-      "id": 993178051,
-      "full_name": "Deyweaver/DeyWeaver",
-      "html_url": "https://github.com/Deyweaver/DeyWeaver",
-      "description": "AI-powered task planner to structure your day with smart scheduling.",
-      "stars": 332,
-      "forks": 34,
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1714,
+      "forks": 139,
+      "language": "Dart",
+      "pushed_at": "2026-04-29T16:22:32Z",
+      "updated_at": "2026-04-29T16:22:35Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 423,
+      "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T12:38:54Z",
-      "updated_at": "2026-04-29T12:39:01Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Custom Providers",
-      "stars": 320,
-      "forks": 59,
-      "language": "Rust",
-      "pushed_at": "2026-04-29T13:03:52Z",
-      "updated_at": "2026-04-29T13:53:10Z"
+      "pushed_at": "2026-04-29T17:27:12Z",
+      "updated_at": "2026-04-29T17:27:14Z"
     },
     {
       "id": 1196349223,
       "full_name": "StepanKropachev/obsidian-pm",
       "html_url": "https://github.com/StepanKropachev/obsidian-pm",
       "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 242,
-      "forks": 11,
+      "stars": 256,
+      "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:32:59Z",
-      "updated_at": "2026-04-29T13:35:01Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 155,
-      "forks": 41,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-29T13:21:54Z",
-      "updated_at": "2026-04-29T13:22:43Z"
-    },
-    {
-      "id": 1153530889,
-      "full_name": "JayanAXHF/gitv",
-      "html_url": "https://github.com/JayanAXHF/gitv",
-      "description": "gitv is a terminal-based viewer for GitHub issues. It allows you to view and manage your GitHub issues directly from the terminal.",
-      "stars": 105,
-      "forks": 3,
-      "language": "Rust",
-      "pushed_at": "2026-04-29T12:03:09Z",
-      "updated_at": "2026-04-29T12:01:35Z"
+      "pushed_at": "2026-04-29T14:53:18Z",
+      "updated_at": "2026-04-29T17:25:08Z"
     }
   ]
 }
