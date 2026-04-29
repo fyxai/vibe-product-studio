@@ -8,37 +8,26 @@
   "total_found": 821,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 169586,
-      "forks": 26271,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-29T02:20:35Z",
-      "updated_at": "2026-04-29T06:21:50Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 38080,
+      "forks": 2311,
+      "language": "Rust",
+      "pushed_at": "2026-04-29T07:32:25Z",
+      "updated_at": "2026-04-29T10:00:24Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36333,
-      "forks": 3655,
-      "language": "C#",
-      "pushed_at": "2026-04-29T06:13:54Z",
-      "updated_at": "2026-04-29T06:14:01Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 28088,
-      "forks": 2965,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T05:09:18Z",
-      "updated_at": "2026-04-29T06:20:14Z"
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24875,
+      "forks": 1820,
+      "language": "Vue",
+      "pushed_at": "2026-04-29T08:27:37Z",
+      "updated_at": "2026-04-29T09:00:13Z"
     },
     {
       "id": 353775942,
@@ -48,52 +37,30 @@
       "stars": 13974,
       "forks": 944,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T03:51:53Z",
-      "updated_at": "2026-04-29T03:45:57Z"
+      "pushed_at": "2026-04-29T09:19:33Z",
+      "updated_at": "2026-04-29T09:19:34Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10583,
-      "forks": 1299,
+      "stars": 10586,
+      "forks": 1300,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T06:12:58Z",
-      "updated_at": "2026-04-29T06:13:04Z"
-    },
-    {
-      "id": 592882602,
-      "full_name": "MrKai77/Loop",
-      "html_url": "https://github.com/MrKai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 10492,
-      "forks": 229,
-      "language": "Swift",
-      "pushed_at": "2026-04-29T04:22:43Z",
-      "updated_at": "2026-04-29T05:49:20Z"
+      "pushed_at": "2026-04-29T10:04:17Z",
+      "updated_at": "2026-04-29T09:52:34Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 9519,
-      "forks": 580,
+      "stars": 9547,
+      "forks": 581,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T04:29:50Z",
-      "updated_at": "2026-04-29T06:21:33Z"
-    },
-    {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
-      "stars": 8009,
-      "forks": 586,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-29T04:55:29Z",
-      "updated_at": "2026-04-29T06:09:12Z"
+      "pushed_at": "2026-04-29T06:44:12Z",
+      "updated_at": "2026-04-29T09:57:07Z"
     },
     {
       "id": 475337801,
@@ -103,41 +70,85 @@
       "stars": 6698,
       "forks": 252,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T05:36:42Z",
-      "updated_at": "2026-04-29T05:36:45Z"
+      "pushed_at": "2026-04-29T08:14:53Z",
+      "updated_at": "2026-04-29T08:14:56Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2942,
-      "forks": 190,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5632,
+      "forks": 735,
+      "language": "Swift",
+      "pushed_at": "2026-04-29T10:03:31Z",
+      "updated_at": "2026-04-29T09:58:35Z"
+    },
+    {
+      "id": 1083188349,
+      "full_name": "RICHQAQ/PasteMD",
+      "html_url": "https://github.com/RICHQAQ/PasteMD",
+      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
+      "stars": 4716,
+      "forks": 287,
       "language": "Python",
-      "pushed_at": "2026-04-29T04:20:17Z",
-      "updated_at": "2026-04-29T04:20:20Z"
+      "pushed_at": "2026-04-29T09:40:16Z",
+      "updated_at": "2026-04-29T09:40:21Z"
+    },
+    {
+      "id": 89676988,
+      "full_name": "mono0926/LicensePlist",
+      "html_url": "https://github.com/mono0926/LicensePlist",
+      "description": "A license list generator of all your dependencies for iOS applications",
+      "stars": 2519,
+      "forks": 151,
+      "language": "Swift",
+      "pushed_at": "2026-04-29T07:36:07Z",
+      "updated_at": "2026-04-29T07:36:10Z"
+    },
+    {
+      "id": 89766385,
+      "full_name": "cassidoo/todometer",
+      "html_url": "https://github.com/cassidoo/todometer",
+      "description": "A meter-based to-do list",
+      "stars": 2063,
+      "forks": 293,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-29T08:33:17Z",
+      "updated_at": "2026-04-29T08:33:16Z"
     },
     {
       "id": 1177941774,
       "full_name": "wm94i/Work_Review",
       "html_url": "https://github.com/wm94i/Work_Review",
       "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 1068,
+      "stars": 1069,
       "forks": 58,
       "language": "Rust",
-      "pushed_at": "2026-04-29T04:39:08Z",
-      "updated_at": "2026-04-29T06:01:59Z"
+      "pushed_at": "2026-04-29T09:06:21Z",
+      "updated_at": "2026-04-29T09:06:26Z"
     },
     {
-      "id": 88267809,
-      "full_name": "wmjordan/Codist",
-      "html_url": "https://github.com/wmjordan/Codist",
-      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
-      "stars": 390,
-      "forks": 34,
-      "language": "C#",
-      "pushed_at": "2026-04-29T02:30:10Z",
-      "updated_at": "2026-04-29T02:30:15Z"
+      "id": 1317787,
+      "full_name": "structr/structr",
+      "html_url": "https://github.com/structr/structr",
+      "description": "ATTENTION: This repository is a clone of https://gitlab.structr.com/structr/structr. All development/issue tracking has moved there. | Structr is an integrated open-source low-code development and runtime environment that uses a graph database (Neo4j).",
+      "stars": 823,
+      "forks": 161,
+      "language": "Java",
+      "pushed_at": "2026-04-29T08:57:07Z",
+      "updated_at": "2026-04-29T08:57:11Z"
+    },
+    {
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 463,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T06:44:45Z",
+      "updated_at": "2026-04-29T06:44:50Z"
     },
     {
       "id": 417447748,
@@ -147,30 +158,19 @@
       "stars": 360,
       "forks": 192,
       "language": "JavaScript",
-      "pushed_at": "2026-04-29T05:54:42Z",
-      "updated_at": "2026-04-29T05:54:44Z"
+      "pushed_at": "2026-04-29T08:53:49Z",
+      "updated_at": "2026-04-29T08:53:52Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 155,
-      "forks": 41,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-29T05:28:43Z",
-      "updated_at": "2026-04-29T05:28:45Z"
-    },
-    {
-      "id": 932721496,
-      "full_name": "ridemountainpig/subflow",
-      "html_url": "https://github.com/ridemountainpig/subflow",
-      "description": "Easily flow through your subscriptions with Subflow. Track spending, organize recurring payments, and take control of your subscription management.",
-      "stars": 154,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T06:01:37Z",
-      "updated_at": "2026-04-29T02:49:12Z"
+      "id": 73910557,
+      "full_name": "iazarny/gitember",
+      "html_url": "https://github.com/iazarny/gitember",
+      "description": "Gitember not just another git GUI client",
+      "stars": 106,
+      "forks": 17,
+      "language": "Java",
+      "pushed_at": "2026-04-29T07:26:28Z",
+      "updated_at": "2026-04-29T07:26:31Z"
     }
   ]
 }
