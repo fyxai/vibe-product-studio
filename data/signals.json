@@ -8,37 +8,59 @@
   "total_found": 821,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43207,
-      "forks": 2704,
-      "language": "C#",
-      "pushed_at": "2026-04-29T16:44:24Z",
-      "updated_at": "2026-04-29T17:01:36Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 122218,
+      "forks": 13466,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T21:01:03Z",
+      "updated_at": "2026-04-29T21:01:50Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 38315,
-      "forks": 2324,
+      "stars": 38376,
+      "forks": 2328,
       "language": "Rust",
-      "pushed_at": "2026-04-29T17:22:09Z",
-      "updated_at": "2026-04-29T17:21:07Z"
+      "pushed_at": "2026-04-29T18:55:04Z",
+      "updated_at": "2026-04-29T21:01:40Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 36346,
+      "forks": 3656,
+      "language": "C#",
+      "pushed_at": "2026-04-29T19:28:46Z",
+      "updated_at": "2026-04-29T19:28:53Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 24878,
+      "forks": 1820,
+      "language": "Vue",
+      "pushed_at": "2026-04-29T18:31:29Z",
+      "updated_at": "2026-04-29T20:05:00Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18910,
-      "forks": 1640,
+      "stars": 18912,
+      "forks": 1641,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T16:08:33Z",
-      "updated_at": "2026-04-29T17:14:49Z"
+      "pushed_at": "2026-04-29T19:25:37Z",
+      "updated_at": "2026-04-29T20:44:33Z"
     },
     {
       "id": 665613753,
@@ -48,30 +70,30 @@
       "stars": 10589,
       "forks": 1301,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T16:04:49Z",
-      "updated_at": "2026-04-29T16:10:29Z"
+      "pushed_at": "2026-04-29T21:00:33Z",
+      "updated_at": "2026-04-29T20:42:21Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app",
-      "stars": 6699,
-      "forks": 252,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T15:01:39Z",
-      "updated_at": "2026-04-29T15:01:42Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6030,
-      "forks": 126,
+      "id": 592882602,
+      "full_name": "MrKai77/Loop",
+      "html_url": "https://github.com/MrKai77/Loop",
+      "description": "Window management made elegant.",
+      "stars": 10499,
+      "forks": 230,
       "language": "Swift",
-      "pushed_at": "2026-04-29T15:32:44Z",
-      "updated_at": "2026-04-29T15:42:41Z"
+      "pushed_at": "2026-04-29T18:05:11Z",
+      "updated_at": "2026-04-29T19:24:51Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7379,
+      "forks": 193,
+      "language": "C++",
+      "pushed_at": "2026-04-29T18:02:19Z",
+      "updated_at": "2026-04-29T18:18:48Z"
     },
     {
       "id": 129699403,
@@ -81,63 +103,52 @@
       "stars": 5631,
       "forks": 736,
       "language": "Swift",
-      "pushed_at": "2026-04-29T17:18:23Z",
-      "updated_at": "2026-04-29T16:56:56Z"
+      "pushed_at": "2026-04-29T21:00:12Z",
+      "updated_at": "2026-04-29T20:56:03Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5165,
-      "forks": 618,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-29T16:42:42Z",
-      "updated_at": "2026-04-29T16:42:47Z"
-    },
-    {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5145,
-      "forks": 446,
-      "language": "Rust",
-      "pushed_at": "2026-04-29T16:21:35Z",
-      "updated_at": "2026-04-29T16:21:40Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4535,
-      "forks": 253,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-29T16:26:53Z",
-      "updated_at": "2026-04-29T16:27:37Z"
+      "id": 1079906817,
+      "full_name": "deta/surf",
+      "html_url": "https://github.com/deta/surf",
+      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+      "stars": 3363,
+      "forks": 237,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T19:21:59Z",
+      "updated_at": "2026-04-29T19:02:02Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2944,
+      "stars": 2946,
       "forks": 191,
       "language": "Python",
-      "pushed_at": "2026-04-29T17:08:10Z",
-      "updated_at": "2026-04-29T17:04:50Z"
+      "pushed_at": "2026-04-29T20:48:21Z",
+      "updated_at": "2026-04-29T20:48:25Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1803,
-      "forks": 113,
-      "language": "Go",
-      "pushed_at": "2026-04-29T14:37:41Z",
-      "updated_at": "2026-04-29T14:35:21Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2924,
+      "forks": 341,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T21:02:31Z",
+      "updated_at": "2026-04-29T21:02:34Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1734,
+      "forks": 175,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-29T20:14:23Z",
+      "updated_at": "2026-04-29T19:34:45Z"
     },
     {
       "id": 812362660,
@@ -145,32 +156,21 @@
       "html_url": "https://github.com/ViscousPot/GitSync",
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
       "stars": 1714,
-      "forks": 139,
+      "forks": 140,
       "language": "Dart",
-      "pushed_at": "2026-04-29T16:22:32Z",
-      "updated_at": "2026-04-29T16:22:35Z"
+      "pushed_at": "2026-04-29T20:49:24Z",
+      "updated_at": "2026-04-29T20:49:27Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 423,
-      "forks": 26,
+      "id": 257118456,
+      "full_name": "badsgahhl/pihole-browser-extension",
+      "html_url": "https://github.com/badsgahhl/pihole-browser-extension",
+      "description": "Browser extension to control your pi-hole (maintenance mode)",
+      "stars": 225,
+      "forks": 18,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T17:27:12Z",
-      "updated_at": "2026-04-29T17:27:14Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 256,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T14:53:18Z",
-      "updated_at": "2026-04-29T17:25:08Z"
+      "pushed_at": "2026-04-29T18:05:19Z",
+      "updated_at": "2026-04-29T18:05:22Z"
     }
   ]
 }
