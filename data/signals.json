@@ -8,158 +8,92 @@
   "total_found": 824,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36364,
-      "forks": 3656,
-      "language": "C#",
-      "pushed_at": "2026-04-30T18:43:26Z",
-      "updated_at": "2026-04-30T19:27:31Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24168,
-      "forks": 2276,
-      "language": "Python",
-      "pushed_at": "2026-04-30T20:28:13Z",
-      "updated_at": "2026-04-30T20:15:32Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18937,
+      "stars": 18939,
       "forks": 1640,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T19:04:54Z",
-      "updated_at": "2026-04-30T20:34:01Z"
+      "pushed_at": "2026-04-30T22:41:37Z",
+      "updated_at": "2026-05-01T02:00:00Z"
     },
     {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 17411,
-      "forks": 883,
-      "language": "Python",
-      "pushed_at": "2026-04-30T19:17:48Z",
-      "updated_at": "2026-04-30T20:56:04Z"
-    },
-    {
-      "id": 1052845083,
-      "full_name": "danielmiessler/Personal_AI_Infrastructure",
-      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 11873,
-      "forks": 1633,
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 9424,
+      "forks": 627,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T19:54:13Z",
-      "updated_at": "2026-04-30T20:45:48Z"
+      "pushed_at": "2026-05-01T01:23:46Z",
+      "updated_at": "2026-05-01T01:23:51Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10593,
-      "forks": 1303,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-30T20:54:46Z",
-      "updated_at": "2026-04-30T20:52:43Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7390,
-      "forks": 193,
-      "language": "C++",
-      "pushed_at": "2026-04-30T18:35:02Z",
-      "updated_at": "2026-04-30T20:17:11Z"
+      "id": 85459264,
+      "full_name": "ohmybash/oh-my-bash",
+      "html_url": "https://github.com/ohmybash/oh-my-bash",
+      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+      "stars": 7454,
+      "forks": 776,
+      "language": "Shell",
+      "pushed_at": "2026-05-01T02:55:18Z",
+      "updated_at": "2026-05-01T02:55:23Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5628,
+      "stars": 5629,
       "forks": 736,
       "language": "Swift",
-      "pushed_at": "2026-04-30T17:18:02Z",
-      "updated_at": "2026-04-30T18:20:03Z"
+      "pushed_at": "2026-04-30T22:08:25Z",
+      "updated_at": "2026-04-30T23:25:35Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4675,
-      "forks": 103,
-      "language": "Rust",
-      "pushed_at": "2026-04-30T17:21:23Z",
-      "updated_at": "2026-04-30T17:45:54Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4560,
-      "forks": 255,
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5171,
+      "forks": 618,
       "language": "Kotlin",
-      "pushed_at": "2026-04-30T18:05:21Z",
-      "updated_at": "2026-04-30T18:05:36Z"
+      "pushed_at": "2026-05-01T00:09:41Z",
+      "updated_at": "2026-05-01T00:09:48Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2927,
-      "forks": 342,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-30T19:08:06Z",
-      "updated_at": "2026-04-30T20:28:58Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2957,
+      "forks": 192,
+      "language": "Python",
+      "pushed_at": "2026-05-01T02:16:21Z",
+      "updated_at": "2026-04-30T23:00:06Z"
     },
     {
-      "id": 861937484,
-      "full_name": "aws/amazon-q-developer-cli",
-      "html_url": "https://github.com/aws/amazon-q-developer-cli",
-      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
-      "stars": 1945,
-      "forks": 428,
-      "language": "Rust",
-      "pushed_at": "2026-04-30T17:39:50Z",
-      "updated_at": "2026-04-28T19:52:29Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1833,
-      "forks": 135,
-      "language": "Dart",
-      "pushed_at": "2026-04-30T16:40:51Z",
-      "updated_at": "2026-04-30T16:40:56Z"
+      "id": 89766385,
+      "full_name": "cassidoo/todometer",
+      "html_url": "https://github.com/cassidoo/todometer",
+      "description": "A meter-based to-do list",
+      "stars": 2064,
+      "forks": 293,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-01T01:18:52Z",
+      "updated_at": "2026-05-01T01:20:40Z"
     },
     {
       "id": 812362660,
       "full_name": "ViscousPot/GitSync",
       "html_url": "https://github.com/ViscousPot/GitSync",
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1718,
+      "stars": 1720,
       "forks": 142,
       "language": "Dart",
-      "pushed_at": "2026-04-30T19:48:18Z",
-      "updated_at": "2026-04-30T20:56:27Z"
+      "pushed_at": "2026-05-01T01:03:43Z",
+      "updated_at": "2026-05-01T02:23:35Z"
     },
     {
       "id": 1079924730,
@@ -169,8 +103,74 @@
       "stars": 1676,
       "forks": 44,
       "language": "Swift",
-      "pushed_at": "2026-04-30T19:27:45Z",
-      "updated_at": "2026-04-30T19:29:50Z"
+      "pushed_at": "2026-04-30T23:16:08Z",
+      "updated_at": "2026-04-30T23:16:12Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1087,
+      "forks": 27,
+      "language": "Rust",
+      "pushed_at": "2026-05-01T00:56:37Z",
+      "updated_at": "2026-05-01T00:56:41Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work_Review",
+      "html_url": "https://github.com/wm94i/Work_Review",
+      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+      "stars": 1077,
+      "forks": 59,
+      "language": "Rust",
+      "pushed_at": "2026-05-01T01:25:40Z",
+      "updated_at": "2026-05-01T01:23:42Z"
+    },
+    {
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 339,
+      "forks": 12,
+      "language": "Swift",
+      "pushed_at": "2026-05-01T02:54:25Z",
+      "updated_at": "2026-05-01T02:54:29Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 326,
+      "forks": 62,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-01T02:31:19Z",
+      "updated_at": "2026-05-01T02:27:47Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 270,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-01T00:37:51Z",
+      "updated_at": "2026-05-01T01:24:12Z"
+    },
+    {
+      "id": 854514249,
+      "full_name": "aload0/Reef",
+      "html_url": "https://github.com/aload0/Reef",
+      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
+      "stars": 251,
+      "forks": 21,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-30T22:38:52Z",
+      "updated_at": "2026-04-30T22:38:55Z"
     }
   ]
 }
