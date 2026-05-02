@@ -8,17 +8,6 @@
   "total_found": 823,
   "items": [
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 20064,
-      "forks": 945,
-      "language": "Go",
-      "pushed_at": "2026-05-02T00:45:23Z",
-      "updated_at": "2026-05-02T05:39:46Z"
-    },
-    {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
@@ -41,15 +30,15 @@
       "updated_at": "2026-05-02T03:48:39Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7406,
-      "forks": 193,
-      "language": "C++",
-      "pushed_at": "2026-05-02T00:18:57Z",
-      "updated_at": "2026-05-02T00:20:20Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5634,
+      "forks": 736,
+      "language": "Swift",
+      "pushed_at": "2026-05-02T07:39:16Z",
+      "updated_at": "2026-05-02T06:35:40Z"
     },
     {
       "id": 11512043,
@@ -67,55 +56,66 @@
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4575,
+      "stars": 4577,
       "forks": 258,
       "language": "Kotlin",
       "pushed_at": "2026-05-02T04:28:48Z",
-      "updated_at": "2026-05-02T05:50:09Z"
+      "updated_at": "2026-05-02T08:39:03Z"
     },
     {
-      "id": 89766385,
-      "full_name": "cassidoo/todometer",
-      "html_url": "https://github.com/cassidoo/todometer",
-      "description": "A meter-based to-do list",
-      "stars": 2070,
-      "forks": 294,
+      "id": 187916430,
+      "full_name": "muety/wakapi",
+      "html_url": "https://github.com/muety/wakapi",
+      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+      "stars": 4294,
+      "forks": 284,
+      "language": "Go",
+      "pushed_at": "2026-05-02T07:01:32Z",
+      "updated_at": "2026-05-02T07:01:36Z"
+    },
+    {
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 3978,
+      "forks": 326,
+      "language": "PHP",
+      "pushed_at": "2026-05-02T08:06:46Z",
+      "updated_at": "2026-05-02T08:06:49Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1158,
+      "forks": 64,
       "language": "JavaScript",
-      "pushed_at": "2026-05-02T00:12:51Z",
-      "updated_at": "2026-05-02T01:23:24Z"
+      "pushed_at": "2026-05-02T07:56:51Z",
+      "updated_at": "2026-05-02T08:03:01Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1682,
-      "forks": 44,
-      "language": "Swift",
-      "pushed_at": "2026-05-02T01:16:15Z",
-      "updated_at": "2026-05-02T01:16:19Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 975,
-      "forks": 44,
-      "language": "Rust",
-      "pushed_at": "2026-05-02T02:37:44Z",
-      "updated_at": "2026-05-02T01:39:43Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1116,
+      "forks": 117,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-02T07:23:16Z",
+      "updated_at": "2026-05-02T07:23:21Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 788,
+      "stars": 789,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-05-02T04:12:00Z",
-      "updated_at": "2026-05-02T04:12:04Z"
+      "pushed_at": "2026-05-02T08:05:51Z",
+      "updated_at": "2026-05-02T08:05:56Z"
     },
     {
       "id": 591995344,
@@ -140,17 +140,6 @@
       "updated_at": "2026-05-02T05:02:21Z"
     },
     {
-      "id": 63053090,
-      "full_name": "deseven/iCanHazShortcut",
-      "html_url": "https://github.com/deseven/iCanHazShortcut",
-      "description": "simple shortcut manager for macOS",
-      "stars": 400,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-05-02T00:56:41Z",
-      "updated_at": "2026-05-02T00:56:45Z"
-    },
-    {
       "id": 226175035,
       "full_name": "kachkaev/njt",
       "html_url": "https://github.com/kachkaev/njt",
@@ -171,6 +160,17 @@
       "language": "Kotlin",
       "pushed_at": "2026-05-02T05:47:51Z",
       "updated_at": "2026-05-02T05:23:36Z"
+    },
+    {
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 89,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-05-02T06:27:11Z",
+      "updated_at": "2026-05-02T06:27:15Z"
     }
   ]
 }
