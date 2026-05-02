@@ -8,70 +8,37 @@
   "total_found": 823,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 36467,
-      "forks": 3668,
-      "language": "C#",
-      "pushed_at": "2026-05-01T20:42:05Z",
-      "updated_at": "2026-05-01T20:42:10Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24168,
-      "forks": 2275,
-      "language": "Python",
-      "pushed_at": "2026-05-01T19:45:19Z",
-      "updated_at": "2026-05-01T20:28:25Z"
-    },
-    {
       "id": 501045649,
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 20059,
+      "stars": 20062,
       "forks": 945,
       "language": "Go",
-      "pushed_at": "2026-05-01T20:50:14Z",
-      "updated_at": "2026-05-01T20:36:33Z"
+      "pushed_at": "2026-05-02T00:45:23Z",
+      "updated_at": "2026-05-02T02:08:54Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 18960,
-      "forks": 1645,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-01T19:59:26Z",
-      "updated_at": "2026-05-01T20:13:53Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14557,
+      "forks": 591,
+      "language": "C#",
+      "pushed_at": "2026-05-02T02:08:51Z",
+      "updated_at": "2026-05-02T02:13:19Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 13217,
-      "forks": 1306,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-01T17:33:18Z",
-      "updated_at": "2026-05-01T20:26:28Z"
-    },
-    {
-      "id": 1052845083,
-      "full_name": "danielmiessler/Personal_AI_Infrastructure",
-      "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 11919,
-      "forks": 1639,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-01T20:51:52Z",
-      "updated_at": "2026-05-01T20:49:14Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7406,
+      "forks": 193,
+      "language": "C++",
+      "pushed_at": "2026-05-02T00:18:57Z",
+      "updated_at": "2026-05-02T00:20:20Z"
     },
     {
       "id": 11512043,
@@ -81,85 +48,63 @@
       "stars": 5174,
       "forks": 618,
       "language": "Kotlin",
-      "pushed_at": "2026-05-01T19:21:47Z",
-      "updated_at": "2026-05-01T19:17:31Z"
+      "pushed_at": "2026-05-02T02:29:11Z",
+      "updated_at": "2026-05-02T02:29:16Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4572,
-      "forks": 257,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-01T17:26:34Z",
-      "updated_at": "2026-05-01T20:11:18Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2932,
+      "forks": 343,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T00:10:54Z",
+      "updated_at": "2026-05-02T00:10:59Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2248,
-      "forks": 258,
-      "language": "Go",
-      "pushed_at": "2026-05-01T18:24:52Z",
-      "updated_at": "2026-05-01T19:34:23Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1834,
-      "forks": 135,
-      "language": "Dart",
-      "pushed_at": "2026-05-01T20:38:31Z",
-      "updated_at": "2026-05-01T20:38:35Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1804,
-      "forks": 114,
-      "language": "Go",
-      "pushed_at": "2026-05-01T19:30:27Z",
-      "updated_at": "2026-05-01T19:26:40Z"
+      "id": 89766385,
+      "full_name": "cassidoo/todometer",
+      "html_url": "https://github.com/cassidoo/todometer",
+      "description": "A meter-based to-do list",
+      "stars": 2070,
+      "forks": 293,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-02T00:12:51Z",
+      "updated_at": "2026-05-02T01:23:24Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1680,
+      "stars": 1682,
       "forks": 44,
       "language": "Swift",
-      "pushed_at": "2026-05-01T19:38:03Z",
-      "updated_at": "2026-05-01T19:38:07Z"
+      "pushed_at": "2026-05-02T01:16:15Z",
+      "updated_at": "2026-05-02T01:16:19Z"
     },
     {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1086,
-      "forks": 40,
-      "language": "C++",
-      "pushed_at": "2026-05-01T20:40:16Z",
-      "updated_at": "2026-05-01T20:39:14Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 975,
+      "forks": 44,
+      "language": "Rust",
+      "pushed_at": "2026-05-02T02:37:44Z",
+      "updated_at": "2026-05-02T01:39:43Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 786,
+      "stars": 788,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-05-01T20:43:38Z",
-      "updated_at": "2026-05-01T20:43:42Z"
+      "pushed_at": "2026-05-02T02:16:59Z",
+      "updated_at": "2026-05-02T01:34:34Z"
     },
     {
       "id": 591995344,
@@ -169,8 +114,63 @@
       "stars": 739,
       "forks": 74,
       "language": "Python",
-      "pushed_at": "2026-05-01T18:01:14Z",
-      "updated_at": "2026-05-01T18:01:19Z"
+      "pushed_at": "2026-05-02T02:27:25Z",
+      "updated_at": "2026-05-02T02:27:30Z"
+    },
+    {
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 404,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-01T22:51:48Z",
+      "updated_at": "2026-05-01T22:51:52Z"
+    },
+    {
+      "id": 63053090,
+      "full_name": "deseven/iCanHazShortcut",
+      "html_url": "https://github.com/deseven/iCanHazShortcut",
+      "description": "simple shortcut manager for macOS",
+      "stars": 400,
+      "forks": 17,
+      "language": "Swift",
+      "pushed_at": "2026-05-02T00:56:41Z",
+      "updated_at": "2026-05-02T00:56:45Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T01:47:30Z",
+      "updated_at": "2026-05-02T01:47:33Z"
+    },
+    {
+      "id": 854514249,
+      "full_name": "aload0/Reef",
+      "html_url": "https://github.com/aload0/Reef",
+      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
+      "stars": 251,
+      "forks": 21,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-02T00:10:07Z",
+      "updated_at": "2026-05-02T00:10:11Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 123,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-02T01:28:51Z",
+      "updated_at": "2026-05-02T01:28:35Z"
     }
   ]
 }
