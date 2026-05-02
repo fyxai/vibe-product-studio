@@ -12,11 +12,11 @@
       "full_name": "wavetermdev/waveterm",
       "html_url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 20062,
+      "stars": 20064,
       "forks": 945,
       "language": "Go",
       "pushed_at": "2026-05-02T00:45:23Z",
-      "updated_at": "2026-05-02T02:08:54Z"
+      "updated_at": "2026-05-02T05:39:46Z"
     },
     {
       "id": 257526212,
@@ -26,8 +26,19 @@
       "stars": 14557,
       "forks": 591,
       "language": "C#",
-      "pushed_at": "2026-05-02T02:08:51Z",
+      "pushed_at": "2026-05-02T05:44:18Z",
       "updated_at": "2026-05-02T02:13:19Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 13991,
+      "forks": 944,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T06:04:19Z",
+      "updated_at": "2026-05-02T03:48:39Z"
     },
     {
       "id": 1027461827,
@@ -48,19 +59,19 @@
       "stars": 5174,
       "forks": 618,
       "language": "Kotlin",
-      "pushed_at": "2026-05-02T02:29:11Z",
-      "updated_at": "2026-05-02T02:29:16Z"
+      "pushed_at": "2026-05-02T03:33:01Z",
+      "updated_at": "2026-05-02T03:33:06Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2932,
-      "forks": 343,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-02T00:10:54Z",
-      "updated_at": "2026-05-02T00:10:59Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4575,
+      "forks": 258,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-02T04:28:48Z",
+      "updated_at": "2026-05-02T05:50:09Z"
     },
     {
       "id": 89766385,
@@ -68,7 +79,7 @@
       "html_url": "https://github.com/cassidoo/todometer",
       "description": "A meter-based to-do list",
       "stars": 2070,
-      "forks": 293,
+      "forks": 294,
       "language": "JavaScript",
       "pushed_at": "2026-05-02T00:12:51Z",
       "updated_at": "2026-05-02T01:23:24Z"
@@ -103,8 +114,8 @@
       "stars": 788,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-05-02T02:16:59Z",
-      "updated_at": "2026-05-02T01:34:34Z"
+      "pushed_at": "2026-05-02T04:12:00Z",
+      "updated_at": "2026-05-02T04:12:04Z"
     },
     {
       "id": 591995344,
@@ -112,21 +123,21 @@
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
       "stars": 739,
-      "forks": 74,
+      "forks": 73,
       "language": "Python",
-      "pushed_at": "2026-05-02T02:27:25Z",
-      "updated_at": "2026-05-02T02:27:30Z"
+      "pushed_at": "2026-05-02T02:48:55Z",
+      "updated_at": "2026-05-02T02:48:58Z"
     },
     {
-      "id": 1126665558,
-      "full_name": "3xpyth0n/ideon",
-      "html_url": "https://github.com/3xpyth0n/ideon",
-      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
-      "stars": 404,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-01T22:51:48Z",
-      "updated_at": "2026-05-01T22:51:52Z"
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 420,
+      "forks": 51,
+      "language": "Swift",
+      "pushed_at": "2026-05-02T03:25:39Z",
+      "updated_at": "2026-05-02T05:02:21Z"
     },
     {
       "id": 63053090,
@@ -151,17 +162,6 @@
       "updated_at": "2026-05-02T01:47:33Z"
     },
     {
-      "id": 854514249,
-      "full_name": "aload0/Reef",
-      "html_url": "https://github.com/aload0/Reef",
-      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
-      "stars": 251,
-      "forks": 21,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-02T00:10:07Z",
-      "updated_at": "2026-05-02T00:10:11Z"
-    },
-    {
       "id": 737246781,
       "full_name": "Super12138/VerveDo",
       "html_url": "https://github.com/Super12138/VerveDo",
@@ -169,8 +169,8 @@
       "stars": 123,
       "forks": 12,
       "language": "Kotlin",
-      "pushed_at": "2026-05-02T01:28:51Z",
-      "updated_at": "2026-05-02T01:28:35Z"
+      "pushed_at": "2026-05-02T05:47:51Z",
+      "updated_at": "2026-05-02T05:23:36Z"
     }
   ]
 }
