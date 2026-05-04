@@ -8,37 +8,48 @@
   "total_found": 824,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43259,
-      "forks": 2705,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 122457,
+      "forks": 13507,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T09:37:20Z",
+      "updated_at": "2026-05-04T10:05:33Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 40929,
+      "forks": 2495,
+      "language": "Rust",
+      "pushed_at": "2026-05-04T08:26:05Z",
+      "updated_at": "2026-05-04T10:12:06Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37094,
+      "forks": 3700,
       "language": "C#",
-      "pushed_at": "2026-05-04T05:36:35Z",
-      "updated_at": "2026-05-04T05:36:40Z"
+      "pushed_at": "2026-05-04T10:08:33Z",
+      "updated_at": "2026-05-04T10:08:38Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14004,
+      "stars": 14007,
       "forks": 944,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T06:36:29Z",
-      "updated_at": "2026-05-04T05:30:07Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12921,
-      "forks": 789,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T04:07:05Z",
-      "updated_at": "2026-05-04T05:37:52Z"
+      "pushed_at": "2026-05-04T09:13:05Z",
+      "updated_at": "2026-05-04T10:00:17Z"
     },
     {
       "id": 665613753,
@@ -48,19 +59,63 @@
       "stars": 10615,
       "forks": 1311,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T05:58:01Z",
-      "updated_at": "2026-05-04T05:58:09Z"
+      "pushed_at": "2026-05-04T10:05:08Z",
+      "updated_at": "2026-05-04T10:04:07Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1806,
-      "forks": 114,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6712,
+      "forks": 253,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T10:04:44Z",
+      "updated_at": "2026-05-04T10:04:47Z"
+    },
+    {
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 5999,
+      "forks": 319,
+      "language": "Swift",
+      "pushed_at": "2026-05-04T09:09:43Z",
+      "updated_at": "2026-05-04T09:09:51Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5636,
+      "forks": 735,
+      "language": "Swift",
+      "pushed_at": "2026-05-04T10:12:03Z",
+      "updated_at": "2026-05-04T10:12:03Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2274,
+      "forks": 263,
       "language": "Go",
-      "pushed_at": "2026-05-04T04:50:45Z",
-      "updated_at": "2026-05-04T04:46:47Z"
+      "pushed_at": "2026-05-04T09:31:10Z",
+      "updated_at": "2026-05-04T09:40:35Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 793,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T10:10:14Z",
+      "updated_at": "2026-05-04T09:27:28Z"
     },
     {
       "id": 1148683593,
@@ -70,74 +125,41 @@
       "stars": 694,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-04T06:03:12Z",
-      "updated_at": "2026-05-04T06:03:16Z"
+      "pushed_at": "2026-05-04T09:58:29Z",
+      "updated_at": "2026-05-04T09:58:34Z"
     },
     {
-      "id": 986669929,
-      "full_name": "ysm-dev/cpdown",
-      "html_url": "https://github.com/ysm-dev/cpdown",
-      "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
-      "stars": 535,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T02:11:39Z",
-      "updated_at": "2026-05-04T02:11:43Z"
-    },
-    {
-      "id": 1212093880,
-      "full_name": "heyderekj/dinky",
-      "html_url": "https://github.com/heyderekj/dinky",
-      "description": "Dinky makes files smaller.",
-      "stars": 355,
-      "forks": 13,
-      "language": "Swift",
-      "pushed_at": "2026-05-04T01:43:46Z",
-      "updated_at": "2026-05-04T01:43:51Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
-      "stars": 332,
-      "forks": 59,
-      "language": "Python",
-      "pushed_at": "2026-05-04T03:36:24Z",
-      "updated_at": "2026-05-04T03:25:34Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 308,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-05-04T08:33:42Z",
+      "updated_at": "2026-05-04T08:33:48Z"
     },
     {
       "id": 1041102492,
       "full_name": "leeguooooo/claude-code-usage-bar",
       "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
       "description": "Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time",
-      "stars": 223,
+      "stars": 222,
       "forks": 9,
       "language": "Python",
-      "pushed_at": "2026-05-04T03:36:48Z",
-      "updated_at": "2026-05-04T03:36:47Z"
+      "pushed_at": "2026-05-04T10:07:23Z",
+      "updated_at": "2026-05-04T10:07:21Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 162,
-      "forks": 44,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-04T05:55:44Z",
-      "updated_at": "2026-05-04T05:55:46Z"
-    },
-    {
-      "id": 1211341525,
-      "full_name": "programmersd21/kairo",
-      "html_url": "https://github.com/programmersd21/kairo",
-      "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
-      "stars": 151,
-      "forks": 12,
+      "id": 16852661,
+      "full_name": "emad-elsaid/xlog",
+      "html_url": "https://github.com/emad-elsaid/xlog",
+      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
+      "stars": 208,
+      "forks": 21,
       "language": "Go",
-      "pushed_at": "2026-05-04T06:23:54Z",
-      "updated_at": "2026-05-04T06:33:34Z"
+      "pushed_at": "2026-05-04T10:05:40Z",
+      "updated_at": "2026-05-04T10:05:44Z"
     },
     {
       "id": 1132086156,
@@ -147,30 +169,8 @@
       "stars": 106,
       "forks": 1,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T03:31:19Z",
-      "updated_at": "2026-05-04T03:31:24Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "A terminal based project management solution",
-      "stars": 97,
-      "forks": 4,
-      "language": "Rust",
-      "pushed_at": "2026-05-04T05:32:29Z",
-      "updated_at": "2026-05-04T04:32:53Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 96,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T03:28:09Z",
-      "updated_at": "2026-05-04T03:25:24Z"
+      "pushed_at": "2026-05-04T09:26:32Z",
+      "updated_at": "2026-05-04T09:26:36Z"
     }
   ]
 }
