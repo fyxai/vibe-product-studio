@@ -8,92 +8,92 @@
   "total_found": 826,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43294,
-      "forks": 2706,
-      "language": "C#",
-      "pushed_at": "2026-05-06T02:34:26Z",
-      "updated_at": "2026-05-06T02:34:29Z"
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14010,
+      "forks": 944,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T05:45:47Z",
+      "updated_at": "2026-05-06T06:11:23Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37226,
-      "forks": 3717,
-      "language": "C#",
-      "pushed_at": "2026-05-05T23:55:57Z",
-      "updated_at": "2026-05-06T02:35:30Z"
+      "id": 590604203,
+      "full_name": "TheR1D/shell_gpt",
+      "html_url": "https://github.com/TheR1D/shell_gpt",
+      "description": "A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.",
+      "stars": 12045,
+      "forks": 959,
+      "language": "Python",
+      "pushed_at": "2026-05-06T04:29:55Z",
+      "updated_at": "2026-05-06T04:31:51Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10627,
+      "stars": 10629,
       "forks": 1314,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T02:44:24Z",
-      "updated_at": "2026-05-06T02:44:28Z"
+      "pushed_at": "2026-05-06T04:45:24Z",
+      "updated_at": "2026-05-06T06:16:02Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8445,
-      "forks": 932,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T02:11:43Z",
-      "updated_at": "2026-05-06T01:58:32Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7477,
-      "forks": 194,
-      "language": "C++",
-      "pushed_at": "2026-05-06T01:07:28Z",
-      "updated_at": "2026-05-06T02:17:58Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5637,
-      "forks": 737,
-      "language": "Swift",
-      "pushed_at": "2026-05-05T20:25:49Z",
-      "updated_at": "2026-05-05T20:20:34Z"
-    },
-    {
-      "id": 70306830,
-      "full_name": "hoothin/UserScripts",
-      "html_url": "https://github.com/hoothin/UserScripts",
-      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
-      "stars": 4150,
-      "forks": 576,
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
+      "stars": 8117,
+      "forks": 606,
       "language": "JavaScript",
-      "pushed_at": "2026-05-06T01:04:37Z",
-      "updated_at": "2026-05-06T01:04:44Z"
+      "pushed_at": "2026-05-06T06:27:31Z",
+      "updated_at": "2026-05-06T06:21:07Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2289,
-      "forks": 266,
-      "language": "Go",
-      "pushed_at": "2026-05-06T02:31:13Z",
-      "updated_at": "2026-05-06T02:30:47Z"
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6713,
+      "forks": 253,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T05:44:09Z",
+      "updated_at": "2026-05-06T05:44:12Z"
+    },
+    {
+      "id": 1111053300,
+      "full_name": "yuzeguitarist/Deck",
+      "html_url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "stars": 1139,
+      "forks": 32,
+      "language": "Swift",
+      "pushed_at": "2026-05-06T03:38:05Z",
+      "updated_at": "2026-05-06T06:11:12Z"
+    },
+    {
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+      "stars": 1064,
+      "forks": 54,
+      "language": "Shell",
+      "pushed_at": "2026-05-06T05:43:12Z",
+      "updated_at": "2026-05-06T06:08:05Z"
+    },
+    {
+      "id": 1094171135,
+      "full_name": "dtsola/xiaoyaosearch",
+      "html_url": "https://github.com/dtsola/xiaoyaosearch",
+      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
+      "stars": 939,
+      "forks": 62,
+      "language": "Python",
+      "pushed_at": "2026-05-06T03:35:59Z",
+      "updated_at": "2026-05-06T03:36:03Z"
     },
     {
       "id": 1111978380,
@@ -103,19 +103,8 @@
       "stars": 808,
       "forks": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T23:27:22Z",
-      "updated_at": "2026-05-05T23:27:26Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 740,
-      "forks": 75,
-      "language": "Python",
-      "pushed_at": "2026-05-05T22:14:27Z",
-      "updated_at": "2026-05-05T22:14:31Z"
+      "pushed_at": "2026-05-06T03:17:00Z",
+      "updated_at": "2026-05-06T03:17:04Z"
     },
     {
       "id": 1148683593,
@@ -125,52 +114,63 @@
       "stars": 699,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-05T22:17:56Z",
-      "updated_at": "2026-05-05T22:18:01Z"
+      "pushed_at": "2026-05-06T04:48:13Z",
+      "updated_at": "2026-05-06T04:48:17Z"
     },
     {
-      "id": 63053090,
-      "full_name": "deseven/iCanHazShortcut",
-      "html_url": "https://github.com/deseven/iCanHazShortcut",
-      "description": "simple shortcut manager for macOS",
-      "stars": 402,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-05-05T21:21:25Z",
-      "updated_at": "2026-05-06T02:22:37Z"
-    },
-    {
-      "id": 1212093880,
-      "full_name": "heyderekj/dinky",
-      "html_url": "https://github.com/heyderekj/dinky",
-      "description": "Dinky makes files smaller.",
-      "stars": 365,
-      "forks": 13,
-      "language": "Swift",
-      "pushed_at": "2026-05-06T00:25:37Z",
-      "updated_at": "2026-05-06T00:25:41Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Product Management Skills for Claude AI - Save 8-9 hours per week",
-      "stars": 303,
-      "forks": 50,
-      "language": "Shell",
-      "pushed_at": "2026-05-05T22:32:04Z",
-      "updated_at": "2026-05-06T01:53:47Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 283,
-      "forks": 12,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 600,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T21:34:21Z",
-      "updated_at": "2026-05-05T21:34:26Z"
+      "pushed_at": "2026-05-06T06:18:50Z",
+      "updated_at": "2026-05-06T06:18:54Z"
+    },
+    {
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 409,
+      "forks": 18,
+      "language": "Go",
+      "pushed_at": "2026-05-06T06:01:46Z",
+      "updated_at": "2026-05-06T06:01:44Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
+      "stars": 340,
+      "forks": 60,
+      "language": "Python",
+      "pushed_at": "2026-05-06T06:00:08Z",
+      "updated_at": "2026-05-06T06:00:13Z"
+    },
+    {
+      "id": 582366639,
+      "full_name": "Th3Un1q3/flipp_pomodoro",
+      "html_url": "https://github.com/Th3Un1q3/flipp_pomodoro",
+      "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
+      "stars": 208,
+      "forks": 14,
+      "language": "C",
+      "pushed_at": "2026-05-06T04:25:20Z",
+      "updated_at": "2026-05-06T04:22:50Z"
+    },
+    {
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 162,
+      "forks": 44,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-06T05:15:50Z",
+      "updated_at": "2026-05-06T05:15:55Z"
     }
   ]
 }
