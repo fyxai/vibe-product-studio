@@ -8,59 +8,70 @@
   "total_found": 828,
   "items": [
     {
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 186756,
+      "forks": 26355,
+      "language": "Shell",
+      "pushed_at": "2026-05-06T12:34:33Z",
+      "updated_at": "2026-05-06T13:49:52Z"
+    },
+    {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122585,
-      "forks": 13541,
+      "stars": 122604,
+      "forks": 13543,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T08:11:25Z",
-      "updated_at": "2026-05-06T10:16:32Z"
+      "pushed_at": "2026-05-06T13:27:37Z",
+      "updated_at": "2026-05-06T13:50:42Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14011,
-      "forks": 944,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T09:05:30Z",
-      "updated_at": "2026-05-06T08:22:03Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37280,
+      "forks": 3718,
+      "language": "C#",
+      "pushed_at": "2026-05-06T10:35:19Z",
+      "updated_at": "2026-05-06T14:03:13Z"
     },
     {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13771,
-      "forks": 1175,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19091,
+      "forks": 1658,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T08:01:18Z",
-      "updated_at": "2026-05-06T09:45:30Z"
+      "pushed_at": "2026-05-06T12:17:31Z",
+      "updated_at": "2026-05-06T14:01:16Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10629,
-      "forks": 1314,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 13259,
+      "forks": 1320,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T10:04:54Z",
-      "updated_at": "2026-05-06T09:37:25Z"
+      "pushed_at": "2026-05-06T14:08:09Z",
+      "updated_at": "2026-05-06T13:57:54Z"
     },
     {
       "id": 475337801,
       "full_name": "massCodeIO/massCode",
       "html_url": "https://github.com/massCodeIO/massCode",
       "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6713,
+      "stars": 6714,
       "forks": 253,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T09:05:27Z",
-      "updated_at": "2026-05-06T09:05:31Z"
+      "pushed_at": "2026-05-06T13:58:25Z",
+      "updated_at": "2026-05-06T14:04:16Z"
     },
     {
       "id": 129699403,
@@ -70,8 +81,30 @@
       "stars": 5637,
       "forks": 738,
       "language": "Swift",
-      "pushed_at": "2026-05-06T10:16:27Z",
-      "updated_at": "2026-05-06T09:28:58Z"
+      "pushed_at": "2026-05-06T14:06:06Z",
+      "updated_at": "2026-05-06T13:55:28Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3175,
+      "forks": 148,
+      "language": "Gherkin",
+      "pushed_at": "2026-05-06T13:38:36Z",
+      "updated_at": "2026-05-06T12:10:43Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2968,
+      "forks": 350,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T10:36:24Z",
+      "updated_at": "2026-05-06T10:46:27Z"
     },
     {
       "id": 1109341946,
@@ -81,8 +114,8 @@
       "stars": 2292,
       "forks": 266,
       "language": "Go",
-      "pushed_at": "2026-05-06T09:37:53Z",
-      "updated_at": "2026-05-06T09:35:57Z"
+      "pushed_at": "2026-05-06T11:59:08Z",
+      "updated_at": "2026-05-06T12:11:44Z"
     },
     {
       "id": 323279421,
@@ -92,85 +125,52 @@
       "stars": 1840,
       "forks": 135,
       "language": "Dart",
-      "pushed_at": "2026-05-06T09:33:24Z",
-      "updated_at": "2026-05-06T09:33:28Z"
+      "pushed_at": "2026-05-06T13:43:45Z",
+      "updated_at": "2026-05-06T13:43:50Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 434,
-      "forks": 27,
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
+      "stars": 699,
+      "forks": 26,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-05-06T12:10:20Z",
+      "updated_at": "2026-05-06T12:10:25Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 600,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T09:38:48Z",
-      "updated_at": "2026-05-06T09:38:50Z"
+      "pushed_at": "2026-05-06T12:20:04Z",
+      "updated_at": "2026-05-06T12:20:08Z"
     },
     {
-      "id": 88267809,
-      "full_name": "wmjordan/Codist",
-      "html_url": "https://github.com/wmjordan/Codist",
-      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
-      "stars": 390,
-      "forks": 34,
-      "language": "C#",
-      "pushed_at": "2026-05-06T07:56:08Z",
-      "updated_at": "2026-05-06T07:56:12Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
-      "stars": 347,
-      "forks": 61,
-      "language": "Python",
-      "pushed_at": "2026-05-06T06:59:43Z",
-      "updated_at": "2026-05-06T10:11:53Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Product Management Skills for Claude AI - Save 8-9 hours per week",
-      "stars": 305,
-      "forks": 50,
-      "language": "Shell",
-      "pushed_at": "2026-05-06T08:20:04Z",
-      "updated_at": "2026-05-06T08:20:08Z"
-    },
-    {
-      "id": 1211341525,
-      "full_name": "programmersd21/kairo",
-      "html_url": "https://github.com/programmersd21/kairo",
-      "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
-      "stars": 184,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-05-06T09:03:33Z",
-      "updated_at": "2026-05-06T10:06:37Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 163,
-      "forks": 44,
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 497,
+      "forks": 66,
       "language": "JavaScript",
-      "pushed_at": "2026-05-06T09:24:49Z",
-      "updated_at": "2026-05-06T09:24:51Z"
+      "pushed_at": "2026-05-06T11:14:54Z",
+      "updated_at": "2026-05-06T13:49:08Z"
     },
     {
-      "id": 1174381781,
-      "full_name": "eljulians/skillfile",
-      "html_url": "https://github.com/eljulians/skillfile",
-      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
-      "stars": 115,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-05-06T08:05:23Z",
-      "updated_at": "2026-05-06T08:05:27Z"
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 188,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T13:01:03Z",
+      "updated_at": "2026-05-06T13:01:33Z"
     }
   ]
 }
