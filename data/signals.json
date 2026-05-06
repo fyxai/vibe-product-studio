@@ -8,70 +8,59 @@
   "total_found": 828,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 186756,
-      "forks": 26355,
-      "language": "Shell",
-      "pushed_at": "2026-05-06T12:34:33Z",
-      "updated_at": "2026-05-06T13:49:52Z"
-    },
-    {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122604,
-      "forks": 13543,
+      "stars": 122615,
+      "forks": 13544,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T13:27:37Z",
-      "updated_at": "2026-05-06T13:50:42Z"
+      "pushed_at": "2026-05-06T17:10:54Z",
+      "updated_at": "2026-05-06T17:07:15Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37280,
-      "forks": 3718,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43301,
+      "forks": 2706,
       "language": "C#",
-      "pushed_at": "2026-05-06T10:35:19Z",
-      "updated_at": "2026-05-06T14:03:13Z"
+      "pushed_at": "2026-05-06T15:39:57Z",
+      "updated_at": "2026-05-06T17:00:24Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19091,
-      "forks": 1658,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T12:17:31Z",
-      "updated_at": "2026-05-06T14:01:16Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 42864,
+      "forks": 2590,
+      "language": "Rust",
+      "pushed_at": "2026-05-06T15:56:23Z",
+      "updated_at": "2026-05-06T17:26:32Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 13259,
+      "stars": 13264,
       "forks": 1320,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T14:08:09Z",
-      "updated_at": "2026-05-06T13:57:54Z"
+      "pushed_at": "2026-05-06T17:00:25Z",
+      "updated_at": "2026-05-06T17:26:42Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6714,
-      "forks": 253,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T13:58:25Z",
-      "updated_at": "2026-05-06T14:04:16Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7487,
+      "forks": 194,
+      "language": "C++",
+      "pushed_at": "2026-05-06T16:07:21Z",
+      "updated_at": "2026-05-06T16:08:28Z"
     },
     {
       "id": 129699403,
@@ -79,21 +68,32 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5637,
-      "forks": 738,
+      "forks": 739,
       "language": "Swift",
-      "pushed_at": "2026-05-06T14:06:06Z",
-      "updated_at": "2026-05-06T13:55:28Z"
+      "pushed_at": "2026-05-06T17:26:04Z",
+      "updated_at": "2026-05-06T17:26:49Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3175,
-      "forks": 148,
-      "language": "Gherkin",
-      "pushed_at": "2026-05-06T13:38:36Z",
-      "updated_at": "2026-05-06T12:10:43Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5192,
+      "forks": 621,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-06T15:47:56Z",
+      "updated_at": "2026-05-06T15:47:36Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2982,
+      "forks": 192,
+      "language": "Python",
+      "pushed_at": "2026-05-06T17:21:37Z",
+      "updated_at": "2026-05-06T17:23:22Z"
     },
     {
       "id": 1114821770,
@@ -103,52 +103,41 @@
       "stars": 2968,
       "forks": 350,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T10:36:24Z",
-      "updated_at": "2026-05-06T10:46:27Z"
+      "pushed_at": "2026-05-06T16:41:56Z",
+      "updated_at": "2026-05-06T16:41:59Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2292,
-      "forks": 266,
-      "language": "Go",
-      "pushed_at": "2026-05-06T11:59:08Z",
-      "updated_at": "2026-05-06T12:11:44Z"
+      "id": 217049587,
+      "full_name": "alan-ai/alan-sdk-web",
+      "html_url": "https://github.com/alan-ai/alan-sdk-web",
+      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
+      "stars": 2435,
+      "forks": 104,
+      "language": "Unknown",
+      "pushed_at": "2026-05-06T16:52:58Z",
+      "updated_at": "2026-05-06T16:53:03Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1840,
-      "forks": 135,
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1755,
+      "forks": 144,
       "language": "Dart",
-      "pushed_at": "2026-05-06T13:43:45Z",
-      "updated_at": "2026-05-06T13:43:50Z"
+      "pushed_at": "2026-05-06T15:20:42Z",
+      "updated_at": "2026-05-06T17:18:01Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 699,
+      "stars": 700,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-06T12:10:20Z",
-      "updated_at": "2026-05-06T12:10:25Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 600,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T12:20:04Z",
-      "updated_at": "2026-05-06T12:20:08Z"
+      "pushed_at": "2026-05-06T17:27:46Z",
+      "updated_at": "2026-05-06T17:27:50Z"
     },
     {
       "id": 590023059,
@@ -158,19 +147,30 @@
       "stars": 497,
       "forks": 66,
       "language": "JavaScript",
-      "pushed_at": "2026-05-06T11:14:54Z",
-      "updated_at": "2026-05-06T13:49:08Z"
+      "pushed_at": "2026-05-06T16:17:57Z",
+      "updated_at": "2026-05-06T16:15:50Z"
     },
     {
-      "id": 1048106675,
-      "full_name": "vasylenko/bear-notes-mcp",
-      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
-      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
-      "stars": 188,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T13:01:03Z",
-      "updated_at": "2026-05-06T13:01:33Z"
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 369,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-05-06T17:24:03Z",
+      "updated_at": "2026-05-06T17:24:07Z"
+    },
+    {
+      "id": 1149110392,
+      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
+      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
+      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
+      "stars": 321,
+      "forks": 45,
+      "language": "Unknown",
+      "pushed_at": "2026-05-06T16:50:10Z",
+      "updated_at": "2026-05-06T16:50:14Z"
     }
   ]
 }
