@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 830,
+  "total_found": 831,
   "items": [
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122701,
+      "stars": 122712,
       "forks": 13561,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T15:22:33Z",
-      "updated_at": "2026-05-07T17:32:28Z"
+      "pushed_at": "2026-05-07T20:26:53Z",
+      "updated_at": "2026-05-07T20:57:56Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19129,
-      "forks": 1662,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-07T16:29:58Z",
-      "updated_at": "2026-05-07T17:25:59Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37353,
+      "forks": 3726,
+      "language": "C#",
+      "pushed_at": "2026-05-07T18:11:10Z",
+      "updated_at": "2026-05-07T19:28:54Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14604,
+      "stars": 14605,
       "forks": 595,
       "language": "C#",
-      "pushed_at": "2026-05-07T17:08:01Z",
-      "updated_at": "2026-05-07T16:19:56Z"
+      "pushed_at": "2026-05-07T19:26:31Z",
+      "updated_at": "2026-05-07T18:27:57Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8448,
-      "forks": 932,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 13302,
+      "forks": 1326,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T15:24:38Z",
-      "updated_at": "2026-05-07T15:40:44Z"
+      "pushed_at": "2026-05-07T20:51:06Z",
+      "updated_at": "2026-05-07T20:52:11Z"
     },
     {
       "id": 1027461827,
@@ -59,8 +59,8 @@
       "stars": 7498,
       "forks": 194,
       "language": "C++",
-      "pushed_at": "2026-05-07T16:11:21Z",
-      "updated_at": "2026-05-07T17:18:46Z"
+      "pushed_at": "2026-05-07T20:09:43Z",
+      "updated_at": "2026-05-07T20:09:52Z"
     },
     {
       "id": 129699403,
@@ -70,63 +70,63 @@
       "stars": 5640,
       "forks": 739,
       "language": "Swift",
-      "pushed_at": "2026-05-07T17:40:29Z",
-      "updated_at": "2026-05-07T17:01:01Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5270,
-      "forks": 305,
-      "language": "Vala",
-      "pushed_at": "2026-05-07T15:19:42Z",
-      "updated_at": "2026-05-07T15:28:13Z"
+      "pushed_at": "2026-05-07T21:01:34Z",
+      "updated_at": "2026-05-07T18:52:25Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5197,
+      "stars": 5199,
       "forks": 621,
       "language": "Kotlin",
-      "pushed_at": "2026-05-07T17:46:09Z",
-      "updated_at": "2026-05-07T17:46:15Z"
+      "pushed_at": "2026-05-07T20:58:29Z",
+      "updated_at": "2026-05-07T21:01:30Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2986,
-      "forks": 357,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3679,
+      "forks": 766,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T14:09:17Z",
-      "updated_at": "2026-05-07T14:54:36Z"
+      "pushed_at": "2026-05-07T21:00:56Z",
+      "updated_at": "2026-05-07T20:50:10Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1808,
-      "forks": 113,
-      "language": "Go",
-      "pushed_at": "2026-05-07T15:50:40Z",
-      "updated_at": "2026-05-07T15:54:56Z"
+      "id": 198357530,
+      "full_name": "insin/control-panel-for-twitter",
+      "html_url": "https://github.com/insin/control-panel-for-twitter",
+      "description": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile",
+      "stars": 2512,
+      "forks": 92,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-07T18:51:28Z",
+      "updated_at": "2026-05-07T18:52:00Z"
     },
     {
-      "id": 2057515,
-      "full_name": "TracksApp/tracks",
-      "html_url": "https://github.com/TracksApp/tracks",
-      "description": "Tracks is a GTD™ web application, built with Ruby on Rails",
-      "stars": 1227,
-      "forks": 530,
-      "language": "Ruby",
-      "pushed_at": "2026-05-07T14:47:02Z",
-      "updated_at": "2026-05-07T15:01:44Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+      "stars": 1078,
+      "forks": 57,
+      "language": "Shell",
+      "pushed_at": "2026-05-07T18:09:56Z",
+      "updated_at": "2026-05-07T18:23:30Z"
+    },
+    {
+      "id": 919664598,
+      "full_name": "WINBIGFOX/TimeScribe",
+      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "stars": 813,
+      "forks": 75,
+      "language": "PHP",
+      "pushed_at": "2026-05-07T18:37:31Z",
+      "updated_at": "2026-05-07T18:37:35Z"
     },
     {
       "id": 1111978380,
@@ -136,41 +136,41 @@
       "stars": 811,
       "forks": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T16:32:47Z",
-      "updated_at": "2026-05-07T16:34:53Z"
+      "pushed_at": "2026-05-07T20:31:25Z",
+      "updated_at": "2026-05-07T20:31:28Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 705,
-      "forks": 26,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-05-07T17:29:57Z",
-      "updated_at": "2026-05-07T17:30:02Z"
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 350,
+      "forks": 105,
+      "language": "Python",
+      "pushed_at": "2026-05-07T18:44:48Z",
+      "updated_at": "2026-05-07T18:58:01Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 603,
-      "forks": 32,
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 339,
+      "forks": 30,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-07T19:24:16Z",
+      "updated_at": "2026-05-07T19:24:20Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 309,
+      "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T17:22:40Z",
-      "updated_at": "2026-05-07T17:22:43Z"
-    },
-    {
-      "id": 831376921,
-      "full_name": "oxdc/obsidian-vertical-tabs",
-      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
-      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-      "stars": 543,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-07T15:48:04Z",
-      "updated_at": "2026-05-07T16:02:01Z"
+      "pushed_at": "2026-05-07T20:48:32Z",
+      "updated_at": "2026-05-07T18:45:42Z"
     }
   ]
 }
