@@ -8,125 +8,103 @@
   "total_found": 829,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19110,
-      "forks": 1661,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T23:06:30Z",
-      "updated_at": "2026-05-07T02:37:46Z"
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 20172,
+      "forks": 955,
+      "language": "Go",
+      "pushed_at": "2026-05-07T02:19:53Z",
+      "updated_at": "2026-05-07T05:51:40Z"
     },
     {
       "id": 810364325,
       "full_name": "plait-board/drawnix",
       "html_url": "https://github.com/plait-board/drawnix",
       "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 13771,
+      "stars": 13773,
       "forks": 1176,
       "language": "TypeScript",
       "pushed_at": "2026-05-07T02:19:24Z",
-      "updated_at": "2026-05-07T02:19:27Z"
+      "updated_at": "2026-05-07T06:08:33Z"
     },
     {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13756,
-      "forks": 406,
-      "language": "Rust",
-      "pushed_at": "2026-05-06T23:44:16Z",
-      "updated_at": "2026-05-06T23:44:20Z"
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12940,
+      "forks": 789,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-07T01:45:15Z",
+      "updated_at": "2026-05-07T06:26:07Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7491,
+      "stars": 7492,
       "forks": 194,
       "language": "C++",
       "pushed_at": "2026-05-07T00:51:59Z",
-      "updated_at": "2026-05-07T02:22:06Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5193,
-      "forks": 621,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-06T22:13:08Z",
-      "updated_at": "2026-05-07T00:21:31Z"
+      "updated_at": "2026-05-07T03:00:48Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4631,
-      "forks": 260,
+      "stars": 4633,
+      "forks": 261,
       "language": "Kotlin",
       "pushed_at": "2026-05-07T02:18:27Z",
-      "updated_at": "2026-05-07T02:18:33Z"
+      "updated_at": "2026-05-07T06:08:49Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3176,
-      "forks": 148,
-      "language": "Gherkin",
-      "pushed_at": "2026-05-07T00:07:46Z",
-      "updated_at": "2026-05-07T00:06:50Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2971,
-      "forks": 352,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-07T00:35:54Z",
-      "updated_at": "2026-05-07T00:35:56Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1807,
-      "forks": 113,
-      "language": "Go",
-      "pushed_at": "2026-05-06T22:01:49Z",
-      "updated_at": "2026-05-06T21:52:31Z"
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1183,
+      "forks": 64,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-07T04:35:59Z",
+      "updated_at": "2026-05-07T04:34:38Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 809,
+      "stars": 810,
       "forks": 48,
       "language": "TypeScript",
       "pushed_at": "2026-05-07T02:27:43Z",
-      "updated_at": "2026-05-07T02:27:46Z"
+      "updated_at": "2026-05-07T05:59:53Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
+      "stars": 704,
+      "forks": 26,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-05-07T05:45:48Z",
+      "updated_at": "2026-05-07T06:28:07Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 601,
+      "stars": 602,
       "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T02:36:50Z",
-      "updated_at": "2026-05-07T02:36:52Z"
+      "pushed_at": "2026-05-07T06:30:42Z",
+      "updated_at": "2026-05-07T06:30:46Z"
     },
     {
       "id": 134258952,
@@ -140,6 +118,17 @@
       "updated_at": "2026-05-07T02:14:04Z"
     },
     {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
+      "stars": 435,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-07T05:27:28Z",
+      "updated_at": "2026-05-07T05:27:28Z"
+    },
+    {
       "id": 951823188,
       "full_name": "relaticle/flowforge",
       "html_url": "https://github.com/relaticle/flowforge",
@@ -151,26 +140,37 @@
       "updated_at": "2026-05-07T01:44:35Z"
     },
     {
-      "id": 1212093880,
-      "full_name": "heyderekj/dinky",
-      "html_url": "https://github.com/heyderekj/dinky",
-      "description": "Dinky makes files smaller.",
-      "stars": 374,
-      "forks": 14,
+      "id": 1081013012,
+      "full_name": "f-is-h/Usage4Claude",
+      "html_url": "https://github.com/f-is-h/Usage4Claude",
+      "description": "Monitor all your Claude AI usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.",
+      "stars": 273,
+      "forks": 28,
       "language": "Swift",
-      "pushed_at": "2026-05-06T23:54:54Z",
-      "updated_at": "2026-05-07T00:16:32Z"
+      "pushed_at": "2026-05-07T05:13:52Z",
+      "updated_at": "2026-05-07T05:13:56Z"
     },
     {
-      "id": 16852661,
-      "full_name": "emad-elsaid/xlog",
-      "html_url": "https://github.com/emad-elsaid/xlog",
-      "description": "💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB",
-      "stars": 208,
-      "forks": 21,
-      "language": "Go",
-      "pushed_at": "2026-05-06T22:56:57Z",
-      "updated_at": "2026-05-06T22:57:00Z"
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 246,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-07T03:36:40Z",
+      "updated_at": "2026-05-07T03:34:32Z"
+    },
+    {
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 164,
+      "forks": 44,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-07T01:47:05Z",
+      "updated_at": "2026-05-07T01:47:06Z"
     }
   ]
 }
