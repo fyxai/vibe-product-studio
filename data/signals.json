@@ -5,29 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 831,
+  "total_found": 832,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122767,
-      "forks": 13569,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T14:56:12Z",
-      "updated_at": "2026-05-08T16:57:47Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 44641,
-      "forks": 2706,
-      "language": "Rust",
-      "pushed_at": "2026-05-08T16:18:41Z",
-      "updated_at": "2026-05-08T17:15:06Z"
+      "id": 343078060,
+      "full_name": "Lissy93/dashy",
+      "html_url": "https://github.com/Lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25026,
+      "forks": 1835,
+      "language": "Vue",
+      "pushed_at": "2026-05-08T19:47:22Z",
+      "updated_at": "2026-05-08T20:34:36Z"
     },
     {
       "id": 33702544,
@@ -37,129 +26,140 @@
       "stars": 24153,
       "forks": 2277,
       "language": "Python",
-      "pushed_at": "2026-05-08T17:11:45Z",
-      "updated_at": "2026-05-08T17:06:34Z"
+      "pushed_at": "2026-05-08T17:53:11Z",
+      "updated_at": "2026-05-08T19:57:51Z"
     },
     {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 20227,
-      "forks": 961,
-      "language": "Go",
-      "pushed_at": "2026-05-08T16:09:29Z",
-      "updated_at": "2026-05-08T17:08:06Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19148,
+      "forks": 1665,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T20:34:03Z",
+      "updated_at": "2026-05-08T20:57:03Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 13456,
+      "forks": 1344,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T19:14:04Z",
+      "updated_at": "2026-05-08T20:54:30Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10643,
+      "stars": 10644,
       "forks": 1317,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T16:13:37Z",
-      "updated_at": "2026-05-08T16:13:39Z"
+      "pushed_at": "2026-05-08T20:18:44Z",
+      "updated_at": "2026-05-08T20:56:07Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7512,
+      "stars": 7519,
       "forks": 194,
       "language": "C++",
-      "pushed_at": "2026-05-08T15:37:48Z",
-      "updated_at": "2026-05-08T16:16:21Z"
+      "pushed_at": "2026-05-08T20:47:58Z",
+      "updated_at": "2026-05-08T19:41:18Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5642,
-      "forks": 739,
-      "language": "Swift",
-      "pushed_at": "2026-05-08T17:01:44Z",
-      "updated_at": "2026-05-08T15:48:50Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5203,
+      "forks": 619,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-08T19:02:26Z",
+      "updated_at": "2026-05-08T18:27:40Z"
+    },
+    {
+      "id": 300155217,
+      "full_name": "CollaboraOnline/online",
+      "html_url": "https://github.com/CollaboraOnline/online",
+      "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+      "stars": 3203,
+      "forks": 1009,
+      "language": "C++",
+      "pushed_at": "2026-05-08T19:16:29Z",
+      "updated_at": "2026-05-08T19:54:22Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2994,
+      "stars": 2995,
       "forks": 194,
       "language": "Python",
-      "pushed_at": "2026-05-08T16:35:07Z",
-      "updated_at": "2026-05-08T15:07:35Z"
+      "pushed_at": "2026-05-08T20:46:51Z",
+      "updated_at": "2026-05-08T18:02:53Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2992,
+      "stars": 2993,
       "forks": 358,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T16:22:47Z",
-      "updated_at": "2026-05-08T16:22:51Z"
-    },
-    {
-      "id": 198357530,
-      "full_name": "insin/control-panel-for-twitter",
-      "html_url": "https://github.com/insin/control-panel-for-twitter",
-      "description": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile",
-      "stars": 2512,
-      "forks": 92,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-08T15:47:24Z",
-      "updated_at": "2026-05-08T15:47:28Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2339,
-      "forks": 271,
-      "language": "Go",
-      "pushed_at": "2026-05-08T14:58:22Z",
-      "updated_at": "2026-05-08T14:35:05Z"
+      "pushed_at": "2026-05-08T20:37:42Z",
+      "updated_at": "2026-05-08T20:37:46Z"
     },
     {
       "id": 324267700,
       "full_name": "pakerwreah/Calendr",
       "html_url": "https://github.com/pakerwreah/Calendr",
       "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2211,
+      "stars": 2212,
       "forks": 87,
       "language": "Swift",
-      "pushed_at": "2026-05-08T16:09:59Z",
-      "updated_at": "2026-05-08T16:10:01Z"
+      "pushed_at": "2026-05-08T20:31:27Z",
+      "updated_at": "2026-05-08T20:23:33Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1809,
-      "forks": 114,
-      "language": "Go",
-      "pushed_at": "2026-05-08T14:03:15Z",
-      "updated_at": "2026-05-08T13:59:07Z"
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1761,
+      "forks": 145,
+      "language": "Dart",
+      "pushed_at": "2026-05-08T20:35:52Z",
+      "updated_at": "2026-05-08T20:35:56Z"
     },
     {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1192,
-      "forks": 64,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-08T14:36:38Z",
-      "updated_at": "2026-05-08T13:22:04Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 816,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T20:38:12Z",
+      "updated_at": "2026-05-08T20:05:41Z"
+    },
+    {
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 742,
+      "forks": 32,
+      "language": "Java",
+      "pushed_at": "2026-05-08T20:00:06Z",
+      "updated_at": "2026-05-08T20:00:13Z"
     },
     {
       "id": 1148683593,
@@ -169,8 +169,8 @@
       "stars": 708,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-08T17:14:06Z",
-      "updated_at": "2026-05-08T17:14:11Z"
+      "pushed_at": "2026-05-08T20:54:46Z",
+      "updated_at": "2026-05-08T20:54:51Z"
     }
   ]
 }
