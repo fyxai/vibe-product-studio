@@ -12,55 +12,44 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122753,
-      "forks": 13566,
+      "stars": 122767,
+      "forks": 13569,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T11:01:51Z",
-      "updated_at": "2026-05-08T13:23:52Z"
+      "pushed_at": "2026-05-08T14:56:12Z",
+      "updated_at": "2026-05-08T16:57:47Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19144,
-      "forks": 1664,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T12:43:29Z",
-      "updated_at": "2026-05-08T13:33:43Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 44641,
+      "forks": 2706,
+      "language": "Rust",
+      "pushed_at": "2026-05-08T16:18:41Z",
+      "updated_at": "2026-05-08T17:15:06Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14018,
-      "forks": 945,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T11:14:08Z",
-      "updated_at": "2026-05-08T10:54:32Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24153,
+      "forks": 2277,
+      "language": "Python",
+      "pushed_at": "2026-05-08T17:11:45Z",
+      "updated_at": "2026-05-08T17:06:34Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 13410,
-      "forks": 1337,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T12:40:29Z",
-      "updated_at": "2026-05-08T13:40:52Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 12945,
-      "forks": 789,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T10:52:07Z",
-      "updated_at": "2026-05-08T13:04:26Z"
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 20227,
+      "forks": 961,
+      "language": "Go",
+      "pushed_at": "2026-05-08T16:09:29Z",
+      "updated_at": "2026-05-08T17:08:06Z"
     },
     {
       "id": 665613753,
@@ -68,43 +57,98 @@
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
       "stars": 10643,
-      "forks": 1318,
+      "forks": 1317,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T13:32:39Z",
-      "updated_at": "2026-05-08T13:31:58Z"
+      "pushed_at": "2026-05-08T16:13:37Z",
+      "updated_at": "2026-05-08T16:13:39Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6719,
-      "forks": 254,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T12:21:08Z",
-      "updated_at": "2026-05-08T13:37:43Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7512,
+      "forks": 194,
+      "language": "C++",
+      "pushed_at": "2026-05-08T15:37:48Z",
+      "updated_at": "2026-05-08T16:16:21Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5641,
+      "stars": 5642,
       "forks": 739,
       "language": "Swift",
-      "pushed_at": "2026-05-08T13:45:13Z",
-      "updated_at": "2026-05-08T13:39:51Z"
+      "pushed_at": "2026-05-08T17:01:44Z",
+      "updated_at": "2026-05-08T15:48:50Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5272,
-      "forks": 305,
-      "language": "Vala",
-      "pushed_at": "2026-05-08T11:29:53Z",
-      "updated_at": "2026-05-08T11:56:09Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 2994,
+      "forks": 194,
+      "language": "Python",
+      "pushed_at": "2026-05-08T16:35:07Z",
+      "updated_at": "2026-05-08T15:07:35Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2992,
+      "forks": 358,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T16:22:47Z",
+      "updated_at": "2026-05-08T16:22:51Z"
+    },
+    {
+      "id": 198357530,
+      "full_name": "insin/control-panel-for-twitter",
+      "html_url": "https://github.com/insin/control-panel-for-twitter",
+      "description": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile",
+      "stars": 2512,
+      "forks": 92,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-08T15:47:24Z",
+      "updated_at": "2026-05-08T15:47:28Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2339,
+      "forks": 271,
+      "language": "Go",
+      "pushed_at": "2026-05-08T14:58:22Z",
+      "updated_at": "2026-05-08T14:35:05Z"
+    },
+    {
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2211,
+      "forks": 87,
+      "language": "Swift",
+      "pushed_at": "2026-05-08T16:09:59Z",
+      "updated_at": "2026-05-08T16:10:01Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1809,
+      "forks": 114,
+      "language": "Go",
+      "pushed_at": "2026-05-08T14:03:15Z",
+      "updated_at": "2026-05-08T13:59:07Z"
     },
     {
       "id": 1085525076,
@@ -114,41 +158,8 @@
       "stars": 1192,
       "forks": 64,
       "language": "JavaScript",
-      "pushed_at": "2026-05-08T13:23:08Z",
+      "pushed_at": "2026-05-08T14:36:38Z",
       "updated_at": "2026-05-08T13:22:04Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work_Review",
-      "html_url": "https://github.com/wm94i/Work_Review",
-      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 1122,
-      "forks": 62,
-      "language": "Rust",
-      "pushed_at": "2026-05-08T11:05:11Z",
-      "updated_at": "2026-05-08T11:05:13Z"
-    },
-    {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 939,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-05-08T11:07:45Z",
-      "updated_at": "2026-05-08T11:02:58Z"
-    },
-    {
-      "id": 500278038,
-      "full_name": "Pool-Of-Tears/GreenStash",
-      "html_url": "https://github.com/Pool-Of-Tears/GreenStash",
-      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
-      "stars": 769,
-      "forks": 64,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-08T12:01:42Z",
-      "updated_at": "2026-05-08T12:01:44Z"
     },
     {
       "id": 1148683593,
@@ -158,19 +169,8 @@
       "stars": 708,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-08T13:43:17Z",
-      "updated_at": "2026-05-08T13:43:21Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 607,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T10:55:16Z",
-      "updated_at": "2026-05-08T13:22:47Z"
+      "pushed_at": "2026-05-08T17:14:06Z",
+      "updated_at": "2026-05-08T17:14:11Z"
     }
   ]
 }
