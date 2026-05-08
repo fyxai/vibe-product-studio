@@ -8,92 +8,81 @@
   "total_found": 831,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43308,
-      "forks": 2708,
-      "language": "C#",
-      "pushed_at": "2026-05-08T02:15:42Z",
-      "updated_at": "2026-05-08T02:39:07Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 37751,
-      "forks": 853,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 44369,
+      "forks": 2685,
       "language": "Rust",
-      "pushed_at": "2026-05-08T01:13:18Z",
-      "updated_at": "2026-05-08T05:52:58Z"
+      "pushed_at": "2026-05-08T09:00:57Z",
+      "updated_at": "2026-05-08T09:17:34Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14016,
+      "stars": 14019,
       "forks": 945,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:44:12Z",
-      "updated_at": "2026-05-08T03:53:05Z"
+      "pushed_at": "2026-05-08T08:12:10Z",
+      "updated_at": "2026-05-08T08:14:14Z"
     },
     {
-      "id": 592882602,
-      "full_name": "MrKai77/Loop",
-      "html_url": "https://github.com/MrKai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 10597,
-      "forks": 232,
-      "language": "Swift",
-      "pushed_at": "2026-05-08T05:25:08Z",
-      "updated_at": "2026-05-08T05:50:57Z"
-    },
-    {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8449,
-      "forks": 932,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 13381,
+      "forks": 1333,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T02:48:45Z",
-      "updated_at": "2026-05-08T04:21:01Z"
+      "pushed_at": "2026-05-08T09:13:52Z",
+      "updated_at": "2026-05-08T09:10:27Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7502,
-      "forks": 194,
-      "language": "C++",
-      "pushed_at": "2026-05-08T02:33:04Z",
-      "updated_at": "2026-05-08T04:45:33Z"
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12941,
+      "forks": 789,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T07:38:01Z",
+      "updated_at": "2026-05-08T07:38:05Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5180,
-      "forks": 444,
-      "language": "Rust",
-      "pushed_at": "2026-05-08T04:25:59Z",
-      "updated_at": "2026-05-08T04:25:58Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10642,
+      "forks": 1317,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T08:32:49Z",
+      "updated_at": "2026-05-08T08:55:23Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 2991,
-      "forks": 192,
-      "language": "Python",
-      "pushed_at": "2026-05-08T02:45:27Z",
-      "updated_at": "2026-05-08T04:11:06Z"
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6719,
+      "forks": 254,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T08:30:38Z",
+      "updated_at": "2026-05-08T08:30:42Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5640,
+      "forks": 739,
+      "language": "Swift",
+      "pushed_at": "2026-05-08T09:13:43Z",
+      "updated_at": "2026-05-08T09:13:11Z"
     },
     {
       "id": 198357530,
@@ -103,19 +92,8 @@
       "stars": 2513,
       "forks": 92,
       "language": "JavaScript",
-      "pushed_at": "2026-05-08T02:27:10Z",
-      "updated_at": "2026-05-08T04:46:49Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1187,
-      "forks": 65,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-08T05:23:41Z",
-      "updated_at": "2026-05-08T05:06:27Z"
+      "pushed_at": "2026-05-08T08:49:23Z",
+      "updated_at": "2026-05-08T08:49:27Z"
     },
     {
       "id": 1111053300,
@@ -125,8 +103,30 @@
       "stars": 1142,
       "forks": 34,
       "language": "Swift",
-      "pushed_at": "2026-05-08T00:50:09Z",
-      "updated_at": "2026-05-08T00:50:13Z"
+      "pushed_at": "2026-05-08T07:40:24Z",
+      "updated_at": "2026-05-08T07:40:28Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work_Review",
+      "html_url": "https://github.com/wm94i/Work_Review",
+      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+      "stars": 1122,
+      "forks": 62,
+      "language": "Rust",
+      "pushed_at": "2026-05-08T08:51:37Z",
+      "updated_at": "2026-05-08T08:51:40Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 812,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T07:13:25Z",
+      "updated_at": "2026-05-08T07:13:29Z"
     },
     {
       "id": 1148683593,
@@ -136,30 +136,19 @@
       "stars": 707,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-08T05:55:24Z",
-      "updated_at": "2026-05-08T05:55:28Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 603,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:48:28Z",
-      "updated_at": "2026-05-08T05:48:25Z"
+      "pushed_at": "2026-05-08T08:31:18Z",
+      "updated_at": "2026-05-08T08:31:22Z"
     },
     {
       "id": 1193364497,
       "full_name": "spool-lab/spool",
       "html_url": "https://github.com/spool-lab/spool",
-      "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-      "stars": 435,
-      "forks": 27,
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 455,
+      "forks": 29,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:11:33Z",
-      "updated_at": "2026-05-08T05:11:36Z"
+      "pushed_at": "2026-05-08T08:03:33Z",
+      "updated_at": "2026-05-08T09:17:46Z"
     },
     {
       "id": 1175591394,
@@ -169,8 +158,19 @@
       "stars": 351,
       "forks": 62,
       "language": "Python",
-      "pushed_at": "2026-05-08T03:50:22Z",
-      "updated_at": "2026-05-08T03:50:25Z"
+      "pushed_at": "2026-05-08T07:32:45Z",
+      "updated_at": "2026-05-08T07:32:49Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "Product Management Skills for Claude AI - Save 8-9 hours per week",
+      "stars": 308,
+      "forks": 51,
+      "language": "Shell",
+      "pushed_at": "2026-05-08T07:10:21Z",
+      "updated_at": "2026-05-08T07:10:25Z"
     }
   ]
 }
