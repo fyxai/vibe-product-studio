@@ -8,147 +8,136 @@
   "total_found": 832,
   "items": [
     {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18169,
-      "forks": 1467,
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24162,
+      "forks": 2277,
+      "language": "Python",
+      "pushed_at": "2026-05-09T09:33:22Z",
+      "updated_at": "2026-05-09T12:44:08Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19164,
+      "forks": 1666,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T13:11:46Z",
+      "updated_at": "2026-05-09T13:11:50Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14620,
+      "forks": 597,
+      "language": "C#",
+      "pushed_at": "2026-05-09T12:14:05Z",
+      "updated_at": "2026-05-09T13:03:43Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10646,
+      "forks": 1318,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T10:07:08Z",
+      "updated_at": "2026-05-09T12:55:00Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5273,
+      "forks": 305,
+      "language": "Vala",
+      "pushed_at": "2026-05-09T12:00:17Z",
+      "updated_at": "2026-05-09T12:00:23Z"
+    },
+    {
+      "id": 1147470802,
+      "full_name": "rohitg00/pro-workflow",
+      "html_url": "https://github.com/rohitg00/pro-workflow",
+      "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+      "stars": 2062,
+      "forks": 198,
       "language": "JavaScript",
-      "pushed_at": "2026-05-09T07:39:54Z",
-      "updated_at": "2026-05-09T07:37:39Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 13520,
-      "forks": 1348,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T06:36:57Z",
-      "updated_at": "2026-05-09T09:08:55Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 10679,
-      "forks": 637,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T06:22:54Z",
-      "updated_at": "2026-05-09T09:17:42Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4515,
-      "forks": 275,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T05:35:30Z",
-      "updated_at": "2026-05-09T06:21:15Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3679,
-      "forks": 768,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T08:15:52Z",
-      "updated_at": "2026-05-09T08:03:36Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2996,
-      "forks": 359,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T07:52:11Z",
-      "updated_at": "2026-05-09T08:02:14Z"
+      "pushed_at": "2026-05-09T12:32:37Z",
+      "updated_at": "2026-05-09T12:58:59Z"
     },
     {
       "id": 1111053300,
       "full_name": "yuzeguitarist/Deck",
       "html_url": "https://github.com/yuzeguitarist/Deck",
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
-      "stars": 1145,
+      "stars": 1146,
       "forks": 34,
       "language": "Swift",
-      "pushed_at": "2026-05-09T07:14:00Z",
-      "updated_at": "2026-05-09T07:14:04Z"
-    },
-    {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
-      "stars": 1111,
-      "forks": 58,
-      "language": "Shell",
-      "pushed_at": "2026-05-09T05:54:18Z",
-      "updated_at": "2026-05-09T09:12:55Z"
+      "pushed_at": "2026-05-09T11:59:50Z",
+      "updated_at": "2026-05-09T11:59:54Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 710,
+      "stars": 712,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-09T09:03:27Z",
-      "updated_at": "2026-05-09T09:03:31Z"
+      "pushed_at": "2026-05-09T12:05:07Z",
+      "updated_at": "2026-05-09T12:05:10Z"
     },
     {
-      "id": 831376921,
-      "full_name": "oxdc/obsidian-vertical-tabs",
-      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
-      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-      "stars": 544,
-      "forks": 17,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 610,
+      "forks": 34,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T07:16:38Z",
-      "updated_at": "2026-05-09T07:16:23Z"
+      "pushed_at": "2026-05-09T10:05:28Z",
+      "updated_at": "2026-05-09T10:36:58Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 485,
-      "forks": 31,
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 555,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-05-09T11:48:15Z",
+      "updated_at": "2026-05-09T11:48:18Z"
+    },
+    {
+      "id": 208359230,
+      "full_name": "TTLApp/time-to-leave",
+      "html_url": "https://github.com/TTLApp/time-to-leave",
+      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
+      "stars": 490,
+      "forks": 278,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-09T10:10:46Z",
+      "updated_at": "2026-05-09T10:10:50Z"
+    },
+    {
+      "id": 993178051,
+      "full_name": "Deyweaver/DeyWeaver",
+      "html_url": "https://github.com/Deyweaver/DeyWeaver",
+      "description": "AI-powered task planner to structure your day with smart scheduling.",
+      "stars": 335,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T09:11:28Z",
-      "updated_at": "2026-05-09T09:11:28Z"
-    },
-    {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 443,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-05-09T08:15:44Z",
-      "updated_at": "2026-05-09T09:18:22Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 340,
-      "forks": 31,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-09T09:11:17Z",
-      "updated_at": "2026-05-09T09:11:20Z"
+      "pushed_at": "2026-05-09T11:22:11Z",
+      "updated_at": "2026-05-09T11:13:39Z"
     },
     {
       "id": 226175035,
@@ -158,19 +147,30 @@
       "stars": 317,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T04:56:36Z",
-      "updated_at": "2026-05-09T04:56:38Z"
+      "pushed_at": "2026-05-09T12:58:43Z",
+      "updated_at": "2026-05-09T12:58:46Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 310,
-      "forks": 49,
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 296,
+      "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T05:12:34Z",
-      "updated_at": "2026-05-09T05:46:59Z"
+      "pushed_at": "2026-05-09T09:49:22Z",
+      "updated_at": "2026-05-09T11:52:29Z"
+    },
+    {
+      "id": 1211341525,
+      "full_name": "programmersd21/kairo",
+      "html_url": "https://github.com/programmersd21/kairo",
+      "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
+      "stars": 199,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-05-09T12:55:07Z",
+      "updated_at": "2026-05-09T12:55:11Z"
     }
   ]
 }
