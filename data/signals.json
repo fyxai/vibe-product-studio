@@ -8,15 +8,37 @@
   "total_found": 832,
   "items": [
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7522,
-      "forks": 194,
-      "language": "C++",
-      "pushed_at": "2026-05-09T02:35:24Z",
-      "updated_at": "2026-05-09T06:13:12Z"
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18169,
+      "forks": 1467,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-09T07:39:54Z",
+      "updated_at": "2026-05-09T07:37:39Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 13520,
+      "forks": 1348,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T06:36:57Z",
+      "updated_at": "2026-05-09T09:08:55Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 10679,
+      "forks": 637,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T06:22:54Z",
+      "updated_at": "2026-05-09T09:17:42Z"
     },
     {
       "id": 70557651,
@@ -27,7 +49,29 @@
       "forks": 275,
       "language": "TypeScript",
       "pushed_at": "2026-05-09T05:35:30Z",
-      "updated_at": "2026-05-09T05:35:34Z"
+      "updated_at": "2026-05-09T06:21:15Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3679,
+      "forks": 768,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T08:15:52Z",
+      "updated_at": "2026-05-09T08:03:36Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2996,
+      "forks": 359,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T07:52:11Z",
+      "updated_at": "2026-05-09T08:02:14Z"
     },
     {
       "id": 1111053300,
@@ -37,85 +81,74 @@
       "stars": 1145,
       "forks": 34,
       "language": "Swift",
-      "pushed_at": "2026-05-09T06:12:40Z",
-      "updated_at": "2026-05-09T06:12:44Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work_Review",
-      "html_url": "https://github.com/wm94i/Work_Review",
-      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 1129,
-      "forks": 62,
-      "language": "Rust",
-      "pushed_at": "2026-05-09T02:52:57Z",
-      "updated_at": "2026-05-09T06:06:33Z"
+      "pushed_at": "2026-05-09T07:14:00Z",
+      "updated_at": "2026-05-09T07:14:04Z"
     },
     {
       "id": 940594927,
       "full_name": "open-saas-directory/awesome-native-macosx-apps",
       "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
       "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
-      "stars": 1109,
+      "stars": 1111,
       "forks": 58,
       "language": "Shell",
       "pushed_at": "2026-05-09T05:54:18Z",
-      "updated_at": "2026-05-09T05:54:23Z"
+      "updated_at": "2026-05-09T09:12:55Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 709,
+      "stars": 710,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-09T05:00:32Z",
-      "updated_at": "2026-05-09T05:00:36Z"
+      "pushed_at": "2026-05-09T09:03:27Z",
+      "updated_at": "2026-05-09T09:03:31Z"
+    },
+    {
+      "id": 831376921,
+      "full_name": "oxdc/obsidian-vertical-tabs",
+      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
+      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "stars": 544,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T07:16:38Z",
+      "updated_at": "2026-05-09T07:16:23Z"
     },
     {
       "id": 1193364497,
       "full_name": "spool-lab/spool",
       "html_url": "https://github.com/spool-lab/spool",
       "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 483,
+      "stars": 485,
       "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T06:06:27Z",
-      "updated_at": "2026-05-09T06:06:30Z"
+      "pushed_at": "2026-05-09T09:11:28Z",
+      "updated_at": "2026-05-09T09:11:28Z"
     },
     {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 432,
-      "forks": 54,
-      "language": "Swift",
-      "pushed_at": "2026-05-09T03:36:26Z",
-      "updated_at": "2026-05-09T03:36:30Z"
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 443,
+      "forks": 27,
+      "language": "Shell",
+      "pushed_at": "2026-05-09T08:15:44Z",
+      "updated_at": "2026-05-09T09:18:22Z"
     },
     {
-      "id": 88267809,
-      "full_name": "wmjordan/Codist",
-      "html_url": "https://github.com/wmjordan/Codist",
-      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
-      "stars": 390,
-      "forks": 34,
-      "language": "C#",
-      "pushed_at": "2026-05-09T02:48:27Z",
-      "updated_at": "2026-05-09T02:48:30Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
-      "stars": 353,
-      "forks": 62,
-      "language": "Python",
-      "pushed_at": "2026-05-09T03:22:38Z",
-      "updated_at": "2026-05-09T03:22:37Z"
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 340,
+      "forks": 31,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-09T09:11:17Z",
+      "updated_at": "2026-05-09T09:11:20Z"
     },
     {
       "id": 226175035,
@@ -138,39 +171,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-05-09T05:12:34Z",
       "updated_at": "2026-05-09T05:46:59Z"
-    },
-    {
-      "id": 1211341525,
-      "full_name": "programmersd21/kairo",
-      "html_url": "https://github.com/programmersd21/kairo",
-      "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
-      "stars": 198,
-      "forks": 15,
-      "language": "Go",
-      "pushed_at": "2026-05-09T04:02:46Z",
-      "updated_at": "2026-05-09T04:41:18Z"
-    },
-    {
-      "id": 1072582327,
-      "full_name": "campfirium/obsidian-tile-line-base",
-      "html_url": "https://github.com/campfirium/obsidian-tile-line-base",
-      "description": "The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.",
-      "stars": 124,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T03:34:25Z",
-      "updated_at": "2026-05-09T03:34:29Z"
-    },
-    {
-      "id": 1132086156,
-      "full_name": "ctrlaltwill/LearnKit",
-      "html_url": "https://github.com/ctrlaltwill/LearnKit",
-      "description": "LearnKit is a native study system for Obsidian. It combines flashcards, spaced repetition, note review, test generation and AI tools to help you turn your notes into durable knowledge: all in your vault.",
-      "stars": 108,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T04:52:21Z",
-      "updated_at": "2026-05-09T04:52:25Z"
     }
   ]
 }
