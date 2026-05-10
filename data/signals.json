@@ -8,103 +8,136 @@
   "total_found": 834,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 186865,
-      "forks": 26360,
-      "language": "Shell",
-      "pushed_at": "2026-05-10T12:52:33Z",
-      "updated_at": "2026-05-10T13:00:49Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 122871,
+      "forks": 13591,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T14:54:32Z",
+      "updated_at": "2026-05-10T16:50:27Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 45449,
-      "forks": 2761,
+      "stars": 45523,
+      "forks": 2763,
       "language": "Rust",
-      "pushed_at": "2026-05-10T11:47:03Z",
-      "updated_at": "2026-05-10T13:16:18Z"
+      "pushed_at": "2026-05-10T15:03:51Z",
+      "updated_at": "2026-05-10T16:54:27Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43322,
+      "forks": 2709,
+      "language": "C#",
+      "pushed_at": "2026-05-10T16:32:18Z",
+      "updated_at": "2026-05-10T16:48:46Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14629,
+      "stars": 14630,
       "forks": 596,
       "language": "C#",
-      "pushed_at": "2026-05-10T11:58:01Z",
-      "updated_at": "2026-05-10T11:22:04Z"
+      "pushed_at": "2026-05-10T13:54:46Z",
+      "updated_at": "2026-05-10T16:11:20Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10650,
-      "forks": 1316,
+      "stars": 10651,
+      "forks": 1318,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T13:02:12Z",
-      "updated_at": "2026-05-10T13:06:42Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6741,
-      "forks": 254,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T10:49:26Z",
-      "updated_at": "2026-05-10T10:49:29Z"
+      "pushed_at": "2026-05-10T16:52:50Z",
+      "updated_at": "2026-05-10T16:50:02Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5202,
+      "stars": 5203,
       "forks": 619,
       "language": "Kotlin",
       "pushed_at": "2026-05-10T12:57:05Z",
-      "updated_at": "2026-05-10T12:57:10Z"
+      "updated_at": "2026-05-10T13:52:59Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 2999,
+      "stars": 3001,
       "forks": 362,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T12:07:22Z",
-      "updated_at": "2026-05-10T12:07:26Z"
+      "pushed_at": "2026-05-10T13:16:41Z",
+      "updated_at": "2026-05-10T14:52:07Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1815,
+      "forks": 115,
+      "language": "Go",
+      "pushed_at": "2026-05-10T14:32:39Z",
+      "updated_at": "2026-05-10T14:28:21Z"
+    },
+    {
+      "id": 494321512,
+      "full_name": "poetaman/arttime",
+      "html_url": "https://github.com/poetaman/arttime",
+      "description": "arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰",
+      "stars": 1328,
+      "forks": 25,
+      "language": "Shell",
+      "pushed_at": "2026-05-10T15:28:39Z",
+      "updated_at": "2026-05-10T15:28:45Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1205,
+      "forks": 65,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-10T13:29:10Z",
+      "updated_at": "2026-05-10T13:27:53Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+      "stars": 1143,
+      "forks": 63,
+      "language": "Rust",
+      "pushed_at": "2026-05-10T16:49:41Z",
+      "updated_at": "2026-05-10T16:49:44Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 716,
+      "stars": 720,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-10T13:14:44Z",
-      "updated_at": "2026-05-10T13:14:48Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 555,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-05-10T12:40:56Z",
-      "updated_at": "2026-05-10T12:41:00Z"
+      "pushed_at": "2026-05-10T16:39:27Z",
+      "updated_at": "2026-05-10T16:39:30Z"
     },
     {
       "id": 1193364497,
@@ -114,63 +147,30 @@
       "stars": 485,
       "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T12:53:45Z",
-      "updated_at": "2026-05-10T11:29:13Z"
+      "pushed_at": "2026-05-10T15:10:04Z",
+      "updated_at": "2026-05-10T15:10:06Z"
     },
     {
       "id": 846156986,
       "full_name": "GeorgeClensy/Escape-Launcher",
       "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
       "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 341,
+      "stars": 342,
       "forks": 31,
       "language": "Kotlin",
-      "pushed_at": "2026-05-10T13:11:50Z",
-      "updated_at": "2026-05-10T13:11:55Z"
-    },
-    {
-      "id": 1211341525,
-      "full_name": "programmersd21/kairo",
-      "html_url": "https://github.com/programmersd21/kairo",
-      "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
-      "stars": 206,
-      "forks": 15,
-      "language": "Go",
-      "pushed_at": "2026-05-10T12:33:16Z",
-      "updated_at": "2026-05-10T12:42:58Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 182,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T08:50:47Z",
-      "updated_at": "2026-05-10T08:50:50Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 171,
-      "forks": 45,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T12:26:12Z",
-      "updated_at": "2026-05-10T12:26:15Z"
+      "pushed_at": "2026-05-10T13:32:52Z",
+      "updated_at": "2026-05-10T15:18:56Z"
     },
     {
       "id": 1208417060,
       "full_name": "Facets-cloud/flow",
       "html_url": "https://github.com/Facets-cloud/flow",
       "description": "Turn isolated Claude sessions into a continuous working relationship",
-      "stars": 118,
-      "forks": 4,
+      "stars": 119,
+      "forks": 5,
       "language": "Go",
-      "pushed_at": "2026-05-10T09:35:14Z",
-      "updated_at": "2026-05-10T12:32:23Z"
+      "pushed_at": "2026-05-10T16:43:19Z",
+      "updated_at": "2026-05-10T16:43:10Z"
     }
   ]
 }
