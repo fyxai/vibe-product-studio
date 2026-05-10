@@ -12,66 +12,44 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 176995,
-      "forks": 27367,
+      "stars": 177156,
+      "forks": 27391,
       "language": "JavaScript",
       "pushed_at": "2026-05-10T04:52:37Z",
-      "updated_at": "2026-05-10T06:31:14Z"
+      "updated_at": "2026-05-10T09:26:23Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8453,
-      "forks": 930,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T04:11:33Z",
-      "updated_at": "2026-05-10T05:19:20Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7532,
-      "forks": 195,
-      "language": "C++",
-      "pushed_at": "2026-05-10T01:56:14Z",
-      "updated_at": "2026-05-10T04:28:45Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14629,
+      "forks": 597,
+      "language": "C#",
+      "pushed_at": "2026-05-10T07:53:38Z",
+      "updated_at": "2026-05-10T09:24:40Z"
     },
     {
       "id": 475337801,
       "full_name": "massCodeIO/massCode",
       "html_url": "https://github.com/massCodeIO/massCode",
       "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6740,
+      "stars": 6741,
       "forks": 254,
       "language": "TypeScript",
       "pushed_at": "2026-05-10T05:26:10Z",
-      "updated_at": "2026-05-10T05:32:29Z"
+      "updated_at": "2026-05-10T08:43:50Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5186,
-      "forks": 444,
-      "language": "Rust",
-      "pushed_at": "2026-05-10T02:58:15Z",
-      "updated_at": "2026-05-10T02:58:19Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4669,
-      "forks": 262,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-10T03:07:10Z",
-      "updated_at": "2026-05-10T03:12:09Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5642,
+      "forks": 739,
+      "language": "Swift",
+      "pushed_at": "2026-05-10T07:56:36Z",
+      "updated_at": "2026-05-10T07:56:38Z"
     },
     {
       "id": 19825320,
@@ -81,8 +59,30 @@
       "stars": 3180,
       "forks": 149,
       "language": "Gherkin",
-      "pushed_at": "2026-05-10T06:31:29Z",
+      "pushed_at": "2026-05-10T07:21:31Z",
       "updated_at": "2026-05-10T05:44:39Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 2999,
+      "forks": 361,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T09:03:40Z",
+      "updated_at": "2026-05-10T09:03:44Z"
+    },
+    {
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+      "stars": 1117,
+      "forks": 59,
+      "language": "Shell",
+      "pushed_at": "2026-05-10T06:55:05Z",
+      "updated_at": "2026-05-10T08:04:39Z"
     },
     {
       "id": 735151489,
@@ -100,22 +100,11 @@
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 715,
+      "stars": 716,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-10T06:20:46Z",
-      "updated_at": "2026-05-10T06:20:50Z"
-    },
-    {
-      "id": 88267809,
-      "full_name": "wmjordan/Codist",
-      "html_url": "https://github.com/wmjordan/Codist",
-      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
-      "stars": 390,
-      "forks": 34,
-      "language": "C#",
-      "pushed_at": "2026-05-10T03:46:10Z",
-      "updated_at": "2026-05-10T03:46:13Z"
+      "pushed_at": "2026-05-10T08:30:11Z",
+      "updated_at": "2026-05-10T08:30:16Z"
     },
     {
       "id": 1175591394,
@@ -125,30 +114,30 @@
       "stars": 354,
       "forks": 62,
       "language": "Python",
-      "pushed_at": "2026-05-10T03:52:43Z",
-      "updated_at": "2026-05-10T02:38:25Z"
+      "pushed_at": "2026-05-10T07:49:09Z",
+      "updated_at": "2026-05-10T07:49:13Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 311,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T04:36:01Z",
-      "updated_at": "2026-05-10T04:36:06Z"
+      "id": 1027092197,
+      "full_name": "shinpr/ai-coding-project-boilerplate",
+      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
+      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
+      "stars": 206,
+      "forks": 20,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-10T06:52:31Z",
+      "updated_at": "2026-05-10T06:51:12Z"
     },
     {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
-      "stars": 278,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T03:53:13Z",
-      "updated_at": "2026-05-10T03:53:18Z"
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 185,
+      "forks": 11,
+      "language": "C#",
+      "pushed_at": "2026-05-10T08:24:00Z",
+      "updated_at": "2026-05-10T08:19:04Z"
     },
     {
       "id": 643614365,
@@ -158,8 +147,8 @@
       "stars": 182,
       "forks": 7,
       "language": "JavaScript",
-      "pushed_at": "2026-05-10T02:48:12Z",
-      "updated_at": "2026-05-10T02:48:16Z"
+      "pushed_at": "2026-05-10T08:50:47Z",
+      "updated_at": "2026-05-10T08:50:50Z"
     },
     {
       "id": 1009026205,
@@ -171,6 +160,17 @@
       "language": "JavaScript",
       "pushed_at": "2026-05-10T05:05:05Z",
       "updated_at": "2026-05-10T05:05:08Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 124,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-10T04:54:18Z",
+      "updated_at": "2026-05-10T04:54:21Z"
     }
   ]
 }
