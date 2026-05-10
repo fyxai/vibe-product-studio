@@ -5,18 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 833,
+  "total_found": 834,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 177156,
-      "forks": 27391,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T04:52:37Z",
-      "updated_at": "2026-05-10T09:26:23Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 186865,
+      "forks": 26360,
+      "language": "Shell",
+      "pushed_at": "2026-05-10T12:52:33Z",
+      "updated_at": "2026-05-10T13:00:49Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 45449,
+      "forks": 2761,
+      "language": "Rust",
+      "pushed_at": "2026-05-10T11:47:03Z",
+      "updated_at": "2026-05-10T13:16:18Z"
     },
     {
       "id": 257526212,
@@ -24,10 +35,21 @@
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
       "stars": 14629,
-      "forks": 597,
+      "forks": 596,
       "language": "C#",
-      "pushed_at": "2026-05-10T07:53:38Z",
-      "updated_at": "2026-05-10T09:24:40Z"
+      "pushed_at": "2026-05-10T11:58:01Z",
+      "updated_at": "2026-05-10T11:22:04Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10650,
+      "forks": 1316,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T13:02:12Z",
+      "updated_at": "2026-05-10T13:06:42Z"
     },
     {
       "id": 475337801,
@@ -37,30 +59,19 @@
       "stars": 6741,
       "forks": 254,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T05:26:10Z",
-      "updated_at": "2026-05-10T08:43:50Z"
+      "pushed_at": "2026-05-10T10:49:26Z",
+      "updated_at": "2026-05-10T10:49:29Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5642,
-      "forks": 739,
-      "language": "Swift",
-      "pushed_at": "2026-05-10T07:56:36Z",
-      "updated_at": "2026-05-10T07:56:38Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3180,
-      "forks": 149,
-      "language": "Gherkin",
-      "pushed_at": "2026-05-10T07:21:31Z",
-      "updated_at": "2026-05-10T05:44:39Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5202,
+      "forks": 619,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-10T12:57:05Z",
+      "updated_at": "2026-05-10T12:57:10Z"
     },
     {
       "id": 1114821770,
@@ -68,32 +79,10 @@
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
       "stars": 2999,
-      "forks": 361,
+      "forks": 362,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T09:03:40Z",
-      "updated_at": "2026-05-10T09:03:44Z"
-    },
-    {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
-      "stars": 1117,
-      "forks": 59,
-      "language": "Shell",
-      "pushed_at": "2026-05-10T06:55:05Z",
-      "updated_at": "2026-05-10T08:04:39Z"
-    },
-    {
-      "id": 735151489,
-      "full_name": "hywax/mafl",
-      "html_url": "https://github.com/hywax/mafl",
-      "description": "Minimalistic flexible homepage",
-      "stars": 724,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T04:37:56Z",
-      "updated_at": "2026-05-10T04:38:00Z"
+      "pushed_at": "2026-05-10T12:07:22Z",
+      "updated_at": "2026-05-10T12:07:26Z"
     },
     {
       "id": 1148683593,
@@ -103,41 +92,52 @@
       "stars": 716,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-10T08:30:11Z",
-      "updated_at": "2026-05-10T08:30:16Z"
+      "pushed_at": "2026-05-10T13:14:44Z",
+      "updated_at": "2026-05-10T13:14:48Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
-      "stars": 354,
-      "forks": 62,
-      "language": "Python",
-      "pushed_at": "2026-05-10T07:49:09Z",
-      "updated_at": "2026-05-10T07:49:13Z"
-    },
-    {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 206,
-      "forks": 20,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T06:52:31Z",
-      "updated_at": "2026-05-10T06:51:12Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 185,
-      "forks": 11,
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 555,
+      "forks": 71,
       "language": "C#",
-      "pushed_at": "2026-05-10T08:24:00Z",
-      "updated_at": "2026-05-10T08:19:04Z"
+      "pushed_at": "2026-05-10T12:40:56Z",
+      "updated_at": "2026-05-10T12:41:00Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 485,
+      "forks": 31,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T12:53:45Z",
+      "updated_at": "2026-05-10T11:29:13Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 341,
+      "forks": 31,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-10T13:11:50Z",
+      "updated_at": "2026-05-10T13:11:55Z"
+    },
+    {
+      "id": 1211341525,
+      "full_name": "programmersd21/kairo",
+      "html_url": "https://github.com/programmersd21/kairo",
+      "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
+      "stars": 206,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-05-10T12:33:16Z",
+      "updated_at": "2026-05-10T12:42:58Z"
     },
     {
       "id": 643614365,
@@ -158,19 +158,19 @@
       "stars": 171,
       "forks": 45,
       "language": "JavaScript",
-      "pushed_at": "2026-05-10T05:05:05Z",
-      "updated_at": "2026-05-10T05:05:08Z"
+      "pushed_at": "2026-05-10T12:26:12Z",
+      "updated_at": "2026-05-10T12:26:15Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 124,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-10T04:54:18Z",
-      "updated_at": "2026-05-10T04:54:21Z"
+      "id": 1208417060,
+      "full_name": "Facets-cloud/flow",
+      "html_url": "https://github.com/Facets-cloud/flow",
+      "description": "Turn isolated Claude sessions into a continuous working relationship",
+      "stars": 118,
+      "forks": 4,
+      "language": "Go",
+      "pushed_at": "2026-05-10T09:35:14Z",
+      "updated_at": "2026-05-10T12:32:23Z"
     }
   ]
 }
