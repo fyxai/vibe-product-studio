@@ -8,81 +8,92 @@
   "total_found": 833,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 45297,
-      "forks": 2751,
-      "language": "Rust",
-      "pushed_at": "2026-05-09T22:51:55Z",
-      "updated_at": "2026-05-10T02:48:49Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37425,
-      "forks": 3732,
-      "language": "C#",
-      "pushed_at": "2026-05-09T23:05:19Z",
-      "updated_at": "2026-05-10T02:42:01Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19169,
-      "forks": 1668,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T23:22:40Z",
-      "updated_at": "2026-05-10T01:23:24Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5204,
-      "forks": 619,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-09T22:59:06Z",
-      "updated_at": "2026-05-09T22:59:11Z"
-    },
-    {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1823,
-      "forks": 181,
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 176995,
+      "forks": 27367,
       "language": "JavaScript",
-      "pushed_at": "2026-05-10T01:24:16Z",
-      "updated_at": "2026-05-10T02:44:18Z"
+      "pushed_at": "2026-05-10T04:52:37Z",
+      "updated_at": "2026-05-10T06:31:14Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1741,
-      "forks": 50,
-      "language": "Swift",
-      "pushed_at": "2026-05-09T22:50:40Z",
-      "updated_at": "2026-05-09T22:50:49Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 817,
-      "forks": 47,
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8453,
+      "forks": 930,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T01:26:21Z",
-      "updated_at": "2026-05-10T01:26:25Z"
+      "pushed_at": "2026-05-10T04:11:33Z",
+      "updated_at": "2026-05-10T05:19:20Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7532,
+      "forks": 195,
+      "language": "C++",
+      "pushed_at": "2026-05-10T01:56:14Z",
+      "updated_at": "2026-05-10T04:28:45Z"
+    },
+    {
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6740,
+      "forks": 254,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T05:26:10Z",
+      "updated_at": "2026-05-10T05:32:29Z"
+    },
+    {
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5186,
+      "forks": 444,
+      "language": "Rust",
+      "pushed_at": "2026-05-10T02:58:15Z",
+      "updated_at": "2026-05-10T02:58:19Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4669,
+      "forks": 262,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-10T03:07:10Z",
+      "updated_at": "2026-05-10T03:12:09Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3180,
+      "forks": 149,
+      "language": "Gherkin",
+      "pushed_at": "2026-05-10T06:31:29Z",
+      "updated_at": "2026-05-10T05:44:39Z"
+    },
+    {
+      "id": 735151489,
+      "full_name": "hywax/mafl",
+      "html_url": "https://github.com/hywax/mafl",
+      "description": "Minimalistic flexible homepage",
+      "stars": 724,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T04:37:56Z",
+      "updated_at": "2026-05-10T04:38:00Z"
     },
     {
       "id": 1148683593,
@@ -92,8 +103,19 @@
       "stars": 715,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-09T23:23:56Z",
-      "updated_at": "2026-05-10T00:03:25Z"
+      "pushed_at": "2026-05-10T06:20:46Z",
+      "updated_at": "2026-05-10T06:20:50Z"
+    },
+    {
+      "id": 88267809,
+      "full_name": "wmjordan/Codist",
+      "html_url": "https://github.com/wmjordan/Codist",
+      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
+      "stars": 390,
+      "forks": 34,
+      "language": "C#",
+      "pushed_at": "2026-05-10T03:46:10Z",
+      "updated_at": "2026-05-10T03:46:13Z"
     },
     {
       "id": 1175591394,
@@ -103,19 +125,8 @@
       "stars": 354,
       "forks": 62,
       "language": "Python",
-      "pushed_at": "2026-05-10T02:38:22Z",
+      "pushed_at": "2026-05-10T03:52:43Z",
       "updated_at": "2026-05-10T02:38:25Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 317,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T01:48:36Z",
-      "updated_at": "2026-05-10T01:48:39Z"
     },
     {
       "id": 1030039430,
@@ -125,30 +136,19 @@
       "stars": 311,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T02:39:59Z",
-      "updated_at": "2026-05-10T02:40:09Z"
+      "pushed_at": "2026-05-10T04:36:01Z",
+      "updated_at": "2026-05-10T04:36:06Z"
     },
     {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 286,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-09T23:37:55Z",
-      "updated_at": "2026-05-09T23:37:58Z"
-    },
-    {
-      "id": 1048106675,
-      "full_name": "vasylenko/bear-notes-mcp",
-      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
-      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
-      "stars": 188,
-      "forks": 19,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 278,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T23:33:31Z",
-      "updated_at": "2026-05-09T23:33:35Z"
+      "pushed_at": "2026-05-10T03:53:13Z",
+      "updated_at": "2026-05-10T03:53:18Z"
     },
     {
       "id": 643614365,
@@ -162,15 +162,15 @@
       "updated_at": "2026-05-10T02:48:16Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 124,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-10T01:06:38Z",
-      "updated_at": "2026-05-10T01:06:19Z"
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 171,
+      "forks": 45,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-10T05:05:05Z",
+      "updated_at": "2026-05-10T05:05:08Z"
     }
   ]
 }
