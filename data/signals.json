@@ -8,136 +8,92 @@
   "total_found": 833,
   "items": [
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24165,
-      "forks": 2278,
-      "language": "Python",
-      "pushed_at": "2026-05-09T17:18:07Z",
-      "updated_at": "2026-05-09T18:46:49Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 45297,
+      "forks": 2751,
+      "language": "Rust",
+      "pushed_at": "2026-05-09T22:51:55Z",
+      "updated_at": "2026-05-10T02:48:49Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37425,
+      "forks": 3732,
+      "language": "C#",
+      "pushed_at": "2026-05-09T23:05:19Z",
+      "updated_at": "2026-05-10T02:42:01Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19168,
-      "forks": 1667,
+      "stars": 19169,
+      "forks": 1668,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T18:28:03Z",
-      "updated_at": "2026-05-09T18:28:05Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10648,
-      "forks": 1316,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T20:35:53Z",
-      "updated_at": "2026-05-09T19:24:11Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5276,
-      "forks": 305,
-      "language": "Vala",
-      "pushed_at": "2026-05-09T19:04:12Z",
-      "updated_at": "2026-05-09T19:04:17Z"
+      "pushed_at": "2026-05-09T23:22:40Z",
+      "updated_at": "2026-05-10T01:23:24Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5203,
+      "stars": 5204,
       "forks": 619,
       "language": "Kotlin",
-      "pushed_at": "2026-05-09T19:31:27Z",
-      "updated_at": "2026-05-09T20:40:38Z"
+      "pushed_at": "2026-05-09T22:59:06Z",
+      "updated_at": "2026-05-09T22:59:11Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4665,
-      "forks": 262,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-09T17:33:08Z",
-      "updated_at": "2026-05-09T17:33:12Z"
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1823,
+      "forks": 181,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-10T01:24:16Z",
+      "updated_at": "2026-05-10T02:44:18Z"
     },
     {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2452,
-      "forks": 106,
-      "language": "Go",
-      "pushed_at": "2026-05-09T17:36:34Z",
-      "updated_at": "2026-05-09T19:29:49Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1741,
+      "forks": 50,
+      "language": "Swift",
+      "pushed_at": "2026-05-09T22:50:40Z",
+      "updated_at": "2026-05-09T22:50:49Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1845,
-      "forks": 136,
-      "language": "Dart",
-      "pushed_at": "2026-05-09T19:10:20Z",
-      "updated_at": "2026-05-09T19:10:24Z"
-    },
-    {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1764,
-      "forks": 145,
-      "language": "Dart",
-      "pushed_at": "2026-05-09T17:47:40Z",
-      "updated_at": "2026-05-09T17:47:44Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 817,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T01:26:21Z",
+      "updated_at": "2026-05-10T01:26:25Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 713,
+      "stars": 715,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-09T20:23:55Z",
-      "updated_at": "2026-05-09T20:23:59Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 555,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-05-09T20:30:56Z",
-      "updated_at": "2026-05-09T20:31:00Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 500,
-      "forks": 70,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-09T18:41:31Z",
-      "updated_at": "2026-05-09T19:32:39Z"
+      "pushed_at": "2026-05-09T23:23:56Z",
+      "updated_at": "2026-05-10T00:03:25Z"
     },
     {
       "id": 1175591394,
@@ -147,8 +103,19 @@
       "stars": 354,
       "forks": 62,
       "language": "Python",
-      "pushed_at": "2026-05-09T20:38:27Z",
-      "updated_at": "2026-05-09T20:38:31Z"
+      "pushed_at": "2026-05-10T02:38:22Z",
+      "updated_at": "2026-05-10T02:38:25Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T01:48:36Z",
+      "updated_at": "2026-05-10T01:48:39Z"
     },
     {
       "id": 1030039430,
@@ -158,19 +125,52 @@
       "stars": 311,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T20:01:28Z",
-      "updated_at": "2026-05-09T19:02:13Z"
+      "pushed_at": "2026-05-10T02:39:59Z",
+      "updated_at": "2026-05-10T02:40:09Z"
     },
     {
-      "id": 582366639,
-      "full_name": "Th3Un1q3/flipp_pomodoro",
-      "html_url": "https://github.com/Th3Un1q3/flipp_pomodoro",
-      "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
-      "stars": 208,
-      "forks": 14,
-      "language": "C",
-      "pushed_at": "2026-05-09T19:18:13Z",
-      "updated_at": "2026-05-09T19:15:46Z"
+      "id": 163754017,
+      "full_name": "gergelyszabo94/csgo-trader-extension",
+      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
+      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
+      "stars": 286,
+      "forks": 49,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-09T23:37:55Z",
+      "updated_at": "2026-05-09T23:37:58Z"
+    },
+    {
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 188,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T23:33:31Z",
+      "updated_at": "2026-05-09T23:33:35Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 182,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-10T02:48:12Z",
+      "updated_at": "2026-05-10T02:48:16Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 124,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-10T01:06:38Z",
+      "updated_at": "2026-05-10T01:06:19Z"
     }
   ]
 }
