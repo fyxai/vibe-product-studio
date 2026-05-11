@@ -12,77 +12,55 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 179231,
-      "forks": 27632,
+      "stars": 179378,
+      "forks": 27655,
       "language": "JavaScript",
-      "pushed_at": "2026-05-11T14:40:20Z",
-      "updated_at": "2026-05-11T14:48:26Z"
+      "pushed_at": "2026-05-11T17:47:44Z",
+      "updated_at": "2026-05-11T17:52:22Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 46018,
+      "forks": 2792,
+      "language": "Rust",
+      "pushed_at": "2026-05-11T17:26:55Z",
+      "updated_at": "2026-05-11T17:53:11Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43390,
-      "forks": 2710,
+      "stars": 43397,
+      "forks": 2711,
       "language": "C#",
-      "pushed_at": "2026-05-11T14:29:09Z",
-      "updated_at": "2026-05-11T14:36:50Z"
+      "pushed_at": "2026-05-11T16:11:40Z",
+      "updated_at": "2026-05-11T17:48:41Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19215,
-      "forks": 1667,
+      "stars": 19223,
+      "forks": 1668,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T13:39:52Z",
-      "updated_at": "2026-05-11T14:26:28Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10656,
-      "forks": 1317,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T14:13:25Z",
-      "updated_at": "2026-05-11T14:10:25Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7566,
-      "forks": 196,
-      "language": "C++",
-      "pushed_at": "2026-05-11T14:11:02Z",
-      "updated_at": "2026-05-11T14:22:16Z"
+      "pushed_at": "2026-05-11T16:55:37Z",
+      "updated_at": "2026-05-11T17:13:47Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5644,
+      "stars": 5645,
       "forks": 739,
       "language": "Swift",
-      "pushed_at": "2026-05-11T14:44:53Z",
-      "updated_at": "2026-05-11T14:06:29Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5275,
-      "forks": 305,
-      "language": "Vala",
-      "pushed_at": "2026-05-11T14:10:43Z",
-      "updated_at": "2026-05-11T14:16:40Z"
+      "pushed_at": "2026-05-11T17:50:35Z",
+      "updated_at": "2026-05-11T17:41:02Z"
     },
     {
       "id": 119006816,
@@ -92,41 +70,30 @@
       "stars": 5189,
       "forks": 445,
       "language": "Rust",
-      "pushed_at": "2026-05-11T14:37:35Z",
-      "updated_at": "2026-05-11T14:47:31Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3684,
-      "forks": 768,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T14:32:25Z",
-      "updated_at": "2026-05-11T14:40:40Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3013,
-      "forks": 362,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T14:18:15Z",
-      "updated_at": "2026-05-11T14:24:59Z"
+      "pushed_at": "2026-05-11T16:53:21Z",
+      "updated_at": "2026-05-11T16:53:26Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3009,
+      "stars": 3012,
       "forks": 196,
       "language": "Python",
-      "pushed_at": "2026-05-11T14:34:35Z",
-      "updated_at": "2026-05-11T14:23:52Z"
+      "pushed_at": "2026-05-11T17:14:36Z",
+      "updated_at": "2026-05-11T17:24:01Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1845,
+      "forks": 135,
+      "language": "Dart",
+      "pushed_at": "2026-05-11T16:05:03Z",
+      "updated_at": "2026-05-11T16:14:14Z"
     },
     {
       "id": 1085525076,
@@ -136,8 +103,19 @@
       "stars": 1211,
       "forks": 66,
       "language": "JavaScript",
-      "pushed_at": "2026-05-11T14:32:16Z",
-      "updated_at": "2026-05-11T14:38:37Z"
+      "pushed_at": "2026-05-11T15:00:06Z",
+      "updated_at": "2026-05-11T15:09:41Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1129,
+      "forks": 117,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-11T16:24:40Z",
+      "updated_at": "2026-05-11T16:28:00Z"
     },
     {
       "id": 1111978380,
@@ -147,30 +125,52 @@
       "stars": 823,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T14:34:16Z",
-      "updated_at": "2026-05-11T14:41:50Z"
+      "pushed_at": "2026-05-11T17:18:04Z",
+      "updated_at": "2026-05-11T17:48:54Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 723,
+      "stars": 724,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-11T14:07:10Z",
-      "updated_at": "2026-05-11T14:14:52Z"
+      "pushed_at": "2026-05-11T17:15:49Z",
+      "updated_at": "2026-05-11T17:16:39Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 686,
-      "forks": 41,
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 682,
+      "forks": 35,
       "language": "Python",
-      "pushed_at": "2026-05-11T13:32:08Z",
-      "updated_at": "2026-05-11T13:36:51Z"
+      "pushed_at": "2026-05-11T17:11:51Z",
+      "updated_at": "2026-05-11T17:13:14Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 311,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T17:50:59Z",
+      "updated_at": "2026-05-11T17:40:31Z"
+    },
+    {
+      "id": 749625079,
+      "full_name": "nomandhoni-cs/blink-eye",
+      "html_url": "https://github.com/nomandhoni-cs/blink-eye",
+      "description": "A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-in TODO functionality. Your digital wellness companion for healthier productivity.",
+      "stars": 248,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T15:50:02Z",
+      "updated_at": "2026-05-11T15:33:35Z"
     }
   ]
 }
