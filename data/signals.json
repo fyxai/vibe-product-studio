@@ -8,169 +8,169 @@
   "total_found": 833,
   "items": [
     {
-      "id": 343078060,
-      "full_name": "Lissy93/dashy",
-      "html_url": "https://github.com/Lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25054,
-      "forks": 1835,
-      "language": "Vue",
-      "pushed_at": "2026-05-10T20:14:44Z",
-      "updated_at": "2026-05-10T20:13:03Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19192,
+      "stars": 19196,
       "forks": 1667,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:35:34Z",
-      "updated_at": "2026-05-10T20:35:38Z"
+      "pushed_at": "2026-05-10T22:12:02Z",
+      "updated_at": "2026-05-11T03:00:12Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14631,
+      "stars": 14634,
       "forks": 596,
       "language": "C#",
-      "pushed_at": "2026-05-10T20:14:52Z",
-      "updated_at": "2026-05-10T18:24:23Z"
+      "pushed_at": "2026-05-10T20:53:36Z",
+      "updated_at": "2026-05-11T00:54:26Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 10822,
-      "forks": 647,
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8456,
+      "forks": 930,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T17:40:16Z",
-      "updated_at": "2026-05-10T20:34:49Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10653,
-      "forks": 1318,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:40:49Z",
-      "updated_at": "2026-05-10T20:39:20Z"
+      "pushed_at": "2026-05-11T01:03:03Z",
+      "updated_at": "2026-05-11T03:14:24Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7550,
+      "stars": 7556,
       "forks": 195,
       "language": "C++",
-      "pushed_at": "2026-05-10T20:45:16Z",
-      "updated_at": "2026-05-10T20:22:53Z"
+      "pushed_at": "2026-05-11T01:40:20Z",
+      "updated_at": "2026-05-11T02:21:24Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5641,
+      "stars": 5642,
       "forks": 739,
       "language": "Swift",
-      "pushed_at": "2026-05-10T20:11:52Z",
-      "updated_at": "2026-05-10T18:41:37Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3683,
-      "forks": 768,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T19:28:04Z",
-      "updated_at": "2026-05-10T18:09:30Z"
+      "pushed_at": "2026-05-10T21:06:43Z",
+      "updated_at": "2026-05-11T02:49:56Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3004,
+      "stars": 3008,
       "forks": 362,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:26:50Z",
-      "updated_at": "2026-05-10T20:37:45Z"
+      "pushed_at": "2026-05-10T23:13:23Z",
+      "updated_at": "2026-05-11T03:22:48Z"
     },
     {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2457,
-      "forks": 106,
-      "language": "Go",
-      "pushed_at": "2026-05-10T17:08:49Z",
-      "updated_at": "2026-05-10T19:34:07Z"
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 2025,
+      "forks": 211,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-10T20:51:36Z",
+      "updated_at": "2026-05-10T20:51:39Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1815,
-      "forks": 115,
-      "language": "Go",
-      "pushed_at": "2026-05-10T18:46:56Z",
-      "updated_at": "2026-05-10T18:42:55Z"
-    },
-    {
-      "id": 264844037,
-      "full_name": "lindell/multi-gitter",
-      "html_url": "https://github.com/lindell/multi-gitter",
-      "description": "Update multiple repositories in with one command",
-      "stars": 1189,
-      "forks": 84,
-      "language": "Go",
-      "pushed_at": "2026-05-10T19:02:59Z",
-      "updated_at": "2026-05-10T19:01:42Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 1144,
-      "forks": 63,
-      "language": "Rust",
-      "pushed_at": "2026-05-10T16:49:41Z",
-      "updated_at": "2026-05-10T20:36:35Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 921,
-      "forks": 154,
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1211,
+      "forks": 100,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:43:43Z",
-      "updated_at": "2026-05-10T20:43:47Z"
+      "pushed_at": "2026-05-11T03:00:04Z",
+      "updated_at": "2026-05-11T03:00:06Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 819,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T02:36:35Z",
+      "updated_at": "2026-05-11T02:36:48Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 720,
+      "stars": 722,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-10T20:41:41Z",
-      "updated_at": "2026-05-10T20:41:45Z"
+      "pushed_at": "2026-05-11T03:10:30Z",
+      "updated_at": "2026-05-11T03:12:02Z"
+    },
+    {
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
+      "stars": 487,
+      "forks": 85,
+      "language": "Swift",
+      "pushed_at": "2026-05-10T23:25:21Z",
+      "updated_at": "2026-05-10T23:35:21Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
+      "stars": 354,
+      "forks": 62,
+      "language": "Python",
+      "pushed_at": "2026-05-11T03:25:19Z",
+      "updated_at": "2026-05-11T03:25:22Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 311,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T02:35:57Z",
+      "updated_at": "2026-05-11T00:51:48Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 182,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-11T03:18:02Z",
+      "updated_at": "2026-05-11T03:18:05Z"
+    },
+    {
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 172,
+      "forks": 45,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-11T02:59:39Z",
+      "updated_at": "2026-05-11T02:59:41Z"
     }
   ]
 }
