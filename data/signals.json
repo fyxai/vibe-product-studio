@@ -8,37 +8,92 @@
   "total_found": 833,
   "items": [
     {
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 186921,
+      "forks": 26367,
+      "language": "Shell",
+      "pushed_at": "2026-05-11T09:00:29Z",
+      "updated_at": "2026-05-11T09:00:49Z"
+    },
+    {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 178757,
-      "forks": 27568,
+      "stars": 178983,
+      "forks": 27595,
       "language": "JavaScript",
-      "pushed_at": "2026-05-11T07:35:44Z",
-      "updated_at": "2026-05-11T07:37:50Z"
+      "pushed_at": "2026-05-11T10:07:48Z",
+      "updated_at": "2026-05-11T11:17:08Z"
     },
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 122909,
-      "forks": 13597,
+      "stars": 122931,
+      "forks": 13599,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:17:46Z",
-      "updated_at": "2026-05-11T07:37:48Z"
+      "pushed_at": "2026-05-11T09:36:39Z",
+      "updated_at": "2026-05-11T11:17:50Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37452,
-      "forks": 3732,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19208,
+      "forks": 1667,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T09:43:42Z",
+      "updated_at": "2026-05-11T11:15:18Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14639,
+      "forks": 597,
       "language": "C#",
-      "pushed_at": "2026-05-11T06:37:50Z",
-      "updated_at": "2026-05-11T06:52:46Z"
+      "pushed_at": "2026-05-11T10:30:07Z",
+      "updated_at": "2026-05-11T11:14:37Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14052,
+      "forks": 1402,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T10:05:27Z",
+      "updated_at": "2026-05-11T10:55:29Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 12966,
+      "forks": 790,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T09:21:24Z",
+      "updated_at": "2026-05-11T09:21:30Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10655,
+      "forks": 1317,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T11:17:06Z",
+      "updated_at": "2026-05-11T11:16:45Z"
     },
     {
       "id": 129699403,
@@ -48,8 +103,19 @@
       "stars": 5642,
       "forks": 739,
       "language": "Swift",
-      "pushed_at": "2026-05-11T07:33:40Z",
-      "updated_at": "2026-05-11T07:25:43Z"
+      "pushed_at": "2026-05-11T11:17:35Z",
+      "updated_at": "2026-05-11T08:59:30Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5275,
+      "forks": 305,
+      "language": "Vala",
+      "pushed_at": "2026-05-11T10:48:16Z",
+      "updated_at": "2026-05-11T10:48:19Z"
     },
     {
       "id": 300155217,
@@ -59,52 +125,41 @@
       "stars": 3206,
       "forks": 1009,
       "language": "C++",
-      "pushed_at": "2026-05-11T06:01:34Z",
-      "updated_at": "2026-05-11T06:44:49Z"
+      "pushed_at": "2026-05-11T11:01:01Z",
+      "updated_at": "2026-05-11T08:50:12Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3007,
-      "forks": 196,
-      "language": "Python",
-      "pushed_at": "2026-05-11T04:35:26Z",
-      "updated_at": "2026-05-11T04:16:24Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1815,
-      "forks": 116,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2378,
+      "forks": 274,
       "language": "Go",
-      "pushed_at": "2026-05-11T04:56:50Z",
-      "updated_at": "2026-05-11T04:52:42Z"
+      "pushed_at": "2026-05-11T10:49:36Z",
+      "updated_at": "2026-05-11T10:59:09Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1211,
-      "forks": 100,
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+      "stars": 1145,
+      "forks": 62,
+      "language": "Rust",
+      "pushed_at": "2026-05-11T10:08:56Z",
+      "updated_at": "2026-05-11T10:42:15Z"
+    },
+    {
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
+      "stars": 924,
+      "forks": 155,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T03:00:04Z",
-      "updated_at": "2026-05-11T03:00:06Z"
-    },
-    {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 939,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-05-11T06:34:39Z",
-      "updated_at": "2026-05-11T06:32:09Z"
+      "pushed_at": "2026-05-11T09:14:13Z",
+      "updated_at": "2026-05-11T09:15:09Z"
     },
     {
       "id": 1148683593,
@@ -114,63 +169,8 @@
       "stars": 723,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-11T07:30:40Z",
-      "updated_at": "2026-05-11T07:30:44Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 620,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T04:01:12Z",
-      "updated_at": "2026-05-11T07:29:06Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 485,
-      "forks": 31,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T05:35:48Z",
-      "updated_at": "2026-05-11T05:35:51Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
-      "stars": 354,
-      "forks": 62,
-      "language": "Python",
-      "pushed_at": "2026-05-11T05:05:34Z",
-      "updated_at": "2026-05-11T05:05:38Z"
-    },
-    {
-      "id": 465531659,
-      "full_name": "TheJoeFin/Simple-Icon-File-Maker",
-      "html_url": "https://github.com/TheJoeFin/Simple-Icon-File-Maker",
-      "description": "Create and view .ico files in pixel perfect detail.",
-      "stars": 275,
-      "forks": 16,
-      "language": "C#",
-      "pushed_at": "2026-05-11T05:13:15Z",
-      "updated_at": "2026-05-11T05:13:20Z"
-    },
-    {
-      "id": 816791495,
-      "full_name": "ktmouk/minute",
-      "html_url": "https://github.com/ktmouk/minute",
-      "description": "⏰ The open-source time tracking app for individuals.",
-      "stars": 247,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T06:04:26Z",
-      "updated_at": "2026-05-11T06:00:43Z"
+      "pushed_at": "2026-05-11T11:08:05Z",
+      "updated_at": "2026-05-11T11:08:10Z"
     }
   ]
 }
