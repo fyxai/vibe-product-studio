@@ -12,66 +12,66 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 180189,
-      "forks": 27780,
+      "stars": 180334,
+      "forks": 27800,
       "language": "JavaScript",
-      "pushed_at": "2026-05-12T14:07:25Z",
-      "updated_at": "2026-05-12T14:22:43Z"
+      "pushed_at": "2026-05-12T17:50:01Z",
+      "updated_at": "2026-05-12T17:54:54Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 46539,
-      "forks": 2826,
-      "language": "Rust",
-      "pushed_at": "2026-05-12T13:32:47Z",
-      "updated_at": "2026-05-12T14:21:53Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 123013,
+      "forks": 13616,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-12T16:44:52Z",
+      "updated_at": "2026-05-12T17:33:34Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24173,
-      "forks": 2282,
-      "language": "Python",
-      "pushed_at": "2026-05-12T14:20:05Z",
-      "updated_at": "2026-05-12T14:00:29Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19291,
+      "forks": 1674,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-12T17:55:55Z",
+      "updated_at": "2026-05-12T17:56:01Z"
     },
     {
       "id": 1052845083,
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 12701,
-      "forks": 1769,
+      "stars": 12818,
+      "forks": 1797,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T13:45:28Z",
-      "updated_at": "2026-05-12T14:19:15Z"
+      "pushed_at": "2026-05-12T16:56:20Z",
+      "updated_at": "2026-05-12T17:54:44Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10662,
+      "forks": 1319,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-12T17:41:36Z",
+      "updated_at": "2026-05-12T17:34:31Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7576,
+      "stars": 7583,
       "forks": 196,
       "language": "C++",
-      "pushed_at": "2026-05-12T13:16:21Z",
-      "updated_at": "2026-05-12T13:57:05Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6753,
-      "forks": 255,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-12T13:23:36Z",
-      "updated_at": "2026-05-12T13:34:41Z"
+      "pushed_at": "2026-05-12T16:57:44Z",
+      "updated_at": "2026-05-12T17:24:30Z"
     },
     {
       "id": 129699403,
@@ -79,76 +79,76 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5646,
-      "forks": 739,
+      "forks": 738,
       "language": "Swift",
-      "pushed_at": "2026-05-12T14:17:09Z",
-      "updated_at": "2026-05-12T13:25:31Z"
+      "pushed_at": "2026-05-12T17:40:09Z",
+      "updated_at": "2026-05-12T17:08:40Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5191,
-      "forks": 445,
-      "language": "Rust",
-      "pushed_at": "2026-05-12T13:42:23Z",
-      "updated_at": "2026-05-12T14:12:36Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4694,
+      "forks": 264,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-12T17:45:22Z",
+      "updated_at": "2026-05-12T17:04:36Z"
     },
     {
-      "id": 1158449837,
-      "full_name": "golutra/golutra",
-      "html_url": "https://github.com/golutra/golutra",
-      "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
-      "stars": 3445,
-      "forks": 392,
-      "language": "Rust",
-      "pushed_at": "2026-05-12T14:04:06Z",
-      "updated_at": "2026-05-12T13:31:06Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3183,
-      "forks": 149,
-      "language": "Gherkin",
-      "pushed_at": "2026-05-12T12:48:49Z",
-      "updated_at": "2026-05-12T12:48:52Z"
-    },
-    {
-      "id": 751038600,
-      "full_name": "tach-org/tach",
-      "html_url": "https://github.com/tach-org/tach",
-      "description": "A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust",
-      "stars": 2723,
-      "forks": 88,
-      "language": "Rust",
-      "pushed_at": "2026-05-12T12:35:07Z",
-      "updated_at": "2026-05-12T12:38:03Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1225,
-      "forks": 66,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-12T12:25:29Z",
-      "updated_at": "2026-05-12T14:07:40Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 826,
-      "forks": 47,
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3031,
+      "forks": 364,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T13:09:39Z",
-      "updated_at": "2026-05-12T13:13:25Z"
+      "pushed_at": "2026-05-12T16:08:55Z",
+      "updated_at": "2026-05-12T17:10:47Z"
+    },
+    {
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
+      "stars": 1906,
+      "forks": 128,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-12T16:18:43Z",
+      "updated_at": "2026-05-12T16:20:58Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1816,
+      "forks": 117,
+      "language": "Go",
+      "pushed_at": "2026-05-12T16:32:30Z",
+      "updated_at": "2026-05-12T16:50:41Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
+      "stars": 727,
+      "forks": 25,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-05-12T16:17:53Z",
+      "updated_at": "2026-05-12T16:54:38Z"
+    },
+    {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 683,
+      "forks": 35,
+      "language": "Python",
+      "pushed_at": "2026-05-12T16:47:59Z",
+      "updated_at": "2026-05-12T17:12:15Z"
     },
     {
       "id": 1193364497,
@@ -158,19 +158,19 @@
       "stars": 488,
       "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T14:13:24Z",
-      "updated_at": "2026-05-12T14:08:56Z"
+      "pushed_at": "2026-05-12T16:13:34Z",
+      "updated_at": "2026-05-12T16:53:25Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Copilot · Codex,GPT & Custom Providers",
-      "stars": 355,
-      "forks": 62,
-      "language": "Python",
-      "pushed_at": "2026-05-12T14:16:47Z",
-      "updated_at": "2026-05-12T14:11:51Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 404,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-05-12T16:42:38Z",
+      "updated_at": "2026-05-12T17:00:01Z"
     }
   ]
 }
