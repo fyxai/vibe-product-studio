@@ -8,92 +8,59 @@
   "total_found": 836,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 181216,
-      "forks": 27942,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-13T16:48:52Z",
-      "updated_at": "2026-05-13T17:56:53Z"
-    },
-    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 47297,
-      "forks": 2865,
+      "stars": 47340,
+      "forks": 2869,
       "language": "Rust",
-      "pushed_at": "2026-05-13T17:09:07Z",
-      "updated_at": "2026-05-13T17:57:33Z"
+      "pushed_at": "2026-05-13T20:17:45Z",
+      "updated_at": "2026-05-13T21:18:17Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24179,
-      "forks": 2282,
-      "language": "Python",
-      "pushed_at": "2026-05-13T17:15:03Z",
-      "updated_at": "2026-05-13T17:06:38Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43477,
+      "forks": 2714,
+      "language": "C#",
+      "pushed_at": "2026-05-13T20:22:14Z",
+      "updated_at": "2026-05-13T21:16:32Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19329,
-      "forks": 1682,
+      "stars": 19334,
+      "forks": 1683,
       "language": "TypeScript",
-      "pushed_at": "2026-05-13T15:39:27Z",
-      "updated_at": "2026-05-13T17:06:13Z"
+      "pushed_at": "2026-05-13T20:09:05Z",
+      "updated_at": "2026-05-13T21:09:25Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 11124,
-      "forks": 662,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-13T15:27:02Z",
-      "updated_at": "2026-05-13T17:37:25Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10682,
-      "forks": 1323,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-13T16:16:30Z",
-      "updated_at": "2026-05-13T17:50:19Z"
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 13806,
+      "forks": 406,
+      "language": "Rust",
+      "pushed_at": "2026-05-13T20:58:57Z",
+      "updated_at": "2026-05-13T20:59:01Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7621,
-      "forks": 196,
+      "stars": 7622,
+      "forks": 197,
       "language": "C++",
-      "pushed_at": "2026-05-13T17:55:44Z",
-      "updated_at": "2026-05-13T17:55:49Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5645,
-      "forks": 740,
-      "language": "Swift",
-      "pushed_at": "2026-05-13T17:56:58Z",
-      "updated_at": "2026-05-13T17:20:17Z"
+      "pushed_at": "2026-05-13T20:29:19Z",
+      "updated_at": "2026-05-13T20:29:20Z"
     },
     {
       "id": 11512043,
@@ -101,10 +68,32 @@
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
       "stars": 5211,
-      "forks": 621,
+      "forks": 622,
       "language": "Kotlin",
-      "pushed_at": "2026-05-13T15:46:33Z",
-      "updated_at": "2026-05-13T16:30:11Z"
+      "pushed_at": "2026-05-13T19:06:35Z",
+      "updated_at": "2026-05-13T19:06:40Z"
+    },
+    {
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 3910,
+      "forks": 121,
+      "language": "Python",
+      "pushed_at": "2026-05-13T19:28:10Z",
+      "updated_at": "2026-05-13T20:59:17Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3067,
+      "forks": 370,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-13T21:18:58Z",
+      "updated_at": "2026-05-13T19:11:30Z"
     },
     {
       "id": 323279421,
@@ -114,63 +103,74 @@
       "stars": 1844,
       "forks": 135,
       "language": "Dart",
-      "pushed_at": "2026-05-13T17:43:24Z",
-      "updated_at": "2026-05-13T17:43:29Z"
+      "pushed_at": "2026-05-13T19:19:52Z",
+      "updated_at": "2026-05-13T19:19:57Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1775,
+      "stars": 1777,
       "forks": 51,
       "language": "Swift",
-      "pushed_at": "2026-05-13T16:25:22Z",
-      "updated_at": "2026-05-13T16:25:27Z"
+      "pushed_at": "2026-05-13T21:12:05Z",
+      "updated_at": "2026-05-13T21:12:10Z"
     },
     {
-      "id": 1119754832,
-      "full_name": "OlaProeis/Ferrite",
-      "html_url": "https://github.com/OlaProeis/Ferrite",
-      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
-      "stars": 1530,
-      "forks": 72,
-      "language": "Rust",
-      "pushed_at": "2026-05-13T17:48:12Z",
-      "updated_at": "2026-05-13T17:48:18Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1094,
-      "forks": 27,
-      "language": "Rust",
-      "pushed_at": "2026-05-13T17:56:48Z",
-      "updated_at": "2026-05-13T17:56:56Z"
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1216,
+      "forks": 101,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-13T18:04:43Z",
+      "updated_at": "2026-05-13T20:09:10Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 828,
+      "stars": 830,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-05-13T16:39:00Z",
-      "updated_at": "2026-05-13T15:49:19Z"
+      "pushed_at": "2026-05-13T20:37:16Z",
+      "updated_at": "2026-05-13T20:37:20Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 731,
+      "stars": 732,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-13T17:46:04Z",
-      "updated_at": "2026-05-13T17:46:09Z"
+      "pushed_at": "2026-05-13T21:13:00Z",
+      "updated_at": "2026-05-13T21:13:05Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 432,
+      "forks": 71,
+      "language": "Go",
+      "pushed_at": "2026-05-13T18:57:14Z",
+      "updated_at": "2026-05-13T18:45:58Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 345,
+      "forks": 31,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-13T20:44:13Z",
+      "updated_at": "2026-05-13T20:44:17Z"
     }
   ]
 }
