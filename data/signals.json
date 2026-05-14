@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 836,
+  "total_found": 835,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 181487,
-      "forks": 27977,
+      "stars": 181641,
+      "forks": 27998,
       "language": "JavaScript",
-      "pushed_at": "2026-05-14T03:02:25Z",
-      "updated_at": "2026-05-14T03:20:37Z"
+      "pushed_at": "2026-05-14T03:31:29Z",
+      "updated_at": "2026-05-14T06:44:17Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37500,
-      "forks": 3735,
-      "language": "C#",
-      "pushed_at": "2026-05-13T23:43:28Z",
-      "updated_at": "2026-05-14T02:30:46Z"
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14040,
+      "forks": 946,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T05:42:25Z",
+      "updated_at": "2026-05-14T06:43:07Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 11138,
-      "forks": 664,
+      "stars": 11150,
+      "forks": 665,
       "language": "TypeScript",
       "pushed_at": "2026-05-14T02:45:10Z",
-      "updated_at": "2026-05-14T02:45:19Z"
+      "updated_at": "2026-05-14T06:41:22Z"
     },
     {
       "id": 592882602,
       "full_name": "MrKai77/Loop",
       "html_url": "https://github.com/MrKai77/Loop",
       "description": "Window management made elegant.",
-      "stars": 10687,
+      "stars": 10688,
       "forks": 234,
       "language": "Swift",
-      "pushed_at": "2026-05-13T23:55:48Z",
-      "updated_at": "2026-05-14T01:50:14Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7625,
-      "forks": 197,
-      "language": "C++",
-      "pushed_at": "2026-05-14T01:08:33Z",
-      "updated_at": "2026-05-14T01:08:37Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6759,
-      "forks": 256,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-14T02:34:12Z",
-      "updated_at": "2026-05-14T02:34:16Z"
+      "pushed_at": "2026-05-14T04:47:48Z",
+      "updated_at": "2026-05-14T04:50:00Z"
     },
     {
       "id": 1092562478,
@@ -85,48 +63,37 @@
       "updated_at": "2026-05-14T03:05:07Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3070,
-      "forks": 370,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-13T23:48:40Z",
-      "updated_at": "2026-05-14T01:29:06Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3186,
+      "forks": 149,
+      "language": "Gherkin",
+      "pushed_at": "2026-05-14T06:23:32Z",
+      "updated_at": "2026-05-14T06:09:11Z"
     },
     {
-      "id": 89676988,
-      "full_name": "mono0926/LicensePlist",
-      "html_url": "https://github.com/mono0926/LicensePlist",
-      "description": "A license list generator of all your dependencies for iOS applications",
-      "stars": 2520,
-      "forks": 153,
-      "language": "Swift",
-      "pushed_at": "2026-05-14T02:26:45Z",
-      "updated_at": "2026-05-14T02:26:47Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3026,
+      "forks": 197,
+      "language": "Python",
+      "pushed_at": "2026-05-14T04:11:46Z",
+      "updated_at": "2026-05-14T05:54:19Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1095,
-      "forks": 27,
-      "language": "Rust",
-      "pushed_at": "2026-05-14T03:20:21Z",
-      "updated_at": "2026-05-14T01:43:07Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 830,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-14T00:41:48Z",
-      "updated_at": "2026-05-14T00:41:51Z"
+      "id": 89766385,
+      "full_name": "cassidoo/todometer",
+      "html_url": "https://github.com/cassidoo/todometer",
+      "description": "A meter-based to-do list",
+      "stars": 2107,
+      "forks": 299,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-14T05:12:19Z",
+      "updated_at": "2026-05-14T05:11:49Z"
     },
     {
       "id": 1148683593,
@@ -136,19 +103,30 @@
       "stars": 733,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-14T03:12:27Z",
-      "updated_at": "2026-05-14T03:12:31Z"
+      "pushed_at": "2026-05-14T06:24:21Z",
+      "updated_at": "2026-05-14T06:24:25Z"
     },
     {
-      "id": 1164540365,
-      "full_name": "sangrokjung/claude-forge",
-      "html_url": "https://github.com/sangrokjung/claude-forge",
-      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-      "stars": 699,
-      "forks": 152,
-      "language": "Shell",
-      "pushed_at": "2026-05-14T02:01:19Z",
-      "updated_at": "2026-05-14T02:01:23Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 635,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T06:42:31Z",
+      "updated_at": "2026-05-14T06:42:35Z"
+    },
+    {
+      "id": 511356686,
+      "full_name": "ConvoyPanel/panel",
+      "html_url": "https://github.com/ConvoyPanel/panel",
+      "description": "A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per node per month for commercial use, and completely free for personal and non-profit endeavors.",
+      "stars": 496,
+      "forks": 87,
+      "language": "PHP",
+      "pushed_at": "2026-05-14T05:55:43Z",
+      "updated_at": "2026-05-14T05:55:04Z"
     },
     {
       "id": 1193364497,
@@ -158,19 +136,41 @@
       "stars": 493,
       "forks": 33,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T03:05:26Z",
-      "updated_at": "2026-05-14T03:05:29Z"
+      "pushed_at": "2026-05-14T06:37:28Z",
+      "updated_at": "2026-05-14T06:31:22Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 445,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-05-14T01:32:58Z",
-      "updated_at": "2026-05-14T01:27:06Z"
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
+      "stars": 492,
+      "forks": 87,
+      "language": "Swift",
+      "pushed_at": "2026-05-14T03:58:41Z",
+      "updated_at": "2026-05-14T03:58:45Z"
+    },
+    {
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 480,
+      "forks": 92,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T05:30:48Z",
+      "updated_at": "2026-05-14T05:22:24Z"
+    },
+    {
+      "id": 75981808,
+      "full_name": "ixrock/XTranslate",
+      "html_url": "https://github.com/ixrock/XTranslate",
+      "description": "Easy translate text on web pages (browser extension)",
+      "stars": 147,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T06:15:47Z",
+      "updated_at": "2026-05-14T06:15:51Z"
     }
   ]
 }
