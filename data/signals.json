@@ -8,37 +8,48 @@
   "total_found": 835,
   "items": [
     {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 47765,
+      "forks": 2897,
+      "language": "Rust",
+      "pushed_at": "2026-05-14T11:51:21Z",
+      "updated_at": "2026-05-14T14:08:45Z"
+    },
+    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19343,
-      "forks": 1683,
+      "stars": 19347,
+      "forks": 1684,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:13:03Z",
-      "updated_at": "2026-05-14T10:13:08Z"
+      "pushed_at": "2026-05-14T11:41:01Z",
+      "updated_at": "2026-05-14T13:03:56Z"
     },
     {
-      "id": 592882602,
-      "full_name": "MrKai77/Loop",
-      "html_url": "https://github.com/MrKai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 10689,
-      "forks": 234,
-      "language": "Swift",
-      "pushed_at": "2026-05-14T08:15:24Z",
-      "updated_at": "2026-05-14T10:12:25Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7638,
+      "forks": 197,
+      "language": "C++",
+      "pushed_at": "2026-05-14T12:20:29Z",
+      "updated_at": "2026-05-14T14:03:00Z"
     },
     {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 6014,
-      "forks": 322,
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6140,
+      "forks": 124,
       "language": "Swift",
-      "pushed_at": "2026-05-14T08:43:30Z",
-      "updated_at": "2026-05-14T08:43:37Z"
+      "pushed_at": "2026-05-14T13:32:04Z",
+      "updated_at": "2026-05-14T13:32:08Z"
     },
     {
       "id": 129699403,
@@ -48,118 +59,96 @@
       "stars": 5647,
       "forks": 740,
       "language": "Swift",
-      "pushed_at": "2026-05-14T09:53:47Z",
-      "updated_at": "2026-05-14T09:30:59Z"
+      "pushed_at": "2026-05-14T13:51:27Z",
+      "updated_at": "2026-05-14T13:51:30Z"
     },
     {
       "id": 154173536,
       "full_name": "alainm23/planify",
       "html_url": "https://github.com/alainm23/planify",
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5275,
+      "stars": 5276,
       "forks": 306,
       "language": "Vala",
-      "pushed_at": "2026-05-14T10:04:01Z",
-      "updated_at": "2026-05-14T09:27:24Z"
+      "pushed_at": "2026-05-14T12:16:24Z",
+      "updated_at": "2026-05-14T12:47:36Z"
     },
     {
-      "id": 187916430,
-      "full_name": "muety/wakapi",
-      "html_url": "https://github.com/muety/wakapi",
-      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
-      "stars": 4304,
-      "forks": 286,
-      "language": "Go",
-      "pushed_at": "2026-05-14T09:04:20Z",
-      "updated_at": "2026-05-14T09:04:24Z"
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 4008,
+      "forks": 325,
+      "language": "PHP",
+      "pushed_at": "2026-05-14T11:27:54Z",
+      "updated_at": "2026-05-14T11:27:59Z"
     },
     {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3912,
-      "forks": 122,
-      "language": "Python",
-      "pushed_at": "2026-05-14T09:00:52Z",
-      "updated_at": "2026-05-14T09:00:56Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3073,
+      "forks": 370,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T11:49:45Z",
+      "updated_at": "2026-05-14T12:39:53Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2402,
+      "stars": 2403,
       "forks": 281,
       "language": "Go",
-      "pushed_at": "2026-05-14T07:32:35Z",
-      "updated_at": "2026-05-14T08:42:54Z"
+      "pushed_at": "2026-05-14T12:33:32Z",
+      "updated_at": "2026-05-14T12:33:37Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1818,
-      "forks": 120,
-      "language": "Go",
-      "pushed_at": "2026-05-14T09:36:21Z",
-      "updated_at": "2026-05-14T08:35:33Z"
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1892,
+      "forks": 94,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T13:39:49Z",
+      "updated_at": "2026-05-14T13:38:46Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 734,
+      "stars": 735,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-14T08:27:38Z",
-      "updated_at": "2026-05-14T08:27:42Z"
+      "pushed_at": "2026-05-14T13:31:25Z",
+      "updated_at": "2026-05-14T14:03:39Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 636,
-      "forks": 37,
+      "id": 1028870440,
+      "full_name": "Taskosaur/Taskosaur",
+      "html_url": "https://github.com/Taskosaur/Taskosaur",
+      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
+      "stars": 480,
+      "forks": 92,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T08:45:10Z",
-      "updated_at": "2026-05-14T08:45:14Z"
+      "pushed_at": "2026-05-14T13:03:21Z",
+      "updated_at": "2026-05-14T12:57:47Z"
     },
     {
-      "id": 33114736,
-      "full_name": "pimutils/todoman",
-      "html_url": "https://github.com/pimutils/todoman",
-      "description": "✅ Simple, standards-based, command line todo (aka: task) manager.",
-      "stars": 579,
-      "forks": 99,
-      "language": "Python",
-      "pushed_at": "2026-05-14T08:18:05Z",
-      "updated_at": "2026-05-14T08:18:09Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 495,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-14T07:22:46Z",
-      "updated_at": "2026-05-14T09:17:21Z"
-    },
-    {
-      "id": 575872406,
-      "full_name": "linear-b/gitstream",
-      "html_url": "https://github.com/linear-b/gitstream",
-      "description": "/:\\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.",
-      "stars": 330,
-      "forks": 46,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-14T07:49:19Z",
-      "updated_at": "2026-05-14T07:48:37Z"
+      "id": 259807763,
+      "full_name": "brainless/dwata",
+      "html_url": "https://github.com/brainless/dwata",
+      "description": "AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!",
+      "stars": 176,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-05-14T13:46:50Z",
+      "updated_at": "2026-05-14T13:45:23Z"
     },
     {
       "id": 1108054886,
@@ -169,8 +158,19 @@
       "stars": 135,
       "forks": 16,
       "language": "HTML",
-      "pushed_at": "2026-05-14T10:04:39Z",
-      "updated_at": "2026-05-14T10:04:43Z"
+      "pushed_at": "2026-05-14T11:16:12Z",
+      "updated_at": "2026-05-14T11:16:17Z"
+    },
+    {
+      "id": 1131245010,
+      "full_name": "TechDufus/oh-my-claude",
+      "html_url": "https://github.com/TechDufus/oh-my-claude",
+      "description": "Add ultrawork to any prompt for maximum parallel execution",
+      "stars": 134,
+      "forks": 8,
+      "language": "Python",
+      "pushed_at": "2026-05-14T14:07:01Z",
+      "updated_at": "2026-05-14T14:07:05Z"
     }
   ]
 }
