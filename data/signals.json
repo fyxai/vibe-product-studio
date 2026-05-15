@@ -12,66 +12,55 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 182657,
-      "forks": 28135,
+      "stars": 182783,
+      "forks": 28155,
       "language": "JavaScript",
-      "pushed_at": "2026-05-15T08:46:41Z",
-      "updated_at": "2026-05-15T10:20:55Z"
+      "pushed_at": "2026-05-15T13:35:00Z",
+      "updated_at": "2026-05-15T14:05:03Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 48356,
+      "forks": 2932,
+      "language": "Rust",
+      "pushed_at": "2026-05-15T13:08:37Z",
+      "updated_at": "2026-05-15T14:01:19Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25107,
+      "forks": 1839,
+      "language": "Vue",
+      "pushed_at": "2026-05-15T13:11:16Z",
+      "updated_at": "2026-05-15T13:29:37Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19370,
+      "stars": 19374,
       "forks": 1686,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T09:37:01Z",
-      "updated_at": "2026-05-15T10:19:12Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14162,
-      "forks": 1413,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T06:41:53Z",
-      "updated_at": "2026-05-15T06:56:37Z"
+      "pushed_at": "2026-05-15T12:09:53Z",
+      "updated_at": "2026-05-15T13:53:58Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14046,
+      "stars": 14047,
       "forks": 947,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:00:50Z",
-      "updated_at": "2026-05-15T06:57:38Z"
-    },
-    {
-      "id": 592882602,
-      "full_name": "MrKai77/Loop",
-      "html_url": "https://github.com/MrKai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 10704,
-      "forks": 235,
-      "language": "Swift",
-      "pushed_at": "2026-05-15T09:11:35Z",
-      "updated_at": "2026-05-15T09:17:58Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10696,
-      "forks": 1323,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:17:33Z",
-      "updated_at": "2026-05-15T09:54:39Z"
+      "pushed_at": "2026-05-15T13:59:02Z",
+      "updated_at": "2026-05-15T13:59:12Z"
     },
     {
       "id": 129699403,
@@ -81,8 +70,8 @@
       "stars": 5648,
       "forks": 740,
       "language": "Swift",
-      "pushed_at": "2026-05-15T10:18:22Z",
-      "updated_at": "2026-05-15T09:20:10Z"
+      "pushed_at": "2026-05-15T13:59:40Z",
+      "updated_at": "2026-05-15T13:59:42Z"
     },
     {
       "id": 154173536,
@@ -92,74 +81,74 @@
       "stars": 5280,
       "forks": 306,
       "language": "Vala",
-      "pushed_at": "2026-05-15T10:15:09Z",
-      "updated_at": "2026-05-15T10:14:51Z"
+      "pushed_at": "2026-05-15T11:39:00Z",
+      "updated_at": "2026-05-15T11:14:40Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3078,
-      "forks": 370,
+      "id": 70557651,
+      "full_name": "oliverschwendener/ueli",
+      "html_url": "https://github.com/oliverschwendener/ueli",
+      "description": "Cross-Platform Keystroke Launcher",
+      "stars": 4517,
+      "forks": 275,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T08:14:27Z",
-      "updated_at": "2026-05-15T08:14:31Z"
+      "pushed_at": "2026-05-15T11:15:40Z",
+      "updated_at": "2026-05-15T11:15:45Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2414,
-      "forks": 282,
-      "language": "Go",
-      "pushed_at": "2026-05-15T10:15:32Z",
-      "updated_at": "2026-05-15T10:03:23Z"
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 3922,
+      "forks": 123,
+      "language": "Python",
+      "pushed_at": "2026-05-15T12:50:56Z",
+      "updated_at": "2026-05-15T13:45:50Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2217,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-15T08:38:38Z",
-      "updated_at": "2026-05-15T09:03:23Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3036,
+      "forks": 198,
+      "language": "Python",
+      "pushed_at": "2026-05-15T12:31:36Z",
+      "updated_at": "2026-05-15T13:18:12Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1819,
-      "forks": 121,
-      "language": "Go",
-      "pushed_at": "2026-05-15T10:19:27Z",
-      "updated_at": "2026-05-15T08:46:48Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1028,
+      "forks": 45,
+      "language": "Rust",
+      "pushed_at": "2026-05-15T11:37:46Z",
+      "updated_at": "2026-05-15T11:35:44Z"
+    },
+    {
+      "id": 919664598,
+      "full_name": "WINBIGFOX/TimeScribe",
+      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "stars": 816,
+      "forks": 76,
+      "language": "PHP",
+      "pushed_at": "2026-05-15T11:51:28Z",
+      "updated_at": "2026-05-15T11:51:32Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 740,
+      "stars": 741,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-15T10:12:06Z",
-      "updated_at": "2026-05-15T10:12:11Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 637,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T08:19:55Z",
-      "updated_at": "2026-05-15T08:13:21Z"
+      "pushed_at": "2026-05-15T13:21:40Z",
+      "updated_at": "2026-05-15T13:28:58Z"
     },
     {
       "id": 1193364497,
@@ -169,8 +158,19 @@
       "stars": 498,
       "forks": 33,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T08:30:41Z",
-      "updated_at": "2026-05-15T08:30:43Z"
+      "pushed_at": "2026-05-15T14:04:25Z",
+      "updated_at": "2026-05-15T13:46:35Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 433,
+      "forks": 71,
+      "language": "Go",
+      "pushed_at": "2026-05-15T13:52:17Z",
+      "updated_at": "2026-05-15T13:56:46Z"
     }
   ]
 }
