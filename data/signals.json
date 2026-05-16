@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 841,
+  "total_found": 842,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 48714,
-      "forks": 2961,
+      "stars": 48830,
+      "forks": 2965,
       "language": "Rust",
-      "pushed_at": "2026-05-16T13:06:50Z",
-      "updated_at": "2026-05-16T13:19:56Z"
+      "pushed_at": "2026-05-16T13:23:10Z",
+      "updated_at": "2026-05-16T16:57:25Z"
     },
     {
       "id": 343078060,
       "full_name": "lissy93/dashy",
       "html_url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25140,
-      "forks": 1840,
+      "stars": 25145,
+      "forks": 1841,
       "language": "Vue",
-      "pushed_at": "2026-05-16T13:18:51Z",
-      "updated_at": "2026-05-16T13:18:27Z"
+      "pushed_at": "2026-05-16T16:05:16Z",
+      "updated_at": "2026-05-16T16:23:06Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19391,
-      "forks": 1685,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T12:53:08Z",
-      "updated_at": "2026-05-16T12:53:12Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14185,
-      "forks": 1412,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T12:48:57Z",
-      "updated_at": "2026-05-16T13:15:57Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14693,
+      "forks": 598,
+      "language": "C#",
+      "pushed_at": "2026-05-16T16:22:06Z",
+      "updated_at": "2026-05-16T16:48:03Z"
     },
     {
       "id": 115446081,
@@ -67,33 +56,33 @@
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7675,
+      "stars": 7678,
       "forks": 198,
       "language": "C++",
-      "pushed_at": "2026-05-16T12:36:15Z",
-      "updated_at": "2026-05-16T12:55:06Z"
-    },
-    {
-      "id": 1083188349,
-      "full_name": "RICHQAQ/PasteMD",
-      "html_url": "https://github.com/RICHQAQ/PasteMD",
-      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 4846,
-      "forks": 293,
-      "language": "Python",
-      "pushed_at": "2026-05-16T12:02:53Z",
-      "updated_at": "2026-05-16T12:18:39Z"
+      "pushed_at": "2026-05-16T16:13:21Z",
+      "updated_at": "2026-05-16T16:52:24Z"
     },
     {
       "id": 123563464,
       "full_name": "code-charity/youtube",
       "html_url": "https://github.com/code-charity/youtube",
       "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4367,
+      "stars": 4368,
       "forks": 901,
       "language": "JavaScript",
-      "pushed_at": "2026-05-16T13:05:59Z",
-      "updated_at": "2026-05-16T13:06:04Z"
+      "pushed_at": "2026-05-16T16:51:08Z",
+      "updated_at": "2026-05-16T16:51:12Z"
+    },
+    {
+      "id": 1079906817,
+      "full_name": "deta/surf",
+      "html_url": "https://github.com/deta/surf",
+      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+      "stars": 3405,
+      "forks": 243,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-16T15:34:45Z",
+      "updated_at": "2026-05-16T15:33:12Z"
     },
     {
       "id": 323279421,
@@ -103,8 +92,8 @@
       "stars": 1845,
       "forks": 135,
       "language": "Dart",
-      "pushed_at": "2026-05-16T12:29:12Z",
-      "updated_at": "2026-05-16T12:29:16Z"
+      "pushed_at": "2026-05-16T15:17:36Z",
+      "updated_at": "2026-05-16T15:17:40Z"
     },
     {
       "id": 257400448,
@@ -118,48 +107,48 @@
       "updated_at": "2026-05-16T13:15:31Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1803,
-      "forks": 53,
-      "language": "Swift",
-      "pushed_at": "2026-05-16T13:12:18Z",
-      "updated_at": "2026-05-16T13:12:21Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1028,
-      "forks": 45,
+      "id": 591366844,
+      "full_name": "lasantosr/intelli-shell",
+      "html_url": "https://github.com/lasantosr/intelli-shell",
+      "description": "Like IntelliSense, but for shells",
+      "stars": 1230,
+      "forks": 20,
       "language": "Rust",
-      "pushed_at": "2026-05-16T11:56:08Z",
-      "updated_at": "2026-05-16T11:54:12Z"
+      "pushed_at": "2026-05-16T15:34:05Z",
+      "updated_at": "2026-05-16T15:34:07Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 840,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T11:57:25Z",
-      "updated_at": "2026-05-16T11:57:29Z"
+      "id": 919664598,
+      "full_name": "WINBIGFOX/TimeScribe",
+      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "stars": 817,
+      "forks": 76,
+      "language": "PHP",
+      "pushed_at": "2026-05-16T16:42:34Z",
+      "updated_at": "2026-05-16T16:42:38Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 744,
+      "stars": 747,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-16T13:16:52Z",
-      "updated_at": "2026-05-16T13:16:56Z"
+      "pushed_at": "2026-05-16T16:20:55Z",
+      "updated_at": "2026-05-16T16:26:20Z"
+    },
+    {
+      "id": 831376921,
+      "full_name": "oxdc/obsidian-vertical-tabs",
+      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
+      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "stars": 555,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-16T14:44:58Z",
+      "updated_at": "2026-05-16T14:45:01Z"
     },
     {
       "id": 1147139359,
@@ -169,8 +158,19 @@
       "stars": 253,
       "forks": 15,
       "language": "Go",
-      "pushed_at": "2026-05-16T13:16:45Z",
-      "updated_at": "2026-05-16T13:16:48Z"
+      "pushed_at": "2026-05-16T16:54:09Z",
+      "updated_at": "2026-05-16T15:05:39Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 114,
+      "forks": 7,
+      "language": "Rust",
+      "pushed_at": "2026-05-16T15:25:22Z",
+      "updated_at": "2026-05-16T15:25:26Z"
     }
   ]
 }
