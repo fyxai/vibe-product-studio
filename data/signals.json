@@ -5,150 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 837,
+  "total_found": 839,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 183157,
-      "forks": 28219,
+      "stars": 183406,
+      "forks": 28276,
       "language": "JavaScript",
-      "pushed_at": "2026-05-15T20:56:51Z",
-      "updated_at": "2026-05-15T20:58:12Z"
+      "pushed_at": "2026-05-16T02:28:18Z",
+      "updated_at": "2026-05-16T02:44:56Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 48500,
-      "forks": 2942,
-      "language": "Rust",
-      "pushed_at": "2026-05-15T17:17:19Z",
-      "updated_at": "2026-05-15T20:56:28Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25121,
-      "forks": 1839,
-      "language": "Vue",
-      "pushed_at": "2026-05-15T17:24:43Z",
-      "updated_at": "2026-05-15T20:45:42Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19380,
-      "forks": 1685,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T20:12:17Z",
-      "updated_at": "2026-05-15T20:12:34Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14688,
-      "forks": 598,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37531,
+      "forks": 3738,
       "language": "C#",
-      "pushed_at": "2026-05-15T17:42:13Z",
-      "updated_at": "2026-05-15T17:41:56Z"
+      "pushed_at": "2026-05-16T02:21:45Z",
+      "updated_at": "2026-05-16T02:21:52Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5651,
-      "forks": 740,
-      "language": "Swift",
-      "pushed_at": "2026-05-15T18:13:32Z",
-      "updated_at": "2026-05-15T20:36:30Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5216,
-      "forks": 623,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-15T20:12:58Z",
-      "updated_at": "2026-05-15T20:12:08Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7668,
+      "forks": 198,
+      "language": "C++",
+      "pushed_at": "2026-05-16T00:16:33Z",
+      "updated_at": "2026-05-16T01:44:21Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4730,
+      "stars": 4733,
       "forks": 266,
       "language": "Kotlin",
-      "pushed_at": "2026-05-15T17:26:02Z",
-      "updated_at": "2026-05-15T17:26:06Z"
+      "pushed_at": "2026-05-16T00:38:21Z",
+      "updated_at": "2026-05-16T02:40:17Z"
     },
     {
-      "id": 48593559,
-      "full_name": "nuttyartist/notes",
-      "html_url": "https://github.com/nuttyartist/notes",
-      "description": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
-      "stars": 4244,
-      "forks": 376,
-      "language": "C++",
-      "pushed_at": "2026-05-15T19:11:56Z",
-      "updated_at": "2026-05-15T19:12:08Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3925,
-      "forks": 124,
-      "language": "Python",
-      "pushed_at": "2026-05-15T20:41:32Z",
-      "updated_at": "2026-05-15T20:41:37Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3036,
-      "forks": 198,
-      "language": "Python",
-      "pushed_at": "2026-05-15T20:43:11Z",
-      "updated_at": "2026-05-15T19:55:04Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2423,
-      "forks": 281,
-      "language": "Go",
-      "pushed_at": "2026-05-15T18:14:26Z",
-      "updated_at": "2026-05-15T19:34:56Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1821,
-      "forks": 121,
-      "language": "Go",
-      "pushed_at": "2026-05-15T20:26:56Z",
-      "updated_at": "2026-05-15T20:59:06Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1801,
+      "forks": 52,
+      "language": "Swift",
+      "pushed_at": "2026-05-16T00:08:42Z",
+      "updated_at": "2026-05-16T01:37:39Z"
     },
     {
       "id": 1148683593,
@@ -158,19 +70,107 @@
       "stars": 742,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-15T20:57:24Z",
-      "updated_at": "2026-05-15T20:57:27Z"
+      "pushed_at": "2026-05-16T02:49:09Z",
+      "updated_at": "2026-05-16T02:49:12Z"
     },
     {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 215,
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 498,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-16T02:44:11Z",
+      "updated_at": "2026-05-16T01:24:12Z"
+    },
+    {
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 388,
+      "forks": 16,
+      "language": "Swift",
+      "pushed_at": "2026-05-16T01:09:08Z",
+      "updated_at": "2026-05-16T01:09:11Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Copilot · Codex,GPT & Custom Providers",
+      "stars": 376,
+      "forks": 62,
+      "language": "Python",
+      "pushed_at": "2026-05-16T02:34:29Z",
+      "updated_at": "2026-05-16T02:34:32Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 316,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-16T00:48:41Z",
+      "updated_at": "2026-05-16T00:48:44Z"
+    },
+    {
+      "id": 1225199333,
+      "full_name": "heyderekj/binky",
+      "html_url": "https://github.com/heyderekj/binky",
+      "description": "Binky sorts your files.",
+      "stars": 294,
       "forks": 15,
       "language": "Swift",
-      "pushed_at": "2026-05-15T19:49:44Z",
-      "updated_at": "2026-05-15T19:49:48Z"
+      "pushed_at": "2026-05-16T01:07:59Z",
+      "updated_at": "2026-05-16T01:08:03Z"
+    },
+    {
+      "id": 1140897918,
+      "full_name": "kbanc85/claudia",
+      "html_url": "https://github.com/kbanc85/claudia",
+      "description": "Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.",
+      "stars": 251,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-05-16T01:45:12Z",
+      "updated_at": "2026-05-16T01:45:16Z"
+    },
+    {
+      "id": 1072582327,
+      "full_name": "campfirium/obsidian-tile-line-base",
+      "html_url": "https://github.com/campfirium/obsidian-tile-line-base",
+      "description": "The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.",
+      "stars": 125,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-16T01:23:02Z",
+      "updated_at": "2026-05-16T01:23:06Z"
+    },
+    {
+      "id": 1194655729,
+      "full_name": "LeonGaoHaining/opencowork",
+      "html_url": "https://github.com/LeonGaoHaining/opencowork",
+      "description": "Open-source, local-first desktop  Agent Runtime for turning business goals into executable, reusable, and auditable workflows.",
+      "stars": 118,
+      "forks": 1,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-16T01:02:51Z",
+      "updated_at": "2026-05-16T02:17:48Z"
+    },
+    {
+      "id": 1135338086,
+      "full_name": "l06066hb/MarKing",
+      "html_url": "https://github.com/l06066hb/MarKing",
+      "description": "Marking：现代化跨平台 Markdown 编辑器 - 专业级编辑体验 + 可视化表格编辑  + 强大导出功能 | Modern cross-platform Markdown editor with professional editing, visual table editor, and powerful export | MarKing: A modern, professional cross-platform Markdown editor with stunning UI, DOCX/PDF export, and native performance.",
+      "stars": 81,
+      "forks": 1,
+      "language": "Unknown",
+      "pushed_at": "2026-05-15T23:37:40Z",
+      "updated_at": "2026-05-15T23:37:21Z"
     }
   ]
 }
