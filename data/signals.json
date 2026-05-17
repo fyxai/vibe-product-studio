@@ -12,55 +12,77 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 185437,
-      "forks": 28684,
+      "stars": 185540,
+      "forks": 28701,
       "language": "JavaScript",
-      "pushed_at": "2026-05-17T16:52:31Z",
-      "updated_at": "2026-05-17T16:55:05Z"
+      "pushed_at": "2026-05-17T20:43:13Z",
+      "updated_at": "2026-05-17T20:43:53Z"
     },
     {
       "id": 343078060,
       "full_name": "lissy93/dashy",
       "html_url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25172,
+      "stars": 25175,
       "forks": 1840,
       "language": "Vue",
-      "pushed_at": "2026-05-17T16:47:58Z",
-      "updated_at": "2026-05-17T16:47:19Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13007,
-      "forks": 791,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:21:04Z",
-      "updated_at": "2026-05-17T16:20:24Z"
+      "pushed_at": "2026-05-17T17:55:47Z",
+      "updated_at": "2026-05-17T19:58:19Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7704,
+      "stars": 7707,
       "forks": 199,
       "language": "C++",
-      "pushed_at": "2026-05-17T16:35:48Z",
-      "updated_at": "2026-05-17T16:35:49Z"
+      "pushed_at": "2026-05-17T18:17:26Z",
+      "updated_at": "2026-05-17T19:25:08Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 4753,
-      "forks": 268,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-17T15:51:19Z",
-      "updated_at": "2026-05-17T15:51:23Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5653,
+      "forks": 740,
+      "language": "Swift",
+      "pushed_at": "2026-05-17T20:44:48Z",
+      "updated_at": "2026-05-17T20:35:12Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3694,
+      "forks": 766,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T17:52:35Z",
+      "updated_at": "2026-05-17T17:58:18Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3187,
+      "forks": 149,
+      "language": "Gherkin",
+      "pushed_at": "2026-05-17T20:25:35Z",
+      "updated_at": "2026-05-17T17:21:38Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2433,
+      "forks": 281,
+      "language": "Go",
+      "pushed_at": "2026-05-17T20:49:27Z",
+      "updated_at": "2026-05-17T20:49:30Z"
     },
     {
       "id": 323279421,
@@ -70,19 +92,63 @@
       "stars": 1848,
       "forks": 135,
       "language": "Dart",
-      "pushed_at": "2026-05-17T16:31:38Z",
-      "updated_at": "2026-05-17T16:31:42Z"
+      "pushed_at": "2026-05-17T17:17:03Z",
+      "updated_at": "2026-05-17T17:17:06Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1028,
-      "forks": 45,
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1810,
+      "forks": 149,
+      "language": "Dart",
+      "pushed_at": "2026-05-17T19:32:48Z",
+      "updated_at": "2026-05-17T20:27:39Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1809,
+      "forks": 54,
+      "language": "Swift",
+      "pushed_at": "2026-05-17T18:50:16Z",
+      "updated_at": "2026-05-17T18:50:20Z"
+    },
+    {
+      "id": 591366844,
+      "full_name": "lasantosr/intelli-shell",
+      "html_url": "https://github.com/lasantosr/intelli-shell",
+      "description": "Like IntelliSense, but for shells",
+      "stars": 1230,
+      "forks": 20,
       "language": "Rust",
-      "pushed_at": "2026-05-17T15:27:06Z",
-      "updated_at": "2026-05-17T15:25:06Z"
+      "pushed_at": "2026-05-17T18:46:13Z",
+      "updated_at": "2026-05-17T18:46:16Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1132,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-17T19:23:52Z",
+      "updated_at": "2026-05-17T19:23:56Z"
+    },
+    {
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 20 plugins · 49 agents · 41 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 804,
+      "forks": 88,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T20:18:15Z",
+      "updated_at": "2026-05-17T20:17:42Z"
     },
     {
       "id": 1148683593,
@@ -92,85 +158,19 @@
       "stars": 747,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-17T16:45:55Z",
-      "updated_at": "2026-05-17T16:45:59Z"
+      "pushed_at": "2026-05-17T19:55:24Z",
+      "updated_at": "2026-05-17T19:55:28Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 554,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-05-17T15:39:13Z",
-      "updated_at": "2026-05-17T15:39:16Z"
-    },
-    {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 446,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-05-17T16:12:23Z",
-      "updated_at": "2026-05-17T16:00:41Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 314,
-      "forks": 17,
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 505,
+      "forks": 33,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:36:32Z",
-      "updated_at": "2026-05-17T16:36:37Z"
-    },
-    {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 253,
-      "forks": 15,
-      "language": "Go",
-      "pushed_at": "2026-05-17T15:43:13Z",
-      "updated_at": "2026-05-17T15:43:15Z"
-    },
-    {
-      "id": 932721496,
-      "full_name": "ridemountainpig/subflow",
-      "html_url": "https://github.com/ridemountainpig/subflow",
-      "description": "Easily flow through your subscriptions with Subflow. Track spending, organize recurring payments, and take control of your subscription management.",
-      "stars": 159,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:38:50Z",
-      "updated_at": "2026-05-17T16:38:51Z"
-    },
-    {
-      "id": 92109482,
-      "full_name": "kwent/aws-launcher",
-      "html_url": "https://github.com/kwent/aws-launcher",
-      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
-      "stars": 133,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-17T15:09:49Z",
-      "updated_at": "2026-05-17T15:09:45Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 114,
-      "forks": 7,
-      "language": "Rust",
-      "pushed_at": "2026-05-17T16:38:07Z",
-      "updated_at": "2026-05-17T16:38:11Z"
+      "pushed_at": "2026-05-17T20:00:32Z",
+      "updated_at": "2026-05-17T20:00:34Z"
     }
   ]
 }
