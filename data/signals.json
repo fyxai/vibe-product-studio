@@ -8,114 +8,59 @@
   "total_found": 842,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/everything-claude-code",
+      "html_url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 184958,
+      "forks": 28588,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T06:35:42Z",
+      "updated_at": "2026-05-17T06:41:29Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43524,
+      "forks": 2724,
+      "language": "C#",
+      "pushed_at": "2026-05-17T05:07:48Z",
+      "updated_at": "2026-05-17T06:06:56Z"
+    },
+    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37548,
+      "stars": 37551,
       "forks": 3738,
       "language": "C#",
-      "pushed_at": "2026-05-17T01:32:19Z",
-      "updated_at": "2026-05-17T01:32:23Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25160,
-      "forks": 1840,
-      "language": "Vue",
-      "pushed_at": "2026-05-16T23:01:29Z",
-      "updated_at": "2026-05-17T02:57:03Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19425,
-      "forks": 1688,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T22:09:34Z",
-      "updated_at": "2026-05-17T01:19:33Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13822,
-      "forks": 405,
-      "language": "Rust",
-      "pushed_at": "2026-05-17T00:38:54Z",
-      "updated_at": "2026-05-17T02:22:02Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7683,
-      "forks": 199,
-      "language": "C++",
-      "pushed_at": "2026-05-17T01:11:10Z",
-      "updated_at": "2026-05-17T02:53:38Z"
+      "pushed_at": "2026-05-17T06:32:32Z",
+      "updated_at": "2026-05-17T06:32:36Z"
     },
     {
       "id": 475337801,
       "full_name": "massCodeIO/massCode",
       "html_url": "https://github.com/massCodeIO/massCode",
       "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6767,
+      "stars": 6766,
       "forks": 255,
       "language": "TypeScript",
       "pushed_at": "2026-05-17T02:41:18Z",
-      "updated_at": "2026-05-17T02:41:21Z"
+      "updated_at": "2026-05-17T04:50:37Z"
     },
     {
-      "id": 222709217,
-      "full_name": "wmariuss/awesome-devops",
-      "html_url": "https://github.com/wmariuss/awesome-devops",
-      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
-      "stars": 4097,
-      "forks": 850,
-      "language": "Python",
-      "pushed_at": "2026-05-16T22:14:48Z",
-      "updated_at": "2026-05-16T22:14:33Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3187,
-      "forks": 149,
-      "language": "Gherkin",
-      "pushed_at": "2026-05-17T02:02:00Z",
-      "updated_at": "2026-05-16T21:37:09Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3040,
-      "forks": 198,
-      "language": "Python",
-      "pushed_at": "2026-05-16T23:56:40Z",
-      "updated_at": "2026-05-16T23:56:43Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1824,
-      "forks": 121,
-      "language": "Go",
-      "pushed_at": "2026-05-16T21:39:08Z",
-      "updated_at": "2026-05-17T00:55:43Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1132,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-17T06:02:27Z",
+      "updated_at": "2026-05-17T06:02:31Z"
     },
     {
       "id": 1148683593,
@@ -125,30 +70,41 @@
       "stars": 748,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-17T02:53:28Z",
-      "updated_at": "2026-05-17T02:53:32Z"
+      "pushed_at": "2026-05-17T06:39:57Z",
+      "updated_at": "2026-05-17T06:40:01Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 446,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-05-17T01:15:57Z",
-      "updated_at": "2026-05-17T00:15:23Z"
+      "id": 735151489,
+      "full_name": "hywax/mafl",
+      "html_url": "https://github.com/hywax/mafl",
+      "description": "Minimalistic flexible homepage",
+      "stars": 729,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T04:45:12Z",
+      "updated_at": "2026-05-17T04:45:15Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 433,
-      "forks": 72,
-      "language": "Go",
-      "pushed_at": "2026-05-16T22:36:18Z",
-      "updated_at": "2026-05-16T22:25:18Z"
+      "id": 831376921,
+      "full_name": "oxdc/obsidian-vertical-tabs",
+      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
+      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "stars": 558,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T06:42:31Z",
+      "updated_at": "2026-05-17T06:42:35Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 502,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T06:03:12Z",
+      "updated_at": "2026-05-17T06:03:14Z"
     },
     {
       "id": 1147139359,
@@ -162,15 +118,59 @@
       "updated_at": "2026-05-17T02:47:32Z"
     },
     {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 216,
-      "forks": 15,
-      "language": "Swift",
-      "pushed_at": "2026-05-16T23:31:18Z",
-      "updated_at": "2026-05-16T23:31:20Z"
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 126,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-17T04:00:19Z",
+      "updated_at": "2026-05-17T04:00:22Z"
+    },
+    {
+      "id": 1174548820,
+      "full_name": "Nako0/devglobe-extension",
+      "html_url": "https://github.com/Nako0/devglobe-extension",
+      "description": "Official Extensions for DevGlobe. Show up on a 3D globe in real time while you code, with automatic time tracking and coding metrics.",
+      "stars": 122,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T05:53:24Z",
+      "updated_at": "2026-05-17T05:53:28Z"
+    },
+    {
+      "id": 1132086156,
+      "full_name": "ctrlaltwill/LearnKit",
+      "html_url": "https://github.com/ctrlaltwill/LearnKit",
+      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
+      "stars": 111,
+      "forks": 2,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T05:57:28Z",
+      "updated_at": "2026-05-17T05:56:47Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
+      "stars": 97,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T05:59:36Z",
+      "updated_at": "2026-05-17T02:53:13Z"
+    },
+    {
+      "id": 1227694078,
+      "full_name": "ethanzhou-dev/x-comment-blocker",
+      "html_url": "https://github.com/ethanzhou-dev/x-comment-blocker",
+      "description": "屏蔽X上的特定评论与用户名的浏览器插件。A browser extension for blocking specific comments and usernames on X.",
+      "stars": 89,
+      "forks": 2,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T05:28:07Z",
+      "updated_at": "2026-05-17T05:28:10Z"
     }
   ]
 }
