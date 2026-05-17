@@ -8,59 +8,81 @@
   "total_found": 842,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/everything-claude-code",
-      "html_url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 184489,
-      "forks": 28481,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-16T19:26:28Z",
-      "updated_at": "2026-05-16T20:43:33Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14694,
-      "forks": 599,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37548,
+      "forks": 3738,
       "language": "C#",
-      "pushed_at": "2026-05-16T18:23:44Z",
-      "updated_at": "2026-05-16T18:22:22Z"
+      "pushed_at": "2026-05-17T01:32:19Z",
+      "updated_at": "2026-05-17T01:32:23Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 11304,
-      "forks": 676,
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25160,
+      "forks": 1840,
+      "language": "Vue",
+      "pushed_at": "2026-05-16T23:01:29Z",
+      "updated_at": "2026-05-17T02:57:03Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19425,
+      "forks": 1688,
       "language": "TypeScript",
-      "pushed_at": "2026-05-16T20:36:23Z",
-      "updated_at": "2026-05-16T20:42:14Z"
+      "pushed_at": "2026-05-16T22:09:34Z",
+      "updated_at": "2026-05-17T01:19:33Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10702,
-      "forks": 1324,
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 13822,
+      "forks": 405,
+      "language": "Rust",
+      "pushed_at": "2026-05-17T00:38:54Z",
+      "updated_at": "2026-05-17T02:22:02Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7683,
+      "forks": 199,
+      "language": "C++",
+      "pushed_at": "2026-05-17T01:11:10Z",
+      "updated_at": "2026-05-17T02:53:38Z"
+    },
+    {
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6767,
+      "forks": 255,
       "language": "TypeScript",
-      "pushed_at": "2026-05-16T20:43:14Z",
-      "updated_at": "2026-05-16T20:43:14Z"
+      "pushed_at": "2026-05-17T02:41:18Z",
+      "updated_at": "2026-05-17T02:41:21Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4368,
-      "forks": 901,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-16T20:44:45Z",
-      "updated_at": "2026-05-16T20:44:50Z"
+      "id": 222709217,
+      "full_name": "wmariuss/awesome-devops",
+      "html_url": "https://github.com/wmariuss/awesome-devops",
+      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+      "stars": 4097,
+      "forks": 850,
+      "language": "Python",
+      "pushed_at": "2026-05-16T22:14:48Z",
+      "updated_at": "2026-05-16T22:14:33Z"
     },
     {
       "id": 19825320,
@@ -70,30 +92,30 @@
       "stars": 3187,
       "forks": 149,
       "language": "Gherkin",
-      "pushed_at": "2026-05-16T20:42:37Z",
-      "updated_at": "2026-05-16T20:36:46Z"
+      "pushed_at": "2026-05-17T02:02:00Z",
+      "updated_at": "2026-05-16T21:37:09Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1845,
-      "forks": 135,
-      "language": "Dart",
-      "pushed_at": "2026-05-16T19:43:48Z",
-      "updated_at": "2026-05-16T19:43:52Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3040,
+      "forks": 198,
+      "language": "Python",
+      "pushed_at": "2026-05-16T23:56:40Z",
+      "updated_at": "2026-05-16T23:56:43Z"
     },
     {
-      "id": 919664598,
-      "full_name": "WINBIGFOX/TimeScribe",
-      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
-      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
-      "stars": 818,
-      "forks": 77,
-      "language": "PHP",
-      "pushed_at": "2026-05-16T18:30:19Z",
-      "updated_at": "2026-05-16T20:06:56Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1824,
+      "forks": 121,
+      "language": "Go",
+      "pushed_at": "2026-05-16T21:39:08Z",
+      "updated_at": "2026-05-17T00:55:43Z"
     },
     {
       "id": 1148683593,
@@ -103,19 +125,19 @@
       "stars": 748,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-16T20:40:38Z",
-      "updated_at": "2026-05-16T20:40:42Z"
+      "pushed_at": "2026-05-17T02:53:28Z",
+      "updated_at": "2026-05-17T02:53:32Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 571,
-      "forks": 92,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-16T19:15:12Z",
-      "updated_at": "2026-05-16T19:22:57Z"
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 446,
+      "forks": 27,
+      "language": "Shell",
+      "pushed_at": "2026-05-17T01:15:57Z",
+      "updated_at": "2026-05-17T00:15:23Z"
     },
     {
       "id": 244958571,
@@ -125,52 +147,30 @@
       "stars": 433,
       "forks": 72,
       "language": "Go",
-      "pushed_at": "2026-05-16T20:44:06Z",
-      "updated_at": "2026-05-16T20:39:01Z"
+      "pushed_at": "2026-05-16T22:36:18Z",
+      "updated_at": "2026-05-16T22:25:18Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 345,
-      "forks": 32,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-16T18:38:49Z",
-      "updated_at": "2026-05-16T18:38:53Z"
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 253,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-05-17T02:47:36Z",
+      "updated_at": "2026-05-17T02:47:32Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 314,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T20:00:31Z",
-      "updated_at": "2026-05-16T19:03:38Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 313,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T20:29:05Z",
-      "updated_at": "2026-05-16T20:29:08Z"
-    },
-    {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
-      "stars": 282,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-16T19:26:17Z",
-      "updated_at": "2026-05-16T19:26:21Z"
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 216,
+      "forks": 15,
+      "language": "Swift",
+      "pushed_at": "2026-05-16T23:31:18Z",
+      "updated_at": "2026-05-16T23:31:20Z"
     }
   ]
 }
