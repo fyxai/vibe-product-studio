@@ -8,26 +8,26 @@
   "total_found": 842,
   "items": [
     {
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 187084,
+      "forks": 26378,
+      "language": "Shell",
+      "pushed_at": "2026-05-17T07:07:24Z",
+      "updated_at": "2026-05-17T08:45:20Z"
+    },
+    {
       "id": 1136590548,
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 184958,
-      "forks": 28588,
+      "stars": 185114,
+      "forks": 28632,
       "language": "JavaScript",
-      "pushed_at": "2026-05-17T06:35:42Z",
-      "updated_at": "2026-05-17T06:41:29Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43524,
-      "forks": 2724,
-      "language": "C#",
-      "pushed_at": "2026-05-17T05:07:48Z",
-      "updated_at": "2026-05-17T06:06:56Z"
+      "pushed_at": "2026-05-17T09:14:11Z",
+      "updated_at": "2026-05-17T09:45:00Z"
     },
     {
       "id": 13428264,
@@ -37,30 +37,63 @@
       "stars": 37551,
       "forks": 3738,
       "language": "C#",
-      "pushed_at": "2026-05-17T06:32:32Z",
-      "updated_at": "2026-05-17T06:32:36Z"
+      "pushed_at": "2026-05-17T07:41:14Z",
+      "updated_at": "2026-05-17T08:17:23Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6766,
-      "forks": 255,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T02:41:18Z",
-      "updated_at": "2026-05-17T04:50:37Z"
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25166,
+      "forks": 1840,
+      "language": "Vue",
+      "pushed_at": "2026-05-17T07:56:02Z",
+      "updated_at": "2026-05-17T08:30:30Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1132,
-      "forks": 118,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-17T06:02:27Z",
-      "updated_at": "2026-05-17T06:02:31Z"
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18223,
+      "forks": 1476,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T07:47:25Z",
+      "updated_at": "2026-05-17T07:43:28Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5652,
+      "forks": 740,
+      "language": "Swift",
+      "pushed_at": "2026-05-17T09:36:38Z",
+      "updated_at": "2026-05-17T09:36:42Z"
+    },
+    {
+      "id": 203938031,
+      "full_name": "200ok-ch/organice",
+      "html_url": "https://github.com/200ok-ch/organice",
+      "description": "An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers",
+      "stars": 2632,
+      "forks": 166,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T08:53:33Z",
+      "updated_at": "2026-05-17T07:58:47Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1846,
+      "forks": 135,
+      "language": "Dart",
+      "pushed_at": "2026-05-17T07:41:26Z",
+      "updated_at": "2026-05-17T07:42:03Z"
     },
     {
       "id": 1148683593,
@@ -70,30 +103,19 @@
       "stars": 748,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-17T06:39:57Z",
-      "updated_at": "2026-05-17T06:40:01Z"
-    },
-    {
-      "id": 735151489,
-      "full_name": "hywax/mafl",
-      "html_url": "https://github.com/hywax/mafl",
-      "description": "Minimalistic flexible homepage",
-      "stars": 729,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T04:45:12Z",
-      "updated_at": "2026-05-17T04:45:15Z"
+      "pushed_at": "2026-05-17T09:44:57Z",
+      "updated_at": "2026-05-17T09:45:00Z"
     },
     {
       "id": 831376921,
       "full_name": "oxdc/obsidian-vertical-tabs",
       "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
       "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-      "stars": 558,
+      "stars": 557,
       "forks": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T06:42:31Z",
-      "updated_at": "2026-05-17T06:42:35Z"
+      "pushed_at": "2026-05-17T06:58:38Z",
+      "updated_at": "2026-05-17T09:04:55Z"
     },
     {
       "id": 1193364497,
@@ -107,37 +129,26 @@
       "updated_at": "2026-05-17T06:03:14Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 253,
-      "forks": 15,
-      "language": "Go",
-      "pushed_at": "2026-05-17T02:47:36Z",
-      "updated_at": "2026-05-17T02:47:32Z"
+      "id": 1230153502,
+      "full_name": "TomSolid/myPKA",
+      "html_url": "https://github.com/TomSolid/myPKA",
+      "description": "An AI-powered Personal Knowledge Assistance system with a nine-person AI team baked in. Plain markdown. Any LLM. Yours forever. Picks up where you left off across sessions. Built on the ICOR® methodology.",
+      "stars": 154,
+      "forks": 46,
+      "language": "Python",
+      "pushed_at": "2026-05-17T09:44:57Z",
+      "updated_at": "2026-05-17T09:45:00Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 126,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-17T04:00:19Z",
-      "updated_at": "2026-05-17T04:00:22Z"
-    },
-    {
-      "id": 1174548820,
-      "full_name": "Nako0/devglobe-extension",
-      "html_url": "https://github.com/Nako0/devglobe-extension",
-      "description": "Official Extensions for DevGlobe. Show up on a 3D globe in real time while you code, with automatic time tracking and coding metrics.",
-      "stars": 122,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T05:53:24Z",
-      "updated_at": "2026-05-17T05:53:28Z"
+      "id": 1108054886,
+      "full_name": "ReKindleOS/ReKindle",
+      "html_url": "https://github.com/ReKindleOS/ReKindle",
+      "description": "Your Kindle Upgraded",
+      "stars": 136,
+      "forks": 16,
+      "language": "HTML",
+      "pushed_at": "2026-05-17T08:05:21Z",
+      "updated_at": "2026-05-17T08:05:24Z"
     },
     {
       "id": 1132086156,
@@ -147,30 +158,19 @@
       "stars": 111,
       "forks": 2,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T05:57:28Z",
-      "updated_at": "2026-05-17T05:56:47Z"
+      "pushed_at": "2026-05-17T09:38:18Z",
+      "updated_at": "2026-05-17T09:33:39Z"
     },
     {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 97,
-      "forks": 18,
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 72,
+      "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T05:59:36Z",
-      "updated_at": "2026-05-17T02:53:13Z"
-    },
-    {
-      "id": 1227694078,
-      "full_name": "ethanzhou-dev/x-comment-blocker",
-      "html_url": "https://github.com/ethanzhou-dev/x-comment-blocker",
-      "description": "屏蔽X上的特定评论与用户名的浏览器插件。A browser extension for blocking specific comments and usernames on X.",
-      "stars": 89,
-      "forks": 2,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-17T05:28:07Z",
-      "updated_at": "2026-05-17T05:28:10Z"
+      "pushed_at": "2026-05-17T07:41:27Z",
+      "updated_at": "2026-05-17T07:41:29Z"
     }
   ]
 }
