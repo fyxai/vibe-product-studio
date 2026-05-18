@@ -12,44 +12,66 @@
       "full_name": "affaan-m/everything-claude-code",
       "html_url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 186344,
-      "forks": 28840,
+      "stars": 186423,
+      "forks": 28857,
       "language": "JavaScript",
-      "pushed_at": "2026-05-18T14:50:20Z",
-      "updated_at": "2026-05-18T15:30:27Z"
+      "pushed_at": "2026-05-18T17:53:27Z",
+      "updated_at": "2026-05-18T17:57:14Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 49878,
+      "forks": 3041,
+      "language": "Rust",
+      "pushed_at": "2026-05-18T17:07:22Z",
+      "updated_at": "2026-05-18T17:55:33Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19488,
-      "forks": 1690,
+      "stars": 19491,
+      "forks": 1691,
       "language": "TypeScript",
-      "pushed_at": "2026-05-18T13:41:26Z",
-      "updated_at": "2026-05-18T13:42:00Z"
+      "pushed_at": "2026-05-18T16:07:43Z",
+      "updated_at": "2026-05-18T17:34:23Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14211,
+      "forks": 1423,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-18T17:27:37Z",
+      "updated_at": "2026-05-18T17:36:13Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14054,
+      "forks": 947,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-18T16:21:25Z",
+      "updated_at": "2026-05-18T17:34:08Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7725,
+      "stars": 7728,
       "forks": 199,
       "language": "C++",
-      "pushed_at": "2026-05-18T14:13:08Z",
-      "updated_at": "2026-05-18T15:17:48Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6169,
-      "forks": 125,
-      "language": "Swift",
-      "pushed_at": "2026-05-18T13:29:24Z",
-      "updated_at": "2026-05-18T13:56:57Z"
+      "pushed_at": "2026-05-18T17:34:38Z",
+      "updated_at": "2026-05-18T17:55:05Z"
     },
     {
       "id": 129699403,
@@ -59,8 +81,8 @@
       "stars": 5656,
       "forks": 740,
       "language": "Swift",
-      "pushed_at": "2026-05-18T15:28:44Z",
-      "updated_at": "2026-05-18T15:12:17Z"
+      "pushed_at": "2026-05-18T17:58:49Z",
+      "updated_at": "2026-05-18T17:25:32Z"
     },
     {
       "id": 154173536,
@@ -70,41 +92,41 @@
       "stars": 5290,
       "forks": 304,
       "language": "Vala",
-      "pushed_at": "2026-05-18T15:10:21Z",
-      "updated_at": "2026-05-18T15:02:47Z"
+      "pushed_at": "2026-05-18T15:32:40Z",
+      "updated_at": "2026-05-18T15:33:52Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5228,
-      "forks": 623,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-18T13:47:57Z",
-      "updated_at": "2026-05-18T14:44:01Z"
-    },
-    {
-      "id": 206254792,
-      "full_name": "zidoro/pomatez",
-      "html_url": "https://github.com/zidoro/pomatez",
-      "description": "Stay Focused. Take a Break.",
-      "stars": 4834,
-      "forks": 204,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-18T14:53:42Z",
-      "updated_at": "2026-05-18T14:54:27Z"
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5207,
+      "forks": 447,
+      "language": "Rust",
+      "pushed_at": "2026-05-18T17:56:16Z",
+      "updated_at": "2026-05-18T17:56:14Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2439,
+      "stars": 2440,
       "forks": 281,
       "language": "Go",
-      "pushed_at": "2026-05-18T14:30:10Z",
-      "updated_at": "2026-05-18T15:13:30Z"
+      "pushed_at": "2026-05-18T16:33:34Z",
+      "updated_at": "2026-05-18T16:33:37Z"
+    },
+    {
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 1814,
+      "forks": 149,
+      "language": "Dart",
+      "pushed_at": "2026-05-18T17:26:48Z",
+      "updated_at": "2026-05-18T17:26:53Z"
     },
     {
       "id": 1148683593,
@@ -114,63 +136,41 @@
       "stars": 750,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-18T13:32:49Z",
-      "updated_at": "2026-05-18T13:33:04Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 749,
-      "forks": 77,
-      "language": "Python",
-      "pushed_at": "2026-05-18T14:57:00Z",
-      "updated_at": "2026-05-18T14:59:36Z"
+      "pushed_at": "2026-05-18T16:20:18Z",
+      "updated_at": "2026-05-18T16:20:23Z"
     },
     {
       "id": 590023059,
       "full_name": "RARgames/4gaBoards",
       "html_url": "https://github.com/RARgames/4gaBoards",
       "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 590,
-      "forks": 99,
+      "stars": 593,
+      "forks": 101,
       "language": "JavaScript",
       "pushed_at": "2026-05-18T15:22:07Z",
-      "updated_at": "2026-05-18T15:28:12Z"
+      "updated_at": "2026-05-18T16:24:42Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 433,
-      "forks": 72,
-      "language": "Go",
-      "pushed_at": "2026-05-18T14:52:00Z",
-      "updated_at": "2026-05-18T14:50:54Z"
-    },
-    {
-      "id": 1073657969,
-      "full_name": "alekspetrov/navigator",
-      "html_url": "https://github.com/alekspetrov/navigator",
-      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
-      "stars": 180,
-      "forks": 9,
-      "language": "Python",
-      "pushed_at": "2026-05-18T13:29:52Z",
-      "updated_at": "2026-05-18T13:29:58Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 161,
-      "forks": 10,
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 473,
+      "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-05-18T13:08:19Z",
-      "updated_at": "2026-05-18T15:30:05Z"
+      "pushed_at": "2026-05-18T15:36:51Z",
+      "updated_at": "2026-05-18T17:41:02Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 316,
+      "forks": 50,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-18T17:16:34Z",
+      "updated_at": "2026-05-18T17:59:08Z"
     }
   ]
 }
