@@ -12,99 +12,77 @@
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 187094,
-      "forks": 28972,
+      "stars": 187140,
+      "forks": 28976,
       "language": "JavaScript",
       "pushed_at": "2026-05-19T17:51:04Z",
-      "updated_at": "2026-05-19T17:57:30Z"
+      "updated_at": "2026-05-19T21:02:12Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25200,
-      "forks": 1841,
-      "language": "Vue",
-      "pushed_at": "2026-05-19T17:26:54Z",
-      "updated_at": "2026-05-19T18:03:33Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43561,
+      "forks": 2725,
+      "language": "C#",
+      "pushed_at": "2026-05-19T19:29:01Z",
+      "updated_at": "2026-05-19T20:53:59Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24202,
+      "stars": 24203,
       "forks": 2282,
       "language": "Python",
-      "pushed_at": "2026-05-19T17:52:57Z",
-      "updated_at": "2026-05-19T16:14:24Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14225,
-      "forks": 1425,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T16:10:36Z",
-      "updated_at": "2026-05-19T16:31:47Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10721,
-      "forks": 1329,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:34:03Z",
-      "updated_at": "2026-05-19T17:48:31Z"
+      "pushed_at": "2026-05-19T18:38:23Z",
+      "updated_at": "2026-05-19T19:46:21Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5662,
+      "stars": 5663,
       "forks": 741,
       "language": "Swift",
-      "pushed_at": "2026-05-19T17:22:48Z",
-      "updated_at": "2026-05-19T17:22:51Z"
+      "pushed_at": "2026-05-19T21:05:48Z",
+      "updated_at": "2026-05-19T19:05:50Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5234,
+      "stars": 5233,
       "forks": 623,
       "language": "Kotlin",
-      "pushed_at": "2026-05-19T17:47:11Z",
-      "updated_at": "2026-05-19T17:45:32Z"
+      "pushed_at": "2026-05-19T18:55:07Z",
+      "updated_at": "2026-05-19T18:54:00Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4375,
-      "forks": 905,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-19T17:43:31Z",
-      "updated_at": "2026-05-19T17:49:57Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3138,
+      "forks": 374,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T20:25:54Z",
+      "updated_at": "2026-05-19T21:01:31Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2447,
+      "stars": 2448,
       "forks": 285,
       "language": "Go",
-      "pushed_at": "2026-05-19T15:51:52Z",
-      "updated_at": "2026-05-19T17:37:32Z"
+      "pushed_at": "2026-05-19T21:17:32Z",
+      "updated_at": "2026-05-19T21:14:59Z"
     },
     {
       "id": 323279421,
@@ -114,19 +92,19 @@
       "stars": 1847,
       "forks": 136,
       "language": "Dart",
-      "pushed_at": "2026-05-19T17:52:59Z",
-      "updated_at": "2026-05-19T17:53:04Z"
+      "pushed_at": "2026-05-19T21:11:00Z",
+      "updated_at": "2026-05-19T21:11:05Z"
     },
     {
-      "id": 1119754832,
-      "full_name": "OlaProeis/Ferrite",
-      "html_url": "https://github.com/OlaProeis/Ferrite",
-      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
-      "stars": 1552,
-      "forks": 74,
-      "language": "Rust",
-      "pushed_at": "2026-05-19T17:33:15Z",
-      "updated_at": "2026-05-19T17:22:25Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1827,
+      "forks": 123,
+      "language": "Go",
+      "pushed_at": "2026-05-19T19:36:09Z",
+      "updated_at": "2026-05-19T20:44:25Z"
     },
     {
       "id": 1177941774,
@@ -140,6 +118,17 @@
       "updated_at": "2026-05-19T17:58:33Z"
     },
     {
+      "id": 264844037,
+      "full_name": "lindell/multi-gitter",
+      "html_url": "https://github.com/lindell/multi-gitter",
+      "description": "Update multiple repositories in with one command",
+      "stars": 1193,
+      "forks": 85,
+      "language": "Go",
+      "pushed_at": "2026-05-19T20:39:25Z",
+      "updated_at": "2026-05-19T20:38:53Z"
+    },
+    {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
@@ -147,30 +136,41 @@
       "stars": 754,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-19T18:03:35Z",
-      "updated_at": "2026-05-19T18:04:23Z"
+      "pushed_at": "2026-05-19T21:07:22Z",
+      "updated_at": "2026-05-19T21:07:42Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 688,
-      "forks": 40,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 751,
+      "forks": 76,
       "language": "Python",
-      "pushed_at": "2026-05-19T17:25:23Z",
-      "updated_at": "2026-05-19T17:25:13Z"
+      "pushed_at": "2026-05-19T20:14:23Z",
+      "updated_at": "2026-05-19T20:14:36Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 433,
-      "forks": 72,
-      "language": "Go",
-      "pushed_at": "2026-05-19T16:14:34Z",
-      "updated_at": "2026-05-19T16:13:18Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 405,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-05-19T20:13:05Z",
+      "updated_at": "2026-05-19T20:13:02Z"
+    },
+    {
+      "id": 993178051,
+      "full_name": "Deyweaver/DeyWeaver",
+      "html_url": "https://github.com/Deyweaver/DeyWeaver",
+      "description": "AI-powered task planner to structure your day with smart scheduling.",
+      "stars": 348,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T20:43:11Z",
+      "updated_at": "2026-05-19T20:21:59Z"
     }
   ]
 }
