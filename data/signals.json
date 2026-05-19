@@ -5,62 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 848,
+  "total_found": 849,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 186919,
-      "forks": 28945,
+      "stars": 187037,
+      "forks": 28959,
       "language": "JavaScript",
-      "pushed_at": "2026-05-19T11:13:54Z",
-      "updated_at": "2026-05-19T11:14:01Z"
+      "pushed_at": "2026-05-19T15:11:00Z",
+      "updated_at": "2026-05-19T15:16:58Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 50326,
-      "forks": 3077,
-      "language": "Rust",
-      "pushed_at": "2026-05-19T09:44:29Z",
-      "updated_at": "2026-05-19T11:13:43Z"
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25196,
+      "forks": 1841,
+      "language": "Vue",
+      "pushed_at": "2026-05-19T15:17:27Z",
+      "updated_at": "2026-05-19T15:10:54Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37584,
-      "forks": 3742,
-      "language": "C#",
-      "pushed_at": "2026-05-19T08:15:14Z",
-      "updated_at": "2026-05-19T10:14:25Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14222,
-      "forks": 1425,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19509,
+      "forks": 1694,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T09:43:52Z",
-      "updated_at": "2026-05-19T10:55:36Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14057,
-      "forks": 947,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T08:38:57Z",
-      "updated_at": "2026-05-19T08:38:26Z"
+      "pushed_at": "2026-05-19T14:44:57Z",
+      "updated_at": "2026-05-19T15:01:20Z"
     },
     {
       "id": 665613753,
@@ -70,19 +48,19 @@
       "stars": 10719,
       "forks": 1329,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T10:28:21Z",
-      "updated_at": "2026-05-19T10:28:26Z"
+      "pushed_at": "2026-05-19T13:28:03Z",
+      "updated_at": "2026-05-19T13:31:06Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5661,
+      "stars": 5662,
       "forks": 741,
       "language": "Swift",
-      "pushed_at": "2026-05-19T11:01:17Z",
-      "updated_at": "2026-05-19T09:58:59Z"
+      "pushed_at": "2026-05-19T15:17:46Z",
+      "updated_at": "2026-05-19T15:07:17Z"
     },
     {
       "id": 154173536,
@@ -92,19 +70,41 @@
       "stars": 5291,
       "forks": 304,
       "language": "Vala",
-      "pushed_at": "2026-05-19T11:02:36Z",
-      "updated_at": "2026-05-19T10:54:01Z"
+      "pushed_at": "2026-05-19T14:54:45Z",
+      "updated_at": "2026-05-19T15:09:07Z"
+    },
+    {
+      "id": 206254792,
+      "full_name": "zidoro/pomatez",
+      "html_url": "https://github.com/zidoro/pomatez",
+      "description": "Stay Focused. Take a Break.",
+      "stars": 4834,
+      "forks": 205,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T14:32:40Z",
+      "updated_at": "2026-05-19T14:42:57Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4746,
+      "forks": 105,
+      "language": "Rust",
+      "pushed_at": "2026-05-19T13:19:06Z",
+      "updated_at": "2026-05-19T13:20:58Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2444,
+      "stars": 2446,
       "forks": 284,
       "language": "Go",
-      "pushed_at": "2026-05-19T09:09:00Z",
-      "updated_at": "2026-05-19T09:09:06Z"
+      "pushed_at": "2026-05-19T15:03:59Z",
+      "updated_at": "2026-05-19T15:09:00Z"
     },
     {
       "id": 323279421,
@@ -114,30 +114,19 @@
       "stars": 1847,
       "forks": 136,
       "language": "Dart",
-      "pushed_at": "2026-05-19T08:28:07Z",
-      "updated_at": "2026-05-19T08:28:13Z"
+      "pushed_at": "2026-05-19T14:05:41Z",
+      "updated_at": "2026-05-19T14:14:36Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1030,
-      "forks": 45,
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+      "stars": 1217,
+      "forks": 72,
       "language": "Rust",
-      "pushed_at": "2026-05-19T10:43:14Z",
-      "updated_at": "2026-05-19T10:43:18Z"
-    },
-    {
-      "id": 739462270,
-      "full_name": "FreeterApp/Freeter",
-      "html_url": "https://github.com/FreeterApp/Freeter",
-      "description": "Freeter – a smarter way to work on your computer",
-      "stars": 959,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T10:53:22Z",
-      "updated_at": "2026-05-19T10:53:35Z"
+      "pushed_at": "2026-05-19T13:55:52Z",
+      "updated_at": "2026-05-19T14:00:35Z"
     },
     {
       "id": 1148683593,
@@ -147,30 +136,41 @@
       "stars": 753,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-19T10:59:27Z",
-      "updated_at": "2026-05-19T10:59:31Z"
+      "pushed_at": "2026-05-19T14:56:52Z",
+      "updated_at": "2026-05-19T15:10:00Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 647,
-      "forks": 39,
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 433,
+      "forks": 72,
+      "language": "Go",
+      "pushed_at": "2026-05-19T15:15:31Z",
+      "updated_at": "2026-05-19T15:14:36Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 180,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-19T14:25:08Z",
+      "updated_at": "2026-05-19T14:30:17Z"
+    },
+    {
+      "id": 1194655729,
+      "full_name": "LeonGaoHaining/opencowork",
+      "html_url": "https://github.com/LeonGaoHaining/opencowork",
+      "description": "Open-source, local-first desktop  Agent Runtime for turning business goals into executable, reusable, and auditable workflows.",
+      "stars": 152,
+      "forks": 2,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T10:55:10Z",
-      "updated_at": "2026-05-19T11:05:11Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Codex,GPT & Custom Providers",
-      "stars": 386,
-      "forks": 63,
-      "language": "Python",
-      "pushed_at": "2026-05-19T08:31:47Z",
-      "updated_at": "2026-05-19T09:32:43Z"
+      "pushed_at": "2026-05-19T13:51:35Z",
+      "updated_at": "2026-05-19T15:02:41Z"
     }
   ]
 }
