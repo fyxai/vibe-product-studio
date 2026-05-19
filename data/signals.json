@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 846,
+  "total_found": 847,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 186653,
-      "forks": 28903,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-19T01:20:37Z",
-      "updated_at": "2026-05-19T03:29:02Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 50202,
+      "forks": 3070,
+      "language": "Rust",
+      "pushed_at": "2026-05-19T07:24:41Z",
+      "updated_at": "2026-05-19T07:42:31Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37574,
+      "stars": 37580,
       "forks": 3742,
       "language": "C#",
-      "pushed_at": "2026-05-19T01:56:14Z",
-      "updated_at": "2026-05-19T02:54:50Z"
+      "pushed_at": "2026-05-19T07:31:47Z",
+      "updated_at": "2026-05-19T07:43:17Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 29362,
-      "forks": 3092,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14221,
+      "forks": 1423,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T00:52:02Z",
-      "updated_at": "2026-05-19T03:26:05Z"
+      "pushed_at": "2026-05-19T04:29:09Z",
+      "updated_at": "2026-05-19T06:01:25Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7728,
-      "forks": 199,
-      "language": "C++",
-      "pushed_at": "2026-05-19T01:22:55Z",
-      "updated_at": "2026-05-19T00:06:01Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 3950,
-      "forks": 128,
-      "language": "Python",
-      "pushed_at": "2026-05-18T23:07:10Z",
-      "updated_at": "2026-05-18T23:23:17Z"
+      "id": 206254792,
+      "full_name": "zidoro/pomatez",
+      "html_url": "https://github.com/zidoro/pomatez",
+      "description": "Stay Focused. Take a Break.",
+      "stars": 4834,
+      "forks": 204,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T06:24:36Z",
+      "updated_at": "2026-05-19T05:20:13Z"
     },
     {
       "id": 855207363,
@@ -70,30 +59,8 @@
       "stars": 1896,
       "forks": 94,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T03:03:04Z",
-      "updated_at": "2026-05-19T02:54:18Z"
-    },
-    {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1816,
-      "forks": 149,
-      "language": "Dart",
-      "pushed_at": "2026-05-19T01:39:45Z",
-      "updated_at": "2026-05-19T01:39:49Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1815,
-      "forks": 54,
-      "language": "Swift",
-      "pushed_at": "2026-05-18T23:34:28Z",
-      "updated_at": "2026-05-18T23:34:32Z"
+      "pushed_at": "2026-05-19T03:40:29Z",
+      "updated_at": "2026-05-19T03:38:32Z"
     },
     {
       "id": 1111978380,
@@ -103,8 +70,8 @@
       "stars": 854,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T03:22:56Z",
-      "updated_at": "2026-05-19T03:23:00Z"
+      "pushed_at": "2026-05-19T03:42:10Z",
+      "updated_at": "2026-05-19T03:42:13Z"
     },
     {
       "id": 1148683593,
@@ -114,30 +81,52 @@
       "stars": 753,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-19T03:15:17Z",
-      "updated_at": "2026-05-19T03:15:20Z"
+      "pushed_at": "2026-05-19T06:27:53Z",
+      "updated_at": "2026-05-19T06:27:58Z"
     },
     {
-      "id": 869263252,
-      "full_name": "awaseem/foqos",
-      "html_url": "https://github.com/awaseem/foqos",
-      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
-      "stars": 507,
-      "forks": 88,
-      "language": "Swift",
-      "pushed_at": "2026-05-19T00:26:34Z",
-      "updated_at": "2026-05-19T00:26:38Z"
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 686,
+      "forks": 37,
+      "language": "Python",
+      "pushed_at": "2026-05-19T07:35:51Z",
+      "updated_at": "2026-05-19T07:35:56Z"
     },
     {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 323,
-      "forks": 15,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 647,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T07:28:35Z",
+      "updated_at": "2026-05-19T06:36:53Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "spool-lab/spool",
+      "html_url": "https://github.com/spool-lab/spool",
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 506,
+      "forks": 32,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T06:59:16Z",
+      "updated_at": "2026-05-19T06:59:18Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 358,
+      "forks": 62,
       "language": "JavaScript",
-      "pushed_at": "2026-05-19T00:31:43Z",
-      "updated_at": "2026-05-19T01:13:29Z"
+      "pushed_at": "2026-05-19T05:42:57Z",
+      "updated_at": "2026-05-19T05:41:03Z"
     },
     {
       "id": 1147139359,
@@ -147,30 +136,41 @@
       "stars": 253,
       "forks": 15,
       "language": "Go",
-      "pushed_at": "2026-05-19T03:27:41Z",
-      "updated_at": "2026-05-19T03:23:57Z"
+      "pushed_at": "2026-05-19T04:37:13Z",
+      "updated_at": "2026-05-19T04:37:06Z"
+    },
+    {
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 248,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T06:44:53Z",
+      "updated_at": "2026-05-19T06:42:14Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 239,
+      "forks": 11,
+      "language": "Python",
+      "pushed_at": "2026-05-19T06:24:14Z",
+      "updated_at": "2026-05-19T06:24:18Z"
     },
     {
       "id": 1148232257,
       "full_name": "samirpatil2000/Buffer",
       "html_url": "https://github.com/samirpatil2000/Buffer",
       "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 236,
+      "stars": 238,
       "forks": 16,
       "language": "Swift",
       "pushed_at": "2026-05-19T03:22:46Z",
-      "updated_at": "2026-05-19T03:15:40Z"
-    },
-    {
-      "id": 1194655729,
-      "full_name": "LeonGaoHaining/opencowork",
-      "html_url": "https://github.com/LeonGaoHaining/opencowork",
-      "description": "Open-source, local-first desktop  Agent Runtime for turning business goals into executable, reusable, and auditable workflows.",
-      "stars": 147,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T00:12:02Z",
-      "updated_at": "2026-05-19T03:22:31Z"
+      "updated_at": "2026-05-19T07:18:01Z"
     }
   ]
 }
