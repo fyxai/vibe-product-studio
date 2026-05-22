@@ -5,73 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 861,
+  "total_found": 859,
   "items": [
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 123817,
+      "stars": 123833,
       "forks": 13739,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T10:22:48Z",
-      "updated_at": "2026-05-22T10:42:42Z"
+      "pushed_at": "2026-05-22T14:34:25Z",
+      "updated_at": "2026-05-22T14:29:59Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 52638,
-      "forks": 3191,
-      "language": "Rust",
-      "pushed_at": "2026-05-22T09:58:17Z",
-      "updated_at": "2026-05-22T10:48:54Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 38369,
-      "forks": 880,
-      "language": "Rust",
-      "pushed_at": "2026-05-22T09:16:50Z",
-      "updated_at": "2026-05-22T10:42:40Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24207,
-      "forks": 2284,
-      "language": "Python",
-      "pushed_at": "2026-05-22T07:08:24Z",
-      "updated_at": "2026-05-22T07:14:46Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14067,
-      "forks": 950,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19573,
+      "forks": 1702,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T10:46:42Z",
-      "updated_at": "2026-05-22T10:46:43Z"
+      "pushed_at": "2026-05-22T13:25:43Z",
+      "updated_at": "2026-05-22T14:00:24Z"
     },
     {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 6028,
-      "forks": 325,
-      "language": "Swift",
-      "pushed_at": "2026-05-22T07:29:45Z",
-      "updated_at": "2026-05-22T09:52:00Z"
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18239,
+      "forks": 1475,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-22T12:54:13Z",
+      "updated_at": "2026-05-22T14:10:01Z"
     },
     {
       "id": 129699403,
@@ -81,41 +48,96 @@
       "stars": 5667,
       "forks": 743,
       "language": "Swift",
-      "pushed_at": "2026-05-22T08:59:08Z",
-      "updated_at": "2026-05-22T08:59:11Z"
+      "pushed_at": "2026-05-22T14:25:28Z",
+      "updated_at": "2026-05-22T14:25:33Z"
+    },
+    {
+      "id": 70306830,
+      "full_name": "hoothin/UserScripts",
+      "html_url": "https://github.com/hoothin/UserScripts",
+      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
+      "stars": 4170,
+      "forks": 581,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-22T12:53:14Z",
+      "updated_at": "2026-05-22T13:57:44Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3697,
+      "forks": 767,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-22T13:46:55Z",
+      "updated_at": "2026-05-22T13:46:25Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3196,
+      "stars": 3197,
       "forks": 385,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T10:02:59Z",
-      "updated_at": "2026-05-22T10:03:59Z"
+      "pushed_at": "2026-05-22T14:21:19Z",
+      "updated_at": "2026-05-22T14:21:23Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3190,
+      "forks": 151,
+      "language": "Gherkin",
+      "pushed_at": "2026-05-22T13:37:47Z",
+      "updated_at": "2026-05-22T13:37:50Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3065,
+      "forks": 204,
+      "language": "Python",
+      "pushed_at": "2026-05-22T13:54:19Z",
+      "updated_at": "2026-05-22T13:54:32Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2479,
+      "stars": 2482,
       "forks": 288,
       "language": "Go",
-      "pushed_at": "2026-05-22T10:23:38Z",
-      "updated_at": "2026-05-22T10:23:41Z"
+      "pushed_at": "2026-05-22T13:37:39Z",
+      "updated_at": "2026-05-22T13:37:45Z"
     },
     {
-      "id": 1094171135,
-      "full_name": "dtsola/xiaoyaosearch",
-      "html_url": "https://github.com/dtsola/xiaoyaosearch",
-      "description": "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.",
-      "stars": 1020,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-05-22T09:48:18Z",
-      "updated_at": "2026-05-22T09:48:22Z"
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1246,
+      "forks": 107,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-22T13:56:54Z",
+      "updated_at": "2026-05-22T13:56:59Z"
+    },
+    {
+      "id": 919664598,
+      "full_name": "WINBIGFOX/TimeScribe",
+      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "stars": 828,
+      "forks": 79,
+      "language": "PHP",
+      "pushed_at": "2026-05-22T12:22:56Z",
+      "updated_at": "2026-05-22T12:23:02Z"
     },
     {
       "id": 1148683593,
@@ -125,52 +147,30 @@
       "stars": 758,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-22T10:20:05Z",
-      "updated_at": "2026-05-22T10:20:09Z"
+      "pushed_at": "2026-05-22T14:22:09Z",
+      "updated_at": "2026-05-22T14:22:26Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 655,
+      "stars": 658,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T10:15:44Z",
-      "updated_at": "2026-05-22T10:14:12Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "spool-lab/spool",
-      "html_url": "https://github.com/spool-lab/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 525,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-22T07:42:20Z",
-      "updated_at": "2026-05-22T08:17:09Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 318,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-22T08:18:15Z",
-      "updated_at": "2026-05-22T08:12:00Z"
+      "pushed_at": "2026-05-22T13:21:26Z",
+      "updated_at": "2026-05-22T14:33:26Z"
     },
     {
       "id": 1208490640,
       "full_name": "EdgeTypE/better-deepseek",
       "html_url": "https://github.com/EdgeTypE/better-deepseek",
       "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 171,
+      "stars": 170,
       "forks": 15,
       "language": "JavaScript",
-      "pushed_at": "2026-05-22T09:28:11Z",
-      "updated_at": "2026-05-22T10:15:38Z"
+      "pushed_at": "2026-05-22T13:26:45Z",
+      "updated_at": "2026-05-22T13:26:49Z"
     }
   ]
 }
