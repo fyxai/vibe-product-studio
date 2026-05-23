@@ -5,18 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 860,
+  "total_found": 861,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 53016,
-      "forks": 3227,
-      "language": "Rust",
-      "pushed_at": "2026-05-23T08:52:45Z",
-      "updated_at": "2026-05-23T09:39:10Z"
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25231,
+      "forks": 1844,
+      "language": "Vue",
+      "pushed_at": "2026-05-23T12:10:24Z",
+      "updated_at": "2026-05-23T12:06:50Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 20724,
+      "forks": 998,
+      "language": "Go",
+      "pushed_at": "2026-05-23T12:27:36Z",
+      "updated_at": "2026-05-23T13:05:31Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19594,
+      "forks": 1705,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T11:40:18Z",
+      "updated_at": "2026-05-23T13:11:36Z"
     },
     {
       "id": 257526212,
@@ -26,30 +48,30 @@
       "stars": 14765,
       "forks": 602,
       "language": "C#",
-      "pushed_at": "2026-05-23T09:50:56Z",
-      "updated_at": "2026-05-23T09:50:59Z"
+      "pushed_at": "2026-05-23T11:29:03Z",
+      "updated_at": "2026-05-23T11:36:32Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6192,
-      "forks": 126,
-      "language": "Swift",
-      "pushed_at": "2026-05-23T09:14:05Z",
-      "updated_at": "2026-05-23T09:14:08Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 11665,
+      "forks": 703,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T12:23:11Z",
+      "updated_at": "2026-05-23T13:21:03Z"
     },
     {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
-      "stars": 4015,
-      "forks": 325,
-      "language": "PHP",
-      "pushed_at": "2026-05-23T09:21:30Z",
-      "updated_at": "2026-05-23T09:21:34Z"
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5319,
+      "forks": 304,
+      "language": "Vala",
+      "pushed_at": "2026-05-23T12:29:49Z",
+      "updated_at": "2026-05-23T12:29:51Z"
     },
     {
       "id": 257400448,
@@ -59,8 +81,19 @@
       "stars": 1830,
       "forks": 125,
       "language": "Go",
-      "pushed_at": "2026-05-23T09:34:05Z",
-      "updated_at": "2026-05-23T08:51:21Z"
+      "pushed_at": "2026-05-23T12:44:35Z",
+      "updated_at": "2026-05-23T12:40:39Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1139,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-23T13:19:51Z",
+      "updated_at": "2026-05-23T13:19:54Z"
     },
     {
       "id": 1111978380,
@@ -70,19 +103,19 @@
       "stars": 867,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T09:30:10Z",
-      "updated_at": "2026-05-23T09:30:14Z"
+      "pushed_at": "2026-05-23T13:11:29Z",
+      "updated_at": "2026-05-23T13:11:33Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 760,
+      "stars": 761,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-23T09:48:34Z",
-      "updated_at": "2026-05-23T09:48:38Z"
+      "pushed_at": "2026-05-23T13:21:52Z",
+      "updated_at": "2026-05-23T13:21:56Z"
     },
     {
       "id": 831376921,
@@ -92,30 +125,8 @@
       "stars": 560,
       "forks": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T09:42:33Z",
-      "updated_at": "2026-05-23T09:51:14Z"
-    },
-    {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 449,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-05-23T08:28:22Z",
-      "updated_at": "2026-05-23T08:21:57Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
-      "stars": 395,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-05-23T08:21:11Z",
-      "updated_at": "2026-05-23T08:00:57Z"
+      "pushed_at": "2026-05-23T10:51:12Z",
+      "updated_at": "2026-05-23T10:51:16Z"
     },
     {
       "id": 1030039430,
@@ -125,8 +136,8 @@
       "stars": 318,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T07:26:26Z",
-      "updated_at": "2026-05-23T07:26:29Z"
+      "pushed_at": "2026-05-23T12:14:29Z",
+      "updated_at": "2026-05-23T12:14:32Z"
     },
     {
       "id": 226175035,
@@ -136,41 +147,30 @@
       "stars": 317,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T08:50:14Z",
-      "updated_at": "2026-05-23T08:50:17Z"
+      "pushed_at": "2026-05-23T13:11:58Z",
+      "updated_at": "2026-05-23T13:12:01Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/tabby",
-      "html_url": "https://github.com/FuJacob/tabby",
-      "description": "tabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 175,
-      "forks": 5,
-      "language": "Swift",
-      "pushed_at": "2026-05-23T09:44:56Z",
-      "updated_at": "2026-05-23T09:26:29Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 170,
-      "forks": 15,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T07:31:54Z",
-      "updated_at": "2026-05-23T07:31:58Z"
-    },
-    {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 158,
-      "forks": 10,
+      "id": 1202874035,
+      "full_name": "10xChengTu/input0",
+      "html_url": "https://github.com/10xChengTu/input0",
+      "description": "Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.",
+      "stars": 253,
+      "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-05-23T09:44:40Z",
-      "updated_at": "2026-05-23T09:44:43Z"
+      "pushed_at": "2026-05-23T11:35:13Z",
+      "updated_at": "2026-05-23T11:35:19Z"
+    },
+    {
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 198,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-05-23T13:18:17Z",
+      "updated_at": "2026-05-23T13:17:07Z"
     }
   ]
 }
