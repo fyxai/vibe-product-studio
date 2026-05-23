@@ -8,37 +8,26 @@
   "total_found": 860,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 38393,
-      "forks": 882,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 53016,
+      "forks": 3227,
       "language": "Rust",
-      "pushed_at": "2026-05-23T03:18:27Z",
-      "updated_at": "2026-05-23T05:21:13Z"
+      "pushed_at": "2026-05-23T08:52:45Z",
+      "updated_at": "2026-05-23T09:39:10Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 11641,
-      "forks": 701,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-23T05:46:11Z",
-      "updated_at": "2026-05-23T05:57:10Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6775,
-      "forks": 255,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-23T05:27:49Z",
-      "updated_at": "2026-05-23T05:27:53Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14765,
+      "forks": 602,
+      "language": "C#",
+      "pushed_at": "2026-05-23T09:50:56Z",
+      "updated_at": "2026-05-23T09:50:59Z"
     },
     {
       "id": 375653778,
@@ -48,74 +37,74 @@
       "stars": 6192,
       "forks": 126,
       "language": "Swift",
-      "pushed_at": "2026-05-23T06:15:10Z",
-      "updated_at": "2026-05-23T06:15:13Z"
+      "pushed_at": "2026-05-23T09:14:05Z",
+      "updated_at": "2026-05-23T09:14:08Z"
     },
     {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 4619,
-      "forks": 352,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T05:13:38Z",
-      "updated_at": "2026-05-23T05:50:23Z"
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 4015,
+      "forks": 325,
+      "language": "PHP",
+      "pushed_at": "2026-05-23T09:21:30Z",
+      "updated_at": "2026-05-23T09:21:34Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2227,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-23T02:42:22Z",
-      "updated_at": "2026-05-23T02:41:23Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1119,
-      "forks": 29,
-      "language": "Rust",
-      "pushed_at": "2026-05-23T05:41:25Z",
-      "updated_at": "2026-05-23T06:22:58Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1830,
+      "forks": 125,
+      "language": "Go",
+      "pushed_at": "2026-05-23T09:34:05Z",
+      "updated_at": "2026-05-23T08:51:21Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 865,
+      "stars": 867,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T03:29:46Z",
-      "updated_at": "2026-05-23T02:48:43Z"
+      "pushed_at": "2026-05-23T09:30:10Z",
+      "updated_at": "2026-05-23T09:30:14Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 759,
+      "stars": 760,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-23T04:39:30Z",
-      "updated_at": "2026-05-23T04:39:33Z"
+      "pushed_at": "2026-05-23T09:48:34Z",
+      "updated_at": "2026-05-23T09:48:38Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 691,
-      "forks": 41,
-      "language": "Python",
-      "pushed_at": "2026-05-23T01:28:43Z",
-      "updated_at": "2026-05-23T01:28:47Z"
+      "id": 831376921,
+      "full_name": "oxdc/obsidian-vertical-tabs",
+      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
+      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "stars": 560,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T09:42:33Z",
+      "updated_at": "2026-05-23T09:51:14Z"
+    },
+    {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 449,
+      "forks": 27,
+      "language": "Shell",
+      "pushed_at": "2026-05-23T08:28:22Z",
+      "updated_at": "2026-05-23T08:21:57Z"
     },
     {
       "id": 1175591394,
@@ -125,8 +114,19 @@
       "stars": 395,
       "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-05-23T06:00:55Z",
-      "updated_at": "2026-05-23T06:00:49Z"
+      "pushed_at": "2026-05-23T08:21:11Z",
+      "updated_at": "2026-05-23T08:00:57Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 318,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T07:26:26Z",
+      "updated_at": "2026-05-23T07:26:29Z"
     },
     {
       "id": 226175035,
@@ -136,41 +136,41 @@
       "stars": 317,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T06:29:26Z",
-      "updated_at": "2026-05-23T06:29:29Z"
-    },
-    {
-      "id": 1140897918,
-      "full_name": "kbanc85/claudia",
-      "html_url": "https://github.com/kbanc85/claudia",
-      "description": "Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.",
-      "stars": 255,
-      "forks": 38,
-      "language": "Python",
-      "pushed_at": "2026-05-23T03:20:50Z",
-      "updated_at": "2026-05-23T02:25:10Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 180,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T06:07:44Z",
-      "updated_at": "2026-05-23T06:07:47Z"
+      "pushed_at": "2026-05-23T08:50:14Z",
+      "updated_at": "2026-05-23T08:50:17Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/tabby",
       "html_url": "https://github.com/FuJacob/tabby",
       "description": "tabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 171,
+      "stars": 175,
       "forks": 5,
       "language": "Swift",
-      "pushed_at": "2026-05-23T06:32:46Z",
-      "updated_at": "2026-05-23T06:07:33Z"
+      "pushed_at": "2026-05-23T09:44:56Z",
+      "updated_at": "2026-05-23T09:26:29Z"
+    },
+    {
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 170,
+      "forks": 15,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-23T07:31:54Z",
+      "updated_at": "2026-05-23T07:31:58Z"
+    },
+    {
+      "id": 1234008446,
+      "full_name": "hsr88/mouzi",
+      "html_url": "https://github.com/hsr88/mouzi",
+      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
+      "stars": 158,
+      "forks": 10,
+      "language": "Rust",
+      "pushed_at": "2026-05-23T09:44:40Z",
+      "updated_at": "2026-05-23T09:44:43Z"
     }
   ]
 }
