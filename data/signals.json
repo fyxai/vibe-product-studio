@@ -5,95 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 861,
+  "total_found": 860,
   "items": [
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19599,
-      "forks": 1705,
+      "stars": 19600,
+      "forks": 1708,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T16:34:52Z",
-      "updated_at": "2026-05-23T16:56:26Z"
+      "pushed_at": "2026-05-23T20:27:24Z",
+      "updated_at": "2026-05-23T20:43:10Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14768,
-      "forks": 603,
-      "language": "C#",
-      "pushed_at": "2026-05-23T15:49:52Z",
-      "updated_at": "2026-05-23T16:28:44Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7769,
+      "forks": 203,
+      "language": "C++",
+      "pushed_at": "2026-05-23T19:27:49Z",
+      "updated_at": "2026-05-23T19:38:08Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5248,
+      "stars": 5249,
       "forks": 624,
       "language": "Kotlin",
-      "pushed_at": "2026-05-23T16:53:31Z",
-      "updated_at": "2026-05-23T16:53:35Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4525,
-      "forks": 275,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-23T16:23:17Z",
-      "updated_at": "2026-05-23T16:23:21Z"
-    },
-    {
-      "id": 1079906817,
-      "full_name": "deta/surf",
-      "html_url": "https://github.com/deta/surf",
-      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
-      "stars": 3415,
-      "forks": 250,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-23T15:50:49Z",
-      "updated_at": "2026-05-23T15:48:45Z"
+      "pushed_at": "2026-05-23T20:35:55Z",
+      "updated_at": "2026-05-23T20:26:31Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3071,
+      "stars": 3072,
       "forks": 206,
       "language": "Python",
-      "pushed_at": "2026-05-23T16:31:15Z",
-      "updated_at": "2026-05-23T16:31:18Z"
+      "pushed_at": "2026-05-23T19:56:08Z",
+      "updated_at": "2026-05-23T20:34:38Z"
     },
     {
-      "id": 376036728,
-      "full_name": "engineering-management/awesome-engineering-management",
-      "html_url": "https://github.com/engineering-management/awesome-engineering-management",
-      "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
-      "stars": 2654,
-      "forks": 156,
-      "language": "Unknown",
-      "pushed_at": "2026-05-23T14:56:02Z",
-      "updated_at": "2026-05-23T14:56:07Z"
-    },
-    {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 2029,
-      "forks": 211,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T16:45:58Z",
-      "updated_at": "2026-05-23T16:45:27Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2228,
+      "forks": 89,
+      "language": "Swift",
+      "pushed_at": "2026-05-23T20:18:11Z",
+      "updated_at": "2026-05-23T20:18:13Z"
     },
     {
       "id": 323279421,
@@ -103,19 +70,30 @@
       "stars": 1853,
       "forks": 136,
       "language": "Dart",
-      "pushed_at": "2026-05-23T16:52:48Z",
-      "updated_at": "2026-05-23T16:52:52Z"
+      "pushed_at": "2026-05-23T19:36:13Z",
+      "updated_at": "2026-05-23T19:36:17Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1830,
-      "forks": 125,
-      "language": "Go",
-      "pushed_at": "2026-05-23T15:03:26Z",
-      "updated_at": "2026-05-23T14:59:25Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1837,
+      "forks": 56,
+      "language": "Swift",
+      "pushed_at": "2026-05-23T20:22:23Z",
+      "updated_at": "2026-05-23T20:32:29Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1139,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-23T19:25:50Z",
+      "updated_at": "2026-05-23T19:25:54Z"
     },
     {
       "id": 1111978380,
@@ -125,8 +103,8 @@
       "stars": 868,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T15:24:51Z",
-      "updated_at": "2026-05-23T15:24:55Z"
+      "pushed_at": "2026-05-23T19:33:47Z",
+      "updated_at": "2026-05-23T19:33:50Z"
     },
     {
       "id": 1148683593,
@@ -136,41 +114,63 @@
       "stars": 762,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-23T16:53:14Z",
-      "updated_at": "2026-05-23T16:53:17Z"
+      "pushed_at": "2026-05-23T20:50:42Z",
+      "updated_at": "2026-05-23T20:50:46Z"
     },
     {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 405,
-      "forks": 53,
-      "language": "PHP",
-      "pushed_at": "2026-05-23T14:42:28Z",
-      "updated_at": "2026-05-23T14:42:24Z"
+      "id": 266191907,
+      "full_name": "iseahound/ImagePut",
+      "html_url": "https://github.com/iseahound/ImagePut",
+      "description": "A core library for images in AutoHotkey. Supports AutoHotkey v1 and v2. ",
+      "stars": 225,
+      "forks": 34,
+      "language": "AutoHotkey",
+      "pushed_at": "2026-05-23T19:52:28Z",
+      "updated_at": "2026-05-23T19:52:32Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
-      "stars": 396,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-05-23T16:37:18Z",
-      "updated_at": "2026-05-23T16:37:21Z"
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 204,
+      "forks": 10,
+      "language": "Rust",
+      "pushed_at": "2026-05-23T19:51:57Z",
+      "updated_at": "2026-05-23T19:50:15Z"
     },
     {
-      "id": 854514249,
-      "full_name": "aload0/Reef",
-      "html_url": "https://github.com/aload0/Reef",
-      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
-      "stars": 265,
-      "forks": 27,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-23T15:10:39Z",
-      "updated_at": "2026-05-23T15:10:44Z"
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 172,
+      "forks": 15,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-23T20:16:24Z",
+      "updated_at": "2026-05-23T20:16:28Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 160,
+      "forks": 14,
+      "language": "Rust",
+      "pushed_at": "2026-05-23T19:10:52Z",
+      "updated_at": "2026-05-23T19:37:18Z"
+    },
+    {
+      "id": 1169354823,
+      "full_name": "daxaur/openpaw",
+      "html_url": "https://github.com/daxaur/openpaw",
+      "description": "Personal Assistant Wizard for Claude Code — npx pawmode",
+      "stars": 142,
+      "forks": 6,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T20:45:06Z",
+      "updated_at": "2026-05-23T20:43:54Z"
     }
   ]
 }
