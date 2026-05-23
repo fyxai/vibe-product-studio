@@ -5,95 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 859,
+  "total_found": 860,
   "items": [
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25224,
-      "forks": 1844,
-      "language": "Vue",
-      "pushed_at": "2026-05-22T17:45:57Z",
-      "updated_at": "2026-05-22T20:39:00Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19578,
-      "forks": 1702,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-22T19:48:36Z",
-      "updated_at": "2026-05-22T20:58:47Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14069,
-      "forks": 951,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-22T17:47:47Z",
-      "updated_at": "2026-05-22T20:54:10Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7763,
-      "forks": 203,
-      "language": "C++",
-      "pushed_at": "2026-05-22T20:16:47Z",
-      "updated_at": "2026-05-22T20:16:53Z"
-    },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5246,
+      "stars": 5248,
       "forks": 624,
       "language": "Kotlin",
-      "pushed_at": "2026-05-22T20:47:54Z",
-      "updated_at": "2026-05-22T20:48:05Z"
+      "pushed_at": "2026-05-23T00:12:34Z",
+      "updated_at": "2026-05-23T01:11:19Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3068,
-      "forks": 205,
-      "language": "Python",
-      "pushed_at": "2026-05-22T20:18:06Z",
-      "updated_at": "2026-05-22T20:56:53Z"
-    },
-    {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1873,
-      "forks": 185,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-22T17:39:27Z",
-      "updated_at": "2026-05-22T20:52:55Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2227,
+      "forks": 89,
+      "language": "Swift",
+      "pushed_at": "2026-05-23T02:42:22Z",
+      "updated_at": "2026-05-23T02:41:23Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1834,
+      "stars": 1835,
       "forks": 56,
       "language": "Swift",
-      "pushed_at": "2026-05-22T20:30:40Z",
-      "updated_at": "2026-05-22T20:30:44Z"
+      "pushed_at": "2026-05-23T00:14:45Z",
+      "updated_at": "2026-05-23T00:14:48Z"
     },
     {
       "id": 1119754832,
@@ -103,52 +48,52 @@
       "stars": 1565,
       "forks": 76,
       "language": "Rust",
-      "pushed_at": "2026-05-22T20:30:18Z",
-      "updated_at": "2026-05-22T20:30:20Z"
+      "pushed_at": "2026-05-22T21:34:15Z",
+      "updated_at": "2026-05-22T21:34:19Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 864,
+      "stars": 865,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T21:05:34Z",
-      "updated_at": "2026-05-22T21:05:38Z"
+      "pushed_at": "2026-05-23T02:48:47Z",
+      "updated_at": "2026-05-23T02:48:43Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 758,
+      "stars": 759,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-22T20:20:14Z",
-      "updated_at": "2026-05-22T20:20:18Z"
+      "pushed_at": "2026-05-23T02:42:35Z",
+      "updated_at": "2026-05-23T02:42:39Z"
     },
     {
-      "id": 143586124,
-      "full_name": "pprevos/emacs-writing-studio",
-      "html_url": "https://github.com/pprevos/emacs-writing-studio",
-      "description": "Emacs configuration for authors who research, write and publish articles, books and websites.",
-      "stars": 743,
-      "forks": 53,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-05-22T18:36:27Z",
-      "updated_at": "2026-05-22T18:36:31Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 691,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-05-23T01:28:43Z",
+      "updated_at": "2026-05-23T01:28:47Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 328,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-22T17:37:41Z",
-      "updated_at": "2026-05-22T17:37:43Z"
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
+      "stars": 395,
+      "forks": 64,
+      "language": "Python",
+      "pushed_at": "2026-05-23T01:31:22Z",
+      "updated_at": "2026-05-23T02:51:29Z"
     },
     {
       "id": 1030039430,
@@ -158,19 +103,74 @@
       "stars": 318,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T20:41:27Z",
-      "updated_at": "2026-05-22T20:41:30Z"
+      "pushed_at": "2026-05-23T00:51:02Z",
+      "updated_at": "2026-05-23T00:51:06Z"
     },
     {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
-      "stars": 283,
-      "forks": 10,
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T17:37:29Z",
-      "updated_at": "2026-05-22T17:37:35Z"
+      "pushed_at": "2026-05-23T01:04:37Z",
+      "updated_at": "2026-05-23T01:04:40Z"
+    },
+    {
+      "id": 1140897918,
+      "full_name": "kbanc85/claudia",
+      "html_url": "https://github.com/kbanc85/claudia",
+      "description": "Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.",
+      "stars": 255,
+      "forks": 38,
+      "language": "Python",
+      "pushed_at": "2026-05-23T02:25:07Z",
+      "updated_at": "2026-05-23T02:25:10Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 200,
+      "forks": 10,
+      "language": "Rust",
+      "pushed_at": "2026-05-22T21:40:34Z",
+      "updated_at": "2026-05-22T21:38:57Z"
+    },
+    {
+      "id": 943441588,
+      "full_name": "sushaantu/boxento",
+      "html_url": "https://github.com/sushaantu/boxento",
+      "description": "Open-source customizable start page ",
+      "stars": 153,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T02:29:29Z",
+      "updated_at": "2026-05-23T02:21:46Z"
+    },
+    {
+      "id": 724839315,
+      "full_name": "SamErde/PSPreworkout",
+      "html_url": "https://github.com/SamErde/PSPreworkout",
+      "description": "A special mix of tools to help jump start your PowerShell session!",
+      "stars": 81,
+      "forks": 10,
+      "language": "PowerShell",
+      "pushed_at": "2026-05-23T01:37:22Z",
+      "updated_at": "2026-05-23T01:37:24Z"
+    },
+    {
+      "id": 1080371427,
+      "full_name": "KartikHalkunde/LockedIn-YT",
+      "html_url": "https://github.com/KartikHalkunde/LockedIn-YT",
+      "description": "LockedIn is a Browser extension that hides all distractions: Shorts, homepage feed, recommendations, explore, and more. It features a miniml Popup UI with simple toggles to create your perfect, distraction-free viewing environment.",
+      "stars": 72,
+      "forks": 4,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-22T22:00:48Z",
+      "updated_at": "2026-05-23T00:20:09Z"
     }
   ]
 }
