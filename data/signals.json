@@ -8,92 +8,103 @@
   "total_found": 861,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 187208,
-      "forks": 26373,
-      "language": "Shell",
-      "pushed_at": "2026-05-24T12:52:32Z",
-      "updated_at": "2026-05-24T13:02:34Z"
-    },
-    {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 123928,
-      "forks": 13760,
+      "stars": 123933,
+      "forks": 13763,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T12:47:44Z",
-      "updated_at": "2026-05-24T13:19:47Z"
+      "pushed_at": "2026-05-24T14:12:19Z",
+      "updated_at": "2026-05-24T16:38:57Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14275,
-      "forks": 1435,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T07:51:44Z",
-      "updated_at": "2026-05-24T11:15:50Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13849,
-      "forks": 408,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 53550,
+      "forks": 3282,
       "language": "Rust",
-      "pushed_at": "2026-05-24T08:11:45Z",
-      "updated_at": "2026-05-24T13:14:26Z"
+      "pushed_at": "2026-05-24T15:49:07Z",
+      "updated_at": "2026-05-24T16:54:49Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10851,
-      "forks": 1337,
+      "stars": 10869,
+      "forks": 1338,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T09:51:37Z",
-      "updated_at": "2026-05-24T13:20:00Z"
+      "pushed_at": "2026-05-24T16:05:37Z",
+      "updated_at": "2026-05-24T16:46:58Z"
     },
     {
-      "id": 500278038,
-      "full_name": "Pool-Of-Tears/GreenStash",
-      "html_url": "https://github.com/Pool-Of-Tears/GreenStash",
-      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
-      "stars": 771,
-      "forks": 65,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7778,
+      "forks": 203,
+      "language": "C++",
+      "pushed_at": "2026-05-24T14:54:15Z",
+      "updated_at": "2026-05-24T16:36:00Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5253,
+      "forks": 623,
       "language": "Kotlin",
-      "pushed_at": "2026-05-24T08:57:03Z",
-      "updated_at": "2026-05-24T08:56:20Z"
+      "pushed_at": "2026-05-24T16:40:05Z",
+      "updated_at": "2026-05-24T16:40:10Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3228,
+      "forks": 392,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T15:55:24Z",
+      "updated_at": "2026-05-24T16:43:37Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1141,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-24T15:35:53Z",
+      "updated_at": "2026-05-24T15:35:57Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 764,
+      "stars": 765,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-24T13:18:02Z",
-      "updated_at": "2026-05-24T13:18:06Z"
+      "pushed_at": "2026-05-24T15:09:59Z",
+      "updated_at": "2026-05-24T15:10:03Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 679,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T06:56:56Z",
-      "updated_at": "2026-05-24T13:15:48Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 691,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-05-24T15:06:48Z",
+      "updated_at": "2026-05-24T15:00:18Z"
     },
     {
       "id": 88267809,
@@ -107,37 +118,15 @@
       "updated_at": "2026-05-24T13:08:08Z"
     },
     {
-      "id": 205456978,
-      "full_name": "j3soon/arxiv-utils",
-      "html_url": "https://github.com/j3soon/arxiv-utils",
-      "description": "Meaningful titles for tabs and PDF downloads! Also supports tab search.",
-      "stars": 341,
-      "forks": 28,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-24T08:05:17Z",
-      "updated_at": "2026-05-24T08:05:21Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 318,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T12:08:50Z",
-      "updated_at": "2026-05-24T12:08:54Z"
-    },
-    {
-      "id": 1081013012,
-      "full_name": "f-is-h/Usage4Claude",
-      "html_url": "https://github.com/f-is-h/Usage4Claude",
-      "description": "Monitor all your Claude/Codex usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.",
-      "stars": 288,
-      "forks": 31,
-      "language": "Swift",
-      "pushed_at": "2026-05-24T07:16:30Z",
-      "updated_at": "2026-05-24T07:17:04Z"
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 254,
+      "forks": 14,
+      "language": "Go",
+      "pushed_at": "2026-05-24T14:14:08Z",
+      "updated_at": "2026-05-24T14:14:04Z"
     },
     {
       "id": 266191907,
@@ -147,30 +136,41 @@
       "stars": 225,
       "forks": 34,
       "language": "AutoHotkey",
-      "pushed_at": "2026-05-24T12:29:45Z",
-      "updated_at": "2026-05-24T12:29:49Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 204,
-      "forks": 10,
-      "language": "Rust",
-      "pushed_at": "2026-05-24T10:52:58Z",
-      "updated_at": "2026-05-24T10:51:13Z"
+      "pushed_at": "2026-05-24T15:34:19Z",
+      "updated_at": "2026-05-24T15:34:23Z"
     },
     {
       "id": 1201098277,
       "full_name": "kunkka19xx/look",
       "html_url": "https://github.com/kunkka19xx/look",
       "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 174,
-      "forks": 14,
+      "stars": 198,
+      "forks": 16,
       "language": "Rust",
-      "pushed_at": "2026-05-24T13:13:28Z",
-      "updated_at": "2026-05-24T13:17:56Z"
+      "pushed_at": "2026-05-24T15:48:05Z",
+      "updated_at": "2026-05-24T16:47:12Z"
+    },
+    {
+      "id": 943441588,
+      "full_name": "sushaantu/boxento",
+      "html_url": "https://github.com/sushaantu/boxento",
+      "description": "Open-source customizable start page ",
+      "stars": 153,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T15:59:47Z",
+      "updated_at": "2026-05-24T15:41:39Z"
+    },
+    {
+      "id": 75981808,
+      "full_name": "ixrock/XTranslate",
+      "html_url": "https://github.com/ixrock/XTranslate",
+      "description": "Easy translate text on web pages (browser extension)",
+      "stars": 148,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T13:10:37Z",
+      "updated_at": "2026-05-24T13:07:06Z"
     }
   ]
 }
