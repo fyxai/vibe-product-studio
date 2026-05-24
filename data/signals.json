@@ -15,8 +15,19 @@
       "stars": 187208,
       "forks": 26373,
       "language": "Shell",
-      "pushed_at": "2026-05-24T07:16:14Z",
-      "updated_at": "2026-05-24T08:57:05Z"
+      "pushed_at": "2026-05-24T12:52:32Z",
+      "updated_at": "2026-05-24T13:02:34Z"
+    },
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 123928,
+      "forks": 13760,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T12:47:44Z",
+      "updated_at": "2026-05-24T13:19:47Z"
     },
     {
       "id": 916009087,
@@ -27,51 +38,29 @@
       "forks": 1435,
       "language": "TypeScript",
       "pushed_at": "2026-05-24T07:51:44Z",
-      "updated_at": "2026-05-24T07:48:47Z"
+      "updated_at": "2026-05-24T11:15:50Z"
     },
     {
       "id": 205326947,
       "full_name": "espanso/espanso",
       "html_url": "https://github.com/espanso/espanso",
       "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13847,
+      "stars": 13849,
       "forks": 408,
       "language": "Rust",
       "pushed_at": "2026-05-24T08:11:45Z",
-      "updated_at": "2026-05-24T08:11:48Z"
+      "updated_at": "2026-05-24T13:14:26Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10835,
-      "forks": 1336,
+      "stars": 10851,
+      "forks": 1337,
       "language": "TypeScript",
       "pushed_at": "2026-05-24T09:51:37Z",
-      "updated_at": "2026-05-24T09:51:39Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2228,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-24T04:56:15Z",
-      "updated_at": "2026-05-24T04:56:17Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1141,
-      "forks": 118,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-24T06:02:49Z",
-      "updated_at": "2026-05-24T09:29:48Z"
+      "updated_at": "2026-05-24T13:20:00Z"
     },
     {
       "id": 500278038,
@@ -89,22 +78,33 @@
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 763,
+      "stars": 764,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-24T09:47:58Z",
-      "updated_at": "2026-05-24T09:48:01Z"
+      "pushed_at": "2026-05-24T13:18:02Z",
+      "updated_at": "2026-05-24T13:18:06Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 678,
+      "stars": 679,
       "forks": 40,
       "language": "TypeScript",
       "pushed_at": "2026-05-24T06:56:56Z",
-      "updated_at": "2026-05-24T07:17:44Z"
+      "updated_at": "2026-05-24T13:15:48Z"
+    },
+    {
+      "id": 88267809,
+      "full_name": "wmjordan/Codist",
+      "html_url": "https://github.com/wmjordan/Codist",
+      "description": "A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.",
+      "stars": 392,
+      "forks": 34,
+      "language": "C#",
+      "pushed_at": "2026-05-24T13:08:04Z",
+      "updated_at": "2026-05-24T13:08:08Z"
     },
     {
       "id": 205456978,
@@ -118,15 +118,15 @@
       "updated_at": "2026-05-24T08:05:21Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 330,
-      "forks": 20,
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 318,
+      "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T05:23:28Z",
-      "updated_at": "2026-05-24T05:22:30Z"
+      "pushed_at": "2026-05-24T12:08:50Z",
+      "updated_at": "2026-05-24T12:08:54Z"
     },
     {
       "id": 1081013012,
@@ -140,37 +140,37 @@
       "updated_at": "2026-05-24T07:17:04Z"
     },
     {
-      "id": 1202874035,
-      "full_name": "10xChengTu/input0",
-      "html_url": "https://github.com/10xChengTu/input0",
-      "description": "Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.",
-      "stars": 253,
-      "forks": 11,
+      "id": 266191907,
+      "full_name": "iseahound/ImagePut",
+      "html_url": "https://github.com/iseahound/ImagePut",
+      "description": "A core library for images in AutoHotkey. Supports AutoHotkey v1 and v2. ",
+      "stars": 225,
+      "forks": 34,
+      "language": "AutoHotkey",
+      "pushed_at": "2026-05-24T12:29:45Z",
+      "updated_at": "2026-05-24T12:29:49Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 204,
+      "forks": 10,
       "language": "Rust",
-      "pushed_at": "2026-05-24T05:16:13Z",
-      "updated_at": "2026-05-24T05:13:48Z"
+      "pushed_at": "2026-05-24T10:52:58Z",
+      "updated_at": "2026-05-24T10:51:13Z"
     },
     {
-      "id": 932721496,
-      "full_name": "ridemountainpig/subflow",
-      "html_url": "https://github.com/ridemountainpig/subflow",
-      "description": "Easily flow through your subscriptions with Subflow. Track spending, organize recurring payments, and take control of your subscription management.",
-      "stars": 158,
-      "forks": 3,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T06:49:21Z",
-      "updated_at": "2026-05-24T06:49:18Z"
-    },
-    {
-      "id": 943441588,
-      "full_name": "sushaantu/boxento",
-      "html_url": "https://github.com/sushaantu/boxento",
-      "description": "Open-source customizable start page ",
-      "stars": 153,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T06:06:46Z",
-      "updated_at": "2026-05-24T05:16:35Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 174,
+      "forks": 14,
+      "language": "Rust",
+      "pushed_at": "2026-05-24T13:13:28Z",
+      "updated_at": "2026-05-24T13:17:56Z"
     }
   ]
 }
