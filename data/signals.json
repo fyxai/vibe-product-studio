@@ -8,59 +8,26 @@
   "total_found": 860,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19603,
-      "forks": 1708,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-23T23:26:27Z",
-      "updated_at": "2026-05-23T23:26:31Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 189408,
+      "forks": 29298,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-24T04:53:35Z",
+      "updated_at": "2026-05-24T06:57:45Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7774,
-      "forks": 203,
-      "language": "C++",
-      "pushed_at": "2026-05-24T02:15:22Z",
-      "updated_at": "2026-05-24T02:50:14Z"
-    },
-    {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5222,
-      "forks": 449,
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 13847,
+      "forks": 408,
       "language": "Rust",
-      "pushed_at": "2026-05-23T21:49:46Z",
-      "updated_at": "2026-05-23T21:49:43Z"
-    },
-    {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 4630,
-      "forks": 354,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T21:44:06Z",
-      "updated_at": "2026-05-24T02:54:27Z"
-    },
-    {
-      "id": 70306830,
-      "full_name": "hoothin/UserScripts",
-      "html_url": "https://github.com/hoothin/UserScripts",
-      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
-      "stars": 4170,
-      "forks": 581,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T23:16:39Z",
-      "updated_at": "2026-05-23T23:16:43Z"
+      "pushed_at": "2026-05-24T06:50:21Z",
+      "updated_at": "2026-05-24T06:50:24Z"
     },
     {
       "id": 324267700,
@@ -70,30 +37,19 @@
       "stars": 2228,
       "forks": 89,
       "language": "Swift",
-      "pushed_at": "2026-05-23T21:44:33Z",
-      "updated_at": "2026-05-23T21:44:34Z"
+      "pushed_at": "2026-05-24T04:56:15Z",
+      "updated_at": "2026-05-24T04:56:17Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1838,
-      "forks": 56,
-      "language": "Swift",
-      "pushed_at": "2026-05-23T23:55:07Z",
-      "updated_at": "2026-05-23T23:55:10Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1053,
-      "forks": 45,
-      "language": "Rust",
-      "pushed_at": "2026-05-24T01:09:05Z",
-      "updated_at": "2026-05-24T01:07:06Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1140,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-24T06:02:49Z",
+      "updated_at": "2026-05-24T06:02:53Z"
     },
     {
       "id": 1148683593,
@@ -103,8 +59,30 @@
       "stars": 762,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-24T02:11:50Z",
-      "updated_at": "2026-05-24T02:11:53Z"
+      "pushed_at": "2026-05-24T06:57:07Z",
+      "updated_at": "2026-05-24T06:57:11Z"
+    },
+    {
+      "id": 143586124,
+      "full_name": "pprevos/emacs-writing-studio",
+      "html_url": "https://github.com/pprevos/emacs-writing-studio",
+      "description": "Emacs configuration for authors who research, write and publish articles, books and websites.",
+      "stars": 743,
+      "forks": 53,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-05-24T04:43:54Z",
+      "updated_at": "2026-05-24T04:43:59Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 677,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T06:56:56Z",
+      "updated_at": "2026-05-24T06:56:59Z"
     },
     {
       "id": 1175591394,
@@ -114,8 +92,19 @@
       "stars": 396,
       "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-05-24T00:37:47Z",
-      "updated_at": "2026-05-24T00:37:51Z"
+      "pushed_at": "2026-05-24T04:37:45Z",
+      "updated_at": "2026-05-24T04:37:49Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 330,
+      "forks": 20,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T05:23:28Z",
+      "updated_at": "2026-05-24T05:22:30Z"
     },
     {
       "id": 476797398,
@@ -125,8 +114,30 @@
       "stars": 284,
       "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T00:40:50Z",
-      "updated_at": "2026-05-24T00:40:53Z"
+      "pushed_at": "2026-05-24T04:04:36Z",
+      "updated_at": "2026-05-24T04:04:40Z"
+    },
+    {
+      "id": 1202874035,
+      "full_name": "10xChengTu/input0",
+      "html_url": "https://github.com/10xChengTu/input0",
+      "description": "Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.",
+      "stars": 253,
+      "forks": 11,
+      "language": "Rust",
+      "pushed_at": "2026-05-24T05:16:13Z",
+      "updated_at": "2026-05-24T05:13:48Z"
+    },
+    {
+      "id": 1201537262,
+      "full_name": "FuJacob/tabby",
+      "html_url": "https://github.com/FuJacob/tabby",
+      "description": "tabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 226,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-05-24T03:57:44Z",
+      "updated_at": "2026-05-24T05:42:23Z"
     },
     {
       "id": 643614365,
@@ -140,6 +151,17 @@
       "updated_at": "2026-05-24T03:20:12Z"
     },
     {
+      "id": 932721496,
+      "full_name": "ridemountainpig/subflow",
+      "html_url": "https://github.com/ridemountainpig/subflow",
+      "description": "Easily flow through your subscriptions with Subflow. Track spending, organize recurring payments, and take control of your subscription management.",
+      "stars": 158,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T06:49:21Z",
+      "updated_at": "2026-05-24T06:49:18Z"
+    },
+    {
       "id": 943441588,
       "full_name": "sushaantu/boxento",
       "html_url": "https://github.com/sushaantu/boxento",
@@ -147,30 +169,8 @@
       "stars": 153,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T23:32:48Z",
-      "updated_at": "2026-05-23T23:32:20Z"
-    },
-    {
-      "id": 75981808,
-      "full_name": "ixrock/XTranslate",
-      "html_url": "https://github.com/ixrock/XTranslate",
-      "description": "Easy translate text on web pages (browser extension)",
-      "stars": 148,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T01:46:02Z",
-      "updated_at": "2026-05-24T01:37:58Z"
-    },
-    {
-      "id": 92109482,
-      "full_name": "kwent/aws-launcher",
-      "html_url": "https://github.com/kwent/aws-launcher",
-      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
-      "stars": 133,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T21:53:11Z",
-      "updated_at": "2026-05-23T21:53:07Z"
+      "pushed_at": "2026-05-24T06:06:46Z",
+      "updated_at": "2026-05-24T05:16:35Z"
     }
   ]
 }
