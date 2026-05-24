@@ -12,44 +12,55 @@
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19600,
+      "stars": 19603,
       "forks": 1708,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T20:27:24Z",
-      "updated_at": "2026-05-23T20:43:10Z"
+      "pushed_at": "2026-05-23T23:26:27Z",
+      "updated_at": "2026-05-23T23:26:31Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7769,
+      "stars": 7774,
       "forks": 203,
       "language": "C++",
-      "pushed_at": "2026-05-23T19:27:49Z",
-      "updated_at": "2026-05-23T19:38:08Z"
+      "pushed_at": "2026-05-24T02:15:22Z",
+      "updated_at": "2026-05-24T02:50:14Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5249,
-      "forks": 624,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-23T20:35:55Z",
-      "updated_at": "2026-05-23T20:26:31Z"
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5222,
+      "forks": 449,
+      "language": "Rust",
+      "pushed_at": "2026-05-23T21:49:46Z",
+      "updated_at": "2026-05-23T21:49:43Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3072,
-      "forks": 206,
-      "language": "Python",
-      "pushed_at": "2026-05-23T19:56:08Z",
-      "updated_at": "2026-05-23T20:34:38Z"
+      "id": 1180917769,
+      "full_name": "uditgoenka/autoresearch",
+      "html_url": "https://github.com/uditgoenka/autoresearch",
+      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+      "stars": 4630,
+      "forks": 354,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-23T21:44:06Z",
+      "updated_at": "2026-05-24T02:54:27Z"
+    },
+    {
+      "id": 70306830,
+      "full_name": "hoothin/UserScripts",
+      "html_url": "https://github.com/hoothin/UserScripts",
+      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
+      "stars": 4170,
+      "forks": 581,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-23T23:16:39Z",
+      "updated_at": "2026-05-23T23:16:43Z"
     },
     {
       "id": 324267700,
@@ -59,52 +70,30 @@
       "stars": 2228,
       "forks": 89,
       "language": "Swift",
-      "pushed_at": "2026-05-23T20:18:11Z",
-      "updated_at": "2026-05-23T20:18:13Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1853,
-      "forks": 136,
-      "language": "Dart",
-      "pushed_at": "2026-05-23T19:36:13Z",
-      "updated_at": "2026-05-23T19:36:17Z"
+      "pushed_at": "2026-05-23T21:44:33Z",
+      "updated_at": "2026-05-23T21:44:34Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1837,
+      "stars": 1838,
       "forks": 56,
       "language": "Swift",
-      "pushed_at": "2026-05-23T20:22:23Z",
-      "updated_at": "2026-05-23T20:32:29Z"
+      "pushed_at": "2026-05-23T23:55:07Z",
+      "updated_at": "2026-05-23T23:55:10Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1139,
-      "forks": 118,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-23T19:25:50Z",
-      "updated_at": "2026-05-23T19:25:54Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 868,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-23T19:33:47Z",
-      "updated_at": "2026-05-23T19:33:50Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1053,
+      "forks": 45,
+      "language": "Rust",
+      "pushed_at": "2026-05-24T01:09:05Z",
+      "updated_at": "2026-05-24T01:07:06Z"
     },
     {
       "id": 1148683593,
@@ -114,63 +103,74 @@
       "stars": 762,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-23T20:50:42Z",
-      "updated_at": "2026-05-23T20:50:46Z"
+      "pushed_at": "2026-05-24T02:11:50Z",
+      "updated_at": "2026-05-24T02:11:53Z"
     },
     {
-      "id": 266191907,
-      "full_name": "iseahound/ImagePut",
-      "html_url": "https://github.com/iseahound/ImagePut",
-      "description": "A core library for images in AutoHotkey. Supports AutoHotkey v1 and v2. ",
-      "stars": 225,
-      "forks": 34,
-      "language": "AutoHotkey",
-      "pushed_at": "2026-05-23T19:52:28Z",
-      "updated_at": "2026-05-23T19:52:32Z"
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
+      "stars": 396,
+      "forks": 64,
+      "language": "Python",
+      "pushed_at": "2026-05-24T00:37:47Z",
+      "updated_at": "2026-05-24T00:37:51Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 204,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 284,
       "forks": 10,
-      "language": "Rust",
-      "pushed_at": "2026-05-23T19:51:57Z",
-      "updated_at": "2026-05-23T19:50:15Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 172,
-      "forks": 15,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-23T20:16:24Z",
-      "updated_at": "2026-05-23T20:16:28Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 160,
-      "forks": 14,
-      "language": "Rust",
-      "pushed_at": "2026-05-23T19:10:52Z",
-      "updated_at": "2026-05-23T19:37:18Z"
-    },
-    {
-      "id": 1169354823,
-      "full_name": "daxaur/openpaw",
-      "html_url": "https://github.com/daxaur/openpaw",
-      "description": "Personal Assistant Wizard for Claude Code — npx pawmode",
-      "stars": 142,
-      "forks": 6,
       "language": "TypeScript",
-      "pushed_at": "2026-05-23T20:45:06Z",
-      "updated_at": "2026-05-23T20:43:54Z"
+      "pushed_at": "2026-05-24T00:40:50Z",
+      "updated_at": "2026-05-24T00:40:53Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 180,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-24T03:20:09Z",
+      "updated_at": "2026-05-24T03:20:12Z"
+    },
+    {
+      "id": 943441588,
+      "full_name": "sushaantu/boxento",
+      "html_url": "https://github.com/sushaantu/boxento",
+      "description": "Open-source customizable start page ",
+      "stars": 153,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-23T23:32:48Z",
+      "updated_at": "2026-05-23T23:32:20Z"
+    },
+    {
+      "id": 75981808,
+      "full_name": "ixrock/XTranslate",
+      "html_url": "https://github.com/ixrock/XTranslate",
+      "description": "Easy translate text on web pages (browser extension)",
+      "stars": 148,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T01:46:02Z",
+      "updated_at": "2026-05-24T01:37:58Z"
+    },
+    {
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 133,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-23T21:53:11Z",
+      "updated_at": "2026-05-23T21:53:07Z"
     }
   ]
 }
