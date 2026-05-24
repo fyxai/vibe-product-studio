@@ -5,18 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 860,
+  "total_found": 861,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 189408,
-      "forks": 29298,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-24T04:53:35Z",
-      "updated_at": "2026-05-24T06:57:45Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 187208,
+      "forks": 26373,
+      "language": "Shell",
+      "pushed_at": "2026-05-24T07:16:14Z",
+      "updated_at": "2026-05-24T08:57:05Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14275,
+      "forks": 1435,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T07:51:44Z",
+      "updated_at": "2026-05-24T07:48:47Z"
     },
     {
       "id": 205326947,
@@ -26,8 +37,19 @@
       "stars": 13847,
       "forks": 408,
       "language": "Rust",
-      "pushed_at": "2026-05-24T06:50:21Z",
-      "updated_at": "2026-05-24T06:50:24Z"
+      "pushed_at": "2026-05-24T08:11:45Z",
+      "updated_at": "2026-05-24T08:11:48Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 10835,
+      "forks": 1336,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T09:51:37Z",
+      "updated_at": "2026-05-24T09:51:39Z"
     },
     {
       "id": 324267700,
@@ -45,55 +67,55 @@
       "full_name": "Razeeman/Android-SimpleTimeTracker",
       "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
       "description": "Simple app that tracks time.",
-      "stars": 1140,
+      "stars": 1141,
       "forks": 118,
       "language": "Kotlin",
       "pushed_at": "2026-05-24T06:02:49Z",
-      "updated_at": "2026-05-24T06:02:53Z"
+      "updated_at": "2026-05-24T09:29:48Z"
+    },
+    {
+      "id": 500278038,
+      "full_name": "Pool-Of-Tears/GreenStash",
+      "html_url": "https://github.com/Pool-Of-Tears/GreenStash",
+      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
+      "stars": 771,
+      "forks": 65,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-24T08:57:03Z",
+      "updated_at": "2026-05-24T08:56:20Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 762,
+      "stars": 763,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-24T06:57:07Z",
-      "updated_at": "2026-05-24T06:57:11Z"
-    },
-    {
-      "id": 143586124,
-      "full_name": "pprevos/emacs-writing-studio",
-      "html_url": "https://github.com/pprevos/emacs-writing-studio",
-      "description": "Emacs configuration for authors who research, write and publish articles, books and websites.",
-      "stars": 743,
-      "forks": 53,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-05-24T04:43:54Z",
-      "updated_at": "2026-05-24T04:43:59Z"
+      "pushed_at": "2026-05-24T09:47:58Z",
+      "updated_at": "2026-05-24T09:48:01Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 677,
+      "stars": 678,
       "forks": 40,
       "language": "TypeScript",
       "pushed_at": "2026-05-24T06:56:56Z",
-      "updated_at": "2026-05-24T06:56:59Z"
+      "updated_at": "2026-05-24T07:17:44Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
-      "stars": 396,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-05-24T04:37:45Z",
-      "updated_at": "2026-05-24T04:37:49Z"
+      "id": 205456978,
+      "full_name": "j3soon/arxiv-utils",
+      "html_url": "https://github.com/j3soon/arxiv-utils",
+      "description": "Meaningful titles for tabs and PDF downloads! Also supports tab search.",
+      "stars": 341,
+      "forks": 28,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-24T08:05:17Z",
+      "updated_at": "2026-05-24T08:05:21Z"
     },
     {
       "id": 1196349223,
@@ -107,15 +129,15 @@
       "updated_at": "2026-05-24T05:22:30Z"
     },
     {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
-      "stars": 284,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T04:04:36Z",
-      "updated_at": "2026-05-24T04:04:40Z"
+      "id": 1081013012,
+      "full_name": "f-is-h/Usage4Claude",
+      "html_url": "https://github.com/f-is-h/Usage4Claude",
+      "description": "Monitor all your Claude/Codex usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.",
+      "stars": 288,
+      "forks": 31,
+      "language": "Swift",
+      "pushed_at": "2026-05-24T07:16:30Z",
+      "updated_at": "2026-05-24T07:17:04Z"
     },
     {
       "id": 1202874035,
@@ -127,28 +149,6 @@
       "language": "Rust",
       "pushed_at": "2026-05-24T05:16:13Z",
       "updated_at": "2026-05-24T05:13:48Z"
-    },
-    {
-      "id": 1201537262,
-      "full_name": "FuJacob/tabby",
-      "html_url": "https://github.com/FuJacob/tabby",
-      "description": "tabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 226,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-05-24T03:57:44Z",
-      "updated_at": "2026-05-24T05:42:23Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 180,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-24T03:20:09Z",
-      "updated_at": "2026-05-24T03:20:12Z"
     },
     {
       "id": 932721496,
