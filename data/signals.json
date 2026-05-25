@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 865,
+  "total_found": 867,
   "items": [
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 53914,
-      "forks": 3305,
-      "language": "Rust",
-      "pushed_at": "2026-05-25T13:40:23Z",
-      "updated_at": "2026-05-25T14:51:14Z"
-    },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43610,
+      "stars": 43612,
       "forks": 2733,
       "language": "C#",
-      "pushed_at": "2026-05-25T14:46:59Z",
-      "updated_at": "2026-05-25T14:46:48Z"
+      "pushed_at": "2026-05-25T16:14:37Z",
+      "updated_at": "2026-05-25T17:36:21Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24211,
+      "forks": 2284,
+      "language": "Python",
+      "pushed_at": "2026-05-25T17:26:43Z",
+      "updated_at": "2026-05-25T16:47:10Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 14295,
-      "forks": 1436,
+      "stars": 14297,
+      "forks": 1437,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T14:35:42Z",
-      "updated_at": "2026-05-25T14:13:55Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14077,
-      "forks": 949,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-25T14:42:03Z",
-      "updated_at": "2026-05-25T14:42:08Z"
+      "pushed_at": "2026-05-25T17:19:08Z",
+      "updated_at": "2026-05-25T17:24:39Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10925,
-      "forks": 1343,
+      "stars": 10926,
+      "forks": 1345,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T14:15:31Z",
-      "updated_at": "2026-05-25T14:41:49Z"
+      "pushed_at": "2026-05-25T17:02:04Z",
+      "updated_at": "2026-05-25T17:24:13Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5256,
+      "forks": 624,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-25T16:27:54Z",
+      "updated_at": "2026-05-25T16:28:00Z"
     },
     {
       "id": 187916430,
@@ -70,52 +70,52 @@
       "stars": 4317,
       "forks": 288,
       "language": "Go",
-      "pushed_at": "2026-05-25T14:32:24Z",
-      "updated_at": "2026-05-25T14:31:28Z"
+      "pushed_at": "2026-05-25T15:42:40Z",
+      "updated_at": "2026-05-25T15:42:44Z"
     },
     {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 939,
-      "forks": 215,
-      "language": "Scala",
-      "pushed_at": "2026-05-25T14:46:57Z",
-      "updated_at": "2026-05-25T14:44:29Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 870,
-      "forks": 50,
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3229,
+      "forks": 393,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T14:11:05Z",
-      "updated_at": "2026-05-25T14:11:09Z"
+      "pushed_at": "2026-05-25T16:04:51Z",
+      "updated_at": "2026-05-25T16:15:47Z"
     },
     {
-      "id": 1190424251,
-      "full_name": "marswaveai/TypeNo",
-      "html_url": "https://github.com/marswaveai/TypeNo",
-      "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 869,
-      "forks": 70,
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2229,
+      "forks": 89,
       "language": "Swift",
-      "pushed_at": "2026-05-25T13:42:09Z",
-      "updated_at": "2026-05-25T13:40:58Z"
+      "pushed_at": "2026-05-25T15:33:40Z",
+      "updated_at": "2026-05-25T15:33:44Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 766,
-      "forks": 25,
+      "stars": 768,
+      "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-25T14:26:04Z",
-      "updated_at": "2026-05-25T14:25:28Z"
+      "pushed_at": "2026-05-25T17:25:59Z",
+      "updated_at": "2026-05-25T17:25:28Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 696,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-25T17:32:21Z",
+      "updated_at": "2026-05-25T17:36:01Z"
     },
     {
       "id": 1193364497,
@@ -125,41 +125,41 @@
       "stars": 530,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T14:19:03Z",
-      "updated_at": "2026-05-25T14:19:05Z"
+      "pushed_at": "2026-05-25T16:39:07Z",
+      "updated_at": "2026-05-25T16:39:09Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
-      "stars": 398,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-05-25T13:45:23Z",
-      "updated_at": "2026-05-25T13:45:29Z"
-    },
-    {
-      "id": 993178051,
-      "full_name": "Deyweaver/DeyWeaver",
-      "html_url": "https://github.com/Deyweaver/DeyWeaver",
-      "description": "AI-powered task planner to structure your day with smart scheduling.",
-      "stars": 335,
-      "forks": 31,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 285,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T14:44:35Z",
-      "updated_at": "2026-05-25T14:43:11Z"
+      "pushed_at": "2026-05-25T15:48:37Z",
+      "updated_at": "2026-05-25T15:48:41Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 255,
+      "stars": 278,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-05-25T14:34:52Z",
-      "updated_at": "2026-05-25T14:29:22Z"
+      "pushed_at": "2026-05-25T17:17:04Z",
+      "updated_at": "2026-05-25T17:35:29Z"
+    },
+    {
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 277,
+      "forks": 18,
+      "language": "Swift",
+      "pushed_at": "2026-05-25T17:35:27Z",
+      "updated_at": "2026-05-25T17:35:14Z"
     },
     {
       "id": 1147139359,
@@ -169,8 +169,8 @@
       "stars": 254,
       "forks": 14,
       "language": "Go",
-      "pushed_at": "2026-05-25T14:33:08Z",
-      "updated_at": "2026-05-25T14:33:02Z"
+      "pushed_at": "2026-05-25T15:11:03Z",
+      "updated_at": "2026-05-25T15:10:58Z"
     }
   ]
 }
