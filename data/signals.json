@@ -8,125 +8,59 @@
   "total_found": 867,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 192204,
-      "forks": 29755,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-25T18:28:39Z",
-      "updated_at": "2026-05-25T21:04:51Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 53985,
-      "forks": 3309,
-      "language": "Rust",
-      "pushed_at": "2026-05-25T20:21:20Z",
-      "updated_at": "2026-05-25T21:03:33Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37692,
-      "forks": 3761,
-      "language": "C#",
-      "pushed_at": "2026-05-25T18:49:25Z",
-      "updated_at": "2026-05-25T20:52:59Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14310,
-      "forks": 1437,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-25T20:45:47Z",
-      "updated_at": "2026-05-25T20:51:46Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 10933,
-      "forks": 1345,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-25T20:37:43Z",
-      "updated_at": "2026-05-25T20:59:42Z"
-    },
-    {
-      "id": 592882602,
-      "full_name": "MrKai77/Loop",
-      "html_url": "https://github.com/MrKai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 10791,
-      "forks": 238,
-      "language": "Swift",
-      "pushed_at": "2026-05-25T20:55:57Z",
-      "updated_at": "2026-05-25T20:37:05Z"
-    },
-    {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7782,
+      "stars": 7784,
       "forks": 204,
       "language": "C++",
-      "pushed_at": "2026-05-25T20:48:11Z",
-      "updated_at": "2026-05-25T20:48:12Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5255,
-      "forks": 624,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-25T18:50:25Z",
-      "updated_at": "2026-05-25T19:51:38Z"
+      "pushed_at": "2026-05-26T02:28:17Z",
+      "updated_at": "2026-05-26T00:16:47Z"
     },
     {
       "id": 1114821770,
       "full_name": "DaKheera47/job-ops",
       "html_url": "https://github.com/DaKheera47/job-ops",
       "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3230,
+      "stars": 3238,
       "forks": 395,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T18:39:39Z",
-      "updated_at": "2026-05-25T19:41:36Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3084,
-      "forks": 206,
-      "language": "Python",
-      "pushed_at": "2026-05-25T20:57:02Z",
-      "updated_at": "2026-05-25T20:57:05Z"
+      "pushed_at": "2026-05-26T00:21:47Z",
+      "updated_at": "2026-05-26T02:43:24Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2525,
+      "stars": 2526,
       "forks": 294,
       "language": "Go",
-      "pushed_at": "2026-05-25T20:23:55Z",
-      "updated_at": "2026-05-25T20:59:38Z"
+      "pushed_at": "2026-05-26T00:40:28Z",
+      "updated_at": "2026-05-26T00:02:32Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1327,
+      "forks": 69,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-26T00:46:13Z",
+      "updated_at": "2026-05-26T02:44:49Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+      "stars": 1230,
+      "forks": 74,
+      "language": "Rust",
+      "pushed_at": "2026-05-26T03:25:57Z",
+      "updated_at": "2026-05-26T03:26:01Z"
     },
     {
       "id": 1111978380,
@@ -136,8 +70,8 @@
       "stars": 871,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-25T20:58:24Z",
-      "updated_at": "2026-05-25T20:58:27Z"
+      "pushed_at": "2026-05-26T00:49:03Z",
+      "updated_at": "2026-05-26T00:06:12Z"
     },
     {
       "id": 1148683593,
@@ -147,30 +81,96 @@
       "stars": 768,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-25T19:46:35Z",
-      "updated_at": "2026-05-25T19:45:59Z"
+      "pushed_at": "2026-05-26T03:23:13Z",
+      "updated_at": "2026-05-26T03:21:59Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 701,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-26T02:59:02Z",
+      "updated_at": "2026-05-26T02:59:05Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Entroly compresses AI context, detects hallucinations, and saves up to 80% on OpenAI, Anthropic, and Gemini API bills. Works locally with Cursor, Claude Code, Codex, GPT & custom providers.",
+      "stars": 398,
+      "forks": 65,
+      "language": "Python",
+      "pushed_at": "2026-05-26T02:47:01Z",
+      "updated_at": "2026-05-26T03:15:40Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 301,
+      "stars": 319,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-05-25T20:56:42Z",
-      "updated_at": "2026-05-25T20:56:46Z"
+      "pushed_at": "2026-05-26T00:34:58Z",
+      "updated_at": "2026-05-26T03:08:48Z"
     },
     {
-      "id": 438792454,
-      "full_name": "eltos/PasteIntoFile",
-      "html_url": "https://github.com/eltos/PasteIntoFile",
-      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
-      "stars": 190,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 285,
+      "forks": 10,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-25T23:08:48Z",
+      "updated_at": "2026-05-25T23:08:52Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 248,
+      "forks": 17,
+      "language": "Rust",
+      "pushed_at": "2026-05-26T03:02:40Z",
+      "updated_at": "2026-05-26T02:59:42Z"
+    },
+    {
+      "id": 882045764,
+      "full_name": "LGUG2Z/awesome-komorebi",
+      "html_url": "https://github.com/LGUG2Z/awesome-komorebi",
+      "description": "A curated list of awesome projects in the Komorebi ecosystem 🍉",
+      "stars": 242,
+      "forks": 8,
+      "language": "Unknown",
+      "pushed_at": "2026-05-26T00:38:14Z",
+      "updated_at": "2026-05-26T00:38:19Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 208,
       "forks": 11,
-      "language": "C#",
-      "pushed_at": "2026-05-25T19:24:03Z",
-      "updated_at": "2026-05-25T19:18:41Z"
+      "language": "Rust",
+      "pushed_at": "2026-05-26T01:53:56Z",
+      "updated_at": "2026-05-26T01:53:45Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant for daily work, inspired by Jarvis 🌎",
+      "stars": 194,
+      "forks": 27,
+      "language": "Python",
+      "pushed_at": "2026-05-26T01:52:50Z",
+      "updated_at": "2026-05-26T00:57:42Z"
     }
   ]
 }
