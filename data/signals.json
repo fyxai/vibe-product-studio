@@ -5,73 +5,128 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 871,
+  "total_found": 872,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43642,
-      "forks": 2736,
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 187405,
+      "forks": 26367,
+      "language": "Shell",
+      "pushed_at": "2026-05-28T18:23:45Z",
+      "updated_at": "2026-05-28T18:23:53Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37793,
+      "forks": 3773,
       "language": "C#",
-      "pushed_at": "2026-05-28T14:46:48Z",
-      "updated_at": "2026-05-28T15:42:26Z"
+      "pushed_at": "2026-05-28T17:12:04Z",
+      "updated_at": "2026-05-28T18:19:55Z"
     },
     {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21601,
-      "forks": 805,
-      "language": "C",
-      "pushed_at": "2026-05-28T14:04:02Z",
-      "updated_at": "2026-05-28T14:05:21Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24220,
+      "forks": 2286,
+      "language": "Python",
+      "pushed_at": "2026-05-28T17:59:26Z",
+      "updated_at": "2026-05-28T18:00:04Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19706,
-      "forks": 1716,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T15:09:57Z",
-      "updated_at": "2026-05-28T15:49:22Z"
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18272,
+      "forks": 1477,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-28T18:28:47Z",
+      "updated_at": "2026-05-28T18:28:54Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 14672,
+      "stars": 14683,
       "forks": 1493,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T15:51:01Z",
-      "updated_at": "2026-05-28T15:34:31Z"
+      "pushed_at": "2026-05-28T18:27:43Z",
+      "updated_at": "2026-05-28T18:16:01Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11033,
+      "forks": 1357,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-28T18:34:38Z",
+      "updated_at": "2026-05-28T18:02:45Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7821,
+      "stars": 7826,
       "forks": 206,
       "language": "C++",
-      "pushed_at": "2026-05-28T15:40:45Z",
-      "updated_at": "2026-05-28T15:45:16Z"
+      "pushed_at": "2026-05-28T17:36:59Z",
+      "updated_at": "2026-05-28T17:53:19Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1888,
-      "forks": 186,
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 4945,
+      "forks": 284,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-28T17:40:17Z",
+      "updated_at": "2026-05-28T17:40:53Z"
+    },
+    {
+      "id": 1079906817,
+      "full_name": "deta/surf",
+      "html_url": "https://github.com/deta/surf",
+      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+      "stars": 3425,
+      "forks": 251,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-28T16:54:31Z",
+      "updated_at": "2026-05-28T16:50:03Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3102,
+      "forks": 207,
+      "language": "Python",
+      "pushed_at": "2026-05-28T16:24:50Z",
+      "updated_at": "2026-05-28T18:22:46Z"
+    },
+    {
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 2031,
+      "forks": 211,
       "language": "JavaScript",
-      "pushed_at": "2026-05-28T14:44:31Z",
-      "updated_at": "2026-05-28T14:45:50Z"
+      "pushed_at": "2026-05-28T16:13:33Z",
+      "updated_at": "2026-05-28T16:13:40Z"
     },
     {
       "id": 257400448,
@@ -81,30 +136,8 @@
       "stars": 1833,
       "forks": 125,
       "language": "Go",
-      "pushed_at": "2026-05-28T15:24:14Z",
-      "updated_at": "2026-05-28T15:23:31Z"
-    },
-    {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 939,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-05-28T15:07:40Z",
-      "updated_at": "2026-05-28T15:04:36Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 879,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T15:35:59Z",
-      "updated_at": "2026-05-28T15:36:18Z"
+      "pushed_at": "2026-05-28T17:43:43Z",
+      "updated_at": "2026-05-28T17:40:21Z"
     },
     {
       "id": 1148683593,
@@ -114,63 +147,30 @@
       "stars": 798,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-28T15:43:08Z",
-      "updated_at": "2026-05-28T15:43:14Z"
+      "pushed_at": "2026-05-28T18:34:39Z",
+      "updated_at": "2026-05-28T18:34:44Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 545,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T13:25:47Z",
-      "updated_at": "2026-05-28T15:02:59Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 752,
+      "forks": 76,
+      "language": "Python",
+      "pushed_at": "2026-05-28T17:20:05Z",
+      "updated_at": "2026-05-28T17:20:09Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 348,
-      "forks": 34,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-28T13:58:11Z",
-      "updated_at": "2026-05-28T14:06:54Z"
-    },
-    {
-      "id": 1202874035,
-      "full_name": "10xChengTu/input0",
-      "html_url": "https://github.com/10xChengTu/input0",
-      "description": "Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.",
-      "stars": 259,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-05-28T15:43:40Z",
-      "updated_at": "2026-05-28T15:40:38Z"
-    },
-    {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 254,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-05-28T14:21:14Z",
-      "updated_at": "2026-05-28T14:22:09Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 224,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-05-28T15:10:07Z",
-      "updated_at": "2026-05-28T15:14:01Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 692,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-05-28T17:56:38Z",
+      "updated_at": "2026-05-28T17:56:42Z"
     }
   ]
 }
