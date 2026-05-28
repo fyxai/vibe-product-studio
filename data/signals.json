@@ -8,103 +8,81 @@
   "total_found": 871,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 196704,
-      "forks": 30257,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-28T11:32:52Z",
-      "updated_at": "2026-05-28T11:37:28Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43642,
+      "forks": 2736,
+      "language": "C#",
+      "pushed_at": "2026-05-28T14:46:48Z",
+      "updated_at": "2026-05-28T15:42:26Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 38618,
-      "forks": 884,
-      "language": "Rust",
-      "pushed_at": "2026-05-28T10:21:19Z",
-      "updated_at": "2026-05-28T11:34:46Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25274,
-      "forks": 1848,
-      "language": "Vue",
-      "pushed_at": "2026-05-28T11:38:40Z",
-      "updated_at": "2026-05-28T11:38:44Z"
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21601,
+      "forks": 805,
+      "language": "C",
+      "pushed_at": "2026-05-28T14:04:02Z",
+      "updated_at": "2026-05-28T14:05:21Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19699,
+      "stars": 19706,
       "forks": 1716,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T11:24:35Z",
-      "updated_at": "2026-05-28T11:36:13Z"
+      "pushed_at": "2026-05-28T15:09:57Z",
+      "updated_at": "2026-05-28T15:49:22Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 14661,
+      "stars": 14672,
       "forks": 1493,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T10:29:17Z",
-      "updated_at": "2026-05-28T11:25:10Z"
+      "pushed_at": "2026-05-28T15:51:01Z",
+      "updated_at": "2026-05-28T15:34:31Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5667,
-      "forks": 743,
-      "language": "Swift",
-      "pushed_at": "2026-05-28T11:36:45Z",
-      "updated_at": "2026-05-28T11:00:45Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
-      "stars": 3248,
-      "forks": 1013,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7821,
+      "forks": 206,
       "language": "C++",
-      "pushed_at": "2026-05-28T09:55:25Z",
-      "updated_at": "2026-05-28T09:14:28Z"
+      "pushed_at": "2026-05-28T15:40:45Z",
+      "updated_at": "2026-05-28T15:45:16Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2550,
-      "forks": 295,
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1888,
+      "forks": 186,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-28T14:44:31Z",
+      "updated_at": "2026-05-28T14:45:50Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1833,
+      "forks": 125,
       "language": "Go",
-      "pushed_at": "2026-05-28T11:15:47Z",
-      "updated_at": "2026-05-28T11:26:43Z"
-    },
-    {
-      "id": 1060712801,
-      "full_name": "surajverma/homehub",
-      "html_url": "https://github.com/surajverma/homehub",
-      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
-      "stars": 1180,
-      "forks": 69,
-      "language": "HTML",
-      "pushed_at": "2026-05-28T09:34:38Z",
-      "updated_at": "2026-05-28T09:41:49Z"
+      "pushed_at": "2026-05-28T15:24:14Z",
+      "updated_at": "2026-05-28T15:23:31Z"
     },
     {
       "id": 110334159,
@@ -114,19 +92,8 @@
       "stars": 939,
       "forks": 216,
       "language": "Scala",
-      "pushed_at": "2026-05-28T10:28:49Z",
-      "updated_at": "2026-05-28T10:26:19Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Professional skills for Claude AI — 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Professional.",
-      "stars": 906,
-      "forks": 165,
-      "language": "Shell",
-      "pushed_at": "2026-05-28T08:02:55Z",
-      "updated_at": "2026-05-28T10:41:17Z"
+      "pushed_at": "2026-05-28T15:07:40Z",
+      "updated_at": "2026-05-28T15:04:36Z"
     },
     {
       "id": 1111978380,
@@ -134,10 +101,10 @@
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
       "stars": 879,
-      "forks": 50,
+      "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T08:08:37Z",
-      "updated_at": "2026-05-28T10:27:39Z"
+      "pushed_at": "2026-05-28T15:35:59Z",
+      "updated_at": "2026-05-28T15:36:18Z"
     },
     {
       "id": 1148683593,
@@ -147,30 +114,63 @@
       "stars": 798,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-28T11:39:37Z",
-      "updated_at": "2026-05-28T11:39:41Z"
+      "pushed_at": "2026-05-28T15:43:08Z",
+      "updated_at": "2026-05-28T15:43:14Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 712,
-      "forks": 43,
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
+      "stars": 545,
+      "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T10:40:43Z",
-      "updated_at": "2026-05-28T10:40:45Z"
+      "pushed_at": "2026-05-28T13:25:47Z",
+      "updated_at": "2026-05-28T15:02:59Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 492,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-05-28T11:37:08Z",
-      "updated_at": "2026-05-28T11:33:51Z"
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 348,
+      "forks": 34,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-28T13:58:11Z",
+      "updated_at": "2026-05-28T14:06:54Z"
+    },
+    {
+      "id": 1202874035,
+      "full_name": "10xChengTu/input0",
+      "html_url": "https://github.com/10xChengTu/input0",
+      "description": "Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.",
+      "stars": 259,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-05-28T15:43:40Z",
+      "updated_at": "2026-05-28T15:40:38Z"
+    },
+    {
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 254,
+      "forks": 14,
+      "language": "Go",
+      "pushed_at": "2026-05-28T14:21:14Z",
+      "updated_at": "2026-05-28T14:22:09Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 224,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-05-28T15:10:07Z",
+      "updated_at": "2026-05-28T15:14:01Z"
     }
   ]
 }
