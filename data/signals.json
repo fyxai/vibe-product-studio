@@ -5,29 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 870,
+  "total_found": 871,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 55444,
-      "forks": 3395,
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 196704,
+      "forks": 30257,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-28T11:32:52Z",
+      "updated_at": "2026-05-28T11:37:28Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 38618,
+      "forks": 884,
       "language": "Rust",
-      "pushed_at": "2026-05-28T07:06:33Z",
-      "updated_at": "2026-05-28T07:55:29Z"
+      "pushed_at": "2026-05-28T10:21:19Z",
+      "updated_at": "2026-05-28T11:34:46Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25274,
+      "forks": 1848,
+      "language": "Vue",
+      "pushed_at": "2026-05-28T11:38:40Z",
+      "updated_at": "2026-05-28T11:38:44Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19699,
+      "forks": 1716,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-28T11:24:35Z",
+      "updated_at": "2026-05-28T11:36:13Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 14652,
-      "forks": 1489,
+      "stars": 14661,
+      "forks": 1493,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T07:22:15Z",
-      "updated_at": "2026-05-28T07:46:53Z"
+      "pushed_at": "2026-05-28T10:29:17Z",
+      "updated_at": "2026-05-28T11:25:10Z"
     },
     {
       "id": 129699403,
@@ -37,52 +70,85 @@
       "stars": 5667,
       "forks": 743,
       "language": "Swift",
-      "pushed_at": "2026-05-28T07:54:05Z",
-      "updated_at": "2026-05-28T07:06:45Z"
+      "pushed_at": "2026-05-28T11:36:45Z",
+      "updated_at": "2026-05-28T11:00:45Z"
     },
     {
       "id": 300155217,
       "full_name": "CollaboraOnline/online",
       "html_url": "https://github.com/CollaboraOnline/online",
       "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
-      "stars": 3250,
+      "stars": 3248,
       "forks": 1013,
       "language": "C++",
-      "pushed_at": "2026-05-28T07:38:04Z",
-      "updated_at": "2026-05-28T07:39:14Z"
+      "pushed_at": "2026-05-28T09:55:25Z",
+      "updated_at": "2026-05-28T09:14:28Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3098,
-      "forks": 207,
-      "language": "Python",
-      "pushed_at": "2026-05-28T06:19:08Z",
-      "updated_at": "2026-05-28T07:05:23Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2550,
+      "forks": 295,
+      "language": "Go",
+      "pushed_at": "2026-05-28T11:15:47Z",
+      "updated_at": "2026-05-28T11:26:43Z"
     },
     {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1867,
-      "forks": 150,
-      "language": "Dart",
-      "pushed_at": "2026-05-28T06:47:54Z",
-      "updated_at": "2026-05-28T07:23:53Z"
+      "id": 1060712801,
+      "full_name": "surajverma/homehub",
+      "html_url": "https://github.com/surajverma/homehub",
+      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
+      "stars": 1180,
+      "forks": 69,
+      "language": "HTML",
+      "pushed_at": "2026-05-28T09:34:38Z",
+      "updated_at": "2026-05-28T09:41:49Z"
+    },
+    {
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 939,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-05-28T10:28:49Z",
+      "updated_at": "2026-05-28T10:26:19Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "Professional skills for Claude AI — 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Professional.",
+      "stars": 906,
+      "forks": 165,
+      "language": "Shell",
+      "pushed_at": "2026-05-28T08:02:55Z",
+      "updated_at": "2026-05-28T10:41:17Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 879,
+      "forks": 50,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-28T08:08:37Z",
+      "updated_at": "2026-05-28T10:27:39Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 795,
+      "stars": 798,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-28T07:49:51Z",
-      "updated_at": "2026-05-28T07:49:55Z"
+      "pushed_at": "2026-05-28T11:39:37Z",
+      "updated_at": "2026-05-28T11:39:41Z"
     },
     {
       "id": 1125258937,
@@ -92,85 +158,19 @@
       "stars": 712,
       "forks": 43,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T07:42:18Z",
-      "updated_at": "2026-05-28T07:42:20Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 534,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T07:47:18Z",
-      "updated_at": "2026-05-28T07:53:42Z"
+      "pushed_at": "2026-05-28T10:40:43Z",
+      "updated_at": "2026-05-28T10:40:45Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 485,
+      "stars": 492,
       "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-05-28T05:49:42Z",
-      "updated_at": "2026-05-28T07:43:35Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 479,
-      "forks": 59,
-      "language": "Swift",
-      "pushed_at": "2026-05-28T07:18:09Z",
-      "updated_at": "2026-05-28T07:18:10Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
-      "stars": 402,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-05-28T07:34:30Z",
-      "updated_at": "2026-05-28T07:34:34Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 341,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T05:54:39Z",
-      "updated_at": "2026-05-28T07:31:43Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 260,
-      "forks": 18,
-      "language": "Rust",
-      "pushed_at": "2026-05-28T07:45:13Z",
-      "updated_at": "2026-05-28T07:32:34Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 196,
-      "forks": 52,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-28T04:55:23Z",
-      "updated_at": "2026-05-28T06:51:17Z"
+      "pushed_at": "2026-05-28T11:37:08Z",
+      "updated_at": "2026-05-28T11:33:51Z"
     }
   ]
 }
