@@ -8,81 +8,59 @@
   "total_found": 872,
   "items": [
     {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43649,
+      "forks": 2735,
+      "language": "C#",
+      "pushed_at": "2026-05-28T23:22:26Z",
+      "updated_at": "2026-05-29T02:48:59Z"
+    },
+    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37795,
+      "stars": 37798,
       "forks": 3773,
       "language": "C#",
-      "pushed_at": "2026-05-28T21:44:14Z",
-      "updated_at": "2026-05-28T21:44:24Z"
+      "pushed_at": "2026-05-28T22:15:37Z",
+      "updated_at": "2026-05-29T01:36:46Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24220,
-      "forks": 2286,
+      "stars": 24219,
+      "forks": 2285,
       "language": "Python",
-      "pushed_at": "2026-05-28T19:14:49Z",
-      "updated_at": "2026-05-28T20:19:18Z"
+      "pushed_at": "2026-05-29T01:07:47Z",
+      "updated_at": "2026-05-29T02:16:15Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11034,
-      "forks": 1358,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T18:53:34Z",
-      "updated_at": "2026-05-28T20:47:05Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7828,
-      "forks": 206,
-      "language": "C++",
-      "pushed_at": "2026-05-28T20:23:35Z",
-      "updated_at": "2026-05-28T21:42:34Z"
-    },
-    {
-      "id": 3868463,
-      "full_name": "jrnl-org/jrnl",
-      "html_url": "https://github.com/jrnl-org/jrnl",
-      "description": "Collect your thoughts and notes without leaving the command line.",
-      "stars": 7241,
-      "forks": 551,
-      "language": "Python",
-      "pushed_at": "2026-05-28T19:49:54Z",
-      "updated_at": "2026-05-28T21:33:28Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4529,
-      "forks": 275,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-28T19:41:16Z",
-      "updated_at": "2026-05-28T19:41:20Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3196,
+      "forks": 151,
+      "language": "Gherkin",
+      "pushed_at": "2026-05-29T02:10:51Z",
+      "updated_at": "2026-05-29T02:10:54Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3102,
+      "stars": 3103,
       "forks": 207,
       "language": "Python",
-      "pushed_at": "2026-05-28T21:34:06Z",
-      "updated_at": "2026-05-28T20:00:14Z"
+      "pushed_at": "2026-05-29T03:25:07Z",
+      "updated_at": "2026-05-29T01:54:03Z"
     },
     {
       "id": 1101924225,
@@ -92,19 +70,19 @@
       "stars": 1890,
       "forks": 186,
       "language": "JavaScript",
-      "pushed_at": "2026-05-28T21:50:35Z",
-      "updated_at": "2026-05-28T21:50:39Z"
+      "pushed_at": "2026-05-28T22:52:43Z",
+      "updated_at": "2026-05-28T22:52:46Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1874,
-      "forks": 58,
-      "language": "Swift",
-      "pushed_at": "2026-05-28T18:46:02Z",
-      "updated_at": "2026-05-28T20:12:11Z"
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1351,
+      "forks": 71,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-29T01:11:29Z",
+      "updated_at": "2026-05-29T03:14:00Z"
     },
     {
       "id": 1111978380,
@@ -114,63 +92,85 @@
       "stars": 880,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-28T21:06:56Z",
-      "updated_at": "2026-05-28T21:07:00Z"
+      "pushed_at": "2026-05-29T03:26:20Z",
+      "updated_at": "2026-05-29T03:25:16Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 798,
+      "stars": 800,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-28T21:47:21Z",
-      "updated_at": "2026-05-28T21:47:47Z"
+      "pushed_at": "2026-05-29T03:11:01Z",
+      "updated_at": "2026-05-29T03:11:06Z"
     },
     {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 688,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-05-28T20:04:52Z",
-      "updated_at": "2026-05-28T20:04:57Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 604,
-      "forks": 108,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-28T19:58:48Z",
-      "updated_at": "2026-05-28T21:40:54Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 714,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T03:17:44Z",
+      "updated_at": "2026-05-29T03:16:14Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 517,
+      "stars": 530,
       "forks": 19,
       "language": "Swift",
-      "pushed_at": "2026-05-28T19:04:39Z",
-      "updated_at": "2026-05-28T21:14:25Z"
+      "pushed_at": "2026-05-29T01:39:16Z",
+      "updated_at": "2026-05-29T02:42:35Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 434,
-      "forks": 73,
-      "language": "Go",
-      "pushed_at": "2026-05-28T21:11:13Z",
-      "updated_at": "2026-05-28T21:05:38Z"
+      "id": 511356686,
+      "full_name": "ConvoyPanel/panel",
+      "html_url": "https://github.com/ConvoyPanel/panel",
+      "description": "A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per node per month for commercial use, and completely free for personal and non-profit endeavors.",
+      "stars": 499,
+      "forks": 88,
+      "language": "PHP",
+      "pushed_at": "2026-05-29T03:27:49Z",
+      "updated_at": "2026-05-29T02:02:47Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 480,
+      "forks": 59,
+      "language": "Swift",
+      "pushed_at": "2026-05-29T02:19:13Z",
+      "updated_at": "2026-05-29T02:19:00Z"
+    },
+    {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 452,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-05-29T02:20:48Z",
+      "updated_at": "2026-05-29T02:14:25Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 224,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-05-29T03:28:41Z",
+      "updated_at": "2026-05-29T03:28:45Z"
     }
   ]
 }
