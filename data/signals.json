@@ -12,44 +12,66 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 56021,
-      "forks": 3432,
+      "stars": 56098,
+      "forks": 3439,
       "language": "Rust",
-      "pushed_at": "2026-05-29T11:22:10Z",
-      "updated_at": "2026-05-29T11:24:08Z"
+      "pushed_at": "2026-05-29T15:00:21Z",
+      "updated_at": "2026-05-29T15:25:20Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25284,
-      "forks": 1851,
-      "language": "Vue",
-      "pushed_at": "2026-05-29T10:07:46Z",
-      "updated_at": "2026-05-29T11:16:50Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43647,
+      "forks": 2735,
+      "language": "C#",
+      "pushed_at": "2026-05-29T14:40:47Z",
+      "updated_at": "2026-05-29T15:03:34Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7835,
-      "forks": 205,
-      "language": "C++",
-      "pushed_at": "2026-05-29T11:08:17Z",
-      "updated_at": "2026-05-29T11:25:52Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37812,
+      "forks": 3773,
+      "language": "C#",
+      "pushed_at": "2026-05-29T13:42:27Z",
+      "updated_at": "2026-05-29T14:51:07Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24220,
+      "forks": 2285,
+      "language": "Python",
+      "pushed_at": "2026-05-29T14:16:45Z",
+      "updated_at": "2026-05-29T14:18:02Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5668,
+      "stars": 5669,
       "forks": 743,
       "language": "Swift",
-      "pushed_at": "2026-05-29T11:24:58Z",
-      "updated_at": "2026-05-29T10:49:08Z"
+      "pushed_at": "2026-05-29T15:14:56Z",
+      "updated_at": "2026-05-29T14:06:20Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5261,
+      "forks": 625,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-29T13:36:30Z",
+      "updated_at": "2026-05-29T13:36:37Z"
     },
     {
       "id": 1109341946,
@@ -59,19 +81,30 @@
       "stars": 2561,
       "forks": 297,
       "language": "Go",
-      "pushed_at": "2026-05-29T10:23:52Z",
-      "updated_at": "2026-05-29T09:42:38Z"
+      "pushed_at": "2026-05-29T14:50:28Z",
+      "updated_at": "2026-05-29T15:21:34Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1891,
-      "forks": 186,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T09:30:25Z",
-      "updated_at": "2026-05-29T09:30:57Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1856,
+      "forks": 137,
+      "language": "Dart",
+      "pushed_at": "2026-05-29T13:59:31Z",
+      "updated_at": "2026-05-29T13:59:36Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1834,
+      "forks": 126,
+      "language": "Go",
+      "pushed_at": "2026-05-29T14:18:13Z",
+      "updated_at": "2026-05-29T14:11:32Z"
     },
     {
       "id": 1111978380,
@@ -81,8 +114,8 @@
       "stars": 881,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T11:24:36Z",
-      "updated_at": "2026-05-29T11:24:40Z"
+      "pushed_at": "2026-05-29T15:05:20Z",
+      "updated_at": "2026-05-29T15:05:27Z"
     },
     {
       "id": 1148683593,
@@ -92,85 +125,52 @@
       "stars": 802,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-29T11:26:14Z",
-      "updated_at": "2026-05-29T11:26:18Z"
+      "pushed_at": "2026-05-29T15:22:53Z",
+      "updated_at": "2026-05-29T15:23:34Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 719,
-      "forks": 43,
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 693,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-05-29T14:37:48Z",
+      "updated_at": "2026-05-29T14:03:12Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 317,
+      "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T10:39:40Z",
-      "updated_at": "2026-05-29T11:27:10Z"
+      "pushed_at": "2026-05-29T14:47:26Z",
+      "updated_at": "2026-05-29T14:47:33Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.",
-      "stars": 547,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T10:32:41Z",
-      "updated_at": "2026-05-29T10:32:29Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 434,
-      "forks": 73,
-      "language": "Go",
-      "pushed_at": "2026-05-29T11:15:57Z",
-      "updated_at": "2026-05-29T11:11:35Z"
-    },
-    {
-      "id": 51590636,
-      "full_name": "passbolt/passbolt_browser_extension",
-      "html_url": "https://github.com/passbolt/passbolt_browser_extension",
-      "description": "Browser extensions (Firefox, Edge & Chrome) for Passbolt the open source password manager for teams",
-      "stars": 268,
-      "forks": 94,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T08:52:15Z",
-      "updated_at": "2026-05-29T08:52:19Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 195,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 281,
       "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T11:17:46Z",
-      "updated_at": "2026-05-29T11:17:53Z"
+      "language": "Rust",
+      "pushed_at": "2026-05-29T14:25:55Z",
+      "updated_at": "2026-05-29T14:29:27Z"
     },
     {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 180,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T09:56:02Z",
-      "updated_at": "2026-05-29T09:56:06Z"
-    },
-    {
-      "id": 1132086156,
-      "full_name": "ctrlaltwill/LearnKit",
-      "html_url": "https://github.com/ctrlaltwill/LearnKit",
-      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
-      "stars": 119,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T09:17:59Z",
-      "updated_at": "2026-05-29T09:17:50Z"
+      "id": 969718304,
+      "full_name": "ognistik/macrowhisper",
+      "html_url": "https://github.com/ognistik/macrowhisper",
+      "description": "Automation Helper for Superwhisper",
+      "stars": 201,
+      "forks": 16,
+      "language": "Swift",
+      "pushed_at": "2026-05-29T15:01:15Z",
+      "updated_at": "2026-05-29T15:01:48Z"
     }
   ]
 }
