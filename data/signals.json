@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 875,
+  "total_found": 877,
   "items": [
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14090,
+      "forks": 950,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-30T06:16:15Z",
+      "updated_at": "2026-05-30T07:45:24Z"
+    },
+    {
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8497,
+      "forks": 937,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-30T03:12:29Z",
+      "updated_at": "2026-05-30T08:42:33Z"
+    },
     {
       "id": 375653778,
       "full_name": "linearmouse/linearmouse",
       "html_url": "https://github.com/linearmouse/linearmouse",
       "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6232,
+      "stars": 6231,
       "forks": 128,
       "language": "Swift",
       "pushed_at": "2026-05-30T04:14:04Z",
-      "updated_at": "2026-05-30T06:26:07Z"
+      "updated_at": "2026-05-30T06:58:44Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4395,
-      "forks": 913,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-30T00:02:26Z",
-      "updated_at": "2026-05-30T00:12:30Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
-      "stars": 3247,
-      "forks": 1012,
-      "language": "C++",
-      "pushed_at": "2026-05-30T00:46:05Z",
-      "updated_at": "2026-05-30T04:31:43Z"
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 4021,
+      "forks": 325,
+      "language": "PHP",
+      "pushed_at": "2026-05-30T07:48:08Z",
+      "updated_at": "2026-05-30T08:50:47Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3108,
+      "stars": 3109,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-30T05:44:09Z",
-      "updated_at": "2026-05-30T06:34:12Z"
+      "updated_at": "2026-05-30T08:13:55Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2569,
-      "forks": 298,
-      "language": "Go",
-      "pushed_at": "2026-05-30T00:26:25Z",
-      "updated_at": "2026-05-30T03:30:41Z"
+      "id": 591366844,
+      "full_name": "lasantosr/intelli-shell",
+      "html_url": "https://github.com/lasantosr/intelli-shell",
+      "description": "Like IntelliSense, but for shells",
+      "stars": 1233,
+      "forks": 22,
+      "language": "Rust",
+      "pushed_at": "2026-05-30T07:50:16Z",
+      "updated_at": "2026-05-30T07:48:49Z"
     },
     {
       "id": 1116772709,
@@ -70,7 +81,7 @@
       "stars": 944,
       "forks": 37,
       "language": "Rust",
-      "pushed_at": "2026-05-30T06:24:51Z",
+      "pushed_at": "2026-05-30T07:00:53Z",
       "updated_at": "2026-05-30T06:14:21Z"
     },
     {
@@ -81,30 +92,30 @@
       "stars": 883,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:42:32Z",
-      "updated_at": "2026-05-30T05:23:21Z"
+      "pushed_at": "2026-05-30T08:49:57Z",
+      "updated_at": "2026-05-30T08:50:00Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 807,
+      "stars": 809,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-30T06:30:44Z",
-      "updated_at": "2026-05-30T06:30:48Z"
+      "pushed_at": "2026-05-30T08:00:36Z",
+      "updated_at": "2026-05-30T08:08:04Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 721,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:11:26Z",
-      "updated_at": "2026-05-30T04:41:43Z"
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 452,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-05-30T08:02:22Z",
+      "updated_at": "2026-05-30T08:02:27Z"
     },
     {
       "id": 1175591394,
@@ -114,8 +125,8 @@
       "stars": 402,
       "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-05-30T05:25:42Z",
-      "updated_at": "2026-05-30T05:25:45Z"
+      "pushed_at": "2026-05-30T08:59:35Z",
+      "updated_at": "2026-05-30T08:59:39Z"
     },
     {
       "id": 226175035,
@@ -140,37 +151,26 @@
       "updated_at": "2026-05-30T03:16:34Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 285,
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 196,
       "forks": 19,
-      "language": "Rust",
-      "pushed_at": "2026-05-30T02:52:56Z",
-      "updated_at": "2026-05-30T05:28:40Z"
+      "language": "JavaScript",
+      "pushed_at": "2026-05-30T08:22:45Z",
+      "updated_at": "2026-05-30T08:22:49Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 225,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-05-30T03:01:43Z",
-      "updated_at": "2026-05-30T03:01:47Z"
-    },
-    {
-      "id": 1108054886,
-      "full_name": "ReKindleOS/ReKindle",
-      "html_url": "https://github.com/ReKindleOS/ReKindle",
-      "description": "Your Kindle Upgraded",
-      "stars": 147,
-      "forks": 16,
-      "language": "HTML",
-      "pushed_at": "2026-05-30T02:28:52Z",
-      "updated_at": "2026-05-30T02:28:56Z"
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 133,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-05-30T03:27:05Z",
+      "updated_at": "2026-05-30T09:44:37Z"
     }
   ]
 }
