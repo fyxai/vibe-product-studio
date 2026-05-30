@@ -8,26 +8,26 @@
   "total_found": 879,
   "items": [
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7848,
-      "forks": 205,
-      "language": "C++",
-      "pushed_at": "2026-05-30T15:50:43Z",
-      "updated_at": "2026-05-30T16:58:30Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 37828,
+      "forks": 3773,
+      "language": "C#",
+      "pushed_at": "2026-05-30T20:49:57Z",
+      "updated_at": "2026-05-30T20:50:08Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2235,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-30T15:08:15Z",
-      "updated_at": "2026-05-30T16:22:38Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3111,
+      "forks": 207,
+      "language": "Python",
+      "pushed_at": "2026-05-30T20:08:41Z",
+      "updated_at": "2026-05-30T20:07:05Z"
     },
     {
       "id": 1101924225,
@@ -37,8 +37,8 @@
       "stars": 1895,
       "forks": 186,
       "language": "JavaScript",
-      "pushed_at": "2026-05-30T15:54:31Z",
-      "updated_at": "2026-05-30T16:48:12Z"
+      "pushed_at": "2026-05-30T18:23:27Z",
+      "updated_at": "2026-05-30T18:23:30Z"
     },
     {
       "id": 323279421,
@@ -48,129 +48,129 @@
       "stars": 1856,
       "forks": 137,
       "language": "Dart",
-      "pushed_at": "2026-05-30T15:24:53Z",
-      "updated_at": "2026-05-30T15:24:57Z"
+      "pushed_at": "2026-05-30T17:56:59Z",
+      "updated_at": "2026-05-30T17:57:03Z"
     },
     {
       "id": 257400448,
       "full_name": "carapace-sh/carapace-bin",
       "html_url": "https://github.com/carapace-sh/carapace-bin",
       "description": "A multi-shell completion binary.",
-      "stars": 1835,
+      "stars": 1836,
       "forks": 126,
       "language": "Go",
-      "pushed_at": "2026-05-30T16:03:00Z",
-      "updated_at": "2026-05-30T15:59:04Z"
+      "pushed_at": "2026-05-30T20:03:37Z",
+      "updated_at": "2026-05-30T19:53:06Z"
     },
     {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1354,
+      "id": 1060712801,
+      "full_name": "surajverma/homehub",
+      "html_url": "https://github.com/surajverma/homehub",
+      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
+      "stars": 1181,
       "forks": 71,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-30T14:50:07Z",
-      "updated_at": "2026-05-30T14:49:59Z"
+      "language": "HTML",
+      "pushed_at": "2026-05-30T17:51:52Z",
+      "updated_at": "2026-05-30T17:51:53Z"
     },
     {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
-      "stars": 1207,
-      "forks": 70,
-      "language": "Shell",
-      "pushed_at": "2026-05-30T15:38:50Z",
-      "updated_at": "2026-05-30T15:38:55Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 884,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-30T16:28:23Z",
-      "updated_at": "2026-05-30T16:28:26Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1146,
+      "forks": 119,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-30T18:51:22Z",
+      "updated_at": "2026-05-30T18:51:25Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 812,
+      "stars": 814,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-30T17:01:39Z",
-      "updated_at": "2026-05-30T17:01:43Z"
+      "pushed_at": "2026-05-30T20:53:30Z",
+      "updated_at": "2026-05-30T20:53:33Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 722,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-30T16:47:19Z",
-      "updated_at": "2026-05-30T16:47:21Z"
-    },
-    {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 617,
-      "forks": 31,
-      "language": "Rust",
-      "pushed_at": "2026-05-30T16:39:52Z",
-      "updated_at": "2026-05-30T16:39:50Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 693,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-05-30T19:37:40Z",
+      "updated_at": "2026-05-30T19:37:43Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 588,
-      "forks": 23,
+      "stars": 594,
+      "forks": 24,
       "language": "Swift",
-      "pushed_at": "2026-05-30T16:59:58Z",
-      "updated_at": "2026-05-30T16:45:59Z"
+      "pushed_at": "2026-05-30T20:42:03Z",
+      "updated_at": "2026-05-30T20:52:23Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
-      "stars": 402,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-05-30T16:31:12Z",
-      "updated_at": "2026-05-30T15:23:47Z"
+      "id": 1149110392,
+      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
+      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
+      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
+      "stars": 379,
+      "forks": 49,
+      "language": "Unknown",
+      "pushed_at": "2026-05-30T18:37:42Z",
+      "updated_at": "2026-05-30T18:37:46Z"
     },
     {
-      "id": 1163713389,
-      "full_name": "brevity1swos/rgx",
-      "html_url": "https://github.com/brevity1swos/rgx",
-      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
-      "stars": 208,
-      "forks": 3,
-      "language": "Rust",
-      "pushed_at": "2026-05-30T15:53:23Z",
-      "updated_at": "2026-05-30T15:52:17Z"
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 349,
+      "forks": 33,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-30T19:16:27Z",
+      "updated_at": "2026-05-30T19:16:31Z"
     },
     {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 132,
-      "forks": 23,
+      "id": 689740171,
+      "full_name": "pivoshenko/catppuccin-startpage",
+      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
+      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+      "stars": 303,
+      "forks": 325,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-30T20:03:15Z",
+      "updated_at": "2026-05-30T20:03:22Z"
+    },
+    {
+      "id": 932721496,
+      "full_name": "ridemountainpig/subflow",
+      "html_url": "https://github.com/ridemountainpig/subflow",
+      "description": "Easily flow through your subscriptions with Subflow. Track spending, organize recurring payments, and take control of your subscription management.",
+      "stars": 158,
+      "forks": 2,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T15:49:09Z",
-      "updated_at": "2026-05-30T15:01:44Z"
+      "pushed_at": "2026-05-30T18:49:51Z",
+      "updated_at": "2026-05-30T18:49:55Z"
+    },
+    {
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 137,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-05-30T18:57:17Z",
+      "updated_at": "2026-05-30T18:57:19Z"
     }
   ]
 }
