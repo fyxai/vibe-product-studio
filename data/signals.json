@@ -12,55 +12,66 @@
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 199578,
-      "forks": 30642,
+      "stars": 199686,
+      "forks": 30655,
       "language": "JavaScript",
       "pushed_at": "2026-05-31T06:45:42Z",
-      "updated_at": "2026-05-31T07:44:45Z"
+      "updated_at": "2026-05-31T10:14:19Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 38866,
-      "forks": 889,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 56656,
+      "forks": 3473,
       "language": "Rust",
-      "pushed_at": "2026-05-31T05:24:11Z",
-      "updated_at": "2026-05-31T06:58:10Z"
+      "pushed_at": "2026-05-31T09:06:54Z",
+      "updated_at": "2026-05-31T10:11:04Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1198,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T04:39:43Z",
-      "updated_at": "2026-05-31T04:39:46Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1146,
-      "forks": 119,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-31T06:11:12Z",
-      "updated_at": "2026-05-31T06:11:16Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 888,
-      "forks": 52,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11058,
+      "forks": 1359,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T06:11:13Z",
-      "updated_at": "2026-05-31T06:11:17Z"
+      "pushed_at": "2026-05-31T08:48:23Z",
+      "updated_at": "2026-05-31T09:37:55Z"
+    },
+    {
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2236,
+      "forks": 89,
+      "language": "Swift",
+      "pushed_at": "2026-05-31T08:29:47Z",
+      "updated_at": "2026-05-31T08:27:14Z"
+    },
+    {
+      "id": 57707299,
+      "full_name": "Morantron/tmux-fingers",
+      "html_url": "https://github.com/Morantron/tmux-fingers",
+      "description": "copy pasting in terminal with vimium/vimperator like hints.",
+      "stars": 1413,
+      "forks": 65,
+      "language": "Crystal",
+      "pushed_at": "2026-05-31T09:41:41Z",
+      "updated_at": "2026-05-31T09:40:55Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1357,
+      "forks": 71,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-31T09:51:21Z",
+      "updated_at": "2026-05-31T09:51:25Z"
     },
     {
       "id": 1148683593,
@@ -70,30 +81,19 @@
       "stars": 814,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-31T07:29:36Z",
-      "updated_at": "2026-05-31T07:29:40Z"
+      "pushed_at": "2026-05-31T09:47:44Z",
+      "updated_at": "2026-05-31T09:47:48Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 603,
+      "stars": 605,
       "forks": 25,
       "language": "Swift",
       "pushed_at": "2026-05-31T06:31:31Z",
-      "updated_at": "2026-05-31T06:57:03Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 401,
-      "forks": 66,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T05:58:56Z",
-      "updated_at": "2026-05-31T05:57:49Z"
+      "updated_at": "2026-05-31T09:38:24Z"
     },
     {
       "id": 689740171,
@@ -118,6 +118,17 @@
       "updated_at": "2026-05-31T07:04:58Z"
     },
     {
+      "id": 1234008446,
+      "full_name": "hsr88/mouzi",
+      "html_url": "https://github.com/hsr88/mouzi",
+      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
+      "stars": 264,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-05-31T08:50:46Z",
+      "updated_at": "2026-05-31T08:50:50Z"
+    },
+    {
       "id": 412385182,
       "full_name": "scribe-org/Scribe-iOS",
       "html_url": "https://github.com/scribe-org/Scribe-iOS",
@@ -133,22 +144,22 @@
       "full_name": "majiayu000/spellbook",
       "html_url": "https://github.com/majiayu000/spellbook",
       "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 141,
-      "forks": 15,
+      "stars": 142,
+      "forks": 16,
       "language": "Python",
       "pushed_at": "2026-05-31T07:16:34Z",
-      "updated_at": "2026-05-31T07:16:38Z"
+      "updated_at": "2026-05-31T07:55:07Z"
     },
     {
-      "id": 1132086156,
-      "full_name": "ctrlaltwill/LearnKit",
-      "html_url": "https://github.com/ctrlaltwill/LearnKit",
-      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
-      "stars": 120,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T05:35:33Z",
-      "updated_at": "2026-05-31T05:35:31Z"
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 103,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-05-31T09:19:39Z",
+      "updated_at": "2026-05-31T08:44:55Z"
     },
     {
       "id": 412385439,
@@ -160,17 +171,6 @@
       "language": "Kotlin",
       "pushed_at": "2026-05-31T07:04:01Z",
       "updated_at": "2026-05-31T07:04:04Z"
-    },
-    {
-      "id": 1234381241,
-      "full_name": "Priyanshu-byte-coder/devtrack",
-      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
-      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
-      "stars": 84,
-      "forks": 274,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T06:27:01Z",
-      "updated_at": "2026-05-31T06:27:05Z"
     }
   ]
 }
