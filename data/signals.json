@@ -8,70 +8,81 @@
   "total_found": 879,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 56763,
-      "forks": 3486,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T15:40:54Z",
-      "updated_at": "2026-05-31T16:59:47Z"
-    },
-    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43681,
+      "stars": 43687,
       "forks": 2737,
       "language": "C#",
-      "pushed_at": "2026-05-31T16:03:48Z",
-      "updated_at": "2026-05-31T16:00:24Z"
+      "pushed_at": "2026-05-31T20:33:30Z",
+      "updated_at": "2026-05-31T20:55:45Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37848,
+      "stars": 37849,
       "forks": 3775,
       "language": "C#",
-      "pushed_at": "2026-05-31T16:59:58Z",
-      "updated_at": "2026-05-31T17:00:04Z"
+      "pushed_at": "2026-05-31T19:52:52Z",
+      "updated_at": "2026-05-31T19:52:59Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5242,
-      "forks": 449,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T14:32:30Z",
-      "updated_at": "2026-05-31T14:32:27Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19794,
+      "forks": 1729,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T19:12:04Z",
+      "updated_at": "2026-05-31T20:54:21Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4772,
-      "forks": 105,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T14:38:45Z",
-      "updated_at": "2026-05-31T14:38:48Z"
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18281,
+      "forks": 1477,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-31T20:36:27Z",
+      "updated_at": "2026-05-31T20:54:35Z"
     },
     {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
-      "stars": 3251,
-      "forks": 1012,
-      "language": "C++",
-      "pushed_at": "2026-05-31T16:19:25Z",
-      "updated_at": "2026-05-31T16:20:27Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14844,
+      "forks": 607,
+      "language": "C#",
+      "pushed_at": "2026-05-31T18:53:12Z",
+      "updated_at": "2026-05-31T20:21:33Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3280,
+      "forks": 408,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T20:35:25Z",
+      "updated_at": "2026-05-31T20:35:27Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3114,
+      "forks": 208,
+      "language": "Python",
+      "pushed_at": "2026-05-31T20:05:04Z",
+      "updated_at": "2026-05-31T20:05:06Z"
     },
     {
       "id": 324267700,
@@ -81,96 +92,85 @@
       "stars": 2235,
       "forks": 89,
       "language": "Swift",
-      "pushed_at": "2026-05-31T16:51:43Z",
-      "updated_at": "2026-05-31T16:51:47Z"
+      "pushed_at": "2026-05-31T19:37:46Z",
+      "updated_at": "2026-05-31T19:37:48Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1897,
-      "forks": 186,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T17:04:19Z",
-      "updated_at": "2026-05-31T16:01:19Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1199,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T14:44:11Z",
-      "updated_at": "2026-05-31T16:58:53Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1146,
+      "forks": 118,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-31T18:58:25Z",
+      "updated_at": "2026-05-31T18:58:29Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 890,
+      "stars": 891,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T16:53:17Z",
-      "updated_at": "2026-05-31T16:57:16Z"
+      "pushed_at": "2026-05-31T17:43:42Z",
+      "updated_at": "2026-05-31T19:44:51Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 727,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T14:37:35Z",
-      "updated_at": "2026-05-31T14:37:37Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 693,
-      "forks": 41,
-      "language": "Python",
-      "pushed_at": "2026-05-31T15:37:00Z",
-      "updated_at": "2026-05-31T15:37:03Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
+      "stars": 817,
+      "forks": 26,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-05-31T18:28:22Z",
+      "updated_at": "2026-05-31T19:46:52Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 610,
+      "stars": 615,
       "forks": 26,
       "language": "Swift",
-      "pushed_at": "2026-05-31T15:39:12Z",
-      "updated_at": "2026-05-31T16:11:43Z"
+      "pushed_at": "2026-05-31T19:19:38Z",
+      "updated_at": "2026-05-31T19:39:02Z"
     },
     {
-      "id": 869263252,
-      "full_name": "awaseem/foqos",
-      "html_url": "https://github.com/awaseem/foqos",
-      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
-      "stars": 532,
-      "forks": 95,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T17:02:07Z",
-      "updated_at": "2026-05-31T17:02:11Z"
-    },
-    {
-      "id": 854514249,
-      "full_name": "aload0/Reef",
-      "html_url": "https://github.com/aload0/Reef",
-      "description": "Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.",
-      "stars": 276,
-      "forks": 28,
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 349,
+      "forks": 32,
       "language": "Kotlin",
-      "pushed_at": "2026-05-31T14:41:35Z",
-      "updated_at": "2026-05-31T15:53:45Z"
+      "pushed_at": "2026-05-31T20:02:31Z",
+      "updated_at": "2026-05-31T20:02:35Z"
+    },
+    {
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 210,
+      "forks": 3,
+      "language": "Rust",
+      "pushed_at": "2026-05-31T19:51:22Z",
+      "updated_at": "2026-05-31T18:55:29Z"
+    },
+    {
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 103,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-05-31T20:54:51Z",
+      "updated_at": "2026-05-31T20:50:33Z"
     }
   ]
 }
