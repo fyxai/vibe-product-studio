@@ -8,28 +8,6 @@
   "total_found": 878,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 199686,
-      "forks": 30655,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T06:45:42Z",
-      "updated_at": "2026-05-31T10:14:19Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 56656,
-      "forks": 3473,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T09:06:54Z",
-      "updated_at": "2026-05-31T10:11:04Z"
-    },
-    {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
@@ -37,41 +15,30 @@
       "stars": 11058,
       "forks": 1359,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T08:48:23Z",
-      "updated_at": "2026-05-31T09:37:55Z"
+      "pushed_at": "2026-05-31T11:42:49Z",
+      "updated_at": "2026-05-31T11:42:54Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2236,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T08:29:47Z",
-      "updated_at": "2026-05-31T08:27:14Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1856,
+      "forks": 137,
+      "language": "Dart",
+      "pushed_at": "2026-05-31T12:11:03Z",
+      "updated_at": "2026-05-31T11:22:15Z"
     },
     {
-      "id": 57707299,
-      "full_name": "Morantron/tmux-fingers",
-      "html_url": "https://github.com/Morantron/tmux-fingers",
-      "description": "copy pasting in terminal with vimium/vimperator like hints.",
-      "stars": 1413,
-      "forks": 65,
-      "language": "Crystal",
-      "pushed_at": "2026-05-31T09:41:41Z",
-      "updated_at": "2026-05-31T09:40:55Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1357,
-      "forks": 71,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T09:51:21Z",
-      "updated_at": "2026-05-31T09:51:25Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+      "stars": 1209,
+      "forks": 70,
+      "language": "Shell",
+      "pushed_at": "2026-05-31T10:47:05Z",
+      "updated_at": "2026-05-31T12:07:43Z"
     },
     {
       "id": 1148683593,
@@ -81,74 +48,107 @@
       "stars": 814,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-31T09:47:44Z",
-      "updated_at": "2026-05-31T09:47:48Z"
+      "pushed_at": "2026-05-31T13:18:32Z",
+      "updated_at": "2026-05-31T13:18:36Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 605,
-      "forks": 25,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T06:31:31Z",
-      "updated_at": "2026-05-31T09:38:24Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 726,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T13:42:42Z",
+      "updated_at": "2026-05-31T13:42:44Z"
     },
     {
-      "id": 689740171,
-      "full_name": "pivoshenko/catppuccin-startpage",
-      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
-      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
-      "stars": 302,
-      "forks": 325,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T07:15:25Z",
-      "updated_at": "2026-05-31T07:15:29Z"
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 436,
+      "forks": 75,
+      "language": "Go",
+      "pushed_at": "2026-05-31T11:01:30Z",
+      "updated_at": "2026-05-31T10:55:50Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 287,
-      "forks": 19,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T06:42:09Z",
-      "updated_at": "2026-05-31T07:04:58Z"
-    },
-    {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 264,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T08:50:46Z",
-      "updated_at": "2026-05-31T08:50:50Z"
-    },
-    {
-      "id": 412385182,
-      "full_name": "scribe-org/Scribe-iOS",
-      "html_url": "https://github.com/scribe-org/Scribe-iOS",
-      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
-      "stars": 166,
-      "forks": 106,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T07:04:50Z",
-      "updated_at": "2026-05-31T07:04:54Z"
-    },
-    {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 142,
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 429,
       "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T13:40:17Z",
+      "updated_at": "2026-05-31T13:36:07Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 320,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T12:15:45Z",
+      "updated_at": "2026-05-31T12:15:48Z"
+    },
+    {
+      "id": 756867260,
+      "full_name": "alirezagsm/Trayy",
+      "html_url": "https://github.com/alirezagsm/Trayy",
+      "description": "Send specified apps to Windows Tray",
+      "stars": 247,
+      "forks": 8,
+      "language": "C++",
+      "pushed_at": "2026-05-31T12:34:53Z",
+      "updated_at": "2026-05-31T12:17:39Z"
+    },
+    {
+      "id": 1017069970,
+      "full_name": "mattgierhart/PRD-driven-context-engineering",
+      "html_url": "https://github.com/mattgierhart/PRD-driven-context-engineering",
+      "description": "PRD-driven Context Engineering: A systematic approach to building AI-powered products using progressive documentation and context-aware development workflows",
+      "stars": 217,
+      "forks": 9,
       "language": "Python",
-      "pushed_at": "2026-05-31T07:16:34Z",
-      "updated_at": "2026-05-31T07:55:07Z"
+      "pushed_at": "2026-05-31T12:00:38Z",
+      "updated_at": "2026-05-31T12:00:43Z"
+    },
+    {
+      "id": 1072582327,
+      "full_name": "campfirium/obsidian-tile-line-base",
+      "html_url": "https://github.com/campfirium/obsidian-tile-line-base",
+      "description": "The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.",
+      "stars": 131,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T13:10:16Z",
+      "updated_at": "2026-05-31T13:10:19Z"
+    },
+    {
+      "id": 1164725227,
+      "full_name": "aspasskiy/GoGogot",
+      "html_url": "https://github.com/aspasskiy/GoGogot",
+      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "stars": 122,
+      "forks": 10,
+      "language": "Go",
+      "pushed_at": "2026-05-31T11:31:54Z",
+      "updated_at": "2026-05-31T11:31:58Z"
+    },
+    {
+      "id": 1132086156,
+      "full_name": "ctrlaltwill/LearnKit",
+      "html_url": "https://github.com/ctrlaltwill/LearnKit",
+      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
+      "stars": 120,
+      "forks": 2,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T11:26:56Z",
+      "updated_at": "2026-05-31T11:27:00Z"
     },
     {
       "id": 1142492960,
@@ -158,19 +158,19 @@
       "stars": 103,
       "forks": 14,
       "language": "Swift",
-      "pushed_at": "2026-05-31T09:19:39Z",
-      "updated_at": "2026-05-31T08:44:55Z"
+      "pushed_at": "2026-05-31T13:42:47Z",
+      "updated_at": "2026-05-31T11:03:03Z"
     },
     {
-      "id": 412385439,
-      "full_name": "scribe-org/Scribe-Android",
-      "html_url": "https://github.com/scribe-org/Scribe-Android",
-      "description": "Scribe-Android: Keyboards for language learners & Conjugate-Android: Wikidata based verb conjugation app",
-      "stars": 89,
-      "forks": 113,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-31T07:04:01Z",
-      "updated_at": "2026-05-31T07:04:04Z"
+      "id": 1236536813,
+      "full_name": "pcx-wave/vibe-skill",
+      "html_url": "https://github.com/pcx-wave/vibe-skill",
+      "description": "Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage",
+      "stars": 80,
+      "forks": 6,
+      "language": "Shell",
+      "pushed_at": "2026-05-31T11:18:01Z",
+      "updated_at": "2026-05-31T11:18:04Z"
     }
   ]
 }
