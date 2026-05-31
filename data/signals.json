@@ -5,95 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 879,
+  "total_found": 878,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37831,
-      "forks": 3774,
-      "language": "C#",
-      "pushed_at": "2026-05-31T03:12:27Z",
-      "updated_at": "2026-05-31T03:12:31Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13884,
-      "forks": 411,
-      "language": "Rust",
-      "pushed_at": "2026-05-31T00:43:38Z",
-      "updated_at": "2026-05-31T01:38:41Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7853,
-      "forks": 205,
-      "language": "C++",
-      "pushed_at": "2026-05-30T23:29:30Z",
-      "updated_at": "2026-05-31T03:06:53Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5264,
-      "forks": 626,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-31T01:15:27Z",
-      "updated_at": "2026-05-31T01:15:33Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3197,
-      "forks": 151,
-      "language": "Gherkin",
-      "pushed_at": "2026-05-31T02:10:38Z",
-      "updated_at": "2026-05-31T02:10:40Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2236,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T03:31:34Z",
-      "updated_at": "2026-05-31T03:20:23Z"
-    },
-    {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1896,
-      "forks": 186,
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 199578,
+      "forks": 30642,
       "language": "JavaScript",
-      "pushed_at": "2026-05-31T00:22:08Z",
-      "updated_at": "2026-05-30T23:24:11Z"
+      "pushed_at": "2026-05-31T06:45:42Z",
+      "updated_at": "2026-05-31T07:44:45Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1856,
-      "forks": 137,
-      "language": "Dart",
-      "pushed_at": "2026-05-30T21:09:30Z",
-      "updated_at": "2026-05-30T21:09:34Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 38866,
+      "forks": 889,
+      "language": "Rust",
+      "pushed_at": "2026-05-31T05:24:11Z",
+      "updated_at": "2026-05-31T06:58:10Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1198,
+      "forks": 30,
+      "language": "Rust",
+      "pushed_at": "2026-05-31T04:39:43Z",
+      "updated_at": "2026-05-31T04:39:46Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1146,
+      "forks": 119,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-31T06:11:12Z",
+      "updated_at": "2026-05-31T06:11:16Z"
     },
     {
       "id": 1111978380,
@@ -103,8 +59,8 @@
       "stars": 888,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T03:12:05Z",
-      "updated_at": "2026-05-31T03:12:09Z"
+      "pushed_at": "2026-05-31T06:11:13Z",
+      "updated_at": "2026-05-31T06:11:17Z"
     },
     {
       "id": 1148683593,
@@ -114,63 +70,107 @@
       "stars": 814,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-31T03:35:17Z",
-      "updated_at": "2026-05-31T03:35:20Z"
+      "pushed_at": "2026-05-31T07:29:36Z",
+      "updated_at": "2026-05-31T07:29:40Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 598,
+      "stars": 603,
       "forks": 25,
       "language": "Swift",
-      "pushed_at": "2026-05-31T03:27:50Z",
-      "updated_at": "2026-05-31T03:27:29Z"
+      "pushed_at": "2026-05-31T06:31:31Z",
+      "updated_at": "2026-05-31T06:57:03Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 452,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-05-31T02:40:53Z",
-      "updated_at": "2026-05-31T02:32:50Z"
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 401,
+      "forks": 66,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-31T05:58:56Z",
+      "updated_at": "2026-05-31T05:57:49Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
-      "stars": 402,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-05-31T02:51:08Z",
-      "updated_at": "2026-05-31T02:51:11Z"
+      "id": 689740171,
+      "full_name": "pivoshenko/catppuccin-startpage",
+      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
+      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+      "stars": 302,
+      "forks": 325,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-31T07:15:25Z",
+      "updated_at": "2026-05-31T07:15:29Z"
     },
     {
       "id": 1201098277,
       "full_name": "kunkka19xx/look",
       "html_url": "https://github.com/kunkka19xx/look",
       "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 286,
+      "stars": 287,
       "forks": 19,
       "language": "Rust",
-      "pushed_at": "2026-05-31T03:17:29Z",
-      "updated_at": "2026-05-31T03:22:09Z"
+      "pushed_at": "2026-05-31T06:42:09Z",
+      "updated_at": "2026-05-31T07:04:58Z"
     },
     {
-      "id": 235188527,
-      "full_name": "JulienKode/pull-request-name-linter-action",
-      "html_url": "https://github.com/JulienKode/pull-request-name-linter-action",
-      "description": "⚡️ Lint pull request name with commit lint. This is useful if you squash merge your pull requests ⚡️",
-      "stars": 87,
-      "forks": 12,
+      "id": 412385182,
+      "full_name": "scribe-org/Scribe-iOS",
+      "html_url": "https://github.com/scribe-org/Scribe-iOS",
+      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
+      "stars": 166,
+      "forks": 106,
+      "language": "Swift",
+      "pushed_at": "2026-05-31T07:04:50Z",
+      "updated_at": "2026-05-31T07:04:54Z"
+    },
+    {
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 141,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-05-31T07:16:34Z",
+      "updated_at": "2026-05-31T07:16:38Z"
+    },
+    {
+      "id": 1132086156,
+      "full_name": "ctrlaltwill/LearnKit",
+      "html_url": "https://github.com/ctrlaltwill/LearnKit",
+      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
+      "stars": 120,
+      "forks": 2,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T22:02:29Z",
-      "updated_at": "2026-05-30T22:02:31Z"
+      "pushed_at": "2026-05-31T05:35:33Z",
+      "updated_at": "2026-05-31T05:35:31Z"
+    },
+    {
+      "id": 412385439,
+      "full_name": "scribe-org/Scribe-Android",
+      "html_url": "https://github.com/scribe-org/Scribe-Android",
+      "description": "Scribe-Android: Keyboards for language learners & Conjugate-Android: Wikidata based verb conjugation app",
+      "stars": 89,
+      "forks": 113,
+      "language": "Kotlin",
+      "pushed_at": "2026-05-31T07:04:01Z",
+      "updated_at": "2026-05-31T07:04:04Z"
+    },
+    {
+      "id": 1234381241,
+      "full_name": "Priyanshu-byte-coder/devtrack",
+      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
+      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
+      "stars": 84,
+      "forks": 274,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T06:27:01Z",
+      "updated_at": "2026-05-31T06:27:05Z"
     }
   ]
 }
