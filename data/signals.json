@@ -8,147 +8,147 @@
   "total_found": 879,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43687,
-      "forks": 2737,
-      "language": "C#",
-      "pushed_at": "2026-05-31T20:33:30Z",
-      "updated_at": "2026-05-31T20:55:45Z"
-    },
-    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37849,
-      "forks": 3775,
+      "stars": 37854,
+      "forks": 3776,
       "language": "C#",
-      "pushed_at": "2026-05-31T19:52:52Z",
-      "updated_at": "2026-05-31T19:52:59Z"
+      "pushed_at": "2026-05-31T23:59:20Z",
+      "updated_at": "2026-06-01T03:48:28Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19794,
-      "forks": 1729,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 30557,
+      "forks": 3198,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T19:12:04Z",
-      "updated_at": "2026-05-31T20:54:21Z"
+      "pushed_at": "2026-06-01T03:33:31Z",
+      "updated_at": "2026-06-01T03:56:15Z"
     },
     {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18281,
-      "forks": 1477,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T20:36:27Z",
-      "updated_at": "2026-05-31T20:54:35Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14844,
-      "forks": 607,
-      "language": "C#",
-      "pushed_at": "2026-05-31T18:53:12Z",
-      "updated_at": "2026-05-31T20:21:33Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3280,
-      "forks": 408,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T20:35:25Z",
-      "updated_at": "2026-05-31T20:35:27Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3114,
-      "forks": 208,
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24224,
+      "forks": 2285,
       "language": "Python",
-      "pushed_at": "2026-05-31T20:05:04Z",
-      "updated_at": "2026-05-31T20:05:06Z"
+      "pushed_at": "2026-06-01T01:25:29Z",
+      "updated_at": "2026-06-01T02:30:54Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2235,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T19:37:46Z",
-      "updated_at": "2026-05-31T19:37:48Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1146,
-      "forks": 118,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-31T18:58:25Z",
-      "updated_at": "2026-05-31T18:58:29Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7861,
+      "forks": 206,
+      "language": "C++",
+      "pushed_at": "2026-06-01T01:25:52Z",
+      "updated_at": "2026-06-01T03:26:46Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 891,
+      "stars": 892,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T17:43:42Z",
-      "updated_at": "2026-05-31T19:44:51Z"
+      "pushed_at": "2026-06-01T03:28:59Z",
+      "updated_at": "2026-06-01T03:29:03Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 817,
+      "stars": 819,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-05-31T18:28:22Z",
-      "updated_at": "2026-05-31T19:46:52Z"
+      "pushed_at": "2026-06-01T03:53:39Z",
+      "updated_at": "2026-06-01T03:53:43Z"
     },
     {
       "id": 1201537262,
       "full_name": "FuJacob/cotabby",
       "html_url": "https://github.com/FuJacob/cotabby",
       "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 615,
-      "forks": 26,
+      "stars": 624,
+      "forks": 27,
       "language": "Swift",
-      "pushed_at": "2026-05-31T19:19:38Z",
-      "updated_at": "2026-05-31T19:39:02Z"
+      "pushed_at": "2026-06-01T03:51:50Z",
+      "updated_at": "2026-06-01T03:51:54Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 349,
-      "forks": 32,
-      "language": "Kotlin",
-      "pushed_at": "2026-05-31T20:02:31Z",
-      "updated_at": "2026-05-31T20:02:35Z"
+      "id": 986669929,
+      "full_name": "ysm-dev/cpdown",
+      "html_url": "https://github.com/ysm-dev/cpdown",
+      "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
+      "stars": 551,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-01T02:02:05Z",
+      "updated_at": "2026-06-01T02:02:08Z"
+    },
+    {
+      "id": 208359230,
+      "full_name": "TTLApp/time-to-leave",
+      "html_url": "https://github.com/TTLApp/time-to-leave",
+      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
+      "stars": 492,
+      "forks": 278,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-01T03:56:59Z",
+      "updated_at": "2026-06-01T03:57:01Z"
+    },
+    {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 452,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-06-01T03:50:29Z",
+      "updated_at": "2026-06-01T03:43:51Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
+      "stars": 403,
+      "forks": 65,
+      "language": "Python",
+      "pushed_at": "2026-06-01T03:03:45Z",
+      "updated_at": "2026-06-01T03:03:49Z"
+    },
+    {
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 332,
+      "forks": 13,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-01T02:23:24Z",
+      "updated_at": "2026-06-01T02:23:29Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-01T03:36:41Z",
+      "updated_at": "2026-06-01T03:36:44Z"
     },
     {
       "id": 1163713389,
@@ -158,19 +158,19 @@
       "stars": 210,
       "forks": 3,
       "language": "Rust",
-      "pushed_at": "2026-05-31T19:51:22Z",
-      "updated_at": "2026-05-31T18:55:29Z"
+      "pushed_at": "2026-06-01T02:08:59Z",
+      "updated_at": "2026-06-01T02:07:56Z"
     },
     {
-      "id": 1142492960,
-      "full_name": "st0012/cctop",
-      "html_url": "https://github.com/st0012/cctop",
-      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
-      "stars": 103,
-      "forks": 14,
-      "language": "Swift",
-      "pushed_at": "2026-05-31T20:54:51Z",
-      "updated_at": "2026-05-31T20:50:33Z"
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 155,
+      "forks": 5,
+      "language": "CSS",
+      "pushed_at": "2026-06-01T01:35:29Z",
+      "updated_at": "2026-06-01T01:35:33Z"
     }
   ]
 }
