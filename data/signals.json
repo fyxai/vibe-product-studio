@@ -5,139 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 883,
+  "total_found": 884,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 37898,
-      "forks": 3781,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43750,
+      "forks": 2739,
       "language": "C#",
-      "pushed_at": "2026-06-02T20:19:05Z",
-      "updated_at": "2026-06-02T21:21:05Z"
+      "pushed_at": "2026-06-03T01:45:52Z",
+      "updated_at": "2026-06-03T03:45:17Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13054,
-      "forks": 794,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14871,
+      "forks": 1514,
       "language": "TypeScript",
-      "pushed_at": "2026-06-02T19:51:53Z",
-      "updated_at": "2026-06-02T19:51:58Z"
+      "pushed_at": "2026-06-03T02:33:01Z",
+      "updated_at": "2026-06-03T03:48:03Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7896,
-      "forks": 207,
-      "language": "C++",
-      "pushed_at": "2026-06-02T21:44:11Z",
-      "updated_at": "2026-06-02T22:02:39Z"
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8508,
+      "forks": 939,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-03T01:17:38Z",
+      "updated_at": "2026-06-03T01:16:24Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5669,
-      "forks": 743,
-      "language": "Swift",
-      "pushed_at": "2026-06-02T21:49:58Z",
-      "updated_at": "2026-06-02T20:11:29Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4402,
+      "forks": 912,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-03T02:29:22Z",
+      "updated_at": "2026-06-03T03:50:54Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2599,
-      "forks": 303,
-      "language": "Go",
-      "pushed_at": "2026-06-02T20:16:34Z",
-      "updated_at": "2026-06-02T21:54:32Z"
-    },
-    {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 1900,
-      "forks": 152,
-      "language": "Dart",
-      "pushed_at": "2026-06-02T21:21:02Z",
-      "updated_at": "2026-06-02T21:21:24Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1845,
-      "forks": 126,
-      "language": "Go",
-      "pushed_at": "2026-06-02T22:01:08Z",
-      "updated_at": "2026-06-02T20:57:31Z"
-    },
-    {
-      "id": 340433391,
-      "full_name": "amebalabs/TRex",
-      "html_url": "https://github.com/amebalabs/TRex",
-      "description": "Copy any text on your screen, stop retyping.",
-      "stars": 1820,
-      "forks": 59,
-      "language": "Swift",
-      "pushed_at": "2026-06-02T19:17:48Z",
-      "updated_at": "2026-06-02T19:17:53Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1098,
-      "forks": 51,
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1235,
+      "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-06-02T22:14:20Z",
-      "updated_at": "2026-06-02T22:14:23Z"
+      "pushed_at": "2026-06-03T03:30:15Z",
+      "updated_at": "2026-06-03T03:30:17Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 898,
+      "stars": 899,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-06-02T22:00:53Z",
-      "updated_at": "2026-06-02T22:00:57Z"
+      "pushed_at": "2026-06-03T01:48:46Z",
+      "updated_at": "2026-06-03T02:25:12Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 695,
-      "forks": 41,
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
+      "stars": 404,
+      "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-06-02T20:07:25Z",
-      "updated_at": "2026-06-02T20:07:34Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 350,
-      "forks": 32,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-02T21:04:40Z",
-      "updated_at": "2026-06-02T21:04:45Z"
+      "pushed_at": "2026-06-03T02:33:30Z",
+      "updated_at": "2026-06-03T02:33:34Z"
     },
     {
       "id": 1166865874,
@@ -147,8 +92,30 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-02T20:44:42Z",
-      "updated_at": "2026-06-02T20:44:46Z"
+      "pushed_at": "2026-06-03T03:40:16Z",
+      "updated_at": "2026-06-03T03:40:20Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 302,
+      "forks": 19,
+      "language": "Rust",
+      "pushed_at": "2026-06-03T03:02:52Z",
+      "updated_at": "2026-06-03T02:11:15Z"
+    },
+    {
+      "id": 1130061775,
+      "full_name": "jsubroto/flow",
+      "html_url": "https://github.com/jsubroto/flow",
+      "description": "A keyboard-first Kanban board for your terminal workflows",
+      "stars": 168,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-06-03T02:13:15Z",
+      "updated_at": "2026-06-03T02:13:19Z"
     },
     {
       "id": 1108054886,
@@ -158,19 +125,52 @@
       "stars": 147,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-06-02T21:43:08Z",
-      "updated_at": "2026-06-02T21:43:12Z"
+      "pushed_at": "2026-06-03T03:12:04Z",
+      "updated_at": "2026-06-03T03:12:09Z"
     },
     {
-      "id": 1234381241,
-      "full_name": "Priyanshu-byte-coder/devtrack",
-      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
-      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
-      "stars": 97,
-      "forks": 293,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 92,
+      "forks": 21,
       "language": "TypeScript",
-      "pushed_at": "2026-06-02T20:02:19Z",
-      "updated_at": "2026-06-02T20:02:30Z"
+      "pushed_at": "2026-06-03T03:18:27Z",
+      "updated_at": "2026-06-03T03:28:40Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 88,
+      "forks": 3,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-03T02:14:26Z",
+      "updated_at": "2026-06-03T02:14:30Z"
+    },
+    {
+      "id": 1136804103,
+      "full_name": "AwesomeJun/CC-statusline",
+      "html_url": "https://github.com/AwesomeJun/CC-statusline",
+      "description": "A curated collection of awesome plugins for Claude Code by awesomejun",
+      "stars": 86,
+      "forks": 9,
+      "language": "Shell",
+      "pushed_at": "2026-06-03T02:36:58Z",
+      "updated_at": "2026-06-03T02:37:02Z"
+    },
+    {
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 78,
+      "forks": 25,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-03T03:42:40Z",
+      "updated_at": "2026-06-03T02:22:09Z"
     }
   ]
 }
