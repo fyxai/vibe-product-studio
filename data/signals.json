@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 885,
+  "total_found": 886,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43764,
-      "forks": 2740,
+      "stars": 43767,
+      "forks": 2741,
       "language": "C#",
-      "pushed_at": "2026-06-03T21:23:11Z",
-      "updated_at": "2026-06-03T22:17:27Z"
+      "pushed_at": "2026-06-04T02:02:06Z",
+      "updated_at": "2026-06-04T03:38:05Z"
     },
     {
       "id": 33702544,
@@ -24,65 +24,54 @@
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
       "stars": 24231,
-      "forks": 2285,
+      "forks": 2287,
       "language": "Python",
-      "pushed_at": "2026-06-03T22:17:41Z",
-      "updated_at": "2026-06-03T22:06:13Z"
+      "pushed_at": "2026-06-04T03:26:41Z",
+      "updated_at": "2026-06-04T03:26:50Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14886,
-      "forks": 1516,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14102,
+      "forks": 953,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T20:39:55Z",
-      "updated_at": "2026-06-03T22:14:44Z"
+      "pushed_at": "2026-06-04T03:54:08Z",
+      "updated_at": "2026-06-04T03:54:22Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5671,
-      "forks": 744,
-      "language": "Swift",
-      "pushed_at": "2026-06-03T21:35:45Z",
-      "updated_at": "2026-06-03T20:52:14Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5277,
-      "forks": 626,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-03T21:22:30Z",
-      "updated_at": "2026-06-03T21:22:37Z"
-    },
-    {
-      "id": 300155217,
-      "full_name": "CollaboraOnline/online",
-      "html_url": "https://github.com/CollaboraOnline/online",
-      "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
-      "stars": 3257,
-      "forks": 1011,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7930,
+      "forks": 206,
       "language": "C++",
-      "pushed_at": "2026-06-03T22:23:42Z",
-      "updated_at": "2026-06-03T22:23:47Z"
+      "pushed_at": "2026-06-04T02:10:00Z",
+      "updated_at": "2026-06-04T03:53:23Z"
     },
     {
-      "id": 1147470802,
-      "full_name": "rohitg00/pro-workflow",
-      "html_url": "https://github.com/rohitg00/pro-workflow",
-      "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
-      "stars": 2268,
-      "forks": 220,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-03T20:21:30Z",
-      "updated_at": "2026-06-03T21:40:22Z"
+      "id": 119006816,
+      "full_name": "Splode/pomotroid",
+      "html_url": "https://github.com/Splode/pomotroid",
+      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+      "stars": 5252,
+      "forks": 451,
+      "language": "Rust",
+      "pushed_at": "2026-06-04T02:43:47Z",
+      "updated_at": "2026-06-04T02:43:43Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2609,
+      "forks": 305,
+      "language": "Go",
+      "pushed_at": "2026-06-04T01:42:45Z",
+      "updated_at": "2026-06-04T01:43:21Z"
     },
     {
       "id": 324267700,
@@ -92,19 +81,19 @@
       "stars": 2244,
       "forks": 89,
       "language": "Swift",
-      "pushed_at": "2026-06-03T21:29:56Z",
-      "updated_at": "2026-06-03T21:29:59Z"
+      "pushed_at": "2026-06-04T01:47:20Z",
+      "updated_at": "2026-06-04T01:47:23Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1846,
-      "forks": 126,
-      "language": "Go",
-      "pushed_at": "2026-06-03T21:35:09Z",
-      "updated_at": "2026-06-03T21:31:10Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 900,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T03:06:40Z",
+      "updated_at": "2026-06-04T03:06:43Z"
     },
     {
       "id": 1148683593,
@@ -114,41 +103,30 @@
       "stars": 834,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-03T22:22:35Z",
-      "updated_at": "2026-06-03T22:22:39Z"
+      "pushed_at": "2026-06-04T03:43:15Z",
+      "updated_at": "2026-06-04T03:44:01Z"
     },
     {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 472,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-06-03T20:32:51Z",
-      "updated_at": "2026-06-03T20:32:56Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 696,
+      "forks": 41,
+      "language": "Python",
+      "pushed_at": "2026-06-04T02:33:59Z",
+      "updated_at": "2026-06-04T02:34:03Z"
     },
     {
-      "id": 63053090,
-      "full_name": "deseven/iCanHazShortcut",
-      "html_url": "https://github.com/deseven/iCanHazShortcut",
-      "description": "simple shortcut manager for macOS",
-      "stars": 413,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-06-03T21:09:01Z",
-      "updated_at": "2026-06-03T21:09:06Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 352,
-      "forks": 32,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-03T20:34:51Z",
-      "updated_at": "2026-06-03T20:34:55Z"
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
+      "stars": 403,
+      "forks": 64,
+      "language": "Python",
+      "pushed_at": "2026-06-04T01:17:40Z",
+      "updated_at": "2026-06-04T02:29:34Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +136,41 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-03T20:54:33Z",
-      "updated_at": "2026-06-03T20:54:37Z"
+      "pushed_at": "2026-06-04T03:36:37Z",
+      "updated_at": "2026-06-04T03:36:40Z"
     },
     {
-      "id": 1216688130,
-      "full_name": "Eshaan-Nair/ArcRift",
-      "html_url": "https://github.com/Eshaan-Nair/ArcRift",
-      "description": "Persistent local memory layer for AI. ArcRift uses a Chrome extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agents (Cursor, Claude Code, Windsurf)  powered by a local SQLite knowledge graph.",
-      "stars": 207,
-      "forks": 27,
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 131,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-04T01:55:28Z",
+      "updated_at": "2026-06-04T01:55:37Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 106,
+      "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T20:31:45Z",
-      "updated_at": "2026-06-03T22:15:16Z"
+      "pushed_at": "2026-06-04T03:42:02Z",
+      "updated_at": "2026-06-04T03:42:07Z"
+    },
+    {
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 96,
+      "forks": 7,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T01:43:41Z",
+      "updated_at": "2026-06-04T01:52:12Z"
     }
   ]
 }
