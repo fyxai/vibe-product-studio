@@ -8,92 +8,136 @@
   "total_found": 887,
   "items": [
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7955,
-      "forks": 208,
-      "language": "C++",
-      "pushed_at": "2026-06-06T02:11:10Z",
-      "updated_at": "2026-06-06T02:11:14Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3202,
-      "forks": 152,
-      "language": "Gherkin",
-      "pushed_at": "2026-06-06T02:17:40Z",
-      "updated_at": "2026-06-06T00:13:23Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3149,
-      "forks": 209,
-      "language": "Python",
-      "pushed_at": "2026-06-05T23:34:59Z",
-      "updated_at": "2026-06-06T02:43:55Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1104,
-      "forks": 51,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39123,
+      "forks": 890,
       "language": "Rust",
-      "pushed_at": "2026-06-05T23:55:34Z",
-      "updated_at": "2026-06-05T23:53:38Z"
+      "pushed_at": "2026-06-06T06:50:09Z",
+      "updated_at": "2026-06-06T06:35:16Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 31413,
+      "forks": 3279,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T05:15:13Z",
+      "updated_at": "2026-06-06T06:46:21Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25347,
+      "forks": 1854,
+      "language": "Vue",
+      "pushed_at": "2026-06-06T05:19:37Z",
+      "updated_at": "2026-06-06T05:07:34Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21609,
+      "forks": 804,
+      "language": "C",
+      "pushed_at": "2026-06-06T05:27:33Z",
+      "updated_at": "2026-06-06T05:27:37Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14909,
+      "forks": 1521,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T05:44:56Z",
+      "updated_at": "2026-06-06T05:32:32Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14875,
+      "forks": 609,
+      "language": "C#",
+      "pushed_at": "2026-06-06T05:47:41Z",
+      "updated_at": "2026-06-06T05:47:45Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14111,
+      "forks": 953,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T06:20:42Z",
+      "updated_at": "2026-06-06T05:42:26Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6283,
+      "forks": 131,
+      "language": "Swift",
+      "pushed_at": "2026-06-06T06:25:58Z",
+      "updated_at": "2026-06-06T06:42:20Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 5169,
+      "forks": 309,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-06T06:26:36Z",
+      "updated_at": "2026-06-06T06:28:19Z"
+    },
+    {
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 4025,
+      "forks": 327,
+      "language": "PHP",
+      "pushed_at": "2026-06-06T05:45:25Z",
+      "updated_at": "2026-06-06T05:45:30Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 908,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T05:47:47Z",
+      "updated_at": "2026-06-06T05:47:50Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 843,
+      "stars": 844,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-06T01:24:06Z",
-      "updated_at": "2026-06-06T01:24:10Z"
-    },
-    {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 713,
-      "forks": 36,
-      "language": "Swift",
-      "pushed_at": "2026-06-06T02:47:45Z",
-      "updated_at": "2026-06-06T02:41:00Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 613,
-      "forks": 108,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T01:12:01Z",
-      "updated_at": "2026-06-06T01:12:04Z"
-    },
-    {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 453,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-06-06T01:48:07Z",
-      "updated_at": "2026-06-06T01:41:17Z"
+      "pushed_at": "2026-06-06T06:44:17Z",
+      "updated_at": "2026-06-06T06:44:21Z"
     },
     {
       "id": 1175591394,
@@ -103,8 +147,19 @@
       "stars": 409,
       "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-06-06T01:38:39Z",
-      "updated_at": "2026-06-06T01:38:43Z"
+      "pushed_at": "2026-06-06T05:47:48Z",
+      "updated_at": "2026-06-06T05:47:52Z"
+    },
+    {
+      "id": 69779247,
+      "full_name": "CodeverDotDev/codever",
+      "html_url": "https://github.com/CodeverDotDev/codever",
+      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
+      "stars": 383,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T05:40:08Z",
+      "updated_at": "2026-06-06T05:40:12Z"
     },
     {
       "id": 226175035,
@@ -114,63 +169,8 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T00:57:33Z",
-      "updated_at": "2026-06-06T00:57:36Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 311,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-06T02:44:42Z",
-      "updated_at": "2026-06-06T02:44:46Z"
-    },
-    {
-      "id": 1028437757,
-      "full_name": "mylee04/code-notify",
-      "html_url": "https://github.com/mylee04/code-notify",
-      "description": "Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.",
-      "stars": 239,
-      "forks": 20,
-      "language": "Shell",
-      "pushed_at": "2026-06-06T02:54:44Z",
-      "updated_at": "2026-06-06T02:54:36Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 117,
-      "forks": 7,
-      "language": "Rust",
-      "pushed_at": "2026-06-06T00:38:29Z",
-      "updated_at": "2026-06-06T02:31:13Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 116,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T02:34:35Z",
-      "updated_at": "2026-06-06T02:23:00Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 88,
-      "forks": 3,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T03:07:38Z",
-      "updated_at": "2026-06-06T02:57:09Z"
+      "pushed_at": "2026-06-06T04:40:01Z",
+      "updated_at": "2026-06-06T04:40:04Z"
     }
   ]
 }
