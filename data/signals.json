@@ -8,59 +8,70 @@
   "total_found": 887,
   "items": [
     {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 124759,
+      "forks": 13932,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T16:18:08Z",
+      "updated_at": "2026-06-06T16:59:35Z"
+    },
+    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 59362,
-      "forks": 3654,
+      "stars": 59405,
+      "forks": 3659,
       "language": "Rust",
-      "pushed_at": "2026-06-06T13:00:57Z",
-      "updated_at": "2026-06-06T13:39:00Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25349,
-      "forks": 1854,
-      "language": "Vue",
-      "pushed_at": "2026-06-06T11:57:58Z",
-      "updated_at": "2026-06-06T11:54:37Z"
+      "pushed_at": "2026-06-06T16:21:16Z",
+      "updated_at": "2026-06-06T17:01:09Z"
     },
     {
       "id": 66150122,
       "full_name": "jarun/nnn",
       "html_url": "https://github.com/jarun/nnn",
       "description": "n³ The unorthodox terminal file manager",
-      "stars": 21610,
+      "stars": 21611,
       "forks": 804,
       "language": "C",
-      "pushed_at": "2026-06-06T11:07:38Z",
-      "updated_at": "2026-06-06T11:07:42Z"
+      "pushed_at": "2026-06-06T15:15:48Z",
+      "updated_at": "2026-06-06T15:15:53Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19899,
+      "stars": 19905,
       "forks": 1745,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:34:23Z",
-      "updated_at": "2026-06-06T13:34:27Z"
+      "pushed_at": "2026-06-06T17:03:12Z",
+      "updated_at": "2026-06-06T17:03:16Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14878,
-      "forks": 609,
-      "language": "C#",
-      "pushed_at": "2026-06-06T13:12:25Z",
-      "updated_at": "2026-06-06T13:12:30Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7960,
+      "forks": 210,
+      "language": "C++",
+      "pushed_at": "2026-06-06T16:57:20Z",
+      "updated_at": "2026-06-06T16:57:24Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6283,
+      "forks": 132,
+      "language": "Swift",
+      "pushed_at": "2026-06-06T16:16:29Z",
+      "updated_at": "2026-06-06T16:16:31Z"
     },
     {
       "id": 189829392,
@@ -70,41 +81,19 @@
       "stars": 3721,
       "forks": 774,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T12:27:31Z",
-      "updated_at": "2026-06-06T13:14:31Z"
+      "pushed_at": "2026-06-06T16:55:10Z",
+      "updated_at": "2026-06-06T16:54:39Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3202,
-      "forks": 152,
-      "language": "Gherkin",
-      "pushed_at": "2026-06-06T12:20:20Z",
-      "updated_at": "2026-06-06T12:19:38Z"
-    },
-    {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1911,
-      "forks": 192,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T13:09:30Z",
-      "updated_at": "2026-06-06T13:08:54Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1862,
-      "forks": 137,
-      "language": "Dart",
-      "pushed_at": "2026-06-06T11:19:31Z",
-      "updated_at": "2026-06-06T11:09:23Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1848,
+      "forks": 127,
+      "language": "Go",
+      "pushed_at": "2026-06-06T16:57:47Z",
+      "updated_at": "2026-06-06T16:26:30Z"
     },
     {
       "id": 260652021,
@@ -114,30 +103,63 @@
       "stars": 1148,
       "forks": 119,
       "language": "Kotlin",
-      "pushed_at": "2026-06-06T13:37:10Z",
-      "updated_at": "2026-06-06T13:37:13Z"
+      "pushed_at": "2026-06-06T15:45:59Z",
+      "updated_at": "2026-06-06T15:46:03Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 909,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T16:21:59Z",
+      "updated_at": "2026-06-06T16:27:27Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 846,
+      "stars": 848,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-06T13:32:30Z",
-      "updated_at": "2026-06-06T13:32:33Z"
+      "pushed_at": "2026-06-06T15:10:37Z",
+      "updated_at": "2026-06-06T16:59:51Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 453,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-06-06T11:59:14Z",
-      "updated_at": "2026-06-06T11:53:32Z"
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 472,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-06-06T16:21:32Z",
+      "updated_at": "2026-06-06T16:21:36Z"
+    },
+    {
+      "id": 77787638,
+      "full_name": "adoyle-h/my-development-tools",
+      "html_url": "https://github.com/adoyle-h/my-development-tools",
+      "description": "ADoyle 的开发工具箱",
+      "stars": 466,
+      "forks": 56,
+      "language": "SCSS",
+      "pushed_at": "2026-06-06T16:27:31Z",
+      "updated_at": "2026-06-06T16:27:35Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
+      "stars": 409,
+      "forks": 64,
+      "language": "Python",
+      "pushed_at": "2026-06-06T16:37:13Z",
+      "updated_at": "2026-06-06T16:35:11Z"
     },
     {
       "id": 1030039430,
@@ -147,30 +169,8 @@
       "stars": 323,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T12:13:00Z",
-      "updated_at": "2026-06-06T12:13:03Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 311,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-06T13:24:43Z",
-      "updated_at": "2026-06-06T13:24:46Z"
-    },
-    {
-      "id": 1152798823,
-      "full_name": "Santofer/Remindian",
-      "html_url": "https://github.com/Santofer/Remindian",
-      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
-      "stars": 284,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-06-06T12:58:38Z",
-      "updated_at": "2026-06-06T12:58:17Z"
+      "pushed_at": "2026-06-06T16:59:46Z",
+      "updated_at": "2026-06-06T16:59:50Z"
     }
   ]
 }
