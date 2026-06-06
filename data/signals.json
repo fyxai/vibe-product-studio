@@ -8,48 +8,26 @@
   "total_found": 887,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 124759,
-      "forks": 13932,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T16:18:08Z",
-      "updated_at": "2026-06-06T16:59:35Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 59405,
-      "forks": 3659,
-      "language": "Rust",
-      "pushed_at": "2026-06-06T16:21:16Z",
-      "updated_at": "2026-06-06T17:01:09Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21611,
-      "forks": 804,
-      "language": "C",
-      "pushed_at": "2026-06-06T15:15:48Z",
-      "updated_at": "2026-06-06T15:15:53Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19905,
+      "stars": 19907,
       "forks": 1745,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T17:03:12Z",
-      "updated_at": "2026-06-06T17:03:16Z"
+      "pushed_at": "2026-06-06T18:14:08Z",
+      "updated_at": "2026-06-06T19:28:04Z"
+    },
+    {
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18294,
+      "forks": 1480,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T17:15:55Z",
+      "updated_at": "2026-06-06T20:43:53Z"
     },
     {
       "id": 1027461827,
@@ -59,52 +37,63 @@
       "stars": 7960,
       "forks": 210,
       "language": "C++",
-      "pushed_at": "2026-06-06T16:57:20Z",
-      "updated_at": "2026-06-06T16:57:24Z"
+      "pushed_at": "2026-06-06T19:40:44Z",
+      "updated_at": "2026-06-06T20:10:47Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6283,
-      "forks": 132,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5676,
+      "forks": 744,
       "language": "Swift",
-      "pushed_at": "2026-06-06T16:16:29Z",
-      "updated_at": "2026-06-06T16:16:31Z"
+      "pushed_at": "2026-06-06T21:01:43Z",
+      "updated_at": "2026-06-06T21:01:45Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3721,
+      "stars": 3722,
       "forks": 774,
       "language": "TypeScript",
       "pushed_at": "2026-06-06T16:55:10Z",
-      "updated_at": "2026-06-06T16:54:39Z"
+      "updated_at": "2026-06-06T17:34:00Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1848,
-      "forks": 127,
-      "language": "Go",
-      "pushed_at": "2026-06-06T16:57:47Z",
-      "updated_at": "2026-06-06T16:26:30Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3154,
+      "forks": 209,
+      "language": "Python",
+      "pushed_at": "2026-06-06T19:45:29Z",
+      "updated_at": "2026-06-06T19:45:45Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1148,
-      "forks": 119,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-06T15:45:59Z",
-      "updated_at": "2026-06-06T15:46:03Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2245,
+      "forks": 89,
+      "language": "Swift",
+      "pushed_at": "2026-06-06T20:18:35Z",
+      "updated_at": "2026-06-06T20:18:37Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1328,
+      "forks": 118,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T19:19:29Z",
+      "updated_at": "2026-06-06T19:19:34Z"
     },
     {
       "id": 1111978380,
@@ -114,52 +103,30 @@
       "stars": 909,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T16:21:59Z",
-      "updated_at": "2026-06-06T16:27:27Z"
+      "pushed_at": "2026-06-06T19:49:06Z",
+      "updated_at": "2026-06-06T19:49:10Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 848,
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
+      "stars": 849,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-06T15:10:37Z",
-      "updated_at": "2026-06-06T16:59:51Z"
+      "pushed_at": "2026-06-06T20:58:50Z",
+      "updated_at": "2026-06-06T20:58:53Z"
     },
     {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 472,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-06-06T16:21:32Z",
-      "updated_at": "2026-06-06T16:21:36Z"
-    },
-    {
-      "id": 77787638,
-      "full_name": "adoyle-h/my-development-tools",
-      "html_url": "https://github.com/adoyle-h/my-development-tools",
-      "description": "ADoyle 的开发工具箱",
-      "stars": 466,
-      "forks": 56,
-      "language": "SCSS",
-      "pushed_at": "2026-06-06T16:27:31Z",
-      "updated_at": "2026-06-06T16:27:35Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 409,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-06-06T16:37:13Z",
-      "updated_at": "2026-06-06T16:35:11Z"
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 508,
+      "forks": 97,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T19:43:21Z",
+      "updated_at": "2026-06-06T19:42:53Z"
     },
     {
       "id": 1030039430,
@@ -169,8 +136,41 @@
       "stars": 323,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T16:59:46Z",
-      "updated_at": "2026-06-06T16:59:50Z"
+      "pushed_at": "2026-06-06T19:00:08Z",
+      "updated_at": "2026-06-06T18:46:17Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T17:47:20Z",
+      "updated_at": "2026-06-06T17:47:23Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-06T19:17:03Z",
+      "updated_at": "2026-06-06T19:17:07Z"
+    },
+    {
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 213,
+      "forks": 3,
+      "language": "Rust",
+      "pushed_at": "2026-06-06T18:12:28Z",
+      "updated_at": "2026-06-06T18:11:24Z"
     }
   ]
 }
