@@ -5,117 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 886,
+  "total_found": 887,
   "items": [
-    {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 208269,
-      "forks": 31956,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-05T20:02:13Z",
-      "updated_at": "2026-06-05T21:23:29Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 59211,
-      "forks": 3644,
-      "language": "Rust",
-      "pushed_at": "2026-06-05T16:38:01Z",
-      "updated_at": "2026-06-05T21:22:45Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19892,
-      "forks": 1744,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T21:07:29Z",
-      "updated_at": "2026-06-05T21:07:33Z"
-    },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7953,
-      "forks": 207,
+      "stars": 7955,
+      "forks": 208,
       "language": "C++",
-      "pushed_at": "2026-06-05T19:14:49Z",
-      "updated_at": "2026-06-05T20:30:51Z"
+      "pushed_at": "2026-06-06T02:11:10Z",
+      "updated_at": "2026-06-06T02:11:14Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5676,
-      "forks": 745,
-      "language": "Swift",
-      "pushed_at": "2026-06-05T21:21:51Z",
-      "updated_at": "2026-06-05T16:19:08Z"
-    },
-    {
-      "id": 222709217,
-      "full_name": "wmariuss/awesome-devops",
-      "html_url": "https://github.com/wmariuss/awesome-devops",
-      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
-      "stars": 4141,
-      "forks": 863,
-      "language": "Python",
-      "pushed_at": "2026-06-05T21:07:18Z",
-      "updated_at": "2026-06-05T21:07:02Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3202,
+      "forks": 152,
+      "language": "Gherkin",
+      "pushed_at": "2026-06-06T02:17:40Z",
+      "updated_at": "2026-06-06T00:13:23Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3148,
+      "stars": 3149,
       "forks": 209,
       "language": "Python",
-      "pushed_at": "2026-06-05T18:14:29Z",
-      "updated_at": "2026-06-05T18:14:33Z"
+      "pushed_at": "2026-06-05T23:34:59Z",
+      "updated_at": "2026-06-06T02:43:55Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2244,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-06-05T20:28:34Z",
-      "updated_at": "2026-06-05T20:28:37Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1862,
-      "forks": 137,
-      "language": "Dart",
-      "pushed_at": "2026-06-05T21:07:31Z",
-      "updated_at": "2026-06-05T21:07:35Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 908,
-      "forks": 52,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T21:15:12Z",
-      "updated_at": "2026-06-05T21:15:16Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1104,
+      "forks": 51,
+      "language": "Rust",
+      "pushed_at": "2026-06-05T23:55:34Z",
+      "updated_at": "2026-06-05T23:53:38Z"
     },
     {
       "id": 1148683593,
@@ -125,19 +59,30 @@
       "stars": 843,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-05T21:12:16Z",
-      "updated_at": "2026-06-05T21:12:19Z"
+      "pushed_at": "2026-06-06T01:24:06Z",
+      "updated_at": "2026-06-06T01:24:10Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 552,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T21:17:32Z",
-      "updated_at": "2026-06-05T21:17:34Z"
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 713,
+      "forks": 36,
+      "language": "Swift",
+      "pushed_at": "2026-06-06T02:47:45Z",
+      "updated_at": "2026-06-06T02:41:00Z"
+    },
+    {
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 613,
+      "forks": 108,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T01:12:01Z",
+      "updated_at": "2026-06-06T01:12:04Z"
     },
     {
       "id": 1039979190,
@@ -147,8 +92,30 @@
       "stars": 453,
       "forks": 29,
       "language": "Shell",
-      "pushed_at": "2026-06-05T21:18:14Z",
-      "updated_at": "2026-06-05T21:11:44Z"
+      "pushed_at": "2026-06-06T01:48:07Z",
+      "updated_at": "2026-06-06T01:41:17Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
+      "stars": 409,
+      "forks": 64,
+      "language": "Python",
+      "pushed_at": "2026-06-06T01:38:39Z",
+      "updated_at": "2026-06-06T01:38:43Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T00:57:33Z",
+      "updated_at": "2026-06-06T00:57:36Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +125,52 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-05T19:50:44Z",
-      "updated_at": "2026-06-05T19:50:48Z"
+      "pushed_at": "2026-06-06T02:44:42Z",
+      "updated_at": "2026-06-06T02:44:46Z"
     },
     {
-      "id": 1163713389,
-      "full_name": "brevity1swos/rgx",
-      "html_url": "https://github.com/brevity1swos/rgx",
-      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
-      "stars": 213,
-      "forks": 3,
+      "id": 1028437757,
+      "full_name": "mylee04/code-notify",
+      "html_url": "https://github.com/mylee04/code-notify",
+      "description": "Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.",
+      "stars": 239,
+      "forks": 20,
+      "language": "Shell",
+      "pushed_at": "2026-06-06T02:54:44Z",
+      "updated_at": "2026-06-06T02:54:36Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 117,
+      "forks": 7,
       "language": "Rust",
-      "pushed_at": "2026-06-05T19:16:12Z",
-      "updated_at": "2026-06-05T19:15:03Z"
+      "pushed_at": "2026-06-06T00:38:29Z",
+      "updated_at": "2026-06-06T02:31:13Z"
+    },
+    {
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 116,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T02:34:35Z",
+      "updated_at": "2026-06-06T02:23:00Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 88,
+      "forks": 3,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T03:07:38Z",
+      "updated_at": "2026-06-06T02:57:09Z"
     }
   ]
 }
