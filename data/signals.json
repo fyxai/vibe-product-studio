@@ -8,125 +8,147 @@
   "total_found": 887,
   "items": [
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6282,
-      "forks": 131,
-      "language": "Swift",
-      "pushed_at": "2026-06-06T09:24:46Z",
-      "updated_at": "2026-06-06T09:38:55Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5676,
-      "forks": 745,
-      "language": "Swift",
-      "pushed_at": "2026-06-06T08:57:00Z",
-      "updated_at": "2026-06-06T07:57:07Z"
-    },
-    {
-      "id": 1083188349,
-      "full_name": "RICHQAQ/PasteMD",
-      "html_url": "https://github.com/RICHQAQ/PasteMD",
-      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 4944,
-      "forks": 299,
-      "language": "Python",
-      "pushed_at": "2026-06-06T08:47:13Z",
-      "updated_at": "2026-06-06T08:47:04Z"
-    },
-    {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4412,
-      "forks": 918,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T08:44:46Z",
-      "updated_at": "2026-06-06T08:54:49Z"
-    },
-    {
-      "id": 217049587,
-      "full_name": "alan-ai/alan-sdk-web",
-      "html_url": "https://github.com/alan-ai/alan-sdk-web",
-      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
-      "stars": 2436,
-      "forks": 104,
-      "language": "Unknown",
-      "pushed_at": "2026-06-06T07:34:59Z",
-      "updated_at": "2026-06-06T07:35:03Z"
-    },
-    {
-      "id": 220114000,
-      "full_name": "chipsalliance/verible",
-      "html_url": "https://github.com/chipsalliance/verible",
-      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
-      "stars": 1854,
-      "forks": 288,
-      "language": "C++",
-      "pushed_at": "2026-06-06T08:42:00Z",
-      "updated_at": "2026-06-06T08:06:36Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1321,
-      "forks": 36,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 59362,
+      "forks": 3654,
       "language": "Rust",
-      "pushed_at": "2026-06-06T07:17:29Z",
-      "updated_at": "2026-06-06T08:14:19Z"
+      "pushed_at": "2026-06-06T13:00:57Z",
+      "updated_at": "2026-06-06T13:39:00Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25349,
+      "forks": 1854,
+      "language": "Vue",
+      "pushed_at": "2026-06-06T11:57:58Z",
+      "updated_at": "2026-06-06T11:54:37Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21610,
+      "forks": 804,
+      "language": "C",
+      "pushed_at": "2026-06-06T11:07:38Z",
+      "updated_at": "2026-06-06T11:07:42Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19899,
+      "forks": 1745,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T13:34:23Z",
+      "updated_at": "2026-06-06T13:34:27Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14878,
+      "forks": 609,
+      "language": "C#",
+      "pushed_at": "2026-06-06T13:12:25Z",
+      "updated_at": "2026-06-06T13:12:30Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3721,
+      "forks": 774,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T12:27:31Z",
+      "updated_at": "2026-06-06T13:14:31Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3202,
+      "forks": 152,
+      "language": "Gherkin",
+      "pushed_at": "2026-06-06T12:20:20Z",
+      "updated_at": "2026-06-06T12:19:38Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1911,
+      "forks": 192,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T13:09:30Z",
+      "updated_at": "2026-06-06T13:08:54Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1862,
+      "forks": 137,
+      "language": "Dart",
+      "pushed_at": "2026-06-06T11:19:31Z",
+      "updated_at": "2026-06-06T11:09:23Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1148,
+      "forks": 119,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-06T13:37:10Z",
+      "updated_at": "2026-06-06T13:37:13Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 844,
+      "stars": 846,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-06T10:00:03Z",
-      "updated_at": "2026-06-06T10:00:07Z"
+      "pushed_at": "2026-06-06T13:32:30Z",
+      "updated_at": "2026-06-06T13:32:33Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 759,
-      "forks": 44,
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 453,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-06-06T11:59:14Z",
+      "updated_at": "2026-06-06T11:53:32Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 323,
+      "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T07:24:52Z",
-      "updated_at": "2026-06-06T10:00:33Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 493,
-      "forks": 59,
-      "language": "Swift",
-      "pushed_at": "2026-06-06T09:24:48Z",
-      "updated_at": "2026-06-06T09:24:52Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 409,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-06-06T07:43:27Z",
-      "updated_at": "2026-06-06T07:43:31Z"
+      "pushed_at": "2026-06-06T12:13:00Z",
+      "updated_at": "2026-06-06T12:13:03Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +158,19 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-06T08:36:48Z",
-      "updated_at": "2026-06-06T08:36:51Z"
+      "pushed_at": "2026-06-06T13:24:43Z",
+      "updated_at": "2026-06-06T13:24:46Z"
     },
     {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 291,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-06-06T09:52:54Z",
-      "updated_at": "2026-06-06T09:52:58Z"
-    },
-    {
-      "id": 1129541045,
-      "full_name": "hongyuan007/tapword-translator",
-      "html_url": "https://github.com/hongyuan007/tapword-translator",
-      "description": "Displays translations as subtitles, right below the original text, without popups or interruptions | 🧑‍🎨 触词翻译，像做笔记一样翻译网页",
-      "stars": 260,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T09:36:38Z",
-      "updated_at": "2026-06-06T09:43:36Z"
-    },
-    {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 256,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-06-06T08:35:11Z",
-      "updated_at": "2026-06-06T08:35:13Z"
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 284,
+      "forks": 19,
+      "language": "Swift",
+      "pushed_at": "2026-06-06T12:58:38Z",
+      "updated_at": "2026-06-06T12:58:17Z"
     }
   ]
 }
