@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 888,
+  "total_found": 889,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19912,
-      "forks": 1745,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T23:15:48Z",
-      "updated_at": "2026-06-07T03:33:45Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 209354,
+      "forks": 32107,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-07T05:37:46Z",
+      "updated_at": "2026-06-07T07:51:54Z"
     },
     {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 13910,
-      "forks": 417,
-      "language": "Rust",
-      "pushed_at": "2026-06-07T00:45:44Z",
-      "updated_at": "2026-06-07T03:24:06Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6284,
+      "forks": 132,
+      "language": "Swift",
+      "pushed_at": "2026-06-07T07:34:09Z",
+      "updated_at": "2026-06-07T07:34:12Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7963,
-      "forks": 210,
-      "language": "C++",
-      "pushed_at": "2026-06-07T00:44:17Z",
-      "updated_at": "2026-06-07T02:10:16Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3722,
-      "forks": 774,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T00:12:17Z",
-      "updated_at": "2026-06-07T00:12:00Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4413,
+      "forks": 921,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-07T05:48:45Z",
+      "updated_at": "2026-06-07T05:51:19Z"
     },
     {
       "id": 897595329,
@@ -59,30 +48,63 @@
       "stars": 3154,
       "forks": 209,
       "language": "Python",
-      "pushed_at": "2026-06-07T02:43:21Z",
-      "updated_at": "2026-06-07T02:43:25Z"
+      "pushed_at": "2026-06-07T04:20:07Z",
+      "updated_at": "2026-06-07T04:20:10Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2636,
+      "stars": 2638,
       "forks": 308,
       "language": "Go",
-      "pushed_at": "2026-06-07T00:50:35Z",
-      "updated_at": "2026-06-07T01:56:39Z"
+      "pushed_at": "2026-06-07T06:13:46Z",
+      "updated_at": "2026-06-07T06:13:42Z"
+    },
+    {
+      "id": 220114000,
+      "full_name": "chipsalliance/verible",
+      "html_url": "https://github.com/chipsalliance/verible",
+      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+      "stars": 1855,
+      "forks": 288,
+      "language": "C++",
+      "pushed_at": "2026-06-07T07:18:27Z",
+      "updated_at": "2026-06-07T07:18:31Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1148,
+      "forks": 119,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-07T05:49:26Z",
+      "updated_at": "2026-06-07T05:49:30Z"
+    },
+    {
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1106,
+      "forks": 40,
+      "language": "C++",
+      "pushed_at": "2026-06-07T06:30:17Z",
+      "updated_at": "2026-06-07T06:30:21Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 910,
+      "stars": 911,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T02:35:20Z",
-      "updated_at": "2026-06-07T02:35:23Z"
+      "pushed_at": "2026-06-07T04:33:56Z",
+      "updated_at": "2026-06-07T04:58:54Z"
     },
     {
       "id": 1148683593,
@@ -92,52 +114,52 @@
       "stars": 849,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-07T03:46:56Z",
-      "updated_at": "2026-06-07T03:46:59Z"
+      "pushed_at": "2026-06-07T07:50:48Z",
+      "updated_at": "2026-06-07T07:50:52Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 453,
-      "forks": 30,
-      "language": "Shell",
-      "pushed_at": "2026-06-07T01:07:00Z",
-      "updated_at": "2026-06-07T01:00:57Z"
-    },
-    {
-      "id": 1035658478,
-      "full_name": "Bahaaio/pomo",
-      "html_url": "https://github.com/Bahaaio/pomo",
-      "description": "Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.",
-      "stars": 414,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-06-06T23:38:54Z",
-      "updated_at": "2026-06-06T23:38:58Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 311,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-07T03:26:52Z",
-      "updated_at": "2026-06-07T03:26:55Z"
-    },
-    {
-      "id": 1129541045,
-      "full_name": "hongyuan007/tapword-translator",
-      "html_url": "https://github.com/hongyuan007/tapword-translator",
-      "description": "Displays translations as subtitles, right below the original text, without popups or interruptions | 🧑‍🎨 触词翻译，像做笔记一样翻译网页",
-      "stars": 261,
-      "forks": 9,
+      "id": 735151489,
+      "full_name": "hywax/mafl",
+      "html_url": "https://github.com/hywax/mafl",
+      "description": "Minimalistic flexible homepage",
+      "stars": 737,
+      "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T03:05:33Z",
-      "updated_at": "2026-06-07T03:05:38Z"
+      "pushed_at": "2026-06-07T05:14:36Z",
+      "updated_at": "2026-06-07T06:19:44Z"
+    },
+    {
+      "id": 831376921,
+      "full_name": "oxdc/obsidian-vertical-tabs",
+      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
+      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "stars": 569,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T04:14:30Z",
+      "updated_at": "2026-06-07T04:14:33Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 508,
+      "forks": 97,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T07:17:17Z",
+      "updated_at": "2026-06-07T07:16:52Z"
+    },
+    {
+      "id": 1120438074,
+      "full_name": "kaima2022/Health-reminder",
+      "html_url": "https://github.com/kaima2022/Health-reminder",
+      "description": "This is a high-performance desktop application developed using Rust and Tauri, designed to help you stay focused on your work while scientifically managing sedentary time, hydration, and eye rest through intelligent task scheduling and multi-dimensional reminders.一款基于 Rust 与 Tauri 开发的高性能桌面应用，旨在通过智能化的任务排程与多维提醒，帮助你在专注工作的同时，科学地进行久坐、补水与用眼休息。",
+      "stars": 229,
+      "forks": 17,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-07T04:36:37Z",
+      "updated_at": "2026-06-07T04:36:41Z"
     },
     {
       "id": 1072582327,
@@ -147,30 +169,8 @@
       "stars": 132,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T01:33:18Z",
-      "updated_at": "2026-06-07T00:05:17Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 128,
-      "forks": 25,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T03:11:22Z",
-      "updated_at": "2026-06-07T03:11:27Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 118,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T02:33:25Z",
-      "updated_at": "2026-06-07T03:40:02Z"
+      "pushed_at": "2026-06-07T06:31:56Z",
+      "updated_at": "2026-06-07T06:32:05Z"
     }
   ]
 }
