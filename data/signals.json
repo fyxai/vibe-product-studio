@@ -12,55 +12,66 @@
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 209354,
-      "forks": 32107,
+      "stars": 209442,
+      "forks": 32119,
       "language": "JavaScript",
-      "pushed_at": "2026-06-07T05:37:46Z",
-      "updated_at": "2026-06-07T07:51:54Z"
+      "pushed_at": "2026-06-07T08:15:31Z",
+      "updated_at": "2026-06-07T10:28:12Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14887,
+      "forks": 609,
+      "language": "C#",
+      "pushed_at": "2026-06-07T08:54:06Z",
+      "updated_at": "2026-06-07T10:07:53Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7965,
+      "forks": 211,
+      "language": "C++",
+      "pushed_at": "2026-06-07T09:20:51Z",
+      "updated_at": "2026-06-07T10:04:19Z"
     },
     {
       "id": 375653778,
       "full_name": "linearmouse/linearmouse",
       "html_url": "https://github.com/linearmouse/linearmouse",
       "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6284,
+      "stars": 6285,
       "forks": 132,
       "language": "Swift",
-      "pushed_at": "2026-06-07T07:34:09Z",
-      "updated_at": "2026-06-07T07:34:12Z"
+      "pushed_at": "2026-06-07T10:12:36Z",
+      "updated_at": "2026-06-07T10:12:38Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4413,
-      "forks": 921,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T05:48:45Z",
-      "updated_at": "2026-06-07T05:51:19Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5678,
+      "forks": 744,
+      "language": "Swift",
+      "pushed_at": "2026-06-07T10:00:56Z",
+      "updated_at": "2026-06-07T09:14:32Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3154,
-      "forks": 209,
-      "language": "Python",
-      "pushed_at": "2026-06-07T04:20:07Z",
-      "updated_at": "2026-06-07T04:20:10Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2638,
-      "forks": 308,
-      "language": "Go",
-      "pushed_at": "2026-06-07T06:13:46Z",
-      "updated_at": "2026-06-07T06:13:42Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1863,
+      "forks": 137,
+      "language": "Dart",
+      "pushed_at": "2026-06-07T07:54:50Z",
+      "updated_at": "2026-06-07T09:59:32Z"
     },
     {
       "id": 220114000,
@@ -74,39 +85,6 @@
       "updated_at": "2026-06-07T07:18:31Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1148,
-      "forks": 119,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-07T05:49:26Z",
-      "updated_at": "2026-06-07T05:49:30Z"
-    },
-    {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1106,
-      "forks": 40,
-      "language": "C++",
-      "pushed_at": "2026-06-07T06:30:17Z",
-      "updated_at": "2026-06-07T06:30:21Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 911,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T04:33:56Z",
-      "updated_at": "2026-06-07T04:58:54Z"
-    },
-    {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
@@ -114,30 +92,8 @@
       "stars": 849,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-07T07:50:48Z",
-      "updated_at": "2026-06-07T07:50:52Z"
-    },
-    {
-      "id": 735151489,
-      "full_name": "hywax/mafl",
-      "html_url": "https://github.com/hywax/mafl",
-      "description": "Minimalistic flexible homepage",
-      "stars": 737,
-      "forks": 56,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T05:14:36Z",
-      "updated_at": "2026-06-07T06:19:44Z"
-    },
-    {
-      "id": 831376921,
-      "full_name": "oxdc/obsidian-vertical-tabs",
-      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
-      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-      "stars": 569,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T04:14:30Z",
-      "updated_at": "2026-06-07T04:14:33Z"
+      "pushed_at": "2026-06-07T10:17:19Z",
+      "updated_at": "2026-06-07T10:17:23Z"
     },
     {
       "id": 549694131,
@@ -147,8 +103,63 @@
       "stars": 508,
       "forks": 97,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T07:17:17Z",
-      "updated_at": "2026-06-07T07:16:52Z"
+      "pushed_at": "2026-06-07T09:21:49Z",
+      "updated_at": "2026-06-07T09:21:19Z"
+    },
+    {
+      "id": 69779247,
+      "full_name": "CodeverDotDev/codever",
+      "html_url": "https://github.com/CodeverDotDev/codever",
+      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
+      "stars": 383,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T09:20:17Z",
+      "updated_at": "2026-06-07T09:20:20Z"
+    },
+    {
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 321,
+      "forks": 20,
+      "language": "Swift",
+      "pushed_at": "2026-06-07T09:31:34Z",
+      "updated_at": "2026-06-07T09:31:33Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T09:43:31Z",
+      "updated_at": "2026-06-07T09:43:35Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-07T08:52:29Z",
+      "updated_at": "2026-06-07T08:52:32Z"
+    },
+    {
+      "id": 1234008446,
+      "full_name": "hsr88/mouzi",
+      "html_url": "https://github.com/hsr88/mouzi",
+      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
+      "stars": 292,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-06-07T09:18:56Z",
+      "updated_at": "2026-06-07T09:19:00Z"
     },
     {
       "id": 1120438074,
@@ -158,19 +169,8 @@
       "stars": 229,
       "forks": 17,
       "language": "JavaScript",
-      "pushed_at": "2026-06-07T04:36:37Z",
-      "updated_at": "2026-06-07T04:36:41Z"
-    },
-    {
-      "id": 1072582327,
-      "full_name": "campfirium/obsidian-tile-line-base",
-      "html_url": "https://github.com/campfirium/obsidian-tile-line-base",
-      "description": "The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.",
-      "stars": 132,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T06:31:56Z",
-      "updated_at": "2026-06-07T06:32:05Z"
+      "pushed_at": "2026-06-07T09:44:54Z",
+      "updated_at": "2026-06-07T09:44:57Z"
     }
   ]
 }
