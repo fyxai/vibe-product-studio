@@ -5,95 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 890,
+  "total_found": 892,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 209655,
-      "forks": 32146,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T16:43:12Z",
-      "updated_at": "2026-06-07T17:11:00Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43809,
-      "forks": 2748,
-      "language": "C#",
-      "pushed_at": "2026-06-07T14:48:57Z",
-      "updated_at": "2026-06-07T15:10:12Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39165,
-      "forks": 890,
-      "language": "Rust",
-      "pushed_at": "2026-06-07T14:01:59Z",
-      "updated_at": "2026-06-07T16:52:17Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21608,
-      "forks": 804,
-      "language": "C",
-      "pushed_at": "2026-06-07T15:47:31Z",
-      "updated_at": "2026-06-07T15:47:36Z"
-    },
-    {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18295,
-      "forks": 1481,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T15:28:22Z",
-      "updated_at": "2026-06-07T15:40:47Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13076,
-      "forks": 795,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 19925,
+      "forks": 1748,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T16:22:05Z",
-      "updated_at": "2026-06-07T16:22:09Z"
+      "pushed_at": "2026-06-07T18:29:30Z",
+      "updated_at": "2026-06-07T21:01:53Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2641,
-      "forks": 312,
-      "language": "Go",
-      "pushed_at": "2026-06-07T16:35:09Z",
-      "updated_at": "2026-06-07T16:35:13Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7972,
+      "forks": 210,
+      "language": "C++",
+      "pushed_at": "2026-06-07T20:36:14Z",
+      "updated_at": "2026-06-07T20:56:15Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2244,
-      "forks": 89,
-      "language": "Swift",
-      "pushed_at": "2026-06-07T17:11:42Z",
-      "updated_at": "2026-06-07T16:58:07Z"
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3307,
+      "forks": 412,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T20:32:50Z",
+      "updated_at": "2026-06-07T20:47:04Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3159,
+      "forks": 209,
+      "language": "Python",
+      "pushed_at": "2026-06-07T20:58:01Z",
+      "updated_at": "2026-06-07T20:32:44Z"
+    },
+    {
+      "id": 220114000,
+      "full_name": "chipsalliance/verible",
+      "html_url": "https://github.com/chipsalliance/verible",
+      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+      "stars": 1856,
+      "forks": 288,
+      "language": "C++",
+      "pushed_at": "2026-06-07T18:54:06Z",
+      "updated_at": "2026-06-07T20:41:14Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1331,
+      "forks": 118,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T18:55:22Z",
+      "updated_at": "2026-06-07T18:55:22Z"
     },
     {
       "id": 260652021,
@@ -103,8 +81,30 @@
       "stars": 1147,
       "forks": 119,
       "language": "Kotlin",
-      "pushed_at": "2026-06-07T17:04:14Z",
-      "updated_at": "2026-06-07T17:04:18Z"
+      "pushed_at": "2026-06-07T18:59:10Z",
+      "updated_at": "2026-06-07T18:59:13Z"
+    },
+    {
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1106,
+      "forks": 40,
+      "language": "C++",
+      "pushed_at": "2026-06-07T19:05:51Z",
+      "updated_at": "2026-06-07T19:05:55Z"
+    },
+    {
+      "id": 378725581,
+      "full_name": "translate-tools/linguist",
+      "html_url": "https://github.com/translate-tools/linguist",
+      "description": "Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline",
+      "stars": 1000,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T18:54:46Z",
+      "updated_at": "2026-06-07T18:54:50Z"
     },
     {
       "id": 1148683593,
@@ -114,19 +114,19 @@
       "stars": 850,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-07T17:11:18Z",
-      "updated_at": "2026-06-07T17:11:22Z"
+      "pushed_at": "2026-06-07T19:23:06Z",
+      "updated_at": "2026-06-07T19:23:10Z"
     },
     {
-      "id": 1126665558,
-      "full_name": "3xpyth0n/ideon",
-      "html_url": "https://github.com/3xpyth0n/ideon",
-      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
-      "stars": 452,
-      "forks": 15,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T17:09:22Z",
-      "updated_at": "2026-06-07T17:09:26Z"
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 728,
+      "forks": 39,
+      "language": "Swift",
+      "pushed_at": "2026-06-07T20:39:53Z",
+      "updated_at": "2026-06-07T20:39:57Z"
     },
     {
       "id": 1175591394,
@@ -136,41 +136,41 @@
       "stars": 411,
       "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-06-07T16:29:28Z",
-      "updated_at": "2026-06-07T16:29:32Z"
+      "pushed_at": "2026-06-07T21:10:12Z",
+      "updated_at": "2026-06-07T21:09:45Z"
     },
     {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 293,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-06-07T14:07:30Z",
-      "updated_at": "2026-06-07T15:22:49Z"
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T20:38:31Z",
+      "updated_at": "2026-06-07T20:38:34Z"
     },
     {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 215,
-      "forks": 20,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T15:38:00Z",
-      "updated_at": "2026-06-07T15:38:04Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-07T19:17:17Z",
+      "updated_at": "2026-06-07T19:17:21Z"
     },
     {
-      "id": 634768492,
-      "full_name": "zhensherlock/intellij-platform-git-stats-plugin",
-      "html_url": "https://github.com/zhensherlock/intellij-platform-git-stats-plugin",
-      "description": "Git contribution statistics for IntelliJ Platform IDEs, with author/date filters for commits, line changes, and modified files.",
-      "stars": 192,
-      "forks": 2,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-07T14:24:46Z",
-      "updated_at": "2026-06-07T14:45:53Z"
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 205,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-07T20:09:33Z",
+      "updated_at": "2026-06-07T19:32:38Z"
     }
   ]
 }
