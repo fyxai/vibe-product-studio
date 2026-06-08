@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 893,
+  "total_found": 892,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 124879,
-      "forks": 13956,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43827,
+      "forks": 2748,
+      "language": "C#",
+      "pushed_at": "2026-06-08T16:06:23Z",
+      "updated_at": "2026-06-08T18:15:01Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 31625,
+      "forks": 3299,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T14:47:06Z",
-      "updated_at": "2026-06-08T15:46:48Z"
+      "pushed_at": "2026-06-08T17:15:00Z",
+      "updated_at": "2026-06-08T18:14:20Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24239,
+      "forks": 2292,
+      "language": "Python",
+      "pushed_at": "2026-06-08T16:59:20Z",
+      "updated_at": "2026-06-08T18:17:20Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19930,
+      "stars": 19934,
       "forks": 1752,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T14:37:40Z",
-      "updated_at": "2026-06-08T15:48:21Z"
+      "pushed_at": "2026-06-08T18:21:11Z",
+      "updated_at": "2026-06-08T18:21:16Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 14934,
-      "forks": 1528,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T14:18:13Z",
-      "updated_at": "2026-06-08T15:46:36Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14891,
-      "forks": 609,
-      "language": "C#",
-      "pushed_at": "2026-06-08T15:29:16Z",
-      "updated_at": "2026-06-08T15:29:26Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 7981,
+      "forks": 209,
+      "language": "C++",
+      "pushed_at": "2026-06-08T18:01:51Z",
+      "updated_at": "2026-06-08T18:01:56Z"
     },
     {
       "id": 129699403,
@@ -59,96 +70,63 @@
       "stars": 5678,
       "forks": 744,
       "language": "Swift",
-      "pushed_at": "2026-06-08T15:49:44Z",
-      "updated_at": "2026-06-08T15:28:53Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3310,
-      "forks": 414,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T15:40:23Z",
-      "updated_at": "2026-06-08T15:40:23Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3166,
-      "forks": 209,
-      "language": "Python",
-      "pushed_at": "2026-06-08T15:42:40Z",
-      "updated_at": "2026-06-08T15:42:44Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2655,
-      "forks": 313,
-      "language": "Go",
-      "pushed_at": "2026-06-08T13:35:07Z",
-      "updated_at": "2026-06-08T14:23:04Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1864,
-      "forks": 137,
-      "language": "Dart",
-      "pushed_at": "2026-06-08T15:39:07Z",
-      "updated_at": "2026-06-08T15:04:27Z"
+      "pushed_at": "2026-06-08T18:16:45Z",
+      "updated_at": "2026-06-08T18:16:46Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 960,
+      "stars": 962,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T15:41:29Z",
-      "updated_at": "2026-06-08T15:48:50Z"
+      "pushed_at": "2026-06-08T18:02:35Z",
+      "updated_at": "2026-06-08T18:18:35Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Professional skills for Claude AI — 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Professional.",
-      "stars": 943,
-      "forks": 170,
+      "id": 1197631840,
+      "full_name": "russelleNVy/three-man-team",
+      "html_url": "https://github.com/russelleNVy/three-man-team",
+      "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
+      "stars": 814,
+      "forks": 96,
       "language": "Shell",
-      "pushed_at": "2026-06-08T13:45:21Z",
-      "updated_at": "2026-06-08T13:46:03Z"
+      "pushed_at": "2026-06-08T18:05:03Z",
+      "updated_at": "2026-06-08T18:05:07Z"
     },
     {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 939,
-      "forks": 216,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 765,
+      "forks": 45,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T18:14:56Z",
+      "updated_at": "2026-06-08T17:32:39Z"
+    },
+    {
+      "id": 109383925,
+      "full_name": "7mind/izumi",
+      "html_url": "https://github.com/7mind/izumi",
+      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
+      "stars": 629,
+      "forks": 73,
       "language": "Scala",
-      "pushed_at": "2026-06-08T13:50:29Z",
-      "updated_at": "2026-06-08T13:48:23Z"
+      "pushed_at": "2026-06-08T18:01:45Z",
+      "updated_at": "2026-06-08T18:01:49Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 850,
-      "forks": 26,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-06-08T13:30:30Z",
-      "updated_at": "2026-06-08T13:31:05Z"
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 554,
+      "forks": 38,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T17:52:32Z",
+      "updated_at": "2026-06-08T17:52:35Z"
     },
     {
       "id": 462913472,
@@ -158,19 +136,41 @@
       "stars": 472,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-06-08T15:41:47Z",
-      "updated_at": "2026-06-08T15:41:51Z"
+      "pushed_at": "2026-06-08T16:33:01Z",
+      "updated_at": "2026-06-08T16:33:07Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 311,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-08T15:49:17Z",
-      "updated_at": "2026-06-08T15:49:21Z"
+      "id": 1234008446,
+      "full_name": "hsr88/mouzi",
+      "html_url": "https://github.com/hsr88/mouzi",
+      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
+      "stars": 303,
+      "forks": 14,
+      "language": "Rust",
+      "pushed_at": "2026-06-08T17:15:21Z",
+      "updated_at": "2026-06-08T17:55:12Z"
+    },
+    {
+      "id": 605340687,
+      "full_name": "LukeberryPi/phived",
+      "html_url": "https://github.com/LukeberryPi/phived",
+      "description": "An anti-procrastination to-do list. ",
+      "stars": 214,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T18:14:23Z",
+      "updated_at": "2026-06-08T18:14:28Z"
+    },
+    {
+      "id": 1073657969,
+      "full_name": "alekspetrov/navigator",
+      "html_url": "https://github.com/alekspetrov/navigator",
+      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
+      "stars": 189,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-06-08T16:23:19Z",
+      "updated_at": "2026-06-08T16:23:21Z"
     }
   ]
 }
