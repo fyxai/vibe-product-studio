@@ -8,48 +8,48 @@
   "total_found": 893,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 187877,
-      "forks": 26377,
-      "language": "Shell",
-      "pushed_at": "2026-06-08T07:12:41Z",
-      "updated_at": "2026-06-08T08:46:30Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 124879,
+      "forks": 13956,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T14:47:06Z",
+      "updated_at": "2026-06-08T15:46:48Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19929,
-      "forks": 1749,
+      "stars": 19930,
+      "forks": 1752,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T07:12:01Z",
-      "updated_at": "2026-06-08T07:13:40Z"
+      "pushed_at": "2026-06-08T14:37:40Z",
+      "updated_at": "2026-06-08T15:48:21Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14934,
+      "forks": 1528,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T14:18:13Z",
+      "updated_at": "2026-06-08T15:46:36Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14892,
+      "stars": 14891,
       "forks": 609,
       "language": "C#",
-      "pushed_at": "2026-06-08T06:41:52Z",
-      "updated_at": "2026-06-08T08:27:33Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14116,
-      "forks": 954,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T08:18:01Z",
-      "updated_at": "2026-06-08T08:15:31Z"
+      "pushed_at": "2026-06-08T15:29:16Z",
+      "updated_at": "2026-06-08T15:29:26Z"
     },
     {
       "id": 129699403,
@@ -59,30 +59,85 @@
       "stars": 5678,
       "forks": 744,
       "language": "Swift",
-      "pushed_at": "2026-06-08T08:19:56Z",
-      "updated_at": "2026-06-08T08:19:59Z"
+      "pushed_at": "2026-06-08T15:49:44Z",
+      "updated_at": "2026-06-08T15:28:53Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3310,
+      "forks": 414,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T15:40:23Z",
+      "updated_at": "2026-06-08T15:40:23Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3166,
+      "forks": 209,
+      "language": "Python",
+      "pushed_at": "2026-06-08T15:42:40Z",
+      "updated_at": "2026-06-08T15:42:44Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2652,
+      "stars": 2655,
       "forks": 313,
       "language": "Go",
-      "pushed_at": "2026-06-08T07:09:23Z",
-      "updated_at": "2026-06-08T08:44:29Z"
+      "pushed_at": "2026-06-08T13:35:07Z",
+      "updated_at": "2026-06-08T14:23:04Z"
     },
     {
       "id": 323279421,
       "full_name": "LinwoodDev/Butterfly",
       "html_url": "https://github.com/LinwoodDev/Butterfly",
       "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1862,
+      "stars": 1864,
       "forks": 137,
       "language": "Dart",
-      "pushed_at": "2026-06-08T07:47:29Z",
-      "updated_at": "2026-06-08T07:47:33Z"
+      "pushed_at": "2026-06-08T15:39:07Z",
+      "updated_at": "2026-06-08T15:04:27Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 960,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T15:41:29Z",
+      "updated_at": "2026-06-08T15:48:50Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "Professional skills for Claude AI — 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Professional.",
+      "stars": 943,
+      "forks": 170,
+      "language": "Shell",
+      "pushed_at": "2026-06-08T13:45:21Z",
+      "updated_at": "2026-06-08T13:46:03Z"
+    },
+    {
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 939,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-06-08T13:50:29Z",
+      "updated_at": "2026-06-08T13:48:23Z"
     },
     {
       "id": 1148683593,
@@ -92,85 +147,30 @@
       "stars": 850,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-08T07:49:33Z",
-      "updated_at": "2026-06-08T07:49:38Z"
+      "pushed_at": "2026-06-08T13:30:30Z",
+      "updated_at": "2026-06-08T13:31:05Z"
     },
     {
-      "id": 831376921,
-      "full_name": "oxdc/obsidian-vertical-tabs",
-      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
-      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-      "stars": 571,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T07:59:58Z",
-      "updated_at": "2026-06-08T08:00:02Z"
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 472,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-06-08T15:41:47Z",
+      "updated_at": "2026-06-08T15:41:51Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 554,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T08:13:00Z",
-      "updated_at": "2026-06-08T08:13:01Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 412,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-06-08T05:52:06Z",
-      "updated_at": "2026-06-08T05:52:09Z"
-    },
-    {
-      "id": 69779247,
-      "full_name": "CodeverDotDev/codever",
-      "html_url": "https://github.com/CodeverDotDev/codever",
-      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
-      "stars": 383,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T06:19:18Z",
-      "updated_at": "2026-06-08T06:19:22Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 131,
-      "forks": 25,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T08:31:19Z",
-      "updated_at": "2026-06-08T08:31:24Z"
-    },
-    {
-      "id": 1173738852,
-      "full_name": "BV-Venky/excalidraw-architect-mcp",
-      "html_url": "https://github.com/BV-Venky/excalidraw-architect-mcp",
-      "description": "Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys.",
-      "stars": 118,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-06-08T07:13:56Z",
-      "updated_at": "2026-06-08T07:55:29Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 118,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-08T06:35:35Z",
-      "updated_at": "2026-06-08T06:32:03Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-08T15:49:17Z",
+      "updated_at": "2026-06-08T15:49:21Z"
     }
   ]
 }
