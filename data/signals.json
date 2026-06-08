@@ -8,59 +8,37 @@
   "total_found": 892,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43827,
-      "forks": 2748,
-      "language": "C#",
-      "pushed_at": "2026-06-08T16:06:23Z",
-      "updated_at": "2026-06-08T18:15:01Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 31625,
-      "forks": 3299,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14939,
+      "forks": 1528,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T17:15:00Z",
-      "updated_at": "2026-06-08T18:14:20Z"
+      "pushed_at": "2026-06-08T19:46:59Z",
+      "updated_at": "2026-06-08T21:03:24Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24239,
-      "forks": 2292,
-      "language": "Python",
-      "pushed_at": "2026-06-08T16:59:20Z",
-      "updated_at": "2026-06-08T18:17:20Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19934,
-      "forks": 1752,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11125,
+      "forks": 1370,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:21:11Z",
-      "updated_at": "2026-06-08T18:21:16Z"
+      "pushed_at": "2026-06-08T21:11:11Z",
+      "updated_at": "2026-06-08T21:28:23Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7981,
+      "stars": 7984,
       "forks": 209,
       "language": "C++",
-      "pushed_at": "2026-06-08T18:01:51Z",
-      "updated_at": "2026-06-08T18:01:56Z"
+      "pushed_at": "2026-06-08T21:17:45Z",
+      "updated_at": "2026-06-08T21:39:16Z"
     },
     {
       "id": 129699403,
@@ -70,85 +48,96 @@
       "stars": 5678,
       "forks": 744,
       "language": "Swift",
-      "pushed_at": "2026-06-08T18:16:45Z",
-      "updated_at": "2026-06-08T18:16:46Z"
+      "pushed_at": "2026-06-08T21:44:35Z",
+      "updated_at": "2026-06-08T21:03:59Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3168,
+      "forks": 210,
+      "language": "Python",
+      "pushed_at": "2026-06-08T20:52:05Z",
+      "updated_at": "2026-06-08T19:40:35Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1913,
+      "forks": 192,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T21:23:27Z",
+      "updated_at": "2026-06-08T20:50:38Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1864,
+      "forks": 137,
+      "language": "Dart",
+      "pushed_at": "2026-06-08T19:36:47Z",
+      "updated_at": "2026-06-08T21:30:38Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1337,
+      "forks": 118,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T21:27:17Z",
+      "updated_at": "2026-06-08T21:27:48Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 962,
+      "stars": 977,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:02:35Z",
-      "updated_at": "2026-06-08T18:18:35Z"
+      "pushed_at": "2026-06-08T21:36:00Z",
+      "updated_at": "2026-06-08T21:25:34Z"
     },
     {
-      "id": 1197631840,
-      "full_name": "russelleNVy/three-man-team",
-      "html_url": "https://github.com/russelleNVy/three-man-team",
-      "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
-      "stars": 814,
-      "forks": 96,
+      "id": 837514404,
+      "full_name": "SnapXL/SnapX",
+      "html_url": "https://github.com/SnapXL/SnapX",
+      "description": "SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork",
+      "stars": 944,
+      "forks": 18,
+      "language": "C#",
+      "pushed_at": "2026-06-08T21:45:51Z",
+      "updated_at": "2026-06-08T21:45:55Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-08T18:05:03Z",
-      "updated_at": "2026-06-08T18:05:07Z"
+      "pushed_at": "2026-06-08T20:11:06Z",
+      "updated_at": "2026-06-08T20:11:58Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 765,
-      "forks": 45,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:14:56Z",
-      "updated_at": "2026-06-08T17:32:39Z"
-    },
-    {
-      "id": 109383925,
-      "full_name": "7mind/izumi",
-      "html_url": "https://github.com/7mind/izumi",
-      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
-      "stars": 629,
-      "forks": 73,
-      "language": "Scala",
-      "pushed_at": "2026-06-08T18:01:45Z",
-      "updated_at": "2026-06-08T18:01:49Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 554,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T17:52:32Z",
-      "updated_at": "2026-06-08T17:52:35Z"
-    },
-    {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 472,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-06-08T16:33:01Z",
-      "updated_at": "2026-06-08T16:33:07Z"
-    },
-    {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 303,
-      "forks": 14,
-      "language": "Rust",
-      "pushed_at": "2026-06-08T17:15:21Z",
-      "updated_at": "2026-06-08T17:55:12Z"
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 216,
+      "forks": 20,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T21:35:08Z",
+      "updated_at": "2026-06-08T21:35:12Z"
     },
     {
       "id": 605340687,
@@ -158,19 +147,30 @@
       "stars": 214,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:14:23Z",
-      "updated_at": "2026-06-08T18:14:28Z"
+      "pushed_at": "2026-06-08T21:43:18Z",
+      "updated_at": "2026-06-08T19:13:14Z"
     },
     {
-      "id": 1073657969,
-      "full_name": "alekspetrov/navigator",
-      "html_url": "https://github.com/alekspetrov/navigator",
-      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
-      "stars": 189,
-      "forks": 9,
-      "language": "Python",
-      "pushed_at": "2026-06-08T16:23:19Z",
-      "updated_at": "2026-06-08T16:23:21Z"
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 180,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T20:08:03Z",
+      "updated_at": "2026-06-08T20:08:32Z"
+    },
+    {
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 116,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T20:48:18Z",
+      "updated_at": "2026-06-08T21:26:03Z"
     }
   ]
 }
