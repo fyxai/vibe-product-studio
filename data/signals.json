@@ -5,106 +5,106 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 892,
+  "total_found": 893,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19925,
-      "forks": 1748,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 31557,
+      "forks": 3291,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T18:29:30Z",
-      "updated_at": "2026-06-07T21:01:53Z"
+      "pushed_at": "2026-06-08T01:01:19Z",
+      "updated_at": "2026-06-08T03:53:42Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 7972,
-      "forks": 210,
-      "language": "C++",
-      "pushed_at": "2026-06-07T20:36:14Z",
-      "updated_at": "2026-06-07T20:56:15Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 14894,
+      "forks": 609,
+      "language": "C#",
+      "pushed_at": "2026-06-08T02:34:20Z",
+      "updated_at": "2026-06-08T03:11:12Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3307,
-      "forks": 412,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 12480,
+      "forks": 771,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T20:32:50Z",
-      "updated_at": "2026-06-07T20:47:04Z"
+      "pushed_at": "2026-06-08T03:05:38Z",
+      "updated_at": "2026-06-08T03:50:16Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 5202,
+      "forks": 313,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-08T03:49:00Z",
+      "updated_at": "2026-06-08T03:49:05Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4785,
+      "forks": 105,
+      "language": "Rust",
+      "pushed_at": "2026-06-08T03:26:13Z",
+      "updated_at": "2026-06-08T03:26:15Z"
+    },
+    {
+      "id": 70306830,
+      "full_name": "hoothin/UserScripts",
+      "html_url": "https://github.com/hoothin/UserScripts",
+      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
+      "stars": 4183,
+      "forks": 580,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T02:30:22Z",
+      "updated_at": "2026-06-08T02:30:28Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3159,
+      "stars": 3161,
       "forks": 209,
       "language": "Python",
-      "pushed_at": "2026-06-07T20:58:01Z",
-      "updated_at": "2026-06-07T20:32:44Z"
+      "pushed_at": "2026-06-08T03:44:10Z",
+      "updated_at": "2026-06-08T03:44:13Z"
     },
     {
-      "id": 220114000,
-      "full_name": "chipsalliance/verible",
-      "html_url": "https://github.com/chipsalliance/verible",
-      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
-      "stars": 1856,
-      "forks": 288,
-      "language": "C++",
-      "pushed_at": "2026-06-07T18:54:06Z",
-      "updated_at": "2026-06-07T20:41:14Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2647,
+      "forks": 313,
+      "language": "Go",
+      "pushed_at": "2026-06-08T03:01:01Z",
+      "updated_at": "2026-06-08T03:01:06Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1331,
-      "forks": 118,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 913,
+      "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-06-07T18:55:22Z",
-      "updated_at": "2026-06-07T18:55:22Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1147,
-      "forks": 119,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-07T18:59:10Z",
-      "updated_at": "2026-06-07T18:59:13Z"
-    },
-    {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1106,
-      "forks": 40,
-      "language": "C++",
-      "pushed_at": "2026-06-07T19:05:51Z",
-      "updated_at": "2026-06-07T19:05:55Z"
-    },
-    {
-      "id": 378725581,
-      "full_name": "translate-tools/linguist",
-      "html_url": "https://github.com/translate-tools/linguist",
-      "description": "Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline",
-      "stars": 1000,
-      "forks": 48,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T18:54:46Z",
-      "updated_at": "2026-06-07T18:54:50Z"
+      "pushed_at": "2026-06-08T01:45:27Z",
+      "updated_at": "2026-06-08T01:45:31Z"
     },
     {
       "id": 1148683593,
@@ -114,41 +114,8 @@
       "stars": 850,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-07T19:23:06Z",
-      "updated_at": "2026-06-07T19:23:10Z"
-    },
-    {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 728,
-      "forks": 39,
-      "language": "Swift",
-      "pushed_at": "2026-06-07T20:39:53Z",
-      "updated_at": "2026-06-07T20:39:57Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 411,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-06-07T21:10:12Z",
-      "updated_at": "2026-06-07T21:09:45Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T20:38:31Z",
-      "updated_at": "2026-06-07T20:38:34Z"
+      "pushed_at": "2026-06-08T03:26:34Z",
+      "updated_at": "2026-06-08T03:26:38Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +125,52 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-07T19:17:17Z",
-      "updated_at": "2026-06-07T19:17:21Z"
+      "pushed_at": "2026-06-08T03:33:15Z",
+      "updated_at": "2026-06-08T03:33:19Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 205,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-07T20:09:33Z",
-      "updated_at": "2026-06-07T19:32:38Z"
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 259,
+      "forks": 12,
+      "language": "Python",
+      "pushed_at": "2026-06-08T01:47:36Z",
+      "updated_at": "2026-06-08T01:47:38Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 180,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T03:06:48Z",
+      "updated_at": "2026-06-08T03:06:51Z"
+    },
+    {
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 118,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T03:54:44Z",
+      "updated_at": "2026-06-08T02:57:51Z"
+    },
+    {
+      "id": 1255014875,
+      "full_name": "ntd4996/agentpet",
+      "html_url": "https://github.com/ntd4996/agentpet",
+      "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
+      "stars": 111,
+      "forks": 25,
+      "language": "Swift",
+      "pushed_at": "2026-06-08T03:50:44Z",
+      "updated_at": "2026-06-08T03:50:48Z"
     }
   ]
 }
