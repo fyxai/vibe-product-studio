@@ -8,59 +8,81 @@
   "total_found": 892,
   "items": [
     {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39228,
+      "forks": 891,
+      "language": "Rust",
+      "pushed_at": "2026-06-09T14:43:02Z",
+      "updated_at": "2026-06-09T14:46:27Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 31699,
+      "forks": 3311,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T12:11:02Z",
+      "updated_at": "2026-06-09T14:44:42Z"
+    },
+    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19950,
-      "forks": 1754,
+      "stars": 19954,
+      "forks": 1755,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T11:02:41Z",
-      "updated_at": "2026-06-09T11:09:32Z"
+      "pushed_at": "2026-06-09T14:40:55Z",
+      "updated_at": "2026-06-09T14:46:22Z"
+    },
+    {
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18300,
+      "forks": 1483,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-09T14:31:57Z",
+      "updated_at": "2026-06-09T14:19:56Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14116,
+      "stars": 14117,
       "forks": 953,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T09:22:10Z",
-      "updated_at": "2026-06-09T09:28:23Z"
+      "pushed_at": "2026-06-09T14:26:38Z",
+      "updated_at": "2026-06-09T14:41:56Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5679,
+      "stars": 5680,
       "forks": 744,
       "language": "Swift",
-      "pushed_at": "2026-06-09T11:12:19Z",
-      "updated_at": "2026-06-09T10:54:30Z"
+      "pushed_at": "2026-06-09T14:45:32Z",
+      "updated_at": "2026-06-09T14:40:39Z"
     },
     {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5264,
-      "forks": 452,
-      "language": "Rust",
-      "pushed_at": "2026-06-09T08:44:17Z",
-      "updated_at": "2026-06-09T08:44:13Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2668,
-      "forks": 315,
-      "language": "Go",
-      "pushed_at": "2026-06-09T10:21:26Z",
-      "updated_at": "2026-06-09T10:32:02Z"
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 4028,
+      "forks": 327,
+      "language": "PHP",
+      "pushed_at": "2026-06-09T12:24:08Z",
+      "updated_at": "2026-06-09T12:24:58Z"
     },
     {
       "id": 1101924225,
@@ -70,41 +92,41 @@
       "stars": 1914,
       "forks": 193,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T08:34:26Z",
-      "updated_at": "2026-06-09T10:55:07Z"
+      "pushed_at": "2026-06-09T14:04:50Z",
+      "updated_at": "2026-06-09T14:14:32Z"
     },
     {
-      "id": 57707299,
-      "full_name": "Morantron/tmux-fingers",
-      "html_url": "https://github.com/Morantron/tmux-fingers",
-      "description": "copy pasting in terminal with vimium/vimperator like hints.",
-      "stars": 1423,
-      "forks": 67,
-      "language": "Crystal",
-      "pushed_at": "2026-06-09T10:00:52Z",
-      "updated_at": "2026-06-09T10:08:54Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1866,
+      "forks": 138,
+      "language": "Dart",
+      "pushed_at": "2026-06-09T13:57:59Z",
+      "updated_at": "2026-06-09T14:03:02Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1364,
+      "forks": 37,
+      "language": "Rust",
+      "pushed_at": "2026-06-09T12:54:14Z",
+      "updated_at": "2026-06-09T14:07:04Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1002,
+      "stars": 1004,
       "forks": 59,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T09:08:14Z",
-      "updated_at": "2026-06-09T11:06:43Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "Professional skills for Claude AI — 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Professional.",
-      "stars": 947,
-      "forks": 170,
-      "language": "Shell",
-      "pushed_at": "2026-06-09T11:12:47Z",
-      "updated_at": "2026-06-09T11:13:10Z"
+      "pushed_at": "2026-06-09T14:45:57Z",
+      "updated_at": "2026-06-09T14:46:05Z"
     },
     {
       "id": 110334159,
@@ -114,8 +136,8 @@
       "stars": 939,
       "forks": 217,
       "language": "Scala",
-      "pushed_at": "2026-06-09T10:11:03Z",
-      "updated_at": "2026-06-09T10:19:49Z"
+      "pushed_at": "2026-06-09T13:51:39Z",
+      "updated_at": "2026-06-09T13:53:59Z"
     },
     {
       "id": 1148683593,
@@ -125,8 +147,8 @@
       "stars": 855,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-09T10:15:00Z",
-      "updated_at": "2026-06-09T10:23:18Z"
+      "pushed_at": "2026-06-09T14:12:38Z",
+      "updated_at": "2026-06-09T14:15:37Z"
     },
     {
       "id": 1125258937,
@@ -134,43 +156,21 @@
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
       "stars": 767,
-      "forks": 44,
+      "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T11:03:39Z",
-      "updated_at": "2026-06-09T11:03:47Z"
+      "pushed_at": "2026-06-09T14:19:19Z",
+      "updated_at": "2026-06-09T14:33:00Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 311,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-09T09:37:48Z",
-      "updated_at": "2026-06-09T09:56:21Z"
-    },
-    {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 217,
-      "forks": 23,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-09T08:06:47Z",
-      "updated_at": "2026-06-09T08:05:59Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 136,
-      "forks": 25,
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 325,
+      "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T09:51:24Z",
-      "updated_at": "2026-06-09T10:01:50Z"
+      "pushed_at": "2026-06-09T12:17:12Z",
+      "updated_at": "2026-06-09T12:18:51Z"
     }
   ]
 }
