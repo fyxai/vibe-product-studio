@@ -8,70 +8,37 @@
   "total_found": 896,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 125130,
-      "forks": 13988,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T17:17:15Z",
-      "updated_at": "2026-06-11T18:25:44Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 213438,
+      "forks": 32797,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-11T20:24:32Z",
+      "updated_at": "2026-06-11T22:00:17Z"
+    },
+    {
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17862,
+      "forks": 916,
+      "language": "Python",
+      "pushed_at": "2026-06-11T20:19:41Z",
+      "updated_at": "2026-06-11T21:26:04Z"
     },
     {
       "id": 257526212,
       "full_name": "Flow-Launcher/Flow.Launcher",
       "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
       "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 14918,
+      "stars": 14917,
       "forks": 610,
       "language": "C#",
-      "pushed_at": "2026-06-11T18:23:27Z",
-      "updated_at": "2026-06-11T18:49:32Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14133,
-      "forks": 956,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T17:07:04Z",
-      "updated_at": "2026-06-11T18:26:32Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13094,
-      "forks": 795,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T16:50:15Z",
-      "updated_at": "2026-06-11T17:13:29Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11180,
-      "forks": 1377,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:09:57Z",
-      "updated_at": "2026-06-11T18:27:51Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8018,
-      "forks": 210,
-      "language": "C++",
-      "pushed_at": "2026-06-11T16:29:57Z",
-      "updated_at": "2026-06-11T18:29:44Z"
+      "pushed_at": "2026-06-11T19:00:33Z",
+      "updated_at": "2026-06-11T21:05:18Z"
     },
     {
       "id": 129699403,
@@ -81,41 +48,41 @@
       "stars": 5683,
       "forks": 745,
       "language": "Swift",
-      "pushed_at": "2026-06-11T18:36:56Z",
-      "updated_at": "2026-06-11T18:36:59Z"
+      "pushed_at": "2026-06-11T21:47:12Z",
+      "updated_at": "2026-06-11T21:21:14Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3193,
+      "stars": 3195,
       "forks": 213,
       "language": "Python",
-      "pushed_at": "2026-06-11T18:45:39Z",
-      "updated_at": "2026-06-11T18:37:46Z"
+      "pushed_at": "2026-06-11T21:57:18Z",
+      "updated_at": "2026-06-11T21:27:35Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2687,
-      "forks": 320,
+      "stars": 2688,
+      "forks": 322,
       "language": "Go",
-      "pushed_at": "2026-06-11T18:21:46Z",
-      "updated_at": "2026-06-11T18:30:32Z"
+      "pushed_at": "2026-06-11T21:58:07Z",
+      "updated_at": "2026-06-11T21:39:29Z"
     },
     {
-      "id": 217049587,
-      "full_name": "alan-ai/alan-sdk-web",
-      "html_url": "https://github.com/alan-ai/alan-sdk-web",
-      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
-      "stars": 2437,
-      "forks": 104,
-      "language": "Unknown",
-      "pushed_at": "2026-06-11T18:24:06Z",
-      "updated_at": "2026-06-11T18:24:10Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/Hiro",
+      "html_url": "https://github.com/BarutSRB/Hiro",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1941,
+      "forks": 63,
+      "language": "Swift",
+      "pushed_at": "2026-06-11T19:21:47Z",
+      "updated_at": "2026-06-11T19:21:51Z"
     },
     {
       "id": 1101924225,
@@ -125,52 +92,85 @@
       "stars": 1920,
       "forks": 193,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T17:37:46Z",
-      "updated_at": "2026-06-11T17:37:58Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1854,
-      "forks": 127,
-      "language": "Go",
-      "pushed_at": "2026-06-11T18:48:02Z",
-      "updated_at": "2026-06-11T18:25:54Z"
-    },
-    {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1356,
-      "forks": 120,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:30:21Z",
-      "updated_at": "2026-06-11T18:30:23Z"
+      "pushed_at": "2026-06-11T21:44:02Z",
+      "updated_at": "2026-06-11T19:53:40Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1031,
+      "stars": 1034,
       "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T16:23:51Z",
-      "updated_at": "2026-06-11T16:31:52Z"
+      "pushed_at": "2026-06-11T21:38:41Z",
+      "updated_at": "2026-06-11T21:38:45Z"
     },
     {
-      "id": 1243618131,
-      "full_name": "elvisun/newsjack",
-      "html_url": "https://github.com/elvisun/newsjack",
-      "description": "The open-source skills that turn your agent into a full PR team.",
-      "stars": 229,
-      "forks": 11,
-      "language": "Go",
-      "pushed_at": "2026-06-11T16:58:09Z",
-      "updated_at": "2026-06-11T18:38:04Z"
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 390,
+      "forks": 31,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T19:22:11Z",
+      "updated_at": "2026-06-11T19:22:15Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 358,
+      "forks": 33,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-11T21:06:47Z",
+      "updated_at": "2026-06-11T21:06:51Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 311,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-11T20:18:05Z",
+      "updated_at": "2026-06-11T20:18:09Z"
+    },
+    {
+      "id": 1168864369,
+      "full_name": "oldany/dropmind",
+      "html_url": "https://github.com/oldany/dropmind",
+      "description": "Self-hosted capture layer to save anything from anywhere.",
+      "stars": 139,
+      "forks": 7,
+      "language": "HTML",
+      "pushed_at": "2026-06-11T20:41:09Z",
+      "updated_at": "2026-06-11T20:40:40Z"
+    },
+    {
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 109,
+      "forks": 18,
+      "language": "Swift",
+      "pushed_at": "2026-06-11T21:26:16Z",
+      "updated_at": "2026-06-11T21:26:19Z"
+    },
+    {
+      "id": 750644141,
+      "full_name": "Axial-SQL/AxialSqlTools",
+      "html_url": "https://github.com/Axial-SQL/AxialSqlTools",
+      "description": "Axial SQL Tools | SQL Server Management Studio 22 Productivity Addin",
+      "stars": 75,
+      "forks": 17,
+      "language": "C#",
+      "pushed_at": "2026-06-11T19:11:56Z",
+      "updated_at": "2026-06-11T19:11:57Z"
     }
   ]
 }
