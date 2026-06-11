@@ -8,114 +8,70 @@
   "total_found": 895,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43849,
-      "forks": 2749,
-      "language": "C#",
-      "pushed_at": "2026-06-10T21:27:11Z",
-      "updated_at": "2026-06-10T21:33:05Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 212833,
+      "forks": 32698,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-11T03:48:03Z",
+      "updated_at": "2026-06-11T03:53:47Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 31763,
+      "stars": 31777,
       "forks": 3319,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T19:05:42Z",
-      "updated_at": "2026-06-10T21:04:23Z"
+      "pushed_at": "2026-06-11T02:38:41Z",
+      "updated_at": "2026-06-11T03:50:22Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 19995,
-      "forks": 1758,
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 14007,
+      "forks": 1201,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T21:52:10Z",
-      "updated_at": "2026-06-10T21:11:12Z"
+      "pushed_at": "2026-06-11T03:38:24Z",
+      "updated_at": "2026-06-11T02:43:33Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5298,
-      "forks": 626,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-10T21:57:33Z",
-      "updated_at": "2026-06-10T21:51:29Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3324,
-      "forks": 417,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11169,
+      "forks": 1374,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T21:27:31Z",
-      "updated_at": "2026-06-10T21:27:34Z"
+      "pushed_at": "2026-06-11T01:27:38Z",
+      "updated_at": "2026-06-11T03:50:27Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3183,
-      "forks": 212,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8005,
+      "forks": 209,
+      "language": "C++",
+      "pushed_at": "2026-06-11T01:22:18Z",
+      "updated_at": "2026-06-11T03:30:34Z"
+    },
+    {
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 4616,
+      "forks": 148,
       "language": "Python",
-      "pushed_at": "2026-06-10T19:50:30Z",
-      "updated_at": "2026-06-10T21:10:28Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/Hiro",
-      "html_url": "https://github.com/BarutSRB/Hiro",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1933,
-      "forks": 63,
-      "language": "Swift",
-      "pushed_at": "2026-06-10T20:10:35Z",
-      "updated_at": "2026-06-10T20:49:28Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1866,
-      "forks": 137,
-      "language": "Dart",
-      "pushed_at": "2026-06-10T20:18:09Z",
-      "updated_at": "2026-06-10T20:19:11Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1851,
-      "forks": 127,
-      "language": "Go",
-      "pushed_at": "2026-06-10T21:00:55Z",
-      "updated_at": "2026-06-10T20:24:47Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1111,
-      "forks": 51,
-      "language": "Rust",
-      "pushed_at": "2026-06-10T21:46:48Z",
-      "updated_at": "2026-06-10T21:46:54Z"
+      "pushed_at": "2026-06-11T00:35:27Z",
+      "updated_at": "2026-06-11T03:04:32Z"
     },
     {
       "id": 1111978380,
@@ -125,30 +81,63 @@
       "stars": 1025,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T21:42:19Z",
-      "updated_at": "2026-06-10T21:55:24Z"
+      "pushed_at": "2026-06-11T02:02:57Z",
+      "updated_at": "2026-06-11T02:03:01Z"
     },
     {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 472,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-06-10T19:25:33Z",
-      "updated_at": "2026-06-10T19:40:13Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
+      "stars": 858,
+      "forks": 26,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-06-11T03:45:21Z",
+      "updated_at": "2026-06-11T03:45:25Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 390,
+      "id": 1079547517,
+      "full_name": "jezweb/claude-skills",
+      "html_url": "https://github.com/jezweb/claude-skills",
+      "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+      "stars": 848,
+      "forks": 85,
+      "language": "Python",
+      "pushed_at": "2026-06-11T02:15:37Z",
+      "updated_at": "2026-06-11T02:15:42Z"
+    },
+    {
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 740,
+      "forks": 38,
+      "language": "Swift",
+      "pushed_at": "2026-06-11T03:33:55Z",
+      "updated_at": "2026-06-11T03:16:40Z"
+    },
+    {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 455,
       "forks": 31,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T18:39:12Z",
-      "updated_at": "2026-06-10T18:39:24Z"
+      "language": "Shell",
+      "pushed_at": "2026-06-11T01:01:45Z",
+      "updated_at": "2026-06-11T00:55:14Z"
+    },
+    {
+      "id": 1163671946,
+      "full_name": "chrisblattman/claudeblattman",
+      "html_url": "https://github.com/chrisblattman/claudeblattman",
+      "description": "Claude Code for academics — skills, agents, and setup guides",
+      "stars": 396,
+      "forks": 68,
+      "language": "HTML",
+      "pushed_at": "2026-06-11T02:12:24Z",
+      "updated_at": "2026-06-11T02:11:48Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +147,30 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-10T20:26:25Z",
-      "updated_at": "2026-06-10T20:28:14Z"
+      "pushed_at": "2026-06-11T03:36:44Z",
+      "updated_at": "2026-06-11T03:36:48Z"
     },
     {
-      "id": 905920026,
-      "full_name": "anechunaev/notion-electron",
-      "html_url": "https://github.com/anechunaev/notion-electron",
-      "description": "Notion Desktop Client for Linux",
-      "stars": 178,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-10T18:51:34Z",
-      "updated_at": "2026-06-10T18:50:53Z"
+      "id": 605340687,
+      "full_name": "LukeberryPi/phived",
+      "html_url": "https://github.com/LukeberryPi/phived",
+      "description": "An anti-procrastination to-do list. ",
+      "stars": 216,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-10T23:48:45Z",
+      "updated_at": "2026-06-10T23:48:49Z"
+    },
+    {
+      "id": 1255014875,
+      "full_name": "ntd4996/agentpet",
+      "html_url": "https://github.com/ntd4996/agentpet",
+      "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
+      "stars": 189,
+      "forks": 34,
+      "language": "Swift",
+      "pushed_at": "2026-06-11T03:53:05Z",
+      "updated_at": "2026-06-11T03:53:09Z"
     }
   ]
 }
