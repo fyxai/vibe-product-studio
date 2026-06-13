@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 899,
+  "total_found": 898,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 187955,
-      "forks": 26365,
-      "language": "Shell",
-      "pushed_at": "2026-06-12T19:23:12Z",
-      "updated_at": "2026-06-12T21:05:42Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13098,
-      "forks": 795,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 31874,
+      "forks": 3331,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T19:32:12Z",
-      "updated_at": "2026-06-12T20:22:31Z"
+      "pushed_at": "2026-06-12T23:27:59Z",
+      "updated_at": "2026-06-13T03:36:37Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11211,
+      "stars": 11217,
       "forks": 1381,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T20:59:24Z",
-      "updated_at": "2026-06-12T21:07:15Z"
+      "pushed_at": "2026-06-12T23:55:30Z",
+      "updated_at": "2026-06-13T02:28:03Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5689,
-      "forks": 745,
-      "language": "Swift",
-      "pushed_at": "2026-06-12T21:28:31Z",
-      "updated_at": "2026-06-12T19:27:33Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8029,
+      "forks": 211,
+      "language": "C++",
+      "pushed_at": "2026-06-12T23:24:39Z",
+      "updated_at": "2026-06-13T01:16:05Z"
+    },
+    {
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6822,
+      "forks": 258,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-13T02:41:37Z",
+      "updated_at": "2026-06-13T02:41:41Z"
     },
     {
       "id": 11512043,
@@ -59,63 +59,74 @@
       "stars": 5304,
       "forks": 626,
       "language": "Kotlin",
-      "pushed_at": "2026-06-12T20:29:50Z",
-      "updated_at": "2026-06-12T20:29:53Z"
+      "pushed_at": "2026-06-12T23:15:35Z",
+      "updated_at": "2026-06-12T23:15:41Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1868,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-12T21:26:42Z",
-      "updated_at": "2026-06-12T21:26:59Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3218,
+      "forks": 214,
+      "language": "Python",
+      "pushed_at": "2026-06-13T03:34:11Z",
+      "updated_at": "2026-06-13T03:34:09Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1358,
-      "forks": 122,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1039,
+      "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T19:31:59Z",
-      "updated_at": "2026-06-12T21:34:13Z"
+      "pushed_at": "2026-06-13T00:55:04Z",
+      "updated_at": "2026-06-13T00:55:08Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 863,
+      "stars": 864,
       "forks": 26,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-12T21:38:37Z",
-      "updated_at": "2026-06-12T21:38:42Z"
+      "pushed_at": "2026-06-13T02:30:37Z",
+      "updated_at": "2026-06-13T02:30:41Z"
     },
     {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 474,
+      "id": 109383925,
+      "full_name": "7mind/izumi",
+      "html_url": "https://github.com/7mind/izumi",
+      "description": "Productivity-oriented collection of lightweight fancy stuff for Scala toolchain",
+      "stars": 629,
+      "forks": 73,
+      "language": "Scala",
+      "pushed_at": "2026-06-12T23:35:32Z",
+      "updated_at": "2026-06-12T23:35:39Z"
+    },
+    {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 458,
       "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-06-12T19:31:34Z",
-      "updated_at": "2026-06-12T19:31:39Z"
+      "language": "Shell",
+      "pushed_at": "2026-06-13T02:20:42Z",
+      "updated_at": "2026-06-13T02:14:42Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 358,
-      "forks": 33,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-12T21:19:36Z",
-      "updated_at": "2026-06-12T21:19:40Z"
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-13T01:49:05Z",
+      "updated_at": "2026-06-13T01:49:08Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +136,41 @@
       "stars": 311,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-12T20:06:32Z",
-      "updated_at": "2026-06-12T20:06:36Z"
+      "pushed_at": "2026-06-13T02:56:48Z",
+      "updated_at": "2026-06-13T02:56:51Z"
     },
     {
-      "id": 105088940,
-      "full_name": "sorenlouv/backport",
-      "html_url": "https://github.com/sorenlouv/backport",
-      "description": "A simple CLI tool that automates the process of backporting commits on a GitHub repo",
-      "stars": 280,
-      "forks": 72,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-12T21:34:35Z",
-      "updated_at": "2026-06-12T21:34:39Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 219,
-      "forks": 21,
+      "id": 1027092197,
+      "full_name": "shinpr/ai-coding-project-boilerplate",
+      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
+      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
+      "stars": 218,
+      "forks": 23,
       "language": "JavaScript",
-      "pushed_at": "2026-06-12T21:04:22Z",
-      "updated_at": "2026-06-12T21:04:27Z"
+      "pushed_at": "2026-06-12T23:34:07Z",
+      "updated_at": "2026-06-12T23:34:13Z"
     },
     {
-      "id": 1058972912,
-      "full_name": "gouwsxander/Reef",
-      "html_url": "https://github.com/gouwsxander/Reef",
-      "description": "The macOS window manager that gives every app its own Alt-Tab.",
-      "stars": 214,
-      "forks": 15,
-      "language": "Swift",
-      "pushed_at": "2026-06-12T20:03:01Z",
-      "updated_at": "2026-06-12T21:27:48Z"
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 90,
+      "forks": 4,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-13T03:01:20Z",
+      "updated_at": "2026-06-13T03:00:36Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 212,
-      "forks": 28,
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 81,
+      "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T21:25:18Z",
-      "updated_at": "2026-06-12T19:51:25Z"
+      "pushed_at": "2026-06-12T23:51:48Z",
+      "updated_at": "2026-06-13T03:33:41Z"
     }
   ]
 }
