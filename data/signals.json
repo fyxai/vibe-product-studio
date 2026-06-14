@@ -8,136 +8,125 @@
   "total_found": 899,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 62246,
-      "forks": 3849,
-      "language": "Rust",
-      "pushed_at": "2026-06-14T16:30:02Z",
-      "updated_at": "2026-06-14T17:06:33Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43897,
-      "forks": 2748,
-      "language": "C#",
-      "pushed_at": "2026-06-14T15:30:18Z",
-      "updated_at": "2026-06-14T15:30:22Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 31928,
-      "forks": 3334,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14969,
+      "forks": 1531,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T15:46:34Z",
-      "updated_at": "2026-06-14T17:13:02Z"
+      "pushed_at": "2026-06-14T20:08:37Z",
+      "updated_at": "2026-06-14T20:41:19Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11256,
-      "forks": 1386,
+      "stars": 11263,
+      "forks": 1388,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T15:47:16Z",
-      "updated_at": "2026-06-14T16:54:18Z"
+      "pushed_at": "2026-06-14T19:55:28Z",
+      "updated_at": "2026-06-14T21:06:56Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8043,
+      "stars": 8044,
       "forks": 215,
       "language": "C++",
-      "pushed_at": "2026-06-14T17:10:23Z",
-      "updated_at": "2026-06-14T16:45:55Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 5572,
-      "forks": 329,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-14T16:39:47Z",
-      "updated_at": "2026-06-14T17:17:33Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3234,
-      "forks": 215,
-      "language": "Python",
-      "pushed_at": "2026-06-14T16:08:47Z",
-      "updated_at": "2026-06-14T16:08:49Z"
+      "pushed_at": "2026-06-14T21:01:21Z",
+      "updated_at": "2026-06-14T19:50:04Z"
     },
     {
       "id": 1101924225,
       "full_name": "dembrandt/dembrandt",
       "html_url": "https://github.com/dembrandt/dembrandt",
       "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1927,
+      "stars": 1928,
       "forks": 193,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:11:40Z",
-      "updated_at": "2026-06-14T17:11:10Z"
+      "pushed_at": "2026-06-14T21:10:06Z",
+      "updated_at": "2026-06-14T20:52:39Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1871,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-14T17:18:04Z",
-      "updated_at": "2026-06-14T17:18:08Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1858,
+      "forks": 128,
+      "language": "Go",
+      "pushed_at": "2026-06-14T19:52:31Z",
+      "updated_at": "2026-06-14T19:48:35Z"
     },
     {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
-      "stars": 1314,
-      "forks": 82,
-      "language": "Rust",
-      "pushed_at": "2026-06-14T15:12:27Z",
-      "updated_at": "2026-06-14T15:12:31Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1054,
-      "forks": 63,
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1365,
+      "forks": 123,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T15:08:53Z",
-      "updated_at": "2026-06-14T16:57:13Z"
+      "pushed_at": "2026-06-14T19:04:46Z",
+      "updated_at": "2026-06-14T19:04:46Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.",
-      "stars": 872,
-      "forks": 26,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-06-14T17:03:37Z",
-      "updated_at": "2026-06-14T17:03:41Z"
+      "id": 12969529,
+      "full_name": "ptsochantaris/trailer",
+      "html_url": "https://github.com/ptsochantaris/trailer",
+      "description": "Managing Pull Requests and Issues For GitHub & GitHub Enterprise",
+      "stars": 1210,
+      "forks": 73,
+      "language": "Swift",
+      "pushed_at": "2026-06-14T19:35:40Z",
+      "updated_at": "2026-06-14T19:35:44Z"
+    },
+    {
+      "id": 264844037,
+      "full_name": "lindell/multi-gitter",
+      "html_url": "https://github.com/lindell/multi-gitter",
+      "description": "Update multiple repositories in with one command",
+      "stars": 1199,
+      "forks": 87,
+      "language": "Go",
+      "pushed_at": "2026-06-14T21:08:22Z",
+      "updated_at": "2026-06-14T21:07:31Z"
+    },
+    {
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1109,
+      "forks": 40,
+      "language": "C++",
+      "pushed_at": "2026-06-14T19:41:46Z",
+      "updated_at": "2026-06-14T19:38:03Z"
+    },
+    {
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 764,
+      "forks": 42,
+      "language": "Swift",
+      "pushed_at": "2026-06-14T20:22:36Z",
+      "updated_at": "2026-06-14T20:22:40Z"
+    },
+    {
+      "id": 1163671946,
+      "full_name": "chrisblattman/claudeblattman",
+      "html_url": "https://github.com/chrisblattman/claudeblattman",
+      "description": "Claude Code for academics — skills, agents, and setup guides",
+      "stars": 398,
+      "forks": 69,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-14T20:36:19Z",
+      "updated_at": "2026-06-14T20:35:40Z"
     },
     {
       "id": 1196349223,
@@ -145,10 +134,10 @@
       "html_url": "https://github.com/StepanKropachev/obsidian-pm",
       "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
       "stars": 397,
-      "forks": 31,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:07:57Z",
-      "updated_at": "2026-06-14T17:08:00Z"
+      "pushed_at": "2026-06-14T20:52:50Z",
+      "updated_at": "2026-06-14T20:52:52Z"
     },
     {
       "id": 846156986,
@@ -158,19 +147,30 @@
       "stars": 360,
       "forks": 33,
       "language": "Kotlin",
-      "pushed_at": "2026-06-14T16:44:18Z",
-      "updated_at": "2026-06-14T16:44:22Z"
+      "pushed_at": "2026-06-14T20:48:16Z",
+      "updated_at": "2026-06-14T20:48:20Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 233,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-06-14T15:55:41Z",
-      "updated_at": "2026-06-14T15:55:45Z"
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T20:30:21Z",
+      "updated_at": "2026-06-14T20:30:24Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 312,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-14T19:21:42Z",
+      "updated_at": "2026-06-14T19:21:45Z"
     }
   ]
 }
