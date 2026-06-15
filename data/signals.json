@@ -12,55 +12,33 @@
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 216064,
-      "forks": 33206,
+      "stars": 216113,
+      "forks": 33213,
       "language": "JavaScript",
       "pushed_at": "2026-06-15T18:27:17Z",
-      "updated_at": "2026-06-15T19:45:17Z"
+      "updated_at": "2026-06-15T22:16:27Z"
     },
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 125401,
-      "forks": 14030,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20103,
+      "forks": 1775,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T17:24:39Z",
-      "updated_at": "2026-06-15T18:42:25Z"
+      "pushed_at": "2026-06-15T22:05:30Z",
+      "updated_at": "2026-06-15T21:58:03Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11285,
-      "forks": 1392,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14972,
+      "forks": 1534,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T18:04:03Z",
-      "updated_at": "2026-06-15T19:44:47Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8054,
-      "forks": 218,
-      "language": "C++",
-      "pushed_at": "2026-06-15T17:25:49Z",
-      "updated_at": "2026-06-15T17:54:13Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5696,
-      "forks": 744,
-      "language": "Swift",
-      "pushed_at": "2026-06-15T19:46:56Z",
-      "updated_at": "2026-06-15T19:37:07Z"
+      "pushed_at": "2026-06-15T18:46:39Z",
+      "updated_at": "2026-06-15T19:55:57Z"
     },
     {
       "id": 11512043,
@@ -74,15 +52,48 @@
       "updated_at": "2026-06-15T19:33:14Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2258,
-      "forks": 89,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3731,
+      "forks": 780,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-15T19:16:01Z",
+      "updated_at": "2026-06-15T22:11:19Z"
+    },
+    {
+      "id": 1147470802,
+      "full_name": "rohitg00/pro-workflow",
+      "html_url": "https://github.com/rohitg00/pro-workflow",
+      "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+      "stars": 2308,
+      "forks": 225,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-15T20:26:07Z",
+      "updated_at": "2026-06-15T22:04:44Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/Hiro",
+      "html_url": "https://github.com/BarutSRB/Hiro",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1959,
+      "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-06-15T17:58:13Z",
-      "updated_at": "2026-06-15T17:58:35Z"
+      "pushed_at": "2026-06-15T21:48:17Z",
+      "updated_at": "2026-06-15T21:48:21Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1876,
+      "forks": 138,
+      "language": "Dart",
+      "pushed_at": "2026-06-15T20:54:51Z",
+      "updated_at": "2026-06-15T20:54:56Z"
     },
     {
       "id": 1148683593,
@@ -96,26 +107,15 @@
       "updated_at": "2026-06-15T19:31:50Z"
     },
     {
-      "id": 1243618131,
-      "full_name": "elvisun/newsjack",
-      "html_url": "https://github.com/elvisun/newsjack",
-      "description": "The open-source skills that turn your agent into a full PR team.",
-      "stars": 377,
-      "forks": 24,
-      "language": "Go",
-      "pushed_at": "2026-06-15T17:22:50Z",
-      "updated_at": "2026-06-15T17:22:55Z"
-    },
-    {
-      "id": 1058972912,
-      "full_name": "gouwsxander/Reef",
-      "html_url": "https://github.com/gouwsxander/Reef",
-      "description": "The macOS window manager that gives every app its own Alt-Tab.",
-      "stars": 341,
-      "forks": 22,
-      "language": "Swift",
-      "pushed_at": "2026-06-15T17:22:19Z",
-      "updated_at": "2026-06-15T18:57:06Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 313,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-15T20:54:21Z",
+      "updated_at": "2026-06-15T20:54:25Z"
     },
     {
       "id": 1152798823,
@@ -136,19 +136,8 @@
       "stars": 214,
       "forks": 28,
       "language": "Python",
-      "pushed_at": "2026-06-15T18:13:04Z",
+      "pushed_at": "2026-06-15T21:56:15Z",
       "updated_at": "2026-06-15T18:20:39Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 117,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-15T18:02:45Z",
-      "updated_at": "2026-06-15T18:04:02Z"
     },
     {
       "id": 914001665,
@@ -158,7 +147,7 @@
       "stars": 107,
       "forks": 5,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:41:59Z",
+      "pushed_at": "2026-06-15T19:50:12Z",
       "updated_at": "2026-06-15T19:42:02Z"
     },
     {
@@ -171,6 +160,17 @@
       "language": "JavaScript",
       "pushed_at": "2026-06-15T18:05:11Z",
       "updated_at": "2026-06-15T18:05:33Z"
+    },
+    {
+      "id": 1018267033,
+      "full_name": "vaibhav-mattoo/alman",
+      "html_url": "https://github.com/vaibhav-mattoo/alman",
+      "description": "Smart alias manager with TUI for shell aliases and command-line efficiency 🚀",
+      "stars": 84,
+      "forks": 1,
+      "language": "Rust",
+      "pushed_at": "2026-06-15T21:44:18Z",
+      "updated_at": "2026-06-15T21:44:22Z"
     }
   ]
 }
