@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 904,
+  "total_found": 910,
   "items": [
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 62939,
+      "forks": 3883,
+      "language": "Rust",
+      "pushed_at": "2026-06-16T18:36:17Z",
+      "updated_at": "2026-06-16T19:29:05Z"
+    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20113,
+      "stars": 20122,
       "forks": 1777,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T12:26:18Z",
-      "updated_at": "2026-06-16T12:25:08Z"
+      "pushed_at": "2026-06-16T18:43:30Z",
+      "updated_at": "2026-06-16T19:24:34Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14976,
+      "forks": 1533,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-16T19:16:12Z",
+      "updated_at": "2026-06-16T19:30:15Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11291,
-      "forks": 1394,
+      "stars": 11300,
+      "forks": 1393,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T12:44:55Z",
-      "updated_at": "2026-06-16T12:17:36Z"
+      "pushed_at": "2026-06-16T18:21:38Z",
+      "updated_at": "2026-06-16T19:02:08Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5696,
-      "forks": 744,
-      "language": "Swift",
-      "pushed_at": "2026-06-16T12:50:20Z",
-      "updated_at": "2026-06-16T12:50:23Z"
-    },
-    {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 5058,
-      "forks": 377,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-16T12:19:13Z",
-      "updated_at": "2026-06-16T12:36:59Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4541,
-      "forks": 274,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T12:12:57Z",
-      "updated_at": "2026-06-16T12:10:57Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5318,
+      "forks": 626,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-16T18:15:39Z",
+      "updated_at": "2026-06-16T18:06:40Z"
     },
     {
       "id": 189829392,
@@ -70,30 +70,52 @@
       "stars": 3731,
       "forks": 780,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T12:32:02Z",
-      "updated_at": "2026-06-16T12:10:09Z"
+      "pushed_at": "2026-06-16T19:28:18Z",
+      "updated_at": "2026-06-16T18:41:22Z"
     },
     {
-      "id": 217049587,
-      "full_name": "alan-ai/alan-sdk-web",
-      "html_url": "https://github.com/alan-ai/alan-sdk-web",
-      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
-      "stars": 2437,
-      "forks": 104,
-      "language": "Unknown",
-      "pushed_at": "2026-06-16T10:30:49Z",
-      "updated_at": "2026-06-16T10:30:53Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/Hiro",
+      "html_url": "https://github.com/BarutSRB/Hiro",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1968,
+      "forks": 61,
+      "language": "Swift",
+      "pushed_at": "2026-06-16T19:29:15Z",
+      "updated_at": "2026-06-16T19:29:17Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1879,
+      "forks": 138,
+      "language": "Dart",
+      "pushed_at": "2026-06-16T17:16:20Z",
+      "updated_at": "2026-06-16T17:24:54Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1859,
+      "forks": 127,
+      "language": "Go",
+      "pushed_at": "2026-06-16T19:01:05Z",
+      "updated_at": "2026-06-16T18:58:04Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1068,
+      "stars": 1072,
       "forks": 65,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T11:29:48Z",
-      "updated_at": "2026-06-16T12:37:24Z"
+      "pushed_at": "2026-06-16T17:08:43Z",
+      "updated_at": "2026-06-16T19:21:27Z"
     },
     {
       "id": 1148683593,
@@ -103,74 +125,52 @@
       "stars": 879,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-16T12:51:01Z",
-      "updated_at": "2026-06-16T11:44:43Z"
+      "pushed_at": "2026-06-16T17:03:04Z",
+      "updated_at": "2026-06-16T17:03:32Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 784,
-      "forks": 44,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T10:53:48Z",
-      "updated_at": "2026-06-16T11:59:05Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 409,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-06-16T18:45:22Z",
+      "updated_at": "2026-06-16T18:45:57Z"
     },
     {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 509,
-      "forks": 96,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T11:10:30Z",
-      "updated_at": "2026-06-16T11:00:17Z"
+      "id": 1058972912,
+      "full_name": "gouwsxander/Reef",
+      "html_url": "https://github.com/gouwsxander/Reef",
+      "description": "The macOS window manager that gives every app its own Alt-Tab.",
+      "stars": 366,
+      "forks": 22,
+      "language": "Swift",
+      "pushed_at": "2026-06-16T17:49:28Z",
+      "updated_at": "2026-06-16T18:52:20Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 313,
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 290,
+      "forks": 18,
+      "language": "Swift",
+      "pushed_at": "2026-06-16T19:34:18Z",
+      "updated_at": "2026-06-16T19:34:23Z"
+    },
+    {
+      "id": 916292078,
+      "full_name": "detroittommy879/aicodeprep-gui",
+      "html_url": "https://github.com/detroittommy879/aicodeprep-gui",
+      "description": "Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run",
+      "stars": 270,
       "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-16T11:06:30Z",
-      "updated_at": "2026-06-16T11:06:35Z"
-    },
-    {
-      "id": 953210081,
-      "full_name": "prime-run/togo",
-      "html_url": "https://github.com/prime-run/togo",
-      "description": "A fast and simple terminal-based task and todo manager built in go",
-      "stars": 157,
-      "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-06-16T12:39:37Z",
-      "updated_at": "2026-06-16T12:40:00Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 138,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T12:47:33Z",
-      "updated_at": "2026-06-16T11:34:43Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local first cli-native issue tracker - distributed and  backed by git",
-      "stars": 134,
-      "forks": 5,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T11:50:27Z",
-      "updated_at": "2026-06-16T11:51:17Z"
+      "language": "Python",
+      "pushed_at": "2026-06-16T17:01:14Z",
+      "updated_at": "2026-06-16T17:01:57Z"
     }
   ]
 }
