@@ -5,150 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 910,
+  "total_found": 913,
   "items": [
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 216681,
+      "forks": 33285,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-16T21:30:48Z",
+      "updated_at": "2026-06-16T22:07:56Z"
+    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 62939,
-      "forks": 3883,
+      "stars": 62961,
+      "forks": 3884,
       "language": "Rust",
-      "pushed_at": "2026-06-16T18:36:17Z",
-      "updated_at": "2026-06-16T19:29:05Z"
+      "pushed_at": "2026-06-16T21:47:59Z",
+      "updated_at": "2026-06-16T22:07:06Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20122,
-      "forks": 1777,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T18:43:30Z",
-      "updated_at": "2026-06-16T19:24:34Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43929,
+      "forks": 2751,
+      "language": "C#",
+      "pushed_at": "2026-06-16T21:16:43Z",
+      "updated_at": "2026-06-16T21:11:13Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 14976,
+      "stars": 14977,
       "forks": 1533,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T19:16:12Z",
-      "updated_at": "2026-06-16T19:30:15Z"
+      "pushed_at": "2026-06-16T21:16:00Z",
+      "updated_at": "2026-06-16T21:30:41Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11300,
+      "stars": 11304,
       "forks": 1393,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T18:21:38Z",
-      "updated_at": "2026-06-16T19:02:08Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5318,
-      "forks": 626,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-16T18:15:39Z",
-      "updated_at": "2026-06-16T18:06:40Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3731,
-      "forks": 780,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T19:28:18Z",
-      "updated_at": "2026-06-16T18:41:22Z"
+      "pushed_at": "2026-06-16T21:26:12Z",
+      "updated_at": "2026-06-16T21:26:18Z"
     },
     {
       "id": 1079924730,
-      "full_name": "BarutSRB/Hiro",
-      "html_url": "https://github.com/BarutSRB/Hiro",
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1968,
+      "stars": 1965,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-06-16T19:29:15Z",
-      "updated_at": "2026-06-16T19:29:17Z"
+      "pushed_at": "2026-06-16T22:02:36Z",
+      "updated_at": "2026-06-16T22:03:28Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1879,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-16T17:16:20Z",
-      "updated_at": "2026-06-16T17:24:54Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1859,
-      "forks": 127,
-      "language": "Go",
-      "pushed_at": "2026-06-16T19:01:05Z",
-      "updated_at": "2026-06-16T18:58:04Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1072,
-      "forks": 65,
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 403,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T17:08:43Z",
-      "updated_at": "2026-06-16T19:21:27Z"
+      "pushed_at": "2026-06-16T21:57:36Z",
+      "updated_at": "2026-06-16T21:57:38Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.",
-      "stars": 879,
-      "forks": 25,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-06-16T17:03:04Z",
-      "updated_at": "2026-06-16T17:03:32Z"
-    },
-    {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 409,
-      "forks": 53,
-      "language": "PHP",
-      "pushed_at": "2026-06-16T18:45:22Z",
-      "updated_at": "2026-06-16T18:45:57Z"
-    },
-    {
-      "id": 1058972912,
-      "full_name": "gouwsxander/Reef",
-      "html_url": "https://github.com/gouwsxander/Reef",
-      "description": "The macOS window manager that gives every app its own Alt-Tab.",
-      "stars": 366,
-      "forks": 22,
-      "language": "Swift",
-      "pushed_at": "2026-06-16T17:49:28Z",
-      "updated_at": "2026-06-16T18:52:20Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 313,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-16T20:47:48Z",
+      "updated_at": "2026-06-16T20:47:53Z"
     },
     {
       "id": 1152798823,
@@ -158,8 +103,8 @@
       "stars": 290,
       "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-06-16T19:34:18Z",
-      "updated_at": "2026-06-16T19:34:23Z"
+      "pushed_at": "2026-06-16T20:48:14Z",
+      "updated_at": "2026-06-16T20:48:57Z"
     },
     {
       "id": 916292078,
@@ -169,8 +114,63 @@
       "stars": 270,
       "forks": 16,
       "language": "Python",
-      "pushed_at": "2026-06-16T17:01:14Z",
-      "updated_at": "2026-06-16T17:01:57Z"
+      "pushed_at": "2026-06-16T21:26:38Z",
+      "updated_at": "2026-06-16T21:26:42Z"
+    },
+    {
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 249,
+      "forks": 10,
+      "language": "Go",
+      "pushed_at": "2026-06-16T20:54:58Z",
+      "updated_at": "2026-06-16T20:55:03Z"
+    },
+    {
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 214,
+      "forks": 3,
+      "language": "Rust",
+      "pushed_at": "2026-06-16T20:36:27Z",
+      "updated_at": "2026-06-16T20:36:31Z"
+    },
+    {
+      "id": 1146501646,
+      "full_name": "ykdojo/safeclaw",
+      "html_url": "https://github.com/ykdojo/safeclaw",
+      "description": "The easiest way to run multiple Claude Code sessions, each in its own container, with a dashboard to manage them all. Quick setup with battle-tested sensible defaults and skills.",
+      "stars": 156,
+      "forks": 18,
+      "language": "HTML",
+      "pushed_at": "2026-06-16T21:58:14Z",
+      "updated_at": "2026-06-16T21:58:18Z"
+    },
+    {
+      "id": 1234381241,
+      "full_name": "Umbrella-io/devtrack",
+      "html_url": "https://github.com/Umbrella-io/devtrack",
+      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
+      "stars": 136,
+      "forks": 382,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-16T19:42:19Z",
+      "updated_at": "2026-06-16T19:43:26Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 126,
+      "forks": 8,
+      "language": "Rust",
+      "pushed_at": "2026-06-16T20:27:41Z",
+      "updated_at": "2026-06-16T21:44:57Z"
     }
   ]
 }
