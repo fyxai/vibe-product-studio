@@ -8,59 +8,37 @@
   "total_found": 910,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 63588,
-      "forks": 3912,
-      "language": "Rust",
-      "pushed_at": "2026-06-18T15:12:59Z",
-      "updated_at": "2026-06-18T15:20:26Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43949,
-      "forks": 2753,
-      "language": "C#",
-      "pushed_at": "2026-06-18T15:06:54Z",
-      "updated_at": "2026-06-18T15:08:14Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39523,
-      "forks": 902,
-      "language": "Rust",
-      "pushed_at": "2026-06-18T13:38:46Z",
-      "updated_at": "2026-06-18T14:22:53Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38173,
-      "forks": 3797,
-      "language": "C#",
-      "pushed_at": "2026-06-18T15:03:05Z",
-      "updated_at": "2026-06-18T15:05:27Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20157,
-      "forks": 1785,
+      "stars": 20160,
+      "forks": 1786,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T15:07:42Z",
-      "updated_at": "2026-06-18T14:36:14Z"
+      "pushed_at": "2026-06-18T18:23:01Z",
+      "updated_at": "2026-06-18T18:22:58Z"
+    },
+    {
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 17934,
+      "forks": 926,
+      "language": "Python",
+      "pushed_at": "2026-06-18T17:09:43Z",
+      "updated_at": "2026-06-18T17:44:12Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8077,
+      "forks": 218,
+      "language": "C++",
+      "pushed_at": "2026-06-18T15:50:26Z",
+      "updated_at": "2026-06-18T16:24:28Z"
     },
     {
       "id": 129699403,
@@ -70,52 +48,85 @@
       "stars": 5700,
       "forks": 746,
       "language": "Swift",
-      "pushed_at": "2026-06-18T15:21:11Z",
-      "updated_at": "2026-06-18T15:18:51Z"
+      "pushed_at": "2026-06-18T18:14:45Z",
+      "updated_at": "2026-06-18T18:14:47Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5324,
+      "stars": 5325,
       "forks": 628,
       "language": "Kotlin",
-      "pushed_at": "2026-06-18T14:51:35Z",
-      "updated_at": "2026-06-18T14:52:52Z"
+      "pushed_at": "2026-06-18T17:55:02Z",
+      "updated_at": "2026-06-18T17:55:06Z"
     },
     {
-      "id": 1083188349,
-      "full_name": "RICHQAQ/PasteMD",
-      "html_url": "https://github.com/RICHQAQ/PasteMD",
-      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 4985,
-      "forks": 299,
-      "language": "Python",
-      "pushed_at": "2026-06-18T14:27:47Z",
-      "updated_at": "2026-06-18T14:28:20Z"
+      "id": 262013713,
+      "full_name": "leits/MeetingBar",
+      "html_url": "https://github.com/leits/MeetingBar",
+      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+      "stars": 5253,
+      "forks": 276,
+      "language": "Swift",
+      "pushed_at": "2026-06-18T16:35:27Z",
+      "updated_at": "2026-06-18T16:41:10Z"
     },
     {
-      "id": 217049587,
-      "full_name": "alan-ai/alan-sdk-web",
-      "html_url": "https://github.com/alan-ai/alan-sdk-web",
-      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
-      "stars": 2438,
-      "forks": 104,
-      "language": "Unknown",
-      "pushed_at": "2026-06-18T15:13:37Z",
-      "updated_at": "2026-06-18T15:14:56Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1971,
+      "forks": 62,
+      "language": "Swift",
+      "pushed_at": "2026-06-18T17:02:18Z",
+      "updated_at": "2026-06-18T17:02:23Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1879,
+      "forks": 138,
+      "language": "Dart",
+      "pushed_at": "2026-06-18T17:06:43Z",
+      "updated_at": "2026-06-18T17:06:47Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1349,
+      "forks": 81,
+      "language": "Rust",
+      "pushed_at": "2026-06-18T17:47:23Z",
+      "updated_at": "2026-06-18T18:05:08Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
+      "stars": 981,
+      "forks": 181,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-18T18:03:42Z",
+      "updated_at": "2026-06-18T18:03:48Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.",
-      "stars": 884,
+      "stars": 886,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-18T15:21:28Z",
-      "updated_at": "2026-06-18T15:18:04Z"
+      "pushed_at": "2026-06-18T18:21:34Z",
+      "updated_at": "2026-06-18T18:21:39Z"
     },
     {
       "id": 591995344,
@@ -125,52 +136,41 @@
       "stars": 761,
       "forks": 77,
       "language": "Python",
-      "pushed_at": "2026-06-18T15:14:10Z",
-      "updated_at": "2026-06-18T15:16:04Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 502,
-      "forks": 62,
-      "language": "Swift",
-      "pushed_at": "2026-06-18T13:53:35Z",
-      "updated_at": "2026-06-18T13:54:13Z"
+      "pushed_at": "2026-06-18T17:04:58Z",
+      "updated_at": "2026-06-18T17:05:03Z"
     },
     {
       "id": 1149110392,
       "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
       "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
       "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
-      "stars": 414,
+      "stars": 416,
       "forks": 54,
       "language": "Unknown",
-      "pushed_at": "2026-06-18T15:19:48Z",
-      "updated_at": "2026-06-18T15:21:09Z"
+      "pushed_at": "2026-06-18T16:20:07Z",
+      "updated_at": "2026-06-18T16:20:13Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 313,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-18T15:00:42Z",
-      "updated_at": "2026-06-18T15:02:25Z"
+      "id": 1152670680,
+      "full_name": "royalbhati/HopTab",
+      "html_url": "https://github.com/royalbhati/HopTab",
+      "description": "minimal macOS app switcher for when Cmd+Tab gets way too noisy",
+      "stars": 272,
+      "forks": 3,
+      "language": "Swift",
+      "pushed_at": "2026-06-18T17:49:52Z",
+      "updated_at": "2026-06-18T17:49:58Z"
     },
     {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 241,
-      "forks": 22,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-18T14:29:06Z",
-      "updated_at": "2026-06-18T14:30:28Z"
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 139,
+      "forks": 31,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-18T15:51:54Z",
+      "updated_at": "2026-06-18T17:31:43Z"
     }
   ]
 }
