@@ -5,40 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 910,
+  "total_found": 955,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20160,
-      "forks": 1786,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-18T18:23:01Z",
-      "updated_at": "2026-06-18T18:22:58Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 217749,
+      "forks": 33408,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-18T21:07:25Z",
+      "updated_at": "2026-06-18T22:00:27Z"
     },
     {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 17934,
-      "forks": 926,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 63664,
+      "forks": 3920,
+      "language": "Rust",
+      "pushed_at": "2026-06-18T20:08:08Z",
+      "updated_at": "2026-06-18T22:05:10Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43952,
+      "forks": 2753,
+      "language": "C#",
+      "pushed_at": "2026-06-18T21:03:58Z",
+      "updated_at": "2026-06-18T21:52:02Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24265,
+      "forks": 2300,
       "language": "Python",
-      "pushed_at": "2026-06-18T17:09:43Z",
-      "updated_at": "2026-06-18T17:44:12Z"
+      "pushed_at": "2026-06-18T21:51:37Z",
+      "updated_at": "2026-06-18T21:16:11Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8077,
-      "forks": 218,
-      "language": "C++",
-      "pushed_at": "2026-06-18T15:50:26Z",
-      "updated_at": "2026-06-18T16:24:28Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 14995,
+      "forks": 1535,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-18T21:23:06Z",
+      "updated_at": "2026-06-18T19:21:22Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11340,
+      "forks": 1399,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-18T19:28:57Z",
+      "updated_at": "2026-06-18T21:20:13Z"
     },
     {
       "id": 129699403,
@@ -48,74 +81,52 @@
       "stars": 5700,
       "forks": 746,
       "language": "Swift",
-      "pushed_at": "2026-06-18T18:14:45Z",
-      "updated_at": "2026-06-18T18:14:47Z"
+      "pushed_at": "2026-06-18T21:10:31Z",
+      "updated_at": "2026-06-18T20:47:45Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5325,
-      "forks": 628,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-18T17:55:02Z",
-      "updated_at": "2026-06-18T17:55:06Z"
+      "id": 217049587,
+      "full_name": "alan-ai/alan-sdk-web",
+      "html_url": "https://github.com/alan-ai/alan-sdk-web",
+      "description": "The Self-Coding System for Your App — Alan AI SDK for Web",
+      "stars": 2438,
+      "forks": 104,
+      "language": "Unknown",
+      "pushed_at": "2026-06-18T20:46:05Z",
+      "updated_at": "2026-06-18T20:46:10Z"
     },
     {
-      "id": 262013713,
-      "full_name": "leits/MeetingBar",
-      "html_url": "https://github.com/leits/MeetingBar",
-      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
-      "stars": 5253,
-      "forks": 276,
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2260,
+      "forks": 90,
       "language": "Swift",
-      "pushed_at": "2026-06-18T16:35:27Z",
-      "updated_at": "2026-06-18T16:41:10Z"
+      "pushed_at": "2026-06-18T20:14:39Z",
+      "updated_at": "2026-06-18T20:14:45Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 1971,
-      "forks": 62,
-      "language": "Swift",
-      "pushed_at": "2026-06-18T17:02:18Z",
-      "updated_at": "2026-06-18T17:02:23Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1879,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-18T17:06:43Z",
-      "updated_at": "2026-06-18T17:06:47Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1349,
-      "forks": 81,
-      "language": "Rust",
-      "pushed_at": "2026-06-18T17:47:23Z",
-      "updated_at": "2026-06-18T18:05:08Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1092,
+      "forks": 66,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-18T21:42:27Z",
+      "updated_at": "2026-06-18T21:42:31Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
-      "stars": 981,
+      "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
+      "stars": 982,
       "forks": 181,
       "language": "JavaScript",
-      "pushed_at": "2026-06-18T18:03:42Z",
-      "updated_at": "2026-06-18T18:03:48Z"
+      "pushed_at": "2026-06-18T20:42:24Z",
+      "updated_at": "2026-06-18T20:44:59Z"
     },
     {
       "id": 1148683593,
@@ -125,8 +136,8 @@
       "stars": 886,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-18T18:21:34Z",
-      "updated_at": "2026-06-18T18:21:39Z"
+      "pushed_at": "2026-06-18T19:45:49Z",
+      "updated_at": "2026-06-18T19:45:54Z"
     },
     {
       "id": 591995344,
@@ -136,41 +147,30 @@
       "stars": 761,
       "forks": 77,
       "language": "Python",
-      "pushed_at": "2026-06-18T17:04:58Z",
-      "updated_at": "2026-06-18T17:05:03Z"
+      "pushed_at": "2026-06-18T22:01:23Z",
+      "updated_at": "2026-06-18T22:01:45Z"
     },
     {
-      "id": 1149110392,
-      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
-      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
-      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
-      "stars": 416,
-      "forks": 54,
-      "language": "Unknown",
-      "pushed_at": "2026-06-18T16:20:07Z",
-      "updated_at": "2026-06-18T16:20:13Z"
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-06-18T19:24:32Z",
+      "updated_at": "2026-06-18T19:24:38Z"
     },
     {
-      "id": 1152670680,
-      "full_name": "royalbhati/HopTab",
-      "html_url": "https://github.com/royalbhati/HopTab",
-      "description": "minimal macOS app switcher for when Cmd+Tab gets way too noisy",
-      "stars": 272,
-      "forks": 3,
-      "language": "Swift",
-      "pushed_at": "2026-06-18T17:49:52Z",
-      "updated_at": "2026-06-18T17:49:58Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 139,
-      "forks": 31,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-18T15:51:54Z",
-      "updated_at": "2026-06-18T17:31:43Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 313,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-18T20:21:34Z",
+      "updated_at": "2026-06-18T20:21:43Z"
     }
   ]
 }
