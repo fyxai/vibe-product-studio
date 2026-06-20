@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 961,
+  "total_found": 962,
   "items": [
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15007,
-      "forks": 1537,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T21:02:10Z",
-      "updated_at": "2026-06-19T20:19:36Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11353,
-      "forks": 1400,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T19:08:51Z",
-      "updated_at": "2026-06-19T21:04:52Z"
-    },
-    {
-      "id": 119006816,
-      "full_name": "Splode/pomotroid",
-      "html_url": "https://github.com/Splode/pomotroid",
-      "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
-      "stars": 5274,
-      "forks": 453,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39570,
+      "forks": 903,
       "language": "Rust",
-      "pushed_at": "2026-06-19T20:25:50Z",
-      "updated_at": "2026-06-19T20:23:38Z"
+      "pushed_at": "2026-06-20T03:31:52Z",
+      "updated_at": "2026-06-20T03:15:44Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1100,
-      "forks": 67,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20175,
+      "forks": 1787,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:44:56Z",
-      "updated_at": "2026-06-19T20:45:00Z"
+      "pushed_at": "2026-06-20T00:39:20Z",
+      "updated_at": "2026-06-20T02:11:49Z"
+    },
+    {
+      "id": 70557651,
+      "full_name": "oliverschwendener/ueli",
+      "html_url": "https://github.com/oliverschwendener/ueli",
+      "description": "Cross-Platform Keystroke Launcher",
+      "stars": 4539,
+      "forks": 274,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-19T23:18:42Z",
+      "updated_at": "2026-06-20T02:57:45Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 1993,
+      "forks": 65,
+      "language": "Swift",
+      "pushed_at": "2026-06-20T00:45:28Z",
+      "updated_at": "2026-06-20T00:45:30Z"
     },
     {
       "id": 1148683593,
@@ -59,8 +59,19 @@
       "stars": 887,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-19T19:44:18Z",
-      "updated_at": "2026-06-19T19:44:22Z"
+      "pushed_at": "2026-06-19T22:58:31Z",
+      "updated_at": "2026-06-19T22:58:35Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 796,
+      "forks": 46,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T02:50:51Z",
+      "updated_at": "2026-06-20T02:50:53Z"
     },
     {
       "id": 591995344,
@@ -70,30 +81,30 @@
       "stars": 761,
       "forks": 77,
       "language": "Python",
-      "pushed_at": "2026-06-19T21:06:11Z",
-      "updated_at": "2026-06-19T21:06:15Z"
+      "pushed_at": "2026-06-20T03:25:50Z",
+      "updated_at": "2026-06-20T03:25:54Z"
     },
     {
-      "id": 1126665558,
-      "full_name": "3xpyth0n/ideon",
-      "html_url": "https://github.com/3xpyth0n/ideon",
-      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
-      "stars": 468,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:32:01Z",
-      "updated_at": "2026-06-19T20:26:21Z"
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 571,
+      "forks": 43,
+      "language": "Swift",
+      "pushed_at": "2026-06-20T03:12:43Z",
+      "updated_at": "2026-06-20T03:33:35Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 457,
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
       "forks": 32,
-      "language": "Shell",
-      "pushed_at": "2026-06-19T20:48:04Z",
-      "updated_at": "2026-06-19T20:41:22Z"
+      "language": "Rust",
+      "pushed_at": "2026-06-20T03:05:21Z",
+      "updated_at": "2026-06-20T03:05:25Z"
     },
     {
       "id": 244958571,
@@ -103,8 +114,19 @@
       "stars": 443,
       "forks": 76,
       "language": "Go",
-      "pushed_at": "2026-06-19T18:38:00Z",
-      "updated_at": "2026-06-19T18:25:07Z"
+      "pushed_at": "2026-06-20T01:15:47Z",
+      "updated_at": "2026-06-20T01:10:04Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T02:55:26Z",
+      "updated_at": "2026-06-20T02:55:29Z"
     },
     {
       "id": 1166865874,
@@ -114,63 +136,41 @@
       "stars": 313,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-19T19:45:48Z",
-      "updated_at": "2026-06-19T19:45:52Z"
+      "pushed_at": "2026-06-20T02:55:04Z",
+      "updated_at": "2026-06-20T02:55:08Z"
     },
     {
-      "id": 1152798823,
-      "full_name": "Santofer/Remindian",
-      "html_url": "https://github.com/Santofer/Remindian",
-      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
-      "stars": 291,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 140,
+      "forks": 31,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T03:14:25Z",
+      "updated_at": "2026-06-20T03:14:29Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 126,
+      "forks": 8,
+      "language": "Rust",
+      "pushed_at": "2026-06-19T23:25:07Z",
+      "updated_at": "2026-06-19T23:25:11Z"
+    },
+    {
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 111,
       "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-06-19T18:05:10Z",
-      "updated_at": "2026-06-19T18:05:18Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 134,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-19T19:51:16Z",
-      "updated_at": "2026-06-19T19:50:52Z"
-    },
-    {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 83,
-      "forks": 26,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:38:27Z",
-      "updated_at": "2026-06-19T20:38:29Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 77,
-      "forks": 7,
-      "language": "C#",
-      "pushed_at": "2026-06-19T20:57:21Z",
-      "updated_at": "2026-06-19T20:55:15Z"
-    },
-    {
-      "id": 1133644268,
-      "full_name": "DevelopedByDev/overlay-web",
-      "html_url": "https://github.com/DevelopedByDev/overlay-web",
-      "description": "The open source AI operating system",
-      "stars": 69,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:42:33Z",
-      "updated_at": "2026-06-19T20:42:37Z"
+      "pushed_at": "2026-06-19T23:07:46Z",
+      "updated_at": "2026-06-19T23:07:49Z"
     }
   ]
 }
