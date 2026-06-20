@@ -5,117 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 935,
+  "total_found": 936,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 64103,
-      "forks": 3945,
-      "language": "Rust",
-      "pushed_at": "2026-06-20T15:24:24Z",
-      "updated_at": "2026-06-20T17:23:36Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 218797,
+      "forks": 33552,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T19:46:20Z",
+      "updated_at": "2026-06-20T21:15:00Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39588,
-      "forks": 904,
-      "language": "Rust",
-      "pushed_at": "2026-06-20T16:15:14Z",
-      "updated_at": "2026-06-20T16:35:27Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8101,
+      "forks": 220,
+      "language": "C++",
+      "pushed_at": "2026-06-20T21:10:48Z",
+      "updated_at": "2026-06-20T21:06:23Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25477,
-      "forks": 1860,
-      "language": "Vue",
-      "pushed_at": "2026-06-20T16:42:06Z",
-      "updated_at": "2026-06-20T17:11:43Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20181,
-      "forks": 1788,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T15:18:00Z",
-      "updated_at": "2026-06-20T16:41:03Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13174,
-      "forks": 800,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T16:12:39Z",
-      "updated_at": "2026-06-20T16:51:59Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5702,
-      "forks": 747,
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2001,
+      "forks": 67,
       "language": "Swift",
-      "pushed_at": "2026-06-20T16:30:31Z",
-      "updated_at": "2026-06-20T15:43:16Z"
+      "pushed_at": "2026-06-20T21:00:22Z",
+      "updated_at": "2026-06-20T21:00:25Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1883,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-20T14:48:57Z",
-      "updated_at": "2026-06-20T14:49:01Z"
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1150,
+      "forks": 121,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-20T19:44:42Z",
+      "updated_at": "2026-06-20T19:44:46Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1861,
-      "forks": 127,
-      "language": "Go",
-      "pushed_at": "2026-06-20T17:12:41Z",
-      "updated_at": "2026-06-20T17:08:30Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1103,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T20:31:23Z",
+      "updated_at": "2026-06-20T20:53:56Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
       "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
-      "stars": 991,
+      "stars": 994,
       "forks": 182,
       "language": "JavaScript",
-      "pushed_at": "2026-06-20T17:23:32Z",
-      "updated_at": "2026-06-20T17:23:36Z"
-    },
-    {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 938,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-06-20T15:06:22Z",
-      "updated_at": "2026-06-20T15:03:56Z"
+      "pushed_at": "2026-06-20T19:02:48Z",
+      "updated_at": "2026-06-20T20:07:51Z"
     },
     {
       "id": 1148683593,
@@ -125,41 +81,63 @@
       "stars": 888,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-20T15:00:44Z",
-      "updated_at": "2026-06-20T15:00:47Z"
+      "pushed_at": "2026-06-20T18:41:17Z",
+      "updated_at": "2026-06-20T18:41:21Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 704,
-      "forks": 40,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 762,
+      "forks": 77,
       "language": "Python",
-      "pushed_at": "2026-06-20T16:55:39Z",
-      "updated_at": "2026-06-20T16:55:35Z"
+      "pushed_at": "2026-06-20T21:16:02Z",
+      "updated_at": "2026-06-20T21:16:06Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 620,
-      "forks": 111,
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-06-20T20:45:39Z",
+      "updated_at": "2026-06-20T20:45:44Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 313,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-20T19:26:59Z",
+      "updated_at": "2026-06-20T19:27:03Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 135,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-20T18:38:26Z",
+      "updated_at": "2026-06-20T18:37:51Z"
+    },
+    {
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 133,
+      "forks": 8,
       "language": "JavaScript",
-      "pushed_at": "2026-06-20T15:43:32Z",
-      "updated_at": "2026-06-20T15:43:36Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 443,
-      "forks": 76,
-      "language": "Go",
-      "pushed_at": "2026-06-20T16:50:05Z",
-      "updated_at": "2026-06-20T16:41:28Z"
+      "pushed_at": "2026-06-20T20:38:15Z",
+      "updated_at": "2026-06-20T20:38:11Z"
     },
     {
       "id": 1142492960,
@@ -169,8 +147,30 @@
       "stars": 111,
       "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-06-20T16:11:02Z",
-      "updated_at": "2026-06-20T16:11:04Z"
+      "pushed_at": "2026-06-20T21:16:11Z",
+      "updated_at": "2026-06-20T21:16:13Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 80,
+      "forks": 7,
+      "language": "C#",
+      "pushed_at": "2026-06-20T20:37:16Z",
+      "updated_at": "2026-06-20T20:37:20Z"
+    },
+    {
+      "id": 1118438465,
+      "full_name": "travisjneuman/.claude",
+      "html_url": "https://github.com/travisjneuman/.claude",
+      "description": "The Ultimate Claude Code Toolkit — 127 skills, 86 agents, 109 marketplace repos (11,700+ community skills), 30 commands, 8 hooks, GSD framework. Drop-in ~/.claude config that auto-activates the right resources from your prompt. Zero config required.",
+      "stars": 69,
+      "forks": 18,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T18:13:47Z",
+      "updated_at": "2026-06-20T18:13:50Z"
     }
   ]
 }
