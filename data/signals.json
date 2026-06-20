@@ -12,77 +12,66 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 125689,
+      "stars": 125703,
       "forks": 14077,
       "language": "TypeScript",
       "pushed_at": "2026-06-20T09:45:19Z",
-      "updated_at": "2026-06-20T10:12:04Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39578,
-      "forks": 903,
-      "language": "Rust",
-      "pushed_at": "2026-06-20T05:17:33Z",
-      "updated_at": "2026-06-20T09:55:45Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25473,
-      "forks": 1860,
-      "language": "Vue",
-      "pushed_at": "2026-06-20T07:11:45Z",
-      "updated_at": "2026-06-20T09:11:06Z"
+      "updated_at": "2026-06-20T14:00:13Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20177,
-      "forks": 1787,
+      "stars": 20179,
+      "forks": 1788,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:02:58Z",
-      "updated_at": "2026-06-20T10:03:02Z"
+      "pushed_at": "2026-06-20T13:38:52Z",
+      "updated_at": "2026-06-20T13:38:56Z"
     },
     {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 5103,
-      "forks": 378,
-      "language": "Shell",
-      "pushed_at": "2026-06-20T07:41:51Z",
-      "updated_at": "2026-06-20T09:58:30Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 15014,
+      "forks": 1537,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T12:31:49Z",
+      "updated_at": "2026-06-20T13:28:46Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2260,
-      "forks": 90,
-      "language": "Swift",
-      "pushed_at": "2026-06-20T06:14:23Z",
-      "updated_at": "2026-06-20T06:14:26Z"
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13172,
+      "forks": 800,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T12:39:41Z",
+      "updated_at": "2026-06-20T12:46:41Z"
     },
     {
       "id": 257400448,
       "full_name": "carapace-sh/carapace-bin",
       "html_url": "https://github.com/carapace-sh/carapace-bin",
       "description": "A multi-shell completion binary.",
-      "stars": 1860,
+      "stars": 1861,
       "forks": 127,
       "language": "Go",
-      "pushed_at": "2026-06-20T10:28:12Z",
-      "updated_at": "2026-06-20T10:28:16Z"
+      "pushed_at": "2026-06-20T14:00:17Z",
+      "updated_at": "2026-06-20T14:00:21Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
+      "stars": 991,
+      "forks": 182,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T12:45:36Z",
+      "updated_at": "2026-06-20T12:45:39Z"
     },
     {
       "id": 1148683593,
@@ -92,19 +81,8 @@
       "stars": 888,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-20T10:27:18Z",
-      "updated_at": "2026-06-20T10:27:22Z"
-    },
-    {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 798,
-      "forks": 44,
-      "language": "Swift",
-      "pushed_at": "2026-06-20T07:39:12Z",
-      "updated_at": "2026-06-20T09:50:12Z"
+      "pushed_at": "2026-06-20T11:54:19Z",
+      "updated_at": "2026-06-20T11:54:24Z"
     },
     {
       "id": 1125258937,
@@ -114,8 +92,30 @@
       "stars": 797,
       "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T09:54:57Z",
-      "updated_at": "2026-06-20T09:55:00Z"
+      "pushed_at": "2026-06-20T13:10:42Z",
+      "updated_at": "2026-06-20T11:56:38Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 762,
+      "forks": 77,
+      "language": "Python",
+      "pushed_at": "2026-06-20T11:01:34Z",
+      "updated_at": "2026-06-20T11:01:37Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 443,
+      "forks": 76,
+      "language": "Go",
+      "pushed_at": "2026-06-20T12:21:19Z",
+      "updated_at": "2026-06-20T12:12:57Z"
     },
     {
       "id": 226175035,
@@ -125,8 +125,8 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T09:57:10Z",
-      "updated_at": "2026-06-20T09:57:10Z"
+      "pushed_at": "2026-06-20T13:16:44Z",
+      "updated_at": "2026-06-20T13:16:47Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +136,41 @@
       "stars": 313,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-20T08:50:30Z",
-      "updated_at": "2026-06-20T08:50:34Z"
+      "pushed_at": "2026-06-20T13:53:24Z",
+      "updated_at": "2026-06-20T13:53:28Z"
     },
     {
-      "id": 1123208325,
-      "full_name": "smixs/agent-second-brain",
-      "html_url": "https://github.com/smixs/agent-second-brain",
-      "description": "An always-on second brain you talk to. Voice notes in Telegram → typed, linked knowledge in your Obsidian vault. Runs 24/7 on the Claude subscription you already have.",
-      "stars": 276,
-      "forks": 190,
-      "language": "Python",
-      "pushed_at": "2026-06-20T06:06:35Z",
-      "updated_at": "2026-06-20T06:06:36Z"
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 249,
+      "forks": 11,
+      "language": "Go",
+      "pushed_at": "2026-06-20T11:43:21Z",
+      "updated_at": "2026-06-20T11:43:25Z"
     },
     {
-      "id": 1124365241,
-      "full_name": "EbadShelby/dotfiles",
-      "html_url": "https://github.com/EbadShelby/dotfiles",
-      "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 175,
-      "forks": 5,
-      "language": "CSS",
-      "pushed_at": "2026-06-20T05:28:58Z",
-      "updated_at": "2026-06-20T08:13:04Z"
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 222,
+      "forks": 56,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T13:42:18Z",
+      "updated_at": "2026-06-20T13:55:16Z"
     },
     {
-      "id": 1132684547,
-      "full_name": "BuildWithAIs/voicekey",
-      "html_url": "https://github.com/BuildWithAIs/voicekey",
-      "description": "Voice to text, one key to input.",
-      "stars": 157,
-      "forks": 14,
+      "id": 905920026,
+      "full_name": "anechunaev/notion-electron",
+      "html_url": "https://github.com/anechunaev/notion-electron",
+      "description": "Notion Desktop Client for Linux",
+      "stars": 185,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T08:12:58Z",
-      "updated_at": "2026-06-20T08:13:03Z"
+      "pushed_at": "2026-06-20T13:59:09Z",
+      "updated_at": "2026-06-20T13:59:13Z"
     }
   ]
 }
