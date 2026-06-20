@@ -8,26 +8,59 @@
   "total_found": 935,
   "items": [
     {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 125689,
+      "forks": 14077,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T09:45:19Z",
+      "updated_at": "2026-06-20T10:12:04Z"
+    },
+    {
       "id": 663900193,
       "full_name": "sxyazi/yazi",
       "html_url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39574,
+      "stars": 39578,
       "forks": 903,
       "language": "Rust",
       "pushed_at": "2026-06-20T05:17:33Z",
-      "updated_at": "2026-06-20T07:47:23Z"
+      "updated_at": "2026-06-20T09:55:45Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25473,
+      "forks": 1860,
+      "language": "Vue",
+      "pushed_at": "2026-06-20T07:11:45Z",
+      "updated_at": "2026-06-20T09:11:06Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20177,
+      "forks": 1787,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T10:02:58Z",
+      "updated_at": "2026-06-20T10:03:02Z"
     },
     {
       "id": 1180917769,
       "full_name": "uditgoenka/autoresearch",
       "html_url": "https://github.com/uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 5101,
+      "stars": 5103,
       "forks": 378,
       "language": "Shell",
       "pushed_at": "2026-06-20T07:41:51Z",
-      "updated_at": "2026-06-20T07:41:42Z"
+      "updated_at": "2026-06-20T09:58:30Z"
     },
     {
       "id": 324267700,
@@ -41,6 +74,17 @@
       "updated_at": "2026-06-20T06:14:26Z"
     },
     {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1860,
+      "forks": 127,
+      "language": "Go",
+      "pushed_at": "2026-06-20T10:28:12Z",
+      "updated_at": "2026-06-20T10:28:16Z"
+    },
+    {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
@@ -48,8 +92,19 @@
       "stars": 888,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-20T07:46:34Z",
-      "updated_at": "2026-06-20T07:46:38Z"
+      "pushed_at": "2026-06-20T10:27:18Z",
+      "updated_at": "2026-06-20T10:27:22Z"
+    },
+    {
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 798,
+      "forks": 44,
+      "language": "Swift",
+      "pushed_at": "2026-06-20T07:39:12Z",
+      "updated_at": "2026-06-20T09:50:12Z"
     },
     {
       "id": 1125258937,
@@ -59,41 +114,8 @@
       "stars": 797,
       "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T05:23:56Z",
-      "updated_at": "2026-06-20T05:27:05Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 762,
-      "forks": 77,
-      "language": "Python",
-      "pushed_at": "2026-06-20T04:01:45Z",
-      "updated_at": "2026-06-20T04:13:16Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 483,
-      "forks": 69,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-20T04:56:29Z",
-      "updated_at": "2026-06-20T06:04:20Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 443,
-      "forks": 76,
-      "language": "Go",
-      "pushed_at": "2026-06-20T04:51:10Z",
-      "updated_at": "2026-06-20T04:42:54Z"
+      "pushed_at": "2026-06-20T09:54:57Z",
+      "updated_at": "2026-06-20T09:55:00Z"
     },
     {
       "id": 226175035,
@@ -103,8 +125,19 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T05:40:11Z",
-      "updated_at": "2026-06-20T05:40:14Z"
+      "pushed_at": "2026-06-20T09:57:10Z",
+      "updated_at": "2026-06-20T09:57:10Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 313,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-06-20T08:50:30Z",
+      "updated_at": "2026-06-20T08:50:34Z"
     },
     {
       "id": 1123208325,
@@ -122,55 +155,22 @@
       "full_name": "EbadShelby/dotfiles",
       "html_url": "https://github.com/EbadShelby/dotfiles",
       "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 173,
+      "stars": 175,
       "forks": 5,
       "language": "CSS",
       "pushed_at": "2026-06-20T05:28:58Z",
-      "updated_at": "2026-06-20T05:29:02Z"
+      "updated_at": "2026-06-20T08:13:04Z"
     },
     {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 119,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-20T04:55:41Z",
-      "updated_at": "2026-06-20T04:55:41Z"
-    },
-    {
-      "id": 1236536813,
-      "full_name": "pcx-wave/vibe-skill",
-      "html_url": "https://github.com/pcx-wave/vibe-skill",
-      "description": "Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage",
-      "stars": 99,
-      "forks": 9,
-      "language": "Shell",
-      "pushed_at": "2026-06-20T06:56:24Z",
-      "updated_at": "2026-06-20T06:56:27Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 92,
-      "forks": 5,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-20T04:57:02Z",
-      "updated_at": "2026-06-20T04:57:03Z"
-    },
-    {
-      "id": 1228480462,
-      "full_name": "krelltunez/lastGLANCE",
-      "html_url": "https://github.com/krelltunez/lastGLANCE",
-      "description": "When did you last...?",
-      "stars": 71,
-      "forks": 3,
+      "id": 1132684547,
+      "full_name": "BuildWithAIs/voicekey",
+      "html_url": "https://github.com/BuildWithAIs/voicekey",
+      "description": "Voice to text, one key to input.",
+      "stars": 157,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T04:53:27Z",
-      "updated_at": "2026-06-20T04:53:28Z"
+      "pushed_at": "2026-06-20T08:12:58Z",
+      "updated_at": "2026-06-20T08:13:03Z"
     }
   ]
 }
