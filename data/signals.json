@@ -8,48 +8,81 @@
   "total_found": 935,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 125703,
-      "forks": 14077,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T09:45:19Z",
-      "updated_at": "2026-06-20T14:00:13Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 64103,
+      "forks": 3945,
+      "language": "Rust",
+      "pushed_at": "2026-06-20T15:24:24Z",
+      "updated_at": "2026-06-20T17:23:36Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39588,
+      "forks": 904,
+      "language": "Rust",
+      "pushed_at": "2026-06-20T16:15:14Z",
+      "updated_at": "2026-06-20T16:35:27Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25477,
+      "forks": 1860,
+      "language": "Vue",
+      "pushed_at": "2026-06-20T16:42:06Z",
+      "updated_at": "2026-06-20T17:11:43Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20179,
+      "stars": 20181,
       "forks": 1788,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T13:38:52Z",
-      "updated_at": "2026-06-20T13:38:56Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15014,
-      "forks": 1537,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T12:31:49Z",
-      "updated_at": "2026-06-20T13:28:46Z"
+      "pushed_at": "2026-06-20T15:18:00Z",
+      "updated_at": "2026-06-20T16:41:03Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 13172,
+      "stars": 13174,
       "forks": 800,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T12:39:41Z",
-      "updated_at": "2026-06-20T12:46:41Z"
+      "pushed_at": "2026-06-20T16:12:39Z",
+      "updated_at": "2026-06-20T16:51:59Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5702,
+      "forks": 747,
+      "language": "Swift",
+      "pushed_at": "2026-06-20T16:30:31Z",
+      "updated_at": "2026-06-20T15:43:16Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1883,
+      "forks": 138,
+      "language": "Dart",
+      "pushed_at": "2026-06-20T14:48:57Z",
+      "updated_at": "2026-06-20T14:49:01Z"
     },
     {
       "id": 257400448,
@@ -59,8 +92,8 @@
       "stars": 1861,
       "forks": 127,
       "language": "Go",
-      "pushed_at": "2026-06-20T14:00:17Z",
-      "updated_at": "2026-06-20T14:00:21Z"
+      "pushed_at": "2026-06-20T17:12:41Z",
+      "updated_at": "2026-06-20T17:08:30Z"
     },
     {
       "id": 1144946140,
@@ -70,8 +103,19 @@
       "stars": 991,
       "forks": 182,
       "language": "JavaScript",
-      "pushed_at": "2026-06-20T12:45:36Z",
-      "updated_at": "2026-06-20T12:45:39Z"
+      "pushed_at": "2026-06-20T17:23:32Z",
+      "updated_at": "2026-06-20T17:23:36Z"
+    },
+    {
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 938,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-06-20T15:06:22Z",
+      "updated_at": "2026-06-20T15:03:56Z"
     },
     {
       "id": 1148683593,
@@ -81,30 +125,30 @@
       "stars": 888,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-20T11:54:19Z",
-      "updated_at": "2026-06-20T11:54:24Z"
+      "pushed_at": "2026-06-20T15:00:44Z",
+      "updated_at": "2026-06-20T15:00:47Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 797,
-      "forks": 46,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T13:10:42Z",
-      "updated_at": "2026-06-20T11:56:38Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 762,
-      "forks": 77,
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 704,
+      "forks": 40,
       "language": "Python",
-      "pushed_at": "2026-06-20T11:01:34Z",
-      "updated_at": "2026-06-20T11:01:37Z"
+      "pushed_at": "2026-06-20T16:55:39Z",
+      "updated_at": "2026-06-20T16:55:35Z"
+    },
+    {
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 620,
+      "forks": 111,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T15:43:32Z",
+      "updated_at": "2026-06-20T15:43:36Z"
     },
     {
       "id": 244958571,
@@ -114,63 +158,19 @@
       "stars": 443,
       "forks": 76,
       "language": "Go",
-      "pushed_at": "2026-06-20T12:21:19Z",
-      "updated_at": "2026-06-20T12:12:57Z"
+      "pushed_at": "2026-06-20T16:50:05Z",
+      "updated_at": "2026-06-20T16:41:28Z"
     },
     {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T13:16:44Z",
-      "updated_at": "2026-06-20T13:16:47Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 313,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-06-20T13:53:24Z",
-      "updated_at": "2026-06-20T13:53:28Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 249,
-      "forks": 11,
-      "language": "Go",
-      "pushed_at": "2026-06-20T11:43:21Z",
-      "updated_at": "2026-06-20T11:43:25Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 222,
-      "forks": 56,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-20T13:42:18Z",
-      "updated_at": "2026-06-20T13:55:16Z"
-    },
-    {
-      "id": 905920026,
-      "full_name": "anechunaev/notion-electron",
-      "html_url": "https://github.com/anechunaev/notion-electron",
-      "description": "Notion Desktop Client for Linux",
-      "stars": 185,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T13:59:09Z",
-      "updated_at": "2026-06-20T13:59:13Z"
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 111,
+      "forks": 18,
+      "language": "Swift",
+      "pushed_at": "2026-06-20T16:11:02Z",
+      "updated_at": "2026-06-20T16:11:04Z"
     }
   ]
 }
