@@ -8,26 +8,26 @@
   "total_found": 919,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 43988,
-      "forks": 2757,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38218,
+      "forks": 3800,
       "language": "C#",
-      "pushed_at": "2026-06-21T15:54:42Z",
-      "updated_at": "2026-06-21T17:20:31Z"
+      "pushed_at": "2026-06-21T20:23:34Z",
+      "updated_at": "2026-06-21T20:53:14Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11379,
+      "stars": 11382,
       "forks": 1402,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T16:12:33Z",
-      "updated_at": "2026-06-21T16:01:00Z"
+      "pushed_at": "2026-06-21T20:46:33Z",
+      "updated_at": "2026-06-21T20:46:41Z"
     },
     {
       "id": 1027461827,
@@ -37,63 +37,96 @@
       "stars": 8108,
       "forks": 220,
       "language": "C++",
-      "pushed_at": "2026-06-21T17:14:22Z",
-      "updated_at": "2026-06-21T17:14:24Z"
+      "pushed_at": "2026-06-21T20:39:03Z",
+      "updated_at": "2026-06-21T20:39:02Z"
     },
     {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1357,
-      "forks": 81,
-      "language": "Rust",
-      "pushed_at": "2026-06-21T15:19:02Z",
-      "updated_at": "2026-06-21T15:19:06Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5331,
+      "forks": 630,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-21T19:27:37Z",
+      "updated_at": "2026-06-21T19:27:41Z"
     },
     {
-      "id": 582248876,
-      "full_name": "chocoford/ExcalidrawZ",
-      "html_url": "https://github.com/chocoford/ExcalidrawZ",
-      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
-      "stars": 1205,
-      "forks": 63,
-      "language": "Swift",
-      "pushed_at": "2026-06-21T17:25:37Z",
-      "updated_at": "2026-06-21T17:25:46Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1886,
+      "forks": 138,
+      "language": "Dart",
+      "pushed_at": "2026-06-21T20:58:56Z",
+      "updated_at": "2026-06-21T20:21:45Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1107,
+      "stars": 1108,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T16:56:58Z",
-      "updated_at": "2026-06-21T16:57:01Z"
+      "pushed_at": "2026-06-21T19:41:10Z",
+      "updated_at": "2026-06-21T19:41:14Z"
     },
     {
-      "id": 542909593,
-      "full_name": "yenche123/liubai",
-      "html_url": "https://github.com/yenche123/liubai",
-      "description": "Supercharge yourself!",
-      "stars": 862,
-      "forks": 88,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T15:02:41Z",
-      "updated_at": "2026-06-21T15:01:14Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
+      "stars": 1007,
+      "forks": 182,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-21T20:59:42Z",
+      "updated_at": "2026-06-21T20:59:27Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 801,
-      "forks": 46,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 762,
+      "forks": 78,
+      "language": "Python",
+      "pushed_at": "2026-06-21T21:02:25Z",
+      "updated_at": "2026-06-21T21:02:29Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 443,
+      "forks": 76,
+      "language": "Go",
+      "pushed_at": "2026-06-21T18:08:55Z",
+      "updated_at": "2026-06-21T17:59:07Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 324,
+      "forks": 36,
+      "language": "Go",
+      "pushed_at": "2026-06-21T19:33:07Z",
+      "updated_at": "2026-06-21T21:06:10Z"
+    },
+    {
+      "id": 1230153502,
+      "full_name": "myICOR/myPKA",
+      "html_url": "https://github.com/myICOR/myPKA",
+      "description": "AI-powered Personal Knowledge Assistance in a folder. Built on the ICOR methodology. Plain markdown. Any LLM. Yours forever.",
+      "stars": 238,
+      "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T16:43:43Z",
-      "updated_at": "2026-06-21T16:01:56Z"
+      "pushed_at": "2026-06-21T19:36:29Z",
+      "updated_at": "2026-06-21T19:49:01Z"
     },
     {
       "id": 1093854529,
@@ -103,41 +136,19 @@
       "stars": 234,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-21T16:51:18Z",
-      "updated_at": "2026-06-21T16:51:22Z"
+      "pushed_at": "2026-06-21T19:05:38Z",
+      "updated_at": "2026-06-21T19:05:42Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 217,
-      "forks": 29,
-      "language": "Python",
-      "pushed_at": "2026-06-21T16:18:45Z",
-      "updated_at": "2026-06-21T15:41:33Z"
-    },
-    {
-      "id": 438792454,
-      "full_name": "eltos/PasteIntoFile",
-      "html_url": "https://github.com/eltos/PasteIntoFile",
-      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
-      "stars": 203,
-      "forks": 12,
-      "language": "C#",
-      "pushed_at": "2026-06-21T15:56:34Z",
-      "updated_at": "2026-06-21T15:56:38Z"
-    },
-    {
-      "id": 1234381241,
-      "full_name": "Umbrella-io/devtrack",
-      "html_url": "https://github.com/Umbrella-io/devtrack",
-      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
-      "stars": 139,
-      "forks": 399,
+      "id": 905920026,
+      "full_name": "anechunaev/notion-electron",
+      "html_url": "https://github.com/anechunaev/notion-electron",
+      "description": "Notion Desktop Client for Linux",
+      "stars": 185,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T17:24:26Z",
-      "updated_at": "2026-06-21T17:24:30Z"
+      "pushed_at": "2026-06-21T19:09:52Z",
+      "updated_at": "2026-06-21T19:09:56Z"
     },
     {
       "id": 1140929355,
@@ -147,30 +158,19 @@
       "stars": 93,
       "forks": 5,
       "language": "JavaScript",
-      "pushed_at": "2026-06-21T17:08:27Z",
-      "updated_at": "2026-06-21T17:08:28Z"
+      "pushed_at": "2026-06-21T19:56:13Z",
+      "updated_at": "2026-06-21T19:14:02Z"
     },
     {
-      "id": 907938065,
-      "full_name": "TimMacy/YouTubeAlchemy",
-      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
-      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
-      "stars": 92,
-      "forks": 3,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-21T16:04:08Z",
-      "updated_at": "2026-06-21T16:04:12Z"
-    },
-    {
-      "id": 1122584172,
-      "full_name": "1003129155/jietuba",
-      "html_url": "https://github.com/1003129155/jietuba",
-      "description": "A screenshot ocr and clipboard manager, available only on Windows 10+.  一款截图和剪贴板管理工具，功能丰富媲美 PixPin 等商业软件，仅支持 Windows 平台。",
+      "id": 1228480462,
+      "full_name": "krelltunez/lastGLANCE",
+      "html_url": "https://github.com/krelltunez/lastGLANCE",
+      "description": "When did you last...?",
       "stars": 72,
-      "forks": 11,
-      "language": "Python",
-      "pushed_at": "2026-06-21T15:42:18Z",
-      "updated_at": "2026-06-21T15:42:21Z"
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T19:41:32Z",
+      "updated_at": "2026-06-21T19:41:33Z"
     }
   ]
 }
