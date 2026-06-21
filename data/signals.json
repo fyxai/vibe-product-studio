@@ -8,37 +8,92 @@
   "total_found": 918,
   "items": [
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5329,
-      "forks": 630,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-21T06:02:46Z",
-      "updated_at": "2026-06-21T08:46:07Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 188168,
+      "forks": 26374,
+      "language": "Shell",
+      "pushed_at": "2026-06-21T12:52:10Z",
+      "updated_at": "2026-06-21T13:58:17Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4433,
-      "forks": 937,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-21T06:28:44Z",
-      "updated_at": "2026-06-21T06:38:48Z"
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 14082,
+      "forks": 1212,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T13:29:02Z",
+      "updated_at": "2026-06-21T13:29:06Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1885,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-21T07:37:50Z",
-      "updated_at": "2026-06-21T07:37:53Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11377,
+      "forks": 1402,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T14:07:52Z",
+      "updated_at": "2026-06-21T14:05:16Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8108,
+      "forks": 220,
+      "language": "C++",
+      "pushed_at": "2026-06-21T12:52:15Z",
+      "updated_at": "2026-06-21T12:52:19Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5310,
+      "forks": 822,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T12:52:58Z",
+      "updated_at": "2026-06-21T13:32:24Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3366,
+      "forks": 421,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T14:03:38Z",
+      "updated_at": "2026-06-21T13:56:28Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3213,
+      "forks": 153,
+      "language": "Gherkin",
+      "pushed_at": "2026-06-21T12:46:06Z",
+      "updated_at": "2026-06-21T12:45:45Z"
+    },
+    {
+      "id": 582248876,
+      "full_name": "chocoford/ExcalidrawZ",
+      "html_url": "https://github.com/chocoford/ExcalidrawZ",
+      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
+      "stars": 1205,
+      "forks": 63,
+      "language": "Swift",
+      "pushed_at": "2026-06-21T12:47:47Z",
+      "updated_at": "2026-06-21T13:04:42Z"
     },
     {
       "id": 1144946140,
@@ -48,8 +103,8 @@
       "stars": 1006,
       "forks": 182,
       "language": "JavaScript",
-      "pushed_at": "2026-06-21T11:05:07Z",
-      "updated_at": "2026-06-21T11:04:49Z"
+      "pushed_at": "2026-06-21T12:46:12Z",
+      "updated_at": "2026-06-21T12:46:16Z"
     },
     {
       "id": 1148683593,
@@ -59,19 +114,41 @@
       "stars": 889,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-21T06:54:21Z",
-      "updated_at": "2026-06-21T06:54:25Z"
+      "pushed_at": "2026-06-21T13:21:03Z",
+      "updated_at": "2026-06-21T13:21:07Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 318,
-      "forks": 34,
-      "language": "Go",
-      "pushed_at": "2026-06-21T07:13:30Z",
-      "updated_at": "2026-06-21T10:52:23Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 787,
+      "forks": 37,
+      "language": "Java",
+      "pushed_at": "2026-06-21T12:50:06Z",
+      "updated_at": "2026-06-21T12:50:09Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 762,
+      "forks": 78,
+      "language": "Python",
+      "pushed_at": "2026-06-21T13:05:06Z",
+      "updated_at": "2026-06-21T13:05:09Z"
+    },
+    {
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 577,
+      "forks": 44,
+      "language": "Swift",
+      "pushed_at": "2026-06-21T14:07:01Z",
+      "updated_at": "2026-06-21T14:07:04Z"
     },
     {
       "id": 1166865874,
@@ -81,96 +158,19 @@
       "stars": 314,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-06-21T09:45:29Z",
-      "updated_at": "2026-06-21T09:45:32Z"
+      "pushed_at": "2026-06-21T14:01:55Z",
+      "updated_at": "2026-06-21T14:01:59Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 224,
-      "forks": 56,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-21T07:12:24Z",
-      "updated_at": "2026-06-21T07:12:26Z"
-    },
-    {
-      "id": 582366639,
-      "full_name": "Th3Un1q3/flipp_pomodoro",
-      "html_url": "https://github.com/Th3Un1q3/flipp_pomodoro",
-      "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
-      "stars": 208,
-      "forks": 14,
-      "language": "C",
-      "pushed_at": "2026-06-21T09:23:10Z",
-      "updated_at": "2026-06-21T09:20:49Z"
-    },
-    {
-      "id": 905920026,
-      "full_name": "anechunaev/notion-electron",
-      "html_url": "https://github.com/anechunaev/notion-electron",
-      "description": "Notion Desktop Client for Linux",
-      "stars": 185,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T10:47:38Z",
-      "updated_at": "2026-06-21T10:47:41Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 142,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T09:19:39Z",
-      "updated_at": "2026-06-21T09:19:43Z"
-    },
-    {
-      "id": 269527281,
-      "full_name": "tylerjwoodfin/tools",
-      "html_url": "https://github.com/tylerjwoodfin/tools",
-      "description": "Tools and utils for use in my personal home network setup",
-      "stars": 66,
-      "forks": 3,
-      "language": "Python",
-      "pushed_at": "2026-06-21T06:46:50Z",
-      "updated_at": "2026-06-21T06:46:50Z"
-    },
-    {
-      "id": 1100972730,
-      "full_name": "Mann1988/awesome-claude-skills",
-      "html_url": "https://github.com/Mann1988/awesome-claude-skills",
-      "description": "📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities for practical applications.",
-      "stars": 62,
-      "forks": 18,
-      "language": "Python",
-      "pushed_at": "2026-06-21T09:36:56Z",
-      "updated_at": "2026-06-21T09:36:59Z"
-    },
-    {
-      "id": 1210011300,
-      "full_name": "Astro-Han/pawwork",
-      "html_url": "https://github.com/Astro-Han/pawwork",
-      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows. Alternative to Codex App and Claude Cowork. BYOK with 75+ providers, ChatGPT OAuth, local models, Office files. No terminal needed.",
-      "stars": 59,
-      "forks": 7,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T06:40:40Z",
-      "updated_at": "2026-06-21T10:57:51Z"
-    },
-    {
-      "id": 758519713,
-      "full_name": "jameskimthing/minimalist-focus-timer",
-      "html_url": "https://github.com/jameskimthing/minimalist-focus-timer",
-      "description": "A simple focus timer extension, using the pomodoro technique",
-      "stars": 57,
-      "forks": 4,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-21T07:29:01Z",
-      "updated_at": "2026-06-21T07:29:06Z"
+      "id": 438792454,
+      "full_name": "eltos/PasteIntoFile",
+      "html_url": "https://github.com/eltos/PasteIntoFile",
+      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
+      "stars": 203,
+      "forks": 12,
+      "language": "C#",
+      "pushed_at": "2026-06-21T13:22:30Z",
+      "updated_at": "2026-06-21T13:22:33Z"
     }
   ]
 }
