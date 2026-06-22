@@ -5,40 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 920,
+  "total_found": 926,
   "items": [
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13189,
-      "forks": 801,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 43997,
+      "forks": 2757,
+      "language": "C#",
+      "pushed_at": "2026-06-22T20:53:15Z",
+      "updated_at": "2026-06-22T21:14:10Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38228,
+      "forks": 3801,
+      "language": "C#",
+      "pushed_at": "2026-06-22T21:11:14Z",
+      "updated_at": "2026-06-22T21:11:23Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 15035,
+      "forks": 1537,
       "language": "TypeScript",
-      "pushed_at": "2026-06-22T17:28:54Z",
-      "updated_at": "2026-06-22T19:23:27Z"
+      "pushed_at": "2026-06-22T21:57:58Z",
+      "updated_at": "2026-06-22T21:54:59Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11392,
+      "stars": 11393,
       "forks": 1405,
       "language": "TypeScript",
       "pushed_at": "2026-06-22T18:55:41Z",
-      "updated_at": "2026-06-22T18:55:47Z"
+      "updated_at": "2026-06-22T20:02:16Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8120,
+      "stars": 8122,
       "forks": 222,
       "language": "C++",
-      "pushed_at": "2026-06-22T17:24:30Z",
-      "updated_at": "2026-06-22T19:22:52Z"
+      "pushed_at": "2026-06-22T21:54:25Z",
+      "updated_at": "2026-06-22T21:54:27Z"
     },
     {
       "id": 129699403,
@@ -48,19 +70,19 @@
       "stars": 5709,
       "forks": 747,
       "language": "Swift",
-      "pushed_at": "2026-06-22T19:03:11Z",
-      "updated_at": "2026-06-22T18:00:18Z"
+      "pushed_at": "2026-06-22T21:59:05Z",
+      "updated_at": "2026-06-22T21:45:22Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 1950,
-      "forks": 195,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-22T18:17:16Z",
-      "updated_at": "2026-06-22T18:17:21Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2263,
+      "forks": 90,
+      "language": "Swift",
+      "pushed_at": "2026-06-22T20:11:38Z",
+      "updated_at": "2026-06-22T20:11:43Z"
     },
     {
       "id": 257400448,
@@ -74,15 +96,15 @@
       "updated_at": "2026-06-22T19:05:29Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1132,
-      "forks": 51,
-      "language": "Rust",
-      "pushed_at": "2026-06-22T18:12:31Z",
-      "updated_at": "2026-06-22T18:10:24Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
+      "stars": 1010,
+      "forks": 183,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-22T21:17:22Z",
+      "updated_at": "2026-06-22T21:17:24Z"
     },
     {
       "id": 1148683593,
@@ -92,8 +114,8 @@
       "stars": 889,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-22T18:33:36Z",
-      "updated_at": "2026-06-22T18:33:41Z"
+      "pushed_at": "2026-06-22T21:12:01Z",
+      "updated_at": "2026-06-22T21:12:07Z"
     },
     {
       "id": 591995344,
@@ -103,8 +125,8 @@
       "stars": 762,
       "forks": 78,
       "language": "Python",
-      "pushed_at": "2026-06-22T18:06:44Z",
-      "updated_at": "2026-06-22T18:07:01Z"
+      "pushed_at": "2026-06-22T21:40:12Z",
+      "updated_at": "2026-06-22T21:40:17Z"
     },
     {
       "id": 73134029,
@@ -122,55 +144,33 @@
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 339,
-      "forks": 39,
+      "stars": 341,
+      "forks": 41,
       "language": "Go",
-      "pushed_at": "2026-06-22T18:49:52Z",
-      "updated_at": "2026-06-22T19:07:13Z"
+      "pushed_at": "2026-06-22T21:55:50Z",
+      "updated_at": "2026-06-22T21:23:51Z"
     },
     {
-      "id": 1230153502,
-      "full_name": "myICOR/myPKA",
-      "html_url": "https://github.com/myICOR/myPKA",
-      "description": "AI-powered Personal Knowledge Assistance in a folder. Built on the ICOR methodology. Plain markdown. Any LLM. Yours forever.",
-      "stars": 240,
-      "forks": 68,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-22T19:09:47Z",
-      "updated_at": "2026-06-22T19:10:12Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 314,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-22T20:42:17Z",
+      "updated_at": "2026-06-22T20:42:22Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 219,
-      "forks": 29,
+      "id": 1274728677,
+      "full_name": "raiyanyahya/recall",
+      "html_url": "https://github.com/raiyanyahya/recall",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "stars": 311,
+      "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-06-22T19:21:39Z",
-      "updated_at": "2026-06-22T18:01:55Z"
-    },
-    {
-      "id": 438792454,
-      "full_name": "eltos/PasteIntoFile",
-      "html_url": "https://github.com/eltos/PasteIntoFile",
-      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
-      "stars": 203,
-      "forks": 12,
-      "language": "C#",
-      "pushed_at": "2026-06-22T17:21:45Z",
-      "updated_at": "2026-06-22T17:21:49Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 172,
-      "forks": 10,
-      "language": "C#",
-      "pushed_at": "2026-06-22T18:45:31Z",
-      "updated_at": "2026-06-22T18:45:39Z"
+      "pushed_at": "2026-06-22T21:58:41Z",
+      "updated_at": "2026-06-22T21:58:46Z"
     }
   ]
 }
