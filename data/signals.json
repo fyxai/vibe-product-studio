@@ -8,136 +8,92 @@
   "total_found": 920,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 125959,
-      "forks": 14112,
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13189,
+      "forks": 801,
       "language": "TypeScript",
-      "pushed_at": "2026-06-22T13:32:22Z",
-      "updated_at": "2026-06-22T13:26:09Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20210,
-      "forks": 1793,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-22T13:27:44Z",
-      "updated_at": "2026-06-22T12:34:27Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14173,
-      "forks": 962,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-22T11:16:40Z",
-      "updated_at": "2026-06-22T12:00:22Z"
+      "pushed_at": "2026-06-22T17:28:54Z",
+      "updated_at": "2026-06-22T19:23:27Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11388,
-      "forks": 1404,
+      "stars": 11392,
+      "forks": 1405,
       "language": "TypeScript",
-      "pushed_at": "2026-06-22T12:21:13Z",
-      "updated_at": "2026-06-22T12:21:18Z"
+      "pushed_at": "2026-06-22T18:55:41Z",
+      "updated_at": "2026-06-22T18:55:47Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8116,
-      "forks": 220,
+      "stars": 8120,
+      "forks": 222,
       "language": "C++",
-      "pushed_at": "2026-06-22T11:57:00Z",
-      "updated_at": "2026-06-22T13:33:36Z"
+      "pushed_at": "2026-06-22T17:24:30Z",
+      "updated_at": "2026-06-22T19:22:52Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5708,
-      "forks": 746,
+      "stars": 5709,
+      "forks": 747,
       "language": "Swift",
-      "pushed_at": "2026-06-22T13:27:03Z",
-      "updated_at": "2026-06-22T13:25:58Z"
+      "pushed_at": "2026-06-22T19:03:11Z",
+      "updated_at": "2026-06-22T18:00:18Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4436,
-      "forks": 937,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-22T11:26:25Z",
-      "updated_at": "2026-06-22T11:26:32Z"
-    },
-    {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
-      "stars": 4034,
-      "forks": 329,
-      "language": "PHP",
-      "pushed_at": "2026-06-22T12:38:30Z",
-      "updated_at": "2026-06-22T12:38:34Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1887,
-      "forks": 138,
-      "language": "Dart",
-      "pushed_at": "2026-06-22T12:52:13Z",
-      "updated_at": "2026-06-22T12:52:17Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1360,
-      "forks": 82,
-      "language": "Rust",
-      "pushed_at": "2026-06-22T12:46:56Z",
-      "updated_at": "2026-06-22T12:51:07Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1112,
-      "forks": 67,
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1950,
+      "forks": 195,
       "language": "TypeScript",
-      "pushed_at": "2026-06-22T13:21:08Z",
-      "updated_at": "2026-06-22T13:31:19Z"
+      "pushed_at": "2026-06-22T18:17:16Z",
+      "updated_at": "2026-06-22T18:17:21Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
-      "stars": 1010,
-      "forks": 183,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-22T13:31:55Z",
-      "updated_at": "2026-06-22T13:32:34Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1866,
+      "forks": 127,
+      "language": "Go",
+      "pushed_at": "2026-06-22T19:09:39Z",
+      "updated_at": "2026-06-22T19:05:29Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1132,
+      "forks": 51,
+      "language": "Rust",
+      "pushed_at": "2026-06-22T18:12:31Z",
+      "updated_at": "2026-06-22T18:10:24Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.",
+      "stars": 889,
+      "forks": 25,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-06-22T18:33:36Z",
+      "updated_at": "2026-06-22T18:33:41Z"
     },
     {
       "id": 591995344,
@@ -147,30 +103,74 @@
       "stars": 762,
       "forks": 78,
       "language": "Python",
-      "pushed_at": "2026-06-22T13:08:32Z",
-      "updated_at": "2026-06-22T13:09:16Z"
+      "pushed_at": "2026-06-22T18:06:44Z",
+      "updated_at": "2026-06-22T18:07:01Z"
     },
     {
-      "id": 1028870440,
-      "full_name": "Taskosaur/Taskosaur",
-      "html_url": "https://github.com/Taskosaur/Taskosaur",
-      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
-      "stars": 501,
-      "forks": 99,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-22T13:14:39Z",
-      "updated_at": "2026-06-22T11:54:27Z"
+      "id": 73134029,
+      "full_name": "jasonlong/mater",
+      "html_url": "https://github.com/jasonlong/mater",
+      "description": "🍅 A simple, native macOS menubar Pomodoro app",
+      "stars": 583,
+      "forks": 40,
+      "language": "Swift",
+      "pushed_at": "2026-06-22T19:07:53Z",
+      "updated_at": "2026-06-22T19:07:47Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 336,
+      "stars": 339,
       "forks": 39,
       "language": "Go",
-      "pushed_at": "2026-06-22T11:20:30Z",
-      "updated_at": "2026-06-22T13:24:33Z"
+      "pushed_at": "2026-06-22T18:49:52Z",
+      "updated_at": "2026-06-22T19:07:13Z"
+    },
+    {
+      "id": 1230153502,
+      "full_name": "myICOR/myPKA",
+      "html_url": "https://github.com/myICOR/myPKA",
+      "description": "AI-powered Personal Knowledge Assistance in a folder. Built on the ICOR methodology. Plain markdown. Any LLM. Yours forever.",
+      "stars": 240,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-22T19:09:47Z",
+      "updated_at": "2026-06-22T19:10:12Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 219,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-06-22T19:21:39Z",
+      "updated_at": "2026-06-22T18:01:55Z"
+    },
+    {
+      "id": 438792454,
+      "full_name": "eltos/PasteIntoFile",
+      "html_url": "https://github.com/eltos/PasteIntoFile",
+      "description": "Paste clipboard data into files and copy file contents directly via hotkey or context menu",
+      "stars": 203,
+      "forks": 12,
+      "language": "C#",
+      "pushed_at": "2026-06-22T17:21:45Z",
+      "updated_at": "2026-06-22T17:21:49Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 172,
+      "forks": 10,
+      "language": "C#",
+      "pushed_at": "2026-06-22T18:45:31Z",
+      "updated_at": "2026-06-22T18:45:39Z"
     }
   ]
 }
