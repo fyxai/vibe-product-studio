@@ -8,158 +8,103 @@
   "total_found": 922,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126111,
-      "forks": 14134,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-24T17:46:28Z",
-      "updated_at": "2026-06-24T17:45:41Z"
-    },
-    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 65726,
-      "forks": 4057,
+      "stars": 65759,
+      "forks": 4059,
       "language": "Rust",
-      "pushed_at": "2026-06-24T17:27:14Z",
-      "updated_at": "2026-06-24T17:52:13Z"
+      "pushed_at": "2026-06-24T18:37:11Z",
+      "updated_at": "2026-06-24T21:15:42Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44026,
-      "forks": 2758,
+      "stars": 44029,
+      "forks": 2757,
       "language": "C#",
-      "pushed_at": "2026-06-24T15:29:16Z",
-      "updated_at": "2026-06-24T17:32:31Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39729,
-      "forks": 908,
-      "language": "Rust",
-      "pushed_at": "2026-06-24T15:31:54Z",
-      "updated_at": "2026-06-24T17:42:04Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38251,
-      "forks": 3801,
-      "language": "C#",
-      "pushed_at": "2026-06-24T16:39:06Z",
-      "updated_at": "2026-06-24T17:32:18Z"
+      "pushed_at": "2026-06-24T21:20:08Z",
+      "updated_at": "2026-06-24T21:20:13Z"
     },
     {
       "id": 396569538,
       "full_name": "khoj-ai/khoj",
       "html_url": "https://github.com/khoj-ai/khoj",
       "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
-      "stars": 35283,
-      "forks": 2265,
+      "stars": 35282,
+      "forks": 2266,
       "language": "Python",
-      "pushed_at": "2026-06-24T17:48:39Z",
-      "updated_at": "2026-06-24T17:48:44Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20263,
-      "forks": 1798,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-24T16:08:25Z",
-      "updated_at": "2026-06-24T17:05:01Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15052,
-      "forks": 1538,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-24T17:05:53Z",
-      "updated_at": "2026-06-24T17:24:37Z"
+      "pushed_at": "2026-06-24T21:17:20Z",
+      "updated_at": "2026-06-24T21:17:27Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11413,
+      "stars": 11415,
       "forks": 1406,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T16:19:24Z",
-      "updated_at": "2026-06-24T17:39:22Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8146,
-      "forks": 224,
-      "language": "C++",
-      "pushed_at": "2026-06-24T17:50:14Z",
-      "updated_at": "2026-06-24T17:51:46Z"
+      "pushed_at": "2026-06-24T20:06:37Z",
+      "updated_at": "2026-06-24T20:46:59Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5715,
+      "stars": 5716,
       "forks": 750,
       "language": "Swift",
-      "pushed_at": "2026-06-24T17:36:48Z",
-      "updated_at": "2026-06-24T16:46:09Z"
+      "pushed_at": "2026-06-24T21:02:07Z",
+      "updated_at": "2026-06-24T21:02:14Z"
     },
     {
-      "id": 1079906817,
-      "full_name": "deta/surf",
-      "html_url": "https://github.com/deta/surf",
-      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
-      "stars": 3457,
-      "forks": 255,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3299,
+      "forks": 216,
+      "language": "Python",
+      "pushed_at": "2026-06-24T21:15:55Z",
+      "updated_at": "2026-06-24T19:51:21Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1868,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-06-24T21:05:07Z",
+      "updated_at": "2026-06-24T21:01:03Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1121,
+      "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T17:05:04Z",
-      "updated_at": "2026-06-24T17:09:04Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2034,
-      "forks": 69,
-      "language": "Swift",
-      "pushed_at": "2026-06-24T16:02:50Z",
-      "updated_at": "2026-06-24T17:50:01Z"
+      "pushed_at": "2026-06-24T19:17:32Z",
+      "updated_at": "2026-06-24T19:17:45Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "232 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
-      "stars": 1018,
+      "description": "238 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
+      "stars": 1019,
       "forks": 182,
       "language": "JavaScript",
-      "pushed_at": "2026-06-24T16:26:03Z",
-      "updated_at": "2026-06-24T16:26:16Z"
+      "pushed_at": "2026-06-24T21:10:41Z",
+      "updated_at": "2026-06-24T21:10:46Z"
     },
     {
       "id": 1148683593,
@@ -169,8 +114,63 @@
       "stars": 893,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-24T17:46:31Z",
-      "updated_at": "2026-06-24T17:46:36Z"
+      "pushed_at": "2026-06-24T21:19:54Z",
+      "updated_at": "2026-06-24T21:19:58Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 762,
+      "forks": 78,
+      "language": "Python",
+      "pushed_at": "2026-06-24T21:05:07Z",
+      "updated_at": "2026-06-24T21:05:20Z"
+    },
+    {
+      "id": 1243618131,
+      "full_name": "elvisun/newsjack",
+      "html_url": "https://github.com/elvisun/newsjack",
+      "description": "The open-source skills that turn your agent into a full PR team.",
+      "stars": 493,
+      "forks": 36,
+      "language": "Go",
+      "pushed_at": "2026-06-24T19:08:57Z",
+      "updated_at": "2026-06-24T19:51:29Z"
+    },
+    {
+      "id": 1149110392,
+      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
+      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
+      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
+      "stars": 419,
+      "forks": 56,
+      "language": "Unknown",
+      "pushed_at": "2026-06-24T18:22:09Z",
+      "updated_at": "2026-06-24T20:30:02Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-24T19:43:20Z",
+      "updated_at": "2026-06-24T19:43:25Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 235,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-06-24T18:18:46Z",
+      "updated_at": "2026-06-24T18:18:50Z"
     }
   ]
 }
