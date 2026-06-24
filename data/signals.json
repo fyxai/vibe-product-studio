@@ -5,62 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 921,
+  "total_found": 922,
   "items": [
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 65422,
-      "forks": 4038,
-      "language": "Rust",
-      "pushed_at": "2026-06-23T20:01:19Z",
-      "updated_at": "2026-06-23T21:39:36Z"
-    },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44007,
+      "stars": 44009,
       "forks": 2758,
       "language": "C#",
-      "pushed_at": "2026-06-23T21:24:56Z",
-      "updated_at": "2026-06-23T20:22:19Z"
+      "pushed_at": "2026-06-23T22:58:39Z",
+      "updated_at": "2026-06-23T23:57:33Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32267,
-      "forks": 3371,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-23T19:42:57Z",
-      "updated_at": "2026-06-23T21:39:24Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38246,
+      "forks": 3800,
+      "language": "C#",
+      "pushed_at": "2026-06-24T01:14:40Z",
+      "updated_at": "2026-06-24T02:22:14Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8141,
+      "forks": 224,
+      "language": "C++",
+      "pushed_at": "2026-06-23T22:57:46Z",
+      "updated_at": "2026-06-24T03:17:31Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3292,
-      "forks": 217,
+      "stars": 3293,
+      "forks": 216,
       "language": "Python",
-      "pushed_at": "2026-06-23T20:00:32Z",
-      "updated_at": "2026-06-23T21:34:20Z"
+      "pushed_at": "2026-06-24T02:21:15Z",
+      "updated_at": "2026-06-24T01:13:37Z"
     },
     {
       "id": 324267700,
       "full_name": "pakerwreah/Calendr",
       "html_url": "https://github.com/pakerwreah/Calendr",
       "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2263,
+      "stars": 2264,
       "forks": 90,
       "language": "Swift",
-      "pushed_at": "2026-06-23T21:38:39Z",
-      "updated_at": "2026-06-23T21:34:03Z"
+      "pushed_at": "2026-06-24T00:37:48Z",
+      "updated_at": "2026-06-24T01:57:08Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1379,
+      "forks": 123,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-23T23:19:03Z",
+      "updated_at": "2026-06-23T23:48:31Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1135,
+      "forks": 51,
+      "language": "Rust",
+      "pushed_at": "2026-06-24T03:28:06Z",
+      "updated_at": "2026-06-24T03:28:09Z"
     },
     {
       "id": 1111978380,
@@ -70,19 +92,19 @@
       "stars": 1120,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-23T20:14:42Z",
-      "updated_at": "2026-06-23T20:17:54Z"
+      "pushed_at": "2026-06-24T00:37:25Z",
+      "updated_at": "2026-06-24T00:37:29Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
-      "stars": 1014,
-      "forks": 183,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-23T21:05:48Z",
-      "updated_at": "2026-06-23T21:05:51Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 815,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-24T02:56:14Z",
+      "updated_at": "2026-06-24T02:56:16Z"
     },
     {
       "id": 591995344,
@@ -92,19 +114,30 @@
       "stars": 762,
       "forks": 78,
       "language": "Python",
-      "pushed_at": "2026-06-23T21:38:08Z",
-      "updated_at": "2026-06-23T21:38:12Z"
+      "pushed_at": "2026-06-24T01:14:49Z",
+      "updated_at": "2026-06-24T01:14:55Z"
     },
     {
       "id": 1243618131,
       "full_name": "elvisun/newsjack",
       "html_url": "https://github.com/elvisun/newsjack",
       "description": "The open-source skills that turn your agent into a full PR team.",
-      "stars": 485,
+      "stars": 490,
       "forks": 36,
       "language": "Go",
-      "pushed_at": "2026-06-23T20:25:41Z",
-      "updated_at": "2026-06-23T20:55:30Z"
+      "pushed_at": "2026-06-24T02:59:12Z",
+      "updated_at": "2026-06-24T03:03:36Z"
+    },
+    {
+      "id": 1113746923,
+      "full_name": "kriuchkov/tock",
+      "html_url": "https://github.com/kriuchkov/tock",
+      "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
+      "stars": 435,
+      "forks": 18,
+      "language": "Go",
+      "pushed_at": "2026-06-24T01:13:10Z",
+      "updated_at": "2026-06-24T03:30:12Z"
     },
     {
       "id": 1166865874,
@@ -114,63 +147,30 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-23T19:57:53Z",
-      "updated_at": "2026-06-23T19:57:58Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local first cli-native issue tracker - distributed and  backed by git",
-      "stars": 240,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-23T21:34:01Z",
-      "updated_at": "2026-06-23T21:33:02Z"
+      "pushed_at": "2026-06-24T02:55:01Z",
+      "updated_at": "2026-06-24T02:55:05Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 208,
-      "forks": 10,
-      "language": "C#",
-      "pushed_at": "2026-06-23T20:52:48Z",
-      "updated_at": "2026-06-23T20:52:52Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 135,
+      "stars": 240,
       "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-23T20:52:01Z",
-      "updated_at": "2026-06-23T20:52:04Z"
+      "language": "C#",
+      "pushed_at": "2026-06-23T23:54:33Z",
+      "updated_at": "2026-06-24T03:22:01Z"
     },
     {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 120,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-23T21:14:49Z",
-      "updated_at": "2026-06-23T21:14:50Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 94,
-      "forks": 5,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-23T21:38:48Z",
-      "updated_at": "2026-06-23T21:19:42Z"
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 235,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-06-23T23:18:21Z",
+      "updated_at": "2026-06-23T23:18:26Z"
     }
   ]
 }
