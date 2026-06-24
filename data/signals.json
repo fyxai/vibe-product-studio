@@ -12,33 +12,55 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126072,
-      "forks": 14129,
+      "stars": 126082,
+      "forks": 14130,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T07:23:43Z",
-      "updated_at": "2026-06-24T07:31:58Z"
+      "pushed_at": "2026-06-24T10:48:07Z",
+      "updated_at": "2026-06-24T10:35:40Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38248,
-      "forks": 3800,
-      "language": "C#",
-      "pushed_at": "2026-06-24T07:30:08Z",
-      "updated_at": "2026-06-24T07:30:22Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 65625,
+      "forks": 4048,
+      "language": "Rust",
+      "pushed_at": "2026-06-24T09:18:51Z",
+      "updated_at": "2026-06-24T10:48:20Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15048,
-      "forks": 1537,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39716,
+      "forks": 908,
+      "language": "Rust",
+      "pushed_at": "2026-06-24T09:57:09Z",
+      "updated_at": "2026-06-24T10:19:56Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20251,
+      "forks": 1797,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T06:31:15Z",
-      "updated_at": "2026-06-24T07:34:11Z"
+      "pushed_at": "2026-06-24T10:08:46Z",
+      "updated_at": "2026-06-24T09:19:32Z"
+    },
+    {
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 14102,
+      "forks": 1214,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-24T10:34:53Z",
+      "updated_at": "2026-06-24T10:34:56Z"
     },
     {
       "id": 129699403,
@@ -48,63 +70,30 @@
       "stars": 5714,
       "forks": 749,
       "language": "Swift",
-      "pushed_at": "2026-06-24T07:14:25Z",
-      "updated_at": "2026-06-24T07:14:29Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5340,
-      "forks": 630,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-24T05:57:10Z",
-      "updated_at": "2026-06-24T05:56:36Z"
+      "pushed_at": "2026-06-24T10:04:42Z",
+      "updated_at": "2026-06-24T10:04:45Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5317,
+      "stars": 5316,
       "forks": 822,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T07:11:21Z",
-      "updated_at": "2026-06-24T07:20:06Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1868,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-06-24T07:31:21Z",
-      "updated_at": "2026-06-24T07:27:23Z"
+      "pushed_at": "2026-06-24T10:29:11Z",
+      "updated_at": "2026-06-24T09:26:18Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Hermes — one source, every AI tool",
-      "stars": 1015,
+      "description": "232 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
+      "stars": 1017,
       "forks": 183,
       "language": "JavaScript",
-      "pushed_at": "2026-06-24T07:34:13Z",
-      "updated_at": "2026-06-24T07:32:27Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.",
-      "stars": 890,
-      "forks": 25,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-06-24T06:51:57Z",
-      "updated_at": "2026-06-24T06:52:01Z"
+      "pushed_at": "2026-06-24T09:47:59Z",
+      "updated_at": "2026-06-24T09:48:03Z"
     },
     {
       "id": 1125258937,
@@ -114,63 +103,74 @@
       "stars": 817,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T07:31:55Z",
-      "updated_at": "2026-06-24T07:31:58Z"
+      "pushed_at": "2026-06-24T10:43:49Z",
+      "updated_at": "2026-06-24T08:58:48Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 358,
-      "forks": 43,
-      "language": "Go",
-      "pushed_at": "2026-06-24T07:11:45Z",
-      "updated_at": "2026-06-24T07:11:50Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 235,
-      "forks": 12,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 347,
+      "forks": 25,
       "language": "Rust",
-      "pushed_at": "2026-06-24T06:30:01Z",
-      "updated_at": "2026-06-24T06:30:06Z"
+      "pushed_at": "2026-06-24T09:31:45Z",
+      "updated_at": "2026-06-24T09:31:42Z"
     },
     {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 197,
-      "forks": 13,
-      "language": "C#",
-      "pushed_at": "2026-06-24T05:53:39Z",
-      "updated_at": "2026-06-24T05:53:38Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-24T09:09:04Z",
+      "updated_at": "2026-06-24T09:09:08Z"
     },
     {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-24T06:52:07Z",
-      "updated_at": "2026-06-24T06:52:09Z"
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 221,
+      "forks": 22,
+      "language": "Python",
+      "pushed_at": "2026-06-24T10:02:52Z",
+      "updated_at": "2026-06-24T10:02:59Z"
     },
     {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 145,
-      "forks": 28,
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 204,
+      "forks": 3,
+      "language": "Vue",
+      "pushed_at": "2026-06-24T08:47:33Z",
+      "updated_at": "2026-06-24T08:47:37Z"
+    },
+    {
+      "id": 1234381241,
+      "full_name": "Priyanshu-byte-coder/devtrack",
+      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
+      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
+      "stars": 142,
+      "forks": 412,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T07:32:17Z",
-      "updated_at": "2026-06-24T07:30:43Z"
+      "pushed_at": "2026-06-24T10:45:02Z",
+      "updated_at": "2026-06-24T10:45:08Z"
+    },
+    {
+      "id": 1208417060,
+      "full_name": "Facets-cloud/flow",
+      "html_url": "https://github.com/Facets-cloud/flow",
+      "description": "Turn isolated Claude sessions into a continuous working relationship",
+      "stars": 135,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-06-24T10:44:03Z",
+      "updated_at": "2026-06-24T08:54:53Z"
     }
   ]
 }
