@@ -12,165 +12,165 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126098,
-      "forks": 14133,
+      "stars": 126111,
+      "forks": 14134,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T14:13:28Z",
-      "updated_at": "2026-06-24T13:57:18Z"
+      "pushed_at": "2026-06-24T17:46:28Z",
+      "updated_at": "2026-06-24T17:45:41Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 65726,
+      "forks": 4057,
+      "language": "Rust",
+      "pushed_at": "2026-06-24T17:27:14Z",
+      "updated_at": "2026-06-24T17:52:13Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44024,
+      "stars": 44026,
       "forks": 2758,
       "language": "C#",
-      "pushed_at": "2026-06-24T14:16:40Z",
-      "updated_at": "2026-06-24T14:20:32Z"
+      "pushed_at": "2026-06-24T15:29:16Z",
+      "updated_at": "2026-06-24T17:32:31Z"
     },
     {
       "id": 663900193,
       "full_name": "sxyazi/yazi",
       "html_url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39723,
+      "stars": 39729,
       "forks": 908,
       "language": "Rust",
-      "pushed_at": "2026-06-24T14:20:45Z",
-      "updated_at": "2026-06-24T13:54:56Z"
+      "pushed_at": "2026-06-24T15:31:54Z",
+      "updated_at": "2026-06-24T17:42:04Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38251,
+      "forks": 3801,
+      "language": "C#",
+      "pushed_at": "2026-06-24T16:39:06Z",
+      "updated_at": "2026-06-24T17:32:18Z"
+    },
+    {
+      "id": 396569538,
+      "full_name": "khoj-ai/khoj",
+      "html_url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 35283,
+      "forks": 2265,
+      "language": "Python",
+      "pushed_at": "2026-06-24T17:48:39Z",
+      "updated_at": "2026-06-24T17:48:44Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20259,
-      "forks": 1797,
+      "stars": 20263,
+      "forks": 1798,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T14:18:50Z",
-      "updated_at": "2026-06-24T14:25:17Z"
+      "pushed_at": "2026-06-24T16:08:25Z",
+      "updated_at": "2026-06-24T17:05:01Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 15052,
+      "forks": 1538,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-24T17:05:53Z",
+      "updated_at": "2026-06-24T17:24:37Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11412,
+      "stars": 11413,
       "forks": 1406,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T14:18:53Z",
-      "updated_at": "2026-06-24T13:54:21Z"
+      "pushed_at": "2026-06-24T16:19:24Z",
+      "updated_at": "2026-06-24T17:39:22Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8145,
+      "stars": 8146,
       "forks": 224,
       "language": "C++",
-      "pushed_at": "2026-06-24T12:51:57Z",
-      "updated_at": "2026-06-24T13:53:08Z"
+      "pushed_at": "2026-06-24T17:50:14Z",
+      "updated_at": "2026-06-24T17:51:46Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5714,
-      "forks": 749,
+      "stars": 5715,
+      "forks": 750,
       "language": "Swift",
-      "pushed_at": "2026-06-24T14:20:27Z",
-      "updated_at": "2026-06-24T14:05:04Z"
+      "pushed_at": "2026-06-24T17:36:48Z",
+      "updated_at": "2026-06-24T16:46:09Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1122,
-      "forks": 68,
+      "id": 1079906817,
+      "full_name": "deta/surf",
+      "html_url": "https://github.com/deta/surf",
+      "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+      "stars": 3457,
+      "forks": 255,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T14:16:18Z",
-      "updated_at": "2026-06-24T14:18:31Z"
+      "pushed_at": "2026-06-24T17:05:04Z",
+      "updated_at": "2026-06-24T17:09:04Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2034,
+      "forks": 69,
+      "language": "Swift",
+      "pushed_at": "2026-06-24T16:02:50Z",
+      "updated_at": "2026-06-24T17:50:01Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
       "description": "232 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
-      "stars": 1017,
+      "stars": 1018,
       "forks": 182,
       "language": "JavaScript",
-      "pushed_at": "2026-06-24T14:01:49Z",
-      "updated_at": "2026-06-24T14:02:41Z"
-    },
-    {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 938,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-06-24T13:54:18Z",
-      "updated_at": "2026-06-24T14:01:28Z"
+      "pushed_at": "2026-06-24T16:26:03Z",
+      "updated_at": "2026-06-24T16:26:16Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause GC and 100% Emacs compatibility.",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "stars": 893,
       "forks": 25,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-24T13:29:05Z",
-      "updated_at": "2026-06-24T14:14:45Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 817,
-      "forks": 48,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-24T13:34:13Z",
-      "updated_at": "2026-06-24T13:02:31Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 499,
-      "forks": 69,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-24T13:14:41Z",
-      "updated_at": "2026-06-24T13:14:51Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-24T14:21:50Z",
-      "updated_at": "2026-06-24T14:25:20Z"
-    },
-    {
-      "id": 1124365241,
-      "full_name": "EbadShelby/dotfiles",
-      "html_url": "https://github.com/EbadShelby/dotfiles",
-      "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 180,
-      "forks": 5,
-      "language": "CSS",
-      "pushed_at": "2026-06-24T12:40:30Z",
-      "updated_at": "2026-06-24T12:40:34Z"
+      "pushed_at": "2026-06-24T17:46:31Z",
+      "updated_at": "2026-06-24T17:46:36Z"
     }
   ]
 }
