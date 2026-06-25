@@ -8,59 +8,92 @@
   "total_found": 922,
   "items": [
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 13227,
-      "forks": 826,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T01:55:18Z",
-      "updated_at": "2026-06-25T03:11:31Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 188242,
+      "forks": 26376,
+      "language": "Shell",
+      "pushed_at": "2026-06-25T07:36:22Z",
+      "updated_at": "2026-06-25T07:36:27Z"
     },
     {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "43 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin.",
-      "stars": 8911,
-      "forks": 686,
-      "language": "HTML",
-      "pushed_at": "2026-06-25T02:57:15Z",
-      "updated_at": "2026-06-25T02:57:22Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 65879,
+      "forks": 4075,
+      "language": "Rust",
+      "pushed_at": "2026-06-25T07:08:44Z",
+      "updated_at": "2026-06-25T07:37:13Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14181,
+      "forks": 963,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T07:40:04Z",
+      "updated_at": "2026-06-25T07:37:02Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13201,
+      "forks": 802,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T06:37:36Z",
+      "updated_at": "2026-06-25T07:37:16Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5350,
+      "forks": 827,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T07:33:17Z",
+      "updated_at": "2026-06-25T07:37:19Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3301,
+      "stars": 3302,
       "forks": 216,
       "language": "Python",
-      "pushed_at": "2026-06-25T02:56:25Z",
-      "updated_at": "2026-06-25T00:03:07Z"
+      "pushed_at": "2026-06-25T06:05:35Z",
+      "updated_at": "2026-06-25T06:17:39Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1136,
-      "forks": 51,
-      "language": "Rust",
-      "pushed_at": "2026-06-25T02:31:11Z",
-      "updated_at": "2026-06-25T02:31:13Z"
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 2004,
+      "forks": 162,
+      "language": "Dart",
+      "pushed_at": "2026-06-25T06:34:00Z",
+      "updated_at": "2026-06-25T07:01:04Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1122,
-      "forks": 68,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T02:17:46Z",
-      "updated_at": "2026-06-25T02:27:39Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1889,
+      "forks": 139,
+      "language": "Dart",
+      "pushed_at": "2026-06-25T07:25:19Z",
+      "updated_at": "2026-06-25T07:25:35Z"
     },
     {
       "id": 1148683593,
@@ -70,63 +103,41 @@
       "stars": 893,
       "forks": 27,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-25T03:07:54Z",
-      "updated_at": "2026-06-25T03:07:58Z"
+      "pushed_at": "2026-06-25T07:33:19Z",
+      "updated_at": "2026-06-25T07:33:24Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 762,
-      "forks": 78,
-      "language": "Python",
-      "pushed_at": "2026-06-25T01:03:54Z",
-      "updated_at": "2026-06-25T01:03:58Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 821,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T06:43:03Z",
+      "updated_at": "2026-06-25T06:43:05Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 622,
-      "forks": 112,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-25T01:04:59Z",
-      "updated_at": "2026-06-25T01:05:03Z"
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 820,
+      "forks": 45,
+      "language": "Swift",
+      "pushed_at": "2026-06-25T05:43:42Z",
+      "updated_at": "2026-06-25T06:06:16Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 457,
-      "forks": 32,
-      "language": "Shell",
-      "pushed_at": "2026-06-25T02:13:51Z",
-      "updated_at": "2026-06-25T02:07:33Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 445,
-      "forks": 76,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 370,
+      "forks": 44,
       "language": "Go",
-      "pushed_at": "2026-06-25T03:27:29Z",
-      "updated_at": "2026-06-25T03:22:57Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-25T02:49:41Z",
-      "updated_at": "2026-06-25T02:49:45Z"
+      "pushed_at": "2026-06-25T07:13:18Z",
+      "updated_at": "2026-06-25T07:16:29Z"
     },
     {
       "id": 1093854529,
@@ -136,8 +147,8 @@
       "stars": 235,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-25T02:55:58Z",
-      "updated_at": "2026-06-25T02:56:02Z"
+      "pushed_at": "2026-06-25T05:24:14Z",
+      "updated_at": "2026-06-25T05:24:18Z"
     },
     {
       "id": 1027092197,
@@ -147,30 +158,19 @@
       "stars": 220,
       "forks": 23,
       "language": "JavaScript",
-      "pushed_at": "2026-06-25T02:22:32Z",
-      "updated_at": "2026-06-25T02:21:41Z"
-    },
-    {
-      "id": 605340687,
-      "full_name": "LukeberryPi/phived",
-      "html_url": "https://github.com/LukeberryPi/phived",
-      "description": "An anti-procrastination to-do list. ",
-      "stars": 218,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:23:19Z",
-      "updated_at": "2026-06-25T01:51:08Z"
+      "pushed_at": "2026-06-25T06:10:57Z",
+      "updated_at": "2026-06-25T06:10:59Z"
     },
     {
       "id": 1195674112,
       "full_name": "hadziqmtqn/erd-builder-pro",
       "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
       "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 145,
+      "stars": 144,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T02:02:54Z",
-      "updated_at": "2026-06-25T02:01:47Z"
+      "pushed_at": "2026-06-25T07:02:44Z",
+      "updated_at": "2026-06-25T07:10:46Z"
     }
   ]
 }
