@@ -8,103 +8,59 @@
   "total_found": 922,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 65759,
-      "forks": 4059,
-      "language": "Rust",
-      "pushed_at": "2026-06-24T18:37:11Z",
-      "updated_at": "2026-06-24T21:15:42Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44029,
-      "forks": 2757,
-      "language": "C#",
-      "pushed_at": "2026-06-24T21:20:08Z",
-      "updated_at": "2026-06-24T21:20:13Z"
-    },
-    {
-      "id": 396569538,
-      "full_name": "khoj-ai/khoj",
-      "html_url": "https://github.com/khoj-ai/khoj",
-      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
-      "stars": 35282,
-      "forks": 2266,
-      "language": "Python",
-      "pushed_at": "2026-06-24T21:17:20Z",
-      "updated_at": "2026-06-24T21:17:27Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11415,
-      "forks": 1406,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 13227,
+      "forks": 826,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T20:06:37Z",
-      "updated_at": "2026-06-24T20:46:59Z"
+      "pushed_at": "2026-06-25T01:55:18Z",
+      "updated_at": "2026-06-25T03:11:31Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5716,
-      "forks": 750,
-      "language": "Swift",
-      "pushed_at": "2026-06-24T21:02:07Z",
-      "updated_at": "2026-06-24T21:02:14Z"
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "43 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin.",
+      "stars": 8911,
+      "forks": 686,
+      "language": "HTML",
+      "pushed_at": "2026-06-25T02:57:15Z",
+      "updated_at": "2026-06-25T02:57:22Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3299,
+      "stars": 3301,
       "forks": 216,
       "language": "Python",
-      "pushed_at": "2026-06-24T21:15:55Z",
-      "updated_at": "2026-06-24T19:51:21Z"
+      "pushed_at": "2026-06-25T02:56:25Z",
+      "updated_at": "2026-06-25T00:03:07Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1868,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-06-24T21:05:07Z",
-      "updated_at": "2026-06-24T21:01:03Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1136,
+      "forks": 51,
+      "language": "Rust",
+      "pushed_at": "2026-06-25T02:31:11Z",
+      "updated_at": "2026-06-25T02:31:13Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1121,
+      "stars": 1122,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T19:17:32Z",
-      "updated_at": "2026-06-24T19:17:45Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "238 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
-      "stars": 1019,
-      "forks": 182,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-24T21:10:41Z",
-      "updated_at": "2026-06-24T21:10:46Z"
+      "pushed_at": "2026-06-25T02:17:46Z",
+      "updated_at": "2026-06-25T02:27:39Z"
     },
     {
       "id": 1148683593,
@@ -112,10 +68,10 @@
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "stars": 893,
-      "forks": 25,
+      "forks": 27,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-24T21:19:54Z",
-      "updated_at": "2026-06-24T21:19:58Z"
+      "pushed_at": "2026-06-25T03:07:54Z",
+      "updated_at": "2026-06-25T03:07:58Z"
     },
     {
       "id": 591995344,
@@ -125,30 +81,41 @@
       "stars": 762,
       "forks": 78,
       "language": "Python",
-      "pushed_at": "2026-06-24T21:05:07Z",
-      "updated_at": "2026-06-24T21:05:20Z"
+      "pushed_at": "2026-06-25T01:03:54Z",
+      "updated_at": "2026-06-25T01:03:58Z"
     },
     {
-      "id": 1243618131,
-      "full_name": "elvisun/newsjack",
-      "html_url": "https://github.com/elvisun/newsjack",
-      "description": "The open-source skills that turn your agent into a full PR team.",
-      "stars": 493,
-      "forks": 36,
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 622,
+      "forks": 112,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-25T01:04:59Z",
+      "updated_at": "2026-06-25T01:05:03Z"
+    },
+    {
+      "id": 1039979190,
+      "full_name": "rz1989s/claude-code-statusline",
+      "html_url": "https://github.com/rz1989s/claude-code-statusline",
+      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
+      "stars": 457,
+      "forks": 32,
+      "language": "Shell",
+      "pushed_at": "2026-06-25T02:13:51Z",
+      "updated_at": "2026-06-25T02:07:33Z"
+    },
+    {
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 445,
+      "forks": 76,
       "language": "Go",
-      "pushed_at": "2026-06-24T19:08:57Z",
-      "updated_at": "2026-06-24T19:51:29Z"
-    },
-    {
-      "id": 1149110392,
-      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
-      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
-      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments",
-      "stars": 419,
-      "forks": 56,
-      "language": "Unknown",
-      "pushed_at": "2026-06-24T18:22:09Z",
-      "updated_at": "2026-06-24T20:30:02Z"
+      "pushed_at": "2026-06-25T03:27:29Z",
+      "updated_at": "2026-06-25T03:22:57Z"
     },
     {
       "id": 1166865874,
@@ -158,8 +125,8 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-24T19:43:20Z",
-      "updated_at": "2026-06-24T19:43:25Z"
+      "pushed_at": "2026-06-25T02:49:41Z",
+      "updated_at": "2026-06-25T02:49:45Z"
     },
     {
       "id": 1093854529,
@@ -169,8 +136,41 @@
       "stars": 235,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-24T18:18:46Z",
-      "updated_at": "2026-06-24T18:18:50Z"
+      "pushed_at": "2026-06-25T02:55:58Z",
+      "updated_at": "2026-06-25T02:56:02Z"
+    },
+    {
+      "id": 1027092197,
+      "full_name": "shinpr/ai-coding-project-boilerplate",
+      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
+      "description": "Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.",
+      "stars": 220,
+      "forks": 23,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-25T02:22:32Z",
+      "updated_at": "2026-06-25T02:21:41Z"
+    },
+    {
+      "id": 605340687,
+      "full_name": "LukeberryPi/phived",
+      "html_url": "https://github.com/LukeberryPi/phived",
+      "description": "An anti-procrastination to-do list. ",
+      "stars": 218,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T03:23:19Z",
+      "updated_at": "2026-06-25T01:51:08Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
+      "stars": 145,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T02:02:54Z",
+      "updated_at": "2026-06-25T02:01:47Z"
     }
   ]
 }
