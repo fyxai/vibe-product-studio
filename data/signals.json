@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 928,
+  "total_found": 930,
   "items": [
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126243,
-      "forks": 14155,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T09:21:11Z",
-      "updated_at": "2026-06-26T10:33:49Z"
-    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 66247,
-      "forks": 4090,
+      "stars": 66296,
+      "forks": 4096,
       "language": "Rust",
-      "pushed_at": "2026-06-26T10:49:56Z",
-      "updated_at": "2026-06-26T10:49:33Z"
+      "pushed_at": "2026-06-26T12:20:03Z",
+      "updated_at": "2026-06-26T14:22:17Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 32359,
+      "forks": 3375,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T13:56:59Z",
+      "updated_at": "2026-06-26T14:14:30Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20294,
+      "stars": 20299,
       "forks": 1801,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T10:37:08Z",
-      "updated_at": "2026-06-26T10:40:31Z"
+      "pushed_at": "2026-06-26T13:06:34Z",
+      "updated_at": "2026-06-26T13:27:05Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15020,
-      "forks": 617,
-      "language": "C#",
-      "pushed_at": "2026-06-26T09:45:25Z",
-      "updated_at": "2026-06-26T09:45:30Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 5856,
-      "forks": 346,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-26T09:20:20Z",
-      "updated_at": "2026-06-26T09:20:29Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8168,
+      "forks": 225,
+      "language": "C++",
+      "pushed_at": "2026-06-26T14:10:43Z",
+      "updated_at": "2026-06-26T14:10:48Z"
     },
     {
       "id": 129699403,
@@ -70,74 +59,96 @@
       "stars": 5720,
       "forks": 751,
       "language": "Swift",
-      "pushed_at": "2026-06-26T10:47:11Z",
-      "updated_at": "2026-06-26T10:31:15Z"
+      "pushed_at": "2026-06-26T14:15:39Z",
+      "updated_at": "2026-06-26T14:14:29Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5377,
-      "forks": 831,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T10:40:18Z",
-      "updated_at": "2026-06-26T10:29:19Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1487,
-      "forks": 79,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T10:05:15Z",
-      "updated_at": "2026-06-26T10:05:05Z"
-    },
-    {
-      "id": 591366844,
-      "full_name": "lasantosr/intelli-shell",
-      "html_url": "https://github.com/lasantosr/intelli-shell",
-      "description": "Like IntelliSense, but for shells",
-      "stars": 1240,
-      "forks": 22,
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4816,
+      "forks": 105,
       "language": "Rust",
-      "pushed_at": "2026-06-26T10:05:56Z",
-      "updated_at": "2026-06-26T10:05:55Z"
+      "pushed_at": "2026-06-26T11:52:26Z",
+      "updated_at": "2026-06-26T11:52:28Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "244 professional Agent Skills (PRDs, launches, postmortems, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
-      "stars": 1029,
-      "forks": 183,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-26T09:50:45Z",
-      "updated_at": "2026-06-26T09:50:48Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3219,
+      "forks": 153,
+      "language": "Gherkin",
+      "pushed_at": "2026-06-26T12:21:49Z",
+      "updated_at": "2026-06-26T12:21:10Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1458,
+      "forks": 38,
+      "language": "Rust",
+      "pushed_at": "2026-06-26T12:53:19Z",
+      "updated_at": "2026-06-26T11:52:39Z"
+    },
+    {
+      "id": 582248876,
+      "full_name": "chocoford/ExcalidrawZ",
+      "html_url": "https://github.com/chocoford/ExcalidrawZ",
+      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
+      "stars": 1231,
+      "forks": 63,
+      "language": "Swift",
+      "pushed_at": "2026-06-26T14:12:01Z",
+      "updated_at": "2026-06-26T14:12:11Z"
+    },
+    {
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 938,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-06-26T12:59:24Z",
+      "updated_at": "2026-06-26T12:54:50Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 905,
+      "stars": 906,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-26T09:55:35Z",
-      "updated_at": "2026-06-26T09:55:39Z"
+      "pushed_at": "2026-06-26T13:08:14Z",
+      "updated_at": "2026-06-26T13:22:47Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 349,
-      "forks": 25,
-      "language": "Rust",
-      "pushed_at": "2026-06-26T09:31:25Z",
-      "updated_at": "2026-06-26T09:31:26Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 767,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-06-26T14:21:48Z",
+      "updated_at": "2026-06-26T14:21:52Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 561,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-06-26T13:41:51Z",
+      "updated_at": "2026-06-26T13:41:35Z"
     },
     {
       "id": 1166865874,
@@ -147,30 +158,19 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-26T08:59:01Z",
-      "updated_at": "2026-06-26T08:59:04Z"
+      "pushed_at": "2026-06-26T14:16:41Z",
+      "updated_at": "2026-06-26T14:16:47Z"
     },
     {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 227,
-      "forks": 21,
-      "language": "Python",
-      "pushed_at": "2026-06-26T10:01:08Z",
-      "updated_at": "2026-06-26T09:25:58Z"
-    },
-    {
-      "id": 451681060,
-      "full_name": "giovannicoppola/AlfreDo",
-      "html_url": "https://github.com/giovannicoppola/AlfreDo",
-      "description": "Alfred for Todoist",
-      "stars": 91,
-      "forks": 3,
-      "language": "Go",
-      "pushed_at": "2026-06-26T09:44:13Z",
-      "updated_at": "2026-06-26T09:44:16Z"
+      "id": 1161236320,
+      "full_name": "vadimmelnicuk/meo",
+      "html_url": "https://github.com/vadimmelnicuk/meo",
+      "description": "An optimized markdown editor with live editing mode for VS Code.",
+      "stars": 166,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T14:18:59Z",
+      "updated_at": "2026-06-26T14:19:03Z"
     }
   ]
 }
