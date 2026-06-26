@@ -5,128 +5,139 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 925,
+  "total_found": 927,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 221795,
-      "forks": 33954,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-25T23:47:36Z",
-      "updated_at": "2026-06-26T03:35:26Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126227,
+      "forks": 14153,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T07:39:12Z",
+      "updated_at": "2026-06-26T07:40:18Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1128,
-      "forks": 68,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39791,
+      "forks": 913,
+      "language": "Rust",
+      "pushed_at": "2026-06-26T07:35:00Z",
+      "updated_at": "2026-06-26T07:19:20Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38271,
+      "forks": 3805,
+      "language": "C#",
+      "pushed_at": "2026-06-26T06:27:15Z",
+      "updated_at": "2026-06-26T06:58:56Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 32345,
+      "forks": 3375,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T03:05:08Z",
-      "updated_at": "2026-06-26T03:05:12Z"
+      "pushed_at": "2026-06-26T04:52:40Z",
+      "updated_at": "2026-06-26T07:45:37Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15020,
+      "forks": 617,
+      "language": "C#",
+      "pushed_at": "2026-06-26T07:33:26Z",
+      "updated_at": "2026-06-26T07:33:30Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5720,
+      "forks": 750,
+      "language": "Swift",
+      "pushed_at": "2026-06-26T07:45:53Z",
+      "updated_at": "2026-06-26T07:05:40Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5377,
+      "forks": 831,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T07:50:13Z",
+      "updated_at": "2026-06-26T07:18:09Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 901,
-      "forks": 27,
+      "stars": 905,
+      "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-26T02:37:35Z",
-      "updated_at": "2026-06-26T02:37:39Z"
+      "pushed_at": "2026-06-26T07:36:32Z",
+      "updated_at": "2026-06-26T07:36:36Z"
     },
     {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 475,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-06-25T23:36:58Z",
-      "updated_at": "2026-06-25T23:37:02Z"
+      "id": 69779247,
+      "full_name": "CodeverDotDev/codever",
+      "html_url": "https://github.com/CodeverDotDev/codever",
+      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
+      "stars": 382,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T06:56:47Z",
+      "updated_at": "2026-06-26T06:56:51Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 349,
-      "forks": 25,
-      "language": "Rust",
-      "pushed_at": "2026-06-26T03:15:29Z",
-      "updated_at": "2026-06-26T03:15:33Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 376,
+      "forks": 45,
+      "language": "Go",
+      "pushed_at": "2026-06-26T07:12:01Z",
+      "updated_at": "2026-06-26T07:12:05Z"
     },
     {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 340,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-26T01:29:47Z",
-      "updated_at": "2026-06-26T01:29:52Z"
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 260,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-06-26T06:01:05Z",
+      "updated_at": "2026-06-26T06:01:08Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-26T02:54:34Z",
-      "updated_at": "2026-06-26T02:54:38Z"
-    },
-    {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 288,
-      "forks": 50,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-25T23:09:52Z",
-      "updated_at": "2026-06-25T23:09:56Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 279,
-      "forks": 14,
-      "language": "C#",
-      "pushed_at": "2026-06-25T23:38:44Z",
-      "updated_at": "2026-06-26T03:03:59Z"
-    },
-    {
-      "id": 1255014875,
-      "full_name": "ntd4996/agentpet",
-      "html_url": "https://github.com/ntd4996/agentpet",
-      "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
-      "stars": 255,
-      "forks": 47,
-      "language": "Swift",
-      "pushed_at": "2026-06-26T03:31:08Z",
-      "updated_at": "2026-06-26T03:31:12Z"
-    },
-    {
-      "id": 1124365241,
-      "full_name": "EbadShelby/dotfiles",
-      "html_url": "https://github.com/EbadShelby/dotfiles",
-      "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 185,
-      "forks": 5,
-      "language": "CSS",
-      "pushed_at": "2026-06-26T00:07:09Z",
-      "updated_at": "2026-06-26T00:07:14Z"
+      "id": 1161236320,
+      "full_name": "vadimmelnicuk/meo",
+      "html_url": "https://github.com/vadimmelnicuk/meo",
+      "description": "An optimized markdown editor with live editing mode for VS Code.",
+      "stars": 166,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T07:39:21Z",
+      "updated_at": "2026-06-26T07:39:14Z"
     },
     {
       "id": 1195674112,
@@ -136,8 +147,8 @@
       "stars": 144,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T00:30:08Z",
-      "updated_at": "2026-06-26T00:29:19Z"
+      "pushed_at": "2026-06-26T07:38:08Z",
+      "updated_at": "2026-06-26T07:38:13Z"
     },
     {
       "id": 737246781,
@@ -147,30 +158,19 @@
       "stars": 136,
       "forks": 11,
       "language": "Kotlin",
-      "pushed_at": "2026-06-26T00:51:20Z",
-      "updated_at": "2026-06-26T00:51:06Z"
+      "pushed_at": "2026-06-26T04:55:22Z",
+      "updated_at": "2026-06-26T04:55:24Z"
     },
     {
-      "id": 452405275,
-      "full_name": "jrgilbertson/networked-thinking",
-      "html_url": "https://github.com/jrgilbertson/networked-thinking",
-      "description": "This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.",
-      "stars": 125,
-      "forks": 13,
-      "language": "Unknown",
-      "pushed_at": "2026-06-26T00:06:33Z",
-      "updated_at": "2026-06-26T00:06:37Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 122,
+      "id": 1217603969,
+      "full_name": "aliaihub/awesome-hermes-usecases",
+      "html_url": "https://github.com/aliaihub/awesome-hermes-usecases",
+      "description": "Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources.",
+      "stars": 123,
       "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-26T02:22:24Z",
-      "updated_at": "2026-06-26T02:06:26Z"
+      "language": "Python",
+      "pushed_at": "2026-06-26T05:26:30Z",
+      "updated_at": "2026-06-26T05:26:35Z"
     }
   ]
 }
