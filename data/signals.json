@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 927,
+  "total_found": 928,
   "items": [
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126227,
-      "forks": 14153,
+      "stars": 126243,
+      "forks": 14155,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T07:39:12Z",
-      "updated_at": "2026-06-26T07:40:18Z"
+      "pushed_at": "2026-06-26T09:21:11Z",
+      "updated_at": "2026-06-26T10:33:49Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39791,
-      "forks": 913,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 66247,
+      "forks": 4090,
       "language": "Rust",
-      "pushed_at": "2026-06-26T07:35:00Z",
-      "updated_at": "2026-06-26T07:19:20Z"
+      "pushed_at": "2026-06-26T10:49:56Z",
+      "updated_at": "2026-06-26T10:49:33Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38271,
-      "forks": 3805,
-      "language": "C#",
-      "pushed_at": "2026-06-26T06:27:15Z",
-      "updated_at": "2026-06-26T06:58:56Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32345,
-      "forks": 3375,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20294,
+      "forks": 1801,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T04:52:40Z",
-      "updated_at": "2026-06-26T07:45:37Z"
+      "pushed_at": "2026-06-26T10:37:08Z",
+      "updated_at": "2026-06-26T10:40:31Z"
     },
     {
       "id": 257526212,
@@ -59,8 +48,19 @@
       "stars": 15020,
       "forks": 617,
       "language": "C#",
-      "pushed_at": "2026-06-26T07:33:26Z",
-      "updated_at": "2026-06-26T07:33:30Z"
+      "pushed_at": "2026-06-26T09:45:25Z",
+      "updated_at": "2026-06-26T09:45:30Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 5856,
+      "forks": 346,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-26T09:20:20Z",
+      "updated_at": "2026-06-26T09:20:29Z"
     },
     {
       "id": 129699403,
@@ -68,10 +68,10 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5720,
-      "forks": 750,
+      "forks": 751,
       "language": "Swift",
-      "pushed_at": "2026-06-26T07:45:53Z",
-      "updated_at": "2026-06-26T07:05:40Z"
+      "pushed_at": "2026-06-26T10:47:11Z",
+      "updated_at": "2026-06-26T10:31:15Z"
     },
     {
       "id": 1156137396,
@@ -81,8 +81,41 @@
       "stars": 5377,
       "forks": 831,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T07:50:13Z",
-      "updated_at": "2026-06-26T07:18:09Z"
+      "pushed_at": "2026-06-26T10:40:18Z",
+      "updated_at": "2026-06-26T10:29:19Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1487,
+      "forks": 79,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T10:05:15Z",
+      "updated_at": "2026-06-26T10:05:05Z"
+    },
+    {
+      "id": 591366844,
+      "full_name": "lasantosr/intelli-shell",
+      "html_url": "https://github.com/lasantosr/intelli-shell",
+      "description": "Like IntelliSense, but for shells",
+      "stars": 1240,
+      "forks": 22,
+      "language": "Rust",
+      "pushed_at": "2026-06-26T10:05:56Z",
+      "updated_at": "2026-06-26T10:05:55Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "244 professional Agent Skills (PRDs, launches, postmortems, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
+      "stars": 1029,
+      "forks": 183,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-26T09:50:45Z",
+      "updated_at": "2026-06-26T09:50:48Z"
     },
     {
       "id": 1148683593,
@@ -92,85 +125,52 @@
       "stars": 905,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-26T07:36:32Z",
-      "updated_at": "2026-06-26T07:36:36Z"
+      "pushed_at": "2026-06-26T09:55:35Z",
+      "updated_at": "2026-06-26T09:55:39Z"
     },
     {
-      "id": 69779247,
-      "full_name": "CodeverDotDev/codever",
-      "html_url": "https://github.com/CodeverDotDev/codever",
-      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
-      "stars": 382,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T06:56:47Z",
-      "updated_at": "2026-06-26T06:56:51Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 349,
+      "forks": 25,
+      "language": "Rust",
+      "pushed_at": "2026-06-26T09:31:25Z",
+      "updated_at": "2026-06-26T09:31:26Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 376,
-      "forks": 45,
-      "language": "Go",
-      "pushed_at": "2026-06-26T07:12:01Z",
-      "updated_at": "2026-06-26T07:12:05Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-26T08:59:01Z",
+      "updated_at": "2026-06-26T08:59:04Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 260,
-      "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-06-26T06:01:05Z",
-      "updated_at": "2026-06-26T06:01:08Z"
-    },
-    {
-      "id": 1161236320,
-      "full_name": "vadimmelnicuk/meo",
-      "html_url": "https://github.com/vadimmelnicuk/meo",
-      "description": "An optimized markdown editor with live editing mode for VS Code.",
-      "stars": 166,
-      "forks": 18,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T07:39:21Z",
-      "updated_at": "2026-06-26T07:39:14Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 144,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T07:38:08Z",
-      "updated_at": "2026-06-26T07:38:13Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 136,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-26T04:55:22Z",
-      "updated_at": "2026-06-26T04:55:24Z"
-    },
-    {
-      "id": 1217603969,
-      "full_name": "aliaihub/awesome-hermes-usecases",
-      "html_url": "https://github.com/aliaihub/awesome-hermes-usecases",
-      "description": "Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources.",
-      "stars": 123,
-      "forks": 8,
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 227,
+      "forks": 21,
       "language": "Python",
-      "pushed_at": "2026-06-26T05:26:30Z",
-      "updated_at": "2026-06-26T05:26:35Z"
+      "pushed_at": "2026-06-26T10:01:08Z",
+      "updated_at": "2026-06-26T09:25:58Z"
+    },
+    {
+      "id": 451681060,
+      "full_name": "giovannicoppola/AlfreDo",
+      "html_url": "https://github.com/giovannicoppola/AlfreDo",
+      "description": "Alfred for Todoist",
+      "stars": 91,
+      "forks": 3,
+      "language": "Go",
+      "pushed_at": "2026-06-26T09:44:13Z",
+      "updated_at": "2026-06-26T09:44:16Z"
     }
   ]
 }
