@@ -8,48 +8,92 @@
   "total_found": 930,
   "items": [
     {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126263,
+      "forks": 14158,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-26T17:33:49Z",
+      "updated_at": "2026-06-26T17:03:49Z"
+    },
+    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 66296,
-      "forks": 4096,
+      "stars": 66340,
+      "forks": 4100,
       "language": "Rust",
-      "pushed_at": "2026-06-26T12:20:03Z",
-      "updated_at": "2026-06-26T14:22:17Z"
+      "pushed_at": "2026-06-26T17:43:55Z",
+      "updated_at": "2026-06-26T17:42:24Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32359,
-      "forks": 3375,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-26T13:56:59Z",
-      "updated_at": "2026-06-26T14:14:30Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44051,
+      "forks": 2766,
+      "language": "C#",
+      "pushed_at": "2026-06-26T15:57:20Z",
+      "updated_at": "2026-06-26T17:44:12Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20299,
-      "forks": 1801,
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24276,
+      "forks": 2301,
+      "language": "Python",
+      "pushed_at": "2026-06-26T17:31:21Z",
+      "updated_at": "2026-06-26T17:10:45Z"
+    },
+    {
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 21447,
+      "forks": 1055,
+      "language": "Go",
+      "pushed_at": "2026-06-26T16:03:19Z",
+      "updated_at": "2026-06-26T17:17:58Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13206,
+      "forks": 803,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T13:06:34Z",
-      "updated_at": "2026-06-26T13:27:05Z"
+      "pushed_at": "2026-06-26T15:14:59Z",
+      "updated_at": "2026-06-26T16:30:21Z"
+    },
+    {
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 8934,
+      "forks": 686,
+      "language": "HTML",
+      "pushed_at": "2026-06-26T17:29:39Z",
+      "updated_at": "2026-06-26T17:29:41Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8168,
+      "stars": 8170,
       "forks": 225,
       "language": "C++",
-      "pushed_at": "2026-06-26T14:10:43Z",
-      "updated_at": "2026-06-26T14:10:48Z"
+      "pushed_at": "2026-06-26T17:26:26Z",
+      "updated_at": "2026-06-26T16:18:12Z"
     },
     {
       "id": 129699403,
@@ -59,118 +103,74 @@
       "stars": 5720,
       "forks": 751,
       "language": "Swift",
-      "pushed_at": "2026-06-26T14:15:39Z",
-      "updated_at": "2026-06-26T14:14:29Z"
+      "pushed_at": "2026-06-26T17:24:25Z",
+      "updated_at": "2026-06-26T15:47:18Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4816,
-      "forks": 105,
-      "language": "Rust",
-      "pushed_at": "2026-06-26T11:52:26Z",
-      "updated_at": "2026-06-26T11:52:28Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5346,
+      "forks": 631,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-26T15:35:35Z",
+      "updated_at": "2026-06-26T16:07:29Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3219,
-      "forks": 153,
-      "language": "Gherkin",
-      "pushed_at": "2026-06-26T12:21:49Z",
-      "updated_at": "2026-06-26T12:21:10Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1458,
-      "forks": 38,
-      "language": "Rust",
-      "pushed_at": "2026-06-26T12:53:19Z",
-      "updated_at": "2026-06-26T11:52:39Z"
-    },
-    {
-      "id": 582248876,
-      "full_name": "chocoford/ExcalidrawZ",
-      "html_url": "https://github.com/chocoford/ExcalidrawZ",
-      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
-      "stars": 1231,
-      "forks": 63,
-      "language": "Swift",
-      "pushed_at": "2026-06-26T14:12:01Z",
-      "updated_at": "2026-06-26T14:12:11Z"
-    },
-    {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 938,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-06-26T12:59:24Z",
-      "updated_at": "2026-06-26T12:54:50Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 906,
-      "forks": 28,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-06-26T13:08:14Z",
-      "updated_at": "2026-06-26T13:22:47Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 767,
-      "forks": 79,
-      "language": "Python",
-      "pushed_at": "2026-06-26T14:21:48Z",
-      "updated_at": "2026-06-26T14:21:52Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 561,
-      "forks": 72,
-      "language": "C#",
-      "pushed_at": "2026-06-26T13:41:51Z",
-      "updated_at": "2026-06-26T13:41:35Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-26T14:16:41Z",
-      "updated_at": "2026-06-26T14:16:47Z"
-    },
-    {
-      "id": 1161236320,
-      "full_name": "vadimmelnicuk/meo",
-      "html_url": "https://github.com/vadimmelnicuk/meo",
-      "description": "An optimized markdown editor with live editing mode for VS Code.",
-      "stars": 166,
-      "forks": 18,
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 1961,
+      "forks": 194,
       "language": "TypeScript",
-      "pushed_at": "2026-06-26T14:18:59Z",
-      "updated_at": "2026-06-26T14:19:03Z"
+      "pushed_at": "2026-06-26T15:48:06Z",
+      "updated_at": "2026-06-26T17:43:16Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1891,
+      "forks": 139,
+      "language": "Dart",
+      "pushed_at": "2026-06-26T16:27:20Z",
+      "updated_at": "2026-06-26T15:55:47Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1869,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-06-26T16:01:33Z",
+      "updated_at": "2026-06-26T15:57:20Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 235,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-06-26T16:50:19Z",
+      "updated_at": "2026-06-26T16:50:22Z"
+    },
+    {
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 227,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-06-26T15:46:46Z",
+      "updated_at": "2026-06-26T15:46:50Z"
     }
   ]
 }
