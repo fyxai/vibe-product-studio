@@ -5,95 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 923,
+  "total_found": 925,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44040,
-      "forks": 2759,
-      "language": "C#",
-      "pushed_at": "2026-06-25T20:25:00Z",
-      "updated_at": "2026-06-25T21:40:10Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24273,
-      "forks": 2301,
-      "language": "Python",
-      "pushed_at": "2026-06-25T20:01:33Z",
-      "updated_at": "2026-06-25T20:22:46Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13203,
-      "forks": 802,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T19:43:23Z",
-      "updated_at": "2026-06-25T19:43:35Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8163,
-      "forks": 225,
-      "language": "C++",
-      "pushed_at": "2026-06-25T20:01:34Z",
-      "updated_at": "2026-06-25T20:01:45Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2268,
-      "forks": 90,
-      "language": "Swift",
-      "pushed_at": "2026-06-25T21:05:06Z",
-      "updated_at": "2026-06-25T21:07:58Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 221795,
+      "forks": 33954,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-25T23:47:36Z",
+      "updated_at": "2026-06-26T03:35:26Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1127,
+      "stars": 1128,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T20:53:27Z",
-      "updated_at": "2026-06-25T20:53:30Z"
+      "pushed_at": "2026-06-26T03:05:08Z",
+      "updated_at": "2026-06-26T03:05:12Z"
     },
     {
-      "id": 1274728677,
-      "full_name": "raiyanyahya/recall",
-      "html_url": "https://github.com/raiyanyahya/recall",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": 534,
-      "forks": 23,
-      "language": "Python",
-      "pushed_at": "2026-06-25T19:42:36Z",
-      "updated_at": "2026-06-25T19:42:48Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 901,
+      "forks": 27,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-06-26T02:37:35Z",
+      "updated_at": "2026-06-26T02:37:39Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 445,
-      "forks": 76,
-      "language": "Go",
-      "pushed_at": "2026-06-25T20:12:50Z",
-      "updated_at": "2026-06-25T20:08:33Z"
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-06-25T23:36:58Z",
+      "updated_at": "2026-06-25T23:37:02Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 349,
+      "forks": 25,
+      "language": "Rust",
+      "pushed_at": "2026-06-26T03:15:29Z",
+      "updated_at": "2026-06-26T03:15:33Z"
+    },
+    {
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 340,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-26T01:29:47Z",
+      "updated_at": "2026-06-26T01:29:52Z"
     },
     {
       "id": 1166865874,
@@ -103,8 +81,8 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-25T19:55:14Z",
-      "updated_at": "2026-06-25T19:55:18Z"
+      "pushed_at": "2026-06-26T02:54:34Z",
+      "updated_at": "2026-06-26T02:54:38Z"
     },
     {
       "id": 163754017,
@@ -114,30 +92,30 @@
       "stars": 288,
       "forks": 50,
       "language": "JavaScript",
-      "pushed_at": "2026-06-25T21:12:08Z",
-      "updated_at": "2026-06-25T21:12:12Z"
+      "pushed_at": "2026-06-25T23:09:52Z",
+      "updated_at": "2026-06-25T23:09:56Z"
     },
     {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local first cli-native issue tracker - distributed and  backed by git",
-      "stars": 254,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T20:07:02Z",
-      "updated_at": "2026-06-25T20:49:05Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 279,
+      "forks": 14,
+      "language": "C#",
+      "pushed_at": "2026-06-25T23:38:44Z",
+      "updated_at": "2026-06-26T03:03:59Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 235,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-06-25T21:01:44Z",
-      "updated_at": "2026-06-25T21:01:48Z"
+      "id": 1255014875,
+      "full_name": "ntd4996/agentpet",
+      "html_url": "https://github.com/ntd4996/agentpet",
+      "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
+      "stars": 255,
+      "forks": 47,
+      "language": "Swift",
+      "pushed_at": "2026-06-26T03:31:08Z",
+      "updated_at": "2026-06-26T03:31:12Z"
     },
     {
       "id": 1124365241,
@@ -147,30 +125,52 @@
       "stars": 185,
       "forks": 5,
       "language": "CSS",
-      "pushed_at": "2026-06-25T21:16:43Z",
-      "updated_at": "2026-06-25T21:16:48Z"
+      "pushed_at": "2026-06-26T00:07:09Z",
+      "updated_at": "2026-06-26T00:07:14Z"
     },
     {
-      "id": 1161236320,
-      "full_name": "vadimmelnicuk/meo",
-      "html_url": "https://github.com/vadimmelnicuk/meo",
-      "description": "An optimized markdown editor with live editing mode for VS Code.",
-      "stars": 166,
-      "forks": 18,
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
+      "stars": 144,
+      "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T20:23:26Z",
-      "updated_at": "2026-06-25T20:23:30Z"
+      "pushed_at": "2026-06-26T00:30:08Z",
+      "updated_at": "2026-06-26T00:29:19Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 94,
-      "forks": 5,
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 136,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-26T00:51:20Z",
+      "updated_at": "2026-06-26T00:51:06Z"
+    },
+    {
+      "id": 452405275,
+      "full_name": "jrgilbertson/networked-thinking",
+      "html_url": "https://github.com/jrgilbertson/networked-thinking",
+      "description": "This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.",
+      "stars": 125,
+      "forks": 13,
+      "language": "Unknown",
+      "pushed_at": "2026-06-26T00:06:33Z",
+      "updated_at": "2026-06-26T00:06:37Z"
+    },
+    {
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 122,
+      "forks": 8,
       "language": "JavaScript",
-      "pushed_at": "2026-06-25T20:06:38Z",
-      "updated_at": "2026-06-25T19:46:39Z"
+      "pushed_at": "2026-06-26T02:22:24Z",
+      "updated_at": "2026-06-26T02:06:26Z"
     }
   ]
 }
