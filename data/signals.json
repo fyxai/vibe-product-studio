@@ -8,48 +8,26 @@
   "total_found": 931,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32377,
-      "forks": 3377,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T15:32:43Z",
-      "updated_at": "2026-06-27T16:47:45Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39843,
+      "forks": 916,
+      "language": "Rust",
+      "pushed_at": "2026-06-27T18:24:34Z",
+      "updated_at": "2026-06-27T20:51:42Z"
     },
     {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
-      "stars": 8942,
-      "forks": 687,
-      "language": "HTML",
-      "pushed_at": "2026-06-27T15:55:57Z",
-      "updated_at": "2026-06-27T17:01:26Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8178,
-      "forks": 228,
-      "language": "C++",
-      "pushed_at": "2026-06-27T15:26:59Z",
-      "updated_at": "2026-06-27T16:28:59Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5722,
-      "forks": 751,
-      "language": "Swift",
-      "pushed_at": "2026-06-27T16:36:21Z",
-      "updated_at": "2026-06-27T16:36:25Z"
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25552,
+      "forks": 1866,
+      "language": "Vue",
+      "pushed_at": "2026-06-27T18:01:58Z",
+      "updated_at": "2026-06-27T19:18:46Z"
     },
     {
       "id": 189829392,
@@ -59,30 +37,74 @@
       "stars": 3746,
       "forks": 785,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T17:08:05Z",
-      "updated_at": "2026-06-27T16:44:37Z"
+      "pushed_at": "2026-06-27T20:36:18Z",
+      "updated_at": "2026-06-27T19:12:19Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1870,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-06-27T19:49:53Z",
+      "updated_at": "2026-06-27T19:45:50Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1465,
+      "forks": 38,
+      "language": "Rust",
+      "pushed_at": "2026-06-27T17:30:14Z",
+      "updated_at": "2026-06-27T18:03:33Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1157,
+      "forks": 53,
+      "language": "Rust",
+      "pushed_at": "2026-06-27T20:01:45Z",
+      "updated_at": "2026-06-27T19:59:47Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1134,
+      "stars": 1135,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T17:05:10Z",
-      "updated_at": "2026-06-27T17:05:16Z"
+      "pushed_at": "2026-06-27T19:00:59Z",
+      "updated_at": "2026-06-27T20:03:23Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 910,
+      "stars": 911,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-27T17:00:01Z",
-      "updated_at": "2026-06-27T17:00:04Z"
+      "pushed_at": "2026-06-27T21:01:26Z",
+      "updated_at": "2026-06-27T21:01:31Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 771,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-06-27T20:52:39Z",
+      "updated_at": "2026-06-27T20:52:44Z"
     },
     {
       "id": 1175591394,
@@ -92,52 +114,52 @@
       "stars": 417,
       "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-06-27T16:55:16Z",
-      "updated_at": "2026-06-27T16:55:20Z"
+      "pushed_at": "2026-06-27T20:25:08Z",
+      "updated_at": "2026-06-27T19:10:12Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 353,
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 366,
+      "forks": 33,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-27T19:32:25Z",
+      "updated_at": "2026-06-27T19:32:29Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-27T19:16:31Z",
+      "updated_at": "2026-06-27T19:16:35Z"
+    },
+    {
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 271,
       "forks": 25,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-27T18:56:23Z",
+      "updated_at": "2026-06-27T18:56:27Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 235,
+      "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-27T16:00:05Z",
-      "updated_at": "2026-06-27T15:58:54Z"
-    },
-    {
-      "id": 1132684547,
-      "full_name": "BuildWithAIs/voicekey",
-      "html_url": "https://github.com/BuildWithAIs/voicekey",
-      "description": "Voice to text, one key to input.",
-      "stars": 172,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T16:24:51Z",
-      "updated_at": "2026-06-27T16:24:54Z"
-    },
-    {
-      "id": 1146501646,
-      "full_name": "ykdojo/safeclaw",
-      "html_url": "https://github.com/ykdojo/safeclaw",
-      "description": "The easiest way to run multiple Claude Code sessions, each in its own container, with a dashboard to manage them all. Quick setup with battle-tested sensible defaults and skills.",
-      "stars": 159,
-      "forks": 18,
-      "language": "HTML",
-      "pushed_at": "2026-06-27T15:57:12Z",
-      "updated_at": "2026-06-27T15:57:15Z"
-    },
-    {
-      "id": 990355747,
-      "full_name": "taskade/mcp",
-      "html_url": "https://github.com/taskade/mcp",
-      "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
-      "stars": 151,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T15:44:05Z",
-      "updated_at": "2026-06-27T15:44:08Z"
+      "pushed_at": "2026-06-27T18:32:50Z",
+      "updated_at": "2026-06-27T18:32:53Z"
     },
     {
       "id": 452405275,
@@ -147,30 +169,8 @@
       "stars": 125,
       "forks": 13,
       "language": "Unknown",
-      "pushed_at": "2026-06-27T16:52:54Z",
-      "updated_at": "2026-06-27T16:52:58Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 125,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-27T15:56:28Z",
-      "updated_at": "2026-06-27T15:56:30Z"
-    },
-    {
-      "id": 1010925836,
-      "full_name": "nelson820125/jordium-gantt-vue3",
-      "html_url": "https://github.com/nelson820125/jordium-gantt-vue3",
-      "description": "Vue3 Gantt chart with powerful Resource View for task scheduling and resource planning.",
-      "stars": 105,
-      "forks": 28,
-      "language": "Vue",
-      "pushed_at": "2026-06-27T16:37:04Z",
-      "updated_at": "2026-06-27T16:37:08Z"
+      "pushed_at": "2026-06-27T18:03:18Z",
+      "updated_at": "2026-06-27T18:03:23Z"
     }
   ]
 }
