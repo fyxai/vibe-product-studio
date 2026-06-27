@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 930,
+  "total_found": 929,
   "items": [
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39819,
+      "forks": 915,
+      "language": "Rust",
+      "pushed_at": "2026-06-27T05:35:55Z",
+      "updated_at": "2026-06-27T06:45:10Z"
+    },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38283,
+      "stars": 38286,
       "forks": 3806,
       "language": "C#",
-      "pushed_at": "2026-06-27T02:27:32Z",
-      "updated_at": "2026-06-27T03:00:16Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32367,
-      "forks": 3375,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T01:28:30Z",
-      "updated_at": "2026-06-27T03:03:03Z"
-    },
-    {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
-      "stars": 8937,
-      "forks": 686,
-      "language": "HTML",
-      "pushed_at": "2026-06-27T01:13:06Z",
-      "updated_at": "2026-06-27T03:01:22Z"
+      "pushed_at": "2026-06-27T06:44:05Z",
+      "updated_at": "2026-06-27T06:44:10Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 5859,
+      "stars": 5864,
       "forks": 346,
       "language": "Kotlin",
       "pushed_at": "2026-06-27T02:49:57Z",
-      "updated_at": "2026-06-27T02:50:02Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5721,
-      "forks": 751,
-      "language": "Swift",
-      "pushed_at": "2026-06-27T02:11:55Z",
-      "updated_at": "2026-06-27T02:56:24Z"
+      "updated_at": "2026-06-27T06:47:44Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 909,
+      "stars": 908,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-27T03:20:43Z",
-      "updated_at": "2026-06-27T03:20:47Z"
+      "pushed_at": "2026-06-27T05:19:07Z",
+      "updated_at": "2026-06-27T05:19:11Z"
     },
     {
       "id": 1185843143,
@@ -81,19 +59,30 @@
       "stars": 608,
       "forks": 48,
       "language": "Swift",
-      "pushed_at": "2026-06-27T03:19:43Z",
-      "updated_at": "2026-06-27T03:19:47Z"
+      "pushed_at": "2026-06-27T05:54:51Z",
+      "updated_at": "2026-06-27T05:54:54Z"
     },
     {
-      "id": 1039979190,
-      "full_name": "rz1989s/claude-code-statusline",
-      "html_url": "https://github.com/rz1989s/claude-code-statusline",
-      "description": "Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.",
-      "stars": 457,
-      "forks": 32,
-      "language": "Shell",
-      "pushed_at": "2026-06-27T01:35:58Z",
-      "updated_at": "2026-06-27T01:29:10Z"
+      "id": 69779247,
+      "full_name": "CodeverDotDev/codever",
+      "html_url": "https://github.com/CodeverDotDev/codever",
+      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
+      "stars": 382,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-27T05:54:23Z",
+      "updated_at": "2026-06-27T05:54:27Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 352,
+      "forks": 25,
+      "language": "Rust",
+      "pushed_at": "2026-06-27T05:47:02Z",
+      "updated_at": "2026-06-27T05:26:42Z"
     },
     {
       "id": 226175035,
@@ -103,30 +92,8 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T01:01:50Z",
-      "updated_at": "2026-06-27T01:01:53Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-27T02:45:11Z",
-      "updated_at": "2026-06-27T02:45:15Z"
-    },
-    {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 227,
-      "forks": 21,
-      "language": "Python",
-      "pushed_at": "2026-06-27T01:18:49Z",
-      "updated_at": "2026-06-27T01:18:51Z"
+      "pushed_at": "2026-06-27T06:00:52Z",
+      "updated_at": "2026-06-27T06:00:55Z"
     },
     {
       "id": 737246781,
@@ -136,19 +103,8 @@
       "stars": 136,
       "forks": 11,
       "language": "Kotlin",
-      "pushed_at": "2026-06-27T01:40:47Z",
-      "updated_at": "2026-06-27T01:40:35Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 123,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-27T02:32:58Z",
-      "updated_at": "2026-06-27T00:59:48Z"
+      "pushed_at": "2026-06-27T05:12:48Z",
+      "updated_at": "2026-06-27T05:12:49Z"
     },
     {
       "id": 1140929355,
@@ -162,15 +118,59 @@
       "updated_at": "2026-06-27T02:49:10Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A lightweight WinUI 3 desktop organizer for Windows 11: collect files, map folders, and manage desktop widgets from the tray or a global hotkey.",
-      "stars": 94,
-      "forks": 5,
-      "language": "C#",
-      "pushed_at": "2026-06-27T02:28:33Z",
-      "updated_at": "2026-06-27T02:46:52Z"
+      "id": 907938065,
+      "full_name": "TimMacy/YouTubeAlchemy",
+      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
+      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
+      "stars": 93,
+      "forks": 3,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-27T04:07:48Z",
+      "updated_at": "2026-06-27T04:07:52Z"
+    },
+    {
+      "id": 1165869088,
+      "full_name": "SoFluffyOS/lumide",
+      "html_url": "https://github.com/SoFluffyOS/lumide",
+      "description": "🦊 Desktop-first code editor built with Flutter, providing GPU-accelerated rendering and a smooth editing experience.",
+      "stars": 80,
+      "forks": 2,
+      "language": "Unknown",
+      "pushed_at": "2026-06-27T04:42:19Z",
+      "updated_at": "2026-06-27T04:42:21Z"
+    },
+    {
+      "id": 1240365551,
+      "full_name": "wr/mojito",
+      "html_url": "https://github.com/wr/mojito",
+      "description": "Type :emoji:, ::symbol::, and :::gif::: shortcodes anywhere on macOS",
+      "stars": 75,
+      "forks": 2,
+      "language": "Swift",
+      "pushed_at": "2026-06-27T03:22:00Z",
+      "updated_at": "2026-06-27T03:22:04Z"
+    },
+    {
+      "id": 1228480462,
+      "full_name": "krelltunez/lastGLANCE",
+      "html_url": "https://github.com/krelltunez/lastGLANCE",
+      "description": "When did you last...?",
+      "stars": 73,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-27T05:09:07Z",
+      "updated_at": "2026-06-27T05:00:50Z"
+    },
+    {
+      "id": 1133644268,
+      "full_name": "DevelopedByDev/overlay-web",
+      "html_url": "https://github.com/DevelopedByDev/overlay-web",
+      "description": "The open source AI operating system",
+      "stars": 70,
+      "forks": 20,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-27T05:58:17Z",
+      "updated_at": "2026-06-27T05:58:21Z"
     }
   ]
 }
