@@ -8,81 +8,70 @@
   "total_found": 931,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39843,
-      "forks": 916,
-      "language": "Rust",
-      "pushed_at": "2026-06-27T18:24:34Z",
-      "updated_at": "2026-06-27T20:51:42Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38294,
+      "forks": 3811,
+      "language": "C#",
+      "pushed_at": "2026-06-28T00:14:44Z",
+      "updated_at": "2026-06-28T03:00:50Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25552,
-      "forks": 1866,
-      "language": "Vue",
-      "pushed_at": "2026-06-27T18:01:58Z",
-      "updated_at": "2026-06-27T19:18:46Z"
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 32385,
+      "forks": 3376,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T03:41:29Z",
+      "updated_at": "2026-06-28T03:41:33Z"
+    },
+    {
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 14009,
+      "forks": 424,
+      "language": "Rust",
+      "pushed_at": "2026-06-28T00:43:22Z",
+      "updated_at": "2026-06-28T00:49:01Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6397,
+      "forks": 139,
+      "language": "Swift",
+      "pushed_at": "2026-06-28T03:04:20Z",
+      "updated_at": "2026-06-28T03:22:49Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5723,
+      "forks": 751,
+      "language": "Swift",
+      "pushed_at": "2026-06-28T00:49:18Z",
+      "updated_at": "2026-06-28T03:31:33Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3746,
+      "stars": 3747,
       "forks": 785,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T20:36:18Z",
-      "updated_at": "2026-06-27T19:12:19Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1870,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-06-27T19:49:53Z",
-      "updated_at": "2026-06-27T19:45:50Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1465,
-      "forks": 38,
-      "language": "Rust",
-      "pushed_at": "2026-06-27T17:30:14Z",
-      "updated_at": "2026-06-27T18:03:33Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1157,
-      "forks": 53,
-      "language": "Rust",
-      "pushed_at": "2026-06-27T20:01:45Z",
-      "updated_at": "2026-06-27T19:59:47Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1135,
-      "forks": 69,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T19:00:59Z",
-      "updated_at": "2026-06-27T20:03:23Z"
+      "pushed_at": "2026-06-28T02:45:51Z",
+      "updated_at": "2026-06-28T00:20:03Z"
     },
     {
       "id": 1148683593,
@@ -92,8 +81,8 @@
       "stars": 911,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-27T21:01:26Z",
-      "updated_at": "2026-06-27T21:01:31Z"
+      "pushed_at": "2026-06-28T03:20:18Z",
+      "updated_at": "2026-06-28T03:20:23Z"
     },
     {
       "id": 591995344,
@@ -103,30 +92,41 @@
       "stars": 771,
       "forks": 79,
       "language": "Python",
-      "pushed_at": "2026-06-27T20:52:39Z",
-      "updated_at": "2026-06-27T20:52:44Z"
+      "pushed_at": "2026-06-28T01:50:18Z",
+      "updated_at": "2026-06-28T01:50:22Z"
+    },
+    {
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 612,
+      "forks": 49,
+      "language": "Swift",
+      "pushed_at": "2026-06-28T01:20:31Z",
+      "updated_at": "2026-06-28T01:20:36Z"
     },
     {
       "id": 1175591394,
       "full_name": "juyterman1000/entroly",
       "html_url": "https://github.com/juyterman1000/entroly",
       "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 417,
+      "stars": 418,
       "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-06-27T20:25:08Z",
-      "updated_at": "2026-06-27T19:10:12Z"
+      "pushed_at": "2026-06-28T02:53:59Z",
+      "updated_at": "2026-06-28T03:32:30Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 366,
-      "forks": 33,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-27T19:32:25Z",
-      "updated_at": "2026-06-27T19:32:29Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 353,
+      "forks": 25,
+      "language": "Rust",
+      "pushed_at": "2026-06-28T03:23:02Z",
+      "updated_at": "2026-06-28T02:19:37Z"
     },
     {
       "id": 1166865874,
@@ -136,19 +136,8 @@
       "stars": 316,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-27T19:16:31Z",
-      "updated_at": "2026-06-27T19:16:35Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 271,
-      "forks": 25,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-27T18:56:23Z",
-      "updated_at": "2026-06-27T18:56:27Z"
+      "pushed_at": "2026-06-28T02:59:43Z",
+      "updated_at": "2026-06-28T02:59:46Z"
     },
     {
       "id": 1093854529,
@@ -158,19 +147,30 @@
       "stars": 235,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-27T18:32:50Z",
-      "updated_at": "2026-06-27T18:32:53Z"
+      "pushed_at": "2026-06-28T03:03:53Z",
+      "updated_at": "2026-06-28T03:03:57Z"
     },
     {
-      "id": 452405275,
-      "full_name": "jrgilbertson/networked-thinking",
-      "html_url": "https://github.com/jrgilbertson/networked-thinking",
-      "description": "This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.",
-      "stars": 125,
-      "forks": 13,
-      "language": "Unknown",
-      "pushed_at": "2026-06-27T18:03:18Z",
-      "updated_at": "2026-06-27T18:03:23Z"
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 204,
+      "forks": 3,
+      "language": "Vue",
+      "pushed_at": "2026-06-28T02:44:07Z",
+      "updated_at": "2026-06-28T02:42:32Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
+      "stars": 145,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T01:36:23Z",
+      "updated_at": "2026-06-28T02:04:30Z"
     }
   ]
 }
