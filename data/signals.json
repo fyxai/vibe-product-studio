@@ -12,33 +12,11 @@
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38294,
+      "stars": 38295,
       "forks": 3811,
       "language": "C#",
-      "pushed_at": "2026-06-28T00:14:44Z",
-      "updated_at": "2026-06-28T03:00:50Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32385,
-      "forks": 3376,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T03:41:29Z",
-      "updated_at": "2026-06-28T03:41:33Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 14009,
-      "forks": 424,
-      "language": "Rust",
-      "pushed_at": "2026-06-28T00:43:22Z",
-      "updated_at": "2026-06-28T00:49:01Z"
+      "pushed_at": "2026-06-28T05:50:43Z",
+      "updated_at": "2026-06-28T05:50:48Z"
     },
     {
       "id": 375653778,
@@ -48,41 +26,41 @@
       "stars": 6397,
       "forks": 139,
       "language": "Swift",
-      "pushed_at": "2026-06-28T03:04:20Z",
-      "updated_at": "2026-06-28T03:22:49Z"
+      "pushed_at": "2026-06-28T05:40:03Z",
+      "updated_at": "2026-06-28T05:40:06Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5723,
-      "forks": 751,
-      "language": "Swift",
-      "pushed_at": "2026-06-28T00:49:18Z",
-      "updated_at": "2026-06-28T03:31:33Z"
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1424,
+      "forks": 85,
+      "language": "Rust",
+      "pushed_at": "2026-06-28T06:30:59Z",
+      "updated_at": "2026-06-28T06:31:00Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3747,
-      "forks": 785,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1137,
+      "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T02:45:51Z",
-      "updated_at": "2026-06-28T00:20:03Z"
+      "pushed_at": "2026-06-28T07:43:58Z",
+      "updated_at": "2026-06-28T07:44:01Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 911,
+      "stars": 912,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-28T03:20:18Z",
-      "updated_at": "2026-06-28T03:20:23Z"
+      "pushed_at": "2026-06-28T06:56:38Z",
+      "updated_at": "2026-06-28T06:56:42Z"
     },
     {
       "id": 591995344,
@@ -92,19 +70,30 @@
       "stars": 771,
       "forks": 79,
       "language": "Python",
-      "pushed_at": "2026-06-28T01:50:18Z",
-      "updated_at": "2026-06-28T01:50:22Z"
+      "pushed_at": "2026-06-28T07:31:16Z",
+      "updated_at": "2026-06-28T07:31:21Z"
+    },
+    {
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 657,
+      "forks": 43,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-28T06:48:50Z",
+      "updated_at": "2026-06-28T07:23:24Z"
     },
     {
       "id": 1185843143,
       "full_name": "realskyrin/capcap",
       "html_url": "https://github.com/realskyrin/capcap",
       "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 612,
+      "stars": 613,
       "forks": 49,
       "language": "Swift",
-      "pushed_at": "2026-06-28T01:20:31Z",
-      "updated_at": "2026-06-28T01:20:36Z"
+      "pushed_at": "2026-06-28T04:51:43Z",
+      "updated_at": "2026-06-28T07:17:41Z"
     },
     {
       "id": 1175591394,
@@ -114,8 +103,19 @@
       "stars": 418,
       "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-06-28T02:53:59Z",
-      "updated_at": "2026-06-28T03:32:30Z"
+      "pushed_at": "2026-06-28T07:46:36Z",
+      "updated_at": "2026-06-28T07:46:40Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 392,
+      "forks": 46,
+      "language": "Go",
+      "pushed_at": "2026-06-28T07:15:54Z",
+      "updated_at": "2026-06-28T07:15:57Z"
     },
     {
       "id": 1201098277,
@@ -125,19 +125,41 @@
       "stars": 353,
       "forks": 25,
       "language": "Rust",
-      "pushed_at": "2026-06-28T03:23:02Z",
-      "updated_at": "2026-06-28T02:19:37Z"
+      "pushed_at": "2026-06-28T05:52:33Z",
+      "updated_at": "2026-06-28T07:32:47Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-28T02:59:43Z",
-      "updated_at": "2026-06-28T02:59:46Z"
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 342,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T06:53:34Z",
+      "updated_at": "2026-06-28T06:53:38Z"
+    },
+    {
+      "id": 1167485752,
+      "full_name": "tover0314-w/opentypeless",
+      "html_url": "https://github.com/tover0314-w/opentypeless",
+      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
+      "stars": 303,
+      "forks": 56,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T07:44:23Z",
+      "updated_at": "2026-06-28T07:32:30Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 287,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-06-28T04:11:12Z",
+      "updated_at": "2026-06-28T04:11:15Z"
     },
     {
       "id": 1093854529,
@@ -147,30 +169,8 @@
       "stars": 235,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-28T03:03:53Z",
-      "updated_at": "2026-06-28T03:03:57Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 204,
-      "forks": 3,
-      "language": "Vue",
-      "pushed_at": "2026-06-28T02:44:07Z",
-      "updated_at": "2026-06-28T02:42:32Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 145,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T01:36:23Z",
-      "updated_at": "2026-06-28T02:04:30Z"
+      "pushed_at": "2026-06-28T03:50:59Z",
+      "updated_at": "2026-06-28T03:51:03Z"
     }
   ]
 }
