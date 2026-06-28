@@ -8,26 +8,37 @@
   "total_found": 931,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 66654,
-      "forks": 4122,
-      "language": "Rust",
-      "pushed_at": "2026-06-28T09:02:24Z",
-      "updated_at": "2026-06-28T10:20:26Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 188421,
+      "forks": 26374,
+      "language": "Shell",
+      "pushed_at": "2026-06-28T12:52:10Z",
+      "updated_at": "2026-06-28T13:17:33Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25559,
-      "forks": 1866,
-      "language": "Vue",
-      "pushed_at": "2026-06-28T09:42:36Z",
-      "updated_at": "2026-06-28T09:41:52Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126354,
+      "forks": 14182,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T12:42:01Z",
+      "updated_at": "2026-06-28T13:26:06Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13208,
+      "forks": 804,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T10:36:04Z",
+      "updated_at": "2026-06-28T12:34:04Z"
     },
     {
       "id": 1027461827,
@@ -37,63 +48,30 @@
       "stars": 8182,
       "forks": 227,
       "language": "C++",
-      "pushed_at": "2026-06-28T09:59:01Z",
-      "updated_at": "2026-06-28T09:59:05Z"
+      "pushed_at": "2026-06-28T11:40:42Z",
+      "updated_at": "2026-06-28T11:40:46Z"
     },
     {
-      "id": 610217037,
-      "full_name": "di-sukharev/opencommit",
-      "html_url": "https://github.com/di-sukharev/opencommit",
-      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
-      "stars": 7344,
-      "forks": 432,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-28T09:19:05Z",
-      "updated_at": "2026-06-28T09:19:08Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3748,
-      "forks": 785,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T10:15:38Z",
-      "updated_at": "2026-06-28T08:50:11Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1895,
-      "forks": 139,
-      "language": "Dart",
-      "pushed_at": "2026-06-28T08:41:41Z",
-      "updated_at": "2026-06-28T10:14:13Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1425,
-      "forks": 85,
-      "language": "Rust",
-      "pushed_at": "2026-06-28T09:47:33Z",
-      "updated_at": "2026-06-28T09:47:37Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1870,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-06-28T13:18:42Z",
+      "updated_at": "2026-06-28T13:14:27Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1137,
+      "stars": 1138,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T07:43:58Z",
-      "updated_at": "2026-06-28T07:44:01Z"
+      "pushed_at": "2026-06-28T11:04:41Z",
+      "updated_at": "2026-06-28T12:10:51Z"
     },
     {
       "id": 1148683593,
@@ -103,8 +81,8 @@
       "stars": 913,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-28T08:46:40Z",
-      "updated_at": "2026-06-28T08:49:30Z"
+      "pushed_at": "2026-06-28T12:29:38Z",
+      "updated_at": "2026-06-28T12:29:42Z"
     },
     {
       "id": 591995344,
@@ -114,30 +92,41 @@
       "stars": 771,
       "forks": 79,
       "language": "Python",
-      "pushed_at": "2026-06-28T07:31:16Z",
-      "updated_at": "2026-06-28T07:31:21Z"
+      "pushed_at": "2026-06-28T12:12:24Z",
+      "updated_at": "2026-06-28T12:12:28Z"
     },
     {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 418,
-      "forks": 66,
-      "language": "Python",
-      "pushed_at": "2026-06-28T08:58:42Z",
-      "updated_at": "2026-06-28T08:58:45Z"
-    },
-    {
-      "id": 1174234577,
-      "full_name": "cnfjlhj/ai-collab-playbook",
-      "html_url": "https://github.com/cnfjlhj/ai-collab-playbook",
-      "description": "Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills.",
-      "stars": 392,
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
       "forks": 32,
-      "language": "Python",
-      "pushed_at": "2026-06-28T09:59:50Z",
-      "updated_at": "2026-06-28T09:59:55Z"
+      "language": "Rust",
+      "pushed_at": "2026-06-28T13:39:34Z",
+      "updated_at": "2026-06-28T13:39:37Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 366,
+      "forks": 33,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-28T11:26:39Z",
+      "updated_at": "2026-06-28T11:26:42Z"
+    },
+    {
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 342,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T13:01:51Z",
+      "updated_at": "2026-06-28T13:01:55Z"
     },
     {
       "id": 1166865874,
@@ -147,30 +136,41 @@
       "stars": 316,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-28T08:48:58Z",
-      "updated_at": "2026-06-28T08:49:02Z"
+      "pushed_at": "2026-06-28T13:29:10Z",
+      "updated_at": "2026-06-28T13:29:14Z"
     },
     {
-      "id": 1167485752,
-      "full_name": "tover0314-w/opentypeless",
-      "html_url": "https://github.com/tover0314-w/opentypeless",
-      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
-      "stars": 303,
-      "forks": 56,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 224,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-06-28T12:22:41Z",
+      "updated_at": "2026-06-28T12:06:39Z"
+    },
+    {
+      "id": 1135338086,
+      "full_name": "l06066hb/MarKing",
+      "html_url": "https://github.com/l06066hb/MarKing",
+      "description": "Marking：现代化跨平台 Markdown 编辑器 - 专业级编辑体验 + 可视化表格编辑  + 强大导出功能 | Modern cross-platform Markdown editor with professional editing, visual table editor, and powerful export | MarKing: A modern, professional cross-platform Markdown editor with stunning UI, DOCX/PDF export, and native performance.",
+      "stars": 169,
+      "forks": 11,
+      "language": "Unknown",
+      "pushed_at": "2026-06-28T13:07:57Z",
+      "updated_at": "2026-06-28T12:48:50Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
+      "stars": 145,
+      "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T08:19:32Z",
-      "updated_at": "2026-06-28T08:19:35Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 272,
-      "forks": 25,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-28T09:30:09Z",
-      "updated_at": "2026-06-28T09:30:12Z"
+      "pushed_at": "2026-06-28T12:50:51Z",
+      "updated_at": "2026-06-28T12:50:57Z"
     }
   ]
 }
