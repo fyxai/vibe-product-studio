@@ -8,70 +8,70 @@
   "total_found": 931,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 188421,
-      "forks": 26374,
-      "language": "Shell",
-      "pushed_at": "2026-06-28T12:52:10Z",
-      "updated_at": "2026-06-28T13:17:33Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 66716,
+      "forks": 4123,
+      "language": "Rust",
+      "pushed_at": "2026-06-28T16:15:14Z",
+      "updated_at": "2026-06-28T16:54:27Z"
     },
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126354,
-      "forks": 14182,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T12:42:01Z",
-      "updated_at": "2026-06-28T13:26:06Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13208,
-      "forks": 804,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T10:36:04Z",
-      "updated_at": "2026-06-28T12:34:04Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44073,
+      "forks": 2770,
+      "language": "C#",
+      "pushed_at": "2026-06-28T16:01:36Z",
+      "updated_at": "2026-06-28T16:04:37Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8182,
+      "stars": 8183,
       "forks": 227,
       "language": "C++",
-      "pushed_at": "2026-06-28T11:40:42Z",
-      "updated_at": "2026-06-28T11:40:46Z"
+      "pushed_at": "2026-06-28T16:32:50Z",
+      "updated_at": "2026-06-28T16:32:55Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1870,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-06-28T13:18:42Z",
-      "updated_at": "2026-06-28T13:14:27Z"
+      "id": 198357530,
+      "full_name": "insin/control-panel-for-twitter",
+      "html_url": "https://github.com/insin/control-panel-for-twitter",
+      "description": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile",
+      "stars": 2547,
+      "forks": 96,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T15:20:26Z",
+      "updated_at": "2026-06-28T15:26:49Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1138,
-      "forks": 69,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T11:04:41Z",
-      "updated_at": "2026-06-28T12:10:51Z"
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1430,
+      "forks": 85,
+      "language": "Rust",
+      "pushed_at": "2026-06-28T16:58:46Z",
+      "updated_at": "2026-06-28T16:58:49Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 270 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1038,
+      "forks": 184,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T15:48:47Z",
+      "updated_at": "2026-06-28T15:48:50Z"
     },
     {
       "id": 1148683593,
@@ -81,8 +81,8 @@
       "stars": 913,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-28T12:29:38Z",
-      "updated_at": "2026-06-28T12:29:42Z"
+      "pushed_at": "2026-06-28T17:07:19Z",
+      "updated_at": "2026-06-28T17:07:06Z"
     },
     {
       "id": 591995344,
@@ -92,8 +92,8 @@
       "stars": 771,
       "forks": 79,
       "language": "Python",
-      "pushed_at": "2026-06-28T12:12:24Z",
-      "updated_at": "2026-06-28T12:12:28Z"
+      "pushed_at": "2026-06-28T16:28:00Z",
+      "updated_at": "2026-06-28T16:28:04Z"
     },
     {
       "id": 462913472,
@@ -103,8 +103,19 @@
       "stars": 475,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-06-28T13:39:34Z",
-      "updated_at": "2026-06-28T13:39:37Z"
+      "pushed_at": "2026-06-28T16:05:33Z",
+      "updated_at": "2026-06-28T16:05:37Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
+      "stars": 418,
+      "forks": 66,
+      "language": "Python",
+      "pushed_at": "2026-06-28T17:09:43Z",
+      "updated_at": "2026-06-28T17:09:46Z"
     },
     {
       "id": 846156986,
@@ -114,41 +125,19 @@
       "stars": 366,
       "forks": 33,
       "language": "Kotlin",
-      "pushed_at": "2026-06-28T11:26:39Z",
-      "updated_at": "2026-06-28T11:26:42Z"
+      "pushed_at": "2026-06-28T16:03:04Z",
+      "updated_at": "2026-06-28T16:03:08Z"
     },
     {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 342,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-28T13:01:51Z",
-      "updated_at": "2026-06-28T13:01:55Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-06-28T13:29:10Z",
-      "updated_at": "2026-06-28T13:29:14Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 224,
-      "forks": 29,
-      "language": "Python",
-      "pushed_at": "2026-06-28T12:22:41Z",
-      "updated_at": "2026-06-28T12:06:39Z"
+      "id": 1048106675,
+      "full_name": "vasylenko/bear-notes-mcp",
+      "html_url": "https://github.com/vasylenko/bear-notes-mcp",
+      "description": "MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool",
+      "stars": 201,
+      "forks": 21,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T16:26:48Z",
+      "updated_at": "2026-06-28T16:22:13Z"
     },
     {
       "id": 1135338086,
@@ -158,19 +147,30 @@
       "stars": 169,
       "forks": 11,
       "language": "Unknown",
-      "pushed_at": "2026-06-28T13:07:57Z",
-      "updated_at": "2026-06-28T12:48:50Z"
+      "pushed_at": "2026-06-28T14:25:47Z",
+      "updated_at": "2026-06-28T14:25:50Z"
     },
     {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a professional-grade, high-performance web application designed for developers and database architects to build, document, and visualize complex data structures. Built with a modular architecture and modern tech stack, it offers a seamless experience for database design and technical documentation.",
-      "stars": 145,
-      "forks": 28,
+      "id": 1112334575,
+      "full_name": "zhaoliangbin42/AI-MarkDone",
+      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
+      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
+      "stars": 164,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T12:50:51Z",
-      "updated_at": "2026-06-28T12:50:57Z"
+      "pushed_at": "2026-06-28T16:13:43Z",
+      "updated_at": "2026-06-28T16:13:44Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 158,
+      "forks": 6,
+      "language": "Python",
+      "pushed_at": "2026-06-28T16:07:19Z",
+      "updated_at": "2026-06-28T16:07:23Z"
     }
   ]
 }
