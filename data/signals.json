@@ -8,37 +8,81 @@
   "total_found": 931,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38295,
-      "forks": 3811,
-      "language": "C#",
-      "pushed_at": "2026-06-28T05:50:43Z",
-      "updated_at": "2026-06-28T05:50:48Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 66654,
+      "forks": 4122,
+      "language": "Rust",
+      "pushed_at": "2026-06-28T09:02:24Z",
+      "updated_at": "2026-06-28T10:20:26Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6397,
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25559,
+      "forks": 1866,
+      "language": "Vue",
+      "pushed_at": "2026-06-28T09:42:36Z",
+      "updated_at": "2026-06-28T09:41:52Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8182,
+      "forks": 227,
+      "language": "C++",
+      "pushed_at": "2026-06-28T09:59:01Z",
+      "updated_at": "2026-06-28T09:59:05Z"
+    },
+    {
+      "id": 610217037,
+      "full_name": "di-sukharev/opencommit",
+      "html_url": "https://github.com/di-sukharev/opencommit",
+      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "stars": 7344,
+      "forks": 432,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T09:19:05Z",
+      "updated_at": "2026-06-28T09:19:08Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3748,
+      "forks": 785,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T10:15:38Z",
+      "updated_at": "2026-06-28T08:50:11Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1895,
       "forks": 139,
-      "language": "Swift",
-      "pushed_at": "2026-06-28T05:40:03Z",
-      "updated_at": "2026-06-28T05:40:06Z"
+      "language": "Dart",
+      "pushed_at": "2026-06-28T08:41:41Z",
+      "updated_at": "2026-06-28T10:14:13Z"
     },
     {
       "id": 1177941774,
       "full_name": "wm94i/Work-Review",
       "html_url": "https://github.com/wm94i/Work-Review",
       "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1424,
+      "stars": 1425,
       "forks": 85,
       "language": "Rust",
-      "pushed_at": "2026-06-28T06:30:59Z",
-      "updated_at": "2026-06-28T06:31:00Z"
+      "pushed_at": "2026-06-28T09:47:33Z",
+      "updated_at": "2026-06-28T09:47:37Z"
     },
     {
       "id": 1111978380,
@@ -56,11 +100,11 @@
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 912,
+      "stars": 913,
       "forks": 28,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-06-28T06:56:38Z",
-      "updated_at": "2026-06-28T06:56:42Z"
+      "pushed_at": "2026-06-28T08:46:40Z",
+      "updated_at": "2026-06-28T08:49:30Z"
     },
     {
       "id": 591995344,
@@ -74,28 +118,6 @@
       "updated_at": "2026-06-28T07:31:21Z"
     },
     {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
-      "stars": 657,
-      "forks": 43,
-      "language": "Kotlin",
-      "pushed_at": "2026-06-28T06:48:50Z",
-      "updated_at": "2026-06-28T07:23:24Z"
-    },
-    {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 613,
-      "forks": 49,
-      "language": "Swift",
-      "pushed_at": "2026-06-28T04:51:43Z",
-      "updated_at": "2026-06-28T07:17:41Z"
-    },
-    {
       "id": 1175591394,
       "full_name": "juyterman1000/entroly",
       "html_url": "https://github.com/juyterman1000/entroly",
@@ -103,41 +125,30 @@
       "stars": 418,
       "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-06-28T07:46:36Z",
-      "updated_at": "2026-06-28T07:46:40Z"
+      "pushed_at": "2026-06-28T08:58:42Z",
+      "updated_at": "2026-06-28T08:58:45Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "id": 1174234577,
+      "full_name": "cnfjlhj/ai-collab-playbook",
+      "html_url": "https://github.com/cnfjlhj/ai-collab-playbook",
+      "description": "Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills.",
       "stars": 392,
-      "forks": 46,
-      "language": "Go",
-      "pushed_at": "2026-06-28T07:15:54Z",
-      "updated_at": "2026-06-28T07:15:57Z"
+      "forks": 32,
+      "language": "Python",
+      "pushed_at": "2026-06-28T09:59:50Z",
+      "updated_at": "2026-06-28T09:59:55Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 353,
-      "forks": 25,
-      "language": "Rust",
-      "pushed_at": "2026-06-28T05:52:33Z",
-      "updated_at": "2026-06-28T07:32:47Z"
-    },
-    {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 342,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-28T06:53:34Z",
-      "updated_at": "2026-06-28T06:53:38Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-28T08:48:58Z",
+      "updated_at": "2026-06-28T08:49:02Z"
     },
     {
       "id": 1167485752,
@@ -147,30 +158,19 @@
       "stars": 303,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T07:44:23Z",
-      "updated_at": "2026-06-28T07:32:30Z"
+      "pushed_at": "2026-06-28T08:19:32Z",
+      "updated_at": "2026-06-28T08:19:35Z"
     },
     {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 287,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-06-28T04:11:12Z",
-      "updated_at": "2026-06-28T04:11:15Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 235,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-06-28T03:50:59Z",
-      "updated_at": "2026-06-28T03:51:03Z"
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 272,
+      "forks": 25,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T09:30:09Z",
+      "updated_at": "2026-06-28T09:30:12Z"
     }
   ]
 }
