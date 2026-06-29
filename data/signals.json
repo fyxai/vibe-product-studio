@@ -8,15 +8,15 @@
   "total_found": 932,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44088,
-      "forks": 2772,
-      "language": "C#",
-      "pushed_at": "2026-06-29T15:26:23Z",
-      "updated_at": "2026-06-29T15:42:36Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126432,
+      "forks": 14196,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-29T15:55:54Z",
+      "updated_at": "2026-06-29T18:04:15Z"
     },
     {
       "id": 33702544,
@@ -26,19 +26,19 @@
       "stars": 24276,
       "forks": 2302,
       "language": "Python",
-      "pushed_at": "2026-06-29T15:43:05Z",
-      "updated_at": "2026-06-29T15:43:08Z"
+      "pushed_at": "2026-06-29T16:46:43Z",
+      "updated_at": "2026-06-29T16:37:46Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20372,
-      "forks": 1808,
+      "stars": 20377,
+      "forks": 1809,
       "language": "TypeScript",
-      "pushed_at": "2026-06-29T15:26:55Z",
-      "updated_at": "2026-06-29T15:22:05Z"
+      "pushed_at": "2026-06-29T17:45:50Z",
+      "updated_at": "2026-06-29T17:45:48Z"
     },
     {
       "id": 1027461827,
@@ -49,7 +49,7 @@
       "forks": 227,
       "language": "C++",
       "pushed_at": "2026-06-29T15:28:57Z",
-      "updated_at": "2026-06-29T14:43:15Z"
+      "updated_at": "2026-06-29T17:57:14Z"
     },
     {
       "id": 129699403,
@@ -59,41 +59,52 @@
       "stars": 5723,
       "forks": 752,
       "language": "Swift",
-      "pushed_at": "2026-06-29T15:32:43Z",
-      "updated_at": "2026-06-29T15:13:34Z"
+      "pushed_at": "2026-06-29T17:56:00Z",
+      "updated_at": "2026-06-29T17:44:26Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1895,
-      "forks": 139,
-      "language": "Dart",
-      "pushed_at": "2026-06-29T14:47:46Z",
-      "updated_at": "2026-06-29T14:45:16Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5356,
+      "forks": 631,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-29T17:16:37Z",
+      "updated_at": "2026-06-29T17:16:43Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1870,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-06-29T17:30:45Z",
+      "updated_at": "2026-06-29T17:26:40Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1390,
+      "forks": 125,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-29T17:27:18Z",
+      "updated_at": "2026-06-29T17:27:21Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1145,
+      "stars": 1147,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-29T15:40:32Z",
-      "updated_at": "2026-06-29T15:40:43Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1074,
-      "forks": 192,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-29T15:18:25Z",
-      "updated_at": "2026-06-29T15:18:33Z"
+      "pushed_at": "2026-06-29T17:13:54Z",
+      "updated_at": "2026-06-29T17:43:08Z"
     },
     {
       "id": 1148683593,
@@ -103,19 +114,19 @@
       "stars": 919,
       "forks": 28,
       "language": "Rust",
-      "pushed_at": "2026-06-29T15:16:38Z",
-      "updated_at": "2026-06-29T15:16:43Z"
+      "pushed_at": "2026-06-29T17:55:57Z",
+      "updated_at": "2026-06-29T17:56:02Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 773,
-      "forks": 79,
-      "language": "Python",
-      "pushed_at": "2026-06-29T13:15:34Z",
-      "updated_at": "2026-06-29T13:16:29Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 412,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-06-29T16:47:59Z",
+      "updated_at": "2026-06-29T16:47:56Z"
     },
     {
       "id": 1166865874,
@@ -133,44 +144,33 @@
       "full_name": "tover0314-w/opentypeless",
       "html_url": "https://github.com/tover0314-w/opentypeless",
       "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
-      "stars": 304,
+      "stars": 305,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-06-29T14:55:37Z",
-      "updated_at": "2026-06-29T14:56:29Z"
+      "pushed_at": "2026-06-29T17:05:50Z",
+      "updated_at": "2026-06-29T16:53:45Z"
     },
     {
-      "id": 224924055,
-      "full_name": "Netflix/metaflow-service",
-      "html_url": "https://github.com/Netflix/metaflow-service",
-      "description": ":rocket: Metadata tracking and UI service for Metaflow!",
-      "stars": 226,
-      "forks": 109,
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 271,
+      "forks": 25,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-29T15:48:50Z",
+      "updated_at": "2026-06-29T15:48:54Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 169,
+      "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-06-29T15:28:51Z",
-      "updated_at": "2026-06-29T15:29:34Z"
-    },
-    {
-      "id": 605340687,
-      "full_name": "LukeberryPi/phived",
-      "html_url": "https://github.com/LukeberryPi/phived",
-      "description": "An anti-procrastination to-do list. ",
-      "stars": 218,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-29T15:42:31Z",
-      "updated_at": "2026-06-29T15:05:36Z"
-    },
-    {
-      "id": 1122584172,
-      "full_name": "1003129155/jietuba",
-      "html_url": "https://github.com/1003129155/jietuba",
-      "description": "A screenshot ocr and clipboard manager, available only on Windows 10+.  一款截图和剪贴板管理工具，功能丰富媲美 PixPin 等商业软件，仅支持 Windows 平台。",
-      "stars": 82,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-06-29T14:29:06Z",
-      "updated_at": "2026-06-29T14:29:01Z"
+      "pushed_at": "2026-06-29T16:35:48Z",
+      "updated_at": "2026-06-29T17:47:45Z"
     }
   ]
 }
