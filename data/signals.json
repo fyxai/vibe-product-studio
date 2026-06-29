@@ -5,51 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 932,
+  "total_found": 933,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126432,
-      "forks": 14196,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-29T15:55:54Z",
-      "updated_at": "2026-06-29T18:04:15Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24276,
-      "forks": 2302,
-      "language": "Python",
-      "pushed_at": "2026-06-29T16:46:43Z",
-      "updated_at": "2026-06-29T16:37:46Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20377,
-      "forks": 1809,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-29T17:45:50Z",
-      "updated_at": "2026-06-29T17:45:48Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44092,
+      "forks": 2772,
+      "language": "C#",
+      "pushed_at": "2026-06-29T19:09:50Z",
+      "updated_at": "2026-06-29T21:12:14Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8195,
+      "stars": 8194,
       "forks": 227,
       "language": "C++",
-      "pushed_at": "2026-06-29T15:28:57Z",
-      "updated_at": "2026-06-29T17:57:14Z"
+      "pushed_at": "2026-06-29T20:31:33Z",
+      "updated_at": "2026-06-29T21:14:40Z"
     },
     {
       "id": 129699403,
@@ -59,30 +37,41 @@
       "stars": 5723,
       "forks": 752,
       "language": "Swift",
-      "pushed_at": "2026-06-29T17:56:00Z",
-      "updated_at": "2026-06-29T17:44:26Z"
+      "pushed_at": "2026-06-29T21:07:02Z",
+      "updated_at": "2026-06-29T19:51:15Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5356,
-      "forks": 631,
+      "stars": 5357,
+      "forks": 632,
       "language": "Kotlin",
-      "pushed_at": "2026-06-29T17:16:37Z",
-      "updated_at": "2026-06-29T17:16:43Z"
+      "pushed_at": "2026-06-29T20:26:21Z",
+      "updated_at": "2026-06-29T21:11:16Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1870,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-06-29T17:30:45Z",
-      "updated_at": "2026-06-29T17:26:40Z"
+      "id": 123563464,
+      "full_name": "code-charity/youtube",
+      "html_url": "https://github.com/code-charity/youtube",
+      "description": "YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
+      "stars": 4449,
+      "forks": 939,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-29T20:55:00Z",
+      "updated_at": "2026-06-29T20:55:04Z"
+    },
+    {
+      "id": 1147470802,
+      "full_name": "rohitg00/pro-workflow",
+      "html_url": "https://github.com/rohitg00/pro-workflow",
+      "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+      "stars": 2481,
+      "forks": 237,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-29T20:24:33Z",
+      "updated_at": "2026-06-29T20:50:38Z"
     },
     {
       "id": 980286881,
@@ -92,41 +81,74 @@
       "stars": 1390,
       "forks": 125,
       "language": "TypeScript",
-      "pushed_at": "2026-06-29T17:27:18Z",
-      "updated_at": "2026-06-29T17:27:21Z"
+      "pushed_at": "2026-06-29T21:18:48Z",
+      "updated_at": "2026-06-29T21:18:49Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1147,
+      "stars": 1149,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-29T17:13:54Z",
-      "updated_at": "2026-06-29T17:43:08Z"
+      "pushed_at": "2026-06-29T20:18:00Z",
+      "updated_at": "2026-06-29T21:15:13Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 919,
-      "forks": 28,
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1079,
+      "forks": 193,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-29T20:56:57Z",
+      "updated_at": "2026-06-29T20:59:32Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 774,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-06-29T19:17:14Z",
+      "updated_at": "2026-06-29T20:16:00Z"
+    },
+    {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 694,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-06-29T19:32:23Z",
+      "updated_at": "2026-06-29T19:32:03Z"
+    },
+    {
+      "id": 1243618131,
+      "full_name": "elvisun/newsjack",
+      "html_url": "https://github.com/elvisun/newsjack",
+      "description": "The open-source skills that turn your agent into a full PR team.",
+      "stars": 502,
+      "forks": 37,
+      "language": "Go",
+      "pushed_at": "2026-06-29T19:53:57Z",
+      "updated_at": "2026-06-29T19:53:58Z"
+    },
+    {
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
+      "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-06-29T17:55:57Z",
-      "updated_at": "2026-06-29T17:56:02Z"
-    },
-    {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 412,
-      "forks": 53,
-      "language": "PHP",
-      "pushed_at": "2026-06-29T16:47:59Z",
-      "updated_at": "2026-06-29T16:47:56Z"
+      "pushed_at": "2026-06-29T20:23:12Z",
+      "updated_at": "2026-06-29T20:23:17Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +158,19 @@
       "stars": 316,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-29T15:40:51Z",
-      "updated_at": "2026-06-29T15:40:54Z"
-    },
-    {
-      "id": 1167485752,
-      "full_name": "tover0314-w/opentypeless",
-      "html_url": "https://github.com/tover0314-w/opentypeless",
-      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
-      "stars": 305,
-      "forks": 56,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-29T17:05:50Z",
-      "updated_at": "2026-06-29T16:53:45Z"
+      "pushed_at": "2026-06-29T19:53:37Z",
+      "updated_at": "2026-06-29T19:53:40Z"
     },
     {
       "id": 1208490640,
       "full_name": "EdgeTypE/better-deepseek",
       "html_url": "https://github.com/EdgeTypE/better-deepseek",
       "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 271,
+      "stars": 272,
       "forks": 25,
       "language": "JavaScript",
-      "pushed_at": "2026-06-29T15:48:50Z",
-      "updated_at": "2026-06-29T15:48:54Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 169,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-06-29T16:35:48Z",
-      "updated_at": "2026-06-29T17:47:45Z"
+      "pushed_at": "2026-06-29T19:42:55Z",
+      "updated_at": "2026-06-29T19:42:59Z"
     }
   ]
 }
