@@ -5,30 +5,8 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 934,
+  "total_found": 935,
   "items": [
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38330,
-      "forks": 3815,
-      "language": "C#",
-      "pushed_at": "2026-06-30T07:07:03Z",
-      "updated_at": "2026-06-30T07:42:03Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15050,
-      "forks": 618,
-      "language": "C#",
-      "pushed_at": "2026-06-30T05:11:49Z",
-      "updated_at": "2026-06-30T07:16:02Z"
-    },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
@@ -37,63 +15,52 @@
       "stars": 14201,
       "forks": 964,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T07:48:48Z",
-      "updated_at": "2026-06-30T06:45:06Z"
+      "pushed_at": "2026-06-30T10:22:09Z",
+      "updated_at": "2026-06-30T10:22:06Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11470,
+      "stars": 11471,
       "forks": 1411,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T07:48:52Z",
-      "updated_at": "2026-06-30T07:47:49Z"
+      "pushed_at": "2026-06-30T10:46:13Z",
+      "updated_at": "2026-06-30T10:25:07Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5723,
+      "forks": 753,
+      "language": "Swift",
+      "pushed_at": "2026-06-30T10:50:11Z",
+      "updated_at": "2026-06-30T10:37:19Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5394,
-      "forks": 835,
+      "stars": 5398,
+      "forks": 836,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T07:48:42Z",
-      "updated_at": "2026-06-30T07:20:11Z"
-    },
-    {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1390,
-      "forks": 126,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T05:20:51Z",
-      "updated_at": "2026-06-30T05:20:52Z"
+      "pushed_at": "2026-06-30T10:53:31Z",
+      "updated_at": "2026-06-30T10:40:26Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
       "description": "In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1092,
+      "stars": 1097,
       "forks": 194,
       "language": "JavaScript",
-      "pushed_at": "2026-06-30T07:39:40Z",
-      "updated_at": "2026-06-30T07:01:19Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 834,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T06:50:37Z",
-      "updated_at": "2026-06-30T06:50:40Z"
+      "pushed_at": "2026-06-30T10:50:00Z",
+      "updated_at": "2026-06-30T10:47:59Z"
     },
     {
       "id": 1164540365,
@@ -103,41 +70,41 @@
       "stars": 767,
       "forks": 164,
       "language": "Shell",
-      "pushed_at": "2026-06-30T07:31:36Z",
-      "updated_at": "2026-06-30T07:20:22Z"
+      "pushed_at": "2026-06-30T08:22:08Z",
+      "updated_at": "2026-06-30T08:22:12Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 622,
-      "forks": 51,
-      "language": "Swift",
-      "pushed_at": "2026-06-30T06:44:25Z",
-      "updated_at": "2026-06-30T07:42:37Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 396,
-      "forks": 50,
-      "language": "Go",
-      "pushed_at": "2026-06-30T07:08:53Z",
-      "updated_at": "2026-06-30T07:08:57Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-30T09:28:03Z",
+      "updated_at": "2026-06-30T09:28:07Z"
     },
     {
       "id": 1208490640,
       "full_name": "EdgeTypE/better-deepseek",
       "html_url": "https://github.com/EdgeTypE/better-deepseek",
       "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 272,
+      "stars": 273,
       "forks": 25,
       "language": "JavaScript",
-      "pushed_at": "2026-06-30T06:23:37Z",
-      "updated_at": "2026-06-30T06:23:41Z"
+      "pushed_at": "2026-06-30T09:49:30Z",
+      "updated_at": "2026-06-30T09:49:34Z"
+    },
+    {
+      "id": 51590636,
+      "full_name": "passbolt/passbolt_browser_extension",
+      "html_url": "https://github.com/passbolt/passbolt_browser_extension",
+      "description": "Browser extensions (Firefox, Edge & Chrome) for Passbolt the open source password manager for teams",
+      "stars": 270,
+      "forks": 99,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-30T09:08:49Z",
+      "updated_at": "2026-06-30T09:08:54Z"
     },
     {
       "id": 1093854529,
@@ -147,30 +114,63 @@
       "stars": 236,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-06-30T07:08:27Z",
-      "updated_at": "2026-06-30T07:08:31Z"
+      "pushed_at": "2026-06-30T09:23:26Z",
+      "updated_at": "2026-06-30T09:23:30Z"
     },
     {
-      "id": 1072582327,
-      "full_name": "campfirium/obsidian-tile-line-base",
-      "html_url": "https://github.com/campfirium/obsidian-tile-line-base",
-      "description": "The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.",
-      "stars": 142,
-      "forks": 0,
+      "id": 224924055,
+      "full_name": "Netflix/metaflow-service",
+      "html_url": "https://github.com/Netflix/metaflow-service",
+      "description": ":rocket: Metadata tracking and UI service for Metaflow!",
+      "stars": 226,
+      "forks": 109,
+      "language": "Python",
+      "pushed_at": "2026-06-30T10:28:56Z",
+      "updated_at": "2026-06-30T10:29:01Z"
+    },
+    {
+      "id": 315004969,
+      "full_name": "fawazahmed0/the-solo-developers-manifesto",
+      "html_url": "https://github.com/fawazahmed0/the-solo-developers-manifesto",
+      "description": "This guide will help solo developers achieve what could be achieved by teams by God's mercy",
+      "stars": 183,
+      "forks": 11,
+      "language": "Unknown",
+      "pushed_at": "2026-06-30T09:59:22Z",
+      "updated_at": "2026-06-30T09:59:26Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 177,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-06-30T08:45:58Z",
+      "updated_at": "2026-06-30T09:46:52Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 149,
+      "forks": 34,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T05:26:38Z",
-      "updated_at": "2026-06-30T05:26:41Z"
+      "pushed_at": "2026-06-30T10:11:57Z",
+      "updated_at": "2026-06-30T10:12:03Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 97,
-      "forks": 5,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-30T05:25:13Z",
-      "updated_at": "2026-06-30T06:04:32Z"
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 145,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T08:52:50Z",
+      "updated_at": "2026-06-30T08:52:55Z"
     }
   ]
 }
