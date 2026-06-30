@@ -8,92 +8,26 @@
   "total_found": 937,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44096,
-      "forks": 2771,
-      "language": "C#",
-      "pushed_at": "2026-06-30T14:56:58Z",
-      "updated_at": "2026-06-30T15:47:43Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 67319,
+      "forks": 4161,
+      "language": "Rust",
+      "pushed_at": "2026-06-30T20:18:40Z",
+      "updated_at": "2026-06-30T21:22:50Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20392,
-      "forks": 1811,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T15:55:48Z",
-      "updated_at": "2026-06-30T16:31:53Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15092,
-      "forks": 1540,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T17:45:40Z",
-      "updated_at": "2026-06-30T16:33:03Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14199,
-      "forks": 964,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T15:32:38Z",
-      "updated_at": "2026-06-30T16:32:14Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8199,
-      "forks": 227,
-      "language": "C++",
-      "pushed_at": "2026-06-30T15:26:27Z",
-      "updated_at": "2026-06-30T17:25:32Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5724,
-      "forks": 753,
-      "language": "Swift",
-      "pushed_at": "2026-06-30T17:49:21Z",
-      "updated_at": "2026-06-30T17:21:38Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5401,
-      "forks": 836,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T15:37:10Z",
-      "updated_at": "2026-06-30T16:57:21Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2066,
-      "forks": 70,
-      "language": "Swift",
-      "pushed_at": "2026-06-30T16:20:58Z",
-      "updated_at": "2026-06-30T16:21:03Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24278,
+      "forks": 2302,
+      "language": "Python",
+      "pushed_at": "2026-06-30T20:59:04Z",
+      "updated_at": "2026-06-30T20:59:10Z"
     },
     {
       "id": 323279421,
@@ -103,30 +37,63 @@
       "stars": 1896,
       "forks": 139,
       "language": "Dart",
-      "pushed_at": "2026-06-30T16:04:06Z",
-      "updated_at": "2026-06-30T15:26:16Z"
+      "pushed_at": "2026-06-30T20:44:46Z",
+      "updated_at": "2026-06-30T20:44:52Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1871,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-06-30T21:21:38Z",
+      "updated_at": "2026-06-30T21:15:19Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1152,
+      "stars": 1151,
       "forks": 70,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T16:02:17Z",
-      "updated_at": "2026-06-30T16:02:38Z"
+      "pushed_at": "2026-06-30T20:51:21Z",
+      "updated_at": "2026-06-30T20:51:26Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1100,
+      "forks": 194,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-30T20:33:20Z",
+      "updated_at": "2026-06-30T20:33:27Z"
+    },
+    {
+      "id": 843554833,
+      "full_name": "Shopify/tophat",
+      "html_url": "https://github.com/Shopify/tophat",
+      "description": "Easily install and test mobile applications with a single click.",
+      "stars": 1053,
+      "forks": 36,
+      "language": "Swift",
+      "pushed_at": "2026-06-30T19:36:22Z",
+      "updated_at": "2026-06-30T19:36:26Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 921,
+      "stars": 920,
       "forks": 28,
       "language": "Rust",
-      "pushed_at": "2026-06-30T17:48:38Z",
-      "updated_at": "2026-06-30T17:48:42Z"
+      "pushed_at": "2026-06-30T21:24:26Z",
+      "updated_at": "2026-06-30T21:24:30Z"
     },
     {
       "id": 591995344,
@@ -136,41 +103,74 @@
       "stars": 775,
       "forks": 79,
       "language": "Python",
-      "pushed_at": "2026-06-30T17:28:20Z",
-      "updated_at": "2026-06-30T17:28:25Z"
+      "pushed_at": "2026-06-30T20:30:21Z",
+      "updated_at": "2026-06-30T20:30:29Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "elegant fuzzy searcher",
-      "stars": 236,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-06-30T15:51:12Z",
-      "updated_at": "2026-06-30T15:51:16Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 495,
+      "forks": 23,
+      "language": "C#",
+      "pushed_at": "2026-06-30T21:19:53Z",
+      "updated_at": "2026-06-30T21:19:57Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 129,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-06-30T17:01:29Z",
-      "updated_at": "2026-06-30T17:45:38Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-06-30T19:51:14Z",
+      "updated_at": "2026-06-30T19:51:18Z"
     },
     {
-      "id": 1213753689,
-      "full_name": "nylxar/curium",
-      "html_url": "https://github.com/nylxar/curium",
-      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
-      "stars": 129,
-      "forks": 7,
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 252,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-06-30T20:13:48Z",
+      "updated_at": "2026-06-30T20:13:51Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 225,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-06-30T21:10:23Z",
+      "updated_at": "2026-06-30T19:56:04Z"
+    },
+    {
+      "id": 412385182,
+      "full_name": "scribe-org/Scribe-iOS",
+      "html_url": "https://github.com/scribe-org/Scribe-iOS",
+      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
+      "stars": 165,
+      "forks": 106,
+      "language": "Swift",
+      "pushed_at": "2026-06-30T21:04:15Z",
+      "updated_at": "2026-06-30T21:14:18Z"
+    },
+    {
+      "id": 1234381241,
+      "full_name": "Priyanshu-byte-coder/devtrack",
+      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
+      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
+      "stars": 157,
+      "forks": 423,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T14:58:45Z",
-      "updated_at": "2026-06-30T15:00:15Z"
+      "pushed_at": "2026-06-30T20:32:55Z",
+      "updated_at": "2026-06-30T20:33:00Z"
     }
   ]
 }
