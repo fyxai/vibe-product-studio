@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 937,
+  "total_found": 936,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 67319,
-      "forks": 4161,
-      "language": "Rust",
-      "pushed_at": "2026-06-30T20:18:40Z",
-      "updated_at": "2026-06-30T21:22:50Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44103,
+      "forks": 2771,
+      "language": "C#",
+      "pushed_at": "2026-07-01T03:20:20Z",
+      "updated_at": "2026-07-01T03:21:41Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38343,
+      "forks": 3818,
+      "language": "C#",
+      "pushed_at": "2026-07-01T03:39:25Z",
+      "updated_at": "2026-07-01T03:39:29Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24278,
+      "stars": 24279,
       "forks": 2302,
       "language": "Python",
-      "pushed_at": "2026-06-30T20:59:04Z",
-      "updated_at": "2026-06-30T20:59:10Z"
+      "pushed_at": "2026-07-01T01:20:54Z",
+      "updated_at": "2026-07-01T01:36:00Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1896,
-      "forks": 139,
-      "language": "Dart",
-      "pushed_at": "2026-06-30T20:44:46Z",
-      "updated_at": "2026-06-30T20:44:52Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1871,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-06-30T21:21:38Z",
-      "updated_at": "2026-06-30T21:15:19Z"
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13212,
+      "forks": 807,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-01T03:13:27Z",
+      "updated_at": "2026-07-01T03:13:33Z"
     },
     {
       "id": 1111978380,
@@ -59,63 +59,41 @@
       "stars": 1151,
       "forks": 70,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T20:51:21Z",
-      "updated_at": "2026-06-30T20:51:26Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1100,
-      "forks": 194,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-30T20:33:20Z",
-      "updated_at": "2026-06-30T20:33:27Z"
-    },
-    {
-      "id": 843554833,
-      "full_name": "Shopify/tophat",
-      "html_url": "https://github.com/Shopify/tophat",
-      "description": "Easily install and test mobile applications with a single click.",
-      "stars": 1053,
-      "forks": 36,
-      "language": "Swift",
-      "pushed_at": "2026-06-30T19:36:22Z",
-      "updated_at": "2026-06-30T19:36:26Z"
+      "pushed_at": "2026-07-01T02:08:33Z",
+      "updated_at": "2026-07-01T02:08:36Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 920,
+      "stars": 922,
       "forks": 28,
       "language": "Rust",
-      "pushed_at": "2026-06-30T21:24:26Z",
-      "updated_at": "2026-06-30T21:24:30Z"
+      "pushed_at": "2026-07-01T02:39:11Z",
+      "updated_at": "2026-07-01T02:39:14Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 775,
-      "forks": 79,
-      "language": "Python",
-      "pushed_at": "2026-06-30T20:30:21Z",
-      "updated_at": "2026-06-30T20:30:29Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 621,
+      "forks": 112,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-01T01:02:53Z",
+      "updated_at": "2026-07-01T00:58:44Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 495,
-      "forks": 23,
-      "language": "C#",
-      "pushed_at": "2026-06-30T21:19:53Z",
-      "updated_at": "2026-06-30T21:19:57Z"
+      "id": 208359230,
+      "full_name": "TTLApp/time-to-leave",
+      "html_url": "https://github.com/TTLApp/time-to-leave",
+      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
+      "stars": 489,
+      "forks": 276,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-01T01:10:27Z",
+      "updated_at": "2026-07-01T01:10:30Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +103,74 @@
       "stars": 316,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-06-30T19:51:14Z",
-      "updated_at": "2026-06-30T19:51:18Z"
+      "pushed_at": "2026-07-01T02:59:40Z",
+      "updated_at": "2026-07-01T02:59:44Z"
     },
     {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 252,
-      "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-06-30T20:13:48Z",
-      "updated_at": "2026-06-30T20:13:51Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 225,
-      "forks": 29,
-      "language": "Python",
-      "pushed_at": "2026-06-30T21:10:23Z",
-      "updated_at": "2026-06-30T19:56:04Z"
-    },
-    {
-      "id": 412385182,
-      "full_name": "scribe-org/Scribe-iOS",
-      "html_url": "https://github.com/scribe-org/Scribe-iOS",
-      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
-      "stars": 165,
-      "forks": 106,
-      "language": "Swift",
-      "pushed_at": "2026-06-30T21:04:15Z",
-      "updated_at": "2026-06-30T21:14:18Z"
-    },
-    {
-      "id": 1234381241,
-      "full_name": "Priyanshu-byte-coder/devtrack",
-      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
-      "description": "Open-source developer productivity dashboard — GitHub stats, PR metrics, streaks & goals. ⭐ Star if useful!",
-      "stars": 157,
-      "forks": 423,
+      "id": 1167485752,
+      "full_name": "tover0314-w/opentypeless",
+      "html_url": "https://github.com/tover0314-w/opentypeless",
+      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
+      "stars": 309,
+      "forks": 58,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T20:32:55Z",
-      "updated_at": "2026-06-30T20:33:00Z"
+      "pushed_at": "2026-07-01T02:32:14Z",
+      "updated_at": "2026-07-01T02:32:18Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "elegant fuzzy searcher",
+      "stars": 236,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-07-01T03:32:28Z",
+      "updated_at": "2026-07-01T03:32:27Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-01T02:54:48Z",
+      "updated_at": "2026-07-01T02:54:51Z"
+    },
+    {
+      "id": 1142491633,
+      "full_name": "sqmw/desk_tidy_sticky",
+      "html_url": "https://github.com/sqmw/desk_tidy_sticky",
+      "description": "跨平台极简多功能便笺助手 | Cross-platform minimal multifunction sticky notes with workspace, focus timer, and break reminders.",
+      "stars": 151,
+      "forks": 4,
+      "language": "Svelte",
+      "pushed_at": "2026-07-01T03:13:03Z",
+      "updated_at": "2026-07-01T03:13:08Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 150,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-01T03:28:30Z",
+      "updated_at": "2026-07-01T03:28:34Z"
+    },
+    {
+      "id": 1072582327,
+      "full_name": "campfirium/obsidian-tile-line-base",
+      "html_url": "https://github.com/campfirium/obsidian-tile-line-base",
+      "description": "The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.",
+      "stars": 142,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-01T01:10:35Z",
+      "updated_at": "2026-07-01T01:10:38Z"
     }
   ]
 }
