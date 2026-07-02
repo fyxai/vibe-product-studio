@@ -8,6 +8,28 @@
   "total_found": 942,
   "items": [
     {
+      "id": 1052845083,
+      "full_name": "danielmiessler/LifeOS",
+      "html_url": "https://github.com/danielmiessler/LifeOS",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 16239,
+      "forks": 2233,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T20:55:49Z",
+      "updated_at": "2026-07-02T21:02:45Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11480,
+      "forks": 1416,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T20:57:21Z",
+      "updated_at": "2026-07-02T20:57:20Z"
+    },
+    {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
@@ -15,8 +37,8 @@
       "stars": 8217,
       "forks": 230,
       "language": "C++",
-      "pushed_at": "2026-07-02T17:18:28Z",
-      "updated_at": "2026-07-02T17:23:49Z"
+      "pushed_at": "2026-07-02T19:51:29Z",
+      "updated_at": "2026-07-02T20:02:19Z"
     },
     {
       "id": 129699403,
@@ -24,21 +46,21 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5725,
-      "forks": 753,
+      "forks": 754,
       "language": "Swift",
-      "pushed_at": "2026-07-02T17:14:31Z",
-      "updated_at": "2026-07-02T16:44:23Z"
+      "pushed_at": "2026-07-02T21:01:57Z",
+      "updated_at": "2026-07-02T21:02:06Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2076,
-      "forks": 73,
-      "language": "Swift",
-      "pushed_at": "2026-07-02T17:16:57Z",
-      "updated_at": "2026-07-02T17:17:16Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3358,
+      "forks": 222,
+      "language": "Python",
+      "pushed_at": "2026-07-02T20:17:48Z",
+      "updated_at": "2026-07-02T20:17:52Z"
     },
     {
       "id": 257400448,
@@ -48,41 +70,52 @@
       "stars": 1874,
       "forks": 129,
       "language": "Go",
-      "pushed_at": "2026-07-02T16:36:29Z",
-      "updated_at": "2026-07-02T16:32:02Z"
+      "pushed_at": "2026-07-02T20:00:01Z",
+      "updated_at": "2026-07-02T19:55:33Z"
     },
     {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 937,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-07-02T17:10:23Z",
-      "updated_at": "2026-07-02T17:07:38Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+      "stars": 1255,
+      "forks": 83,
+      "language": "Shell",
+      "pushed_at": "2026-07-02T20:36:44Z",
+      "updated_at": "2026-07-02T20:37:40Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1156,
+      "forks": 71,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T19:54:08Z",
+      "updated_at": "2026-07-02T19:54:14Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 929,
+      "stars": 930,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-02T16:41:39Z",
-      "updated_at": "2026-07-02T16:41:45Z"
+      "pushed_at": "2026-07-02T19:08:57Z",
+      "updated_at": "2026-07-02T20:53:24Z"
     },
     {
-      "id": 1174234577,
-      "full_name": "cnfjlhj/ai-collab-playbook",
-      "html_url": "https://github.com/cnfjlhj/ai-collab-playbook",
-      "description": "Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills.",
-      "stars": 402,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-07-02T16:29:11Z",
-      "updated_at": "2026-07-02T16:29:16Z"
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 369,
+      "forks": 38,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-02T19:47:38Z",
+      "updated_at": "2026-07-02T19:47:47Z"
     },
     {
       "id": 1030039430,
@@ -92,30 +125,30 @@
       "stars": 322,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T17:13:17Z",
-      "updated_at": "2026-07-02T17:13:22Z"
+      "pushed_at": "2026-07-02T20:14:33Z",
+      "updated_at": "2026-07-02T20:14:37Z"
     },
     {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 230,
-      "forks": 21,
-      "language": "Python",
-      "pushed_at": "2026-07-02T17:45:38Z",
-      "updated_at": "2026-07-02T17:45:43Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-07-02T19:20:24Z",
+      "updated_at": "2026-07-02T19:20:30Z"
     },
     {
-      "id": 1161236320,
-      "full_name": "vadimmelnicuk/meo",
-      "html_url": "https://github.com/vadimmelnicuk/meo",
-      "description": "An optimized markdown editor with live editing mode for VS Code.",
-      "stars": 168,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T17:16:53Z",
-      "updated_at": "2026-07-02T17:17:12Z"
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 237,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-07-02T18:56:17Z",
+      "updated_at": "2026-07-02T18:56:21Z"
     },
     {
       "id": 1283323996,
@@ -125,8 +158,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-02T17:40:59Z",
-      "updated_at": "2026-07-02T17:41:04Z"
+      "pushed_at": "2026-07-02T20:59:18Z",
+      "updated_at": "2026-07-02T20:59:22Z"
     },
     {
       "id": 1283327964,
@@ -136,41 +169,8 @@
       "stars": 150,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-02T16:51:15Z",
-      "updated_at": "2026-07-02T16:51:19Z"
-    },
-    {
-      "id": 1213753689,
-      "full_name": "nylxar/curium",
-      "html_url": "https://github.com/nylxar/curium",
-      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
-      "stars": 144,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T16:30:59Z",
-      "updated_at": "2026-07-02T16:46:46Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 129,
-      "forks": 9,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-02T16:15:41Z",
-      "updated_at": "2026-07-02T16:16:05Z"
-    },
-    {
-      "id": 1142492960,
-      "full_name": "st0012/cctop",
-      "html_url": "https://github.com/st0012/cctop",
-      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
-      "stars": 117,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-07-02T17:20:37Z",
-      "updated_at": "2026-07-02T17:20:40Z"
+      "pushed_at": "2026-07-02T20:20:20Z",
+      "updated_at": "2026-07-02T20:20:26Z"
     }
   ]
 }
