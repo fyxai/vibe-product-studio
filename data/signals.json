@@ -5,73 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 940,
+  "total_found": 942,
   "items": [
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 67881,
-      "forks": 4203,
-      "language": "Rust",
-      "pushed_at": "2026-07-02T13:28:51Z",
-      "updated_at": "2026-07-02T13:56:42Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27074,
-      "forks": 2411,
-      "language": "Go",
-      "pushed_at": "2026-07-02T13:13:06Z",
-      "updated_at": "2026-07-02T13:14:00Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25600,
-      "forks": 1866,
-      "language": "Vue",
-      "pushed_at": "2026-07-02T13:54:35Z",
-      "updated_at": "2026-07-02T13:57:07Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24286,
-      "forks": 2303,
-      "language": "Python",
-      "pushed_at": "2026-07-02T13:39:13Z",
-      "updated_at": "2026-07-02T13:47:34Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20423,
-      "forks": 1817,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T13:25:48Z",
-      "updated_at": "2026-07-02T13:26:17Z"
-    },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8214,
-      "forks": 228,
+      "stars": 8217,
+      "forks": 230,
       "language": "C++",
-      "pushed_at": "2026-07-02T13:56:24Z",
-      "updated_at": "2026-07-02T13:57:28Z"
+      "pushed_at": "2026-07-02T17:18:28Z",
+      "updated_at": "2026-07-02T17:23:49Z"
     },
     {
       "id": 129699403,
@@ -81,19 +26,19 @@
       "stars": 5725,
       "forks": 753,
       "language": "Swift",
-      "pushed_at": "2026-07-02T13:51:55Z",
-      "updated_at": "2026-07-02T13:04:31Z"
+      "pushed_at": "2026-07-02T17:14:31Z",
+      "updated_at": "2026-07-02T16:44:23Z"
     },
     {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
-      "stars": 4044,
-      "forks": 332,
-      "language": "PHP",
-      "pushed_at": "2026-07-02T12:34:41Z",
-      "updated_at": "2026-07-02T12:34:46Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2076,
+      "forks": 73,
+      "language": "Swift",
+      "pushed_at": "2026-07-02T17:16:57Z",
+      "updated_at": "2026-07-02T17:17:16Z"
     },
     {
       "id": 257400448,
@@ -103,63 +48,118 @@
       "stars": 1874,
       "forks": 129,
       "language": "Go",
-      "pushed_at": "2026-07-02T12:12:41Z",
-      "updated_at": "2026-07-02T13:36:07Z"
+      "pushed_at": "2026-07-02T16:36:29Z",
+      "updated_at": "2026-07-02T16:32:02Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1118,
-      "forks": 199,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-02T13:45:07Z",
-      "updated_at": "2026-07-02T13:45:39Z"
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 937,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-07-02T17:10:23Z",
+      "updated_at": "2026-07-02T17:07:38Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 930,
+      "stars": 929,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-02T12:57:53Z",
-      "updated_at": "2026-07-02T12:58:22Z"
+      "pushed_at": "2026-07-02T16:41:39Z",
+      "updated_at": "2026-07-02T16:41:45Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 626,
-      "forks": 114,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-02T13:06:22Z",
-      "updated_at": "2026-07-02T13:50:04Z"
+      "id": 1174234577,
+      "full_name": "cnfjlhj/ai-collab-playbook",
+      "html_url": "https://github.com/cnfjlhj/ai-collab-playbook",
+      "description": "Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills.",
+      "stars": 402,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-07-02T16:29:11Z",
+      "updated_at": "2026-07-02T16:29:16Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-07-02T13:51:21Z",
-      "updated_at": "2026-07-02T13:54:59Z"
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 322,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T17:13:17Z",
+      "updated_at": "2026-07-02T17:13:22Z"
+    },
+    {
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 230,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-07-02T17:45:38Z",
+      "updated_at": "2026-07-02T17:45:43Z"
+    },
+    {
+      "id": 1161236320,
+      "full_name": "vadimmelnicuk/meo",
+      "html_url": "https://github.com/vadimmelnicuk/meo",
+      "description": "An optimized markdown editor with live editing mode for VS Code.",
+      "stars": 168,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T17:16:53Z",
+      "updated_at": "2026-07-02T17:17:12Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-02T17:40:59Z",
+      "updated_at": "2026-07-02T17:41:04Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-02T16:51:15Z",
+      "updated_at": "2026-07-02T16:51:19Z"
+    },
+    {
+      "id": 1213753689,
+      "full_name": "nylxar/curium",
+      "html_url": "https://github.com/nylxar/curium",
+      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
+      "stars": 144,
+      "forks": 9,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T16:30:59Z",
+      "updated_at": "2026-07-02T16:46:46Z"
     },
     {
       "id": 1206500150,
       "full_name": "krelltunez/lifeGLANCE",
       "html_url": "https://github.com/krelltunez/lifeGLANCE",
       "description": "Your life, at a glance",
-      "stars": 128,
+      "stars": 129,
       "forks": 9,
       "language": "JavaScript",
-      "pushed_at": "2026-07-02T13:50:58Z",
-      "updated_at": "2026-07-02T13:32:08Z"
+      "pushed_at": "2026-07-02T16:15:41Z",
+      "updated_at": "2026-07-02T16:16:05Z"
     },
     {
       "id": 1142492960,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 19,
       "language": "Swift",
-      "pushed_at": "2026-07-02T13:30:19Z",
-      "updated_at": "2026-07-02T13:31:38Z"
+      "pushed_at": "2026-07-02T17:20:37Z",
+      "updated_at": "2026-07-02T17:20:40Z"
     }
   ]
 }
