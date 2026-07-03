@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 944,
+  "total_found": 946,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126706,
-      "forks": 14250,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T13:55:19Z",
-      "updated_at": "2026-07-03T13:34:51Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 68184,
-      "forks": 4218,
-      "language": "Rust",
-      "pushed_at": "2026-07-03T13:28:59Z",
-      "updated_at": "2026-07-03T13:57:07Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 39984,
-      "forks": 919,
-      "language": "Rust",
-      "pushed_at": "2026-07-03T13:34:37Z",
-      "updated_at": "2026-07-03T13:34:43Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25655,
-      "forks": 1870,
-      "language": "Vue",
-      "pushed_at": "2026-07-03T13:30:38Z",
-      "updated_at": "2026-07-03T13:50:22Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24287,
+      "forks": 2303,
+      "language": "Python",
+      "pushed_at": "2026-07-03T16:46:36Z",
+      "updated_at": "2026-07-03T16:33:45Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20431,
+      "stars": 20432,
       "forks": 1818,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T13:47:47Z",
-      "updated_at": "2026-07-03T13:47:56Z"
+      "pushed_at": "2026-07-03T16:51:04Z",
+      "updated_at": "2026-07-03T17:05:27Z"
+    },
+    {
+      "id": 1052845083,
+      "full_name": "danielmiessler/LifeOS",
+      "html_url": "https://github.com/danielmiessler/LifeOS",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 16295,
+      "forks": 2238,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T16:49:28Z",
+      "updated_at": "2026-07-03T16:48:17Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8223,
+      "forks": 232,
+      "language": "C++",
+      "pushed_at": "2026-07-03T17:11:45Z",
+      "updated_at": "2026-07-03T16:56:30Z"
     },
     {
       "id": 129699403,
@@ -70,96 +59,107 @@
       "stars": 5728,
       "forks": 754,
       "language": "Swift",
-      "pushed_at": "2026-07-03T13:59:30Z",
-      "updated_at": "2026-07-03T13:57:09Z"
+      "pushed_at": "2026-07-03T17:20:56Z",
+      "updated_at": "2026-07-03T17:16:44Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5432,
-      "forks": 842,
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5435,
+      "forks": 312,
+      "language": "Vala",
+      "pushed_at": "2026-07-03T16:27:40Z",
+      "updated_at": "2026-07-03T16:26:45Z"
+    },
+    {
+      "id": 262013713,
+      "full_name": "leits/MeetingBar",
+      "html_url": "https://github.com/leits/MeetingBar",
+      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+      "stars": 5257,
+      "forks": 278,
+      "language": "Swift",
+      "pushed_at": "2026-07-03T16:29:45Z",
+      "updated_at": "2026-07-03T16:29:50Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1397,
+      "forks": 127,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T13:07:18Z",
-      "updated_at": "2026-07-03T13:35:16Z"
+      "pushed_at": "2026-07-03T17:07:43Z",
+      "updated_at": "2026-07-03T17:07:45Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3225,
-      "forks": 154,
-      "language": "Gherkin",
-      "pushed_at": "2026-07-03T12:28:36Z",
-      "updated_at": "2026-07-03T12:28:42Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1875,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-03T13:47:42Z",
-      "updated_at": "2026-07-03T12:53:45Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1247,
+      "forks": 58,
+      "language": "Rust",
+      "pushed_at": "2026-07-03T16:34:23Z",
+      "updated_at": "2026-07-03T16:34:25Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 934,
+      "stars": 935,
       "forks": 29,
       "language": "Emacs Lisp",
-      "pushed_at": "2026-07-03T11:51:38Z",
-      "updated_at": "2026-07-03T13:34:56Z"
+      "pushed_at": "2026-07-03T16:33:44Z",
+      "updated_at": "2026-07-03T16:33:50Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 706,
-      "forks": 40,
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
+      "stars": 418,
+      "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-07-03T13:25:19Z",
-      "updated_at": "2026-07-03T13:25:25Z"
+      "pushed_at": "2026-07-03T17:03:52Z",
+      "updated_at": "2026-07-03T17:03:56Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-07-03T13:55:21Z",
-      "updated_at": "2026-07-03T13:55:25Z"
-    },
-    {
-      "id": 1255014875,
-      "full_name": "ntd4996/agentpet",
-      "html_url": "https://github.com/ntd4996/agentpet",
-      "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
-      "stars": 263,
-      "forks": 49,
-      "language": "Swift",
-      "pushed_at": "2026-07-03T12:15:24Z",
-      "updated_at": "2026-07-03T13:50:39Z"
+      "id": 749625079,
+      "full_name": "nomandhoni-cs/blink-eye",
+      "html_url": "https://github.com/nomandhoni-cs/blink-eye",
+      "description": "A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-in TODO functionality. Your digital wellness companion for healthier productivity.",
+      "stars": 255,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T16:32:56Z",
+      "updated_at": "2026-07-03T16:33:03Z"
     },
     {
       "id": 1246532319,
       "full_name": "ayushh0110/ScreenMind",
       "html_url": "https://github.com/ayushh0110/ScreenMind",
       "description": " AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
-      "stars": 164,
+      "stars": 165,
       "forks": 12,
       "language": "Python",
-      "pushed_at": "2026-07-03T13:29:06Z",
-      "updated_at": "2026-07-03T13:29:10Z"
+      "pushed_at": "2026-07-03T17:15:33Z",
+      "updated_at": "2026-07-03T17:15:37Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 152,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T16:49:50Z",
+      "updated_at": "2026-07-03T16:50:37Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-03T12:52:52Z",
-      "updated_at": "2026-07-03T12:52:55Z"
+      "pushed_at": "2026-07-03T17:19:01Z",
+      "updated_at": "2026-07-03T17:19:05Z"
     }
   ]
 }
