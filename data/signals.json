@@ -5,117 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 942,
+  "total_found": 944,
   "items": [
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225245,
+      "forks": 34461,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-03T01:27:41Z",
+      "updated_at": "2026-07-03T02:51:38Z"
+    },
     {
       "id": 1052845083,
       "full_name": "danielmiessler/LifeOS",
       "html_url": "https://github.com/danielmiessler/LifeOS",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 16239,
+      "stars": 16266,
       "forks": 2233,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T20:55:49Z",
-      "updated_at": "2026-07-02T21:02:45Z"
+      "pushed_at": "2026-07-03T00:21:12Z",
+      "updated_at": "2026-07-03T02:49:35Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11480,
-      "forks": 1416,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14211,
+      "forks": 964,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T20:57:21Z",
-      "updated_at": "2026-07-02T20:57:20Z"
+      "pushed_at": "2026-07-03T00:46:36Z",
+      "updated_at": "2026-07-03T01:11:29Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8217,
-      "forks": 230,
+      "stars": 8220,
+      "forks": 231,
       "language": "C++",
-      "pushed_at": "2026-07-02T19:51:29Z",
-      "updated_at": "2026-07-02T20:02:19Z"
+      "pushed_at": "2026-07-03T01:05:24Z",
+      "updated_at": "2026-07-03T01:05:26Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5725,
-      "forks": 754,
-      "language": "Swift",
-      "pushed_at": "2026-07-02T21:01:57Z",
-      "updated_at": "2026-07-02T21:02:06Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3358,
-      "forks": 222,
-      "language": "Python",
-      "pushed_at": "2026-07-02T20:17:48Z",
-      "updated_at": "2026-07-02T20:17:52Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1874,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-02T20:00:01Z",
-      "updated_at": "2026-07-02T19:55:33Z"
-    },
-    {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
-      "stars": 1255,
-      "forks": 83,
-      "language": "Shell",
-      "pushed_at": "2026-07-02T20:36:44Z",
-      "updated_at": "2026-07-02T20:37:40Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1156,
-      "forks": 71,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T19:54:08Z",
-      "updated_at": "2026-07-02T19:54:14Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 930,
-      "forks": 29,
-      "language": "Rust",
-      "pushed_at": "2026-07-02T19:08:57Z",
-      "updated_at": "2026-07-02T20:53:24Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 369,
-      "forks": 38,
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5364,
+      "forks": 633,
       "language": "Kotlin",
-      "pushed_at": "2026-07-02T19:47:38Z",
-      "updated_at": "2026-07-02T19:47:47Z"
+      "pushed_at": "2026-07-03T00:37:21Z",
+      "updated_at": "2026-07-03T00:37:25Z"
+    },
+    {
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
+      "stars": 2006,
+      "forks": 134,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T02:16:57Z",
+      "updated_at": "2026-07-03T02:18:14Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1476,
+      "forks": 87,
+      "language": "Rust",
+      "pushed_at": "2026-07-03T02:34:28Z",
+      "updated_at": "2026-07-03T02:34:32Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 432,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T02:48:50Z",
+      "updated_at": "2026-07-03T02:48:54Z"
     },
     {
       "id": 1030039430,
@@ -125,8 +103,8 @@
       "stars": 322,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T20:14:33Z",
-      "updated_at": "2026-07-02T20:14:37Z"
+      "pushed_at": "2026-07-03T01:38:49Z",
+      "updated_at": "2026-07-03T01:39:04Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +114,63 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-07-02T19:20:24Z",
-      "updated_at": "2026-07-02T19:20:30Z"
+      "pushed_at": "2026-07-03T02:32:20Z",
+      "updated_at": "2026-07-03T02:32:23Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 292,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-07-03T00:43:03Z",
+      "updated_at": "2026-07-03T02:33:03Z"
     },
     {
       "id": 1093854529,
       "full_name": "Squirreljetpack/matchmaker",
       "html_url": "https://github.com/Squirreljetpack/matchmaker",
       "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 237,
+      "stars": 238,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-07-02T18:56:17Z",
-      "updated_at": "2026-07-02T18:56:21Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-02T20:59:18Z",
-      "updated_at": "2026-07-02T20:59:22Z"
+      "pushed_at": "2026-07-03T02:18:04Z",
+      "updated_at": "2026-07-03T02:18:22Z"
     },
     {
       "id": 1283327964,
       "full_name": "kaderkck/hewn-forge",
       "html_url": "https://github.com/kaderkck/hewn-forge",
       "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
+      "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-02T20:20:20Z",
-      "updated_at": "2026-07-02T20:20:26Z"
+      "pushed_at": "2026-07-03T00:07:49Z",
+      "updated_at": "2026-07-03T00:07:53Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight open-source screen annotation tool with click-through mode",
+      "stars": 140,
+      "forks": 5,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T02:32:12Z",
+      "updated_at": "2026-07-03T02:34:24Z"
+    },
+    {
+      "id": 750644141,
+      "full_name": "Axial-SQL/AxialSqlTools",
+      "html_url": "https://github.com/Axial-SQL/AxialSqlTools",
+      "description": "Axial SQL Tools | SQL Server Management Studio 22 Productivity Addin",
+      "stars": 77,
+      "forks": 16,
+      "language": "C#",
+      "pushed_at": "2026-07-03T02:07:58Z",
+      "updated_at": "2026-07-03T02:30:07Z"
     }
   ]
 }
