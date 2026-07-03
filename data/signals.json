@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 945,
+  "total_found": 944,
   "items": [
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126706,
+      "forks": 14250,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T13:55:19Z",
+      "updated_at": "2026-07-03T13:34:51Z"
+    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 68137,
-      "forks": 4216,
+      "stars": 68184,
+      "forks": 4218,
       "language": "Rust",
-      "pushed_at": "2026-07-03T10:31:56Z",
-      "updated_at": "2026-07-03T10:29:15Z"
+      "pushed_at": "2026-07-03T13:28:59Z",
+      "updated_at": "2026-07-03T13:57:07Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 39984,
+      "forks": 919,
+      "language": "Rust",
+      "pushed_at": "2026-07-03T13:34:37Z",
+      "updated_at": "2026-07-03T13:34:43Z"
     },
     {
       "id": 343078060,
       "full_name": "lissy93/dashy",
       "html_url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25647,
+      "stars": 25655,
       "forks": 1870,
       "language": "Vue",
-      "pushed_at": "2026-07-03T09:17:40Z",
-      "updated_at": "2026-07-03T10:33:52Z"
+      "pushed_at": "2026-07-03T13:30:38Z",
+      "updated_at": "2026-07-03T13:50:22Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20430,
+      "stars": 20431,
       "forks": 1818,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T09:13:27Z",
-      "updated_at": "2026-07-03T10:22:38Z"
-    },
-    {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 6308,
-      "forks": 342,
-      "language": "Swift",
-      "pushed_at": "2026-07-03T09:47:44Z",
-      "updated_at": "2026-07-03T09:47:52Z"
+      "pushed_at": "2026-07-03T13:47:47Z",
+      "updated_at": "2026-07-03T13:47:56Z"
     },
     {
       "id": 129699403,
@@ -59,85 +70,85 @@
       "stars": 5728,
       "forks": 754,
       "language": "Swift",
-      "pushed_at": "2026-07-03T10:30:18Z",
-      "updated_at": "2026-07-03T10:30:26Z"
+      "pushed_at": "2026-07-03T13:59:30Z",
+      "updated_at": "2026-07-03T13:57:09Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5429,
+      "stars": 5432,
       "forks": 842,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T10:27:18Z",
-      "updated_at": "2026-07-03T10:08:22Z"
+      "pushed_at": "2026-07-03T13:07:18Z",
+      "updated_at": "2026-07-03T13:35:16Z"
     },
     {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 885,
-      "forks": 104,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-03T09:53:41Z",
-      "updated_at": "2026-07-03T09:53:45Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3225,
+      "forks": 154,
+      "language": "Gherkin",
+      "pushed_at": "2026-07-03T12:28:36Z",
+      "updated_at": "2026-07-03T12:28:42Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 846,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T09:45:31Z",
-      "updated_at": "2026-07-03T09:43:51Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1875,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-07-03T13:47:42Z",
+      "updated_at": "2026-07-03T12:53:45Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 655,
-      "forks": 116,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-03T09:15:55Z",
-      "updated_at": "2026-07-03T09:15:58Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 934,
+      "forks": 29,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-07-03T11:51:38Z",
+      "updated_at": "2026-07-03T13:34:56Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 635,
-      "forks": 53,
-      "language": "Swift",
-      "pushed_at": "2026-07-03T09:59:01Z",
-      "updated_at": "2026-07-03T09:59:03Z"
+      "id": 721237243,
+      "full_name": "Victor-IX/Blender-Launcher-V2",
+      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
+      "stars": 706,
+      "forks": 40,
+      "language": "Python",
+      "pushed_at": "2026-07-03T13:25:19Z",
+      "updated_at": "2026-07-03T13:25:25Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-07-03T13:55:21Z",
+      "updated_at": "2026-07-03T13:55:25Z"
     },
     {
       "id": 1255014875,
       "full_name": "ntd4996/agentpet",
       "html_url": "https://github.com/ntd4996/agentpet",
       "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
-      "stars": 261,
+      "stars": 263,
       "forks": 49,
       "language": "Swift",
-      "pushed_at": "2026-07-03T09:18:36Z",
-      "updated_at": "2026-07-03T09:35:02Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 229,
-      "forks": 29,
-      "language": "Python",
-      "pushed_at": "2026-07-03T09:46:39Z",
-      "updated_at": "2026-07-03T09:15:36Z"
+      "pushed_at": "2026-07-03T12:15:24Z",
+      "updated_at": "2026-07-03T13:50:39Z"
     },
     {
       "id": 1246532319,
@@ -147,30 +158,19 @@
       "stars": 164,
       "forks": 12,
       "language": "Python",
-      "pushed_at": "2026-07-03T10:03:57Z",
-      "updated_at": "2026-07-03T10:04:03Z"
+      "pushed_at": "2026-07-03T13:29:06Z",
+      "updated_at": "2026-07-03T13:29:10Z"
     },
     {
-      "id": 1142492960,
-      "full_name": "st0012/cctop",
-      "html_url": "https://github.com/st0012/cctop",
-      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
-      "stars": 117,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-07-03T09:17:09Z",
-      "updated_at": "2026-07-03T09:17:14Z"
-    },
-    {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 85,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T09:20:13Z",
-      "updated_at": "2026-07-03T10:19:18Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-03T12:52:52Z",
+      "updated_at": "2026-07-03T12:52:55Z"
     }
   ]
 }
