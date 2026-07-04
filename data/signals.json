@@ -12,110 +12,99 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 68383,
-      "forks": 4225,
+      "stars": 68411,
+      "forks": 4227,
       "language": "Rust",
       "pushed_at": "2026-07-04T08:44:56Z",
-      "updated_at": "2026-07-04T10:05:34Z"
+      "updated_at": "2026-07-04T13:20:17Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38406,
+      "stars": 38410,
       "forks": 3824,
       "language": "C#",
-      "pushed_at": "2026-07-04T10:06:16Z",
-      "updated_at": "2026-07-04T10:06:20Z"
+      "pushed_at": "2026-07-04T11:03:10Z",
+      "updated_at": "2026-07-04T12:34:52Z"
     },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27077,
+      "stars": 27078,
       "forks": 2410,
       "language": "Go",
-      "pushed_at": "2026-07-04T09:42:06Z",
-      "updated_at": "2026-07-04T10:08:14Z"
+      "pushed_at": "2026-07-04T13:11:56Z",
+      "updated_at": "2026-07-04T12:15:57Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15093,
-      "forks": 620,
-      "language": "C#",
-      "pushed_at": "2026-07-04T07:24:38Z",
-      "updated_at": "2026-07-04T08:37:41Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 15105,
+      "forks": 1536,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T10:29:16Z",
+      "updated_at": "2026-07-04T12:04:22Z"
     },
     {
       "id": 375653778,
       "full_name": "linearmouse/linearmouse",
       "html_url": "https://github.com/linearmouse/linearmouse",
       "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6430,
-      "forks": 139,
+      "stars": 6432,
+      "forks": 140,
       "language": "Swift",
       "pushed_at": "2026-07-04T08:48:06Z",
-      "updated_at": "2026-07-04T07:46:27Z"
+      "updated_at": "2026-07-04T13:09:03Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5730,
-      "forks": 754,
-      "language": "Swift",
-      "pushed_at": "2026-07-04T09:54:58Z",
-      "updated_at": "2026-07-04T08:12:47Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1904,
+      "forks": 140,
+      "language": "Dart",
+      "pushed_at": "2026-07-04T10:41:58Z",
+      "updated_at": "2026-07-04T11:51:02Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1183,
-      "forks": 73,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T07:18:49Z",
-      "updated_at": "2026-07-04T08:35:59Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1875,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-07-04T12:08:47Z",
+      "updated_at": "2026-07-04T12:04:33Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1159,
-      "forks": 123,
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 370,
+      "forks": 38,
       "language": "Kotlin",
-      "pushed_at": "2026-07-04T06:34:08Z",
-      "updated_at": "2026-07-04T08:33:13Z"
+      "pushed_at": "2026-07-04T11:37:27Z",
+      "updated_at": "2026-07-04T11:37:31Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 935,
-      "forks": 29,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-07-04T06:38:50Z",
-      "updated_at": "2026-07-04T06:38:53Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 419,
-      "forks": 66,
-      "language": "Python",
-      "pushed_at": "2026-07-04T06:51:47Z",
-      "updated_at": "2026-07-04T06:51:51Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 364,
+      "forks": 28,
+      "language": "Rust",
+      "pushed_at": "2026-07-04T09:41:44Z",
+      "updated_at": "2026-07-04T11:27:50Z"
     },
     {
       "id": 1166865874,
@@ -125,19 +114,41 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-07-04T08:33:16Z",
-      "updated_at": "2026-07-04T08:33:20Z"
+      "pushed_at": "2026-07-04T13:16:26Z",
+      "updated_at": "2026-07-04T13:16:30Z"
     },
     {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 201,
-      "forks": 14,
-      "language": "C#",
-      "pushed_at": "2026-07-04T06:18:55Z",
-      "updated_at": "2026-07-04T09:21:03Z"
+      "id": 749625079,
+      "full_name": "nomandhoni-cs/blink-eye",
+      "html_url": "https://github.com/nomandhoni-cs/blink-eye",
+      "description": "A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-in TODO functionality. Your digital wellness companion for healthier productivity.",
+      "stars": 256,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T11:09:31Z",
+      "updated_at": "2026-07-04T11:09:35Z"
+    },
+    {
+      "id": 605340687,
+      "full_name": "LukeberryPi/phived",
+      "html_url": "https://github.com/LukeberryPi/phived",
+      "description": "An anti-procrastination to-do list. ",
+      "stars": 218,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T13:10:26Z",
+      "updated_at": "2026-07-04T13:10:30Z"
+    },
+    {
+      "id": 905920026,
+      "full_name": "anechunaev/notion-electron",
+      "html_url": "https://github.com/anechunaev/notion-electron",
+      "description": "Notion Desktop Client for Linux",
+      "stars": 199,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T11:06:19Z",
+      "updated_at": "2026-07-04T11:06:23Z"
     },
     {
       "id": 1283323996,
@@ -147,8 +158,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-04T09:18:38Z",
-      "updated_at": "2026-07-04T09:18:41Z"
+      "pushed_at": "2026-07-04T13:11:31Z",
+      "updated_at": "2026-07-04T13:11:35Z"
     },
     {
       "id": 1283327964,
@@ -158,19 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-04T07:48:06Z",
-      "updated_at": "2026-07-04T07:48:10Z"
-    },
-    {
-      "id": 1142491633,
-      "full_name": "sqmw/desk_tidy_sticky",
-      "html_url": "https://github.com/sqmw/desk_tidy_sticky",
-      "description": "跨平台极简多功能便笺助手 | Cross-platform minimal multifunction sticky notes with workspace, focus timer, and break reminders.",
-      "stars": 151,
-      "forks": 4,
-      "language": "Svelte",
-      "pushed_at": "2026-07-04T08:23:28Z",
-      "updated_at": "2026-07-04T08:23:33Z"
+      "pushed_at": "2026-07-04T12:08:04Z",
+      "updated_at": "2026-07-04T12:08:07Z"
     }
   ]
 }
