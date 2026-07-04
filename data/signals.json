@@ -8,28 +8,6 @@
   "total_found": 947,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 68411,
-      "forks": 4227,
-      "language": "Rust",
-      "pushed_at": "2026-07-04T08:44:56Z",
-      "updated_at": "2026-07-04T13:20:17Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38410,
-      "forks": 3824,
-      "language": "C#",
-      "pushed_at": "2026-07-04T11:03:10Z",
-      "updated_at": "2026-07-04T12:34:52Z"
-    },
-    {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
@@ -37,118 +15,140 @@
       "stars": 27078,
       "forks": 2410,
       "language": "Go",
-      "pushed_at": "2026-07-04T13:11:56Z",
-      "updated_at": "2026-07-04T12:15:57Z"
+      "pushed_at": "2026-07-04T16:02:33Z",
+      "updated_at": "2026-07-04T16:02:37Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15105,
-      "forks": 1536,
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25694,
+      "forks": 1876,
+      "language": "Vue",
+      "pushed_at": "2026-07-04T14:43:07Z",
+      "updated_at": "2026-07-04T16:29:55Z"
+    },
+    {
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 14209,
+      "forks": 1224,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T10:29:16Z",
-      "updated_at": "2026-07-04T12:04:22Z"
+      "pushed_at": "2026-07-04T14:36:49Z",
+      "updated_at": "2026-07-04T14:36:52Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6432,
-      "forks": 140,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8232,
+      "forks": 234,
+      "language": "C++",
+      "pushed_at": "2026-07-04T16:23:44Z",
+      "updated_at": "2026-07-04T15:44:45Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5732,
+      "forks": 754,
       "language": "Swift",
-      "pushed_at": "2026-07-04T08:48:06Z",
-      "updated_at": "2026-07-04T13:09:03Z"
+      "pushed_at": "2026-07-04T16:44:08Z",
+      "updated_at": "2026-07-04T15:18:26Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1904,
-      "forks": 140,
-      "language": "Dart",
-      "pushed_at": "2026-07-04T10:41:58Z",
-      "updated_at": "2026-07-04T11:51:02Z"
+      "id": 262013713,
+      "full_name": "leits/MeetingBar",
+      "html_url": "https://github.com/leits/MeetingBar",
+      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+      "stars": 5259,
+      "forks": 278,
+      "language": "Swift",
+      "pushed_at": "2026-07-04T15:41:24Z",
+      "updated_at": "2026-07-04T16:39:03Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1875,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-04T12:08:47Z",
-      "updated_at": "2026-07-04T12:04:33Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3759,
+      "forks": 786,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T16:50:37Z",
+      "updated_at": "2026-07-04T16:50:10Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 370,
-      "forks": 38,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-04T11:37:27Z",
-      "updated_at": "2026-07-04T11:37:31Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2083,
+      "forks": 73,
+      "language": "Swift",
+      "pushed_at": "2026-07-04T16:38:01Z",
+      "updated_at": "2026-07-04T16:38:05Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 936,
+      "forks": 29,
+      "language": "Emacs Lisp",
+      "pushed_at": "2026-07-04T16:38:47Z",
+      "updated_at": "2026-07-04T16:38:51Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 847,
+      "forks": 50,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T15:16:45Z",
+      "updated_at": "2026-07-04T15:16:48Z"
+    },
+    {
+      "id": 831376921,
+      "full_name": "oxdc/obsidian-vertical-tabs",
+      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
+      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "stars": 584,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T16:12:07Z",
+      "updated_at": "2026-07-04T16:12:11Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
+      "stars": 419,
+      "forks": 66,
+      "language": "Python",
+      "pushed_at": "2026-07-04T14:55:04Z",
+      "updated_at": "2026-07-04T14:43:46Z"
     },
     {
       "id": 1201098277,
       "full_name": "kunkka19xx/look",
       "html_url": "https://github.com/kunkka19xx/look",
       "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 364,
+      "stars": 369,
       "forks": 28,
       "language": "Rust",
-      "pushed_at": "2026-07-04T09:41:44Z",
-      "updated_at": "2026-07-04T11:27:50Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-07-04T13:16:26Z",
-      "updated_at": "2026-07-04T13:16:30Z"
-    },
-    {
-      "id": 749625079,
-      "full_name": "nomandhoni-cs/blink-eye",
-      "html_url": "https://github.com/nomandhoni-cs/blink-eye",
-      "description": "A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-in TODO functionality. Your digital wellness companion for healthier productivity.",
-      "stars": 256,
-      "forks": 15,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T11:09:31Z",
-      "updated_at": "2026-07-04T11:09:35Z"
-    },
-    {
-      "id": 605340687,
-      "full_name": "LukeberryPi/phived",
-      "html_url": "https://github.com/LukeberryPi/phived",
-      "description": "An anti-procrastination to-do list. ",
-      "stars": 218,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T13:10:26Z",
-      "updated_at": "2026-07-04T13:10:30Z"
-    },
-    {
-      "id": 905920026,
-      "full_name": "anechunaev/notion-electron",
-      "html_url": "https://github.com/anechunaev/notion-electron",
-      "description": "Notion Desktop Client for Linux",
-      "stars": 199,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T11:06:19Z",
-      "updated_at": "2026-07-04T11:06:23Z"
+      "pushed_at": "2026-07-04T16:41:55Z",
+      "updated_at": "2026-07-04T16:48:53Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +158,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-04T13:11:31Z",
-      "updated_at": "2026-07-04T13:11:35Z"
+      "pushed_at": "2026-07-04T16:58:45Z",
+      "updated_at": "2026-07-04T16:58:49Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-04T12:08:04Z",
-      "updated_at": "2026-07-04T12:08:07Z"
+      "pushed_at": "2026-07-04T16:04:16Z",
+      "updated_at": "2026-07-04T16:04:19Z"
     }
   ]
 }
