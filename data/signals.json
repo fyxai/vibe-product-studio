@@ -5,150 +5,139 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 947,
+  "total_found": 949,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27078,
-      "forks": 2410,
-      "language": "Go",
-      "pushed_at": "2026-07-04T16:02:33Z",
-      "updated_at": "2026-07-04T16:02:37Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225995,
+      "forks": 34569,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-04T20:44:28Z",
+      "updated_at": "2026-07-04T20:46:48Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25694,
-      "forks": 1876,
-      "language": "Vue",
-      "pushed_at": "2026-07-04T14:43:07Z",
-      "updated_at": "2026-07-04T16:29:55Z"
-    },
-    {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 14209,
-      "forks": 1224,
+      "id": 1052845083,
+      "full_name": "danielmiessler/LifeOS",
+      "html_url": "https://github.com/danielmiessler/LifeOS",
+      "description": "An AI-powered Life Operating System for Magnifying Human Capabilities",
+      "stars": 16325,
+      "forks": 2243,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T14:36:49Z",
-      "updated_at": "2026-07-04T14:36:52Z"
+      "pushed_at": "2026-07-04T20:53:41Z",
+      "updated_at": "2026-07-04T20:49:35Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8232,
+      "stars": 8233,
       "forks": 234,
       "language": "C++",
-      "pushed_at": "2026-07-04T16:23:44Z",
-      "updated_at": "2026-07-04T15:44:45Z"
+      "pushed_at": "2026-07-04T20:39:24Z",
+      "updated_at": "2026-07-04T20:39:24Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5732,
-      "forks": 754,
+      "stars": 5734,
+      "forks": 755,
       "language": "Swift",
-      "pushed_at": "2026-07-04T16:44:08Z",
-      "updated_at": "2026-07-04T15:18:26Z"
+      "pushed_at": "2026-07-04T20:48:50Z",
+      "updated_at": "2026-07-04T20:35:59Z"
     },
     {
-      "id": 262013713,
-      "full_name": "leits/MeetingBar",
-      "html_url": "https://github.com/leits/MeetingBar",
-      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
-      "stars": 5259,
-      "forks": 278,
-      "language": "Swift",
-      "pushed_at": "2026-07-04T15:41:24Z",
-      "updated_at": "2026-07-04T16:39:03Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3759,
-      "forks": 786,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T16:50:37Z",
-      "updated_at": "2026-07-04T16:50:10Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2083,
-      "forks": 73,
-      "language": "Swift",
-      "pushed_at": "2026-07-04T16:38:01Z",
-      "updated_at": "2026-07-04T16:38:05Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 936,
-      "forks": 29,
-      "language": "Emacs Lisp",
-      "pushed_at": "2026-07-04T16:38:47Z",
-      "updated_at": "2026-07-04T16:38:51Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 847,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T15:16:45Z",
-      "updated_at": "2026-07-04T15:16:48Z"
-    },
-    {
-      "id": 831376921,
-      "full_name": "oxdc/obsidian-vertical-tabs",
-      "html_url": "https://github.com/oxdc/obsidian-vertical-tabs",
-      "description": "An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-      "stars": 584,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T16:12:07Z",
-      "updated_at": "2026-07-04T16:12:11Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
-      "stars": 419,
-      "forks": 66,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3374,
+      "forks": 222,
       "language": "Python",
-      "pushed_at": "2026-07-04T14:55:04Z",
-      "updated_at": "2026-07-04T14:43:46Z"
+      "pushed_at": "2026-07-04T20:18:40Z",
+      "updated_at": "2026-07-04T20:18:42Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 369,
-      "forks": 28,
-      "language": "Rust",
-      "pushed_at": "2026-07-04T16:41:55Z",
-      "updated_at": "2026-07-04T16:48:53Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2276,
+      "forks": 91,
+      "language": "Swift",
+      "pushed_at": "2026-07-04T20:32:48Z",
+      "updated_at": "2026-07-04T20:32:52Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1875,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-07-04T20:51:01Z",
+      "updated_at": "2026-07-04T19:57:01Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1187,
+      "forks": 73,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T20:47:05Z",
+      "updated_at": "2026-07-04T20:47:09Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1144,
+      "forks": 201,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-04T19:57:38Z",
+      "updated_at": "2026-07-04T19:57:42Z"
+    },
+    {
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 857,
+      "forks": 45,
+      "language": "Swift",
+      "pushed_at": "2026-07-04T20:24:30Z",
+      "updated_at": "2026-07-04T20:34:32Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 562,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-07-04T20:06:52Z",
+      "updated_at": "2026-07-04T20:06:55Z"
+    },
+    {
+      "id": 1009719992,
+      "full_name": "Appaxaap/Focus",
+      "html_url": "https://github.com/Appaxaap/Focus",
+      "description": "Offline-first Eisenhower Matrix productivity app",
+      "stars": 234,
+      "forks": 11,
+      "language": "Dart",
+      "pushed_at": "2026-07-04T19:59:57Z",
+      "updated_at": "2026-07-04T20:00:01Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +147,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-04T16:58:45Z",
-      "updated_at": "2026-07-04T16:58:49Z"
+      "pushed_at": "2026-07-04T20:06:25Z",
+      "updated_at": "2026-07-04T20:06:29Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +158,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-04T16:04:16Z",
-      "updated_at": "2026-07-04T16:04:19Z"
+      "pushed_at": "2026-07-04T20:10:22Z",
+      "updated_at": "2026-07-04T20:10:26Z"
+    },
+    {
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 133,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-04T20:54:17Z",
+      "updated_at": "2026-07-04T20:54:14Z"
     }
   ]
 }
