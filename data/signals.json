@@ -12,66 +12,77 @@
       "full_name": "ohmyzsh/ohmyzsh",
       "html_url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 188358,
-      "forks": 26381,
+      "stars": 188363,
+      "forks": 26382,
       "language": "Shell",
-      "pushed_at": "2026-07-05T07:13:57Z",
-      "updated_at": "2026-07-05T07:20:59Z"
+      "pushed_at": "2026-07-05T08:44:11Z",
+      "updated_at": "2026-07-05T09:28:39Z"
+    },
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126805,
+      "forks": 14267,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-05T07:46:01Z",
+      "updated_at": "2026-07-05T09:40:39Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40037,
+      "forks": 922,
+      "language": "Rust",
+      "pushed_at": "2026-07-05T10:06:26Z",
+      "updated_at": "2026-07-05T10:06:29Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38418,
+      "stars": 38419,
       "forks": 3824,
       "language": "C#",
-      "pushed_at": "2026-07-05T07:11:49Z",
-      "updated_at": "2026-07-05T07:11:54Z"
+      "pushed_at": "2026-07-05T08:48:42Z",
+      "updated_at": "2026-07-05T08:48:51Z"
     },
     {
       "id": 1052845083,
       "full_name": "danielmiessler/LifeOS",
       "html_url": "https://github.com/danielmiessler/LifeOS",
       "description": "An AI-powered Life Operating System for Magnifying Human Capabilities",
-      "stars": 16331,
-      "forks": 2244,
+      "stars": 16334,
+      "forks": 2242,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T07:19:22Z",
-      "updated_at": "2026-07-05T07:19:26Z"
+      "pushed_at": "2026-07-05T07:58:42Z",
+      "updated_at": "2026-07-05T08:52:24Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4836,
-      "forks": 106,
-      "language": "Rust",
-      "pushed_at": "2026-07-05T04:10:23Z",
-      "updated_at": "2026-07-05T04:10:26Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5735,
+      "forks": 755,
+      "language": "Swift",
+      "pushed_at": "2026-07-05T09:21:35Z",
+      "updated_at": "2026-07-05T08:26:48Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1488,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-07-05T04:10:38Z",
-      "updated_at": "2026-07-05T04:10:40Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1189,
-      "forks": 73,
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1402,
+      "forks": 127,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:19:15Z",
-      "updated_at": "2026-07-05T06:26:08Z"
+      "pushed_at": "2026-07-05T07:27:32Z",
+      "updated_at": "2026-07-05T07:27:33Z"
     },
     {
       "id": 1148683593,
@@ -81,19 +92,19 @@
       "stars": 937,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-05T07:18:07Z",
-      "updated_at": "2026-07-05T07:18:11Z"
+      "pushed_at": "2026-07-05T09:48:03Z",
+      "updated_at": "2026-07-05T09:48:06Z"
     },
     {
       "id": 1185843143,
       "full_name": "realskyrin/capcap",
       "html_url": "https://github.com/realskyrin/capcap",
       "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 640,
-      "forks": 53,
+      "stars": 642,
+      "forks": 54,
       "language": "Swift",
       "pushed_at": "2026-07-05T06:56:02Z",
-      "updated_at": "2026-07-05T06:56:00Z"
+      "updated_at": "2026-07-05T09:30:33Z"
     },
     {
       "id": 831376921,
@@ -103,30 +114,19 @@
       "stars": 584,
       "forks": 19,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T07:23:44Z",
-      "updated_at": "2026-07-05T07:23:47Z"
+      "pushed_at": "2026-07-05T08:36:14Z",
+      "updated_at": "2026-07-05T08:36:17Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 388,
-      "forks": 28,
-      "language": "Rust",
-      "pushed_at": "2026-07-05T05:17:45Z",
-      "updated_at": "2026-07-05T07:18:56Z"
-    },
-    {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 354,
-      "forks": 21,
-      "language": "Swift",
-      "pushed_at": "2026-07-05T04:19:46Z",
-      "updated_at": "2026-07-05T07:00:22Z"
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 346,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-05T08:26:54Z",
+      "updated_at": "2026-07-05T08:26:57Z"
     },
     {
       "id": 1030039430,
@@ -140,6 +140,28 @@
       "updated_at": "2026-07-05T06:50:56Z"
     },
     {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-07-05T08:49:18Z",
+      "updated_at": "2026-07-05T08:49:21Z"
+    },
+    {
+      "id": 163642755,
+      "full_name": "cuongtk8/awesome-linux-apps",
+      "html_url": "https://github.com/cuongtk8/awesome-linux-apps",
+      "description": "🚀 A list of awesome applications for 🐧 Linux distributions.",
+      "stars": 236,
+      "forks": 38,
+      "language": "Unknown",
+      "pushed_at": "2026-07-05T09:29:59Z",
+      "updated_at": "2026-07-05T09:30:03Z"
+    },
+    {
       "id": 1283323996,
       "full_name": "ninouanis84-sudo/foxl-orchestrator",
       "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
@@ -147,30 +169,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-05T07:19:59Z",
-      "updated_at": "2026-07-05T07:20:03Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-05T04:57:55Z",
-      "updated_at": "2026-07-05T04:57:58Z"
-    },
-    {
-      "id": 1142491633,
-      "full_name": "sqmw/desk_tidy_sticky",
-      "html_url": "https://github.com/sqmw/desk_tidy_sticky",
-      "description": "跨平台极简多功能便笺助手 | Cross-platform minimal multifunction sticky notes with workspace, focus timer, and break reminders.",
-      "stars": 151,
-      "forks": 4,
-      "language": "Svelte",
-      "pushed_at": "2026-07-05T06:55:01Z",
-      "updated_at": "2026-07-05T06:55:05Z"
+      "pushed_at": "2026-07-05T10:06:39Z",
+      "updated_at": "2026-07-05T10:06:43Z"
     }
   ]
 }
