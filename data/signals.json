@@ -12,121 +12,88 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126886,
-      "forks": 14279,
+      "stars": 126869,
+      "forks": 14280,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:28:29Z",
-      "updated_at": "2026-07-06T15:05:19Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 68891,
-      "forks": 4273,
-      "language": "Rust",
-      "pushed_at": "2026-07-06T14:10:55Z",
-      "updated_at": "2026-07-06T15:28:48Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44150,
-      "forks": 2780,
-      "language": "C#",
-      "pushed_at": "2026-07-06T15:24:56Z",
-      "updated_at": "2026-07-06T15:25:02Z"
+      "pushed_at": "2026-07-06T17:54:57Z",
+      "updated_at": "2026-07-06T18:02:32Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20475,
+      "stars": 20478,
       "forks": 1827,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:22:52Z",
-      "updated_at": "2026-07-06T15:23:32Z"
+      "pushed_at": "2026-07-06T17:19:09Z",
+      "updated_at": "2026-07-06T18:01:38Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15124,
-      "forks": 1538,
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18381,
+      "forks": 1481,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-06T17:28:00Z",
+      "updated_at": "2026-07-06T17:28:08Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11551,
+      "forks": 1424,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:22:33Z",
-      "updated_at": "2026-07-06T15:25:26Z"
+      "pushed_at": "2026-07-06T17:55:35Z",
+      "updated_at": "2026-07-06T17:55:08Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8250,
+      "stars": 8251,
       "forks": 236,
       "language": "C++",
-      "pushed_at": "2026-07-06T15:20:56Z",
-      "updated_at": "2026-07-06T14:58:08Z"
+      "pushed_at": "2026-07-06T17:30:50Z",
+      "updated_at": "2026-07-06T17:30:53Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5739,
+      "stars": 5740,
       "forks": 756,
       "language": "Swift",
-      "pushed_at": "2026-07-06T15:15:29Z",
-      "updated_at": "2026-07-06T15:19:35Z"
+      "pushed_at": "2026-07-06T18:08:45Z",
+      "updated_at": "2026-07-06T17:55:07Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3763,
+      "stars": 3762,
       "forks": 786,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:23:16Z",
-      "updated_at": "2026-07-06T15:23:24Z"
-    },
-    {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
-      "stars": 2013,
-      "forks": 135,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T14:53:33Z",
-      "updated_at": "2026-07-06T15:07:02Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1879,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-06T15:24:40Z",
-      "updated_at": "2026-07-06T15:23:13Z"
+      "pushed_at": "2026-07-06T17:18:36Z",
+      "updated_at": "2026-07-06T17:48:26Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1196,
+      "stars": 1198,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:15:45Z",
-      "updated_at": "2026-07-06T15:26:42Z"
+      "pushed_at": "2026-07-06T17:39:41Z",
+      "updated_at": "2026-07-06T17:55:55Z"
     },
     {
       "id": 1148683593,
@@ -136,41 +103,74 @@
       "stars": 939,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-06T14:51:55Z",
-      "updated_at": "2026-07-06T14:52:17Z"
+      "pushed_at": "2026-07-06T17:55:01Z",
+      "updated_at": "2026-07-06T17:55:10Z"
     },
     {
-      "id": 17773756,
-      "full_name": "getting-things-gnome/gtg",
-      "html_url": "https://github.com/getting-things-gnome/gtg",
-      "description": "Getting Things GNOME! desktop app development",
-      "stars": 602,
-      "forks": 175,
-      "language": "Python",
-      "pushed_at": "2026-07-06T14:41:54Z",
-      "updated_at": "2026-07-06T14:42:35Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 398,
-      "forks": 28,
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 475,
+      "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-06T15:21:38Z",
-      "updated_at": "2026-07-06T15:21:56Z"
+      "pushed_at": "2026-07-06T17:57:36Z",
+      "updated_at": "2026-07-06T17:57:41Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-07-06T15:24:06Z",
-      "updated_at": "2026-07-06T15:24:19Z"
+      "id": 205456978,
+      "full_name": "j3soon/arxiv-utils",
+      "html_url": "https://github.com/j3soon/arxiv-utils",
+      "description": "Meaningful titles for tabs and PDF downloads! Also supports tab search.",
+      "stars": 356,
+      "forks": 28,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-06T16:40:56Z",
+      "updated_at": "2026-07-06T16:41:02Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight open-source screen annotation tool with click-through mode",
+      "stars": 204,
+      "forks": 9,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T16:54:42Z",
+      "updated_at": "2026-07-06T17:45:01Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-06T17:38:51Z",
+      "updated_at": "2026-07-06T17:38:55Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-06T16:21:39Z",
+      "updated_at": "2026-07-06T16:23:01Z"
+    },
+    {
+      "id": 1124104820,
+      "full_name": "NexaFlowFrance/OpenFamily",
+      "html_url": "https://github.com/NexaFlowFrance/OpenFamily",
+      "description": "Application open source pour gérer la vie de famille",
+      "stars": 126,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T17:41:27Z",
+      "updated_at": "2026-07-06T17:41:38Z"
     }
   ]
 }
