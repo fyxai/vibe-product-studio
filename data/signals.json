@@ -12,88 +12,88 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126869,
-      "forks": 14280,
+      "stars": 126876,
+      "forks": 14282,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T17:54:57Z",
-      "updated_at": "2026-07-06T18:02:32Z"
+      "pushed_at": "2026-07-06T20:45:35Z",
+      "updated_at": "2026-07-06T21:08:23Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20478,
-      "forks": 1827,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T17:19:09Z",
-      "updated_at": "2026-07-06T18:01:38Z"
-    },
-    {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18381,
-      "forks": 1481,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-06T17:28:00Z",
-      "updated_at": "2026-07-06T17:28:08Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 68951,
+      "forks": 4277,
+      "language": "Rust",
+      "pushed_at": "2026-07-06T19:09:33Z",
+      "updated_at": "2026-07-06T21:26:33Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11551,
-      "forks": 1424,
+      "stars": 11556,
+      "forks": 1425,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T17:55:35Z",
-      "updated_at": "2026-07-06T17:55:08Z"
+      "pushed_at": "2026-07-06T18:41:17Z",
+      "updated_at": "2026-07-06T19:58:06Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8251,
+      "stars": 8254,
       "forks": 236,
       "language": "C++",
-      "pushed_at": "2026-07-06T17:30:50Z",
-      "updated_at": "2026-07-06T17:30:53Z"
+      "pushed_at": "2026-07-06T21:27:27Z",
+      "updated_at": "2026-07-06T21:07:58Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5740,
-      "forks": 756,
-      "language": "Swift",
-      "pushed_at": "2026-07-06T18:08:45Z",
-      "updated_at": "2026-07-06T17:55:07Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3762,
-      "forks": 786,
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3613,
+      "forks": 447,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T17:18:36Z",
-      "updated_at": "2026-07-06T17:48:26Z"
+      "pushed_at": "2026-07-06T18:27:31Z",
+      "updated_at": "2026-07-06T19:20:44Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1879,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-07-06T21:23:29Z",
+      "updated_at": "2026-07-06T18:56:31Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1198,
+      "stars": 1199,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T17:39:41Z",
-      "updated_at": "2026-07-06T17:55:55Z"
+      "pushed_at": "2026-07-06T20:55:51Z",
+      "updated_at": "2026-07-06T20:55:56Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1156,
+      "forks": 204,
+      "language": "HTML",
+      "pushed_at": "2026-07-06T20:53:47Z",
+      "updated_at": "2026-07-06T20:54:16Z"
     },
     {
       "id": 1148683593,
@@ -118,26 +118,37 @@
       "updated_at": "2026-07-06T17:57:41Z"
     },
     {
-      "id": 205456978,
-      "full_name": "j3soon/arxiv-utils",
-      "html_url": "https://github.com/j3soon/arxiv-utils",
-      "description": "Meaningful titles for tabs and PDF downloads! Also supports tab search.",
-      "stars": 356,
-      "forks": 28,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-06T16:40:56Z",
-      "updated_at": "2026-07-06T16:41:02Z"
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 372,
+      "forks": 37,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-06T19:43:34Z",
+      "updated_at": "2026-07-06T19:43:38Z"
     },
     {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight open-source screen annotation tool with click-through mode",
-      "stars": 204,
-      "forks": 9,
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 17,
+      "language": "Shell",
+      "pushed_at": "2026-07-06T19:52:55Z",
+      "updated_at": "2026-07-06T19:52:58Z"
+    },
+    {
+      "id": 749625079,
+      "full_name": "nomandhoni-cs/blink-eye",
+      "html_url": "https://github.com/nomandhoni-cs/blink-eye",
+      "description": "A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-in TODO functionality. Your digital wellness companion for healthier productivity.",
+      "stars": 257,
+      "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T16:54:42Z",
-      "updated_at": "2026-07-06T17:45:01Z"
+      "pushed_at": "2026-07-06T18:52:15Z",
+      "updated_at": "2026-07-06T18:32:44Z"
     },
     {
       "id": 1283323996,
@@ -147,8 +158,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-06T17:38:51Z",
-      "updated_at": "2026-07-06T17:38:55Z"
+      "pushed_at": "2026-07-06T21:25:10Z",
+      "updated_at": "2026-07-06T21:25:16Z"
     },
     {
       "id": 1283327964,
@@ -158,19 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-06T16:21:39Z",
-      "updated_at": "2026-07-06T16:23:01Z"
-    },
-    {
-      "id": 1124104820,
-      "full_name": "NexaFlowFrance/OpenFamily",
-      "html_url": "https://github.com/NexaFlowFrance/OpenFamily",
-      "description": "Application open source pour gérer la vie de famille",
-      "stars": 126,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T17:41:27Z",
-      "updated_at": "2026-07-06T17:41:38Z"
+      "pushed_at": "2026-07-06T20:54:29Z",
+      "updated_at": "2026-07-06T20:54:40Z"
     }
   ]
 }
