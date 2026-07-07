@@ -8,125 +8,125 @@
   "total_found": 950,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126876,
-      "forks": 14282,
+      "id": 1052845083,
+      "full_name": "danielmiessler/LifeOS",
+      "html_url": "https://github.com/danielmiessler/LifeOS",
+      "description": "An AI-powered Life Operating System for Magnifying Human Capabilities",
+      "stars": 16418,
+      "forks": 2250,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T20:45:35Z",
-      "updated_at": "2026-07-06T21:08:23Z"
+      "pushed_at": "2026-07-07T03:01:57Z",
+      "updated_at": "2026-07-07T03:13:03Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 68951,
-      "forks": 4277,
-      "language": "Rust",
-      "pushed_at": "2026-07-06T19:09:33Z",
-      "updated_at": "2026-07-06T21:26:33Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11556,
-      "forks": 1425,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 13699,
+      "forks": 865,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T18:41:17Z",
-      "updated_at": "2026-07-06T19:58:06Z"
+      "pushed_at": "2026-07-07T01:23:42Z",
+      "updated_at": "2026-07-07T02:53:41Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8254,
-      "forks": 236,
+      "stars": 8255,
+      "forks": 237,
       "language": "C++",
-      "pushed_at": "2026-07-06T21:27:27Z",
-      "updated_at": "2026-07-06T21:07:58Z"
+      "pushed_at": "2026-07-07T01:15:46Z",
+      "updated_at": "2026-07-07T01:23:09Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3613,
-      "forks": 447,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5740,
+      "forks": 756,
+      "language": "Swift",
+      "pushed_at": "2026-07-07T03:03:37Z",
+      "updated_at": "2026-07-07T02:11:48Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3385,
+      "forks": 224,
+      "language": "Python",
+      "pushed_at": "2026-07-07T02:46:22Z",
+      "updated_at": "2026-07-07T02:34:33Z"
+    },
+    {
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3330,
+      "forks": 156,
+      "language": "Gherkin",
+      "pushed_at": "2026-07-07T02:00:50Z",
+      "updated_at": "2026-07-07T02:00:59Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1518,
+      "forks": 80,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T18:27:31Z",
-      "updated_at": "2026-07-06T19:20:44Z"
+      "pushed_at": "2026-07-07T01:52:09Z",
+      "updated_at": "2026-07-07T03:06:51Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1879,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-06T21:23:29Z",
-      "updated_at": "2026-07-06T18:56:31Z"
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1499,
+      "forks": 88,
+      "language": "Rust",
+      "pushed_at": "2026-07-07T03:10:56Z",
+      "updated_at": "2026-07-07T03:11:01Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1199,
+      "stars": 1200,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T20:55:51Z",
-      "updated_at": "2026-07-06T20:55:56Z"
+      "pushed_at": "2026-07-07T02:52:12Z",
+      "updated_at": "2026-07-07T02:56:11Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1156,
-      "forks": 204,
-      "language": "HTML",
-      "pushed_at": "2026-07-06T20:53:47Z",
-      "updated_at": "2026-07-06T20:54:16Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 781,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-07-07T01:56:46Z",
+      "updated_at": "2026-07-07T01:56:50Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 939,
-      "forks": 29,
-      "language": "Rust",
-      "pushed_at": "2026-07-06T17:55:01Z",
-      "updated_at": "2026-07-06T17:55:10Z"
-    },
-    {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 475,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-07-06T17:57:36Z",
-      "updated_at": "2026-07-06T17:57:41Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 372,
-      "forks": 37,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-06T19:43:34Z",
-      "updated_at": "2026-07-06T19:43:38Z"
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 645,
+      "forks": 52,
+      "language": "Swift",
+      "pushed_at": "2026-07-07T00:18:38Z",
+      "updated_at": "2026-07-07T01:52:20Z"
     },
     {
       "id": 1166865874,
@@ -136,19 +136,30 @@
       "stars": 315,
       "forks": 17,
       "language": "Shell",
-      "pushed_at": "2026-07-06T19:52:55Z",
-      "updated_at": "2026-07-06T19:52:58Z"
+      "pushed_at": "2026-07-07T02:40:55Z",
+      "updated_at": "2026-07-07T02:40:59Z"
     },
     {
-      "id": 749625079,
-      "full_name": "nomandhoni-cs/blink-eye",
-      "html_url": "https://github.com/nomandhoni-cs/blink-eye",
-      "description": "A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-in TODO functionality. Your digital wellness companion for healthier productivity.",
-      "stars": 257,
-      "forks": 15,
+      "id": 1269285813,
+      "full_name": "SoCkEt7/Livediff",
+      "html_url": "https://github.com/SoCkEt7/Livediff",
+      "description": "⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.",
+      "stars": 189,
+      "forks": 5,
+      "language": "Rust",
+      "pushed_at": "2026-07-07T02:42:11Z",
+      "updated_at": "2026-07-07T02:42:20Z"
+    },
+    {
+      "id": 1132684547,
+      "full_name": "BuildWithAIs/voicekey",
+      "html_url": "https://github.com/BuildWithAIs/voicekey",
+      "description": "Voice to text, one key to input.",
+      "stars": 174,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T18:52:15Z",
-      "updated_at": "2026-07-06T18:32:44Z"
+      "pushed_at": "2026-07-07T02:58:36Z",
+      "updated_at": "2026-07-07T02:58:39Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-06T21:25:10Z",
-      "updated_at": "2026-07-06T21:25:16Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-06T20:54:29Z",
-      "updated_at": "2026-07-06T20:54:40Z"
+      "pushed_at": "2026-07-07T02:34:51Z",
+      "updated_at": "2026-07-07T02:34:55Z"
     }
   ]
 }
