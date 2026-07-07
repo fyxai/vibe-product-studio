@@ -8,37 +8,48 @@
   "total_found": 952,
   "items": [
     {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16156,
-      "forks": 1269,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 126944,
+      "forks": 14294,
       "language": "TypeScript",
-      "pushed_at": "2026-07-07T17:14:01Z",
-      "updated_at": "2026-07-07T17:15:05Z"
+      "pushed_at": "2026-07-07T20:37:32Z",
+      "updated_at": "2026-07-07T20:58:30Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44174,
+      "forks": 2782,
+      "language": "C#",
+      "pushed_at": "2026-07-07T20:46:57Z",
+      "updated_at": "2026-07-07T21:21:50Z"
+    },
+    {
+      "id": 1052845083,
+      "full_name": "danielmiessler/LifeOS",
+      "html_url": "https://github.com/danielmiessler/LifeOS",
+      "description": "An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
+      "stars": 16448,
+      "forks": 2250,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-07T19:40:28Z",
+      "updated_at": "2026-07-07T21:15:55Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8264,
+      "stars": 8265,
       "forks": 236,
       "language": "C++",
-      "pushed_at": "2026-07-07T16:57:07Z",
-      "updated_at": "2026-07-07T17:27:01Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 5988,
-      "forks": 360,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-07T17:53:28Z",
-      "updated_at": "2026-07-07T17:53:34Z"
+      "pushed_at": "2026-07-07T20:44:52Z",
+      "updated_at": "2026-07-07T20:44:50Z"
     },
     {
       "id": 129699403,
@@ -48,19 +59,19 @@
       "stars": 5740,
       "forks": 757,
       "language": "Swift",
-      "pushed_at": "2026-07-07T17:53:06Z",
-      "updated_at": "2026-07-07T17:35:35Z"
+      "pushed_at": "2026-07-07T21:22:18Z",
+      "updated_at": "2026-07-07T21:16:11Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2103,
-      "forks": 74,
-      "language": "Swift",
-      "pushed_at": "2026-07-07T17:39:27Z",
-      "updated_at": "2026-07-07T17:43:00Z"
+      "id": 736435794,
+      "full_name": "joshmedeski/sesh",
+      "html_url": "https://github.com/joshmedeski/sesh",
+      "description": "Smart tmux session manager",
+      "stars": 2665,
+      "forks": 117,
+      "language": "Go",
+      "pushed_at": "2026-07-07T21:18:50Z",
+      "updated_at": "2026-07-07T21:18:54Z"
     },
     {
       "id": 257400448,
@@ -70,8 +81,8 @@
       "stars": 1880,
       "forks": 130,
       "language": "Go",
-      "pushed_at": "2026-07-07T17:20:12Z",
-      "updated_at": "2026-07-07T17:05:01Z"
+      "pushed_at": "2026-07-07T21:09:08Z",
+      "updated_at": "2026-07-07T21:04:43Z"
     },
     {
       "id": 1111978380,
@@ -81,8 +92,19 @@
       "stars": 1201,
       "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-07-07T17:47:44Z",
-      "updated_at": "2026-07-07T17:47:54Z"
+      "pushed_at": "2026-07-07T19:39:33Z",
+      "updated_at": "2026-07-07T19:39:38Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1160,
+      "forks": 206,
+      "language": "HTML",
+      "pushed_at": "2026-07-07T20:30:04Z",
+      "updated_at": "2026-07-07T20:30:17Z"
     },
     {
       "id": 1148683593,
@@ -92,41 +114,52 @@
       "stars": 940,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-07T17:35:04Z",
-      "updated_at": "2026-07-07T17:35:11Z"
+      "pushed_at": "2026-07-07T21:13:37Z",
+      "updated_at": "2026-07-07T21:13:44Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 567,
-      "forks": 38,
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 372,
+      "forks": 37,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-07T21:02:35Z",
+      "updated_at": "2026-07-07T21:02:53Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-07-07T19:51:08Z",
+      "updated_at": "2026-07-07T19:51:13Z"
+    },
+    {
+      "id": 1006740535,
+      "full_name": "ljtn/epiq",
+      "html_url": "https://github.com/ljtn/epiq",
+      "description": "Local first issue tracker - distributed and  backed by Git",
+      "stars": 301,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-07-07T17:31:18Z",
-      "updated_at": "2026-07-07T17:31:29Z"
+      "pushed_at": "2026-07-07T21:00:21Z",
+      "updated_at": "2026-07-07T20:46:28Z"
     },
     {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 511,
-      "forks": 62,
-      "language": "Swift",
-      "pushed_at": "2026-07-07T17:18:23Z",
-      "updated_at": "2026-07-07T17:18:55Z"
-    },
-    {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
-      "stars": 241,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-07T17:17:41Z",
-      "updated_at": "2026-07-07T17:18:05Z"
+      "id": 1163713389,
+      "full_name": "brevity1swos/rgx",
+      "html_url": "https://github.com/brevity1swos/rgx",
+      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
+      "stars": 225,
+      "forks": 4,
+      "language": "Rust",
+      "pushed_at": "2026-07-07T20:38:08Z",
+      "updated_at": "2026-07-07T20:37:06Z"
     },
     {
       "id": 1283327964,
@@ -136,41 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-07T17:16:59Z",
-      "updated_at": "2026-07-07T17:17:26Z"
-    },
-    {
-      "id": 1159738101,
-      "full_name": "vincentkoc/dotskills",
-      "html_url": "https://github.com/vincentkoc/dotskills",
-      "description": "🐙 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted development patterns.",
-      "stars": 96,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-07T17:52:25Z",
-      "updated_at": "2026-07-07T17:52:30Z"
-    },
-    {
-      "id": 1083798727,
-      "full_name": "bug-ops/helix-trainer",
-      "html_url": "https://github.com/bug-ops/helix-trainer",
-      "description": "🎮 Master Helix editor keybindings through interactive practice. Scenarios, arcade mode, quests & streaks. Build muscle memory the fun way.",
-      "stars": 79,
-      "forks": 2,
-      "language": "Rust",
-      "pushed_at": "2026-07-07T17:54:33Z",
-      "updated_at": "2026-07-07T17:45:45Z"
-    },
-    {
-      "id": 750644141,
-      "full_name": "Axial-SQL/AxialSqlTools",
-      "html_url": "https://github.com/Axial-SQL/AxialSqlTools",
-      "description": "Axial SQL Tools | SQL Server Management Studio 22 Productivity Addin",
-      "stars": 77,
-      "forks": 16,
-      "language": "C#",
-      "pushed_at": "2026-07-07T17:40:48Z",
-      "updated_at": "2026-07-07T17:40:52Z"
+      "pushed_at": "2026-07-07T19:58:06Z",
+      "updated_at": "2026-07-07T19:58:09Z"
     }
   ]
 }
