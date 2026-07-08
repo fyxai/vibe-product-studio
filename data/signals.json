@@ -8,37 +8,59 @@
   "total_found": 953,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 32931,
-      "forks": 3430,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44181,
+      "forks": 2785,
+      "language": "C#",
+      "pushed_at": "2026-07-08T04:24:45Z",
+      "updated_at": "2026-07-08T06:00:55Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14240,
+      "forks": 966,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T01:32:09Z",
-      "updated_at": "2026-07-08T02:25:43Z"
+      "pushed_at": "2026-07-08T05:24:17Z",
+      "updated_at": "2026-07-08T05:24:21Z"
+    },
+    {
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.  personal.management.system.inbox@gmail.com",
+      "stars": 4048,
+      "forks": 333,
+      "language": "PHP",
+      "pushed_at": "2026-07-08T05:32:57Z",
+      "updated_at": "2026-07-08T05:33:01Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3389,
+      "forks": 225,
+      "language": "Python",
+      "pushed_at": "2026-07-08T05:31:30Z",
+      "updated_at": "2026-07-08T05:40:36Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2104,
+      "stars": 2105,
       "forks": 75,
       "language": "Swift",
-      "pushed_at": "2026-07-08T02:10:32Z",
-      "updated_at": "2026-07-08T02:10:36Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1909,
-      "forks": 140,
-      "language": "Dart",
-      "pushed_at": "2026-07-07T21:45:58Z",
-      "updated_at": "2026-07-08T01:06:36Z"
+      "pushed_at": "2026-07-08T05:11:46Z",
+      "updated_at": "2026-07-08T05:11:50Z"
     },
     {
       "id": 1111978380,
@@ -48,8 +70,19 @@
       "stars": 1204,
       "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T02:13:28Z",
-      "updated_at": "2026-07-08T02:13:31Z"
+      "pushed_at": "2026-07-08T04:20:53Z",
+      "updated_at": "2026-07-08T04:20:57Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1162,
+      "forks": 206,
+      "language": "HTML",
+      "pushed_at": "2026-07-08T04:44:56Z",
+      "updated_at": "2026-07-08T04:45:01Z"
     },
     {
       "id": 1148683593,
@@ -59,85 +92,41 @@
       "stars": 940,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-08T02:25:18Z",
-      "updated_at": "2026-07-08T02:25:22Z"
+      "pushed_at": "2026-07-08T04:54:14Z",
+      "updated_at": "2026-07-08T04:54:17Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 315,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-07-08T02:14:36Z",
-      "updated_at": "2026-07-08T02:14:40Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local-first issue tracker - distributed and  backed by Git",
-      "stars": 301,
-      "forks": 10,
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 566,
+      "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T00:21:12Z",
-      "updated_at": "2026-07-08T00:10:44Z"
+      "pushed_at": "2026-07-08T04:31:22Z",
+      "updated_at": "2026-07-08T04:31:24Z"
     },
     {
       "id": 1183931176,
       "full_name": "ifer47/markeron",
       "html_url": "https://github.com/ifer47/markeron",
       "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
-      "stars": 250,
+      "stars": 258,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T01:33:23Z",
-      "updated_at": "2026-07-08T02:16:09Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 239,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-07-07T22:45:12Z",
-      "updated_at": "2026-07-07T22:45:15Z"
-    },
-    {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 215,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-07T21:23:10Z",
-      "updated_at": "2026-07-07T21:23:13Z"
+      "pushed_at": "2026-07-08T04:40:03Z",
+      "updated_at": "2026-07-08T05:42:23Z"
     },
     {
       "id": 1177055450,
       "full_name": "PM-Shawn/Abu-Cowork",
       "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills ·   privacy-first",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
       "stars": 187,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T00:12:29Z",
-      "updated_at": "2026-07-08T00:38:41Z"
-    },
-    {
-      "id": 1108054886,
-      "full_name": "ReKindleOS/ReKindle",
-      "html_url": "https://github.com/ReKindleOS/ReKindle",
-      "description": "Your Kindle Upgraded",
-      "stars": 159,
-      "forks": 18,
-      "language": "HTML",
-      "pushed_at": "2026-07-07T23:31:47Z",
-      "updated_at": "2026-07-07T23:31:51Z"
+      "pushed_at": "2026-07-08T04:57:11Z",
+      "updated_at": "2026-07-08T04:56:31Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +136,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-07T23:03:49Z",
-      "updated_at": "2026-07-07T23:03:53Z"
+      "pushed_at": "2026-07-08T05:54:08Z",
+      "updated_at": "2026-07-08T05:54:12Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +147,30 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-08T02:08:34Z",
-      "updated_at": "2026-07-08T02:08:38Z"
+      "pushed_at": "2026-07-08T05:45:44Z",
+      "updated_at": "2026-07-08T05:45:48Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. MIT open source.",
-      "stars": 128,
-      "forks": 8,
-      "language": "C#",
-      "pushed_at": "2026-07-08T01:14:43Z",
-      "updated_at": "2026-07-08T01:16:29Z"
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 140,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-08T05:33:31Z",
+      "updated_at": "2026-07-08T05:33:34Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 98,
+      "forks": 5,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-08T05:32:19Z",
+      "updated_at": "2026-07-08T04:49:32Z"
     }
   ]
 }
