@@ -5,106 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 952,
+  "total_found": 953,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126944,
-      "forks": 14294,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 32931,
+      "forks": 3430,
       "language": "TypeScript",
-      "pushed_at": "2026-07-07T20:37:32Z",
-      "updated_at": "2026-07-07T20:58:30Z"
+      "pushed_at": "2026-07-08T01:32:09Z",
+      "updated_at": "2026-07-08T02:25:43Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44174,
-      "forks": 2782,
-      "language": "C#",
-      "pushed_at": "2026-07-07T20:46:57Z",
-      "updated_at": "2026-07-07T21:21:50Z"
-    },
-    {
-      "id": 1052845083,
-      "full_name": "danielmiessler/LifeOS",
-      "html_url": "https://github.com/danielmiessler/LifeOS",
-      "description": "An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
-      "stars": 16448,
-      "forks": 2250,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-07T19:40:28Z",
-      "updated_at": "2026-07-07T21:15:55Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8265,
-      "forks": 236,
-      "language": "C++",
-      "pushed_at": "2026-07-07T20:44:52Z",
-      "updated_at": "2026-07-07T20:44:50Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5740,
-      "forks": 757,
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2104,
+      "forks": 75,
       "language": "Swift",
-      "pushed_at": "2026-07-07T21:22:18Z",
-      "updated_at": "2026-07-07T21:16:11Z"
+      "pushed_at": "2026-07-08T02:10:32Z",
+      "updated_at": "2026-07-08T02:10:36Z"
     },
     {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2665,
-      "forks": 117,
-      "language": "Go",
-      "pushed_at": "2026-07-07T21:18:50Z",
-      "updated_at": "2026-07-07T21:18:54Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1880,
-      "forks": 130,
-      "language": "Go",
-      "pushed_at": "2026-07-07T21:09:08Z",
-      "updated_at": "2026-07-07T21:04:43Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1909,
+      "forks": 140,
+      "language": "Dart",
+      "pushed_at": "2026-07-07T21:45:58Z",
+      "updated_at": "2026-07-08T01:06:36Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1201,
+      "stars": 1204,
       "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-07-07T19:39:33Z",
-      "updated_at": "2026-07-07T19:39:38Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1160,
-      "forks": 206,
-      "language": "HTML",
-      "pushed_at": "2026-07-07T20:30:04Z",
-      "updated_at": "2026-07-07T20:30:17Z"
+      "pushed_at": "2026-07-08T02:13:28Z",
+      "updated_at": "2026-07-08T02:13:31Z"
     },
     {
       "id": 1148683593,
@@ -114,19 +59,8 @@
       "stars": 940,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-07T21:13:37Z",
-      "updated_at": "2026-07-07T21:13:44Z"
-    },
-    {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 372,
-      "forks": 37,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-07T21:02:35Z",
-      "updated_at": "2026-07-07T21:02:53Z"
+      "pushed_at": "2026-07-08T02:25:18Z",
+      "updated_at": "2026-07-08T02:25:22Z"
     },
     {
       "id": 1166865874,
@@ -136,30 +70,74 @@
       "stars": 315,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-07-07T19:51:08Z",
-      "updated_at": "2026-07-07T19:51:13Z"
+      "pushed_at": "2026-07-08T02:14:36Z",
+      "updated_at": "2026-07-08T02:14:40Z"
     },
     {
       "id": 1006740535,
       "full_name": "ljtn/epiq",
       "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local first issue tracker - distributed and  backed by Git",
+      "description": "Local-first issue tracker - distributed and  backed by Git",
       "stars": 301,
       "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-07-07T21:00:21Z",
-      "updated_at": "2026-07-07T20:46:28Z"
+      "pushed_at": "2026-07-08T00:21:12Z",
+      "updated_at": "2026-07-08T00:10:44Z"
     },
     {
-      "id": 1163713389,
-      "full_name": "brevity1swos/rgx",
-      "html_url": "https://github.com/brevity1swos/rgx",
-      "description": "regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.",
-      "stars": 225,
-      "forks": 4,
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
+      "stars": 250,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-08T01:33:23Z",
+      "updated_at": "2026-07-08T02:16:09Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 239,
+      "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-07-07T20:38:08Z",
-      "updated_at": "2026-07-07T20:37:06Z"
+      "pushed_at": "2026-07-07T22:45:12Z",
+      "updated_at": "2026-07-07T22:45:15Z"
+    },
+    {
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 215,
+      "forks": 9,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-07T21:23:10Z",
+      "updated_at": "2026-07-07T21:23:13Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills ·   privacy-first",
+      "stars": 187,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-08T00:12:29Z",
+      "updated_at": "2026-07-08T00:38:41Z"
+    },
+    {
+      "id": 1108054886,
+      "full_name": "ReKindleOS/ReKindle",
+      "html_url": "https://github.com/ReKindleOS/ReKindle",
+      "description": "Your Kindle Upgraded",
+      "stars": 159,
+      "forks": 18,
+      "language": "HTML",
+      "pushed_at": "2026-07-07T23:31:47Z",
+      "updated_at": "2026-07-07T23:31:51Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +147,30 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-07T19:58:06Z",
-      "updated_at": "2026-07-07T19:58:09Z"
+      "pushed_at": "2026-07-07T23:03:49Z",
+      "updated_at": "2026-07-07T23:03:53Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-08T02:08:34Z",
+      "updated_at": "2026-07-08T02:08:38Z"
+    },
+    {
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. MIT open source.",
+      "stars": 128,
+      "forks": 8,
+      "language": "C#",
+      "pushed_at": "2026-07-08T01:14:43Z",
+      "updated_at": "2026-07-08T01:16:29Z"
     }
   ]
 }
