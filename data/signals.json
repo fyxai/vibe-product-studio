@@ -8,70 +8,59 @@
   "total_found": 956,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127053,
-      "forks": 14308,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T09:41:15Z",
-      "updated_at": "2026-07-09T10:39:47Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27093,
-      "forks": 2409,
-      "language": "Go",
-      "pushed_at": "2026-07-09T10:32:38Z",
-      "updated_at": "2026-07-09T10:36:27Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44205,
+      "forks": 2785,
+      "language": "C#",
+      "pushed_at": "2026-07-09T14:22:05Z",
+      "updated_at": "2026-07-09T14:26:01Z"
     },
     {
       "id": 343078060,
       "full_name": "lissy93/dashy",
       "html_url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25769,
+      "stars": 25773,
       "forks": 1885,
       "language": "Vue",
-      "pushed_at": "2026-07-09T09:19:47Z",
-      "updated_at": "2026-07-09T10:10:46Z"
+      "pushed_at": "2026-07-09T14:17:09Z",
+      "updated_at": "2026-07-09T14:45:17Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15825,
-      "forks": 1569,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20524,
+      "forks": 1838,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:29:11Z",
-      "updated_at": "2026-07-09T10:39:56Z"
+      "pushed_at": "2026-07-09T14:44:07Z",
+      "updated_at": "2026-07-09T14:22:38Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14251,
-      "forks": 965,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T09:36:49Z",
-      "updated_at": "2026-07-09T10:34:44Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8337,
+      "forks": 238,
+      "language": "C++",
+      "pushed_at": "2026-07-09T13:42:28Z",
+      "updated_at": "2026-07-09T14:41:43Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11575,
-      "forks": 1428,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6894,
+      "forks": 257,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:28:37Z",
-      "updated_at": "2026-07-09T10:28:53Z"
+      "pushed_at": "2026-07-09T14:38:25Z",
+      "updated_at": "2026-07-09T14:39:32Z"
     },
     {
       "id": 129699403,
@@ -81,30 +70,8 @@
       "stars": 5741,
       "forks": 758,
       "language": "Swift",
-      "pushed_at": "2026-07-09T10:48:02Z",
-      "updated_at": "2026-07-09T10:21:12Z"
-    },
-    {
-      "id": 203938031,
-      "full_name": "200ok-ch/organice",
-      "html_url": "https://github.com/200ok-ch/organice",
-      "description": "An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers",
-      "stars": 2654,
-      "forks": 166,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-09T09:24:09Z",
-      "updated_at": "2026-07-09T09:24:21Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1538,
-      "forks": 94,
-      "language": "Rust",
-      "pushed_at": "2026-07-09T10:41:25Z",
-      "updated_at": "2026-07-09T10:41:30Z"
+      "pushed_at": "2026-07-09T14:55:12Z",
+      "updated_at": "2026-07-09T14:47:16Z"
     },
     {
       "id": 1148683593,
@@ -114,8 +81,8 @@
       "stars": 942,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-09T10:30:46Z",
-      "updated_at": "2026-07-09T10:31:02Z"
+      "pushed_at": "2026-07-09T14:40:17Z",
+      "updated_at": "2026-07-09T14:40:44Z"
     },
     {
       "id": 110334159,
@@ -125,52 +92,85 @@
       "stars": 937,
       "forks": 216,
       "language": "Scala",
-      "pushed_at": "2026-07-09T10:44:40Z",
-      "updated_at": "2026-07-09T10:30:42Z"
+      "pushed_at": "2026-07-09T13:52:38Z",
+      "updated_at": "2026-07-09T13:48:03Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
-      "stars": 407,
-      "forks": 29,
-      "language": "Rust",
-      "pushed_at": "2026-07-09T10:01:12Z",
-      "updated_at": "2026-07-09T10:02:06Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 658,
+      "forks": 117,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-09T14:49:42Z",
+      "updated_at": "2026-07-09T14:48:45Z"
     },
     {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 307,
+      "id": 17773756,
+      "full_name": "getting-things-gnome/gtg",
+      "html_url": "https://github.com/getting-things-gnome/gtg",
+      "description": "Getting Things GNOME! desktop app development",
+      "stars": 603,
+      "forks": 175,
+      "language": "Python",
+      "pushed_at": "2026-07-09T14:00:33Z",
+      "updated_at": "2026-07-09T14:01:10Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Local context-control plane for AI coding agents: select evidence, compress recoverably, keep caches hot, and verify answers. MCP/proxy/SDK for Cursor, Claude Code, Codex, and Aider.",
+      "stars": 419,
+      "forks": 66,
+      "language": "Python",
+      "pushed_at": "2026-07-09T14:18:09Z",
+      "updated_at": "2026-07-09T13:45:54Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 315,
       "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-07-09T09:30:37Z",
-      "updated_at": "2026-07-09T10:48:25Z"
+      "language": "Shell",
+      "pushed_at": "2026-07-09T14:49:43Z",
+      "updated_at": "2026-07-09T14:50:57Z"
     },
     {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 234,
-      "forks": 22,
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 204,
+      "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-07-09T09:30:52Z",
-      "updated_at": "2026-07-09T10:10:49Z"
+      "pushed_at": "2026-07-09T14:45:26Z",
+      "updated_at": "2026-07-09T14:46:14Z"
     },
     {
-      "id": 73910557,
-      "full_name": "iazarny/gitember",
-      "html_url": "https://github.com/iazarny/gitember",
-      "description": "Gitember not just another git GUI client",
-      "stars": 145,
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-09T14:44:53Z",
+      "updated_at": "2026-07-09T14:45:50Z"
+    },
+    {
+      "id": 1174381781,
+      "full_name": "eljulians/skillfile",
+      "html_url": "https://github.com/eljulians/skillfile",
+      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
+      "stars": 135,
       "forks": 18,
-      "language": "Java",
-      "pushed_at": "2026-07-09T10:33:56Z",
-      "updated_at": "2026-07-09T10:46:54Z"
+      "language": "Rust",
+      "pushed_at": "2026-07-09T14:54:39Z",
+      "updated_at": "2026-07-09T14:55:16Z"
     }
   ]
 }
