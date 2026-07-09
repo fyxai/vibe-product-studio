@@ -8,59 +8,70 @@
   "total_found": 956,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 227544,
-      "forks": 34768,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-09T07:02:41Z",
-      "updated_at": "2026-07-09T07:36:43Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 69687,
-      "forks": 4329,
-      "language": "Rust",
-      "pushed_at": "2026-07-09T07:33:14Z",
-      "updated_at": "2026-07-09T07:40:05Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 127053,
+      "forks": 14308,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T09:41:15Z",
+      "updated_at": "2026-07-09T10:39:47Z"
     },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27090,
+      "stars": 27093,
       "forks": 2409,
       "language": "Go",
-      "pushed_at": "2026-07-09T07:09:44Z",
-      "updated_at": "2026-07-09T06:37:24Z"
+      "pushed_at": "2026-07-09T10:32:38Z",
+      "updated_at": "2026-07-09T10:36:27Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25769,
+      "forks": 1885,
+      "language": "Vue",
+      "pushed_at": "2026-07-09T09:19:47Z",
+      "updated_at": "2026-07-09T10:10:46Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 15802,
-      "forks": 1567,
+      "stars": 15825,
+      "forks": 1569,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T06:25:59Z",
-      "updated_at": "2026-07-09T07:38:21Z"
+      "pushed_at": "2026-07-09T10:29:11Z",
+      "updated_at": "2026-07-09T10:39:56Z"
     },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14247,
+      "stars": 14251,
       "forks": 965,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T06:29:06Z",
-      "updated_at": "2026-07-09T05:34:17Z"
+      "pushed_at": "2026-07-09T09:36:49Z",
+      "updated_at": "2026-07-09T10:34:44Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11575,
+      "forks": 1428,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T10:28:37Z",
+      "updated_at": "2026-07-09T10:28:53Z"
     },
     {
       "id": 129699403,
@@ -70,30 +81,30 @@
       "stars": 5741,
       "forks": 758,
       "language": "Swift",
-      "pushed_at": "2026-07-09T07:39:02Z",
-      "updated_at": "2026-07-09T07:31:22Z"
+      "pushed_at": "2026-07-09T10:48:02Z",
+      "updated_at": "2026-07-09T10:21:12Z"
     },
     {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4556,
-      "forks": 275,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T06:33:52Z",
-      "updated_at": "2026-07-09T07:37:41Z"
+      "id": 203938031,
+      "full_name": "200ok-ch/organice",
+      "html_url": "https://github.com/200ok-ch/organice",
+      "description": "An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers",
+      "stars": 2654,
+      "forks": 166,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-09T09:24:09Z",
+      "updated_at": "2026-07-09T09:24:21Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1209,
-      "forks": 75,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T05:34:51Z",
-      "updated_at": "2026-07-09T06:30:17Z"
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1538,
+      "forks": 94,
+      "language": "Rust",
+      "pushed_at": "2026-07-09T10:41:25Z",
+      "updated_at": "2026-07-09T10:41:30Z"
     },
     {
       "id": 1148683593,
@@ -103,74 +114,63 @@
       "stars": 942,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-09T07:13:06Z",
-      "updated_at": "2026-07-09T07:13:18Z"
+      "pushed_at": "2026-07-09T10:30:46Z",
+      "updated_at": "2026-07-09T10:31:02Z"
     },
     {
-      "id": 1084630267,
-      "full_name": "jemishavasoya/dev-cleaner",
-      "html_url": "https://github.com/jemishavasoya/dev-cleaner",
-      "description": "One-click CLI utility to safely clear 50GB+ of developer cache bloat. Cleans Xcode DerivedData, Flutter build caches, Android Gradle, npm/node_modules, and IDE temp files on macOS, Linux, and Windows.",
-      "stars": 306,
-      "forks": 42,
-      "language": "Shell",
-      "pushed_at": "2026-07-09T05:05:13Z",
-      "updated_at": "2026-07-09T05:05:19Z"
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 937,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-07-09T10:44:40Z",
+      "updated_at": "2026-07-09T10:30:42Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.",
+      "stars": 407,
+      "forks": 29,
+      "language": "Rust",
+      "pushed_at": "2026-07-09T10:01:12Z",
+      "updated_at": "2026-07-09T10:02:06Z"
     },
     {
       "id": 1041102492,
       "full_name": "leeguooooo/claude-code-usage-bar",
       "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
       "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 305,
+      "stars": 307,
       "forks": 16,
       "language": "Python",
-      "pushed_at": "2026-07-09T05:45:58Z",
-      "updated_at": "2026-07-09T06:31:18Z"
+      "pushed_at": "2026-07-09T09:30:37Z",
+      "updated_at": "2026-07-09T10:48:25Z"
     },
     {
-      "id": 856357967,
-      "full_name": "imrofayel/fylepad",
-      "html_url": "https://github.com/imrofayel/fylepad",
-      "description": "Thoughtful, secure, and intelligent writing",
-      "stars": 298,
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 234,
       "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T07:21:44Z",
-      "updated_at": "2026-07-09T07:07:32Z"
+      "language": "Python",
+      "pushed_at": "2026-07-09T09:30:52Z",
+      "updated_at": "2026-07-09T10:10:49Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 232,
-      "forks": 57,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-09T07:26:02Z",
-      "updated_at": "2026-07-09T07:30:25Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
-      "stars": 159,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T06:42:29Z",
-      "updated_at": "2026-07-09T06:42:34Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 132,
-      "forks": 9,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-09T05:13:06Z",
-      "updated_at": "2026-07-09T05:08:47Z"
+      "id": 73910557,
+      "full_name": "iazarny/gitember",
+      "html_url": "https://github.com/iazarny/gitember",
+      "description": "Gitember not just another git GUI client",
+      "stars": 145,
+      "forks": 18,
+      "language": "Java",
+      "pushed_at": "2026-07-09T10:33:56Z",
+      "updated_at": "2026-07-09T10:46:54Z"
     }
   ]
 }
