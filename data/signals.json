@@ -8,92 +8,48 @@
   "total_found": 955,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127012,
-      "forks": 14305,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T21:00:20Z",
-      "updated_at": "2026-07-08T21:05:07Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 69591,
-      "forks": 4323,
-      "language": "Rust",
-      "pushed_at": "2026-07-08T19:51:27Z",
-      "updated_at": "2026-07-08T21:05:21Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44187,
-      "forks": 2785,
-      "language": "C#",
-      "pushed_at": "2026-07-08T20:09:50Z",
-      "updated_at": "2026-07-08T21:01:25Z"
-    },
-    {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 15728,
-      "forks": 1561,
+      "stars": 15769,
+      "forks": 1563,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T18:02:08Z",
-      "updated_at": "2026-07-08T20:58:52Z"
+      "pushed_at": "2026-07-09T01:04:25Z",
+      "updated_at": "2026-07-09T02:39:03Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11575,
-      "forks": 1428,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5492,
+      "forks": 858,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T18:47:55Z",
-      "updated_at": "2026-07-08T20:13:40Z"
+      "pushed_at": "2026-07-09T02:49:24Z",
+      "updated_at": "2026-07-09T02:17:40Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5741,
-      "forks": 757,
-      "language": "Swift",
-      "pushed_at": "2026-07-08T21:00:16Z",
-      "updated_at": "2026-07-08T18:44:03Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1883,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-08T20:51:05Z",
-      "updated_at": "2026-07-08T20:12:54Z"
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1528,
+      "forks": 80,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T02:47:17Z",
+      "updated_at": "2026-07-09T02:13:53Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1207,
+      "stars": 1208,
       "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T18:57:56Z",
-      "updated_at": "2026-07-08T19:20:34Z"
+      "pushed_at": "2026-07-09T02:44:48Z",
+      "updated_at": "2026-07-09T02:44:52Z"
     },
     {
       "id": 1148683593,
@@ -103,8 +59,19 @@
       "stars": 942,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-08T21:03:31Z",
-      "updated_at": "2026-07-08T21:03:39Z"
+      "pushed_at": "2026-07-09T02:42:11Z",
+      "updated_at": "2026-07-09T02:42:15Z"
+    },
+    {
+      "id": 1167485752,
+      "full_name": "tover0314-w/opentypeless",
+      "html_url": "https://github.com/tover0314-w/opentypeless",
+      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
+      "stars": 331,
+      "forks": 59,
+      "language": "Rust",
+      "pushed_at": "2026-07-09T02:49:04Z",
+      "updated_at": "2026-07-09T02:49:07Z"
     },
     {
       "id": 1166865874,
@@ -114,8 +81,63 @@
       "stars": 315,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-07-08T19:20:21Z",
-      "updated_at": "2026-07-08T19:21:08Z"
+      "pushed_at": "2026-07-09T02:32:53Z",
+      "updated_at": "2026-07-09T02:32:56Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 304,
+      "forks": 16,
+      "language": "Python",
+      "pushed_at": "2026-07-09T02:41:51Z",
+      "updated_at": "2026-07-09T02:41:52Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
+      "stars": 283,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T02:24:19Z",
+      "updated_at": "2026-07-09T02:47:56Z"
+    },
+    {
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 263,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-09T01:21:41Z",
+      "updated_at": "2026-07-09T01:21:44Z"
+    },
+    {
+      "id": 1246532319,
+      "full_name": "ayushh0110/ScreenMind",
+      "html_url": "https://github.com/ayushh0110/ScreenMind",
+      "description": " AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
+      "stars": 181,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-07-09T00:36:12Z",
+      "updated_at": "2026-07-09T00:36:15Z"
+    },
+    {
+      "id": 1108054886,
+      "full_name": "ReKindleOS/ReKindle",
+      "html_url": "https://github.com/ReKindleOS/ReKindle",
+      "description": "Your Kindle Upgraded",
+      "stars": 160,
+      "forks": 18,
+      "language": "HTML",
+      "pushed_at": "2026-07-09T01:16:33Z",
+      "updated_at": "2026-07-09T01:16:37Z"
     },
     {
       "id": 1283327964,
@@ -125,8 +147,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-08T20:22:05Z",
-      "updated_at": "2026-07-08T20:22:09Z"
+      "pushed_at": "2026-07-09T00:12:44Z",
+      "updated_at": "2026-07-09T00:12:48Z"
     },
     {
       "id": 1283323996,
@@ -136,41 +158,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-08T21:01:06Z",
-      "updated_at": "2026-07-08T21:01:21Z"
+      "pushed_at": "2026-07-09T00:16:59Z",
+      "updated_at": "2026-07-09T00:17:05Z"
     },
     {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 85,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T20:58:06Z",
-      "updated_at": "2026-07-08T20:40:00Z"
-    },
-    {
-      "id": 1259988665,
-      "full_name": "pivanov/ctx-wire",
-      "html_url": "https://github.com/pivanov/ctx-wire",
-      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "stars": 72,
-      "forks": 1,
-      "language": "Go",
-      "pushed_at": "2026-07-08T18:18:41Z",
-      "updated_at": "2026-07-08T18:18:45Z"
-    },
-    {
-      "id": 1210011300,
-      "full_name": "Astro-Han/pawwork",
-      "html_url": "https://github.com/Astro-Han/pawwork",
-      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows. Alternative to Codex App and Claude Cowork. BYOK with 75+ providers, ChatGPT OAuth, local models, Office files. No terminal needed.",
-      "stars": 65,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T20:43:48Z",
-      "updated_at": "2026-07-08T18:33:13Z"
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 129,
+      "forks": 19,
+      "language": "Swift",
+      "pushed_at": "2026-07-09T01:17:04Z",
+      "updated_at": "2026-07-09T00:13:34Z"
     }
   ]
 }
