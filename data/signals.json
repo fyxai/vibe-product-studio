@@ -8,103 +8,70 @@
   "total_found": 958,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27098,
-      "forks": 2410,
-      "language": "Go",
-      "pushed_at": "2026-07-10T16:34:41Z",
-      "updated_at": "2026-07-10T17:31:55Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25790,
-      "forks": 1888,
-      "language": "Vue",
-      "pushed_at": "2026-07-10T17:09:46Z",
-      "updated_at": "2026-07-10T17:42:33Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20541,
-      "forks": 1842,
+      "stars": 20542,
+      "forks": 1843,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T17:08:46Z",
-      "updated_at": "2026-07-10T17:08:27Z"
+      "pushed_at": "2026-07-10T20:53:52Z",
+      "updated_at": "2026-07-10T20:07:18Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 16036,
-      "forks": 1595,
+      "stars": 16054,
+      "forks": 1597,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T17:37:36Z",
-      "updated_at": "2026-07-10T17:33:06Z"
+      "pushed_at": "2026-07-10T18:35:07Z",
+      "updated_at": "2026-07-10T20:37:04Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6470,
-      "forks": 140,
-      "language": "Swift",
-      "pushed_at": "2026-07-10T15:54:19Z",
-      "updated_at": "2026-07-10T15:53:28Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 13825,
+      "forks": 871,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T19:12:46Z",
+      "updated_at": "2026-07-10T19:58:24Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5739,
-      "forks": 757,
-      "language": "Swift",
-      "pushed_at": "2026-07-10T17:45:57Z",
-      "updated_at": "2026-07-10T17:21:15Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2113,
-      "forks": 76,
-      "language": "Swift",
-      "pushed_at": "2026-07-10T16:01:32Z",
-      "updated_at": "2026-07-10T16:03:26Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8404,
+      "forks": 240,
+      "language": "C++",
+      "pushed_at": "2026-07-10T20:39:18Z",
+      "updated_at": "2026-07-10T20:50:33Z"
     },
     {
       "id": 1101924225,
       "full_name": "dembrandt/dembrandt",
       "html_url": "https://github.com/dembrandt/dembrandt",
       "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 2109,
+      "stars": 2111,
       "forks": 209,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T17:44:20Z",
-      "updated_at": "2026-07-10T17:38:27Z"
+      "pushed_at": "2026-07-10T19:41:46Z",
+      "updated_at": "2026-07-10T20:45:59Z"
     },
     {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1530,
-      "forks": 80,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T16:49:59Z",
-      "updated_at": "2026-07-10T16:50:10Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1914,
+      "forks": 140,
+      "language": "Dart",
+      "pushed_at": "2026-07-10T20:39:09Z",
+      "updated_at": "2026-07-10T19:29:04Z"
     },
     {
       "id": 1111978380,
@@ -112,54 +79,65 @@
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
       "stars": 1221,
-      "forks": 76,
+      "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T17:22:22Z",
-      "updated_at": "2026-07-10T17:37:39Z"
+      "pushed_at": "2026-07-10T20:54:12Z",
+      "updated_at": "2026-07-10T20:56:06Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 943,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-07-10T16:24:47Z",
-      "updated_at": "2026-07-10T16:25:47Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1172,
+      "forks": 210,
+      "language": "HTML",
+      "pushed_at": "2026-07-10T18:46:05Z",
+      "updated_at": "2026-07-10T18:47:03Z"
     },
     {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 513,
-      "forks": 63,
-      "language": "Swift",
-      "pushed_at": "2026-07-10T17:02:24Z",
-      "updated_at": "2026-07-10T17:02:37Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 766,
+      "forks": 40,
+      "language": "C#",
+      "pushed_at": "2026-07-10T18:47:25Z",
+      "updated_at": "2026-07-10T18:47:46Z"
     },
     {
-      "id": 1126665558,
-      "full_name": "3xpyth0n/ideon",
-      "html_url": "https://github.com/3xpyth0n/ideon",
-      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
-      "stars": 486,
-      "forks": 17,
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 322,
+      "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T16:32:24Z",
-      "updated_at": "2026-07-10T16:33:42Z"
+      "pushed_at": "2026-07-10T20:58:48Z",
+      "updated_at": "2026-07-10T20:47:52Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 431,
-      "forks": 119,
-      "language": "Python",
-      "pushed_at": "2026-07-10T16:14:16Z",
-      "updated_at": "2026-07-10T16:58:02Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-07-10T19:24:12Z",
+      "updated_at": "2026-07-10T19:24:19Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T18:56:10Z",
+      "updated_at": "2026-07-10T18:57:21Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +147,30 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-10T16:57:35Z",
-      "updated_at": "2026-07-10T16:58:16Z"
+      "pushed_at": "2026-07-10T20:24:27Z",
+      "updated_at": "2026-07-10T20:24:32Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-10T20:17:55Z",
+      "updated_at": "2026-07-10T20:18:11Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 100,
+      "forks": 5,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T20:20:22Z",
+      "updated_at": "2026-07-10T20:20:25Z"
     }
   ]
 }
