@@ -5,84 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 957,
+  "total_found": 958,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44214,
-      "forks": 2786,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 15969,
+      "forks": 1591,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T06:32:29Z",
+      "updated_at": "2026-07-10T07:33:22Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 13802,
+      "forks": 870,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T06:44:07Z",
+      "updated_at": "2026-07-10T07:13:20Z"
+    },
+    {
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+      "stars": 8605,
+      "forks": 945,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T06:48:14Z",
+      "updated_at": "2026-07-10T06:40:57Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5740,
+      "forks": 757,
+      "language": "Swift",
+      "pushed_at": "2026-07-10T07:24:14Z",
+      "updated_at": "2026-07-10T07:14:37Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5496,
+      "forks": 860,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T07:29:26Z",
+      "updated_at": "2026-07-10T06:48:53Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 760,
+      "forks": 39,
       "language": "C#",
-      "pushed_at": "2026-07-10T01:11:39Z",
-      "updated_at": "2026-07-10T01:48:44Z"
+      "pushed_at": "2026-07-10T05:36:22Z",
+      "updated_at": "2026-07-10T07:29:13Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8369,
-      "forks": 238,
-      "language": "C++",
-      "pushed_at": "2026-07-10T01:50:18Z",
-      "updated_at": "2026-07-10T01:57:23Z"
-    },
-    {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
-      "stars": 2015,
-      "forks": 135,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T02:51:59Z",
-      "updated_at": "2026-07-10T02:52:03Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1287,
-      "forks": 62,
-      "language": "Rust",
-      "pushed_at": "2026-07-10T02:32:47Z",
-      "updated_at": "2026-07-10T02:32:49Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1216,
-      "forks": 76,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T02:30:04Z",
-      "updated_at": "2026-07-10T02:30:10Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 943,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-07-10T02:06:23Z",
-      "updated_at": "2026-07-10T02:06:27Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 514,
-      "forks": 94,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T23:53:18Z",
-      "updated_at": "2026-07-09T23:38:02Z"
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 664,
+      "forks": 54,
+      "language": "Swift",
+      "pushed_at": "2026-07-10T06:45:47Z",
+      "updated_at": "2026-07-10T06:46:02Z"
     },
     {
       "id": 1030039430,
@@ -92,63 +92,52 @@
       "stars": 322,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T02:28:17Z",
-      "updated_at": "2026-07-10T02:28:20Z"
+      "pushed_at": "2026-07-10T07:26:37Z",
+      "updated_at": "2026-07-10T07:26:52Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
+      "stars": 310,
       "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-07-10T02:34:45Z",
-      "updated_at": "2026-07-10T02:34:49Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T07:28:42Z",
+      "updated_at": "2026-07-10T07:28:51Z"
     },
     {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 309,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-07-10T02:07:36Z",
-      "updated_at": "2026-07-10T02:07:27Z"
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 232,
+      "forks": 57,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T06:51:58Z",
+      "updated_at": "2026-07-10T06:52:06Z"
     },
     {
       "id": 1177055450,
       "full_name": "PM-Shawn/Abu-Cowork",
       "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
       "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 188,
+      "stars": 190,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T01:34:15Z",
-      "updated_at": "2026-07-10T01:19:46Z"
+      "pushed_at": "2026-07-10T06:46:27Z",
+      "updated_at": "2026-07-10T07:03:03Z"
     },
     {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
-      "stars": 159,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T01:27:29Z",
-      "updated_at": "2026-07-10T01:27:33Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-10T00:06:15Z",
-      "updated_at": "2026-07-10T00:06:19Z"
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T06:51:41Z",
+      "updated_at": "2026-07-10T06:51:43Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +147,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-10T02:28:45Z",
-      "updated_at": "2026-07-10T02:28:49Z"
+      "pushed_at": "2026-07-10T06:38:58Z",
+      "updated_at": "2026-07-10T06:39:04Z"
+    },
+    {
+      "id": 452405275,
+      "full_name": "jrgilbertson/networked-thinking",
+      "html_url": "https://github.com/jrgilbertson/networked-thinking",
+      "description": "This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.",
+      "stars": 145,
+      "forks": 16,
+      "language": "Unknown",
+      "pushed_at": "2026-07-10T05:11:27Z",
+      "updated_at": "2026-07-10T05:11:17Z"
     },
     {
       "id": 737246781,
@@ -169,8 +169,8 @@
       "stars": 140,
       "forks": 11,
       "language": "Kotlin",
-      "pushed_at": "2026-07-10T01:48:11Z",
-      "updated_at": "2026-07-10T01:47:29Z"
+      "pushed_at": "2026-07-10T06:31:58Z",
+      "updated_at": "2026-07-10T06:31:18Z"
     }
   ]
 }
