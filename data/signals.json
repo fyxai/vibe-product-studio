@@ -8,114 +8,59 @@
   "total_found": 957,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127081,
-      "forks": 14314,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T20:23:09Z",
-      "updated_at": "2026-07-09T21:21:02Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25775,
-      "forks": 1885,
-      "language": "Vue",
-      "pushed_at": "2026-07-09T21:20:23Z",
-      "updated_at": "2026-07-09T21:17:22Z"
-    },
-    {
-      "id": 1052845083,
-      "full_name": "danielmiessler/LifeOS",
-      "html_url": "https://github.com/danielmiessler/LifeOS",
-      "description": "An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
-      "stars": 16542,
-      "forks": 2257,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T20:58:34Z",
-      "updated_at": "2026-07-09T21:10:10Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15893,
-      "forks": 1579,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T19:54:31Z",
-      "updated_at": "2026-07-09T21:20:59Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44214,
+      "forks": 2786,
+      "language": "C#",
+      "pushed_at": "2026-07-10T01:11:39Z",
+      "updated_at": "2026-07-10T01:48:44Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8358,
+      "stars": 8369,
       "forks": 238,
       "language": "C++",
-      "pushed_at": "2026-07-09T20:55:35Z",
-      "updated_at": "2026-07-09T20:49:22Z"
+      "pushed_at": "2026-07-10T01:50:18Z",
+      "updated_at": "2026-07-10T01:57:23Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5741,
-      "forks": 757,
-      "language": "Swift",
-      "pushed_at": "2026-07-09T21:03:21Z",
-      "updated_at": "2026-07-09T20:23:22Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5383,
-      "forks": 635,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-09T20:04:23Z",
-      "updated_at": "2026-07-09T20:59:48Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3768,
-      "forks": 785,
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
+      "stars": 2015,
+      "forks": 135,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T19:45:12Z",
-      "updated_at": "2026-07-09T20:30:35Z"
+      "pushed_at": "2026-07-10T02:51:59Z",
+      "updated_at": "2026-07-10T02:52:03Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1883,
-      "forks": 129,
-      "language": "Go",
-      "pushed_at": "2026-07-09T20:45:38Z",
-      "updated_at": "2026-07-09T20:40:52Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 1287,
+      "forks": 62,
+      "language": "Rust",
+      "pushed_at": "2026-07-10T02:32:47Z",
+      "updated_at": "2026-07-10T02:32:49Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1212,
+      "stars": 1216,
       "forks": 76,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:07:56Z",
-      "updated_at": "2026-07-09T21:08:07Z"
+      "pushed_at": "2026-07-10T02:30:04Z",
+      "updated_at": "2026-07-10T02:30:10Z"
     },
     {
       "id": 1148683593,
@@ -125,8 +70,8 @@
       "stars": 943,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-09T21:20:14Z",
-      "updated_at": "2026-07-09T21:20:20Z"
+      "pushed_at": "2026-07-10T02:06:23Z",
+      "updated_at": "2026-07-10T02:06:27Z"
     },
     {
       "id": 549694131,
@@ -136,19 +81,19 @@
       "stars": 514,
       "forks": 94,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T20:59:52Z",
-      "updated_at": "2026-07-09T19:53:10Z"
+      "pushed_at": "2026-07-09T23:53:18Z",
+      "updated_at": "2026-07-09T23:38:02Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 372,
-      "forks": 38,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-09T20:05:42Z",
-      "updated_at": "2026-07-09T20:05:56Z"
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 322,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T02:28:17Z",
+      "updated_at": "2026-07-10T02:28:20Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +103,74 @@
       "stars": 316,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-07-09T19:40:25Z",
-      "updated_at": "2026-07-09T19:40:51Z"
+      "pushed_at": "2026-07-10T02:34:45Z",
+      "updated_at": "2026-07-10T02:34:49Z"
     },
     {
-      "id": 1140897918,
-      "full_name": "kbanc85/claudia",
-      "html_url": "https://github.com/kbanc85/claudia",
-      "description": "Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.",
-      "stars": 276,
-      "forks": 43,
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 309,
+      "forks": 17,
       "language": "Python",
-      "pushed_at": "2026-07-09T21:04:22Z",
-      "updated_at": "2026-07-09T20:08:00Z"
+      "pushed_at": "2026-07-10T02:07:36Z",
+      "updated_at": "2026-07-10T02:07:27Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
+      "stars": 188,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T01:34:15Z",
+      "updated_at": "2026-07-10T01:19:46Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 159,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T01:27:29Z",
+      "updated_at": "2026-07-10T01:27:33Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-10T00:06:15Z",
+      "updated_at": "2026-07-10T00:06:19Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-10T02:28:45Z",
+      "updated_at": "2026-07-10T02:28:49Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 140,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-10T01:48:11Z",
+      "updated_at": "2026-07-10T01:47:29Z"
     }
   ]
 }
