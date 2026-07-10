@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 957,
+  "total_found": 958,
   "items": [
     {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127125,
-      "forks": 14325,
+      "stars": 127136,
+      "forks": 14327,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T09:52:46Z",
-      "updated_at": "2026-07-10T10:40:14Z"
+      "pushed_at": "2026-07-10T13:12:03Z",
+      "updated_at": "2026-07-10T14:12:07Z"
     },
     {
       "id": 15315789,
@@ -26,41 +26,41 @@
       "stars": 27094,
       "forks": 2409,
       "language": "Go",
-      "pushed_at": "2026-07-10T10:07:24Z",
-      "updated_at": "2026-07-10T08:37:32Z"
+      "pushed_at": "2026-07-10T13:51:34Z",
+      "updated_at": "2026-07-10T13:52:48Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20534,
-      "forks": 1842,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T10:07:20Z",
-      "updated_at": "2026-07-10T10:08:19Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24308,
+      "forks": 2305,
+      "language": "Python",
+      "pushed_at": "2026-07-10T13:09:28Z",
+      "updated_at": "2026-07-10T13:50:35Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 15983,
-      "forks": 1592,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14256,
+      "forks": 966,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T10:09:47Z",
-      "updated_at": "2026-07-10T10:47:44Z"
+      "pushed_at": "2026-07-10T13:41:04Z",
+      "updated_at": "2026-07-10T13:43:02Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 13809,
-      "forks": 871,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T08:58:37Z",
-      "updated_at": "2026-07-10T09:34:47Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8395,
+      "forks": 239,
+      "language": "C++",
+      "pushed_at": "2026-07-10T14:14:38Z",
+      "updated_at": "2026-07-10T14:16:57Z"
     },
     {
       "id": 129699403,
@@ -70,19 +70,30 @@
       "stars": 5739,
       "forks": 757,
       "language": "Swift",
-      "pushed_at": "2026-07-10T10:49:35Z",
-      "updated_at": "2026-07-10T10:22:29Z"
+      "pushed_at": "2026-07-10T14:17:59Z",
+      "updated_at": "2026-07-10T13:48:09Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5497,
-      "forks": 860,
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1499,
+      "forks": 40,
+      "language": "Rust",
+      "pushed_at": "2026-07-10T12:54:28Z",
+      "updated_at": "2026-07-10T13:26:02Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
+      "stars": 1219,
+      "forks": 76,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T08:38:00Z",
-      "updated_at": "2026-07-10T09:44:32Z"
+      "pushed_at": "2026-07-10T13:08:36Z",
+      "updated_at": "2026-07-10T13:09:32Z"
     },
     {
       "id": 1148683593,
@@ -92,19 +103,30 @@
       "stars": 943,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-10T10:05:20Z",
-      "updated_at": "2026-07-10T10:05:47Z"
+      "pushed_at": "2026-07-10T13:36:59Z",
+      "updated_at": "2026-07-10T13:35:14Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 658,
-      "forks": 117,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-10T10:01:32Z",
-      "updated_at": "2026-07-10T09:34:24Z"
+      "id": 17773756,
+      "full_name": "getting-things-gnome/gtg",
+      "html_url": "https://github.com/getting-things-gnome/gtg",
+      "description": "Getting Things GNOME! desktop app development",
+      "stars": 603,
+      "forks": 176,
+      "language": "Python",
+      "pushed_at": "2026-07-10T14:19:38Z",
+      "updated_at": "2026-07-10T13:12:13Z"
+    },
+    {
+      "id": 1076571787,
+      "full_name": "huytieu/COG-second-brain",
+      "html_url": "https://github.com/huytieu/COG-second-brain",
+      "description": "Self-evolving second brain with 17 AI skills, 6 worker agents, and people CRM — inspired by Garry Tan's gstack and gbrain. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "stars": 585,
+      "forks": 76,
+      "language": "Shell",
+      "pushed_at": "2026-07-10T13:42:32Z",
+      "updated_at": "2026-07-10T13:43:21Z"
     },
     {
       "id": 1166865874,
@@ -114,8 +136,30 @@
       "stars": 316,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-07-10T09:29:44Z",
-      "updated_at": "2026-07-10T09:29:48Z"
+      "pushed_at": "2026-07-10T14:14:20Z",
+      "updated_at": "2026-07-10T14:17:01Z"
+    },
+    {
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 263,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-10T13:58:20Z",
+      "updated_at": "2026-07-10T13:59:53Z"
+    },
+    {
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 254,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-10T14:04:58Z",
+      "updated_at": "2026-07-10T14:07:18Z"
     },
     {
       "id": 1283323996,
@@ -125,52 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-10T10:19:27Z",
-      "updated_at": "2026-07-10T10:19:32Z"
-    },
-    {
-      "id": 1174381781,
-      "full_name": "eljulians/skillfile",
-      "html_url": "https://github.com/eljulians/skillfile",
-      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
-      "stars": 136,
-      "forks": 23,
-      "language": "Rust",
-      "pushed_at": "2026-07-10T09:25:47Z",
-      "updated_at": "2026-07-10T09:39:02Z"
-    },
-    {
-      "id": 1142492960,
-      "full_name": "st0012/cctop",
-      "html_url": "https://github.com/st0012/cctop",
-      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
-      "stars": 131,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-07-10T10:40:20Z",
-      "updated_at": "2026-07-10T10:41:07Z"
-    },
-    {
-      "id": 907938065,
-      "full_name": "TimMacy/YouTubeAlchemy",
-      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
-      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
-      "stars": 94,
-      "forks": 3,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-10T09:38:05Z",
-      "updated_at": "2026-07-10T09:38:25Z"
-    },
-    {
-      "id": 945536750,
-      "full_name": "georgeantonopoulos/Basecamp-MCP-Server",
-      "html_url": "https://github.com/georgeantonopoulos/Basecamp-MCP-Server",
-      "description": "MCP server for Basecamp 3 with OAuth, FastMCP, and 75 tools for projects, todos, messages, card tables, docs, uploads, and search.",
-      "stars": 89,
-      "forks": 40,
-      "language": "Python",
-      "pushed_at": "2026-07-10T10:00:38Z",
-      "updated_at": "2026-07-10T09:55:49Z"
+      "pushed_at": "2026-07-10T13:07:53Z",
+      "updated_at": "2026-07-10T13:08:48Z"
     }
   ]
 }
