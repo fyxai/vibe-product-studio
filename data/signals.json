@@ -8,59 +8,59 @@
   "total_found": 958,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127136,
-      "forks": 14327,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T13:12:03Z",
-      "updated_at": "2026-07-10T14:12:07Z"
-    },
-    {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27094,
-      "forks": 2409,
+      "stars": 27098,
+      "forks": 2410,
       "language": "Go",
-      "pushed_at": "2026-07-10T13:51:34Z",
-      "updated_at": "2026-07-10T13:52:48Z"
+      "pushed_at": "2026-07-10T16:34:41Z",
+      "updated_at": "2026-07-10T17:31:55Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24308,
-      "forks": 2305,
-      "language": "Python",
-      "pushed_at": "2026-07-10T13:09:28Z",
-      "updated_at": "2026-07-10T13:50:35Z"
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 25790,
+      "forks": 1888,
+      "language": "Vue",
+      "pushed_at": "2026-07-10T17:09:46Z",
+      "updated_at": "2026-07-10T17:42:33Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14256,
-      "forks": 966,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20541,
+      "forks": 1842,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T13:41:04Z",
-      "updated_at": "2026-07-10T13:43:02Z"
+      "pushed_at": "2026-07-10T17:08:46Z",
+      "updated_at": "2026-07-10T17:08:27Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8395,
-      "forks": 239,
-      "language": "C++",
-      "pushed_at": "2026-07-10T14:14:38Z",
-      "updated_at": "2026-07-10T14:16:57Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16036,
+      "forks": 1595,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T17:37:36Z",
+      "updated_at": "2026-07-10T17:33:06Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6470,
+      "forks": 140,
+      "language": "Swift",
+      "pushed_at": "2026-07-10T15:54:19Z",
+      "updated_at": "2026-07-10T15:53:28Z"
     },
     {
       "id": 129699403,
@@ -70,30 +70,52 @@
       "stars": 5739,
       "forks": 757,
       "language": "Swift",
-      "pushed_at": "2026-07-10T14:17:59Z",
-      "updated_at": "2026-07-10T13:48:09Z"
+      "pushed_at": "2026-07-10T17:45:57Z",
+      "updated_at": "2026-07-10T17:21:15Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1499,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-07-10T12:54:28Z",
-      "updated_at": "2026-07-10T13:26:02Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2113,
+      "forks": 76,
+      "language": "Swift",
+      "pushed_at": "2026-07-10T16:01:32Z",
+      "updated_at": "2026-07-10T16:03:26Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 2109,
+      "forks": 209,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T17:44:20Z",
+      "updated_at": "2026-07-10T17:38:27Z"
+    },
+    {
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1530,
+      "forks": 80,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T16:49:59Z",
+      "updated_at": "2026-07-10T16:50:10Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1219,
+      "stars": 1221,
       "forks": 76,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T13:08:36Z",
-      "updated_at": "2026-07-10T13:09:32Z"
+      "pushed_at": "2026-07-10T17:22:22Z",
+      "updated_at": "2026-07-10T17:37:39Z"
     },
     {
       "id": 1148683593,
@@ -103,74 +125,52 @@
       "stars": 943,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-10T13:36:59Z",
-      "updated_at": "2026-07-10T13:35:14Z"
+      "pushed_at": "2026-07-10T16:24:47Z",
+      "updated_at": "2026-07-10T16:25:47Z"
     },
     {
-      "id": 17773756,
-      "full_name": "getting-things-gnome/gtg",
-      "html_url": "https://github.com/getting-things-gnome/gtg",
-      "description": "Getting Things GNOME! desktop app development",
-      "stars": 603,
-      "forks": 176,
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 513,
+      "forks": 63,
+      "language": "Swift",
+      "pushed_at": "2026-07-10T17:02:24Z",
+      "updated_at": "2026-07-10T17:02:37Z"
+    },
+    {
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 486,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T16:32:24Z",
+      "updated_at": "2026-07-10T16:33:42Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 431,
+      "forks": 119,
       "language": "Python",
-      "pushed_at": "2026-07-10T14:19:38Z",
-      "updated_at": "2026-07-10T13:12:13Z"
+      "pushed_at": "2026-07-10T16:14:16Z",
+      "updated_at": "2026-07-10T16:58:02Z"
     },
     {
-      "id": 1076571787,
-      "full_name": "huytieu/COG-second-brain",
-      "html_url": "https://github.com/huytieu/COG-second-brain",
-      "description": "Self-evolving second brain with 17 AI skills, 6 worker agents, and people CRM — inspired by Garry Tan's gstack and gbrain. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
-      "stars": 585,
-      "forks": 76,
-      "language": "Shell",
-      "pushed_at": "2026-07-10T13:42:32Z",
-      "updated_at": "2026-07-10T13:43:21Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-07-10T14:14:20Z",
-      "updated_at": "2026-07-10T14:17:01Z"
-    },
-    {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 263,
-      "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-07-10T13:58:20Z",
-      "updated_at": "2026-07-10T13:59:53Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 254,
-      "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-07-10T14:04:58Z",
-      "updated_at": "2026-07-10T14:07:18Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-10T13:07:53Z",
-      "updated_at": "2026-07-10T13:08:48Z"
+      "pushed_at": "2026-07-10T16:57:35Z",
+      "updated_at": "2026-07-10T16:58:16Z"
     }
   ]
 }
