@@ -5,139 +5,117 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 958,
+  "total_found": 957,
   "items": [
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 127125,
+      "forks": 14325,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T09:52:46Z",
+      "updated_at": "2026-07-10T10:40:14Z"
+    },
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27094,
+      "forks": 2409,
+      "language": "Go",
+      "pushed_at": "2026-07-10T10:07:24Z",
+      "updated_at": "2026-07-10T08:37:32Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20534,
+      "forks": 1842,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T10:07:20Z",
+      "updated_at": "2026-07-10T10:08:19Z"
+    },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 15969,
-      "forks": 1591,
+      "stars": 15983,
+      "forks": 1592,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T06:32:29Z",
-      "updated_at": "2026-07-10T07:33:22Z"
+      "pushed_at": "2026-07-10T10:09:47Z",
+      "updated_at": "2026-07-10T10:47:44Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 13802,
-      "forks": 870,
+      "stars": 13809,
+      "forks": 871,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T06:44:07Z",
-      "updated_at": "2026-07-10T07:13:20Z"
-    },
-    {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8605,
-      "forks": 945,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T06:48:14Z",
-      "updated_at": "2026-07-10T06:40:57Z"
+      "pushed_at": "2026-07-10T08:58:37Z",
+      "updated_at": "2026-07-10T09:34:47Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5740,
+      "stars": 5739,
       "forks": 757,
       "language": "Swift",
-      "pushed_at": "2026-07-10T07:24:14Z",
-      "updated_at": "2026-07-10T07:14:37Z"
+      "pushed_at": "2026-07-10T10:49:35Z",
+      "updated_at": "2026-07-10T10:22:29Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5496,
+      "stars": 5497,
       "forks": 860,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:29:26Z",
-      "updated_at": "2026-07-10T06:48:53Z"
+      "pushed_at": "2026-07-10T08:38:00Z",
+      "updated_at": "2026-07-10T09:44:32Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 760,
-      "forks": 39,
-      "language": "C#",
-      "pushed_at": "2026-07-10T05:36:22Z",
-      "updated_at": "2026-07-10T07:29:13Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 943,
+      "forks": 30,
+      "language": "Rust",
+      "pushed_at": "2026-07-10T10:05:20Z",
+      "updated_at": "2026-07-10T10:05:47Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 664,
-      "forks": 54,
-      "language": "Swift",
-      "pushed_at": "2026-07-10T06:45:47Z",
-      "updated_at": "2026-07-10T06:46:02Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 658,
+      "forks": 117,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T10:01:32Z",
+      "updated_at": "2026-07-10T09:34:24Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 322,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:26:37Z",
-      "updated_at": "2026-07-10T07:26:52Z"
-    },
-    {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
-      "stars": 310,
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
       "forks": 16,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:28:42Z",
-      "updated_at": "2026-07-10T07:28:51Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 232,
-      "forks": 57,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-10T06:51:58Z",
-      "updated_at": "2026-07-10T06:52:06Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 190,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T06:46:27Z",
-      "updated_at": "2026-07-10T07:03:03Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-10T06:51:41Z",
-      "updated_at": "2026-07-10T06:51:43Z"
+      "language": "Shell",
+      "pushed_at": "2026-07-10T09:29:44Z",
+      "updated_at": "2026-07-10T09:29:48Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +125,52 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-10T06:38:58Z",
-      "updated_at": "2026-07-10T06:39:04Z"
+      "pushed_at": "2026-07-10T10:19:27Z",
+      "updated_at": "2026-07-10T10:19:32Z"
     },
     {
-      "id": 452405275,
-      "full_name": "jrgilbertson/networked-thinking",
-      "html_url": "https://github.com/jrgilbertson/networked-thinking",
-      "description": "This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.",
-      "stars": 145,
-      "forks": 16,
-      "language": "Unknown",
-      "pushed_at": "2026-07-10T05:11:27Z",
-      "updated_at": "2026-07-10T05:11:17Z"
+      "id": 1174381781,
+      "full_name": "eljulians/skillfile",
+      "html_url": "https://github.com/eljulians/skillfile",
+      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
+      "stars": 136,
+      "forks": 23,
+      "language": "Rust",
+      "pushed_at": "2026-07-10T09:25:47Z",
+      "updated_at": "2026-07-10T09:39:02Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 140,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-10T06:31:58Z",
-      "updated_at": "2026-07-10T06:31:18Z"
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 131,
+      "forks": 19,
+      "language": "Swift",
+      "pushed_at": "2026-07-10T10:40:20Z",
+      "updated_at": "2026-07-10T10:41:07Z"
+    },
+    {
+      "id": 907938065,
+      "full_name": "TimMacy/YouTubeAlchemy",
+      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
+      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
+      "stars": 94,
+      "forks": 3,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T09:38:05Z",
+      "updated_at": "2026-07-10T09:38:25Z"
+    },
+    {
+      "id": 945536750,
+      "full_name": "georgeantonopoulos/Basecamp-MCP-Server",
+      "html_url": "https://github.com/georgeantonopoulos/Basecamp-MCP-Server",
+      "description": "MCP server for Basecamp 3 with OAuth, FastMCP, and 75 tools for projects, todos, messages, card tables, docs, uploads, and search.",
+      "stars": 89,
+      "forks": 40,
+      "language": "Python",
+      "pushed_at": "2026-07-10T10:00:38Z",
+      "updated_at": "2026-07-10T09:55:49Z"
     }
   ]
 }
