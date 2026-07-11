@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 960,
+  "total_found": 961,
   "items": [
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16092,
-      "forks": 1598,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 127192,
+      "forks": 14335,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T05:43:42Z",
-      "updated_at": "2026-07-11T06:10:26Z"
+      "pushed_at": "2026-07-11T08:21:43Z",
+      "updated_at": "2026-07-11T09:08:33Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 13836,
-      "forks": 873,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20551,
+      "forks": 1843,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T05:56:15Z",
-      "updated_at": "2026-07-11T05:57:35Z"
+      "pushed_at": "2026-07-11T09:01:03Z",
+      "updated_at": "2026-07-11T09:08:54Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6471,
-      "forks": 140,
-      "language": "Swift",
-      "pushed_at": "2026-07-11T03:04:26Z",
-      "updated_at": "2026-07-11T06:00:36Z"
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1502,
+      "forks": 40,
+      "language": "Rust",
+      "pushed_at": "2026-07-11T08:10:54Z",
+      "updated_at": "2026-07-11T09:04:07Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5739,
-      "forks": 757,
-      "language": "Swift",
-      "pushed_at": "2026-07-11T05:52:05Z",
-      "updated_at": "2026-07-11T05:52:11Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5391,
-      "forks": 635,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-11T05:46:23Z",
-      "updated_at": "2026-07-11T05:51:13Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Free, open-source Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1224,
-      "forks": 75,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T05:44:48Z",
-      "updated_at": "2026-07-11T05:44:52Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1174,
+      "forks": 210,
+      "language": "HTML",
+      "pushed_at": "2026-07-11T07:20:11Z",
+      "updated_at": "2026-07-11T09:11:48Z"
     },
     {
       "id": 1148683593,
@@ -79,10 +57,76 @@
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "stars": 947,
-      "forks": 30,
+      "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-07-11T05:46:28Z",
-      "updated_at": "2026-07-11T05:46:32Z"
+      "pushed_at": "2026-07-11T09:13:32Z",
+      "updated_at": "2026-07-11T09:13:51Z"
+    },
+    {
+      "id": 500278038,
+      "full_name": "Pool-Of-Tears/GreenStash",
+      "html_url": "https://github.com/Pool-Of-Tears/GreenStash",
+      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
+      "stars": 777,
+      "forks": 69,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-11T08:52:15Z",
+      "updated_at": "2026-07-11T08:52:21Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 776,
+      "forks": 40,
+      "language": "C#",
+      "pushed_at": "2026-07-11T09:19:48Z",
+      "updated_at": "2026-07-11T09:19:53Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 431,
+      "forks": 119,
+      "language": "Python",
+      "pushed_at": "2026-07-11T08:35:15Z",
+      "updated_at": "2026-07-11T08:33:50Z"
+    },
+    {
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 354,
+      "forks": 22,
+      "language": "Swift",
+      "pushed_at": "2026-07-11T09:19:18Z",
+      "updated_at": "2026-07-11T09:19:39Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 16,
+      "language": "Shell",
+      "pushed_at": "2026-07-11T07:51:04Z",
+      "updated_at": "2026-07-11T07:51:16Z"
+    },
+    {
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 275,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T08:59:16Z",
+      "updated_at": "2026-07-11T08:59:26Z"
     },
     {
       "id": 1147139359,
@@ -92,52 +136,8 @@
       "stars": 263,
       "forks": 13,
       "language": "Go",
-      "pushed_at": "2026-07-11T03:59:08Z",
-      "updated_at": "2026-07-11T03:59:11Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 205,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-07-11T05:40:18Z",
-      "updated_at": "2026-07-11T05:40:25Z"
-    },
-    {
-      "id": 1269285813,
-      "full_name": "SoCkEt7/Livediff",
-      "html_url": "https://github.com/SoCkEt7/Livediff",
-      "description": "⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.",
-      "stars": 200,
-      "forks": 5,
-      "language": "Rust",
-      "pushed_at": "2026-07-11T02:55:48Z",
-      "updated_at": "2026-07-11T02:28:36Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 190,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T03:31:39Z",
-      "updated_at": "2026-07-11T02:42:41Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 181,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-11T05:59:17Z",
-      "updated_at": "2026-07-11T05:59:20Z"
+      "pushed_at": "2026-07-11T08:12:49Z",
+      "updated_at": "2026-07-11T08:12:55Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +147,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-11T03:33:24Z",
-      "updated_at": "2026-07-11T03:33:27Z"
+      "pushed_at": "2026-07-11T08:48:51Z",
+      "updated_at": "2026-07-11T08:49:00Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +158,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-11T04:08:47Z",
-      "updated_at": "2026-07-11T04:08:51Z"
+      "pushed_at": "2026-07-11T09:22:26Z",
+      "updated_at": "2026-07-11T09:22:29Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. MIT open source.",
-      "stars": 139,
-      "forks": 8,
-      "language": "C#",
-      "pushed_at": "2026-07-11T03:51:36Z",
-      "updated_at": "2026-07-11T03:54:51Z"
+      "id": 1142492960,
+      "full_name": "st0012/cctop",
+      "html_url": "https://github.com/st0012/cctop",
+      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
+      "stars": 131,
+      "forks": 19,
+      "language": "Swift",
+      "pushed_at": "2026-07-11T09:24:03Z",
+      "updated_at": "2026-07-11T09:24:09Z"
     }
   ]
 }
