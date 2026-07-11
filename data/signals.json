@@ -5,40 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 958,
+  "total_found": 960,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38585,
-      "forks": 3839,
-      "language": "C#",
-      "pushed_at": "2026-07-11T02:15:24Z",
-      "updated_at": "2026-07-11T02:15:28Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16092,
+      "forks": 1598,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T05:43:42Z",
+      "updated_at": "2026-07-11T06:10:26Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5500,
-      "forks": 860,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 13836,
+      "forks": 873,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T00:57:24Z",
-      "updated_at": "2026-07-11T01:58:33Z"
+      "pushed_at": "2026-07-11T05:56:15Z",
+      "updated_at": "2026-07-11T05:57:35Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6471,
+      "forks": 140,
+      "language": "Swift",
+      "pushed_at": "2026-07-11T03:04:26Z",
+      "updated_at": "2026-07-11T06:00:36Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5739,
+      "forks": 757,
+      "language": "Swift",
+      "pushed_at": "2026-07-11T05:52:05Z",
+      "updated_at": "2026-07-11T05:52:11Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5391,
+      "forks": 635,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-11T05:46:23Z",
+      "updated_at": "2026-07-11T05:51:13Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-      "stars": 1222,
+      "description": "Get every task and idea out of your head, then see the next thing to do. Free, open-source Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1224,
       "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T01:50:34Z",
-      "updated_at": "2026-07-11T02:08:14Z"
+      "pushed_at": "2026-07-11T05:44:48Z",
+      "updated_at": "2026-07-11T05:44:52Z"
     },
     {
       "id": 1148683593,
@@ -48,96 +81,30 @@
       "stars": 947,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-11T01:59:43Z",
-      "updated_at": "2026-07-11T01:59:47Z"
+      "pushed_at": "2026-07-11T05:46:28Z",
+      "updated_at": "2026-07-11T05:46:32Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 879,
-      "forks": 50,
-      "language": "Swift",
-      "pushed_at": "2026-07-11T01:07:06Z",
-      "updated_at": "2026-07-11T00:52:03Z"
+      "id": 1147139359,
+      "full_name": "openbootdotdev/openboot",
+      "html_url": "https://github.com/openbootdotdev/openboot",
+      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
+      "stars": 263,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-11T03:59:08Z",
+      "updated_at": "2026-07-11T03:59:11Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 784,
-      "forks": 81,
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 205,
+      "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-07-11T01:53:49Z",
-      "updated_at": "2026-07-11T01:53:54Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 431,
-      "forks": 119,
-      "language": "Python",
-      "pushed_at": "2026-07-11T00:27:18Z",
-      "updated_at": "2026-07-11T00:25:52Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 322,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T02:24:55Z",
-      "updated_at": "2026-07-11T02:24:59Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T00:53:32Z",
-      "updated_at": "2026-07-11T00:53:35Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-07-11T02:12:23Z",
-      "updated_at": "2026-07-11T02:12:27Z"
-    },
-    {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 312,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-07-11T02:04:06Z",
-      "updated_at": "2026-07-11T02:16:23Z"
-    },
-    {
-      "id": 1084630267,
-      "full_name": "jemishavasoya/dev-cleaner",
-      "html_url": "https://github.com/jemishavasoya/dev-cleaner",
-      "description": "One-click CLI utility to safely clear 50GB+ of developer cache bloat. Cleans Xcode DerivedData, Flutter build caches, Android Gradle, npm/node_modules, and IDE temp files on macOS, Linux, and Windows.",
-      "stars": 306,
-      "forks": 42,
-      "language": "Shell",
-      "pushed_at": "2026-07-11T00:08:18Z",
-      "updated_at": "2026-07-11T00:08:22Z"
+      "pushed_at": "2026-07-11T05:40:18Z",
+      "updated_at": "2026-07-11T05:40:25Z"
     },
     {
       "id": 1269285813,
@@ -147,30 +114,63 @@
       "stars": 200,
       "forks": 5,
       "language": "Rust",
-      "pushed_at": "2026-07-11T02:28:33Z",
+      "pushed_at": "2026-07-11T02:55:48Z",
       "updated_at": "2026-07-11T02:28:36Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
+      "stars": 190,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T03:31:39Z",
+      "updated_at": "2026-07-11T02:42:41Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-11T05:59:17Z",
+      "updated_at": "2026-07-11T05:59:20Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-11T03:33:24Z",
+      "updated_at": "2026-07-11T03:33:27Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-11T04:08:47Z",
+      "updated_at": "2026-07-11T04:08:51Z"
     },
     {
       "id": 1266135511,
       "full_name": "Tianyu199509/DeskBox",
       "html_url": "https://github.com/Tianyu199509/DeskBox",
       "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. MIT open source.",
-      "stars": 138,
+      "stars": 139,
       "forks": 8,
       "language": "C#",
-      "pushed_at": "2026-07-11T01:43:06Z",
-      "updated_at": "2026-07-11T01:43:10Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 100,
-      "forks": 5,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-11T02:14:21Z",
-      "updated_at": "2026-07-11T02:14:22Z"
+      "pushed_at": "2026-07-11T03:51:36Z",
+      "updated_at": "2026-07-11T03:54:51Z"
     }
   ]
 }
