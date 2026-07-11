@@ -8,103 +8,114 @@
   "total_found": 961,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127192,
-      "forks": 14335,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T08:21:43Z",
-      "updated_at": "2026-07-11T09:08:33Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20551,
-      "forks": 1843,
+      "stars": 20557,
+      "forks": 1845,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T09:01:03Z",
-      "updated_at": "2026-07-11T09:08:54Z"
+      "pushed_at": "2026-07-11T11:33:46Z",
+      "updated_at": "2026-07-11T12:57:03Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1502,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-07-11T08:10:54Z",
-      "updated_at": "2026-07-11T09:04:07Z"
+      "id": 307192103,
+      "full_name": "swiftbar/SwiftBar",
+      "html_url": "https://github.com/swiftbar/SwiftBar",
+      "description": "Powerful macOS menu bar customization tool",
+      "stars": 4260,
+      "forks": 127,
+      "language": "Swift",
+      "pushed_at": "2026-07-11T13:14:15Z",
+      "updated_at": "2026-07-11T13:14:20Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1174,
-      "forks": 210,
-      "language": "HTML",
-      "pushed_at": "2026-07-11T07:20:11Z",
-      "updated_at": "2026-07-11T09:11:48Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1884,
+      "forks": 129,
+      "language": "Go",
+      "pushed_at": "2026-07-11T13:10:56Z",
+      "updated_at": "2026-07-11T13:06:21Z"
+    },
+    {
+      "id": 348310601,
+      "full_name": "gruntwork-io/git-xargs",
+      "html_url": "https://github.com/gruntwork-io/git-xargs",
+      "description": "git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command. ",
+      "stars": 1111,
+      "forks": 73,
+      "language": "Go",
+      "pushed_at": "2026-07-11T12:04:50Z",
+      "updated_at": "2026-07-11T12:03:48Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 947,
+      "stars": 948,
       "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-07-11T09:13:32Z",
-      "updated_at": "2026-07-11T09:13:51Z"
-    },
-    {
-      "id": 500278038,
-      "full_name": "Pool-Of-Tears/GreenStash",
-      "html_url": "https://github.com/Pool-Of-Tears/GreenStash",
-      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
-      "stars": 777,
-      "forks": 69,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-11T08:52:15Z",
-      "updated_at": "2026-07-11T08:52:21Z"
+      "pushed_at": "2026-07-11T12:26:32Z",
+      "updated_at": "2026-07-11T12:26:43Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 776,
+      "stars": 780,
       "forks": 40,
       "language": "C#",
-      "pushed_at": "2026-07-11T09:19:48Z",
-      "updated_at": "2026-07-11T09:19:53Z"
+      "pushed_at": "2026-07-11T12:44:18Z",
+      "updated_at": "2026-07-11T13:08:10Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 431,
-      "forks": 119,
-      "language": "Python",
-      "pushed_at": "2026-07-11T08:35:15Z",
-      "updated_at": "2026-07-11T08:33:50Z"
-    },
-    {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 354,
-      "forks": 22,
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 670,
+      "forks": 54,
       "language": "Swift",
-      "pushed_at": "2026-07-11T09:19:18Z",
-      "updated_at": "2026-07-11T09:19:39Z"
+      "pushed_at": "2026-07-11T12:49:36Z",
+      "updated_at": "2026-07-11T12:50:26Z"
+    },
+    {
+      "id": 1175591394,
+      "full_name": "juyterman1000/entroly",
+      "html_url": "https://github.com/juyterman1000/entroly",
+      "description": "Local context-control plane for AI coding agents: select evidence, compress recoverably, keep caches hot, and verify answers. MCP/proxy/SDK for Cursor, Claude Code, Codex, and Aider.",
+      "stars": 419,
+      "forks": 66,
+      "language": "Python",
+      "pushed_at": "2026-07-11T11:20:16Z",
+      "updated_at": "2026-07-11T12:45:52Z"
+    },
+    {
+      "id": 205456978,
+      "full_name": "j3soon/arxiv-utils",
+      "html_url": "https://github.com/j3soon/arxiv-utils",
+      "description": "Meaningful titles for tabs and PDF downloads! Also supports tab search.",
+      "stars": 360,
+      "forks": 28,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-11T12:56:08Z",
+      "updated_at": "2026-07-11T12:56:12Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 322,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T12:16:34Z",
+      "updated_at": "2026-07-11T12:16:38Z"
     },
     {
       "id": 1166865874,
@@ -114,30 +125,41 @@
       "stars": 316,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-07-11T07:51:04Z",
-      "updated_at": "2026-07-11T07:51:16Z"
+      "pushed_at": "2026-07-11T13:10:26Z",
+      "updated_at": "2026-07-11T13:10:38Z"
     },
     {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 275,
-      "forks": 12,
+      "id": 273746082,
+      "full_name": "mateusfg7/Noisekun",
+      "html_url": "https://github.com/mateusfg7/Noisekun",
+      "description": ":headphones: Web page for listen combinations of sounds for relax, sleep, or getting more productive on tasks.",
+      "stars": 279,
+      "forks": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T08:59:16Z",
-      "updated_at": "2026-07-11T08:59:26Z"
+      "pushed_at": "2026-07-11T11:43:14Z",
+      "updated_at": "2026-07-11T11:43:18Z"
     },
     {
-      "id": 1147139359,
-      "full_name": "openbootdotdev/openboot",
-      "html_url": "https://github.com/openbootdotdev/openboot",
-      "description": "Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing",
-      "stars": 263,
-      "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-07-11T08:12:49Z",
-      "updated_at": "2026-07-11T08:12:55Z"
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-11T11:48:24Z",
+      "updated_at": "2026-07-11T11:48:29Z"
+    },
+    {
+      "id": 1132684547,
+      "full_name": "BuildWithAIs/voicekey",
+      "html_url": "https://github.com/BuildWithAIs/voicekey",
+      "description": "Voice to text, one key to input.",
+      "stars": 174,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T12:19:19Z",
+      "updated_at": "2026-07-11T12:19:30Z"
     },
     {
       "id": 1283327964,
@@ -147,30 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-11T08:48:51Z",
-      "updated_at": "2026-07-11T08:49:00Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-11T09:22:26Z",
-      "updated_at": "2026-07-11T09:22:29Z"
-    },
-    {
-      "id": 1142492960,
-      "full_name": "st0012/cctop",
-      "html_url": "https://github.com/st0012/cctop",
-      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
-      "stars": 131,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-07-11T09:24:03Z",
-      "updated_at": "2026-07-11T09:24:09Z"
+      "pushed_at": "2026-07-11T11:54:21Z",
+      "updated_at": "2026-07-11T11:54:25Z"
     }
   ]
 }
