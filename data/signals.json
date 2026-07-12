@@ -12,77 +12,55 @@
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38608,
-      "forks": 3844,
+      "stars": 38607,
+      "forks": 3845,
       "language": "C#",
-      "pushed_at": "2026-07-11T19:40:21Z",
-      "updated_at": "2026-07-11T19:40:35Z"
+      "pushed_at": "2026-07-12T02:03:35Z",
+      "updated_at": "2026-07-12T02:22:23Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20562,
-      "forks": 1844,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 33307,
+      "forks": 3604,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T19:34:52Z",
-      "updated_at": "2026-07-11T19:44:21Z"
+      "pushed_at": "2026-07-12T00:10:12Z",
+      "updated_at": "2026-07-12T02:29:25Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 13858,
-      "forks": 873,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T19:13:52Z",
-      "updated_at": "2026-07-11T20:11:32Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8418,
-      "forks": 240,
-      "language": "C++",
-      "pushed_at": "2026-07-11T18:20:51Z",
-      "updated_at": "2026-07-11T19:55:34Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5740,
-      "forks": 757,
+      "id": 307192103,
+      "full_name": "swiftbar/SwiftBar",
+      "html_url": "https://github.com/swiftbar/SwiftBar",
+      "description": "Powerful macOS menu bar customization tool",
+      "stars": 4262,
+      "forks": 127,
       "language": "Swift",
-      "pushed_at": "2026-07-11T19:24:59Z",
-      "updated_at": "2026-07-11T20:10:30Z"
+      "pushed_at": "2026-07-12T01:41:06Z",
+      "updated_at": "2026-07-12T01:40:27Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2280,
-      "forks": 91,
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2117,
+      "forks": 76,
       "language": "Swift",
-      "pushed_at": "2026-07-11T18:19:10Z",
-      "updated_at": "2026-07-11T18:15:37Z"
+      "pushed_at": "2026-07-12T02:38:16Z",
+      "updated_at": "2026-07-12T02:38:20Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1886,
-      "forks": 130,
-      "language": "Go",
-      "pushed_at": "2026-07-11T20:05:56Z",
-      "updated_at": "2026-07-11T19:47:39Z"
+      "id": 340433391,
+      "full_name": "amebalabs/TRex",
+      "html_url": "https://github.com/amebalabs/TRex",
+      "description": "Copy any text on your screen, stop retyping.",
+      "stars": 1852,
+      "forks": 61,
+      "language": "Swift",
+      "pushed_at": "2026-07-12T00:46:23Z",
+      "updated_at": "2026-07-12T00:46:26Z"
     },
     {
       "id": 860188605,
@@ -92,41 +70,52 @@
       "stars": 1288,
       "forks": 61,
       "language": "Rust",
-      "pushed_at": "2026-07-11T18:50:06Z",
-      "updated_at": "2026-07-11T18:50:19Z"
+      "pushed_at": "2026-07-12T01:50:50Z",
+      "updated_at": "2026-07-12T01:50:52Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 783,
-      "forks": 41,
-      "language": "C#",
-      "pushed_at": "2026-07-11T20:28:18Z",
-      "updated_at": "2026-07-11T20:28:22Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1228,
+      "forks": 75,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-12T02:27:00Z",
+      "updated_at": "2026-07-12T02:27:04Z"
     },
     {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 651,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-07-11T19:11:09Z",
-      "updated_at": "2026-07-11T19:51:42Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 431,
-      "forks": 119,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 784,
+      "forks": 81,
       "language": "Python",
-      "pushed_at": "2026-07-11T20:02:22Z",
-      "updated_at": "2026-07-11T20:00:57Z"
+      "pushed_at": "2026-07-12T02:03:09Z",
+      "updated_at": "2026-07-12T02:03:14Z"
+    },
+    {
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 672,
+      "forks": 54,
+      "language": "Swift",
+      "pushed_at": "2026-07-12T02:11:35Z",
+      "updated_at": "2026-07-12T02:11:39Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
+      "stars": 442,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-12T02:31:08Z",
+      "updated_at": "2026-07-12T02:31:12Z"
     },
     {
       "id": 1175591394,
@@ -136,8 +125,19 @@
       "stars": 420,
       "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-07-11T20:44:31Z",
-      "updated_at": "2026-07-11T20:43:53Z"
+      "pushed_at": "2026-07-12T02:06:50Z",
+      "updated_at": "2026-07-12T01:17:25Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made in Viet Nam ",
+      "stars": 418,
+      "forks": 30,
+      "language": "Rust",
+      "pushed_at": "2026-07-12T02:38:22Z",
+      "updated_at": "2026-07-12T02:32:50Z"
     },
     {
       "id": 1030039430,
@@ -147,8 +147,8 @@
       "stars": 322,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T18:57:52Z",
-      "updated_at": "2026-07-11T18:57:56Z"
+      "pushed_at": "2026-07-12T02:13:42Z",
+      "updated_at": "2026-07-12T02:13:45Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +158,19 @@
       "stars": 316,
       "forks": 16,
       "language": "Shell",
-      "pushed_at": "2026-07-11T18:57:34Z",
-      "updated_at": "2026-07-11T18:57:38Z"
+      "pushed_at": "2026-07-12T02:16:19Z",
+      "updated_at": "2026-07-12T02:16:23Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 206,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-07-11T18:24:33Z",
-      "updated_at": "2026-07-11T19:21:51Z"
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
+      "stars": 190,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-12T02:28:16Z",
+      "updated_at": "2026-07-12T02:27:51Z"
     }
   ]
 }
