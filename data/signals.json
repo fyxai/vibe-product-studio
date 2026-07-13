@@ -8,81 +8,59 @@
   "total_found": 964,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 40239,
-      "forks": 933,
-      "language": "Rust",
-      "pushed_at": "2026-07-13T01:22:35Z",
-      "updated_at": "2026-07-13T02:03:14Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38617,
-      "forks": 3847,
-      "language": "C#",
-      "pushed_at": "2026-07-13T01:11:18Z",
-      "updated_at": "2026-07-13T02:38:29Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 229024,
+      "forks": 35111,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-13T04:55:50Z",
+      "updated_at": "2026-07-13T06:49:13Z"
     },
     {
       "id": 1052845083,
       "full_name": "danielmiessler/LifeOS",
       "html_url": "https://github.com/danielmiessler/LifeOS",
       "description": "An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
-      "stars": 16638,
+      "stars": 16644,
       "forks": 2270,
       "language": "TypeScript",
-      "pushed_at": "2026-07-13T01:05:04Z",
-      "updated_at": "2026-07-13T01:23:28Z"
+      "pushed_at": "2026-07-13T04:56:20Z",
+      "updated_at": "2026-07-13T06:19:09Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16283,
+      "forks": 1617,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-13T06:04:29Z",
+      "updated_at": "2026-07-13T06:43:31Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 13920,
+      "stars": 13944,
       "forks": 879,
       "language": "TypeScript",
-      "pushed_at": "2026-07-13T02:39:28Z",
-      "updated_at": "2026-07-13T02:22:00Z"
+      "pushed_at": "2026-07-13T06:42:16Z",
+      "updated_at": "2026-07-13T06:48:19Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11598,
-      "forks": 1431,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-13T00:55:23Z",
-      "updated_at": "2026-07-13T00:55:27Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8434,
-      "forks": 241,
-      "language": "C++",
-      "pushed_at": "2026-07-13T01:08:07Z",
-      "updated_at": "2026-07-13T02:34:38Z"
-    },
-    {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4475,
-      "forks": 955,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-13T01:47:42Z",
-      "updated_at": "2026-07-13T01:47:49Z"
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1576,
+      "forks": 99,
+      "language": "Rust",
+      "pushed_at": "2026-07-13T04:27:39Z",
+      "updated_at": "2026-07-13T04:27:44Z"
     },
     {
       "id": 1111978380,
@@ -90,65 +68,65 @@
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
       "stars": 1229,
-      "forks": 75,
+      "forks": 77,
       "language": "TypeScript",
-      "pushed_at": "2026-07-13T01:44:21Z",
-      "updated_at": "2026-07-13T02:14:44Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 804,
-      "forks": 41,
-      "language": "C#",
-      "pushed_at": "2026-07-13T00:46:40Z",
-      "updated_at": "2026-07-13T00:59:11Z"
-    },
-    {
-      "id": 1175591394,
-      "full_name": "juyterman1000/entroly",
-      "html_url": "https://github.com/juyterman1000/entroly",
-      "description": "Local context-control plane for AI coding agents: select evidence, compress recoverably, keep caches hot, and verify answers. MCP/proxy/SDK for Cursor, Claude Code, Codex, and Aider.",
-      "stars": 420,
-      "forks": 66,
-      "language": "Python",
-      "pushed_at": "2026-07-13T02:38:26Z",
-      "updated_at": "2026-07-13T02:04:24Z"
+      "pushed_at": "2026-07-13T06:31:52Z",
+      "updated_at": "2026-07-13T06:31:56Z"
     },
     {
       "id": 1201098277,
       "full_name": "kunkka19xx/look",
       "html_url": "https://github.com/kunkka19xx/look",
       "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 419,
+      "stars": 420,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-13T00:35:48Z",
-      "updated_at": "2026-07-13T00:35:48Z"
+      "pushed_at": "2026-07-13T05:58:21Z",
+      "updated_at": "2026-07-13T05:58:26Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 16,
-      "language": "Shell",
-      "pushed_at": "2026-07-13T02:17:26Z",
-      "updated_at": "2026-07-13T02:17:30Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 191,
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 323,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-13T01:52:59Z",
-      "updated_at": "2026-07-13T01:50:38Z"
+      "pushed_at": "2026-07-13T04:25:46Z",
+      "updated_at": "2026-07-13T04:25:49Z"
+    },
+    {
+      "id": 1294906179,
+      "full_name": "change-42-yhmm/quota-float",
+      "html_url": "https://github.com/change-42-yhmm/quota-float",
+      "description": "A plug-in for easy viewing of credit limits",
+      "stars": 201,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-13T06:42:35Z",
+      "updated_at": "2026-07-13T06:49:22Z"
+    },
+    {
+      "id": 1246532319,
+      "full_name": "ayushh0110/ScreenMind",
+      "html_url": "https://github.com/ayushh0110/ScreenMind",
+      "description": " AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
+      "stars": 185,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-07-13T05:19:54Z",
+      "updated_at": "2026-07-13T06:26:28Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 181,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-13T06:37:53Z",
+      "updated_at": "2026-07-13T06:37:57Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +136,41 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-13T02:11:32Z",
-      "updated_at": "2026-07-13T02:11:36Z"
+      "pushed_at": "2026-07-13T06:10:06Z",
+      "updated_at": "2026-07-13T06:10:10Z"
     },
     {
-      "id": 1217603969,
-      "full_name": "aliaihub/awesome-hermes-usecases",
-      "html_url": "https://github.com/aliaihub/awesome-hermes-usecases",
-      "description": "Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources.",
-      "stars": 142,
-      "forks": 11,
-      "language": "Python",
-      "pushed_at": "2026-07-13T01:53:26Z",
-      "updated_at": "2026-07-13T01:53:30Z"
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 136,
+      "forks": 9,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-13T04:50:37Z",
+      "updated_at": "2026-07-13T05:46:42Z"
+    },
+    {
+      "id": 1289484140,
+      "full_name": "zzliu93-debug/FocuSD",
+      "html_url": "https://github.com/zzliu93-debug/FocuSD",
+      "description": "Windows floating island for Codex Status Indicator Light,todos, notes, clipboard history, media control, and Markdown archives.",
+      "stars": 89,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-13T06:50:26Z",
+      "updated_at": "2026-07-13T06:50:35Z"
+    },
+    {
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 86,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-13T06:42:45Z",
+      "updated_at": "2026-07-13T06:12:13Z"
     }
   ]
 }
