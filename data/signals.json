@@ -5,62 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 967,
+  "total_found": 968,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27140,
-      "forks": 2413,
-      "language": "Go",
-      "pushed_at": "2026-07-14T09:38:22Z",
-      "updated_at": "2026-07-14T09:38:31Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 127446,
+      "forks": 14384,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-14T13:27:43Z",
+      "updated_at": "2026-07-14T13:27:27Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20599,
-      "forks": 1845,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T09:46:36Z",
-      "updated_at": "2026-07-14T09:39:58Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16445,
-      "forks": 1628,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T09:04:42Z",
-      "updated_at": "2026-07-14T09:48:41Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14025,
-      "forks": 885,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T08:14:21Z",
-      "updated_at": "2026-07-14T09:50:21Z"
-    },
-    {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8616,
-      "forks": 946,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T09:28:58Z",
-      "updated_at": "2026-07-14T09:29:06Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6487,
+      "forks": 141,
+      "language": "Swift",
+      "pushed_at": "2026-07-14T13:06:35Z",
+      "updated_at": "2026-07-14T13:36:30Z"
     },
     {
       "id": 129699403,
@@ -68,98 +35,120 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5744,
-      "forks": 759,
+      "forks": 758,
       "language": "Swift",
-      "pushed_at": "2026-07-14T09:55:22Z",
-      "updated_at": "2026-07-14T09:45:42Z"
+      "pushed_at": "2026-07-14T13:36:04Z",
+      "updated_at": "2026-07-14T13:20:26Z"
     },
     {
       "id": 70557651,
       "full_name": "oliverschwendener/ueli",
       "html_url": "https://github.com/oliverschwendener/ueli",
       "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4558,
+      "stars": 4557,
       "forks": 275,
       "language": "TypeScript",
-      "pushed_at": "2026-07-14T09:32:08Z",
-      "updated_at": "2026-07-14T09:32:13Z"
+      "pushed_at": "2026-07-14T13:24:06Z",
+      "updated_at": "2026-07-14T13:36:14Z"
+    },
+    {
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1914,
+      "forks": 98,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-14T12:54:21Z",
+      "updated_at": "2026-07-14T12:52:38Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1182,
+      "forks": 213,
+      "language": "HTML",
+      "pushed_at": "2026-07-14T13:35:46Z",
+      "updated_at": "2026-07-14T13:36:26Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 959,
+      "stars": 960,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-14T09:46:43Z",
-      "updated_at": "2026-07-14T09:46:48Z"
+      "pushed_at": "2026-07-14T12:57:09Z",
+      "updated_at": "2026-07-14T12:54:51Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 690,
-      "forks": 55,
-      "language": "Swift",
-      "pushed_at": "2026-07-14T08:54:36Z",
-      "updated_at": "2026-07-14T08:54:41Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 825,
+      "forks": 41,
+      "language": "C#",
+      "pushed_at": "2026-07-14T12:47:26Z",
+      "updated_at": "2026-07-14T12:50:45Z"
     },
     {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-      "stars": 631,
-      "forks": 100,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-14T08:23:32Z",
-      "updated_at": "2026-07-14T08:23:33Z"
-    },
-    {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux.",
-      "stars": 582,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T09:16:05Z",
-      "updated_at": "2026-07-14T09:39:27Z"
-    },
-    {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 361,
-      "forks": 22,
-      "language": "Swift",
-      "pushed_at": "2026-07-14T09:15:58Z",
-      "updated_at": "2026-07-14T09:29:14Z"
-    },
-    {
-      "id": 1081013012,
-      "full_name": "f-is-h/Usage4Claude",
-      "html_url": "https://github.com/f-is-h/Usage4Claude",
-      "description": "Monitor all your Claude/Codex usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.",
-      "stars": 335,
-      "forks": 37,
-      "language": "Swift",
-      "pushed_at": "2026-07-14T08:22:50Z",
-      "updated_at": "2026-07-14T08:22:54Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 217,
-      "forks": 8,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 787,
+      "forks": 81,
       "language": "Python",
-      "pushed_at": "2026-07-14T08:55:47Z",
-      "updated_at": "2026-07-14T08:55:52Z"
+      "pushed_at": "2026-07-14T13:04:36Z",
+      "updated_at": "2026-07-14T13:05:35Z"
+    },
+    {
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 662,
+      "forks": 117,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-14T12:44:50Z",
+      "updated_at": "2026-07-14T12:45:07Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 517,
+      "forks": 94,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-14T13:07:12Z",
+      "updated_at": "2026-07-14T12:55:24Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 15,
+      "language": "Shell",
+      "pushed_at": "2026-07-14T13:25:22Z",
+      "updated_at": "2026-07-14T13:26:28Z"
+    },
+    {
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 293,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-14T13:11:50Z",
+      "updated_at": "2026-07-14T13:13:06Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +158,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-14T09:52:15Z",
-      "updated_at": "2026-07-14T09:52:19Z"
+      "pushed_at": "2026-07-14T13:20:50Z",
+      "updated_at": "2026-07-14T13:21:16Z"
+    },
+    {
+      "id": 1161865259,
+      "full_name": "Avi7ii/AirSend",
+      "html_url": "https://github.com/Avi7ii/AirSend",
+      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
+      "stars": 75,
+      "forks": 2,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-14T13:19:29Z",
+      "updated_at": "2026-07-14T13:20:27Z"
     }
   ]
 }
