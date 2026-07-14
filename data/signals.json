@@ -12,22 +12,55 @@
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 127446,
-      "forks": 14384,
+      "stars": 127460,
+      "forks": 14390,
       "language": "TypeScript",
-      "pushed_at": "2026-07-14T13:27:43Z",
-      "updated_at": "2026-07-14T13:27:27Z"
+      "pushed_at": "2026-07-14T16:18:23Z",
+      "updated_at": "2026-07-14T17:06:00Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6487,
-      "forks": 141,
-      "language": "Swift",
-      "pushed_at": "2026-07-14T13:06:35Z",
-      "updated_at": "2026-07-14T13:36:30Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27142,
+      "forks": 2413,
+      "language": "Go",
+      "pushed_at": "2026-07-14T16:10:36Z",
+      "updated_at": "2026-07-14T16:40:42Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16471,
+      "forks": 1637,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-14T16:27:38Z",
+      "updated_at": "2026-07-14T16:37:23Z"
+    },
+    {
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 9248,
+      "forks": 731,
+      "language": "HTML",
+      "pushed_at": "2026-07-14T16:53:47Z",
+      "updated_at": "2026-07-14T16:54:27Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8466,
+      "forks": 245,
+      "language": "C++",
+      "pushed_at": "2026-07-14T16:15:17Z",
+      "updated_at": "2026-07-14T17:02:11Z"
     },
     {
       "id": 129699403,
@@ -37,118 +70,52 @@
       "stars": 5744,
       "forks": 758,
       "language": "Swift",
-      "pushed_at": "2026-07-14T13:36:04Z",
-      "updated_at": "2026-07-14T13:20:26Z"
+      "pushed_at": "2026-07-14T17:09:45Z",
+      "updated_at": "2026-07-14T17:10:47Z"
     },
     {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4557,
-      "forks": 275,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1239,
+      "forks": 77,
       "language": "TypeScript",
-      "pushed_at": "2026-07-14T13:24:06Z",
-      "updated_at": "2026-07-14T13:36:14Z"
-    },
-    {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1914,
-      "forks": 98,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T12:54:21Z",
-      "updated_at": "2026-07-14T12:52:38Z"
+      "pushed_at": "2026-07-14T16:42:58Z",
+      "updated_at": "2026-07-14T16:43:03Z"
     },
     {
       "id": 1144946140,
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
       "description": "In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1182,
-      "forks": 213,
+      "stars": 1185,
+      "forks": 214,
       "language": "HTML",
-      "pushed_at": "2026-07-14T13:35:46Z",
-      "updated_at": "2026-07-14T13:36:26Z"
+      "pushed_at": "2026-07-14T16:17:26Z",
+      "updated_at": "2026-07-14T16:42:44Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 960,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-07-14T12:57:09Z",
-      "updated_at": "2026-07-14T12:54:51Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 825,
-      "forks": 41,
-      "language": "C#",
-      "pushed_at": "2026-07-14T12:47:26Z",
-      "updated_at": "2026-07-14T12:50:45Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 787,
-      "forks": 81,
-      "language": "Python",
-      "pushed_at": "2026-07-14T13:04:36Z",
-      "updated_at": "2026-07-14T13:05:35Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 662,
-      "forks": 117,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-14T12:44:50Z",
-      "updated_at": "2026-07-14T12:45:07Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 517,
-      "forks": 94,
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 323,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-07-14T13:07:12Z",
-      "updated_at": "2026-07-14T12:55:24Z"
+      "pushed_at": "2026-07-14T17:02:35Z",
+      "updated_at": "2026-07-14T17:02:51Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 15,
-      "language": "Shell",
-      "pushed_at": "2026-07-14T13:25:22Z",
-      "updated_at": "2026-07-14T13:26:28Z"
-    },
-    {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
-      "stars": 293,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-14T13:11:50Z",
-      "updated_at": "2026-07-14T13:13:06Z"
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-14T16:16:56Z",
+      "updated_at": "2026-07-14T16:17:11Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +125,52 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-14T13:20:50Z",
-      "updated_at": "2026-07-14T13:21:16Z"
+      "pushed_at": "2026-07-14T17:08:24Z",
+      "updated_at": "2026-07-14T17:09:43Z"
     },
     {
-      "id": 1161865259,
-      "full_name": "Avi7ii/AirSend",
-      "html_url": "https://github.com/Avi7ii/AirSend",
-      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
-      "stars": 75,
-      "forks": 2,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-14T13:19:29Z",
-      "updated_at": "2026-07-14T13:20:27Z"
+      "id": 452405275,
+      "full_name": "jrgilbertson/networked-thinking",
+      "html_url": "https://github.com/jrgilbertson/networked-thinking",
+      "description": "This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.",
+      "stars": 146,
+      "forks": 16,
+      "language": "Unknown",
+      "pushed_at": "2026-07-14T16:24:41Z",
+      "updated_at": "2026-07-14T16:25:16Z"
+    },
+    {
+      "id": 1208417060,
+      "full_name": "Facets-cloud/flow",
+      "html_url": "https://github.com/Facets-cloud/flow",
+      "description": "Turn isolated Claude sessions into a continuous working relationship",
+      "stars": 136,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-14T17:03:46Z",
+      "updated_at": "2026-07-14T17:04:06Z"
+    },
+    {
+      "id": 1263845975,
+      "full_name": "aymandakir-gh/gh-notch",
+      "html_url": "https://github.com/aymandakir-gh/gh-notch",
+      "description": "Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.",
+      "stars": 97,
+      "forks": 0,
+      "language": "Swift",
+      "pushed_at": "2026-07-14T16:19:17Z",
+      "updated_at": "2026-07-14T16:19:21Z"
+    },
+    {
+      "id": 1211713865,
+      "full_name": "HatanoChihiro/obsidian-webnovel-assistant",
+      "html_url": "https://github.com/HatanoChihiro/obsidian-webnovel-assistant",
+      "description": "专为中文网文小说创作设计的 Obsidian 插件 | Obsidian plugin for Chinese web novel writing",
+      "stars": 96,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-14T16:45:06Z",
+      "updated_at": "2026-07-14T16:45:16Z"
     }
   ]
 }
