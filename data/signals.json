@@ -8,59 +8,70 @@
   "total_found": 969,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27143,
-      "forks": 2414,
-      "language": "Go",
-      "pushed_at": "2026-07-15T13:13:01Z",
-      "updated_at": "2026-07-15T13:14:38Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44312,
+      "forks": 2792,
+      "language": "C#",
+      "pushed_at": "2026-07-15T16:15:27Z",
+      "updated_at": "2026-07-15T16:05:06Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 33626,
+      "forks": 3633,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-15T16:41:11Z",
+      "updated_at": "2026-07-15T16:54:41Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24316,
+      "forks": 2308,
+      "language": "Python",
+      "pushed_at": "2026-07-15T15:44:03Z",
+      "updated_at": "2026-07-15T15:36:57Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20625,
+      "stars": 20632,
       "forks": 1851,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T13:34:31Z",
-      "updated_at": "2026-07-15T13:40:06Z"
+      "pushed_at": "2026-07-15T15:13:53Z",
+      "updated_at": "2026-07-15T16:49:24Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15177,
-      "forks": 622,
-      "language": "C#",
-      "pushed_at": "2026-07-15T12:39:35Z",
-      "updated_at": "2026-07-15T13:13:56Z"
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 9286,
+      "forks": 734,
+      "language": "HTML",
+      "pushed_at": "2026-07-15T16:33:26Z",
+      "updated_at": "2026-07-15T16:34:46Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8481,
+      "stars": 8482,
       "forks": 245,
       "language": "C++",
-      "pushed_at": "2026-07-15T13:22:30Z",
-      "updated_at": "2026-07-15T13:23:58Z"
-    },
-    {
-      "id": 3868463,
-      "full_name": "jrnl-org/jrnl",
-      "html_url": "https://github.com/jrnl-org/jrnl",
-      "description": "Collect your thoughts and notes without leaving the command line.",
-      "stars": 7272,
-      "forks": 552,
-      "language": "Python",
-      "pushed_at": "2026-07-15T12:58:38Z",
-      "updated_at": "2026-07-15T12:58:18Z"
+      "pushed_at": "2026-07-15T16:48:44Z",
+      "updated_at": "2026-07-15T16:48:50Z"
     },
     {
       "id": 129699403,
@@ -70,19 +81,52 @@
       "stars": 5743,
       "forks": 759,
       "language": "Swift",
-      "pushed_at": "2026-07-15T13:40:07Z",
-      "updated_at": "2026-07-15T13:30:45Z"
+      "pushed_at": "2026-07-15T17:11:35Z",
+      "updated_at": "2026-07-15T16:41:43Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3713,
-      "forks": 468,
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5473,
+      "forks": 314,
+      "language": "Vala",
+      "pushed_at": "2026-07-15T15:21:12Z",
+      "updated_at": "2026-07-15T15:23:41Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1924,
+      "forks": 141,
+      "language": "Dart",
+      "pushed_at": "2026-07-15T15:21:24Z",
+      "updated_at": "2026-07-15T15:52:00Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1436,
+      "forks": 131,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T13:03:20Z",
-      "updated_at": "2026-07-15T13:05:11Z"
+      "pushed_at": "2026-07-15T17:10:43Z",
+      "updated_at": "2026-07-15T17:11:21Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1257,
+      "forks": 77,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-15T17:02:04Z",
+      "updated_at": "2026-07-15T17:02:33Z"
     },
     {
       "id": 1148683593,
@@ -92,85 +136,41 @@
       "stars": 964,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-15T13:34:47Z",
-      "updated_at": "2026-07-15T13:35:12Z"
+      "pushed_at": "2026-07-15T16:43:36Z",
+      "updated_at": "2026-07-15T16:41:52Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 788,
-      "forks": 81,
-      "language": "Python",
-      "pushed_at": "2026-07-15T12:46:43Z",
-      "updated_at": "2026-07-15T12:47:32Z"
-    },
-    {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 475,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-07-15T13:36:01Z",
-      "updated_at": "2026-07-15T13:37:16Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-15T13:28:30Z",
-      "updated_at": "2026-07-15T13:29:56Z"
-    },
-    {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 233,
-      "forks": 58,
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 663,
+      "forks": 117,
       "language": "JavaScript",
-      "pushed_at": "2026-07-15T13:35:25Z",
-      "updated_at": "2026-07-15T13:35:57Z"
+      "pushed_at": "2026-07-15T17:05:08Z",
+      "updated_at": "2026-07-15T17:06:20Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 162,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-15T13:36:16Z",
-      "updated_at": "2026-07-15T13:37:33Z"
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 447,
+      "forks": 78,
+      "language": "Go",
+      "pushed_at": "2026-07-15T17:02:28Z",
+      "updated_at": "2026-07-15T16:51:39Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-15T13:24:13Z",
-      "updated_at": "2026-07-15T13:25:07Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 136,
-      "forks": 9,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-15T12:59:36Z",
-      "updated_at": "2026-07-15T13:00:17Z"
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 255,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-15T16:23:02Z",
+      "updated_at": "2026-07-15T16:23:50Z"
     }
   ]
 }
