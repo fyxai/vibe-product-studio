@@ -8,37 +8,26 @@
   "total_found": 972,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44329,
-      "forks": 2793,
-      "language": "C#",
-      "pushed_at": "2026-07-16T15:55:35Z",
-      "updated_at": "2026-07-16T16:28:28Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20659,
-      "forks": 1854,
+      "stars": 20664,
+      "forks": 1855,
       "language": "TypeScript",
-      "pushed_at": "2026-07-16T17:11:06Z",
-      "updated_at": "2026-07-16T17:12:37Z"
+      "pushed_at": "2026-07-16T20:49:17Z",
+      "updated_at": "2026-07-16T20:34:06Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16557,
-      "forks": 1646,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14113,
+      "forks": 898,
       "language": "TypeScript",
-      "pushed_at": "2026-07-16T15:54:02Z",
-      "updated_at": "2026-07-16T17:06:20Z"
+      "pushed_at": "2026-07-16T19:43:45Z",
+      "updated_at": "2026-07-16T20:27:02Z"
     },
     {
       "id": 129699403,
@@ -48,8 +37,8 @@
       "stars": 5742,
       "forks": 760,
       "language": "Swift",
-      "pushed_at": "2026-07-16T17:03:40Z",
-      "updated_at": "2026-07-16T16:59:40Z"
+      "pushed_at": "2026-07-16T20:54:54Z",
+      "updated_at": "2026-07-16T19:32:56Z"
     },
     {
       "id": 897595329,
@@ -59,41 +48,41 @@
       "stars": 3447,
       "forks": 229,
       "language": "Python",
-      "pushed_at": "2026-07-16T16:46:25Z",
-      "updated_at": "2026-07-16T16:47:00Z"
+      "pushed_at": "2026-07-16T20:49:49Z",
+      "updated_at": "2026-07-16T20:48:52Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1449,
+      "forks": 131,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-16T20:26:19Z",
+      "updated_at": "2026-07-16T20:26:22Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1261,
+      "stars": 1264,
       "forks": 77,
       "language": "TypeScript",
-      "pushed_at": "2026-07-16T16:49:42Z",
-      "updated_at": "2026-07-16T16:40:51Z"
+      "pushed_at": "2026-07-16T20:31:54Z",
+      "updated_at": "2026-07-16T20:31:58Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1190,
-      "forks": 214,
-      "language": "HTML",
-      "pushed_at": "2026-07-16T17:00:55Z",
-      "updated_at": "2026-07-16T17:02:00Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 968,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-07-16T17:09:11Z",
-      "updated_at": "2026-07-16T17:09:41Z"
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 937,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-07-16T20:36:52Z",
+      "updated_at": "2026-07-16T20:34:00Z"
     },
     {
       "id": 1250907197,
@@ -103,41 +92,63 @@
       "stars": 855,
       "forks": 44,
       "language": "C#",
-      "pushed_at": "2026-07-16T16:17:38Z",
-      "updated_at": "2026-07-16T16:20:06Z"
+      "pushed_at": "2026-07-16T20:37:06Z",
+      "updated_at": "2026-07-16T20:37:11Z"
     },
     {
-      "id": 1279085846,
-      "full_name": "wangxijie001/yoji",
-      "html_url": "https://github.com/wangxijie001/yoji",
-      "description": "有情绪的 AI 桌面伴侣 | 隐私优先 · 语音唤醒 · 协助办公 · MCP 无限扩展 | An AI desktop companion with emotions — privacy-first, voice wake, office assistance, and MCP extensibility",
-      "stars": 369,
-      "forks": 63,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 788,
+      "forks": 81,
+      "language": "Python",
+      "pushed_at": "2026-07-16T20:49:37Z",
+      "updated_at": "2026-07-16T20:49:43Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 412,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-07-16T19:47:48Z",
+      "updated_at": "2026-07-16T19:45:28Z"
+    },
+    {
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 292,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-16T16:18:22Z",
-      "updated_at": "2026-07-16T16:19:49Z"
+      "pushed_at": "2026-07-16T20:17:48Z",
+      "updated_at": "2026-07-16T20:18:09Z"
     },
     {
-      "id": 1167485752,
-      "full_name": "tover0314-w/opentypeless",
-      "html_url": "https://github.com/tover0314-w/opentypeless",
-      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
-      "stars": 340,
-      "forks": 63,
-      "language": "Rust",
-      "pushed_at": "2026-07-16T17:13:37Z",
-      "updated_at": "2026-07-16T17:01:44Z"
+      "id": 1213753689,
+      "full_name": "nylxar/curium",
+      "html_url": "https://github.com/nylxar/curium",
+      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
+      "stars": 175,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-16T19:36:01Z",
+      "updated_at": "2026-07-16T19:56:41Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. MIT open source.",
-      "stars": 158,
-      "forks": 8,
-      "language": "C#",
-      "pushed_at": "2026-07-16T16:52:38Z",
-      "updated_at": "2026-07-16T16:53:53Z"
+      "id": 412385182,
+      "full_name": "scribe-org/Scribe-iOS",
+      "html_url": "https://github.com/scribe-org/Scribe-iOS",
+      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
+      "stars": 167,
+      "forks": 106,
+      "language": "Swift",
+      "pushed_at": "2026-07-16T20:44:18Z",
+      "updated_at": "2026-07-16T20:44:27Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +158,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-16T16:14:54Z",
-      "updated_at": "2026-07-16T16:16:48Z"
+      "pushed_at": "2026-07-16T19:58:26Z",
+      "updated_at": "2026-07-16T19:58:31Z"
     },
     {
-      "id": 1136804103,
-      "full_name": "AwesomeJun/CC-statusline",
-      "html_url": "https://github.com/AwesomeJun/CC-statusline",
-      "description": "An aesthetic statusline for Claude Code by awesomejun",
-      "stars": 133,
-      "forks": 17,
-      "language": "Shell",
-      "pushed_at": "2026-07-16T16:32:32Z",
-      "updated_at": "2026-07-16T16:32:50Z"
-    },
-    {
-      "id": 1161865259,
-      "full_name": "Avi7ii/AirSend",
-      "html_url": "https://github.com/Avi7ii/AirSend",
-      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
-      "stars": 75,
-      "forks": 2,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-16T16:02:07Z",
-      "updated_at": "2026-07-16T16:02:32Z"
+      "id": 1258788077,
+      "full_name": "coreyhaines31/makerskills",
+      "html_url": "https://github.com/coreyhaines31/makerskills",
+      "description": "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.",
+      "stars": 150,
+      "forks": 16,
+      "language": "Unknown",
+      "pushed_at": "2026-07-16T19:31:30Z",
+      "updated_at": "2026-07-16T20:43:40Z"
     }
   ]
 }
