@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 972,
+  "total_found": 971,
   "items": [
     {
-      "id": 1052845083,
-      "full_name": "danielmiessler/LifeOS",
-      "html_url": "https://github.com/danielmiessler/LifeOS",
-      "description": "The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
-      "stars": 16751,
-      "forks": 2275,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44336,
+      "forks": 2792,
+      "language": "C#",
+      "pushed_at": "2026-07-17T04:25:35Z",
+      "updated_at": "2026-07-17T05:13:00Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38673,
+      "forks": 3852,
+      "language": "C#",
+      "pushed_at": "2026-07-17T04:59:21Z",
+      "updated_at": "2026-07-17T04:59:25Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14288,
+      "forks": 966,
       "language": "TypeScript",
-      "pushed_at": "2026-07-17T00:23:56Z",
-      "updated_at": "2026-07-17T02:30:14Z"
+      "pushed_at": "2026-07-17T04:10:57Z",
+      "updated_at": "2026-07-17T04:11:02Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8493,
-      "forks": 246,
-      "language": "C++",
-      "pushed_at": "2026-07-17T00:57:59Z",
-      "updated_at": "2026-07-17T01:59:58Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14122,
+      "forks": 900,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-17T05:49:33Z",
+      "updated_at": "2026-07-17T06:04:09Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5476,
-      "forks": 315,
-      "language": "Vala",
-      "pushed_at": "2026-07-17T00:36:00Z",
-      "updated_at": "2026-07-17T00:19:02Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3446,
-      "forks": 230,
-      "language": "Python",
-      "pushed_at": "2026-07-17T02:15:41Z",
-      "updated_at": "2026-07-17T02:04:17Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2165,
-      "forks": 82,
-      "language": "Swift",
-      "pushed_at": "2026-07-17T00:58:17Z",
-      "updated_at": "2026-07-17T00:58:19Z"
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5589,
+      "forks": 871,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-17T06:04:04Z",
+      "updated_at": "2026-07-17T06:12:17Z"
     },
     {
       "id": 1111978380,
@@ -70,8 +70,8 @@
       "stars": 1264,
       "forks": 77,
       "language": "TypeScript",
-      "pushed_at": "2026-07-17T02:12:52Z",
-      "updated_at": "2026-07-17T02:12:56Z"
+      "pushed_at": "2026-07-17T05:26:31Z",
+      "updated_at": "2026-07-17T05:26:35Z"
     },
     {
       "id": 1148683593,
@@ -81,19 +81,8 @@
       "stars": 968,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-17T01:41:08Z",
-      "updated_at": "2026-07-17T01:41:12Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 858,
-      "forks": 44,
-      "language": "C#",
-      "pushed_at": "2026-07-17T02:02:40Z",
-      "updated_at": "2026-07-17T02:17:54Z"
+      "pushed_at": "2026-07-17T05:52:31Z",
+      "updated_at": "2026-07-17T05:52:36Z"
     },
     {
       "id": 1201098277,
@@ -103,41 +92,41 @@
       "stars": 431,
       "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-07-17T01:50:05Z",
-      "updated_at": "2026-07-17T01:45:20Z"
+      "pushed_at": "2026-07-17T06:09:52Z",
+      "updated_at": "2026-07-17T04:06:35Z"
     },
     {
-      "id": 1081013012,
-      "full_name": "f-is-h/Usage4Claude",
-      "html_url": "https://github.com/f-is-h/Usage4Claude",
-      "description": "Monitor all your Claude/Codex usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.",
-      "stars": 338,
-      "forks": 38,
+      "id": 1152670680,
+      "full_name": "royalbhati/HopTab",
+      "html_url": "https://github.com/royalbhati/HopTab",
+      "description": "minimal macOS app switcher for when Cmd+Tab gets way too noisy",
+      "stars": 275,
+      "forks": 3,
       "language": "Swift",
-      "pushed_at": "2026-07-17T01:46:02Z",
-      "updated_at": "2026-07-17T01:46:06Z"
+      "pushed_at": "2026-07-17T04:35:54Z",
+      "updated_at": "2026-07-17T04:35:58Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-17T02:13:15Z",
-      "updated_at": "2026-07-17T02:13:19Z"
+      "id": 1009026205,
+      "full_name": "pchuri/confluence-cli",
+      "html_url": "https://github.com/pchuri/confluence-cli",
+      "description": "A powerful command-line interface for Atlassian Confluence",
+      "stars": 238,
+      "forks": 58,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-17T06:07:48Z",
+      "updated_at": "2026-07-17T06:07:50Z"
     },
     {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local-first issue tracker - distributed and  backed by Git",
-      "stars": 313,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-17T01:47:22Z",
-      "updated_at": "2026-07-17T01:47:23Z"
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 221,
+      "forks": 8,
+      "language": "Python",
+      "pushed_at": "2026-07-17T05:14:49Z",
+      "updated_at": "2026-07-17T05:14:53Z"
     },
     {
       "id": 1283323996,
@@ -147,8 +136,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-17T02:07:42Z",
-      "updated_at": "2026-07-17T02:07:46Z"
+      "pushed_at": "2026-07-17T05:36:11Z",
+      "updated_at": "2026-07-17T05:36:17Z"
     },
     {
       "id": 1283327964,
@@ -158,8 +147,8 @@
       "stars": 150,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-17T00:05:43Z",
-      "updated_at": "2026-07-17T00:05:46Z"
+      "pushed_at": "2026-07-17T04:07:47Z",
+      "updated_at": "2026-07-17T04:07:51Z"
     },
     {
       "id": 1140929355,
@@ -169,8 +158,19 @@
       "stars": 101,
       "forks": 6,
       "language": "JavaScript",
-      "pushed_at": "2026-07-17T02:32:01Z",
-      "updated_at": "2026-07-17T02:20:55Z"
+      "pushed_at": "2026-07-17T05:43:54Z",
+      "updated_at": "2026-07-17T05:16:40Z"
+    },
+    {
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 87,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-17T06:12:15Z",
+      "updated_at": "2026-07-17T05:47:25Z"
     }
   ]
 }
