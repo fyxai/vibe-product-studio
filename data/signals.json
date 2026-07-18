@@ -12,55 +12,55 @@
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20690,
+      "stars": 20691,
       "forks": 1862,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T08:18:40Z",
-      "updated_at": "2026-07-18T08:24:46Z"
+      "pushed_at": "2026-07-18T12:42:12Z",
+      "updated_at": "2026-07-18T13:10:14Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6919,
-      "forks": 260,
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 9854,
+      "forks": 673,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T08:35:49Z",
-      "updated_at": "2026-07-18T08:52:57Z"
+      "pushed_at": "2026-07-18T12:39:54Z",
+      "updated_at": "2026-07-18T12:57:33Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5744,
-      "forks": 760,
-      "language": "Swift",
-      "pushed_at": "2026-07-18T08:33:03Z",
-      "updated_at": "2026-07-18T07:51:43Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8512,
+      "forks": 246,
+      "language": "C++",
+      "pushed_at": "2026-07-18T12:49:32Z",
+      "updated_at": "2026-07-18T12:25:45Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5601,
-      "forks": 876,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T07:11:59Z",
-      "updated_at": "2026-07-18T08:18:39Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3346,
+      "forks": 157,
+      "language": "Gherkin",
+      "pushed_at": "2026-07-18T13:07:06Z",
+      "updated_at": "2026-07-18T13:05:09Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3779,
-      "forks": 786,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T09:22:49Z",
-      "updated_at": "2026-07-18T09:19:11Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1194,
+      "forks": 215,
+      "language": "HTML",
+      "pushed_at": "2026-07-18T12:17:01Z",
+      "updated_at": "2026-07-18T12:17:09Z"
     },
     {
       "id": 260652021,
@@ -70,8 +70,8 @@
       "stars": 1169,
       "forks": 125,
       "language": "Kotlin",
-      "pushed_at": "2026-07-18T06:27:26Z",
-      "updated_at": "2026-07-18T06:27:30Z"
+      "pushed_at": "2026-07-18T12:51:40Z",
+      "updated_at": "2026-07-18T12:51:45Z"
     },
     {
       "id": 1148683593,
@@ -81,41 +81,41 @@
       "stars": 969,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-18T07:10:30Z",
-      "updated_at": "2026-07-18T07:10:34Z"
+      "pushed_at": "2026-07-18T12:00:17Z",
+      "updated_at": "2026-07-18T11:57:30Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 893,
-      "forks": 51,
-      "language": "Swift",
-      "pushed_at": "2026-07-18T07:04:02Z",
-      "updated_at": "2026-07-18T07:04:11Z"
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 568,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T12:26:31Z",
+      "updated_at": "2026-07-18T12:26:34Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 528,
-      "forks": 83,
+      "stars": 530,
+      "forks": 84,
       "language": "Go",
-      "pushed_at": "2026-07-18T09:14:08Z",
-      "updated_at": "2026-07-18T09:06:58Z"
+      "pushed_at": "2026-07-18T12:20:26Z",
+      "updated_at": "2026-07-18T12:20:37Z"
     },
     {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 322,
+      "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T08:52:53Z",
-      "updated_at": "2026-07-18T08:52:33Z"
+      "pushed_at": "2026-07-18T12:53:36Z",
+      "updated_at": "2026-07-18T12:53:39Z"
     },
     {
       "id": 1166865874,
@@ -125,19 +125,19 @@
       "stars": 316,
       "forks": 18,
       "language": "Shell",
-      "pushed_at": "2026-07-18T07:43:33Z",
-      "updated_at": "2026-07-18T07:43:36Z"
+      "pushed_at": "2026-07-18T13:05:37Z",
+      "updated_at": "2026-07-18T13:05:46Z"
     },
     {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 316,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T08:55:03Z",
-      "updated_at": "2026-07-18T09:04:36Z"
+      "id": 1112283364,
+      "full_name": "harvard-cns/orla",
+      "html_url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 255,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-07-18T12:51:10Z",
+      "updated_at": "2026-07-18T12:51:13Z"
     },
     {
       "id": 1227213243,
@@ -147,30 +147,30 @@
       "stars": 224,
       "forks": 8,
       "language": "Python",
-      "pushed_at": "2026-07-18T08:03:43Z",
-      "updated_at": "2026-07-18T08:03:48Z"
+      "pushed_at": "2026-07-18T12:52:04Z",
+      "updated_at": "2026-07-18T12:52:12Z"
     },
     {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 207,
-      "forks": 4,
-      "language": "Vue",
-      "pushed_at": "2026-07-18T08:30:18Z",
-      "updated_at": "2026-07-18T08:29:51Z"
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
+      "stars": 201,
+      "forks": 54,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T13:01:39Z",
+      "updated_at": "2026-07-18T12:18:34Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T08:48:33Z",
-      "updated_at": "2026-07-18T08:48:45Z"
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 163,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T12:41:49Z",
+      "updated_at": "2026-07-18T12:41:54Z"
     }
   ]
 }
