@@ -8,26 +8,26 @@
   "total_found": 974,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38693,
-      "forks": 3854,
-      "language": "C#",
-      "pushed_at": "2026-07-18T05:52:32Z",
-      "updated_at": "2026-07-18T05:52:37Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20690,
+      "forks": 1862,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T08:18:40Z",
+      "updated_at": "2026-07-18T08:24:46Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14148,
-      "forks": 901,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6919,
+      "forks": 260,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T06:00:32Z",
-      "updated_at": "2026-07-18T06:00:45Z"
+      "pushed_at": "2026-07-18T08:35:49Z",
+      "updated_at": "2026-07-18T08:52:57Z"
     },
     {
       "id": 129699403,
@@ -37,41 +37,52 @@
       "stars": 5744,
       "forks": 760,
       "language": "Swift",
-      "pushed_at": "2026-07-18T05:09:11Z",
-      "updated_at": "2026-07-18T04:06:47Z"
+      "pushed_at": "2026-07-18T08:33:03Z",
+      "updated_at": "2026-07-18T07:51:43Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3452,
-      "forks": 231,
-      "language": "Python",
-      "pushed_at": "2026-07-18T05:12:53Z",
-      "updated_at": "2026-07-18T05:34:28Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1545,
-      "forks": 79,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5601,
+      "forks": 876,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:30:55Z",
-      "updated_at": "2026-07-18T05:30:43Z"
+      "pushed_at": "2026-07-18T07:11:59Z",
+      "updated_at": "2026-07-18T08:18:39Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1267,
-      "forks": 79,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3779,
+      "forks": 786,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:54:36Z",
-      "updated_at": "2026-07-18T05:54:41Z"
+      "pushed_at": "2026-07-18T09:22:49Z",
+      "updated_at": "2026-07-18T09:19:11Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1169,
+      "forks": 125,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-18T06:27:26Z",
+      "updated_at": "2026-07-18T06:27:30Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 969,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-07-18T07:10:30Z",
+      "updated_at": "2026-07-18T07:10:34Z"
     },
     {
       "id": 1201537262,
@@ -81,19 +92,74 @@
       "stars": 893,
       "forks": 51,
       "language": "Swift",
-      "pushed_at": "2026-07-18T05:41:19Z",
-      "updated_at": "2026-07-18T05:41:23Z"
+      "pushed_at": "2026-07-18T07:04:02Z",
+      "updated_at": "2026-07-18T07:04:11Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 788,
-      "forks": 81,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 528,
+      "forks": 83,
+      "language": "Go",
+      "pushed_at": "2026-07-18T09:14:08Z",
+      "updated_at": "2026-07-18T09:06:58Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T08:52:53Z",
+      "updated_at": "2026-07-18T08:52:33Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 316,
+      "forks": 18,
+      "language": "Shell",
+      "pushed_at": "2026-07-18T07:43:33Z",
+      "updated_at": "2026-07-18T07:43:36Z"
+    },
+    {
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 316,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T08:55:03Z",
+      "updated_at": "2026-07-18T09:04:36Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 224,
+      "forks": 8,
       "language": "Python",
-      "pushed_at": "2026-07-18T05:07:43Z",
-      "updated_at": "2026-07-18T05:07:46Z"
+      "pushed_at": "2026-07-18T08:03:43Z",
+      "updated_at": "2026-07-18T08:03:48Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 207,
+      "forks": 4,
+      "language": "Vue",
+      "pushed_at": "2026-07-18T08:30:18Z",
+      "updated_at": "2026-07-18T08:29:51Z"
     },
     {
       "id": 1283323996,
@@ -103,74 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-18T04:48:09Z",
-      "updated_at": "2026-07-18T04:48:12Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T05:28:13Z",
-      "updated_at": "2026-07-18T05:28:18Z"
-    },
-    {
-      "id": 1287996949,
-      "full_name": "riponcm/GemType",
-      "html_url": "https://github.com/riponcm/GemType",
-      "description": "Free, open-source Grammarly alternative for Chrome & Safari — AI grammar checker and text rewriter for any website, powered by your own free Google Gemini API key. No account, no tracking, no subscription.",
-      "stars": 108,
-      "forks": 4,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-18T04:21:11Z",
-      "updated_at": "2026-07-18T04:21:14Z"
-    },
-    {
-      "id": 1138354564,
-      "full_name": "edwluo/vibe-island-updates",
-      "html_url": "https://github.com/edwluo/vibe-island-updates",
-      "description": "Vibe Island releases & update feed — download the latest DMG of the macOS notch panel for 25 AI coding agents (Claude Code, Codex, Cursor & more).",
-      "stars": 94,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T06:00:51Z",
-      "updated_at": "2026-07-18T06:00:55Z"
-    },
-    {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 88,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:50:45Z",
-      "updated_at": "2026-07-18T05:50:47Z"
-    },
-    {
-      "id": 1161865259,
-      "full_name": "Avi7ii/AirSend",
-      "html_url": "https://github.com/Avi7ii/AirSend",
-      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
-      "stars": 84,
-      "forks": 3,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-18T05:05:25Z",
-      "updated_at": "2026-07-18T05:05:30Z"
-    },
-    {
-      "id": 269527281,
-      "full_name": "tylerjwoodfin/tools",
-      "html_url": "https://github.com/tylerjwoodfin/tools",
-      "description": "Tools and utils for use in my personal home network setup",
-      "stars": 69,
-      "forks": 3,
-      "language": "Python",
-      "pushed_at": "2026-07-18T04:54:57Z",
-      "updated_at": "2026-07-18T04:43:50Z"
+      "pushed_at": "2026-07-18T08:48:33Z",
+      "updated_at": "2026-07-18T08:48:45Z"
     }
   ]
 }
