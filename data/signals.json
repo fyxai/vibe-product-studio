@@ -12,22 +12,11 @@
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20691,
-      "forks": 1862,
+      "stars": 20694,
+      "forks": 1864,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:42:12Z",
-      "updated_at": "2026-07-18T13:10:14Z"
-    },
-    {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9854,
-      "forks": 673,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:39:54Z",
-      "updated_at": "2026-07-18T12:57:33Z"
+      "pushed_at": "2026-07-18T16:50:59Z",
+      "updated_at": "2026-07-18T16:49:08Z"
     },
     {
       "id": 1027461827,
@@ -35,43 +24,43 @@
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
       "stars": 8512,
-      "forks": 246,
+      "forks": 247,
       "language": "C++",
-      "pushed_at": "2026-07-18T12:49:32Z",
-      "updated_at": "2026-07-18T12:25:45Z"
+      "pushed_at": "2026-07-18T15:27:20Z",
+      "updated_at": "2026-07-18T15:49:24Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3346,
-      "forks": 157,
-      "language": "Gherkin",
-      "pushed_at": "2026-07-18T13:07:06Z",
-      "updated_at": "2026-07-18T13:05:09Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5747,
+      "forks": 760,
+      "language": "Swift",
+      "pushed_at": "2026-07-18T16:19:54Z",
+      "updated_at": "2026-07-18T15:25:24Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
-      "stars": 1194,
-      "forks": 215,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T12:17:01Z",
-      "updated_at": "2026-07-18T12:17:09Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3455,
+      "forks": 231,
+      "language": "Python",
+      "pushed_at": "2026-07-18T16:55:31Z",
+      "updated_at": "2026-07-18T16:23:08Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1169,
-      "forks": 125,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-18T12:51:40Z",
-      "updated_at": "2026-07-18T12:51:45Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1270,
+      "forks": 79,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T16:35:32Z",
+      "updated_at": "2026-07-18T16:35:38Z"
     },
     {
       "id": 1148683593,
@@ -81,8 +70,52 @@
       "stars": 969,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-18T12:00:17Z",
-      "updated_at": "2026-07-18T11:57:30Z"
+      "pushed_at": "2026-07-18T16:54:44Z",
+      "updated_at": "2026-07-18T16:54:49Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 886,
+      "forks": 46,
+      "language": "C#",
+      "pushed_at": "2026-07-18T16:39:27Z",
+      "updated_at": "2026-07-18T16:39:31Z"
+    },
+    {
+      "id": 1274728677,
+      "full_name": "raiyanyahya/recall",
+      "html_url": "https://github.com/raiyanyahya/recall",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "stars": 711,
+      "forks": 43,
+      "language": "Python",
+      "pushed_at": "2026-07-18T16:34:16Z",
+      "updated_at": "2026-07-18T16:34:19Z"
+    },
+    {
+      "id": 1234008446,
+      "full_name": "hsr88/mouzi",
+      "html_url": "https://github.com/hsr88/mouzi",
+      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
+      "stars": 689,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-07-18T16:10:33Z",
+      "updated_at": "2026-07-18T16:10:39Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 670,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T14:36:06Z",
+      "updated_at": "2026-07-18T16:24:00Z"
     },
     {
       "id": 1193364497,
@@ -92,8 +125,8 @@
       "stars": 568,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:26:31Z",
-      "updated_at": "2026-07-18T12:26:34Z"
+      "pushed_at": "2026-07-18T16:52:51Z",
+      "updated_at": "2026-07-18T16:52:53Z"
     },
     {
       "id": 1109341946,
@@ -101,76 +134,43 @@
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
       "stars": 530,
-      "forks": 84,
+      "forks": 86,
       "language": "Go",
-      "pushed_at": "2026-07-18T12:20:26Z",
-      "updated_at": "2026-07-18T12:20:37Z"
+      "pushed_at": "2026-07-18T14:53:18Z",
+      "updated_at": "2026-07-18T15:03:20Z"
     },
     {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 322,
-      "forks": 15,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:53:36Z",
-      "updated_at": "2026-07-18T12:53:39Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 316,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-18T13:05:37Z",
-      "updated_at": "2026-07-18T13:05:46Z"
-    },
-    {
-      "id": 1112283364,
-      "full_name": "harvard-cns/orla",
-      "html_url": "https://github.com/harvard-cns/orla",
-      "description": "An open-source high performance execution engine for agentic workflows",
-      "stars": 255,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 295,
       "forks": 13,
-      "language": "Go",
-      "pushed_at": "2026-07-18T12:51:10Z",
-      "updated_at": "2026-07-18T12:51:13Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 224,
-      "forks": 8,
-      "language": "Python",
-      "pushed_at": "2026-07-18T12:52:04Z",
-      "updated_at": "2026-07-18T12:52:12Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 201,
-      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T13:01:39Z",
-      "updated_at": "2026-07-18T12:18:34Z"
+      "pushed_at": "2026-07-18T16:28:55Z",
+      "updated_at": "2026-07-18T16:28:59Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 163,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:41:49Z",
-      "updated_at": "2026-07-18T12:41:54Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-18T16:51:03Z",
+      "updated_at": "2026-07-18T16:51:07Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-18T15:59:09Z",
+      "updated_at": "2026-07-18T15:59:14Z"
     }
   ]
 }
