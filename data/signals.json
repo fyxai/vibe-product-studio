@@ -8,103 +8,92 @@
   "total_found": 976,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 188686,
-      "forks": 26466,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40488,
+      "forks": 944,
+      "language": "Rust",
+      "pushed_at": "2026-07-19T16:15:34Z",
+      "updated_at": "2026-07-19T16:21:44Z"
+    },
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38709,
+      "forks": 3854,
+      "language": "C#",
+      "pushed_at": "2026-07-19T16:52:58Z",
+      "updated_at": "2026-07-19T16:53:12Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11673,
+      "forks": 1445,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-19T15:39:17Z",
+      "updated_at": "2026-07-19T16:36:55Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5415,
+      "forks": 636,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-19T15:53:37Z",
+      "updated_at": "2026-07-19T15:53:44Z"
+    },
+    {
+      "id": 320469278,
+      "full_name": "jeffreytse/zsh-vi-mode",
+      "html_url": "https://github.com/jeffreytse/zsh-vi-mode",
+      "description": "💻 A better and friendly vi(vim) mode plugin for ZSH.",
+      "stars": 4409,
+      "forks": 151,
       "language": "Shell",
-      "pushed_at": "2026-07-19T12:52:38Z",
-      "updated_at": "2026-07-19T13:02:22Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 71812,
-      "forks": 4470,
-      "language": "Rust",
-      "pushed_at": "2026-07-19T10:26:29Z",
-      "updated_at": "2026-07-19T13:11:06Z"
-    },
-    {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 14126,
-      "forks": 433,
-      "language": "Rust",
-      "pushed_at": "2026-07-19T11:56:19Z",
-      "updated_at": "2026-07-19T13:11:19Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8519,
-      "forks": 248,
-      "language": "C++",
-      "pushed_at": "2026-07-19T12:36:34Z",
-      "updated_at": "2026-07-19T12:54:12Z"
+      "pushed_at": "2026-07-19T15:19:45Z",
+      "updated_at": "2026-07-19T15:19:49Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3780,
+      "stars": 3781,
       "forks": 787,
       "language": "TypeScript",
-      "pushed_at": "2026-07-19T12:25:27Z",
-      "updated_at": "2026-07-19T11:47:24Z"
+      "pushed_at": "2026-07-19T16:40:48Z",
+      "updated_at": "2026-07-19T16:40:52Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1926,
-      "forks": 141,
-      "language": "Dart",
-      "pushed_at": "2026-07-19T11:48:08Z",
-      "updated_at": "2026-07-19T11:48:11Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1283,
-      "forks": 81,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-19T12:57:28Z",
-      "updated_at": "2026-07-19T12:57:37Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1171,
-      "forks": 125,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-19T12:44:33Z",
-      "updated_at": "2026-07-19T12:44:47Z"
+      "id": 1238120057,
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "Claude Code skill to stop it from burying the answer. ADHD-friendly output.",
+      "stars": 2308,
+      "forks": 69,
+      "language": "Unknown",
+      "pushed_at": "2026-07-19T15:56:16Z",
+      "updated_at": "2026-07-19T16:55:58Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 973,
+      "stars": 975,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-19T12:22:35Z",
-      "updated_at": "2026-07-19T12:37:08Z"
+      "pushed_at": "2026-07-19T15:27:19Z",
+      "updated_at": "2026-07-19T16:07:25Z"
     },
     {
       "id": 1234008446,
@@ -114,19 +103,19 @@
       "stars": 693,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-19T11:54:01Z",
-      "updated_at": "2026-07-19T11:54:09Z"
+      "pushed_at": "2026-07-19T15:20:27Z",
+      "updated_at": "2026-07-19T15:20:34Z"
     },
     {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
-      "stars": 687,
-      "forks": 38,
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 569,
+      "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-07-19T12:06:22Z",
-      "updated_at": "2026-07-19T12:06:27Z"
+      "pushed_at": "2026-07-19T16:43:53Z",
+      "updated_at": "2026-07-19T16:43:55Z"
     },
     {
       "id": 49612213,
@@ -136,41 +125,52 @@
       "stars": 564,
       "forks": 71,
       "language": "C#",
-      "pushed_at": "2026-07-19T12:49:53Z",
-      "updated_at": "2026-07-19T12:49:58Z"
+      "pushed_at": "2026-07-19T15:54:04Z",
+      "updated_at": "2026-07-19T15:54:10Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 539,
-      "forks": 87,
-      "language": "Go",
-      "pushed_at": "2026-07-19T10:39:05Z",
-      "updated_at": "2026-07-19T11:09:30Z"
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 164,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-19T15:07:59Z",
+      "updated_at": "2026-07-19T15:08:06Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 317,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-19T13:08:20Z",
-      "updated_at": "2026-07-19T13:08:34Z"
+      "id": 1112334575,
+      "full_name": "zhaoliangbin42/AI-MarkDone",
+      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
+      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
+      "stars": 164,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-19T15:55:36Z",
+      "updated_at": "2026-07-19T15:55:32Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 239,
-      "forks": 59,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-19T10:13:40Z",
-      "updated_at": "2026-07-19T10:13:42Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-07-19T16:51:47Z",
+      "updated_at": "2026-07-19T16:51:50Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-19T16:02:26Z",
+      "updated_at": "2026-07-19T16:02:30Z"
     }
   ]
 }
