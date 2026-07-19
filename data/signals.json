@@ -5,51 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 975,
+  "total_found": 976,
   "items": [
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44354,
-      "forks": 2794,
-      "language": "C#",
-      "pushed_at": "2026-07-19T02:26:13Z",
-      "updated_at": "2026-07-19T05:40:54Z"
-    },
     {
       "id": 375653778,
       "full_name": "linearmouse/linearmouse",
       "html_url": "https://github.com/linearmouse/linearmouse",
       "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6518,
+      "stars": 6520,
       "forks": 141,
       "language": "Swift",
-      "pushed_at": "2026-07-19T05:40:37Z",
-      "updated_at": "2026-07-19T06:01:39Z"
+      "pushed_at": "2026-07-19T07:47:58Z",
+      "updated_at": "2026-07-19T08:39:25Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5415,
-      "forks": 636,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-19T02:31:39Z",
-      "updated_at": "2026-07-19T02:30:20Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1278,
-      "forks": 80,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-19T03:12:06Z",
-      "updated_at": "2026-07-19T05:35:15Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5748,
+      "forks": 760,
+      "language": "Swift",
+      "pushed_at": "2026-07-19T08:46:25Z",
+      "updated_at": "2026-07-19T08:11:27Z"
     },
     {
       "id": 260652021,
@@ -70,8 +48,30 @@
       "stars": 971,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-19T05:53:24Z",
-      "updated_at": "2026-07-19T05:53:28Z"
+      "pushed_at": "2026-07-19T08:46:33Z",
+      "updated_at": "2026-07-19T08:46:38Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 569,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-19T09:45:21Z",
+      "updated_at": "2026-07-19T09:44:44Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 317,
+      "forks": 18,
+      "language": "Shell",
+      "pushed_at": "2026-07-19T08:10:47Z",
+      "updated_at": "2026-07-19T08:10:59Z"
     },
     {
       "id": 1152670680,
@@ -85,37 +85,37 @@
       "updated_at": "2026-07-19T05:51:37Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 225,
-      "forks": 8,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 244,
+      "forks": 29,
       "language": "Python",
-      "pushed_at": "2026-07-19T04:39:16Z",
-      "updated_at": "2026-07-19T04:24:38Z"
+      "pushed_at": "2026-07-19T08:12:18Z",
+      "updated_at": "2026-07-19T07:32:21Z"
     },
     {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 201,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-19T03:51:01Z",
-      "updated_at": "2026-07-19T03:51:03Z"
+      "id": 1027092197,
+      "full_name": "shinpr/ai-coding-project-boilerplate",
+      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
+      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
+      "stars": 223,
+      "forks": 23,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-19T08:00:15Z",
+      "updated_at": "2026-07-19T07:58:28Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 163,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-19T06:27:35Z",
-      "updated_at": "2026-07-19T03:56:43Z"
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 207,
+      "forks": 4,
+      "language": "Vue",
+      "pushed_at": "2026-07-19T07:48:15Z",
+      "updated_at": "2026-07-19T07:47:43Z"
     },
     {
       "id": 1283323996,
@@ -125,8 +125,8 @@
       "stars": 151,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-19T05:45:54Z",
-      "updated_at": "2026-07-19T05:45:58Z"
+      "pushed_at": "2026-07-19T08:07:21Z",
+      "updated_at": "2026-07-19T08:07:32Z"
     },
     {
       "id": 1283327964,
@@ -136,8 +136,19 @@
       "stars": 150,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-19T05:57:32Z",
-      "updated_at": "2026-07-19T05:57:37Z"
+      "pushed_at": "2026-07-19T08:29:50Z",
+      "updated_at": "2026-07-19T08:30:11Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 145,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-19T08:35:29Z",
+      "updated_at": "2026-07-19T08:29:59Z"
     },
     {
       "id": 1140929355,
@@ -149,17 +160,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-07-19T05:39:26Z",
       "updated_at": "2026-07-19T05:39:27Z"
-    },
-    {
-      "id": 1302557102,
-      "full_name": "Licoy/StrokeMouse",
-      "html_url": "https://github.com/Licoy/StrokeMouse",
-      "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-      "stars": 93,
-      "forks": 4,
-      "language": "Swift",
-      "pushed_at": "2026-07-19T02:37:56Z",
-      "updated_at": "2026-07-19T06:22:13Z"
     },
     {
       "id": 1161865259,
