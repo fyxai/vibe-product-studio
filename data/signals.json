@@ -8,70 +8,70 @@
   "total_found": 981,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38712,
-      "forks": 3854,
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 231329,
+      "forks": 35295,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-20T04:56:39Z",
+      "updated_at": "2026-07-20T06:43:01Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44364,
+      "forks": 2794,
       "language": "C#",
-      "pushed_at": "2026-07-20T00:22:04Z",
-      "updated_at": "2026-07-20T01:49:34Z"
+      "pushed_at": "2026-07-20T04:32:52Z",
+      "updated_at": "2026-07-20T05:53:30Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14192,
-      "forks": 910,
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 9357,
+      "forks": 741,
+      "language": "HTML",
+      "pushed_at": "2026-07-20T05:22:41Z",
+      "updated_at": "2026-07-20T06:23:34Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5608,
+      "forks": 876,
       "language": "TypeScript",
-      "pushed_at": "2026-07-20T01:55:30Z",
-      "updated_at": "2026-07-20T03:18:58Z"
+      "pushed_at": "2026-07-20T06:17:13Z",
+      "updated_at": "2026-07-20T06:42:43Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8522,
-      "forks": 248,
-      "language": "C++",
-      "pushed_at": "2026-07-20T00:42:10Z",
-      "updated_at": "2026-07-20T00:55:23Z"
-    },
-    {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1547,
-      "forks": 79,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-20T02:39:15Z",
-      "updated_at": "2026-07-20T02:08:01Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown memory system for you and your AI agent",
-      "stars": 1303,
-      "forks": 62,
-      "language": "Rust",
-      "pushed_at": "2026-07-20T01:22:22Z",
-      "updated_at": "2026-07-20T01:22:24Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5417,
+      "forks": 636,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-20T05:20:06Z",
+      "updated_at": "2026-07-20T05:54:31Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1291,
+      "stars": 1293,
       "forks": 81,
       "language": "TypeScript",
-      "pushed_at": "2026-07-20T01:34:16Z",
-      "updated_at": "2026-07-20T03:03:26Z"
+      "pushed_at": "2026-07-20T04:09:54Z",
+      "updated_at": "2026-07-20T06:03:54Z"
     },
     {
       "id": 1148683593,
@@ -81,74 +81,30 @@
       "stars": 977,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-20T03:11:10Z",
-      "updated_at": "2026-07-20T03:11:15Z"
+      "pushed_at": "2026-07-20T06:37:38Z",
+      "updated_at": "2026-07-20T06:38:13Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 897,
-      "forks": 51,
-      "language": "Swift",
-      "pushed_at": "2026-07-20T03:31:08Z",
-      "updated_at": "2026-07-20T03:30:37Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 789,
-      "forks": 83,
-      "language": "Python",
-      "pushed_at": "2026-07-20T00:19:59Z",
-      "updated_at": "2026-07-20T00:20:03Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 711,
-      "forks": 41,
-      "language": "Python",
-      "pushed_at": "2026-07-20T00:47:52Z",
-      "updated_at": "2026-07-20T00:47:56Z"
-    },
-    {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 570,
-      "forks": 39,
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 692,
+      "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-07-20T01:35:58Z",
-      "updated_at": "2026-07-20T01:35:28Z"
+      "pushed_at": "2026-07-20T05:19:45Z",
+      "updated_at": "2026-07-20T05:19:47Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 564,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-07-20T01:26:36Z",
-      "updated_at": "2026-07-20T01:26:40Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 317,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-20T03:33:33Z",
-      "updated_at": "2026-07-20T03:33:38Z"
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 324,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-20T05:25:30Z",
+      "updated_at": "2026-07-20T05:25:39Z"
     },
     {
       "id": 1165281056,
@@ -158,8 +114,19 @@
       "stars": 207,
       "forks": 4,
       "language": "Vue",
-      "pushed_at": "2026-07-20T03:32:13Z",
-      "updated_at": "2026-07-20T03:31:03Z"
+      "pushed_at": "2026-07-20T06:24:49Z",
+      "updated_at": "2026-07-20T06:24:54Z"
+    },
+    {
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 205,
+      "forks": 14,
+      "language": "C#",
+      "pushed_at": "2026-07-20T06:37:22Z",
+      "updated_at": "2026-07-20T06:37:58Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +136,41 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-20T02:28:34Z",
-      "updated_at": "2026-07-20T02:28:38Z"
+      "pushed_at": "2026-07-20T06:11:22Z",
+      "updated_at": "2026-07-20T06:11:51Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 147,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-20T06:37:27Z",
+      "updated_at": "2026-07-20T06:37:30Z"
+    },
+    {
+      "id": 1010925836,
+      "full_name": "nelson820125/jordium-gantt-vue3",
+      "html_url": "https://github.com/nelson820125/jordium-gantt-vue3",
+      "description": "Vue3 Gantt chart with powerful Resource View for task scheduling and resource planning.",
+      "stars": 112,
+      "forks": 29,
+      "language": "Vue",
+      "pushed_at": "2026-07-20T05:19:21Z",
+      "updated_at": "2026-07-20T05:12:40Z"
+    },
+    {
+      "id": 1122584172,
+      "full_name": "1003129155/jietuba",
+      "html_url": "https://github.com/1003129155/jietuba",
+      "description": "A screenshot ocr and clipboard manager, available only on Windows 10+.  一款截图和剪贴板管理工具，功能丰富媲美 PixPin 等商业软件，仅支持 Windows 平台。",
+      "stars": 109,
+      "forks": 14,
+      "language": "Python",
+      "pushed_at": "2026-07-20T04:16:58Z",
+      "updated_at": "2026-07-20T04:17:02Z"
     }
   ]
 }
