@@ -8,59 +8,81 @@
   "total_found": 984,
   "items": [
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14308,
-      "forks": 968,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 127991,
+      "forks": 14491,
       "language": "TypeScript",
-      "pushed_at": "2026-07-21T05:25:30Z",
-      "updated_at": "2026-07-21T05:04:38Z"
+      "pushed_at": "2026-07-21T10:07:15Z",
+      "updated_at": "2026-07-21T10:14:26Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5624,
-      "forks": 879,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 72206,
+      "forks": 4490,
+      "language": "Rust",
+      "pushed_at": "2026-07-21T09:30:33Z",
+      "updated_at": "2026-07-21T10:18:04Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20778,
+      "forks": 1874,
       "language": "TypeScript",
-      "pushed_at": "2026-07-21T06:23:24Z",
-      "updated_at": "2026-07-21T05:26:18Z"
+      "pushed_at": "2026-07-21T10:10:25Z",
+      "updated_at": "2026-07-21T10:14:43Z"
     },
     {
       "id": 1238120057,
       "full_name": "ayghri/i-have-adhd",
       "html_url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": 5574,
-      "forks": 209,
+      "stars": 5820,
+      "forks": 226,
       "language": "Unknown",
-      "pushed_at": "2026-07-21T06:18:54Z",
-      "updated_at": "2026-07-21T06:25:28Z"
+      "pushed_at": "2026-07-21T09:18:40Z",
+      "updated_at": "2026-07-21T10:20:46Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3469,
-      "forks": 232,
-      "language": "Python",
-      "pushed_at": "2026-07-21T05:58:41Z",
-      "updated_at": "2026-07-21T05:57:56Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5748,
+      "forks": 759,
+      "language": "Swift",
+      "pushed_at": "2026-07-21T10:23:21Z",
+      "updated_at": "2026-07-21T10:22:21Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1310,
-      "forks": 81,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-21T05:44:49Z",
-      "updated_at": "2026-07-21T06:16:50Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2287,
+      "forks": 92,
+      "language": "Swift",
+      "pushed_at": "2026-07-21T09:23:31Z",
+      "updated_at": "2026-07-21T09:23:37Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1929,
+      "forks": 141,
+      "language": "Dart",
+      "pushed_at": "2026-07-21T09:46:57Z",
+      "updated_at": "2026-07-21T09:34:44Z"
     },
     {
       "id": 1144946140,
@@ -70,30 +92,30 @@
       "stars": 1200,
       "forks": 218,
       "language": "HTML",
-      "pushed_at": "2026-07-21T05:08:29Z",
-      "updated_at": "2026-07-21T05:08:56Z"
+      "pushed_at": "2026-07-21T08:41:22Z",
+      "updated_at": "2026-07-21T08:42:39Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 980,
+      "stars": 981,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-21T06:18:54Z",
-      "updated_at": "2026-07-21T06:19:27Z"
+      "pushed_at": "2026-07-21T10:04:41Z",
+      "updated_at": "2026-07-21T10:06:05Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 884,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-21T05:38:26Z",
-      "updated_at": "2026-07-21T05:38:55Z"
+      "id": 110334159,
+      "full_name": "scalacenter/bloop",
+      "html_url": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "stars": 938,
+      "forks": 216,
+      "language": "Scala",
+      "pushed_at": "2026-07-21T08:59:05Z",
+      "updated_at": "2026-07-21T08:56:53Z"
     },
     {
       "id": 1142482827,
@@ -103,74 +125,52 @@
       "stars": 440,
       "forks": 120,
       "language": "Python",
-      "pushed_at": "2026-07-21T06:24:30Z",
-      "updated_at": "2026-07-21T05:42:05Z"
+      "pushed_at": "2026-07-21T10:19:10Z",
+      "updated_at": "2026-07-21T10:06:58Z"
     },
     {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 201,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-21T04:38:59Z",
-      "updated_at": "2026-07-21T04:38:07Z"
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 325,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-07-21T10:22:44Z",
+      "updated_at": "2026-07-21T10:23:45Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-21T05:44:15Z",
-      "updated_at": "2026-07-21T05:45:03Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 149,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-21T05:58:34Z",
-      "updated_at": "2026-07-21T05:58:37Z"
-    },
-    {
-      "id": 1161865259,
-      "full_name": "Avi7ii/AirSend",
-      "html_url": "https://github.com/Avi7ii/AirSend",
-      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
-      "stars": 93,
-      "forks": 3,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-21T05:30:08Z",
-      "updated_at": "2026-07-21T05:30:21Z"
-    },
-    {
-      "id": 1125215891,
-      "full_name": "Asthestarsfalll/piri",
-      "html_url": "https://github.com/Asthestarsfalll/piri",
-      "description": "🚀 Piri is a high-performance Niri extension tool built with Rust. It leverages efficient Niri IPC interaction and a unified event distribution mechanism to provide a robust, state-driven plugin system.",
-      "stars": 82,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-07-21T05:42:57Z",
-      "updated_at": "2026-07-21T05:43:06Z"
-    },
-    {
-      "id": 1240365551,
-      "full_name": "wr/mojito",
-      "html_url": "https://github.com/wr/mojito",
-      "description": "Type :emoji:, ::symbol::, and :::gif::: shortcodes anywhere on macOS",
-      "stars": 76,
-      "forks": 2,
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 310,
+      "forks": 19,
       "language": "Swift",
-      "pushed_at": "2026-07-21T04:49:27Z",
-      "updated_at": "2026-07-21T04:07:42Z"
+      "pushed_at": "2026-07-21T10:14:35Z",
+      "updated_at": "2026-07-21T10:15:04Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-21T09:28:05Z",
+      "updated_at": "2026-07-21T09:28:12Z"
+    },
+    {
+      "id": 346456845,
+      "full_name": "LinwoodDev/Flow",
+      "html_url": "https://github.com/LinwoodDev/Flow",
+      "description": "⌚ Feature rich event, group and time managment system",
+      "stars": 150,
+      "forks": 11,
+      "language": "Dart",
+      "pushed_at": "2026-07-21T10:18:21Z",
+      "updated_at": "2026-07-21T10:15:56Z"
     }
   ]
 }
