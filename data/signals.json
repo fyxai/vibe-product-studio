@@ -5,40 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 985,
+  "total_found": 986,
   "items": [
+    {
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 188725,
+      "forks": 26464,
+      "language": "Shell",
+      "pushed_at": "2026-07-21T20:36:27Z",
+      "updated_at": "2026-07-21T20:26:50Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 72360,
+      "forks": 4504,
+      "language": "Rust",
+      "pushed_at": "2026-07-21T19:43:29Z",
+      "updated_at": "2026-07-21T21:01:30Z"
+    },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44382,
+      "stars": 44386,
       "forks": 2792,
       "language": "C#",
-      "pushed_at": "2026-07-21T16:21:11Z",
-      "updated_at": "2026-07-21T17:13:50Z"
+      "pushed_at": "2026-07-21T20:05:29Z",
+      "updated_at": "2026-07-21T20:59:33Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40578,
+      "forks": 945,
+      "language": "Rust",
+      "pushed_at": "2026-07-21T19:31:48Z",
+      "updated_at": "2026-07-21T20:58:19Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20784,
+      "stars": 20785,
       "forks": 1875,
       "language": "TypeScript",
-      "pushed_at": "2026-07-21T17:00:47Z",
-      "updated_at": "2026-07-21T17:07:33Z"
+      "pushed_at": "2026-07-21T20:42:12Z",
+      "updated_at": "2026-07-21T20:40:07Z"
     },
     {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 14131,
-      "forks": 436,
-      "language": "Rust",
-      "pushed_at": "2026-07-21T16:49:11Z",
-      "updated_at": "2026-07-21T16:50:51Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16691,
+      "forks": 1661,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-21T20:16:42Z",
+      "updated_at": "2026-07-21T20:48:17Z"
+    },
+    {
+      "id": 3868463,
+      "full_name": "jrnl-org/jrnl",
+      "html_url": "https://github.com/jrnl-org/jrnl",
+      "description": "Collect your thoughts and notes without leaving the command line.",
+      "stars": 7270,
+      "forks": 557,
+      "language": "Python",
+      "pushed_at": "2026-07-21T19:16:14Z",
+      "updated_at": "2026-07-21T19:20:11Z"
     },
     {
       "id": 129699403,
@@ -48,41 +92,41 @@
       "stars": 5749,
       "forks": 760,
       "language": "Swift",
-      "pushed_at": "2026-07-21T17:14:49Z",
-      "updated_at": "2026-07-21T16:50:57Z"
+      "pushed_at": "2026-07-21T20:58:11Z",
+      "updated_at": "2026-07-21T19:26:05Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3752,
-      "forks": 475,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-21T16:14:07Z",
-      "updated_at": "2026-07-21T16:16:40Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2192,
+      "forks": 85,
+      "language": "Swift",
+      "pushed_at": "2026-07-21T20:16:51Z",
+      "updated_at": "2026-07-21T20:51:23Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1894,
+      "forks": 130,
+      "language": "Go",
+      "pushed_at": "2026-07-21T19:41:15Z",
+      "updated_at": "2026-07-21T19:38:19Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1327,
-      "forks": 81,
+      "stars": 1377,
+      "forks": 83,
       "language": "TypeScript",
-      "pushed_at": "2026-07-21T17:06:56Z",
-      "updated_at": "2026-07-21T17:16:12Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 982,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-07-21T17:01:56Z",
-      "updated_at": "2026-07-21T17:02:30Z"
+      "pushed_at": "2026-07-21T20:49:46Z",
+      "updated_at": "2026-07-21T21:05:18Z"
     },
     {
       "id": 1250907197,
@@ -92,85 +136,41 @@
       "stars": 948,
       "forks": 50,
       "language": "C#",
-      "pushed_at": "2026-07-21T16:52:31Z",
-      "updated_at": "2026-07-21T16:54:00Z"
+      "pushed_at": "2026-07-21T20:56:53Z",
+      "updated_at": "2026-07-21T20:57:10Z"
     },
     {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 938,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-07-21T16:13:02Z",
-      "updated_at": "2026-07-21T16:12:55Z"
-    },
-    {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 325,
-      "forks": 21,
+      "id": 17773756,
+      "full_name": "getting-things-gnome/gtg",
+      "html_url": "https://github.com/getting-things-gnome/gtg",
+      "description": "Getting Things GNOME! desktop app development",
+      "stars": 602,
+      "forks": 176,
       "language": "Python",
-      "pushed_at": "2026-07-21T16:30:07Z",
-      "updated_at": "2026-07-21T16:32:14Z"
+      "pushed_at": "2026-07-21T19:23:41Z",
+      "updated_at": "2026-07-21T19:23:47Z"
     },
     {
-      "id": 1270787191,
-      "full_name": "twhsi/skills",
-      "html_url": "https://github.com/twhsi/skills",
-      "description": "AI Agent Skills for Chinese Knowledge Workers: iMandalArt, FIRE, planning, and publishing workflows for Claude Code, Codex, and LLM agents.",
-      "stars": 253,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-07-21T15:46:08Z",
-      "updated_at": "2026-07-21T15:46:13Z"
-    },
-    {
-      "id": 1234381241,
-      "full_name": "Priyanshu-byte-coder/devtrack",
-      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
-      "description": "Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.",
-      "stars": 200,
-      "forks": 436,
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 324,
+      "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-21T16:42:05Z",
-      "updated_at": "2026-07-21T16:29:13Z"
+      "pushed_at": "2026-07-21T21:01:14Z",
+      "updated_at": "2026-07-21T21:02:05Z"
     },
     {
-      "id": 412385182,
-      "full_name": "scribe-org/Scribe-iOS",
-      "html_url": "https://github.com/scribe-org/Scribe-iOS",
-      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
-      "stars": 167,
-      "forks": 107,
-      "language": "Swift",
-      "pushed_at": "2026-07-21T16:16:20Z",
-      "updated_at": "2026-07-21T16:19:34Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-21T17:11:04Z",
-      "updated_at": "2026-07-21T17:13:26Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-21T16:02:15Z",
-      "updated_at": "2026-07-21T17:13:14Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 18,
+      "language": "Shell",
+      "pushed_at": "2026-07-21T19:15:26Z",
+      "updated_at": "2026-07-21T19:16:06Z"
     }
   ]
 }
