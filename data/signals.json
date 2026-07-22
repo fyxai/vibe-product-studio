@@ -5,128 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 987,
+  "total_found": 988,
   "items": [
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16698,
+      "forks": 1660,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T05:46:19Z",
+      "updated_at": "2026-07-22T06:24:19Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14314,
+      "forks": 968,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T06:12:45Z",
+      "updated_at": "2026-07-22T06:13:33Z"
+    },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14232,
+      "stars": 14238,
       "forks": 913,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T01:42:43Z",
-      "updated_at": "2026-07-22T01:51:59Z"
+      "pushed_at": "2026-07-22T04:25:35Z",
+      "updated_at": "2026-07-22T06:20:53Z"
     },
     {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
-      "stars": 9388,
-      "forks": 743,
-      "language": "HTML",
-      "pushed_at": "2026-07-22T01:46:12Z",
-      "updated_at": "2026-07-22T02:29:26Z"
-    },
-    {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8627,
-      "forks": 947,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T02:02:31Z",
-      "updated_at": "2026-07-22T02:00:39Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8548,
-      "forks": 248,
-      "language": "C++",
-      "pushed_at": "2026-07-22T01:54:57Z",
-      "updated_at": "2026-07-22T02:18:11Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3475,
-      "forks": 234,
+      "id": 1238120057,
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "stars": 7251,
+      "forks": 307,
       "language": "Python",
-      "pushed_at": "2026-07-22T02:30:41Z",
-      "updated_at": "2026-07-22T02:30:50Z"
+      "pushed_at": "2026-07-22T06:14:25Z",
+      "updated_at": "2026-07-22T06:25:58Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3348,
-      "forks": 158,
-      "language": "Gherkin",
-      "pushed_at": "2026-07-22T02:12:59Z",
-      "updated_at": "2026-07-22T02:13:02Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1622,
-      "forks": 101,
-      "language": "Rust",
-      "pushed_at": "2026-07-22T02:07:28Z",
-      "updated_at": "2026-07-22T02:06:59Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1410,
-      "forks": 84,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T01:44:48Z",
-      "updated_at": "2026-07-22T02:12:33Z"
-    },
-    {
-      "id": 843554833,
-      "full_name": "Shopify/tophat",
-      "html_url": "https://github.com/Shopify/tophat",
-      "description": "Easily install and test mobile applications with a single click.",
-      "stars": 1058,
-      "forks": 36,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5749,
+      "forks": 761,
       "language": "Swift",
-      "pushed_at": "2026-07-22T01:38:47Z",
-      "updated_at": "2026-07-22T01:38:49Z"
+      "pushed_at": "2026-07-22T06:04:34Z",
+      "updated_at": "2026-07-22T06:04:51Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5641,
+      "forks": 883,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T04:36:41Z",
+      "updated_at": "2026-07-22T06:24:35Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 985,
+      "stars": 984,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-22T01:33:25Z",
-      "updated_at": "2026-07-22T01:58:57Z"
+      "pushed_at": "2026-07-22T04:17:31Z",
+      "updated_at": "2026-07-22T04:18:02Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 727,
-      "forks": 56,
-      "language": "Swift",
-      "pushed_at": "2026-07-22T01:19:58Z",
-      "updated_at": "2026-07-22T01:20:03Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 887,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T05:29:22Z",
+      "updated_at": "2026-07-22T05:27:56Z"
     },
     {
       "id": 1142482827,
@@ -136,30 +103,63 @@
       "stars": 440,
       "forks": 120,
       "language": "Python",
-      "pushed_at": "2026-07-22T02:15:53Z",
-      "updated_at": "2026-07-22T01:19:10Z"
+      "pushed_at": "2026-07-22T06:20:05Z",
+      "updated_at": "2026-07-22T05:55:55Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-22T02:10:29Z",
-      "updated_at": "2026-07-22T02:10:36Z"
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 371,
+      "forks": 23,
+      "language": "Swift",
+      "pushed_at": "2026-07-22T06:21:02Z",
+      "updated_at": "2026-07-22T06:21:36Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 326,
+      "forks": 20,
+      "language": "Python",
+      "pushed_at": "2026-07-22T05:36:50Z",
+      "updated_at": "2026-07-22T05:36:50Z"
+    },
+    {
+      "id": 1152798823,
+      "full_name": "Santofer/Remindian",
+      "html_url": "https://github.com/Santofer/Remindian",
+      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
+      "stars": 310,
+      "forks": 19,
+      "language": "Swift",
+      "pushed_at": "2026-07-22T06:08:03Z",
+      "updated_at": "2026-07-22T06:09:07Z"
     },
     {
       "id": 1255014875,
       "full_name": "ntd4996/agentpet",
       "html_url": "https://github.com/ntd4996/agentpet",
       "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
-      "stars": 281,
+      "stars": 282,
       "forks": 51,
       "language": "Swift",
-      "pushed_at": "2026-07-22T02:28:51Z",
-      "updated_at": "2026-07-22T02:28:51Z"
+      "pushed_at": "2026-07-22T05:31:26Z",
+      "updated_at": "2026-07-22T05:31:37Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 182,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-22T05:24:32Z",
+      "updated_at": "2026-07-22T05:24:37Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-22T02:05:04Z",
-      "updated_at": "2026-07-22T02:05:09Z"
+      "pushed_at": "2026-07-22T05:43:24Z",
+      "updated_at": "2026-07-22T05:43:37Z"
     }
   ]
 }
