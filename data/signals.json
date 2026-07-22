@@ -5,73 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 988,
+  "total_found": 991,
   "items": [
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 72515,
+      "forks": 4514,
+      "language": "Rust",
+      "pushed_at": "2026-07-22T10:02:43Z",
+      "updated_at": "2026-07-22T10:18:47Z"
+    },
+    {
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 18319,
+      "forks": 963,
+      "language": "Python",
+      "pushed_at": "2026-07-22T10:04:35Z",
+      "updated_at": "2026-07-22T09:23:27Z"
+    },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 16698,
+      "stars": 16702,
       "forks": 1660,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T05:46:19Z",
-      "updated_at": "2026-07-22T06:24:19Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14314,
-      "forks": 968,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T06:12:45Z",
-      "updated_at": "2026-07-22T06:13:33Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14238,
-      "forks": 913,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T04:25:35Z",
-      "updated_at": "2026-07-22T06:20:53Z"
-    },
-    {
-      "id": 1238120057,
-      "full_name": "ayghri/i-have-adhd",
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": 7251,
-      "forks": 307,
-      "language": "Python",
-      "pushed_at": "2026-07-22T06:14:25Z",
-      "updated_at": "2026-07-22T06:25:58Z"
+      "pushed_at": "2026-07-22T09:23:51Z",
+      "updated_at": "2026-07-22T09:24:58Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5749,
+      "stars": 5750,
       "forks": 761,
       "language": "Swift",
-      "pushed_at": "2026-07-22T06:04:34Z",
-      "updated_at": "2026-07-22T06:04:51Z"
+      "pushed_at": "2026-07-22T10:11:41Z",
+      "updated_at": "2026-07-22T09:29:58Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5641,
+      "stars": 5642,
       "forks": 883,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T04:36:41Z",
-      "updated_at": "2026-07-22T06:24:35Z"
+      "pushed_at": "2026-07-22T09:24:08Z",
+      "updated_at": "2026-07-22T09:08:48Z"
+    },
+    {
+      "id": 70306830,
+      "full_name": "hoothin/UserScripts",
+      "html_url": "https://github.com/hoothin/UserScripts",
+      "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
+      "stars": 4228,
+      "forks": 589,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-22T10:11:10Z",
+      "updated_at": "2026-07-22T10:12:45Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1203,
+      "forks": 217,
+      "language": "HTML",
+      "pushed_at": "2026-07-22T09:56:26Z",
+      "updated_at": "2026-07-22T09:56:42Z"
     },
     {
       "id": 1148683593,
@@ -81,19 +92,41 @@
       "stars": 984,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-22T04:17:31Z",
-      "updated_at": "2026-07-22T04:18:02Z"
+      "pushed_at": "2026-07-22T10:14:11Z",
+      "updated_at": "2026-07-22T10:16:02Z"
     },
     {
       "id": 1125258937,
       "full_name": "urzeye/ophel",
       "html_url": "https://github.com/urzeye/ophel",
       "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 887,
+      "stars": 889,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T05:29:22Z",
-      "updated_at": "2026-07-22T05:27:56Z"
+      "pushed_at": "2026-07-22T08:45:55Z",
+      "updated_at": "2026-07-22T09:44:48Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 717,
+      "forks": 38,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T09:33:52Z",
+      "updated_at": "2026-07-22T09:59:56Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 570,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T09:40:04Z",
+      "updated_at": "2026-07-22T09:40:51Z"
     },
     {
       "id": 1142482827,
@@ -103,19 +136,19 @@
       "stars": 440,
       "forks": 120,
       "language": "Python",
-      "pushed_at": "2026-07-22T06:20:05Z",
-      "updated_at": "2026-07-22T05:55:55Z"
+      "pushed_at": "2026-07-22T10:00:52Z",
+      "updated_at": "2026-07-22T09:51:29Z"
     },
     {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 371,
-      "forks": 23,
-      "language": "Swift",
-      "pushed_at": "2026-07-22T06:21:02Z",
-      "updated_at": "2026-07-22T06:21:36Z"
+      "id": 69779247,
+      "full_name": "CodeverDotDev/codever",
+      "html_url": "https://github.com/CodeverDotDev/codever",
+      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
+      "stars": 383,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T08:34:26Z",
+      "updated_at": "2026-07-22T08:34:43Z"
     },
     {
       "id": 1041102492,
@@ -125,52 +158,19 @@
       "stars": 326,
       "forks": 20,
       "language": "Python",
-      "pushed_at": "2026-07-22T05:36:50Z",
-      "updated_at": "2026-07-22T05:36:50Z"
+      "pushed_at": "2026-07-22T09:19:52Z",
+      "updated_at": "2026-07-22T09:20:55Z"
     },
     {
-      "id": 1152798823,
-      "full_name": "Santofer/Remindian",
-      "html_url": "https://github.com/Santofer/Remindian",
-      "description": "Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS",
-      "stars": 310,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-07-22T06:08:03Z",
-      "updated_at": "2026-07-22T06:09:07Z"
-    },
-    {
-      "id": 1255014875,
-      "full_name": "ntd4996/agentpet",
-      "html_url": "https://github.com/ntd4996/agentpet",
-      "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
-      "stars": 282,
-      "forks": 51,
-      "language": "Swift",
-      "pushed_at": "2026-07-22T05:31:26Z",
-      "updated_at": "2026-07-22T05:31:37Z"
-    },
-    {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 182,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-22T05:24:32Z",
-      "updated_at": "2026-07-22T05:24:37Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-22T05:43:24Z",
-      "updated_at": "2026-07-22T05:43:37Z"
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. GPL-3.0 open source.",
+      "stars": 193,
+      "forks": 8,
+      "language": "C#",
+      "pushed_at": "2026-07-22T08:32:01Z",
+      "updated_at": "2026-07-22T08:34:02Z"
     }
   ]
 }
