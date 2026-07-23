@@ -8,114 +8,147 @@
   "total_found": 992,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 232254,
-      "forks": 35416,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-23T00:44:37Z",
-      "updated_at": "2026-07-23T02:35:24Z"
-    },
-    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38764,
-      "forks": 3858,
+      "stars": 38767,
+      "forks": 3859,
       "language": "C#",
-      "pushed_at": "2026-07-23T02:34:54Z",
-      "updated_at": "2026-07-23T02:34:59Z"
+      "pushed_at": "2026-07-23T04:33:03Z",
+      "updated_at": "2026-07-23T04:33:12Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 33756,
-      "forks": 3545,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16720,
+      "forks": 1662,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T23:29:39Z",
-      "updated_at": "2026-07-23T02:34:27Z"
+      "pushed_at": "2026-07-23T05:21:23Z",
+      "updated_at": "2026-07-23T05:54:08Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14262,
+      "forks": 915,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T04:09:09Z",
+      "updated_at": "2026-07-23T06:19:07Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5751,
+      "forks": 762,
+      "language": "Swift",
+      "pushed_at": "2026-07-23T06:02:24Z",
+      "updated_at": "2026-07-23T05:47:24Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5643,
+      "stars": 5645,
       "forks": 884,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T01:57:19Z",
-      "updated_at": "2026-07-23T02:21:02Z"
+      "pushed_at": "2026-07-23T04:56:26Z",
+      "updated_at": "2026-07-23T04:33:28Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3349,
-      "forks": 158,
-      "language": "Gherkin",
-      "pushed_at": "2026-07-23T01:59:37Z",
-      "updated_at": "2026-07-23T01:59:33Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1896,
+      "forks": 131,
+      "language": "Go",
+      "pushed_at": "2026-07-23T04:17:22Z",
+      "updated_at": "2026-07-23T04:13:46Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1519,
-      "forks": 42,
-      "language": "Rust",
-      "pushed_at": "2026-07-22T23:38:57Z",
-      "updated_at": "2026-07-22T23:39:02Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1487,
-      "forks": 88,
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1557,
+      "forks": 79,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T01:05:13Z",
-      "updated_at": "2026-07-23T01:40:57Z"
+      "pushed_at": "2026-07-23T05:12:42Z",
+      "updated_at": "2026-07-23T05:12:51Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 986,
+      "stars": 987,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-23T02:36:52Z",
-      "updated_at": "2026-07-23T02:36:56Z"
+      "pushed_at": "2026-07-23T05:55:53Z",
+      "updated_at": "2026-07-23T06:25:52Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 967,
+      "stars": 979,
       "forks": 49,
       "language": "C#",
-      "pushed_at": "2026-07-23T01:21:06Z",
-      "updated_at": "2026-07-23T02:22:57Z"
+      "pushed_at": "2026-07-23T03:38:07Z",
+      "updated_at": "2026-07-23T05:53:02Z"
     },
     {
       "id": 1183931176,
       "full_name": "ifer47/markeron",
       "html_url": "https://github.com/ifer47/markeron",
       "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
-      "stars": 723,
+      "stars": 724,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T01:21:23Z",
-      "updated_at": "2026-07-23T02:12:58Z"
+      "pushed_at": "2026-07-23T03:55:03Z",
+      "updated_at": "2026-07-23T04:33:21Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 570,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T04:03:22Z",
+      "updated_at": "2026-07-23T04:03:31Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 456,
+      "forks": 38,
+      "language": "Rust",
+      "pushed_at": "2026-07-23T05:43:56Z",
+      "updated_at": "2026-07-23T05:43:58Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 440,
+      "forks": 121,
+      "language": "Python",
+      "pushed_at": "2026-07-23T05:07:15Z",
+      "updated_at": "2026-07-23T04:57:06Z"
     },
     {
       "id": 1030039430,
@@ -125,52 +158,19 @@
       "stars": 324,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T02:28:41Z",
-      "updated_at": "2026-07-23T02:28:45Z"
+      "pushed_at": "2026-07-23T06:27:25Z",
+      "updated_at": "2026-07-23T05:39:10Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 318,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-23T02:16:32Z",
-      "updated_at": "2026-07-23T02:16:36Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 201,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T23:15:51Z",
-      "updated_at": "2026-07-22T23:15:59Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-22T23:57:38Z",
-      "updated_at": "2026-07-22T23:57:42Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 151,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-22T23:13:44Z",
-      "updated_at": "2026-07-22T23:13:54Z"
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 182,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-23T05:35:27Z",
+      "updated_at": "2026-07-23T05:36:01Z"
     }
   ]
 }
