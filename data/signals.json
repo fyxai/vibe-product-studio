@@ -5,106 +5,150 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 997,
+  "total_found": 998,
   "items": [
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 232799,
+      "forks": 35481,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-24T16:53:30Z",
+      "updated_at": "2026-07-24T17:33:39Z"
+    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20848,
-      "forks": 1883,
+      "stars": 20850,
+      "forks": 1884,
       "language": "TypeScript",
-      "pushed_at": "2026-07-24T13:36:37Z",
-      "updated_at": "2026-07-24T13:37:08Z"
+      "pushed_at": "2026-07-24T16:37:45Z",
+      "updated_at": "2026-07-24T17:31:59Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16752,
-      "forks": 1668,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14308,
+      "forks": 920,
       "language": "TypeScript",
-      "pushed_at": "2026-07-24T12:18:40Z",
-      "updated_at": "2026-07-24T13:00:50Z"
+      "pushed_at": "2026-07-24T17:31:47Z",
+      "updated_at": "2026-07-24T16:58:17Z"
+    },
+    {
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 14149,
+      "forks": 436,
+      "language": "Rust",
+      "pushed_at": "2026-07-24T15:45:33Z",
+      "updated_at": "2026-07-24T15:55:36Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13297,
+      "forks": 819,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-24T17:15:42Z",
+      "updated_at": "2026-07-24T17:15:50Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5753,
+      "stars": 5754,
       "forks": 762,
       "language": "Swift",
-      "pushed_at": "2026-07-24T13:41:37Z",
-      "updated_at": "2026-07-24T13:34:36Z"
+      "pushed_at": "2026-07-24T17:31:13Z",
+      "updated_at": "2026-07-24T17:03:59Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2288,
-      "forks": 93,
-      "language": "Swift",
-      "pushed_at": "2026-07-24T13:40:46Z",
-      "updated_at": "2026-07-24T13:38:36Z"
+      "id": 222709217,
+      "full_name": "wmariuss/awesome-devops",
+      "html_url": "https://github.com/wmariuss/awesome-devops",
+      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+      "stars": 4299,
+      "forks": 934,
+      "language": "Python",
+      "pushed_at": "2026-07-24T15:52:00Z",
+      "updated_at": "2026-07-24T15:51:49Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3503,
+      "forks": 237,
+      "language": "Python",
+      "pushed_at": "2026-07-24T15:51:17Z",
+      "updated_at": "2026-07-24T16:43:25Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1518,
+      "forks": 88,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-24T17:22:16Z",
+      "updated_at": "2026-07-24T17:22:21Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 992,
+      "stars": 993,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-24T13:25:39Z",
-      "updated_at": "2026-07-24T13:26:16Z"
+      "pushed_at": "2026-07-24T17:06:11Z",
+      "updated_at": "2026-07-24T17:06:15Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 571,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-24T17:17:19Z",
+      "updated_at": "2026-07-24T17:17:22Z"
     },
     {
       "id": 1142482827,
       "full_name": "davekilleen/Dex",
       "html_url": "https://github.com/davekilleen/Dex",
       "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 444,
+      "stars": 445,
       "forks": 121,
       "language": "Python",
-      "pushed_at": "2026-07-24T12:43:12Z",
-      "updated_at": "2026-07-24T12:29:33Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 318,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-24T13:28:44Z",
-      "updated_at": "2026-07-24T13:28:51Z"
+      "pushed_at": "2026-07-24T17:32:46Z",
+      "updated_at": "2026-07-24T17:32:49Z"
     },
     {
       "id": 1258883863,
       "full_name": "SwiftList/SwiftList",
       "html_url": "https://github.com/SwiftList/SwiftList",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 232,
+      "stars": 236,
       "forks": 4,
       "language": "C#",
-      "pushed_at": "2026-07-24T13:05:01Z",
-      "updated_at": "2026-07-24T13:34:20Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 177,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-24T13:29:12Z",
-      "updated_at": "2026-07-24T13:31:30Z"
+      "pushed_at": "2026-07-24T16:31:38Z",
+      "updated_at": "2026-07-24T16:31:40Z"
     },
     {
       "id": 1283323996,
@@ -114,8 +158,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-24T12:21:24Z",
-      "updated_at": "2026-07-24T12:22:19Z"
+      "pushed_at": "2026-07-24T16:25:21Z",
+      "updated_at": "2026-07-24T16:25:32Z"
     },
     {
       "id": 1283327964,
@@ -125,52 +169,8 @@
       "stars": 150,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-24T12:20:11Z",
-      "updated_at": "2026-07-24T12:20:39Z"
-    },
-    {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
-      "stars": 146,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-24T13:41:00Z",
-      "updated_at": "2026-07-24T13:30:36Z"
-    },
-    {
-      "id": 1302557102,
-      "full_name": "Licoy/StrokeMouse",
-      "html_url": "https://github.com/Licoy/StrokeMouse",
-      "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-      "stars": 111,
-      "forks": 4,
-      "language": "Swift",
-      "pushed_at": "2026-07-24T12:33:35Z",
-      "updated_at": "2026-07-24T12:34:29Z"
-    },
-    {
-      "id": 1220384784,
-      "full_name": "danielvm-git/bigpowers",
-      "html_url": "https://github.com/danielvm-git/bigpowers",
-      "description": "72 agent skills synthesizing 17 years of software engineering discipline into a prescriptive methodology for solo developers",
-      "stars": 83,
-      "forks": 3,
-      "language": "Shell",
-      "pushed_at": "2026-07-24T12:43:24Z",
-      "updated_at": "2026-07-24T12:43:57Z"
-    },
-    {
-      "id": 1267490967,
-      "full_name": "rolecraft-sh/rolecraft",
-      "html_url": "https://github.com/rolecraft-sh/rolecraft",
-      "description": "Zero-dependency CLI that installs AI agent skills + MCP servers from any source. 86+ agents. No signup, no telemetry, 4 KB.",
-      "stars": 75,
-      "forks": 17,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-24T13:38:11Z",
-      "updated_at": "2026-07-24T13:40:36Z"
+      "pushed_at": "2026-07-24T16:46:31Z",
+      "updated_at": "2026-07-24T16:47:09Z"
     }
   ]
 }
