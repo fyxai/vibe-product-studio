@@ -5,117 +5,128 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 994,
+  "total_found": 995,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 232543,
-      "forks": 35440,
+      "stars": 232596,
+      "forks": 35448,
       "language": "JavaScript",
-      "pushed_at": "2026-07-23T20:54:12Z",
-      "updated_at": "2026-07-23T21:00:33Z"
+      "pushed_at": "2026-07-24T02:29:41Z",
+      "updated_at": "2026-07-24T02:29:27Z"
     },
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 128205,
-      "forks": 14532,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-23T18:57:10Z",
-      "updated_at": "2026-07-23T20:47:37Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 72835,
-      "forks": 4545,
-      "language": "Rust",
-      "pushed_at": "2026-07-23T18:55:10Z",
-      "updated_at": "2026-07-23T20:59:33Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38783,
+      "forks": 3859,
+      "language": "C#",
+      "pushed_at": "2026-07-24T01:52:26Z",
+      "updated_at": "2026-07-24T02:03:29Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20832,
+      "stars": 20837,
       "forks": 1881,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T20:26:42Z",
-      "updated_at": "2026-07-23T19:23:38Z"
+      "pushed_at": "2026-07-24T00:46:10Z",
+      "updated_at": "2026-07-24T00:05:43Z"
     },
     {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
-      "stars": 9407,
-      "forks": 746,
-      "language": "HTML",
-      "pushed_at": "2026-07-23T18:52:44Z",
-      "updated_at": "2026-07-23T19:28:06Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11693,
+      "forks": 1446,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-24T01:24:45Z",
+      "updated_at": "2026-07-24T01:11:47Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8563,
+      "stars": 8564,
       "forks": 249,
       "language": "C++",
-      "pushed_at": "2026-07-23T20:45:28Z",
-      "updated_at": "2026-07-23T20:47:26Z"
+      "pushed_at": "2026-07-24T00:50:39Z",
+      "updated_at": "2026-07-24T01:21:15Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5752,
-      "forks": 762,
-      "language": "Swift",
-      "pushed_at": "2026-07-23T20:38:03Z",
-      "updated_at": "2026-07-23T20:38:07Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5427,
-      "forks": 638,
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6166,
+      "forks": 371,
       "language": "Kotlin",
-      "pushed_at": "2026-07-23T19:51:20Z",
-      "updated_at": "2026-07-23T19:51:30Z"
+      "pushed_at": "2026-07-24T00:12:30Z",
+      "updated_at": "2026-07-24T02:04:01Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3493,
-      "forks": 236,
-      "language": "Python",
-      "pushed_at": "2026-07-23T20:40:02Z",
-      "updated_at": "2026-07-23T21:00:45Z"
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5659,
+      "forks": 885,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-24T02:31:24Z",
+      "updated_at": "2026-07-24T02:33:00Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5489,
+      "forks": 317,
+      "language": "Vala",
+      "pushed_at": "2026-07-24T00:02:01Z",
+      "updated_at": "2026-07-24T01:24:58Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1509,
+      "stars": 1510,
       "forks": 88,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T20:31:25Z",
-      "updated_at": "2026-07-23T19:59:49Z"
+      "pushed_at": "2026-07-24T01:24:37Z",
+      "updated_at": "2026-07-24T01:29:34Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 999,
+      "forks": 49,
+      "language": "C#",
+      "pushed_at": "2026-07-24T00:01:41Z",
+      "updated_at": "2026-07-24T02:13:48Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 990,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-07-24T02:15:25Z",
+      "updated_at": "2026-07-24T02:15:30Z"
     },
     {
       "id": 49612213,
@@ -125,19 +136,19 @@
       "stars": 563,
       "forks": 70,
       "language": "C#",
-      "pushed_at": "2026-07-23T20:10:48Z",
-      "updated_at": "2026-07-23T20:10:52Z"
+      "pushed_at": "2026-07-24T01:36:47Z",
+      "updated_at": "2026-07-24T01:36:50Z"
     },
     {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 413,
-      "forks": 53,
-      "language": "PHP",
-      "pushed_at": "2026-07-23T19:47:17Z",
-      "updated_at": "2026-07-23T19:55:51Z"
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 444,
+      "forks": 121,
+      "language": "Python",
+      "pushed_at": "2026-07-24T00:20:57Z",
+      "updated_at": "2026-07-24T00:06:26Z"
     },
     {
       "id": 1166865874,
@@ -147,30 +158,19 @@
       "stars": 318,
       "forks": 18,
       "language": "Shell",
-      "pushed_at": "2026-07-23T19:09:57Z",
-      "updated_at": "2026-07-23T19:10:03Z"
+      "pushed_at": "2026-07-24T02:20:03Z",
+      "updated_at": "2026-07-24T02:20:07Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-23T20:56:11Z",
-      "updated_at": "2026-07-23T20:56:16Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-23T20:13:53Z",
-      "updated_at": "2026-07-23T20:14:08Z"
+      "id": 273746082,
+      "full_name": "mateusfg7/Noisekun",
+      "html_url": "https://github.com/mateusfg7/Noisekun",
+      "description": ":headphones: Web page for listen combinations of sounds for relax, sleep, or getting more productive on tasks.",
+      "stars": 281,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-24T02:18:16Z",
+      "updated_at": "2026-07-24T02:14:51Z"
     }
   ]
 }
