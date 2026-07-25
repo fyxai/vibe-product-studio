@@ -8,48 +8,114 @@
   "total_found": 1000,
   "items": [
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25975,
-      "forks": 1914,
-      "language": "Vue",
-      "pushed_at": "2026-07-25T13:11:37Z",
-      "updated_at": "2026-07-25T13:11:02Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40747,
+      "forks": 953,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T16:06:09Z",
+      "updated_at": "2026-07-25T16:54:13Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5755,
-      "forks": 762,
-      "language": "Swift",
-      "pushed_at": "2026-07-25T13:09:05Z",
-      "updated_at": "2026-07-25T13:06:36Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20859,
+      "forks": 1888,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T15:53:32Z",
+      "updated_at": "2026-07-25T16:04:16Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 742,
-      "forks": 58,
-      "language": "Swift",
-      "pushed_at": "2026-07-25T12:19:03Z",
-      "updated_at": "2026-07-25T12:54:51Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15243,
+      "forks": 625,
+      "language": "C#",
+      "pushed_at": "2026-07-25T15:31:23Z",
+      "updated_at": "2026-07-25T15:56:02Z"
+    },
+    {
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5497,
+      "forks": 318,
+      "language": "Vala",
+      "pushed_at": "2026-07-25T15:59:40Z",
+      "updated_at": "2026-07-25T15:59:54Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3791,
+      "forks": 789,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T16:43:34Z",
+      "updated_at": "2026-07-25T16:42:36Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3779,
+      "forks": 482,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T16:29:34Z",
+      "updated_at": "2026-07-25T16:29:43Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3511,
+      "forks": 239,
+      "language": "Python",
+      "pushed_at": "2026-07-25T15:19:00Z",
+      "updated_at": "2026-07-25T15:59:29Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1522,
+      "forks": 88,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T15:15:20Z",
+      "updated_at": "2026-07-25T15:16:29Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1000,
+      "forks": 33,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T16:37:28Z",
+      "updated_at": "2026-07-25T16:37:39Z"
     },
     {
       "id": 1274728677,
       "full_name": "raiyanyahya/recall",
       "html_url": "https://github.com/raiyanyahya/recall",
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": 724,
+      "stars": 726,
       "forks": 44,
       "language": "Python",
-      "pushed_at": "2026-07-25T13:09:10Z",
-      "updated_at": "2026-07-25T13:10:15Z"
+      "pushed_at": "2026-07-25T16:39:44Z",
+      "updated_at": "2026-07-25T16:40:05Z"
     },
     {
       "id": 49612213,
@@ -59,19 +125,8 @@
       "stars": 563,
       "forks": 70,
       "language": "C#",
-      "pushed_at": "2026-07-25T11:25:49Z",
-      "updated_at": "2026-07-25T11:26:28Z"
-    },
-    {
-      "id": 208359230,
-      "full_name": "TTLApp/time-to-leave",
-      "html_url": "https://github.com/TTLApp/time-to-leave",
-      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
-      "stars": 491,
-      "forks": 277,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-25T12:29:17Z",
-      "updated_at": "2026-07-25T12:29:43Z"
+      "pushed_at": "2026-07-25T15:58:41Z",
+      "updated_at": "2026-07-25T15:58:52Z"
     },
     {
       "id": 1201098277,
@@ -81,30 +136,8 @@
       "stars": 459,
       "forks": 38,
       "language": "Rust",
-      "pushed_at": "2026-07-25T13:19:13Z",
-      "updated_at": "2026-07-25T13:06:23Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 448,
-      "forks": 81,
-      "language": "Go",
-      "pushed_at": "2026-07-25T12:37:14Z",
-      "updated_at": "2026-07-25T12:37:16Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 318,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-25T13:16:28Z",
-      "updated_at": "2026-07-25T13:16:45Z"
+      "pushed_at": "2026-07-25T15:43:02Z",
+      "updated_at": "2026-07-25T15:54:01Z"
     },
     {
       "id": 273746082,
@@ -114,63 +147,30 @@
       "stars": 281,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T12:07:03Z",
-      "updated_at": "2026-07-25T12:06:17Z"
+      "pushed_at": "2026-07-25T16:29:31Z",
+      "updated_at": "2026-07-25T15:35:21Z"
     },
     {
       "id": 1258883863,
       "full_name": "SwiftList/SwiftList",
       "html_url": "https://github.com/SwiftList/SwiftList",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 259,
+      "stars": 260,
       "forks": 5,
       "language": "C#",
-      "pushed_at": "2026-07-25T13:09:25Z",
-      "updated_at": "2026-07-25T13:10:30Z"
+      "pushed_at": "2026-07-25T16:26:00Z",
+      "updated_at": "2026-07-25T16:26:00Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 248,
-      "forks": 31,
-      "language": "Python",
-      "pushed_at": "2026-07-25T12:39:20Z",
-      "updated_at": "2026-07-25T12:11:48Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-25T13:12:02Z",
-      "updated_at": "2026-07-25T13:12:40Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-25T12:51:03Z",
-      "updated_at": "2026-07-25T12:51:28Z"
-    },
-    {
-      "id": 988718937,
-      "full_name": "wisamidris77/flux",
-      "html_url": "https://github.com/wisamidris77/flux",
-      "description": "Building a workout routine, reading every day, or breaking bad habits—made simple",
-      "stars": 123,
-      "forks": 12,
-      "language": "Dart",
-      "pushed_at": "2026-07-25T11:23:41Z",
-      "updated_at": "2026-07-25T11:39:38Z"
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 182,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-25T16:39:30Z",
+      "updated_at": "2026-07-25T16:39:47Z"
     }
   ]
 }
