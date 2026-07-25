@@ -8,70 +8,81 @@
   "total_found": 999,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 232930,
-      "forks": 35496,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-25T00:58:36Z",
-      "updated_at": "2026-07-25T02:29:45Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40730,
+      "forks": 951,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T03:56:32Z",
+      "updated_at": "2026-07-25T06:12:33Z"
     },
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27172,
-      "forks": 2420,
-      "language": "Go",
-      "pushed_at": "2026-07-25T00:54:22Z",
-      "updated_at": "2026-07-25T00:54:27Z"
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14331,
+      "forks": 969,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T05:27:53Z",
+      "updated_at": "2026-07-25T03:56:12Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8576,
-      "forks": 249,
-      "language": "C++",
-      "pushed_at": "2026-07-25T02:05:39Z",
-      "updated_at": "2026-07-25T02:05:44Z"
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 9430,
+      "forks": 748,
+      "language": "HTML",
+      "pushed_at": "2026-07-25T05:13:03Z",
+      "updated_at": "2026-07-25T06:14:51Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5754,
-      "forks": 762,
-      "language": "Swift",
-      "pushed_at": "2026-07-25T02:20:34Z",
-      "updated_at": "2026-07-25T02:13:50Z"
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4869,
+      "forks": 107,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T05:48:00Z",
+      "updated_at": "2026-07-25T05:48:05Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5429,
-      "forks": 638,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-25T01:19:47Z",
-      "updated_at": "2026-07-25T01:19:54Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 4950,
-      "forks": 169,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3509,
+      "forks": 237,
       "language": "Python",
-      "pushed_at": "2026-07-25T01:18:02Z",
-      "updated_at": "2026-07-25T02:30:24Z"
+      "pushed_at": "2026-07-25T04:21:59Z",
+      "updated_at": "2026-07-25T05:27:47Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1521,
+      "forks": 88,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T04:55:07Z",
+      "updated_at": "2026-07-25T04:55:28Z"
+    },
+    {
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1520,
+      "forks": 42,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T05:48:37Z",
+      "updated_at": "2026-07-25T05:48:42Z"
     },
     {
       "id": 1148683593,
@@ -81,41 +92,41 @@
       "stars": 994,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-25T02:15:46Z",
-      "updated_at": "2026-07-25T02:15:51Z"
+      "pushed_at": "2026-07-25T06:03:43Z",
+      "updated_at": "2026-07-25T06:03:50Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 571,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-25T02:17:55Z",
-      "updated_at": "2026-07-25T02:17:40Z"
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 738,
+      "forks": 57,
+      "language": "Swift",
+      "pushed_at": "2026-07-25T04:27:00Z",
+      "updated_at": "2026-07-25T06:05:25Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 445,
-      "forks": 121,
-      "language": "Python",
-      "pushed_at": "2026-07-25T00:32:15Z",
-      "updated_at": "2026-07-25T00:17:45Z"
+      "id": 1078227922,
+      "full_name": "mhattingpete/claude-skills-marketplace",
+      "html_url": "https://github.com/mhattingpete/claude-skills-marketplace",
+      "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+      "stars": 656,
+      "forks": 91,
+      "language": "HTML",
+      "pushed_at": "2026-07-25T06:09:24Z",
+      "updated_at": "2026-07-25T06:09:50Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 318,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-25T02:13:38Z",
-      "updated_at": "2026-07-25T02:13:41Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 458,
+      "forks": 38,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T04:34:38Z",
+      "updated_at": "2026-07-25T04:26:46Z"
     },
     {
       "id": 226175035,
@@ -125,19 +136,8 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T02:13:26Z",
-      "updated_at": "2026-07-25T02:12:52Z"
-    },
-    {
-      "id": 1258883863,
-      "full_name": "SwiftList/SwiftList",
-      "html_url": "https://github.com/SwiftList/SwiftList",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 246,
-      "forks": 4,
-      "language": "C#",
-      "pushed_at": "2026-07-25T01:25:43Z",
-      "updated_at": "2026-07-25T02:09:00Z"
+      "pushed_at": "2026-07-25T05:17:46Z",
+      "updated_at": "2026-07-25T05:17:15Z"
     },
     {
       "id": 1283323996,
@@ -147,19 +147,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-25T02:07:28Z",
-      "updated_at": "2026-07-25T02:07:31Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-25T01:17:08Z",
-      "updated_at": "2026-07-25T01:17:10Z"
+      "pushed_at": "2026-07-25T05:38:30Z",
+      "updated_at": "2026-07-25T05:38:36Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +158,19 @@
       "stars": 150,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-25T00:05:29Z",
-      "updated_at": "2026-07-25T00:05:32Z"
+      "pushed_at": "2026-07-25T04:12:02Z",
+      "updated_at": "2026-07-25T04:12:22Z"
+    },
+    {
+      "id": 907938065,
+      "full_name": "TimMacy/YouTubeAlchemy",
+      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
+      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
+      "stars": 94,
+      "forks": 3,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-25T04:46:53Z",
+      "updated_at": "2026-07-25T04:47:05Z"
     }
   ]
 }
