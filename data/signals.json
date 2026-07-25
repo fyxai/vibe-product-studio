@@ -8,70 +8,26 @@
   "total_found": 999,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 40730,
-      "forks": 951,
-      "language": "Rust",
-      "pushed_at": "2026-07-25T03:56:32Z",
-      "updated_at": "2026-07-25T06:12:33Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14331,
-      "forks": 969,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5676,
+      "forks": 886,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T05:27:53Z",
-      "updated_at": "2026-07-25T03:56:12Z"
+      "pushed_at": "2026-07-25T07:22:54Z",
+      "updated_at": "2026-07-25T09:41:24Z"
     },
     {
-      "id": 1105657641,
-      "full_name": "ykdojo/claude-code-tips",
-      "html_url": "https://github.com/ykdojo/claude-code-tips",
-      "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
-      "stars": 9430,
-      "forks": 748,
-      "language": "HTML",
-      "pushed_at": "2026-07-25T05:13:03Z",
-      "updated_at": "2026-07-25T06:14:51Z"
-    },
-    {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4869,
-      "forks": 107,
-      "language": "Rust",
-      "pushed_at": "2026-07-25T05:48:00Z",
-      "updated_at": "2026-07-25T05:48:05Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3509,
-      "forks": 237,
+      "id": 1166160145,
+      "full_name": "TomBadash/Mouser",
+      "html_url": "https://github.com/TomBadash/Mouser",
+      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+      "stars": 4953,
+      "forks": 169,
       "language": "Python",
-      "pushed_at": "2026-07-25T04:21:59Z",
-      "updated_at": "2026-07-25T05:27:47Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1521,
-      "forks": 88,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-25T04:55:07Z",
-      "updated_at": "2026-07-25T04:55:28Z"
+      "pushed_at": "2026-07-25T09:15:25Z",
+      "updated_at": "2026-07-25T09:08:17Z"
     },
     {
       "id": 1046385861,
@@ -85,6 +41,17 @@
       "updated_at": "2026-07-25T05:48:42Z"
     },
     {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+      "stars": 1216,
+      "forks": 220,
+      "language": "HTML",
+      "pushed_at": "2026-07-25T07:28:47Z",
+      "updated_at": "2026-07-25T08:45:02Z"
+    },
+    {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
@@ -92,19 +59,8 @@
       "stars": 994,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-25T06:03:43Z",
-      "updated_at": "2026-07-25T06:03:50Z"
-    },
-    {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 738,
-      "forks": 57,
-      "language": "Swift",
-      "pushed_at": "2026-07-25T04:27:00Z",
-      "updated_at": "2026-07-25T06:05:25Z"
+      "pushed_at": "2026-07-25T09:16:26Z",
+      "updated_at": "2026-07-25T09:16:29Z"
     },
     {
       "id": 1078227922,
@@ -118,6 +74,17 @@
       "updated_at": "2026-07-25T06:09:50Z"
     },
     {
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 571,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T08:24:34Z",
+      "updated_at": "2026-07-25T08:24:06Z"
+    },
+    {
       "id": 1201098277,
       "full_name": "kunkka19xx/look",
       "html_url": "https://github.com/kunkka19xx/look",
@@ -125,8 +92,41 @@
       "stars": 458,
       "forks": 38,
       "language": "Rust",
-      "pushed_at": "2026-07-25T04:34:38Z",
-      "updated_at": "2026-07-25T04:26:46Z"
+      "pushed_at": "2026-07-25T07:54:43Z",
+      "updated_at": "2026-07-25T07:50:51Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 446,
+      "forks": 121,
+      "language": "Python",
+      "pushed_at": "2026-07-25T09:01:19Z",
+      "updated_at": "2026-07-25T09:23:31Z"
+    },
+    {
+      "id": 1167485752,
+      "full_name": "tover0314-w/opentypeless",
+      "html_url": "https://github.com/tover0314-w/opentypeless",
+      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
+      "stars": 385,
+      "forks": 71,
+      "language": "Rust",
+      "pushed_at": "2026-07-25T06:52:51Z",
+      "updated_at": "2026-07-25T08:05:32Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 318,
+      "forks": 18,
+      "language": "Shell",
+      "pushed_at": "2026-07-25T08:01:41Z",
+      "updated_at": "2026-07-25T08:01:54Z"
     },
     {
       "id": 226175035,
@@ -136,8 +136,30 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T05:17:46Z",
-      "updated_at": "2026-07-25T05:17:15Z"
+      "pushed_at": "2026-07-25T08:32:18Z",
+      "updated_at": "2026-07-25T08:31:52Z"
+    },
+    {
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 253,
+      "forks": 5,
+      "language": "C#",
+      "pushed_at": "2026-07-25T09:17:26Z",
+      "updated_at": "2026-07-25T09:36:38Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 185,
+      "forks": 36,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-25T09:26:04Z",
+      "updated_at": "2026-07-25T07:45:02Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-25T05:38:30Z",
-      "updated_at": "2026-07-25T05:38:36Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-25T04:12:02Z",
-      "updated_at": "2026-07-25T04:12:22Z"
-    },
-    {
-      "id": 907938065,
-      "full_name": "TimMacy/YouTubeAlchemy",
-      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
-      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
-      "stars": 94,
-      "forks": 3,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-25T04:46:53Z",
-      "updated_at": "2026-07-25T04:47:05Z"
+      "pushed_at": "2026-07-25T07:58:01Z",
+      "updated_at": "2026-07-25T07:58:15Z"
     }
   ]
 }
