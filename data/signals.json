@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1000,
+  "total_found": 1001,
   "items": [
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 25977,
-      "forks": 1914,
-      "language": "Vue",
-      "pushed_at": "2026-07-25T20:07:12Z",
-      "updated_at": "2026-07-25T20:43:04Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40760,
+      "forks": 952,
+      "language": "Rust",
+      "pushed_at": "2026-07-26T02:39:49Z",
+      "updated_at": "2026-07-26T02:39:51Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14329,
-      "forks": 922,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-25T17:54:14Z",
-      "updated_at": "2026-07-25T18:27:13Z"
+      "id": 205326947,
+      "full_name": "espanso/espanso",
+      "html_url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "stars": 14158,
+      "forks": 437,
+      "language": "Rust",
+      "pushed_at": "2026-07-26T02:22:11Z",
+      "updated_at": "2026-07-26T02:22:15Z"
     },
     {
       "id": 814882742,
@@ -37,63 +37,96 @@
       "stars": 9891,
       "forks": 680,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T19:22:57Z",
-      "updated_at": "2026-07-25T19:23:01Z"
+      "pushed_at": "2026-07-26T02:26:53Z",
+      "updated_at": "2026-07-26T02:26:58Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8576,
-      "forks": 251,
-      "language": "C++",
-      "pushed_at": "2026-07-25T18:26:53Z",
-      "updated_at": "2026-07-25T18:26:54Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6551,
+      "forks": 148,
+      "language": "Swift",
+      "pushed_at": "2026-07-26T02:37:57Z",
+      "updated_at": "2026-07-26T02:38:01Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1900,
-      "forks": 131,
-      "language": "Go",
-      "pushed_at": "2026-07-25T19:39:40Z",
-      "updated_at": "2026-07-25T19:35:08Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1524,
+      "forks": 88,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-26T02:35:01Z",
+      "updated_at": "2026-07-26T02:35:05Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1313,
+      "forks": 63,
+      "language": "Rust",
+      "pushed_at": "2026-07-26T02:01:59Z",
+      "updated_at": "2026-07-26T02:02:04Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1004,
+      "stars": 1003,
       "forks": 33,
       "language": "Rust",
-      "pushed_at": "2026-07-25T18:45:13Z",
-      "updated_at": "2026-07-25T18:45:18Z"
+      "pushed_at": "2026-07-26T02:14:40Z",
+      "updated_at": "2026-07-26T02:14:45Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 382,
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 746,
       "forks": 38,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-25T19:49:36Z",
-      "updated_at": "2026-07-25T19:49:40Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-07-26T02:28:54Z",
+      "updated_at": "2026-07-26T02:28:50Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 327,
-      "forks": 53,
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 742,
+      "forks": 58,
+      "language": "Swift",
+      "pushed_at": "2026-07-26T02:33:36Z",
+      "updated_at": "2026-07-26T02:33:41Z"
+    },
+    {
+      "id": 1193364497,
+      "full_name": "paperboytm/spool",
+      "html_url": "https://github.com/paperboytm/spool",
+      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
+      "stars": 571,
+      "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T20:37:19Z",
-      "updated_at": "2026-07-25T20:01:05Z"
+      "pushed_at": "2026-07-26T02:39:43Z",
+      "updated_at": "2026-07-26T02:39:44Z"
+    },
+    {
+      "id": 1210743721,
+      "full_name": "Wangnov/codex-threadripper",
+      "html_url": "https://github.com/Wangnov/codex-threadripper",
+      "description": "Keep Codex thread history aligned to one provider bucket.",
+      "stars": 323,
+      "forks": 17,
+      "language": "Rust",
+      "pushed_at": "2026-07-26T01:23:53Z",
+      "updated_at": "2026-07-26T01:26:47Z"
     },
     {
       "id": 1166865874,
@@ -103,19 +136,8 @@
       "stars": 318,
       "forks": 18,
       "language": "Shell",
-      "pushed_at": "2026-07-25T19:03:14Z",
-      "updated_at": "2026-07-25T19:03:17Z"
-    },
-    {
-      "id": 1213753689,
-      "full_name": "nylxar/curium",
-      "html_url": "https://github.com/nylxar/curium",
-      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
-      "stars": 183,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-25T20:28:56Z",
-      "updated_at": "2026-07-25T20:29:05Z"
+      "pushed_at": "2026-07-26T02:17:38Z",
+      "updated_at": "2026-07-26T02:17:42Z"
     },
     {
       "id": 643614365,
@@ -125,8 +147,19 @@
       "stars": 182,
       "forks": 7,
       "language": "JavaScript",
-      "pushed_at": "2026-07-25T19:05:26Z",
-      "updated_at": "2026-07-25T19:05:34Z"
+      "pushed_at": "2026-07-26T02:18:03Z",
+      "updated_at": "2026-07-26T02:18:07Z"
+    },
+    {
+      "id": 1112334575,
+      "full_name": "zhaoliangbin42/AI-MarkDone",
+      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
+      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
+      "stars": 166,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-26T01:18:01Z",
+      "updated_at": "2026-07-26T01:17:49Z"
     },
     {
       "id": 1283323996,
@@ -136,41 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-25T20:12:31Z",
-      "updated_at": "2026-07-25T20:12:35Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-25T20:11:45Z",
-      "updated_at": "2026-07-25T20:11:49Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 141,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-25T20:42:52Z",
-      "updated_at": "2026-07-25T20:42:32Z"
-    },
-    {
-      "id": 1220384784,
-      "full_name": "danielvm-git/bigpowers",
-      "html_url": "https://github.com/danielvm-git/bigpowers",
-      "description": "80 agent skills synthesizing 17 years of software engineering discipline into a prescriptive methodology for solo developers",
-      "stars": 84,
-      "forks": 3,
-      "language": "Shell",
-      "pushed_at": "2026-07-25T20:29:12Z",
-      "updated_at": "2026-07-25T20:29:13Z"
+      "pushed_at": "2026-07-26T02:12:24Z",
+      "updated_at": "2026-07-26T02:12:28Z"
     }
   ]
 }
