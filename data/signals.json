@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1001,
+  "total_found": 1000,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 40760,
-      "forks": 952,
-      "language": "Rust",
-      "pushed_at": "2026-07-26T02:39:49Z",
-      "updated_at": "2026-07-26T02:39:51Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 233407,
+      "forks": 35587,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-26T06:25:46Z",
+      "updated_at": "2026-07-26T06:34:38Z"
     },
     {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 14158,
-      "forks": 437,
-      "language": "Rust",
-      "pushed_at": "2026-07-26T02:22:11Z",
-      "updated_at": "2026-07-26T02:22:15Z"
-    },
-    {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9891,
-      "forks": 680,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 33837,
+      "forks": 3567,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T02:26:53Z",
-      "updated_at": "2026-07-26T02:26:58Z"
+      "pushed_at": "2026-07-26T04:35:26Z",
+      "updated_at": "2026-07-26T06:30:38Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6551,
-      "forks": 148,
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2216,
+      "forks": 85,
       "language": "Swift",
-      "pushed_at": "2026-07-26T02:37:57Z",
-      "updated_at": "2026-07-26T02:38:01Z"
+      "pushed_at": "2026-07-26T04:26:53Z",
+      "updated_at": "2026-07-26T04:27:07Z"
     },
     {
       "id": 1111978380,
@@ -59,107 +48,85 @@
       "stars": 1524,
       "forks": 88,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T02:35:01Z",
-      "updated_at": "2026-07-26T02:35:05Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
-      "stars": 1313,
-      "forks": 63,
-      "language": "Rust",
-      "pushed_at": "2026-07-26T02:01:59Z",
-      "updated_at": "2026-07-26T02:02:04Z"
+      "pushed_at": "2026-07-26T05:54:09Z",
+      "updated_at": "2026-07-26T05:54:12Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1003,
+      "stars": 1006,
       "forks": 33,
       "language": "Rust",
-      "pushed_at": "2026-07-26T02:14:40Z",
-      "updated_at": "2026-07-26T02:14:45Z"
+      "pushed_at": "2026-07-26T06:24:46Z",
+      "updated_at": "2026-07-26T06:24:54Z"
     },
     {
       "id": 1183931176,
       "full_name": "ifer47/markeron",
       "html_url": "https://github.com/ifer47/markeron",
       "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
-      "stars": 746,
+      "stars": 748,
       "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T02:28:54Z",
-      "updated_at": "2026-07-26T02:28:50Z"
+      "pushed_at": "2026-07-26T04:36:54Z",
+      "updated_at": "2026-07-26T05:00:19Z"
     },
     {
       "id": 1185843143,
       "full_name": "realskyrin/capcap",
       "html_url": "https://github.com/realskyrin/capcap",
       "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 742,
+      "stars": 743,
       "forks": 58,
       "language": "Swift",
-      "pushed_at": "2026-07-26T02:33:36Z",
-      "updated_at": "2026-07-26T02:33:41Z"
+      "pushed_at": "2026-07-26T04:37:00Z",
+      "updated_at": "2026-07-26T05:30:19Z"
     },
     {
-      "id": 1193364497,
-      "full_name": "paperboytm/spool",
-      "html_url": "https://github.com/paperboytm/spool",
-      "description": "Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.",
-      "stars": 571,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-26T02:39:43Z",
-      "updated_at": "2026-07-26T02:39:44Z"
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀",
+      "stars": 686,
+      "forks": 44,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-26T05:35:18Z",
+      "updated_at": "2026-07-26T05:35:25Z"
     },
     {
-      "id": 1210743721,
-      "full_name": "Wangnov/codex-threadripper",
-      "html_url": "https://github.com/Wangnov/codex-threadripper",
-      "description": "Keep Codex thread history aligned to one provider bucket.",
-      "stars": 323,
-      "forks": 17,
-      "language": "Rust",
-      "pushed_at": "2026-07-26T01:23:53Z",
-      "updated_at": "2026-07-26T01:26:47Z"
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 266,
+      "forks": 6,
+      "language": "C#",
+      "pushed_at": "2026-07-26T04:12:05Z",
+      "updated_at": "2026-07-26T04:34:39Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 318,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-07-26T02:17:38Z",
-      "updated_at": "2026-07-26T02:17:42Z"
+      "id": 1258788077,
+      "full_name": "coreyhaines31/makerskills",
+      "html_url": "https://github.com/coreyhaines31/makerskills",
+      "description": "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.",
+      "stars": 223,
+      "forks": 22,
+      "language": "Unknown",
+      "pushed_at": "2026-07-26T04:11:01Z",
+      "updated_at": "2026-07-26T04:11:04Z"
     },
     {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 182,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-26T02:18:03Z",
-      "updated_at": "2026-07-26T02:18:07Z"
-    },
-    {
-      "id": 1112334575,
-      "full_name": "zhaoliangbin42/AI-MarkDone",
-      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
-      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
-      "stars": 166,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-26T01:18:01Z",
-      "updated_at": "2026-07-26T01:17:49Z"
+      "id": 1108054886,
+      "full_name": "ReKindleOS/ReKindle",
+      "html_url": "https://github.com/ReKindleOS/ReKindle",
+      "description": "Your Kindle Upgraded",
+      "stars": 164,
+      "forks": 20,
+      "language": "HTML",
+      "pushed_at": "2026-07-26T05:38:44Z",
+      "updated_at": "2026-07-26T05:38:48Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +136,41 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-26T02:12:24Z",
-      "updated_at": "2026-07-26T02:12:28Z"
+      "pushed_at": "2026-07-26T05:54:52Z",
+      "updated_at": "2026-07-26T05:55:01Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-26T06:09:31Z",
+      "updated_at": "2026-07-26T06:09:49Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 141,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-26T06:03:41Z",
+      "updated_at": "2026-07-26T06:03:45Z"
+    },
+    {
+      "id": 1161865259,
+      "full_name": "Avi7ii/AirSend",
+      "html_url": "https://github.com/Avi7ii/AirSend",
+      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
+      "stars": 104,
+      "forks": 3,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-26T05:41:39Z",
+      "updated_at": "2026-07-26T05:41:45Z"
     }
   ]
 }
