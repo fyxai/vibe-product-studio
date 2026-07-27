@@ -5,117 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1005,
+  "total_found": 1006,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 234008,
-      "forks": 35668,
+      "stars": 234087,
+      "forks": 35677,
       "language": "JavaScript",
-      "pushed_at": "2026-07-27T16:39:23Z",
-      "updated_at": "2026-07-27T17:40:15Z"
+      "pushed_at": "2026-07-27T20:45:18Z",
+      "updated_at": "2026-07-27T21:07:50Z"
+    },
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 128468,
+      "forks": 14589,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-27T21:04:04Z",
+      "updated_at": "2026-07-27T21:05:08Z"
     },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 73500,
-      "forks": 4594,
+      "stars": 73526,
+      "forks": 4597,
       "language": "Rust",
-      "pushed_at": "2026-07-27T17:33:12Z",
-      "updated_at": "2026-07-27T17:40:44Z"
+      "pushed_at": "2026-07-27T19:29:14Z",
+      "updated_at": "2026-07-27T21:07:09Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 40809,
-      "forks": 957,
-      "language": "Rust",
-      "pushed_at": "2026-07-27T17:32:14Z",
-      "updated_at": "2026-07-27T17:32:45Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44453,
+      "forks": 2796,
+      "language": "C#",
+      "pushed_at": "2026-07-27T20:23:34Z",
+      "updated_at": "2026-07-27T21:05:41Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8621,
-      "forks": 253,
-      "language": "C++",
-      "pushed_at": "2026-07-27T17:31:16Z",
-      "updated_at": "2026-07-27T17:31:45Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5756,
-      "forks": 762,
-      "language": "Swift",
-      "pushed_at": "2026-07-27T17:38:52Z",
-      "updated_at": "2026-07-27T17:39:31Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 4984,
-      "forks": 173,
-      "language": "Python",
-      "pushed_at": "2026-07-27T16:40:40Z",
-      "updated_at": "2026-07-27T17:40:02Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3522,
-      "forks": 239,
-      "language": "Python",
-      "pushed_at": "2026-07-27T16:54:31Z",
-      "updated_at": "2026-07-27T16:55:54Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2226,
-      "forks": 86,
-      "language": "Swift",
-      "pushed_at": "2026-07-27T17:34:46Z",
-      "updated_at": "2026-07-27T17:36:32Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1937,
-      "forks": 143,
-      "language": "Dart",
-      "pushed_at": "2026-07-27T17:28:58Z",
-      "updated_at": "2026-07-27T17:29:49Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5436,
+      "forks": 641,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-27T20:55:27Z",
+      "updated_at": "2026-07-27T20:55:32Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1532,
-      "forks": 88,
+      "stars": 1533,
+      "forks": 89,
       "language": "TypeScript",
-      "pushed_at": "2026-07-27T17:25:49Z",
-      "updated_at": "2026-07-27T17:26:24Z"
+      "pushed_at": "2026-07-27T21:03:55Z",
+      "updated_at": "2026-07-27T21:04:16Z"
+    },
+    {
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 825,
+      "forks": 40,
+      "language": "Java",
+      "pushed_at": "2026-07-27T19:27:46Z",
+      "updated_at": "2026-07-27T19:18:24Z"
     },
     {
       "id": 1142482827,
@@ -125,19 +92,8 @@
       "stars": 448,
       "forks": 122,
       "language": "Python",
-      "pushed_at": "2026-07-27T17:35:49Z",
-      "updated_at": "2026-07-27T16:52:59Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 345,
-      "forks": 39,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-27T16:37:55Z",
-      "updated_at": "2026-07-27T16:38:24Z"
+      "pushed_at": "2026-07-27T21:05:10Z",
+      "updated_at": "2026-07-27T21:04:11Z"
     },
     {
       "id": 1030039430,
@@ -147,30 +103,74 @@
       "stars": 327,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-07-27T17:16:28Z",
-      "updated_at": "2026-07-27T17:18:35Z"
+      "pushed_at": "2026-07-27T21:01:21Z",
+      "updated_at": "2026-07-27T20:18:06Z"
     },
     {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Factory on Your Desktop: The Best Self-Improving Harness",
-      "stars": 201,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-27T17:35:00Z",
-      "updated_at": "2026-07-27T17:35:10Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 20,
+      "language": "Shell",
+      "pushed_at": "2026-07-27T19:22:49Z",
+      "updated_at": "2026-07-27T19:23:50Z"
     },
     {
-      "id": 346456845,
-      "full_name": "LinwoodDev/Flow",
-      "html_url": "https://github.com/LinwoodDev/Flow",
-      "description": "⌚ Feature rich event, group and time managment system",
-      "stars": 150,
+      "id": 1213753689,
+      "full_name": "nylxar/curium",
+      "html_url": "https://github.com/nylxar/curium",
+      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
+      "stars": 183,
       "forks": 12,
-      "language": "Dart",
-      "pushed_at": "2026-07-27T16:51:43Z",
-      "updated_at": "2026-07-27T16:52:47Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-07-27T19:26:18Z",
+      "updated_at": "2026-07-27T19:26:25Z"
+    },
+    {
+      "id": 643614365,
+      "full_name": "adamlui/chatgpt-auto-continue",
+      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
+      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
+      "stars": 182,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-27T20:12:28Z",
+      "updated_at": "2026-07-27T20:13:27Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-07-27T20:17:57Z",
+      "updated_at": "2026-07-27T20:18:18Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-27T19:36:07Z",
+      "updated_at": "2026-07-27T19:36:35Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 149,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-27T20:18:47Z",
+      "updated_at": "2026-07-27T20:19:06Z"
     }
   ]
 }
