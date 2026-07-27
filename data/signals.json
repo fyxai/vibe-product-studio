@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1006,
+  "total_found": 1007,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38836,
-      "forks": 3871,
-      "language": "C#",
-      "pushed_at": "2026-07-27T06:50:55Z",
-      "updated_at": "2026-07-27T06:52:12Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 188859,
+      "forks": 26490,
+      "language": "Shell",
+      "pushed_at": "2026-07-27T10:04:25Z",
+      "updated_at": "2026-07-27T11:13:31Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16840,
-      "forks": 1680,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20892,
+      "forks": 1891,
       "language": "TypeScript",
-      "pushed_at": "2026-07-27T06:46:06Z",
-      "updated_at": "2026-07-27T07:22:29Z"
+      "pushed_at": "2026-07-27T11:02:42Z",
+      "updated_at": "2026-07-27T11:11:28Z"
     },
     {
       "id": 129699403,
@@ -37,74 +37,52 @@
       "stars": 5757,
       "forks": 762,
       "language": "Swift",
-      "pushed_at": "2026-07-27T07:27:46Z",
-      "updated_at": "2026-07-27T06:59:25Z"
+      "pushed_at": "2026-07-27T11:03:00Z",
+      "updated_at": "2026-07-27T10:55:39Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5692,
-      "forks": 889,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-27T06:58:57Z",
-      "updated_at": "2026-07-27T07:23:18Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2289,
+      "forks": 93,
+      "language": "Swift",
+      "pushed_at": "2026-07-27T09:54:19Z",
+      "updated_at": "2026-07-27T09:55:12Z"
     },
     {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1570,
-      "forks": 79,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-27T07:00:01Z",
-      "updated_at": "2026-07-27T07:00:11Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1937,
+      "forks": 143,
+      "language": "Dart",
+      "pushed_at": "2026-07-27T11:17:54Z",
+      "updated_at": "2026-07-27T11:18:13Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1016,
-      "forks": 33,
+      "stars": 1018,
+      "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-07-27T06:07:52Z",
-      "updated_at": "2026-07-27T06:08:32Z"
+      "pushed_at": "2026-07-27T10:36:23Z",
+      "updated_at": "2026-07-27T11:12:10Z"
     },
     {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization.",
-      "stars": 822,
-      "forks": 40,
-      "language": "Java",
-      "pushed_at": "2026-07-27T06:07:30Z",
-      "updated_at": "2026-07-27T05:57:56Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 696,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-07-27T07:18:19Z",
-      "updated_at": "2026-07-27T07:19:38Z"
-    },
-    {
-      "id": 77787638,
-      "full_name": "adoyle-h/my-development-tools",
-      "html_url": "https://github.com/adoyle-h/my-development-tools",
-      "description": "ADoyle 的开发工具箱",
-      "stars": 474,
-      "forks": 56,
-      "language": "SCSS",
-      "pushed_at": "2026-07-27T07:23:26Z",
-      "updated_at": "2026-07-27T07:24:48Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 905,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-27T10:54:00Z",
+      "updated_at": "2026-07-27T09:52:00Z"
     },
     {
       "id": 1142482827,
@@ -114,19 +92,63 @@
       "stars": 448,
       "forks": 121,
       "language": "Python",
-      "pushed_at": "2026-07-27T07:22:31Z",
-      "updated_at": "2026-07-27T07:12:29Z"
+      "pushed_at": "2026-07-27T11:16:59Z",
+      "updated_at": "2026-07-27T11:16:15Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 19,
+      "language": "Shell",
+      "pushed_at": "2026-07-27T09:43:19Z",
+      "updated_at": "2026-07-27T09:43:39Z"
+    },
+    {
+      "id": 1084630267,
+      "full_name": "jemishavasoya/dev-cleaner",
+      "html_url": "https://github.com/jemishavasoya/dev-cleaner",
+      "description": "One-click CLI utility to safely clear 50GB+ of developer cache bloat. Cleans Xcode DerivedData, Flutter build caches, Android Gradle, npm/node_modules, and IDE temp files on macOS, Linux, and Windows.",
+      "stars": 315,
+      "forks": 42,
+      "language": "Shell",
+      "pushed_at": "2026-07-27T11:09:43Z",
+      "updated_at": "2026-07-27T11:10:26Z"
     },
     {
       "id": 1258883863,
       "full_name": "SwiftList/SwiftList",
       "html_url": "https://github.com/SwiftList/SwiftList",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 281,
-      "forks": 8,
+      "stars": 286,
+      "forks": 9,
       "language": "C#",
-      "pushed_at": "2026-07-27T06:07:25Z",
-      "updated_at": "2026-07-27T06:07:16Z"
+      "pushed_at": "2026-07-27T11:11:14Z",
+      "updated_at": "2026-07-27T11:11:32Z"
+    },
+    {
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. GPL-3.0 open source.",
+      "stars": 226,
+      "forks": 14,
+      "language": "C#",
+      "pushed_at": "2026-07-27T10:12:56Z",
+      "updated_at": "2026-07-27T09:51:38Z"
+    },
+    {
+      "id": 1305383508,
+      "full_name": "Prism-Shadow/penguin-harness",
+      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Factory on Your Desktop: The Best Self-Improving Harness",
+      "stars": 199,
+      "forks": 23,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-27T11:08:58Z",
+      "updated_at": "2026-07-27T11:18:37Z"
     },
     {
       "id": 1283323996,
@@ -136,41 +158,19 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-27T06:23:26Z",
-      "updated_at": "2026-07-27T06:24:00Z"
+      "pushed_at": "2026-07-27T10:37:09Z",
+      "updated_at": "2026-07-27T10:37:33Z"
     },
     {
-      "id": 1211713865,
-      "full_name": "HatanoChihiro/obsidian-webnovel-assistant",
-      "html_url": "https://github.com/HatanoChihiro/obsidian-webnovel-assistant",
-      "description": "专为中文网文小说创作设计的 Obsidian 插件 | Obsidian plugin for Chinese web novel writing",
-      "stars": 123,
-      "forks": 5,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-27T06:42:43Z",
-      "updated_at": "2026-07-27T06:55:24Z"
-    },
-    {
-      "id": 1161865259,
-      "full_name": "Avi7ii/AirSend",
-      "html_url": "https://github.com/Avi7ii/AirSend",
-      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
-      "stars": 105,
-      "forks": 3,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-27T06:00:14Z",
-      "updated_at": "2026-07-27T06:00:34Z"
-    },
-    {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 88,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-27T07:07:11Z",
-      "updated_at": "2026-07-27T06:04:38Z"
+      "id": 1174381781,
+      "full_name": "eljulians/skillfile",
+      "html_url": "https://github.com/eljulians/skillfile",
+      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
+      "stars": 138,
+      "forks": 27,
+      "language": "Rust",
+      "pushed_at": "2026-07-27T10:47:09Z",
+      "updated_at": "2026-07-27T10:57:11Z"
     }
   ]
 }
