@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1006,
+  "total_found": 1007,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 73603,
-      "forks": 4601,
+      "stars": 73622,
+      "forks": 4603,
       "language": "Rust",
-      "pushed_at": "2026-07-28T09:53:35Z",
-      "updated_at": "2026-07-28T10:21:59Z"
+      "pushed_at": "2026-07-28T13:59:25Z",
+      "updated_at": "2026-07-28T14:01:43Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20914,
-      "forks": 1894,
+      "stars": 20917,
+      "forks": 1893,
       "language": "TypeScript",
-      "pushed_at": "2026-07-28T09:58:54Z",
-      "updated_at": "2026-07-28T09:51:29Z"
+      "pushed_at": "2026-07-28T13:58:57Z",
+      "updated_at": "2026-07-28T14:01:50Z"
+    },
+    {
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18450,
+      "forks": 1487,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-28T13:30:40Z",
+      "updated_at": "2026-07-28T13:34:19Z"
     },
     {
       "id": 115446081,
       "full_name": "Zettlr/Zettlr",
       "html_url": "https://github.com/Zettlr/Zettlr",
       "description": "Your One-Stop Publication Workbench",
-      "stars": 13306,
+      "stars": 13307,
       "forks": 821,
       "language": "TypeScript",
-      "pushed_at": "2026-07-28T10:02:58Z",
-      "updated_at": "2026-07-28T10:04:39Z"
+      "pushed_at": "2026-07-28T13:31:33Z",
+      "updated_at": "2026-07-28T13:36:16Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6933,
-      "forks": 260,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-28T09:07:34Z",
-      "updated_at": "2026-07-28T09:09:19Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6563,
+      "forks": 148,
+      "language": "Swift",
+      "pushed_at": "2026-07-28T13:41:15Z",
+      "updated_at": "2026-07-28T13:48:31Z"
     },
     {
       "id": 129699403,
@@ -59,41 +70,19 @@
       "stars": 5757,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-07-28T10:24:57Z",
-      "updated_at": "2026-07-28T10:12:43Z"
+      "pushed_at": "2026-07-28T13:58:11Z",
+      "updated_at": "2026-07-28T13:34:03Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5704,
-      "forks": 893,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-28T09:42:31Z",
-      "updated_at": "2026-07-28T09:57:10Z"
-    },
-    {
-      "id": 1166160145,
-      "full_name": "TomBadash/Mouser",
-      "html_url": "https://github.com/TomBadash/Mouser",
-      "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-      "stars": 4992,
-      "forks": 173,
-      "language": "Python",
-      "pushed_at": "2026-07-28T10:28:42Z",
-      "updated_at": "2026-07-28T10:25:34Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1938,
-      "forks": 143,
-      "language": "Dart",
-      "pushed_at": "2026-07-28T10:21:18Z",
-      "updated_at": "2026-07-28T10:22:32Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5438,
+      "forks": 642,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-28T13:34:28Z",
+      "updated_at": "2026-07-28T13:41:11Z"
     },
     {
       "id": 632693436,
@@ -103,74 +92,85 @@
       "stars": 1434,
       "forks": 82,
       "language": "Dart",
-      "pushed_at": "2026-07-28T09:21:23Z",
-      "updated_at": "2026-07-28T09:22:05Z"
+      "pushed_at": "2026-07-28T13:38:18Z",
+      "updated_at": "2026-07-28T13:45:23Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1030,
+      "forks": 35,
+      "language": "Rust",
+      "pushed_at": "2026-07-28T13:51:27Z",
+      "updated_at": "2026-07-28T13:19:55Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 564,
+      "forks": 70,
+      "language": "C#",
+      "pushed_at": "2026-07-28T12:47:57Z",
+      "updated_at": "2026-07-28T12:50:29Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 480,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-28T13:28:45Z",
+      "updated_at": "2026-07-28T13:32:36Z"
     },
     {
       "id": 1142482827,
       "full_name": "davekilleen/Dex",
       "html_url": "https://github.com/davekilleen/Dex",
       "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 448,
+      "stars": 449,
       "forks": 122,
       "language": "Python",
-      "pushed_at": "2026-07-28T08:45:34Z",
-      "updated_at": "2026-07-28T08:46:50Z"
+      "pushed_at": "2026-07-28T13:54:48Z",
+      "updated_at": "2026-07-28T13:45:29Z"
     },
     {
-      "id": 575872406,
-      "full_name": "linear-b/gitstream",
-      "html_url": "https://github.com/linear-b/gitstream",
-      "description": "/:\\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.",
-      "stars": 334,
-      "forks": 46,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-28T09:23:10Z",
-      "updated_at": "2026-07-28T09:22:37Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 21,
+      "language": "Shell",
+      "pushed_at": "2026-07-28T13:56:25Z",
+      "updated_at": "2026-07-28T14:01:04Z"
     },
     {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Factory on Your Desktop: The Best Self-Improving Harness",
-      "stars": 209,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-28T09:20:48Z",
-      "updated_at": "2026-07-28T09:53:19Z"
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 234,
+      "forks": 10,
+      "language": "Python",
+      "pushed_at": "2026-07-28T13:29:45Z",
+      "updated_at": "2026-07-28T13:31:58Z"
     },
     {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-28T10:18:52Z",
-      "updated_at": "2026-07-28T10:19:41Z"
-    },
-    {
-      "id": 1206145332,
-      "full_name": "maotoumao/Cebian",
-      "html_url": "https://github.com/maotoumao/Cebian",
-      "description": "An AI assistant that lives in your browser side panel",
-      "stars": 79,
-      "forks": 18,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-28T10:16:41Z",
-      "updated_at": "2026-07-28T10:17:02Z"
-    },
-    {
-      "id": 1267490967,
-      "full_name": "rolecraft-sh/rolecraft",
-      "html_url": "https://github.com/rolecraft-sh/rolecraft",
-      "description": "Zero-dependency CLI that installs AI agent skills + MCP servers from any source. 86 agents. No signup, no telemetry, ~87.3 kB",
-      "stars": 75,
-      "forks": 18,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-28T09:12:05Z",
-      "updated_at": "2026-07-28T09:58:29Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-07-28T13:51:11Z",
+      "updated_at": "2026-07-28T13:59:39Z"
     }
   ]
 }
