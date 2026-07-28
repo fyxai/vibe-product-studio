@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1007,
+  "total_found": 1008,
   "items": [
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 73622,
-      "forks": 4603,
-      "language": "Rust",
-      "pushed_at": "2026-07-28T13:59:25Z",
-      "updated_at": "2026-07-28T14:01:43Z"
-    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20917,
-      "forks": 1893,
+      "stars": 20929,
+      "forks": 1896,
       "language": "TypeScript",
-      "pushed_at": "2026-07-28T13:58:57Z",
-      "updated_at": "2026-07-28T14:01:50Z"
+      "pushed_at": "2026-07-28T17:13:14Z",
+      "updated_at": "2026-07-28T17:22:02Z"
     },
     {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18450,
-      "forks": 1487,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-28T13:30:40Z",
-      "updated_at": "2026-07-28T13:34:19Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13307,
-      "forks": 821,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14340,
+      "forks": 972,
       "language": "TypeScript",
-      "pushed_at": "2026-07-28T13:31:33Z",
-      "updated_at": "2026-07-28T13:36:16Z"
+      "pushed_at": "2026-07-28T16:19:40Z",
+      "updated_at": "2026-07-28T17:12:11Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6563,
-      "forks": 148,
-      "language": "Swift",
-      "pushed_at": "2026-07-28T13:41:15Z",
-      "updated_at": "2026-07-28T13:48:31Z"
+      "id": 1238120057,
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "stars": 12452,
+      "forks": 642,
+      "language": "Python",
+      "pushed_at": "2026-07-28T17:15:55Z",
+      "updated_at": "2026-07-28T17:24:18Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6268,
+      "forks": 373,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-28T16:30:21Z",
+      "updated_at": "2026-07-28T16:31:15Z"
     },
     {
       "id": 129699403,
@@ -70,30 +59,52 @@
       "stars": 5757,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-07-28T13:58:11Z",
-      "updated_at": "2026-07-28T13:34:03Z"
+      "pushed_at": "2026-07-28T17:18:13Z",
+      "updated_at": "2026-07-28T17:03:17Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5438,
-      "forks": 642,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-28T13:34:28Z",
-      "updated_at": "2026-07-28T13:41:11Z"
+      "id": 668367318,
+      "full_name": "Anze/KeyCluCask",
+      "html_url": "https://github.com/Anze/KeyCluCask",
+      "description": "A simple and handy overview of application shortcuts",
+      "stars": 2395,
+      "forks": 39,
+      "language": "Unknown",
+      "pushed_at": "2026-07-28T16:57:55Z",
+      "updated_at": "2026-07-28T16:57:57Z"
     },
     {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1434,
-      "forks": 82,
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1939,
+      "forks": 143,
       "language": "Dart",
-      "pushed_at": "2026-07-28T13:38:18Z",
-      "updated_at": "2026-07-28T13:45:23Z"
+      "pushed_at": "2026-07-28T17:19:52Z",
+      "updated_at": "2026-07-28T17:20:17Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1541,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-28T17:23:28Z",
+      "updated_at": "2026-07-28T17:24:16Z"
+    },
+    {
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1468,
+      "forks": 133,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-28T16:43:15Z",
+      "updated_at": "2026-07-28T17:21:15Z"
     },
     {
       "id": 1148683593,
@@ -103,30 +114,8 @@
       "stars": 1030,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-07-28T13:51:27Z",
-      "updated_at": "2026-07-28T13:19:55Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 564,
-      "forks": 70,
-      "language": "C#",
-      "pushed_at": "2026-07-28T12:47:57Z",
-      "updated_at": "2026-07-28T12:50:29Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 480,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-28T13:28:45Z",
-      "updated_at": "2026-07-28T13:32:36Z"
+      "pushed_at": "2026-07-28T17:20:10Z",
+      "updated_at": "2026-07-28T17:22:22Z"
     },
     {
       "id": 1142482827,
@@ -134,43 +123,54 @@
       "html_url": "https://github.com/davekilleen/Dex",
       "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
       "stars": 449,
-      "forks": 122,
+      "forks": 123,
       "language": "Python",
-      "pushed_at": "2026-07-28T13:54:48Z",
-      "updated_at": "2026-07-28T13:45:29Z"
+      "pushed_at": "2026-07-28T16:55:23Z",
+      "updated_at": "2026-07-28T17:00:31Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 21,
-      "language": "Shell",
-      "pushed_at": "2026-07-28T13:56:25Z",
-      "updated_at": "2026-07-28T14:01:04Z"
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 327,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-28T16:58:16Z",
+      "updated_at": "2026-07-28T16:58:46Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 234,
-      "forks": 10,
-      "language": "Python",
-      "pushed_at": "2026-07-28T13:29:45Z",
-      "updated_at": "2026-07-28T13:31:58Z"
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. GPL-3.0 open source.",
+      "stars": 235,
+      "forks": 14,
+      "language": "C#",
+      "pushed_at": "2026-07-28T16:51:15Z",
+      "updated_at": "2026-07-28T16:51:42Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 150,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-28T17:22:18Z",
+      "updated_at": "2026-07-28T17:22:44Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-28T13:51:11Z",
-      "updated_at": "2026-07-28T13:59:39Z"
+      "pushed_at": "2026-07-28T16:41:28Z",
+      "updated_at": "2026-07-28T16:45:02Z"
     }
   ]
 }
