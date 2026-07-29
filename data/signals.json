@@ -8,15 +8,15 @@
   "total_found": 1009,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 234879,
-      "forks": 35788,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-29T01:37:41Z",
-      "updated_at": "2026-07-29T02:29:51Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40855,
+      "forks": 958,
+      "language": "Rust",
+      "pushed_at": "2026-07-29T05:23:47Z",
+      "updated_at": "2026-07-29T06:19:46Z"
     },
     {
       "id": 13428264,
@@ -24,65 +24,87 @@
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
       "stars": 38857,
-      "forks": 3873,
+      "forks": 3872,
       "language": "C#",
-      "pushed_at": "2026-07-29T01:05:24Z",
-      "updated_at": "2026-07-29T02:12:46Z"
+      "pushed_at": "2026-07-29T06:25:16Z",
+      "updated_at": "2026-07-29T06:26:19Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11744,
-      "forks": 1452,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27174,
+      "forks": 2421,
+      "language": "Go",
+      "pushed_at": "2026-07-29T04:41:04Z",
+      "updated_at": "2026-07-29T04:41:10Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14414,
+      "forks": 927,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T02:05:45Z",
-      "updated_at": "2026-07-29T02:27:20Z"
+      "pushed_at": "2026-07-29T05:05:36Z",
+      "updated_at": "2026-07-29T06:22:15Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6286,
+      "forks": 374,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-29T04:28:03Z",
+      "updated_at": "2026-07-29T06:01:08Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5710,
-      "forks": 896,
+      "stars": 5715,
+      "forks": 897,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T02:10:20Z",
-      "updated_at": "2026-07-29T02:19:24Z"
+      "pushed_at": "2026-07-29T06:28:45Z",
+      "updated_at": "2026-07-29T05:54:00Z"
     },
     {
-      "id": 1085525076,
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1576,
-      "forks": 79,
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5442,
+      "forks": 642,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-29T04:34:20Z",
+      "updated_at": "2026-07-29T04:34:42Z"
+    },
+    {
+      "id": 70557651,
+      "full_name": "oliverschwendener/ueli",
+      "html_url": "https://github.com/oliverschwendener/ueli",
+      "description": "Cross-Platform Keystroke Launcher",
+      "stars": 4571,
+      "forks": 274,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T01:55:55Z",
-      "updated_at": "2026-07-29T02:11:10Z"
+      "pushed_at": "2026-07-29T04:59:03Z",
+      "updated_at": "2026-07-29T04:59:08Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1549,
+      "stars": 1550,
       "forks": 90,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T01:46:57Z",
-      "updated_at": "2026-07-29T01:47:02Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
-      "stars": 1338,
-      "forks": 68,
-      "language": "Rust",
-      "pushed_at": "2026-07-29T01:26:57Z",
-      "updated_at": "2026-07-29T01:24:28Z"
+      "pushed_at": "2026-07-29T05:20:15Z",
+      "updated_at": "2026-07-29T06:08:20Z"
     },
     {
       "id": 1148683593,
@@ -92,74 +114,52 @@
       "stars": 1031,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-07-29T02:18:48Z",
-      "updated_at": "2026-07-29T02:18:53Z"
+      "pushed_at": "2026-07-29T06:29:01Z",
+      "updated_at": "2026-07-29T06:20:49Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 749,
-      "forks": 60,
-      "language": "Swift",
-      "pushed_at": "2026-07-29T02:06:24Z",
-      "updated_at": "2026-07-29T02:06:31Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 829,
+      "forks": 40,
+      "language": "Java",
+      "pushed_at": "2026-07-29T06:12:24Z",
+      "updated_at": "2026-07-29T06:02:57Z"
     },
     {
-      "id": 869263252,
-      "full_name": "awaseem/foqos",
-      "html_url": "https://github.com/awaseem/foqos",
-      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Blok and more!",
-      "stars": 635,
-      "forks": 110,
-      "language": "Swift",
-      "pushed_at": "2026-07-29T02:28:05Z",
-      "updated_at": "2026-07-29T02:28:08Z"
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 451,
+      "forks": 123,
+      "language": "Python",
+      "pushed_at": "2026-07-29T06:26:19Z",
+      "updated_at": "2026-07-29T06:25:39Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 562,
-      "forks": 70,
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 301,
+      "forks": 12,
       "language": "C#",
-      "pushed_at": "2026-07-29T02:09:53Z",
-      "updated_at": "2026-07-29T02:09:57Z"
+      "pushed_at": "2026-07-29T05:27:54Z",
+      "updated_at": "2026-07-29T06:19:36Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 466,
-      "forks": 38,
+      "id": 626659549,
+      "full_name": "2e3s/awatcher",
+      "html_url": "https://github.com/2e3s/awatcher",
+      "description": "Activity and idle watchers",
+      "stars": 297,
+      "forks": 26,
       "language": "Rust",
-      "pushed_at": "2026-07-29T01:58:14Z",
-      "updated_at": "2026-07-29T02:14:52Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 327,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-29T01:36:56Z",
-      "updated_at": "2026-07-29T01:36:59Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 21,
-      "language": "Shell",
-      "pushed_at": "2026-07-29T02:09:16Z",
-      "updated_at": "2026-07-29T02:09:20Z"
+      "pushed_at": "2026-07-29T04:30:53Z",
+      "updated_at": "2026-07-29T04:31:19Z"
     },
     {
       "id": 1093854529,
@@ -169,8 +169,8 @@
       "stars": 239,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-07-29T02:27:46Z",
-      "updated_at": "2026-07-29T02:27:51Z"
+      "pushed_at": "2026-07-29T05:11:27Z",
+      "updated_at": "2026-07-29T05:11:59Z"
     }
   ]
 }
