@@ -8,103 +8,92 @@
   "total_found": 1009,
   "items": [
     {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44470,
+      "forks": 2797,
+      "language": "C#",
+      "pushed_at": "2026-07-29T20:44:46Z",
+      "updated_at": "2026-07-29T20:45:03Z"
+    },
+    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20982,
+      "stars": 20986,
       "forks": 1896,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T16:09:53Z",
-      "updated_at": "2026-07-29T16:38:01Z"
+      "pushed_at": "2026-07-29T20:50:17Z",
+      "updated_at": "2026-07-29T20:50:57Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 16877,
+      "forks": 1678,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-29T19:22:37Z",
+      "updated_at": "2026-07-29T19:22:43Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11759,
-      "forks": 1452,
+      "stars": 11762,
+      "forks": 1453,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T15:43:18Z",
-      "updated_at": "2026-07-29T17:07:33Z"
+      "pushed_at": "2026-07-29T20:51:27Z",
+      "updated_at": "2026-07-29T20:51:45Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6934,
-      "forks": 261,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-29T17:04:00Z",
-      "updated_at": "2026-07-29T17:04:18Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8706,
+      "forks": 255,
+      "language": "C++",
+      "pushed_at": "2026-07-29T20:39:49Z",
+      "updated_at": "2026-07-29T20:39:56Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6299,
-      "forks": 374,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-29T17:07:54Z",
-      "updated_at": "2026-07-29T17:08:27Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5755,
-      "forks": 763,
-      "language": "Swift",
-      "pushed_at": "2026-07-29T17:08:58Z",
-      "updated_at": "2026-07-29T16:57:50Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1941,
+      "forks": 142,
+      "language": "Dart",
+      "pushed_at": "2026-07-29T20:37:10Z",
+      "updated_at": "2026-07-29T20:38:50Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1559,
+      "stars": 1561,
       "forks": 90,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T16:46:27Z",
-      "updated_at": "2026-07-29T16:56:03Z"
+      "pushed_at": "2026-07-29T20:32:26Z",
+      "updated_at": "2026-07-29T20:32:47Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1033,
+      "stars": 1034,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-07-29T17:07:13Z",
-      "updated_at": "2026-07-29T17:07:40Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 917,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-29T16:46:31Z",
-      "updated_at": "2026-07-29T16:53:57Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 466,
-      "forks": 39,
-      "language": "Rust",
-      "pushed_at": "2026-07-29T15:45:12Z",
-      "updated_at": "2026-07-29T15:48:00Z"
+      "pushed_at": "2026-07-29T20:28:05Z",
+      "updated_at": "2026-07-29T20:28:10Z"
     },
     {
       "id": 1142482827,
@@ -114,19 +103,19 @@
       "stars": 451,
       "forks": 124,
       "language": "Python",
-      "pushed_at": "2026-07-29T17:06:23Z",
-      "updated_at": "2026-07-29T17:01:52Z"
+      "pushed_at": "2026-07-29T20:28:38Z",
+      "updated_at": "2026-07-29T20:16:25Z"
     },
     {
-      "id": 1258883863,
-      "full_name": "SwiftList/SwiftList",
-      "html_url": "https://github.com/SwiftList/SwiftList",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 305,
-      "forks": 13,
-      "language": "C#",
-      "pushed_at": "2026-07-29T15:56:52Z",
-      "updated_at": "2026-07-29T15:58:30Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 22,
+      "language": "Shell",
+      "pushed_at": "2026-07-29T19:29:42Z",
+      "updated_at": "2026-07-29T19:29:47Z"
     },
     {
       "id": 1093854529,
@@ -136,41 +125,52 @@
       "stars": 239,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-07-29T17:06:55Z",
-      "updated_at": "2026-07-29T17:07:33Z"
+      "pushed_at": "2026-07-29T20:12:15Z",
+      "updated_at": "2026-07-29T20:12:55Z"
     },
     {
       "id": 1150833483,
       "full_name": "0xMassi/stik_app",
       "html_url": "https://github.com/0xMassi/stik_app",
       "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
-      "stars": 233,
+      "stars": 234,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T16:12:47Z",
-      "updated_at": "2026-07-29T16:13:11Z"
+      "pushed_at": "2026-07-29T19:56:58Z",
+      "updated_at": "2026-07-29T20:45:05Z"
     },
     {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Factory on Your Desktop: The Best Self-Improving Harness",
-      "stars": 214,
-      "forks": 26,
+      "id": 1213753689,
+      "full_name": "nylxar/curium",
+      "html_url": "https://github.com/nylxar/curium",
+      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
+      "stars": 185,
+      "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T16:56:17Z",
-      "updated_at": "2026-07-29T16:10:28Z"
+      "pushed_at": "2026-07-29T19:40:49Z",
+      "updated_at": "2026-07-29T19:37:49Z"
     },
     {
-      "id": 1124365241,
-      "full_name": "EbadShelby/dotfiles",
-      "html_url": "https://github.com/EbadShelby/dotfiles",
-      "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 200,
-      "forks": 4,
-      "language": "CSS",
-      "pushed_at": "2026-07-29T15:16:29Z",
-      "updated_at": "2026-07-29T15:28:56Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-07-29T20:47:52Z",
+      "updated_at": "2026-07-29T20:47:57Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 150,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-29T19:46:51Z",
+      "updated_at": "2026-07-29T19:47:12Z"
     }
   ]
 }
