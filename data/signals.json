@@ -8,48 +8,37 @@
   "total_found": 1009,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38860,
-      "forks": 3873,
-      "language": "C#",
-      "pushed_at": "2026-07-29T08:33:30Z",
-      "updated_at": "2026-07-29T09:25:53Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16875,
-      "forks": 1680,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 20978,
+      "forks": 1896,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T10:16:46Z",
-      "updated_at": "2026-07-29T09:28:01Z"
+      "pushed_at": "2026-07-29T14:01:11Z",
+      "updated_at": "2026-07-29T13:32:18Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11753,
+      "stars": 11754,
       "forks": 1452,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T10:35:01Z",
-      "updated_at": "2026-07-29T10:24:07Z"
+      "pushed_at": "2026-07-29T13:07:01Z",
+      "updated_at": "2026-07-29T12:21:43Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6933,
-      "forks": 261,
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 9920,
+      "forks": 686,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T08:20:49Z",
-      "updated_at": "2026-07-29T08:21:43Z"
+      "pushed_at": "2026-07-29T13:03:22Z",
+      "updated_at": "2026-07-29T13:17:48Z"
     },
     {
       "id": 129699403,
@@ -59,107 +48,107 @@
       "stars": 5755,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-07-29T10:30:55Z",
-      "updated_at": "2026-07-29T09:44:38Z"
+      "pushed_at": "2026-07-29T14:00:50Z",
+      "updated_at": "2026-07-29T12:23:36Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5715,
-      "forks": 899,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-29T09:44:18Z",
-      "updated_at": "2026-07-29T09:47:52Z"
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4872,
+      "forks": 107,
+      "language": "Rust",
+      "pushed_at": "2026-07-29T12:46:12Z",
+      "updated_at": "2026-07-29T12:48:13Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4506,
-      "forks": 970,
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2293,
+      "forks": 93,
+      "language": "Swift",
+      "pushed_at": "2026-07-29T13:25:26Z",
+      "updated_at": "2026-07-29T13:26:43Z"
+    },
+    {
+      "id": 331378904,
+      "full_name": "gioxx/MarvellousSuspender",
+      "html_url": "https://github.com/gioxx/MarvellousSuspender",
+      "description": "Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.",
+      "stars": 1348,
+      "forks": 138,
       "language": "JavaScript",
-      "pushed_at": "2026-07-29T09:56:40Z",
-      "updated_at": "2026-07-29T10:06:44Z"
+      "pushed_at": "2026-07-29T13:53:38Z",
+      "updated_at": "2026-07-29T13:47:31Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1032,
+      "stars": 1033,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-07-29T08:59:57Z",
-      "updated_at": "2026-07-29T09:14:44Z"
+      "pushed_at": "2026-07-29T12:33:49Z",
+      "updated_at": "2026-07-29T12:38:06Z"
     },
     {
-      "id": 110334159,
-      "full_name": "scalacenter/bloop",
-      "html_url": "https://github.com/scalacenter/bloop",
-      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
-      "stars": 939,
-      "forks": 216,
-      "language": "Scala",
-      "pushed_at": "2026-07-29T09:27:35Z",
-      "updated_at": "2026-07-29T09:24:12Z"
-    },
-    {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization.",
-      "stars": 829,
-      "forks": 40,
-      "language": "Java",
-      "pushed_at": "2026-07-29T10:06:51Z",
-      "updated_at": "2026-07-29T09:58:15Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 451,
-      "forks": 123,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 817,
+      "forks": 86,
       "language": "Python",
-      "pushed_at": "2026-07-29T09:47:06Z",
-      "updated_at": "2026-07-29T08:55:58Z"
+      "pushed_at": "2026-07-29T11:37:58Z",
+      "updated_at": "2026-07-29T11:38:33Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 22,
-      "language": "Shell",
-      "pushed_at": "2026-07-29T09:17:25Z",
-      "updated_at": "2026-07-29T09:18:06Z"
-    },
-    {
-      "id": 1258883863,
-      "full_name": "SwiftList/SwiftList",
-      "html_url": "https://github.com/SwiftList/SwiftList",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 304,
-      "forks": 12,
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 562,
+      "forks": 70,
       "language": "C#",
-      "pushed_at": "2026-07-29T08:46:15Z",
-      "updated_at": "2026-07-29T08:47:46Z"
+      "pushed_at": "2026-07-29T13:20:42Z",
+      "updated_at": "2026-07-29T13:22:35Z"
     },
     {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Factory on Your Desktop: The Best Self-Improving Harness",
-      "stars": 212,
-      "forks": 26,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 466,
+      "forks": 39,
+      "language": "Rust",
+      "pushed_at": "2026-07-29T13:31:50Z",
+      "updated_at": "2026-07-29T13:36:56Z"
+    },
+    {
+      "id": 1150833483,
+      "full_name": "0xMassi/stik_app",
+      "html_url": "https://github.com/0xMassi/stik_app",
+      "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
+      "stars": 233,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T10:25:16Z",
-      "updated_at": "2026-07-29T10:05:23Z"
+      "pushed_at": "2026-07-29T14:03:44Z",
+      "updated_at": "2026-07-29T13:50:50Z"
+    },
+    {
+      "id": 488877411,
+      "full_name": "kiran-venugopal/lofi-fm",
+      "html_url": "https://github.com/kiran-venugopal/lofi-fm",
+      "description": "Online LoFi music player web app",
+      "stars": 175,
+      "forks": 36,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-29T13:26:46Z",
+      "updated_at": "2026-07-29T13:30:13Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +158,19 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-29T08:30:00Z",
-      "updated_at": "2026-07-29T08:30:41Z"
+      "pushed_at": "2026-07-29T13:56:07Z",
+      "updated_at": "2026-07-29T14:00:32Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 150,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-07-29T12:47:15Z",
+      "updated_at": "2026-07-29T12:48:10Z"
     }
   ]
 }
