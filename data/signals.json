@@ -12,33 +12,44 @@
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20978,
+      "stars": 20982,
       "forks": 1896,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T14:01:11Z",
-      "updated_at": "2026-07-29T13:32:18Z"
+      "pushed_at": "2026-07-29T16:09:53Z",
+      "updated_at": "2026-07-29T16:38:01Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11754,
+      "stars": 11759,
       "forks": 1452,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T13:07:01Z",
-      "updated_at": "2026-07-29T12:21:43Z"
+      "pushed_at": "2026-07-29T15:43:18Z",
+      "updated_at": "2026-07-29T17:07:33Z"
     },
     {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9920,
-      "forks": 686,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6934,
+      "forks": 261,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T13:03:22Z",
-      "updated_at": "2026-07-29T13:17:48Z"
+      "pushed_at": "2026-07-29T17:04:00Z",
+      "updated_at": "2026-07-29T17:04:18Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6299,
+      "forks": 374,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-29T17:07:54Z",
+      "updated_at": "2026-07-29T17:08:27Z"
     },
     {
       "id": 129699403,
@@ -48,41 +59,19 @@
       "stars": 5755,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-07-29T14:00:50Z",
-      "updated_at": "2026-07-29T12:23:36Z"
+      "pushed_at": "2026-07-29T17:08:58Z",
+      "updated_at": "2026-07-29T16:57:50Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4872,
-      "forks": 107,
-      "language": "Rust",
-      "pushed_at": "2026-07-29T12:46:12Z",
-      "updated_at": "2026-07-29T12:48:13Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2293,
-      "forks": 93,
-      "language": "Swift",
-      "pushed_at": "2026-07-29T13:25:26Z",
-      "updated_at": "2026-07-29T13:26:43Z"
-    },
-    {
-      "id": 331378904,
-      "full_name": "gioxx/MarvellousSuspender",
-      "html_url": "https://github.com/gioxx/MarvellousSuspender",
-      "description": "Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.",
-      "stars": 1348,
-      "forks": 138,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-29T13:53:38Z",
-      "updated_at": "2026-07-29T13:47:31Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1559,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-29T16:46:27Z",
+      "updated_at": "2026-07-29T16:56:03Z"
     },
     {
       "id": 1148683593,
@@ -92,30 +81,19 @@
       "stars": 1033,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-07-29T12:33:49Z",
-      "updated_at": "2026-07-29T12:38:06Z"
+      "pushed_at": "2026-07-29T17:07:13Z",
+      "updated_at": "2026-07-29T17:07:40Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 817,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-07-29T11:37:58Z",
-      "updated_at": "2026-07-29T11:38:33Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 562,
-      "forks": 70,
-      "language": "C#",
-      "pushed_at": "2026-07-29T13:20:42Z",
-      "updated_at": "2026-07-29T13:22:35Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 917,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-29T16:46:31Z",
+      "updated_at": "2026-07-29T16:53:57Z"
     },
     {
       "id": 1201098277,
@@ -125,8 +103,41 @@
       "stars": 466,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-07-29T13:31:50Z",
-      "updated_at": "2026-07-29T13:36:56Z"
+      "pushed_at": "2026-07-29T15:45:12Z",
+      "updated_at": "2026-07-29T15:48:00Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 451,
+      "forks": 124,
+      "language": "Python",
+      "pushed_at": "2026-07-29T17:06:23Z",
+      "updated_at": "2026-07-29T17:01:52Z"
+    },
+    {
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 305,
+      "forks": 13,
+      "language": "C#",
+      "pushed_at": "2026-07-29T15:56:52Z",
+      "updated_at": "2026-07-29T15:58:30Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 239,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-07-29T17:06:55Z",
+      "updated_at": "2026-07-29T17:07:33Z"
     },
     {
       "id": 1150833483,
@@ -136,41 +147,30 @@
       "stars": 233,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T14:03:44Z",
-      "updated_at": "2026-07-29T13:50:50Z"
+      "pushed_at": "2026-07-29T16:12:47Z",
+      "updated_at": "2026-07-29T16:13:11Z"
     },
     {
-      "id": 488877411,
-      "full_name": "kiran-venugopal/lofi-fm",
-      "html_url": "https://github.com/kiran-venugopal/lofi-fm",
-      "description": "Online LoFi music player web app",
-      "stars": 175,
-      "forks": 36,
+      "id": 1305383508,
+      "full_name": "Prism-Shadow/penguin-harness",
+      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Factory on Your Desktop: The Best Self-Improving Harness",
+      "stars": 214,
+      "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T13:26:46Z",
-      "updated_at": "2026-07-29T13:30:13Z"
+      "pushed_at": "2026-07-29T16:56:17Z",
+      "updated_at": "2026-07-29T16:10:28Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-29T13:56:07Z",
-      "updated_at": "2026-07-29T14:00:32Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-29T12:47:15Z",
-      "updated_at": "2026-07-29T12:48:10Z"
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 200,
+      "forks": 4,
+      "language": "CSS",
+      "pushed_at": "2026-07-29T15:16:29Z",
+      "updated_at": "2026-07-29T15:28:56Z"
     }
   ]
 }
