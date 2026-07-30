@@ -8,70 +8,59 @@
   "total_found": 1012,
   "items": [
     {
-      "id": 253222599,
-      "full_name": "CorentinTh/it-tools",
-      "html_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. ",
-      "stars": 40008,
-      "forks": 5266,
-      "language": "Vue",
-      "pushed_at": "2026-07-30T16:32:57Z",
-      "updated_at": "2026-07-30T17:00:48Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44491,
+      "forks": 2797,
+      "language": "C#",
+      "pushed_at": "2026-07-30T20:19:25Z",
+      "updated_at": "2026-07-30T20:19:42Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14339,
+      "forks": 972,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-30T18:25:55Z",
+      "updated_at": "2026-07-30T20:36:32Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11785,
-      "forks": 1457,
+      "stars": 11790,
+      "forks": 1458,
       "language": "TypeScript",
-      "pushed_at": "2026-07-30T17:22:28Z",
-      "updated_at": "2026-07-30T17:23:55Z"
+      "pushed_at": "2026-07-30T19:02:04Z",
+      "updated_at": "2026-07-30T20:05:03Z"
     },
     {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9928,
-      "forks": 687,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-30T16:50:39Z",
-      "updated_at": "2026-07-30T16:55:09Z"
+      "id": 610217037,
+      "full_name": "di-sukharev/opencommit",
+      "html_url": "https://github.com/di-sukharev/opencommit",
+      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "stars": 7513,
+      "forks": 439,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-30T19:19:58Z",
+      "updated_at": "2026-07-30T19:22:47Z"
     },
     {
       "id": 314995099,
       "full_name": "ankitpokhrel/jira-cli",
       "html_url": "https://github.com/ankitpokhrel/jira-cli",
       "description": "🔥 Feature-rich interactive Jira command line.",
-      "stars": 5859,
-      "forks": 403,
+      "stars": 5861,
+      "forks": 404,
       "language": "Go",
-      "pushed_at": "2026-07-30T17:19:11Z",
-      "updated_at": "2026-07-30T17:21:31Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5756,
-      "forks": 763,
-      "language": "Swift",
-      "pushed_at": "2026-07-30T17:23:39Z",
-      "updated_at": "2026-07-30T17:17:44Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5445,
-      "forks": 642,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-30T16:00:08Z",
-      "updated_at": "2026-07-30T16:03:49Z"
+      "pushed_at": "2026-07-30T18:25:24Z",
+      "updated_at": "2026-07-30T18:29:52Z"
     },
     {
       "id": 897595329,
@@ -81,41 +70,63 @@
       "stars": 3535,
       "forks": 244,
       "language": "Python",
-      "pushed_at": "2026-07-30T17:11:22Z",
-      "updated_at": "2026-07-30T16:39:33Z"
+      "pushed_at": "2026-07-30T20:59:05Z",
+      "updated_at": "2026-07-30T21:00:03Z"
+    },
+    {
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3264,
+      "forks": 154,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-30T18:38:54Z",
+      "updated_at": "2026-07-30T20:42:13Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1905,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-07-30T21:07:53Z",
+      "updated_at": "2026-07-30T20:09:38Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1566,
+      "stars": 1567,
       "forks": 89,
       "language": "TypeScript",
-      "pushed_at": "2026-07-30T16:58:13Z",
-      "updated_at": "2026-07-30T16:59:45Z"
+      "pushed_at": "2026-07-30T20:38:05Z",
+      "updated_at": "2026-07-30T20:39:06Z"
     },
     {
-      "id": 582248876,
-      "full_name": "chocoford/ExcalidrawZ",
-      "html_url": "https://github.com/chocoford/ExcalidrawZ",
-      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
-      "stars": 1290,
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1357,
       "forks": 64,
-      "language": "Swift",
-      "pushed_at": "2026-07-30T15:57:08Z",
-      "updated_at": "2026-07-30T16:00:45Z"
+      "language": "C#",
+      "pushed_at": "2026-07-30T20:44:14Z",
+      "updated_at": "2026-07-30T21:01:57Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1042,
-      "forks": 34,
-      "language": "Rust",
-      "pushed_at": "2026-07-30T16:49:05Z",
-      "updated_at": "2026-07-30T16:53:56Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "A curated list of the best native macOS apps — fast, lightweight, no Electron bloat. Swift & SwiftUI apps for Mac power users, updated regularly.",
+      "stars": 1277,
+      "forks": 101,
+      "language": "Shell",
+      "pushed_at": "2026-07-30T20:01:30Z",
+      "updated_at": "2026-07-30T20:03:37Z"
     },
     {
       "id": 591995344,
@@ -125,41 +136,30 @@
       "stars": 818,
       "forks": 86,
       "language": "Python",
-      "pushed_at": "2026-07-30T16:53:32Z",
-      "updated_at": "2026-07-30T16:55:24Z"
+      "pushed_at": "2026-07-30T20:54:14Z",
+      "updated_at": "2026-07-30T20:54:20Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 451,
-      "forks": 125,
-      "language": "Python",
-      "pushed_at": "2026-07-30T16:42:27Z",
-      "updated_at": "2026-07-30T15:59:26Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 413,
+      "forks": 52,
+      "language": "PHP",
+      "pushed_at": "2026-07-30T19:49:24Z",
+      "updated_at": "2026-07-30T19:47:28Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 202,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-30T17:13:21Z",
-      "updated_at": "2026-07-30T16:11:40Z"
-    },
-    {
-      "id": 1309395119,
-      "full_name": "sazardev/shiki",
-      "html_url": "https://github.com/sazardev/shiki",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "stars": 153,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-30T17:00:53Z",
-      "updated_at": "2026-07-30T17:03:38Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 22,
+      "language": "Shell",
+      "pushed_at": "2026-07-30T19:20:50Z",
+      "updated_at": "2026-07-30T19:21:19Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-30T17:20:20Z",
-      "updated_at": "2026-07-30T17:22:50Z"
+      "pushed_at": "2026-07-30T21:01:41Z",
+      "updated_at": "2026-07-30T21:01:58Z"
     }
   ]
 }
