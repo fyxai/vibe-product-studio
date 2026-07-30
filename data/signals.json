@@ -5,95 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1009,
+  "total_found": 1010,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44470,
+      "stars": 44471,
       "forks": 2797,
       "language": "C#",
-      "pushed_at": "2026-07-29T20:44:46Z",
-      "updated_at": "2026-07-29T20:45:03Z"
+      "pushed_at": "2026-07-30T01:33:30Z",
+      "updated_at": "2026-07-30T01:24:41Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 20986,
-      "forks": 1896,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-29T20:50:17Z",
-      "updated_at": "2026-07-29T20:50:57Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16877,
-      "forks": 1678,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-29T19:22:37Z",
-      "updated_at": "2026-07-29T19:22:43Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40883,
+      "forks": 962,
+      "language": "Rust",
+      "pushed_at": "2026-07-30T00:36:07Z",
+      "updated_at": "2026-07-30T02:03:17Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11762,
+      "stars": 11766,
       "forks": 1453,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T20:51:27Z",
-      "updated_at": "2026-07-29T20:51:45Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8706,
-      "forks": 255,
-      "language": "C++",
-      "pushed_at": "2026-07-29T20:39:49Z",
-      "updated_at": "2026-07-29T20:39:56Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1941,
-      "forks": 142,
-      "language": "Dart",
-      "pushed_at": "2026-07-29T20:37:10Z",
-      "updated_at": "2026-07-29T20:38:50Z"
+      "pushed_at": "2026-07-30T01:47:52Z",
+      "updated_at": "2026-07-30T01:47:56Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1561,
+      "stars": 1563,
       "forks": 90,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T20:32:26Z",
-      "updated_at": "2026-07-29T20:32:47Z"
+      "pushed_at": "2026-07-30T01:54:54Z",
+      "updated_at": "2026-07-30T01:54:58Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1338,
+      "forks": 68,
+      "language": "Rust",
+      "pushed_at": "2026-07-30T01:35:42Z",
+      "updated_at": "2026-07-30T01:35:45Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1034,
-      "forks": 35,
+      "stars": 1036,
+      "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-07-29T20:28:05Z",
-      "updated_at": "2026-07-29T20:28:10Z"
+      "pushed_at": "2026-07-30T00:20:56Z",
+      "updated_at": "2026-07-30T01:50:09Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 482,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-30T00:47:13Z",
+      "updated_at": "2026-07-30T00:47:16Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 468,
+      "forks": 39,
+      "language": "Rust",
+      "pushed_at": "2026-07-30T01:59:18Z",
+      "updated_at": "2026-07-30T01:52:58Z"
     },
     {
       "id": 1142482827,
@@ -101,10 +101,21 @@
       "html_url": "https://github.com/davekilleen/Dex",
       "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
       "stars": 451,
-      "forks": 124,
+      "forks": 125,
       "language": "Python",
-      "pushed_at": "2026-07-29T20:28:38Z",
-      "updated_at": "2026-07-29T20:16:25Z"
+      "pushed_at": "2026-07-30T01:38:14Z",
+      "updated_at": "2026-07-30T01:38:18Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 413,
+      "forks": 52,
+      "language": "PHP",
+      "pushed_at": "2026-07-30T01:42:32Z",
+      "updated_at": "2026-07-30T01:41:38Z"
     },
     {
       "id": 1166865874,
@@ -114,8 +125,8 @@
       "stars": 319,
       "forks": 22,
       "language": "Shell",
-      "pushed_at": "2026-07-29T19:29:42Z",
-      "updated_at": "2026-07-29T19:29:47Z"
+      "pushed_at": "2026-07-30T01:59:16Z",
+      "updated_at": "2026-07-30T01:59:19Z"
     },
     {
       "id": 1093854529,
@@ -125,8 +136,8 @@
       "stars": 239,
       "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-07-29T20:12:15Z",
-      "updated_at": "2026-07-29T20:12:55Z"
+      "pushed_at": "2026-07-30T01:52:12Z",
+      "updated_at": "2026-07-30T01:52:15Z"
     },
     {
       "id": 1150833483,
@@ -136,19 +147,19 @@
       "stars": 234,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T19:56:58Z",
-      "updated_at": "2026-07-29T20:45:05Z"
+      "pushed_at": "2026-07-30T00:49:12Z",
+      "updated_at": "2026-07-30T00:39:44Z"
     },
     {
-      "id": 1213753689,
-      "full_name": "nylxar/curium",
-      "html_url": "https://github.com/nylxar/curium",
-      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
-      "stars": 185,
-      "forks": 12,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 202,
+      "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-07-29T19:40:49Z",
-      "updated_at": "2026-07-29T19:37:49Z"
+      "pushed_at": "2026-07-30T01:29:33Z",
+      "updated_at": "2026-07-30T01:29:38Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-29T20:47:52Z",
-      "updated_at": "2026-07-29T20:47:57Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-07-29T19:46:51Z",
-      "updated_at": "2026-07-29T19:47:12Z"
+      "pushed_at": "2026-07-29T23:57:45Z",
+      "updated_at": "2026-07-29T23:57:50Z"
     }
   ]
 }
