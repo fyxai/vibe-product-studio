@@ -8,26 +8,48 @@
   "total_found": 1013,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38897,
-      "forks": 3872,
-      "language": "C#",
-      "pushed_at": "2026-07-31T06:37:29Z",
-      "updated_at": "2026-07-31T06:38:10Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 74116,
+      "forks": 4639,
+      "language": "Rust",
+      "pushed_at": "2026-07-31T09:17:04Z",
+      "updated_at": "2026-07-31T10:35:22Z"
     },
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27178,
-      "forks": 2421,
-      "language": "Go",
-      "pushed_at": "2026-07-31T05:53:35Z",
-      "updated_at": "2026-07-31T05:54:13Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40925,
+      "forks": 965,
+      "language": "Rust",
+      "pushed_at": "2026-07-31T10:32:14Z",
+      "updated_at": "2026-07-31T10:34:02Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 26061,
+      "forks": 1914,
+      "language": "Vue",
+      "pushed_at": "2026-07-31T09:49:54Z",
+      "updated_at": "2026-07-31T09:49:52Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21012,
+      "forks": 1901,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-31T10:12:26Z",
+      "updated_at": "2026-07-31T10:13:14Z"
     },
     {
       "id": 916009087,
@@ -35,65 +57,65 @@
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
       "stars": 16900,
-      "forks": 1681,
+      "forks": 1682,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T05:50:26Z",
-      "updated_at": "2026-07-31T05:50:34Z"
+      "pushed_at": "2026-07-31T10:20:58Z",
+      "updated_at": "2026-07-31T10:21:18Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11804,
+      "forks": 1460,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-31T10:13:29Z",
+      "updated_at": "2026-07-31T10:33:32Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5756,
+      "stars": 5757,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-07-31T06:36:54Z",
-      "updated_at": "2026-07-31T05:34:07Z"
+      "pushed_at": "2026-07-31T10:13:08Z",
+      "updated_at": "2026-07-31T10:09:46Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5732,
+      "stars": 5736,
       "forks": 902,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T06:33:08Z",
-      "updated_at": "2026-07-31T06:23:52Z"
+      "pushed_at": "2026-07-31T10:06:50Z",
+      "updated_at": "2026-07-31T09:58:24Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2237,
-      "forks": 86,
-      "language": "Swift",
-      "pushed_at": "2026-07-31T05:00:20Z",
-      "updated_at": "2026-07-31T05:00:53Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1946,
+      "forks": 142,
+      "language": "Dart",
+      "pushed_at": "2026-07-31T10:20:15Z",
+      "updated_at": "2026-07-31T09:49:08Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1568,
-      "forks": 90,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T06:17:38Z",
-      "updated_at": "2026-07-31T06:18:53Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1369,
-      "forks": 65,
-      "language": "C#",
-      "pushed_at": "2026-07-31T06:31:34Z",
-      "updated_at": "2026-07-31T06:32:08Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1906,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-07-31T09:59:02Z",
+      "updated_at": "2026-07-31T09:55:30Z"
     },
     {
       "id": 1148683593,
@@ -101,76 +123,54 @@
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "stars": 1043,
-      "forks": 34,
+      "forks": 33,
       "language": "Rust",
-      "pushed_at": "2026-07-31T06:27:06Z",
-      "updated_at": "2026-07-31T06:27:52Z"
+      "pushed_at": "2026-07-31T10:19:54Z",
+      "updated_at": "2026-07-31T10:20:09Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 451,
-      "forks": 124,
-      "language": "Python",
-      "pushed_at": "2026-07-31T06:35:48Z",
-      "updated_at": "2026-07-31T06:02:49Z"
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 753,
+      "forks": 61,
+      "language": "Swift",
+      "pushed_at": "2026-07-31T09:29:18Z",
+      "updated_at": "2026-07-31T09:31:15Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 500,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-07-31T09:29:45Z",
+      "updated_at": "2026-07-31T10:33:15Z"
     },
     {
       "id": 1258883863,
       "full_name": "SwiftList/SwiftList",
       "html_url": "https://github.com/SwiftList/SwiftList",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 312,
+      "stars": 313,
       "forks": 13,
       "language": "C#",
-      "pushed_at": "2026-07-31T06:27:23Z",
-      "updated_at": "2026-07-31T06:27:55Z"
+      "pushed_at": "2026-07-31T09:34:06Z",
+      "updated_at": "2026-07-31T09:35:25Z"
     },
     {
-      "id": 643614365,
-      "full_name": "adamlui/chatgpt-auto-continue",
-      "html_url": "https://github.com/adamlui/chatgpt-auto-continue",
-      "description": "⏩ Automatically continue generating answers when ChatGPT responses get cut-off",
-      "stars": 182,
-      "forks": 7,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-31T05:23:53Z",
-      "updated_at": "2026-07-31T05:25:00Z"
-    },
-    {
-      "id": 1309395119,
-      "full_name": "sazardev/shiki",
-      "html_url": "https://github.com/sazardev/shiki",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "stars": 161,
-      "forks": 10,
-      "language": "Rust",
-      "pushed_at": "2026-07-31T04:30:56Z",
-      "updated_at": "2026-07-31T05:45:51Z"
-    },
-    {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 89,
-      "forks": 30,
+      "id": 1305383508,
+      "full_name": "Prism-Shadow/penguin-harness",
+      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Builder on Your Desktop: Create Self-Evolving Agents in One Click",
+      "stars": 231,
+      "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T06:38:26Z",
-      "updated_at": "2026-07-31T04:40:14Z"
-    },
-    {
-      "id": 1271179812,
-      "full_name": "joexk1/JoeBro",
-      "html_url": "https://github.com/joexk1/JoeBro",
-      "description": "A native macOS AI workspace that's actually yours — local-first, private, pro-AI and anti-big-tech. Own your assistant, don't rent it. GPLv3.",
-      "stars": 87,
-      "forks": 15,
-      "language": "Swift",
-      "pushed_at": "2026-07-31T05:55:27Z",
-      "updated_at": "2026-07-31T05:56:01Z"
+      "pushed_at": "2026-07-31T10:35:34Z",
+      "updated_at": "2026-07-31T10:19:10Z"
     }
   ]
 }
