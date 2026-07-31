@@ -8,59 +8,81 @@
   "total_found": 1013,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38906,
-      "forks": 3872,
-      "language": "C#",
-      "pushed_at": "2026-07-31T12:28:53Z",
-      "updated_at": "2026-07-31T12:47:48Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27179,
-      "forks": 2420,
+      "id": 501045649,
+      "full_name": "wavetermdev/waveterm",
+      "html_url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 21877,
+      "forks": 1085,
       "language": "Go",
-      "pushed_at": "2026-07-31T13:53:30Z",
-      "updated_at": "2026-07-31T13:36:11Z"
+      "pushed_at": "2026-07-31T16:03:59Z",
+      "updated_at": "2026-07-31T16:24:34Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21017,
-      "forks": 1901,
+      "stars": 21020,
+      "forks": 1902,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T13:14:09Z",
-      "updated_at": "2026-07-31T13:48:47Z"
+      "pushed_at": "2026-07-31T16:37:58Z",
+      "updated_at": "2026-07-31T16:59:26Z"
+    },
+    {
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 18444,
+      "forks": 974,
+      "language": "Python",
+      "pushed_at": "2026-07-31T17:26:45Z",
+      "updated_at": "2026-07-31T17:26:52Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11805,
+      "stars": 11807,
       "forks": 1461,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T14:00:11Z",
-      "updated_at": "2026-07-31T13:56:27Z"
+      "pushed_at": "2026-07-31T17:26:24Z",
+      "updated_at": "2026-07-31T17:18:47Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3800,
-      "forks": 791,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T13:19:18Z",
-      "updated_at": "2026-07-31T13:56:45Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6575,
+      "forks": 147,
+      "language": "Swift",
+      "pushed_at": "2026-07-31T17:05:22Z",
+      "updated_at": "2026-07-31T17:05:00Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5446,
+      "forks": 642,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-31T16:27:23Z",
+      "updated_at": "2026-07-31T16:27:28Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1654,
+      "forks": 103,
+      "language": "Rust",
+      "pushed_at": "2026-07-31T16:19:24Z",
+      "updated_at": "2026-07-31T15:59:58Z"
     },
     {
       "id": 1111978380,
@@ -70,63 +92,41 @@
       "stars": 1572,
       "forks": 90,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T13:56:40Z",
-      "updated_at": "2026-07-31T13:57:23Z"
+      "pushed_at": "2026-07-31T17:18:19Z",
+      "updated_at": "2026-07-31T17:19:48Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1043,
-      "forks": 33,
+      "id": 1234008446,
+      "full_name": "hsr88/mouzi",
+      "html_url": "https://github.com/hsr88/mouzi",
+      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
+      "stars": 734,
+      "forks": 36,
       "language": "Rust",
-      "pushed_at": "2026-07-31T13:46:58Z",
-      "updated_at": "2026-07-31T13:52:08Z"
+      "pushed_at": "2026-07-31T17:17:12Z",
+      "updated_at": "2026-07-31T17:18:58Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 753,
-      "forks": 61,
-      "language": "Swift",
-      "pushed_at": "2026-07-31T12:55:08Z",
-      "updated_at": "2026-07-31T12:58:13Z"
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 656,
+      "forks": 101,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-31T15:44:51Z",
+      "updated_at": "2026-07-31T15:42:23Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 22,
-      "language": "Shell",
-      "pushed_at": "2026-07-31T13:55:20Z",
-      "updated_at": "2026-07-31T14:00:01Z"
-    },
-    {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Builder on Your Desktop: Create Self-Evolving Agents in One Click",
-      "stars": 235,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T14:01:57Z",
-      "updated_at": "2026-07-31T12:43:44Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 235,
-      "forks": 10,
-      "language": "Python",
-      "pushed_at": "2026-07-31T12:49:47Z",
-      "updated_at": "2026-07-31T12:49:52Z"
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 313,
+      "forks": 13,
+      "language": "C#",
+      "pushed_at": "2026-07-31T16:13:19Z",
+      "updated_at": "2026-07-31T16:57:22Z"
     },
     {
       "id": 1133241492,
@@ -136,19 +136,8 @@
       "stars": 202,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T13:03:05Z",
-      "updated_at": "2026-07-31T13:03:43Z"
-    },
-    {
-      "id": 1135338086,
-      "full_name": "l06066hb/MarKing",
-      "html_url": "https://github.com/l06066hb/MarKing",
-      "description": "Marking：现代化跨平台 Markdown 编辑器 - 专业级编辑体验 + 可视化表格编辑  + 强大导出功能 | Modern cross-platform Markdown editor with professional editing, visual table editor, and powerful export | MarKing: A modern, professional cross-platform Markdown editor with stunning UI, DOCX/PDF export, and native performance.",
-      "stars": 193,
-      "forks": 12,
-      "language": "Unknown",
-      "pushed_at": "2026-07-31T12:31:39Z",
-      "updated_at": "2026-07-31T13:07:39Z"
+      "pushed_at": "2026-07-31T17:05:43Z",
+      "updated_at": "2026-07-31T17:06:00Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +147,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-31T12:52:15Z",
-      "updated_at": "2026-07-31T12:53:28Z"
+      "pushed_at": "2026-07-31T17:23:57Z",
+      "updated_at": "2026-07-31T17:24:17Z"
     },
     {
       "id": 1073368386,
@@ -169,8 +158,19 @@
       "stars": 150,
       "forks": 9,
       "language": "Rust",
-      "pushed_at": "2026-07-31T13:45:01Z",
-      "updated_at": "2026-07-31T13:50:10Z"
+      "pushed_at": "2026-07-31T16:14:13Z",
+      "updated_at": "2026-07-31T16:14:37Z"
+    },
+    {
+      "id": 1165557248,
+      "full_name": "nicksenap/grove",
+      "html_url": "https://github.com/nicksenap/grove",
+      "description": "Git worktree workspace orchestrator. One command creates a workspace folder with worktrees from multiple repos on the same branch.",
+      "stars": 71,
+      "forks": 10,
+      "language": "Go",
+      "pushed_at": "2026-07-31T16:30:51Z",
+      "updated_at": "2026-07-31T16:34:57Z"
     }
   ]
 }
