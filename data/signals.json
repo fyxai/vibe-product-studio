@@ -5,51 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1013,
+  "total_found": 1014,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 74241,
-      "forks": 4649,
+      "stars": 74257,
+      "forks": 4650,
       "language": "Rust",
-      "pushed_at": "2026-08-01T12:32:08Z",
-      "updated_at": "2026-08-01T12:49:59Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38924,
-      "forks": 3876,
-      "language": "C#",
-      "pushed_at": "2026-08-01T12:55:12Z",
-      "updated_at": "2026-08-01T12:57:10Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14473,
-      "forks": 933,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:13:21Z",
-      "updated_at": "2026-08-01T13:13:27Z"
+      "pushed_at": "2026-08-01T16:53:26Z",
+      "updated_at": "2026-08-01T16:40:08Z"
     },
     {
       "id": 1245699721,
       "full_name": "KunAgent/Kun",
       "html_url": "https://github.com/KunAgent/Kun",
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5540,
-      "forks": 539,
+      "stars": 5546,
+      "forks": 542,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T12:58:24Z",
-      "updated_at": "2026-08-01T13:07:02Z"
+      "pushed_at": "2026-08-01T16:47:43Z",
+      "updated_at": "2026-08-01T16:00:11Z"
     },
     {
       "id": 11512043,
@@ -57,32 +35,43 @@
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
       "stars": 5446,
-      "forks": 642,
+      "forks": 643,
       "language": "Kotlin",
-      "pushed_at": "2026-08-01T12:26:50Z",
-      "updated_at": "2026-08-01T12:26:59Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3800,
-      "forks": 791,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:11:00Z",
-      "updated_at": "2026-08-01T12:14:25Z"
+      "pushed_at": "2026-08-01T16:44:46Z",
+      "updated_at": "2026-08-01T16:43:22Z"
     },
     {
       "id": 323279421,
       "full_name": "LinwoodDev/Butterfly",
       "html_url": "https://github.com/LinwoodDev/Butterfly",
       "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1946,
+      "stars": 1945,
       "forks": 143,
       "language": "Dart",
-      "pushed_at": "2026-08-01T11:55:06Z",
-      "updated_at": "2026-08-01T11:55:17Z"
+      "pushed_at": "2026-08-01T16:03:15Z",
+      "updated_at": "2026-08-01T16:03:42Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1906,
+      "forks": 134,
+      "language": "Go",
+      "pushed_at": "2026-08-01T15:48:15Z",
+      "updated_at": "2026-08-01T15:43:20Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1576,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T16:56:07Z",
+      "updated_at": "2026-08-01T16:56:11Z"
     },
     {
       "id": 1148683593,
@@ -92,19 +81,8 @@
       "stars": 1045,
       "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-08-01T13:13:30Z",
-      "updated_at": "2026-08-01T13:13:45Z"
-    },
-    {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization.",
-      "stars": 832,
-      "forks": 41,
-      "language": "Java",
-      "pushed_at": "2026-08-01T12:58:54Z",
-      "updated_at": "2026-08-01T12:59:02Z"
+      "pushed_at": "2026-08-01T16:57:23Z",
+      "updated_at": "2026-08-01T16:57:28Z"
     },
     {
       "id": 591995344,
@@ -114,63 +92,85 @@
       "stars": 818,
       "forks": 86,
       "language": "Python",
-      "pushed_at": "2026-08-01T13:14:38Z",
-      "updated_at": "2026-08-01T13:15:06Z"
+      "pushed_at": "2026-08-01T16:20:12Z",
+      "updated_at": "2026-08-01T16:20:18Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 642,
+      "stars": 643,
       "forks": 109,
       "language": "Go",
-      "pushed_at": "2026-08-01T13:10:28Z",
-      "updated_at": "2026-08-01T12:54:42Z"
+      "pushed_at": "2026-08-01T15:47:12Z",
+      "updated_at": "2026-08-01T15:47:17Z"
     },
     {
-      "id": 208359230,
-      "full_name": "TTLApp/time-to-leave",
-      "html_url": "https://github.com/TTLApp/time-to-leave",
-      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
-      "stars": 491,
-      "forks": 277,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-01T11:34:18Z",
-      "updated_at": "2026-08-01T11:34:22Z"
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 387,
+      "forks": 39,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-01T16:12:12Z",
+      "updated_at": "2026-08-01T16:12:16Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 452,
-      "forks": 123,
-      "language": "Python",
-      "pushed_at": "2026-08-01T12:24:31Z",
-      "updated_at": "2026-08-01T12:13:03Z"
+      "id": 1185061197,
+      "full_name": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
+      "html_url": "https://github.com/NubPlayz/GoodLib-Zlib-Goodreads-extension",
+      "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox",
+      "stars": 377,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T16:16:35Z",
+      "updated_at": "2026-08-01T16:16:40Z"
     },
     {
       "id": 1258883863,
       "full_name": "SwiftList/SwiftList",
       "html_url": "https://github.com/SwiftList/SwiftList",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 323,
+      "stars": 329,
       "forks": 13,
       "language": "C#",
-      "pushed_at": "2026-08-01T12:41:51Z",
-      "updated_at": "2026-08-01T13:14:40Z"
+      "pushed_at": "2026-08-01T16:45:49Z",
+      "updated_at": "2026-08-01T16:45:52Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 22,
-      "language": "Shell",
-      "pushed_at": "2026-08-01T13:10:04Z",
-      "updated_at": "2026-08-01T13:10:11Z"
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 203,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T16:23:42Z",
+      "updated_at": "2026-08-01T16:23:47Z"
+    },
+    {
+      "id": 1289484140,
+      "full_name": "zzliu93-debug/FocuSD",
+      "html_url": "https://github.com/zzliu93-debug/FocuSD",
+      "description": "Windows floating island for Codex Status Indicator Light,todos, notes, clipboard history, media control, and Markdown archives.",
+      "stars": 169,
+      "forks": 10,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T16:46:37Z",
+      "updated_at": "2026-08-01T16:46:39Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-01T15:56:56Z",
+      "updated_at": "2026-08-01T15:57:00Z"
     }
   ]
 }
