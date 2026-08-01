@@ -5,117 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1013,
+  "total_found": 1012,
   "items": [
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26065,
-      "forks": 1915,
-      "language": "Vue",
-      "pushed_at": "2026-07-31T18:04:24Z",
-      "updated_at": "2026-07-31T19:21:51Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40940,
+      "forks": 965,
+      "language": "Rust",
+      "pushed_at": "2026-08-01T01:04:46Z",
+      "updated_at": "2026-08-01T02:01:01Z"
     },
     {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 18445,
-      "forks": 974,
-      "language": "Python",
-      "pushed_at": "2026-07-31T17:29:07Z",
-      "updated_at": "2026-07-31T18:29:04Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11809,
-      "forks": 1461,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 33984,
+      "forks": 3606,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T17:32:39Z",
-      "updated_at": "2026-07-31T21:00:55Z"
+      "pushed_at": "2026-08-01T01:41:51Z",
+      "updated_at": "2026-08-01T01:45:03Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6375,
-      "forks": 382,
-      "language": "Kotlin",
-      "pushed_at": "2026-07-31T18:53:48Z",
-      "updated_at": "2026-07-31T19:13:41Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5757,
-      "forks": 763,
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6576,
+      "forks": 147,
       "language": "Swift",
-      "pushed_at": "2026-07-31T20:49:41Z",
-      "updated_at": "2026-07-31T20:13:34Z"
+      "pushed_at": "2026-08-01T02:15:21Z",
+      "updated_at": "2026-08-01T02:15:26Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5445,
+      "stars": 5446,
       "forks": 642,
       "language": "Kotlin",
-      "pushed_at": "2026-07-31T18:56:14Z",
-      "updated_at": "2026-07-31T19:29:20Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3800,
-      "forks": 791,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T20:51:14Z",
-      "updated_at": "2026-07-31T18:36:38Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2241,
-      "forks": 86,
-      "language": "Swift",
-      "pushed_at": "2026-07-31T17:35:44Z",
-      "updated_at": "2026-07-31T17:35:55Z"
+      "pushed_at": "2026-08-01T00:03:53Z",
+      "updated_at": "2026-08-01T01:09:44Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1573,
+      "stars": 1574,
       "forks": 89,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T20:40:51Z",
-      "updated_at": "2026-07-31T20:40:56Z"
+      "pushed_at": "2026-08-01T02:23:48Z",
+      "updated_at": "2026-08-01T02:23:52Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1388,
+      "stars": 1393,
       "forks": 65,
       "language": "C#",
-      "pushed_at": "2026-07-31T20:13:23Z",
-      "updated_at": "2026-07-31T20:26:43Z"
+      "pushed_at": "2026-08-01T01:12:37Z",
+      "updated_at": "2026-08-01T02:36:53Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1044,
+      "forks": 34,
+      "language": "Rust",
+      "pushed_at": "2026-08-01T02:28:35Z",
+      "updated_at": "2026-08-01T02:28:33Z"
     },
     {
       "id": 591995344,
@@ -125,8 +92,30 @@
       "stars": 818,
       "forks": 86,
       "language": "Python",
-      "pushed_at": "2026-07-31T20:30:22Z",
-      "updated_at": "2026-07-31T20:30:32Z"
+      "pushed_at": "2026-08-01T00:12:08Z",
+      "updated_at": "2026-08-01T00:12:12Z"
+    },
+    {
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 757,
+      "forks": 61,
+      "language": "Swift",
+      "pushed_at": "2026-08-01T02:11:42Z",
+      "updated_at": "2026-08-01T02:28:54Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 486,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T01:07:08Z",
+      "updated_at": "2026-08-01T02:38:06Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +125,52 @@
       "stars": 319,
       "forks": 22,
       "language": "Shell",
-      "pushed_at": "2026-07-31T19:20:28Z",
-      "updated_at": "2026-07-31T19:20:36Z"
+      "pushed_at": "2026-08-01T02:25:23Z",
+      "updated_at": "2026-08-01T02:25:26Z"
     },
     {
-      "id": 626659549,
-      "full_name": "2e3s/awatcher",
-      "html_url": "https://github.com/2e3s/awatcher",
-      "description": "Activity and idle watchers",
-      "stars": 297,
-      "forks": 26,
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T00:59:04Z",
+      "updated_at": "2026-08-01T00:59:07Z"
+    },
+    {
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 209,
+      "forks": 4,
+      "language": "CSS",
+      "pushed_at": "2026-08-01T00:55:14Z",
+      "updated_at": "2026-08-01T00:55:18Z"
+    },
+    {
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
+      "stars": 197,
+      "forks": 10,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-01T01:12:01Z",
+      "updated_at": "2026-08-01T01:12:04Z"
+    },
+    {
+      "id": 1309395119,
+      "full_name": "sazardev/shiki",
+      "html_url": "https://github.com/sazardev/shiki",
+      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "stars": 168,
+      "forks": 11,
       "language": "Rust",
-      "pushed_at": "2026-07-31T20:55:27Z",
-      "updated_at": "2026-07-31T20:55:39Z"
-    },
-    {
-      "id": 582366639,
-      "full_name": "Th3Un1q3/flipp_pomodoro",
-      "html_url": "https://github.com/Th3Un1q3/flipp_pomodoro",
-      "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
-      "stars": 208,
-      "forks": 14,
-      "language": "C",
-      "pushed_at": "2026-07-31T19:58:19Z",
-      "updated_at": "2026-07-31T19:55:38Z"
-    },
-    {
-      "id": 1312220956,
-      "full_name": "jchultarsky/mirador",
-      "html_url": "https://github.com/jchultarsky/mirador",
-      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "stars": 162,
-      "forks": 17,
-      "language": "Rust",
-      "pushed_at": "2026-07-31T20:59:13Z",
-      "updated_at": "2026-07-31T20:59:19Z"
+      "pushed_at": "2026-08-01T00:42:13Z",
+      "updated_at": "2026-08-01T00:42:17Z"
     }
   ]
 }
