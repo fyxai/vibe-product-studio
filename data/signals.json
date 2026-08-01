@@ -5,84 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1012,
+  "total_found": 1013,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 40947,
-      "forks": 965,
-      "language": "Rust",
-      "pushed_at": "2026-08-01T05:46:40Z",
-      "updated_at": "2026-08-01T06:03:35Z"
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 33986,
+      "forks": 3606,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T09:10:37Z",
+      "updated_at": "2026-08-01T09:39:37Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38917,
-      "forks": 3874,
-      "language": "C#",
-      "pushed_at": "2026-08-01T04:40:40Z",
-      "updated_at": "2026-08-01T05:51:19Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27182,
-      "forks": 2420,
-      "language": "Go",
-      "pushed_at": "2026-08-01T05:20:16Z",
-      "updated_at": "2026-08-01T05:54:43Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21033,
+      "forks": 1904,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T09:56:27Z",
+      "updated_at": "2026-08-01T09:56:12Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14463,
+      "stars": 14470,
       "forks": 933,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T06:18:04Z",
-      "updated_at": "2026-08-01T06:18:18Z"
+      "pushed_at": "2026-08-01T07:58:22Z",
+      "updated_at": "2026-08-01T09:12:47Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14348,
-      "forks": 974,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 5534,
+      "forks": 539,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T03:56:37Z",
-      "updated_at": "2026-08-01T05:55:26Z"
+      "pushed_at": "2026-08-01T09:23:44Z",
+      "updated_at": "2026-08-01T09:27:38Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5757,
-      "forks": 762,
-      "language": "Swift",
-      "pushed_at": "2026-08-01T06:11:16Z",
-      "updated_at": "2026-08-01T05:07:57Z"
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1442,
+      "forks": 82,
+      "language": "Dart",
+      "pushed_at": "2026-08-01T07:53:31Z",
+      "updated_at": "2026-08-01T07:53:43Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1398,
+      "stars": 1414,
       "forks": 66,
       "language": "C#",
-      "pushed_at": "2026-08-01T05:24:49Z",
-      "updated_at": "2026-08-01T05:47:00Z"
+      "pushed_at": "2026-08-01T08:01:07Z",
+      "updated_at": "2026-08-01T09:35:04Z"
+    },
+    {
+      "id": 264844037,
+      "full_name": "lindell/multi-gitter",
+      "html_url": "https://github.com/lindell/multi-gitter",
+      "description": "Update multiple repositories in with one command",
+      "stars": 1224,
+      "forks": 92,
+      "language": "Go",
+      "pushed_at": "2026-08-01T08:32:14Z",
+      "updated_at": "2026-08-01T08:31:43Z"
     },
     {
       "id": 1148683593,
@@ -92,41 +92,41 @@
       "stars": 1045,
       "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-08-01T06:13:39Z",
-      "updated_at": "2026-08-01T06:14:00Z"
+      "pushed_at": "2026-08-01T08:59:17Z",
+      "updated_at": "2026-08-01T08:59:21Z"
     },
     {
       "id": 1185843143,
       "full_name": "realskyrin/capcap",
       "html_url": "https://github.com/realskyrin/capcap",
       "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 762,
+      "stars": 764,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-08-01T05:31:46Z",
-      "updated_at": "2026-08-01T05:31:53Z"
+      "pushed_at": "2026-08-01T08:58:58Z",
+      "updated_at": "2026-08-01T08:59:02Z"
     },
     {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 250,
-      "forks": 63,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T05:11:00Z",
-      "updated_at": "2026-08-01T05:24:46Z"
+      "id": 208359230,
+      "full_name": "TTLApp/time-to-leave",
+      "html_url": "https://github.com/TTLApp/time-to-leave",
+      "description": "Log work hours and get notified when it's time to leave the office and start to live.",
+      "stars": 491,
+      "forks": 277,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-01T09:56:41Z",
+      "updated_at": "2026-08-01T09:56:51Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
-      "stars": 236,
-      "forks": 10,
-      "language": "Python",
-      "pushed_at": "2026-08-01T05:15:16Z",
-      "updated_at": "2026-08-01T05:15:26Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 22,
+      "language": "Shell",
+      "pushed_at": "2026-08-01T08:14:33Z",
+      "updated_at": "2026-08-01T08:15:18Z"
     },
     {
       "id": 1133241492,
@@ -136,30 +136,19 @@
       "stars": 203,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T05:45:39Z",
-      "updated_at": "2026-08-01T05:45:44Z"
+      "pushed_at": "2026-08-01T07:30:42Z",
+      "updated_at": "2026-08-01T07:30:59Z"
     },
     {
       "id": 1312220956,
       "full_name": "jchultarsky/mirador",
       "html_url": "https://github.com/jchultarsky/mirador",
       "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "stars": 167,
-      "forks": 17,
+      "stars": 172,
+      "forks": 18,
       "language": "Rust",
-      "pushed_at": "2026-08-01T04:55:54Z",
-      "updated_at": "2026-08-01T06:21:38Z"
-    },
-    {
-      "id": 1142491633,
-      "full_name": "sqmw/desk_tidy_sticky",
-      "html_url": "https://github.com/sqmw/desk_tidy_sticky",
-      "description": "跨平台极简多功能便笺助手 | Cross-platform minimal multifunction sticky notes with workspace, focus timer, and break reminders.",
-      "stars": 153,
-      "forks": 3,
-      "language": "Svelte",
-      "pushed_at": "2026-08-01T04:21:32Z",
-      "updated_at": "2026-08-01T04:21:37Z"
+      "pushed_at": "2026-08-01T07:55:04Z",
+      "updated_at": "2026-08-01T09:01:00Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +158,19 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-01T05:50:10Z",
-      "updated_at": "2026-08-01T05:50:27Z"
+      "pushed_at": "2026-08-01T08:10:55Z",
+      "updated_at": "2026-08-01T08:11:18Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "fulsomenko/kanban",
+      "html_url": "https://github.com/fulsomenko/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 150,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-08-01T09:02:54Z",
+      "updated_at": "2026-08-01T09:03:01Z"
     }
   ]
 }
