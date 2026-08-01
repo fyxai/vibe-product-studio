@@ -8,81 +8,81 @@
   "total_found": 1013,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 33986,
-      "forks": 3606,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T09:10:37Z",
-      "updated_at": "2026-08-01T09:39:37Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 74241,
+      "forks": 4649,
+      "language": "Rust",
+      "pushed_at": "2026-08-01T12:32:08Z",
+      "updated_at": "2026-08-01T12:49:59Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21033,
-      "forks": 1904,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T09:56:27Z",
-      "updated_at": "2026-08-01T09:56:12Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38924,
+      "forks": 3876,
+      "language": "C#",
+      "pushed_at": "2026-08-01T12:55:12Z",
+      "updated_at": "2026-08-01T12:57:10Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14470,
+      "stars": 14473,
       "forks": 933,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T07:58:22Z",
-      "updated_at": "2026-08-01T09:12:47Z"
+      "pushed_at": "2026-08-01T13:13:21Z",
+      "updated_at": "2026-08-01T13:13:27Z"
     },
     {
       "id": 1245699721,
       "full_name": "KunAgent/Kun",
       "html_url": "https://github.com/KunAgent/Kun",
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5534,
+      "stars": 5540,
       "forks": 539,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T09:23:44Z",
-      "updated_at": "2026-08-01T09:27:38Z"
+      "pushed_at": "2026-08-01T12:58:24Z",
+      "updated_at": "2026-08-01T13:07:02Z"
     },
     {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1442,
-      "forks": 82,
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5446,
+      "forks": 642,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-01T12:26:50Z",
+      "updated_at": "2026-08-01T12:26:59Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3800,
+      "forks": 791,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T13:11:00Z",
+      "updated_at": "2026-08-01T12:14:25Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1946,
+      "forks": 143,
       "language": "Dart",
-      "pushed_at": "2026-08-01T07:53:31Z",
-      "updated_at": "2026-08-01T07:53:43Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1414,
-      "forks": 66,
-      "language": "C#",
-      "pushed_at": "2026-08-01T08:01:07Z",
-      "updated_at": "2026-08-01T09:35:04Z"
-    },
-    {
-      "id": 264844037,
-      "full_name": "lindell/multi-gitter",
-      "html_url": "https://github.com/lindell/multi-gitter",
-      "description": "Update multiple repositories in with one command",
-      "stars": 1224,
-      "forks": 92,
-      "language": "Go",
-      "pushed_at": "2026-08-01T08:32:14Z",
-      "updated_at": "2026-08-01T08:31:43Z"
+      "pushed_at": "2026-08-01T11:55:06Z",
+      "updated_at": "2026-08-01T11:55:17Z"
     },
     {
       "id": 1148683593,
@@ -92,19 +92,41 @@
       "stars": 1045,
       "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-08-01T08:59:17Z",
-      "updated_at": "2026-08-01T08:59:21Z"
+      "pushed_at": "2026-08-01T13:13:30Z",
+      "updated_at": "2026-08-01T13:13:45Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 764,
-      "forks": 61,
-      "language": "Swift",
-      "pushed_at": "2026-08-01T08:58:58Z",
-      "updated_at": "2026-08-01T08:59:02Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 832,
+      "forks": 41,
+      "language": "Java",
+      "pushed_at": "2026-08-01T12:58:54Z",
+      "updated_at": "2026-08-01T12:59:02Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 818,
+      "forks": 86,
+      "language": "Python",
+      "pushed_at": "2026-08-01T13:14:38Z",
+      "updated_at": "2026-08-01T13:15:06Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 642,
+      "forks": 109,
+      "language": "Go",
+      "pushed_at": "2026-08-01T13:10:28Z",
+      "updated_at": "2026-08-01T12:54:42Z"
     },
     {
       "id": 208359230,
@@ -114,8 +136,30 @@
       "stars": 491,
       "forks": 277,
       "language": "JavaScript",
-      "pushed_at": "2026-08-01T09:56:41Z",
-      "updated_at": "2026-08-01T09:56:51Z"
+      "pushed_at": "2026-08-01T11:34:18Z",
+      "updated_at": "2026-08-01T11:34:22Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 452,
+      "forks": 123,
+      "language": "Python",
+      "pushed_at": "2026-08-01T12:24:31Z",
+      "updated_at": "2026-08-01T12:13:03Z"
+    },
+    {
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 323,
+      "forks": 13,
+      "language": "C#",
+      "pushed_at": "2026-08-01T12:41:51Z",
+      "updated_at": "2026-08-01T13:14:40Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +169,8 @@
       "stars": 319,
       "forks": 22,
       "language": "Shell",
-      "pushed_at": "2026-08-01T08:14:33Z",
-      "updated_at": "2026-08-01T08:15:18Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 203,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T07:30:42Z",
-      "updated_at": "2026-08-01T07:30:59Z"
-    },
-    {
-      "id": 1312220956,
-      "full_name": "jchultarsky/mirador",
-      "html_url": "https://github.com/jchultarsky/mirador",
-      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "stars": 172,
-      "forks": 18,
-      "language": "Rust",
-      "pushed_at": "2026-08-01T07:55:04Z",
-      "updated_at": "2026-08-01T09:01:00Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-01T08:10:55Z",
-      "updated_at": "2026-08-01T08:11:18Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 150,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-08-01T09:02:54Z",
-      "updated_at": "2026-08-01T09:03:01Z"
+      "pushed_at": "2026-08-01T13:10:04Z",
+      "updated_at": "2026-08-01T13:10:11Z"
     }
   ]
 }
