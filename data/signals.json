@@ -8,59 +8,59 @@
   "total_found": 1014,
   "items": [
     {
-      "id": 396569538,
-      "full_name": "khoj-ai/khoj",
-      "html_url": "https://github.com/khoj-ai/khoj",
-      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
-      "stars": 36152,
-      "forks": 2334,
-      "language": "Python",
-      "pushed_at": "2026-08-02T01:55:40Z",
-      "updated_at": "2026-08-02T02:03:55Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 40977,
+      "forks": 968,
+      "language": "Rust",
+      "pushed_at": "2026-08-02T06:26:37Z",
+      "updated_at": "2026-08-02T06:08:43Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11829,
-      "forks": 1462,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5743,
+      "forks": 902,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T00:50:13Z",
-      "updated_at": "2026-08-02T02:10:45Z"
+      "pushed_at": "2026-08-02T04:46:22Z",
+      "updated_at": "2026-08-02T06:02:29Z"
     },
     {
       "id": 1245699721,
       "full_name": "KunAgent/Kun",
       "html_url": "https://github.com/KunAgent/Kun",
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5555,
+      "stars": 5569,
       "forks": 543,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T01:15:23Z",
-      "updated_at": "2026-08-02T02:33:42Z"
+      "pushed_at": "2026-08-02T06:14:02Z",
+      "updated_at": "2026-08-02T06:30:52Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3545,
-      "forks": 245,
-      "language": "Python",
-      "pushed_at": "2026-08-02T02:07:21Z",
-      "updated_at": "2026-08-02T01:05:30Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2298,
+      "forks": 93,
+      "language": "Swift",
+      "pushed_at": "2026-08-02T05:28:55Z",
+      "updated_at": "2026-08-02T05:29:02Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1945,
-      "forks": 143,
-      "language": "Dart",
-      "pushed_at": "2026-08-02T00:22:39Z",
-      "updated_at": "2026-08-01T23:44:12Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1456,
+      "forks": 68,
+      "language": "C#",
+      "pushed_at": "2026-08-02T05:12:45Z",
+      "updated_at": "2026-08-02T05:29:16Z"
     },
     {
       "id": 632693436,
@@ -70,19 +70,8 @@
       "stars": 1444,
       "forks": 82,
       "language": "Dart",
-      "pushed_at": "2026-08-02T01:37:48Z",
-      "updated_at": "2026-08-02T02:35:00Z"
-    },
-    {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
-      "stars": 1344,
-      "forks": 68,
-      "language": "Rust",
-      "pushed_at": "2026-08-02T02:13:15Z",
-      "updated_at": "2026-08-02T02:10:41Z"
+      "pushed_at": "2026-08-02T06:09:56Z",
+      "updated_at": "2026-08-02T06:10:24Z"
     },
     {
       "id": 1148683593,
@@ -100,33 +89,11 @@
       "full_name": "TechNomadCode/AI-Product-Development-Toolkit",
       "html_url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit",
       "description": "User-Centered Product Development Prompt Templates & Agent Configurations",
-      "stars": 885,
-      "forks": 154,
+      "stars": 898,
+      "forks": 155,
       "language": "Unknown",
-      "pushed_at": "2026-08-02T01:30:36Z",
-      "updated_at": "2026-08-02T02:30:52Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 818,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-08-02T00:59:11Z",
-      "updated_at": "2026-08-02T00:59:14Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 646,
-      "forks": 109,
-      "language": "Go",
-      "pushed_at": "2026-08-02T01:41:10Z",
-      "updated_at": "2026-08-02T00:45:39Z"
+      "pushed_at": "2026-08-02T06:16:01Z",
+      "updated_at": "2026-08-02T06:28:39Z"
     },
     {
       "id": 1196349223,
@@ -136,30 +103,19 @@
       "stars": 487,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T01:38:58Z",
-      "updated_at": "2026-08-02T01:39:00Z"
+      "pushed_at": "2026-08-02T03:41:52Z",
+      "updated_at": "2026-08-02T03:42:00Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 22,
-      "language": "Shell",
-      "pushed_at": "2026-08-02T02:16:25Z",
-      "updated_at": "2026-08-02T02:16:28Z"
-    },
-    {
-      "id": 1152670680,
-      "full_name": "royalbhati/HopTab",
-      "html_url": "https://github.com/royalbhati/HopTab",
-      "description": "minimal macOS app switcher for when Cmd+Tab gets way too noisy",
-      "stars": 291,
-      "forks": 3,
-      "language": "Swift",
-      "pushed_at": "2026-08-02T02:19:29Z",
-      "updated_at": "2026-08-02T02:19:33Z"
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 335,
+      "forks": 14,
+      "language": "C#",
+      "pushed_at": "2026-08-02T06:09:47Z",
+      "updated_at": "2026-08-02T06:10:41Z"
     },
     {
       "id": 1147139359,
@@ -169,8 +125,52 @@
       "stars": 267,
       "forks": 13,
       "language": "Go",
-      "pushed_at": "2026-08-02T02:31:56Z",
-      "updated_at": "2026-08-02T02:31:15Z"
+      "pushed_at": "2026-08-02T05:56:10Z",
+      "updated_at": "2026-08-02T05:21:21Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+      "stars": 236,
+      "forks": 10,
+      "language": "Python",
+      "pushed_at": "2026-08-02T06:05:51Z",
+      "updated_at": "2026-08-02T06:05:56Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 203,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T06:15:46Z",
+      "updated_at": "2026-08-02T06:15:59Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-02T05:50:48Z",
+      "updated_at": "2026-08-02T05:51:19Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 150,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-02T06:05:18Z",
+      "updated_at": "2026-08-02T06:05:27Z"
     }
   ]
 }
