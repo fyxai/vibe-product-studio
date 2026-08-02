@@ -8,70 +8,92 @@
   "total_found": 1014,
   "items": [
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14493,
-      "forks": 935,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-02T16:52:01Z",
-      "updated_at": "2026-08-02T16:52:04Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 237021,
+      "forks": 36028,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-02T19:17:27Z",
+      "updated_at": "2026-08-02T20:52:16Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11838,
-      "forks": 1465,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-02T16:51:52Z",
-      "updated_at": "2026-08-02T16:51:07Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44522,
+      "forks": 2804,
+      "language": "C#",
+      "pushed_at": "2026-08-02T20:46:57Z",
+      "updated_at": "2026-08-02T20:47:28Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5448,
-      "forks": 643,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-02T15:39:17Z",
-      "updated_at": "2026-08-02T15:39:42Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 38941,
+      "forks": 3879,
+      "language": "C#",
+      "pushed_at": "2026-08-02T19:50:13Z",
+      "updated_at": "2026-08-02T20:13:36Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2300,
-      "forks": 93,
-      "language": "Swift",
-      "pushed_at": "2026-08-02T15:41:45Z",
-      "updated_at": "2026-08-02T15:41:56Z"
-    },
-    {
-      "id": 220114000,
-      "full_name": "chipsalliance/verible",
-      "html_url": "https://github.com/chipsalliance/verible",
-      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
-      "stars": 1901,
-      "forks": 297,
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8756,
+      "forks": 258,
       "language": "C++",
-      "pushed_at": "2026-08-02T16:42:59Z",
-      "updated_at": "2026-08-02T15:58:39Z"
+      "pushed_at": "2026-08-02T19:31:56Z",
+      "updated_at": "2026-08-02T20:45:48Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 3801,
+      "forks": 791,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T19:33:02Z",
+      "updated_at": "2026-08-02T19:09:50Z"
+    },
+    {
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 2045,
+      "forks": 216,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-02T20:40:56Z",
+      "updated_at": "2026-08-02T20:41:07Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1584,
-      "forks": 90,
+      "stars": 1585,
+      "forks": 91,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T16:46:32Z",
-      "updated_at": "2026-08-02T16:46:49Z"
+      "pushed_at": "2026-08-02T20:22:49Z",
+      "updated_at": "2026-08-02T20:22:53Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1351,
+      "forks": 68,
+      "language": "Rust",
+      "pushed_at": "2026-08-02T20:48:35Z",
+      "updated_at": "2026-08-02T20:46:36Z"
     },
     {
       "id": 1148683593,
@@ -81,30 +103,8 @@
       "stars": 1044,
       "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-08-02T16:51:41Z",
-      "updated_at": "2026-08-02T16:51:49Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 650,
-      "forks": 110,
-      "language": "Go",
-      "pushed_at": "2026-08-02T16:14:33Z",
-      "updated_at": "2026-08-02T16:15:01Z"
-    },
-    {
-      "id": 1113746923,
-      "full_name": "kriuchkov/tock",
-      "html_url": "https://github.com/kriuchkov/tock",
-      "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 450,
-      "forks": 19,
-      "language": "Go",
-      "pushed_at": "2026-08-02T16:20:28Z",
-      "updated_at": "2026-08-02T16:17:52Z"
+      "pushed_at": "2026-08-02T20:49:13Z",
+      "updated_at": "2026-08-02T20:49:19Z"
     },
     {
       "id": 846156986,
@@ -114,41 +114,19 @@
       "stars": 389,
       "forks": 39,
       "language": "Kotlin",
-      "pushed_at": "2026-08-02T16:48:03Z",
-      "updated_at": "2026-08-02T16:48:16Z"
+      "pushed_at": "2026-08-02T19:26:16Z",
+      "updated_at": "2026-08-02T19:26:22Z"
     },
     {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 339,
-      "forks": 21,
-      "language": "Python",
-      "pushed_at": "2026-08-02T15:45:50Z",
-      "updated_at": "2026-08-02T15:46:06Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 258,
-      "forks": 66,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-02T15:43:19Z",
-      "updated_at": "2026-08-02T15:43:04Z"
-    },
-    {
-      "id": 1312220956,
-      "full_name": "jchultarsky/mirador",
-      "html_url": "https://github.com/jchultarsky/mirador",
-      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "stars": 224,
-      "forks": 24,
-      "language": "Rust",
-      "pushed_at": "2026-08-02T16:11:09Z",
-      "updated_at": "2026-08-02T16:52:55Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 23,
+      "language": "Shell",
+      "pushed_at": "2026-08-02T19:05:33Z",
+      "updated_at": "2026-08-02T19:05:55Z"
     },
     {
       "id": 1133241492,
@@ -158,19 +136,41 @@
       "stars": 203,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T16:43:19Z",
-      "updated_at": "2026-08-02T16:43:27Z"
+      "pushed_at": "2026-08-02T20:38:16Z",
+      "updated_at": "2026-08-02T20:38:24Z"
+    },
+    {
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
+      "stars": 196,
+      "forks": 10,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-02T20:53:10Z",
+      "updated_at": "2026-08-02T19:41:48Z"
     },
     {
       "id": 1289484140,
       "full_name": "zzliu93-debug/FocuSD",
       "html_url": "https://github.com/zzliu93-debug/FocuSD",
       "description": "Windows floating island for Codex Status Indicator Light,todos, notes, clipboard history, media control, and Markdown archives.",
-      "stars": 172,
+      "stars": 173,
       "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T15:59:21Z",
-      "updated_at": "2026-08-02T15:57:20Z"
+      "pushed_at": "2026-08-02T18:41:10Z",
+      "updated_at": "2026-08-02T18:40:46Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-02T20:46:41Z",
+      "updated_at": "2026-08-02T20:46:54Z"
     }
   ]
 }
