@@ -8,81 +8,70 @@
   "total_found": 1014,
   "items": [
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 16959,
-      "forks": 1686,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27189,
+      "forks": 2419,
+      "language": "Go",
+      "pushed_at": "2026-08-03T14:21:48Z",
+      "updated_at": "2026-08-03T13:56:04Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14512,
+      "forks": 938,
       "language": "TypeScript",
-      "pushed_at": "2026-08-03T11:03:37Z",
-      "updated_at": "2026-08-03T11:06:32Z"
+      "pushed_at": "2026-08-03T14:18:29Z",
+      "updated_at": "2026-08-03T14:18:36Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11847,
-      "forks": 1467,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14358,
+      "forks": 973,
       "language": "TypeScript",
-      "pushed_at": "2026-08-03T11:19:17Z",
-      "updated_at": "2026-08-03T11:10:00Z"
+      "pushed_at": "2026-08-03T14:30:22Z",
+      "updated_at": "2026-08-03T14:32:52Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-      "stars": 8662,
-      "forks": 946,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 5631,
+      "forks": 545,
       "language": "TypeScript",
-      "pushed_at": "2026-08-03T10:02:01Z",
-      "updated_at": "2026-08-03T10:02:13Z"
+      "pushed_at": "2026-08-03T13:34:33Z",
+      "updated_at": "2026-08-03T14:19:35Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5755,
-      "forks": 903,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-03T10:55:58Z",
-      "updated_at": "2026-08-03T10:33:54Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1948,
+      "forks": 143,
+      "language": "Dart",
+      "pushed_at": "2026-08-03T13:31:29Z",
+      "updated_at": "2026-08-03T13:37:35Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 3839,
-      "forks": 796,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-03T10:27:55Z",
-      "updated_at": "2026-08-03T11:18:07Z"
-    },
-    {
-      "id": 220114000,
-      "full_name": "chipsalliance/verible",
-      "html_url": "https://github.com/chipsalliance/verible",
-      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
-      "stars": 1901,
-      "forks": 298,
-      "language": "C++",
-      "pushed_at": "2026-08-03T11:18:43Z",
-      "updated_at": "2026-08-03T11:19:09Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1047,
-      "forks": 34,
-      "language": "Rust",
-      "pushed_at": "2026-08-03T10:39:06Z",
-      "updated_at": "2026-08-03T10:39:11Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 833,
+      "forks": 42,
+      "language": "Java",
+      "pushed_at": "2026-08-03T14:26:06Z",
+      "updated_at": "2026-08-03T14:29:17Z"
     },
     {
       "id": 591995344,
@@ -92,52 +81,52 @@
       "stars": 819,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-03T10:07:30Z",
-      "updated_at": "2026-08-03T10:09:20Z"
+      "pushed_at": "2026-08-03T14:15:05Z",
+      "updated_at": "2026-08-03T14:16:08Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 773,
-      "forks": 63,
-      "language": "Swift",
-      "pushed_at": "2026-08-03T11:14:04Z",
-      "updated_at": "2026-08-03T11:15:17Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 533,
-      "forks": 43,
-      "language": "Rust",
-      "pushed_at": "2026-08-03T09:48:25Z",
-      "updated_at": "2026-08-03T10:41:39Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 454,
-      "forks": 124,
+      "id": 17773756,
+      "full_name": "getting-things-gnome/gtg",
+      "html_url": "https://github.com/getting-things-gnome/gtg",
+      "description": "Getting Things GNOME! desktop app development",
+      "stars": 600,
+      "forks": 176,
       "language": "Python",
-      "pushed_at": "2026-08-03T11:12:12Z",
-      "updated_at": "2026-08-03T11:06:06Z"
+      "pushed_at": "2026-08-03T13:30:45Z",
+      "updated_at": "2026-08-03T13:34:26Z"
     },
     {
-      "id": 1305383508,
-      "full_name": "Prism-Shadow/penguin-harness",
-      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Builder. Use DeepSeek, Gemini to Create Self-Evolving Agents in One Click",
-      "stars": 282,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-03T11:03:19Z",
-      "updated_at": "2026-08-03T10:47:05Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 562,
+      "forks": 70,
+      "language": "C#",
+      "pushed_at": "2026-08-03T14:18:28Z",
+      "updated_at": "2026-08-03T14:25:09Z"
+    },
+    {
+      "id": 846156986,
+      "full_name": "GeorgeClensy/Escape-Launcher",
+      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "stars": 388,
+      "forks": 39,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-03T14:29:10Z",
+      "updated_at": "2026-08-03T14:33:47Z"
+    },
+    {
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 364,
+      "forks": 15,
+      "language": "C#",
+      "pushed_at": "2026-08-03T14:20:01Z",
+      "updated_at": "2026-08-03T14:27:30Z"
     },
     {
       "id": 1133241492,
@@ -145,10 +134,32 @@
       "html_url": "https://github.com/gnoviawan/termul",
       "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
       "stars": 204,
-      "forks": 39,
+      "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-08-03T11:04:21Z",
-      "updated_at": "2026-08-03T10:46:25Z"
+      "pushed_at": "2026-08-03T14:24:01Z",
+      "updated_at": "2026-08-03T14:27:29Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 191,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-03T14:28:28Z",
+      "updated_at": "2026-08-03T14:32:51Z"
+    },
+    {
+      "id": 1289484140,
+      "full_name": "zzliu93-debug/FocuSD",
+      "html_url": "https://github.com/zzliu93-debug/FocuSD",
+      "description": "这是一款PC灵动岛，包含剪贴板历史、Codex状态灯、媒体控制、媒体控制、笔记等功能，支持液态玻璃效果.Windows floating island for Codex Status Indicator Light,todos, notes, clipboard history, media control, and Markdown archives.",
+      "stars": 178,
+      "forks": 10,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-03T14:04:23Z",
+      "updated_at": "2026-08-03T14:12:51Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-03T10:36:55Z",
-      "updated_at": "2026-08-03T10:38:48Z"
-    },
-    {
-      "id": 1142492960,
-      "full_name": "st0012/cctop",
-      "html_url": "https://github.com/st0012/cctop",
-      "description": "A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.",
-      "stars": 136,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-08-03T11:16:25Z",
-      "updated_at": "2026-08-03T11:17:00Z"
+      "pushed_at": "2026-08-03T13:36:04Z",
+      "updated_at": "2026-08-03T13:42:05Z"
     }
   ]
 }
