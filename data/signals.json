@@ -8,92 +8,158 @@
   "total_found": 1016,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 237631,
+      "forks": 36102,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-04T17:03:08Z",
+      "updated_at": "2026-08-04T17:45:31Z"
+    },
+    {
       "id": 231283452,
       "full_name": "excalidraw/excalidraw",
       "html_url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 128946,
-      "forks": 14698,
+      "stars": 128958,
+      "forks": 14699,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:06:49Z",
-      "updated_at": "2026-08-04T14:01:28Z"
+      "pushed_at": "2026-08-04T17:39:23Z",
+      "updated_at": "2026-08-04T17:39:42Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 38962,
-      "forks": 3879,
-      "language": "C#",
-      "pushed_at": "2026-08-04T13:25:07Z",
-      "updated_at": "2026-08-04T14:01:54Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 41046,
+      "forks": 969,
+      "language": "Rust",
+      "pushed_at": "2026-08-04T17:09:45Z",
+      "updated_at": "2026-08-04T17:31:33Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21109,
+      "stars": 21114,
       "forks": 1907,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T13:53:48Z",
-      "updated_at": "2026-08-04T13:55:11Z"
+      "pushed_at": "2026-08-04T16:32:35Z",
+      "updated_at": "2026-08-04T17:23:01Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14537,
+      "forks": 942,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T17:18:20Z",
+      "updated_at": "2026-08-04T16:50:42Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5757,
+      "stars": 5758,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-08-04T13:33:24Z",
-      "updated_at": "2026-08-04T13:17:32Z"
+      "pushed_at": "2026-08-04T17:34:49Z",
+      "updated_at": "2026-08-04T17:18:07Z"
     },
     {
       "id": 1245699721,
       "full_name": "KunAgent/Kun",
       "html_url": "https://github.com/KunAgent/Kun",
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5657,
+      "stars": 5662,
       "forks": 549,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T13:35:03Z",
-      "updated_at": "2026-08-04T13:59:57Z"
+      "pushed_at": "2026-08-04T17:05:47Z",
+      "updated_at": "2026-08-04T16:35:32Z"
     },
     {
-      "id": 342030057,
-      "full_name": "sayanarijit/xplr",
-      "html_url": "https://github.com/sayanarijit/xplr",
-      "description": "A hackable, minimal, fast TUI file explorer",
-      "stars": 4798,
-      "forks": 92,
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5455,
+      "forks": 642,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-04T17:09:18Z",
+      "updated_at": "2026-08-04T17:13:28Z"
+    },
+    {
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.",
+      "stars": 4117,
+      "forks": 340,
+      "language": "PHP",
+      "pushed_at": "2026-08-04T16:47:36Z",
+      "updated_at": "2026-08-04T16:47:44Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1908,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-08-04T17:05:05Z",
+      "updated_at": "2026-08-04T17:04:04Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1052,
+      "forks": 34,
       "language": "Rust",
-      "pushed_at": "2026-08-04T13:51:32Z",
-      "updated_at": "2026-08-04T13:53:58Z"
+      "pushed_at": "2026-08-04T17:41:53Z",
+      "updated_at": "2026-08-04T17:44:32Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1544,
-      "forks": 44,
-      "language": "Rust",
-      "pushed_at": "2026-08-04T13:32:48Z",
-      "updated_at": "2026-08-04T13:33:34Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 819,
+      "forks": 87,
+      "language": "Python",
+      "pushed_at": "2026-08-04T17:28:33Z",
+      "updated_at": "2026-08-04T17:28:39Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 563,
-      "forks": 70,
-      "language": "C#",
-      "pushed_at": "2026-08-04T13:59:58Z",
-      "updated_at": "2026-08-04T14:01:29Z"
+      "id": 73134029,
+      "full_name": "jasonlong/mater",
+      "html_url": "https://github.com/jasonlong/mater",
+      "description": "🍅 A simple, native macOS menubar Pomodoro app",
+      "stars": 585,
+      "forks": 40,
+      "language": "Swift",
+      "pushed_at": "2026-08-04T17:09:01Z",
+      "updated_at": "2026-08-04T17:13:01Z"
+    },
+    {
+      "id": 1305383508,
+      "full_name": "Prism-Shadow/penguin-harness",
+      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Builder. Use DeepSeek or GPT to Create Self-Evolving Agents in One Click",
+      "stars": 485,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T17:12:50Z",
+      "updated_at": "2026-08-04T17:15:29Z"
     },
     {
       "id": 1258883863,
@@ -103,74 +169,8 @@
       "stars": 381,
       "forks": 15,
       "language": "C#",
-      "pushed_at": "2026-08-04T13:32:31Z",
-      "updated_at": "2026-08-04T13:34:00Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 23,
-      "language": "Shell",
-      "pushed_at": "2026-08-04T14:01:20Z",
-      "updated_at": "2026-08-04T14:03:45Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 205,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:01:40Z",
-      "updated_at": "2026-08-04T13:41:25Z"
-    },
-    {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
-      "stars": 173,
-      "forks": 10,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-04T13:37:59Z",
-      "updated_at": "2026-08-04T13:41:51Z"
-    },
-    {
-      "id": 1242368753,
-      "full_name": "kbrdn1/gwm-cli",
-      "html_url": "https://github.com/kbrdn1/gwm-cli",
-      "description": "Git worktree manager for the terminal: CLI + TUI in Rust. Creates the worktree, runs your project setup, links the GitHub issue. Single binary, no git CLI needed.",
-      "stars": 122,
-      "forks": 4,
-      "language": "Rust",
-      "pushed_at": "2026-08-04T13:41:57Z",
-      "updated_at": "2026-08-04T13:44:52Z"
-    },
-    {
-      "id": 1165869088,
-      "full_name": "SoFluffyOS/lumide",
-      "html_url": "https://github.com/SoFluffyOS/lumide",
-      "description": "🦊 Desktop-first code editor built with Flutter, providing GPU-accelerated rendering and a smooth editing experience.",
-      "stars": 105,
-      "forks": 3,
-      "language": "Unknown",
-      "pushed_at": "2026-08-04T13:44:58Z",
-      "updated_at": "2026-08-04T13:46:42Z"
-    },
-    {
-      "id": 88277480,
-      "full_name": "psono/psono-server",
-      "html_url": "https://github.com/psono/psono-server",
-      "description": "PSONO Server | Please open new issues in our issue tracker on GitLab.com",
-      "stars": 104,
-      "forks": 20,
-      "language": "Python",
-      "pushed_at": "2026-08-04T13:34:26Z",
-      "updated_at": "2026-08-04T13:36:28Z"
+      "pushed_at": "2026-08-04T16:41:10Z",
+      "updated_at": "2026-08-04T16:41:36Z"
     }
   ]
 }
