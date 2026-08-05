@@ -8,70 +8,103 @@
   "total_found": 1017,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 74849,
-      "forks": 4706,
-      "language": "Rust",
-      "pushed_at": "2026-08-05T13:57:20Z",
-      "updated_at": "2026-08-05T14:02:03Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 189031,
+      "forks": 26574,
+      "language": "Shell",
+      "pushed_at": "2026-08-05T16:56:19Z",
+      "updated_at": "2026-08-05T16:56:59Z"
+    },
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 129032,
+      "forks": 14709,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T17:15:21Z",
+      "updated_at": "2026-08-05T17:00:23Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 26124,
+      "forks": 1917,
+      "language": "Vue",
+      "pushed_at": "2026-08-05T17:15:09Z",
+      "updated_at": "2026-08-05T17:14:57Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21137,
+      "stars": 21140,
       "forks": 1910,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:04:25Z",
-      "updated_at": "2026-08-05T14:03:48Z"
+      "pushed_at": "2026-08-05T16:36:52Z",
+      "updated_at": "2026-08-05T17:25:19Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14562,
-      "forks": 944,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T13:41:00Z",
-      "updated_at": "2026-08-05T13:10:14Z"
+      "id": 1238120057,
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 17171,
+      "forks": 975,
+      "language": "Python",
+      "pushed_at": "2026-08-05T17:26:14Z",
+      "updated_at": "2026-08-05T17:27:22Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5773,
-      "forks": 904,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11872,
+      "forks": 1472,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T13:11:49Z",
-      "updated_at": "2026-08-05T13:38:14Z"
+      "pushed_at": "2026-08-05T17:05:37Z",
+      "updated_at": "2026-08-05T16:38:50Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4228,
+      "stars": 4239,
       "forks": 845,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:03:06Z",
-      "updated_at": "2026-08-05T13:24:23Z"
+      "pushed_at": "2026-08-05T17:02:00Z",
+      "updated_at": "2026-08-05T17:23:09Z"
     },
     {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1547,
-      "forks": 44,
-      "language": "Rust",
-      "pushed_at": "2026-08-05T12:54:06Z",
-      "updated_at": "2026-08-05T13:49:26Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2344,
+      "forks": 88,
+      "language": "Swift",
+      "pushed_at": "2026-08-05T17:17:35Z",
+      "updated_at": "2026-08-05T17:18:35Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1587,
+      "forks": 77,
+      "language": "C#",
+      "pushed_at": "2026-08-05T17:08:46Z",
+      "updated_at": "2026-08-05T17:09:57Z"
     },
     {
       "id": 1148683593,
@@ -81,8 +114,8 @@
       "stars": 1052,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-08-05T13:50:34Z",
-      "updated_at": "2026-08-05T13:51:55Z"
+      "pushed_at": "2026-08-05T17:17:21Z",
+      "updated_at": "2026-08-05T17:17:24Z"
     },
     {
       "id": 591995344,
@@ -92,8 +125,8 @@
       "stars": 819,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-05T13:39:27Z",
-      "updated_at": "2026-08-05T13:41:24Z"
+      "pushed_at": "2026-08-05T17:25:02Z",
+      "updated_at": "2026-08-05T17:26:22Z"
     },
     {
       "id": 49612213,
@@ -103,74 +136,41 @@
       "stars": 563,
       "forks": 70,
       "language": "C#",
-      "pushed_at": "2026-08-05T14:00:56Z",
-      "updated_at": "2026-08-05T13:38:27Z"
+      "pushed_at": "2026-08-05T17:22:25Z",
+      "updated_at": "2026-08-05T16:48:29Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 544,
-      "forks": 44,
-      "language": "Rust",
-      "pushed_at": "2026-08-05T13:18:00Z",
-      "updated_at": "2026-08-05T13:12:04Z"
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 458,
+      "forks": 125,
+      "language": "Python",
+      "pushed_at": "2026-08-05T17:22:28Z",
+      "updated_at": "2026-08-05T16:55:32Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 23,
-      "language": "Shell",
-      "pushed_at": "2026-08-05T13:58:44Z",
-      "updated_at": "2026-08-05T14:00:38Z"
-    },
-    {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 225,
-      "forks": 24,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-05T12:58:33Z",
-      "updated_at": "2026-08-05T12:57:32Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-05T13:54:15Z",
-      "updated_at": "2026-08-05T13:55:29Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-05T12:53:53Z",
-      "updated_at": "2026-08-05T12:55:00Z"
-    },
-    {
-      "id": 903027325,
-      "full_name": "kunwarVivek/mcp-github-project-manager",
-      "html_url": "https://github.com/kunwarVivek/mcp-github-project-manager",
-      "description": "a mcp server to manage github project's functionality ",
-      "stars": 94,
-      "forks": 27,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 298,
+      "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T13:11:32Z",
-      "updated_at": "2026-08-05T13:07:39Z"
+      "pushed_at": "2026-08-05T16:44:36Z",
+      "updated_at": "2026-08-05T16:26:21Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
+      "stars": 264,
+      "forks": 66,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T16:55:20Z",
+      "updated_at": "2026-08-05T16:54:38Z"
     }
   ]
 }
