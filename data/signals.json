@@ -12,44 +12,44 @@
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 237670,
-      "forks": 36108,
+      "stars": 237722,
+      "forks": 36116,
       "language": "JavaScript",
-      "pushed_at": "2026-08-04T21:08:57Z",
-      "updated_at": "2026-08-04T21:09:06Z"
+      "pushed_at": "2026-08-05T01:42:25Z",
+      "updated_at": "2026-08-05T02:23:00Z"
     },
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 128964,
-      "forks": 14700,
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 41054,
+      "forks": 969,
+      "language": "Rust",
+      "pushed_at": "2026-08-05T01:54:00Z",
+      "updated_at": "2026-08-05T02:20:01Z"
+    },
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27191,
+      "forks": 2419,
+      "language": "Go",
+      "pushed_at": "2026-08-05T01:56:45Z",
+      "updated_at": "2026-08-05T01:59:19Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14540,
+      "forks": 942,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T20:29:08Z",
-      "updated_at": "2026-08-04T21:08:36Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44537,
-      "forks": 2806,
-      "language": "C#",
-      "pushed_at": "2026-08-04T20:13:57Z",
-      "updated_at": "2026-08-04T20:00:07Z"
-    },
-    {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16209,
-      "forks": 1268,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T19:54:16Z",
-      "updated_at": "2026-08-04T19:58:47Z"
+      "pushed_at": "2026-08-05T00:45:31Z",
+      "updated_at": "2026-08-05T02:10:17Z"
     },
     {
       "id": 665613753,
@@ -57,10 +57,21 @@
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
       "stars": 11863,
-      "forks": 1470,
+      "forks": 1471,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T20:54:46Z",
-      "updated_at": "2026-08-04T19:54:51Z"
+      "pushed_at": "2026-08-05T02:14:41Z",
+      "updated_at": "2026-08-05T01:52:34Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6421,
+      "forks": 383,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-05T00:36:24Z",
+      "updated_at": "2026-08-05T02:03:37Z"
     },
     {
       "id": 129699403,
@@ -70,52 +81,52 @@
       "stars": 5758,
       "forks": 763,
       "language": "Swift",
-      "pushed_at": "2026-08-04T20:49:12Z",
-      "updated_at": "2026-08-04T20:29:45Z"
+      "pushed_at": "2026-08-05T01:41:05Z",
+      "updated_at": "2026-08-05T00:43:19Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5455,
-      "forks": 642,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-04T19:12:38Z",
-      "updated_at": "2026-08-04T19:12:53Z"
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 5668,
+      "forks": 551,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T00:56:19Z",
+      "updated_at": "2026-08-05T02:15:06Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3581,
+      "stars": 3582,
       "forks": 248,
       "language": "Python",
-      "pushed_at": "2026-08-04T20:32:20Z",
-      "updated_at": "2026-08-04T20:58:51Z"
+      "pushed_at": "2026-08-05T02:16:55Z",
+      "updated_at": "2026-08-05T02:17:01Z"
     },
     {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2737,
-      "forks": 124,
-      "language": "Go",
-      "pushed_at": "2026-08-04T20:43:21Z",
-      "updated_at": "2026-08-04T20:43:26Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1052,
-      "forks": 34,
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1692,
+      "forks": 104,
       "language": "Rust",
-      "pushed_at": "2026-08-04T21:09:40Z",
-      "updated_at": "2026-08-04T21:09:46Z"
+      "pushed_at": "2026-08-05T01:38:46Z",
+      "updated_at": "2026-08-05T01:38:51Z"
+    },
+    {
+      "id": 970875123,
+      "full_name": "TechNomadCode/AI-Product-Development-Toolkit",
+      "html_url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit",
+      "description": "User-Centered Product Development Prompt Templates & Agent Configurations",
+      "stars": 934,
+      "forks": 156,
+      "language": "Unknown",
+      "pushed_at": "2026-08-05T01:19:55Z",
+      "updated_at": "2026-08-05T01:19:59Z"
     },
     {
       "id": 591995344,
@@ -125,8 +136,30 @@
       "stars": 819,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-04T20:25:09Z",
-      "updated_at": "2026-08-04T20:28:42Z"
+      "pushed_at": "2026-08-05T01:30:23Z",
+      "updated_at": "2026-08-05T01:30:34Z"
+    },
+    {
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 779,
+      "forks": 63,
+      "language": "Swift",
+      "pushed_at": "2026-08-05T00:35:10Z",
+      "updated_at": "2026-08-05T00:35:18Z"
+    },
+    {
+      "id": 1258883863,
+      "full_name": "SwiftList/SwiftList",
+      "html_url": "https://github.com/SwiftList/SwiftList",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 389,
+      "forks": 15,
+      "language": "C#",
+      "pushed_at": "2026-08-05T01:04:19Z",
+      "updated_at": "2026-08-05T02:23:00Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +169,8 @@
       "stars": 319,
       "forks": 23,
       "language": "Shell",
-      "pushed_at": "2026-08-04T19:26:54Z",
-      "updated_at": "2026-08-04T19:30:47Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 152,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-08-04T21:10:13Z",
-      "updated_at": "2026-08-04T21:06:58Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-04T21:05:29Z",
-      "updated_at": "2026-08-04T21:05:40Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 150,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-04T20:25:59Z",
-      "updated_at": "2026-08-04T20:26:03Z"
+      "pushed_at": "2026-08-05T02:03:43Z",
+      "updated_at": "2026-08-05T02:03:47Z"
     }
   ]
 }
