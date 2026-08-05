@@ -8,59 +8,48 @@
   "total_found": 1017,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 189031,
-      "forks": 26574,
-      "language": "Shell",
-      "pushed_at": "2026-08-05T16:56:19Z",
-      "updated_at": "2026-08-05T16:56:59Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 237992,
+      "forks": 36144,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-05T20:58:23Z",
+      "updated_at": "2026-08-05T21:04:23Z"
     },
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 129032,
-      "forks": 14709,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 74896,
+      "forks": 4712,
+      "language": "Rust",
+      "pushed_at": "2026-08-05T20:58:16Z",
+      "updated_at": "2026-08-05T21:04:23Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44548,
+      "forks": 2807,
+      "language": "C#",
+      "pushed_at": "2026-08-05T20:54:21Z",
+      "updated_at": "2026-08-05T21:04:01Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 34090,
+      "forks": 3672,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T17:15:21Z",
-      "updated_at": "2026-08-05T17:00:23Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26124,
-      "forks": 1917,
-      "language": "Vue",
-      "pushed_at": "2026-08-05T17:15:09Z",
-      "updated_at": "2026-08-05T17:14:57Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21140,
-      "forks": 1910,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T16:36:52Z",
-      "updated_at": "2026-08-05T17:25:19Z"
-    },
-    {
-      "id": 1238120057,
-      "full_name": "ayghri/i-have-adhd",
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 17171,
-      "forks": 975,
-      "language": "Python",
-      "pushed_at": "2026-08-05T17:26:14Z",
-      "updated_at": "2026-08-05T17:27:22Z"
+      "pushed_at": "2026-08-05T20:36:20Z",
+      "updated_at": "2026-08-05T21:03:39Z"
     },
     {
       "id": 665613753,
@@ -70,30 +59,52 @@
       "stars": 11872,
       "forks": 1472,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T17:05:37Z",
-      "updated_at": "2026-08-05T16:38:50Z"
+      "pushed_at": "2026-08-05T20:58:34Z",
+      "updated_at": "2026-08-05T20:34:57Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4239,
-      "forks": 845,
+      "stars": 4251,
+      "forks": 849,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T17:02:00Z",
-      "updated_at": "2026-08-05T17:23:09Z"
+      "pushed_at": "2026-08-05T20:14:32Z",
+      "updated_at": "2026-08-05T20:48:34Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2344,
-      "forks": 88,
-      "language": "Swift",
-      "pushed_at": "2026-08-05T17:17:35Z",
-      "updated_at": "2026-08-05T17:18:35Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3590,
+      "forks": 247,
+      "language": "Python",
+      "pushed_at": "2026-08-05T20:11:24Z",
+      "updated_at": "2026-08-05T20:33:10Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1948,
+      "forks": 143,
+      "language": "Dart",
+      "pushed_at": "2026-08-05T20:48:47Z",
+      "updated_at": "2026-08-05T20:32:14Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1603,
+      "forks": 92,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T21:04:22Z",
+      "updated_at": "2026-08-05T21:05:28Z"
     },
     {
       "id": 1250907197,
@@ -103,8 +114,8 @@
       "stars": 1587,
       "forks": 77,
       "language": "C#",
-      "pushed_at": "2026-08-05T17:08:46Z",
-      "updated_at": "2026-08-05T17:09:57Z"
+      "pushed_at": "2026-08-05T20:35:21Z",
+      "updated_at": "2026-08-05T20:34:26Z"
     },
     {
       "id": 1148683593,
@@ -114,8 +125,8 @@
       "stars": 1052,
       "forks": 35,
       "language": "Rust",
-      "pushed_at": "2026-08-05T17:17:21Z",
-      "updated_at": "2026-08-05T17:17:24Z"
+      "pushed_at": "2026-08-05T21:02:37Z",
+      "updated_at": "2026-08-05T21:02:49Z"
     },
     {
       "id": 591995344,
@@ -125,8 +136,19 @@
       "stars": 819,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-05T17:25:02Z",
-      "updated_at": "2026-08-05T17:26:22Z"
+      "pushed_at": "2026-08-05T21:03:53Z",
+      "updated_at": "2026-08-05T21:04:03Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 664,
+      "forks": 101,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-05T20:46:30Z",
+      "updated_at": "2026-08-05T20:46:40Z"
     },
     {
       "id": 49612213,
@@ -136,41 +158,19 @@
       "stars": 563,
       "forks": 70,
       "language": "C#",
-      "pushed_at": "2026-08-05T17:22:25Z",
-      "updated_at": "2026-08-05T16:48:29Z"
+      "pushed_at": "2026-08-05T20:05:24Z",
+      "updated_at": "2026-08-05T20:06:46Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 458,
-      "forks": 125,
+      "id": 224924055,
+      "full_name": "Netflix/metaflow-service",
+      "html_url": "https://github.com/Netflix/metaflow-service",
+      "description": ":rocket: Metadata tracking and UI service for Metaflow!",
+      "stars": 226,
+      "forks": 109,
       "language": "Python",
-      "pushed_at": "2026-08-05T17:22:28Z",
-      "updated_at": "2026-08-05T16:55:32Z"
-    },
-    {
-      "id": 476797398,
-      "full_name": "astudentinearth/darkwrite",
-      "html_url": "https://github.com/astudentinearth/darkwrite",
-      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
-      "stars": 298,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T16:44:36Z",
-      "updated_at": "2026-08-05T16:26:21Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 264,
-      "forks": 66,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T16:55:20Z",
-      "updated_at": "2026-08-05T16:54:38Z"
+      "pushed_at": "2026-08-05T20:55:02Z",
+      "updated_at": "2026-08-05T20:55:12Z"
     }
   ]
 }
