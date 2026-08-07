@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1018,
+  "total_found": 1019,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 238311,
-      "forks": 36195,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-06T21:42:23Z",
-      "updated_at": "2026-08-07T00:51:28Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 129087,
+      "forks": 14723,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T04:54:31Z",
+      "updated_at": "2026-08-07T04:56:33Z"
     },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44557,
+      "stars": 44562,
       "forks": 2807,
       "language": "C#",
-      "pushed_at": "2026-08-06T23:33:05Z",
-      "updated_at": "2026-08-07T00:12:33Z"
+      "pushed_at": "2026-08-07T04:38:00Z",
+      "updated_at": "2026-08-07T05:12:37Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 34159,
-      "forks": 3685,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17002,
+      "forks": 1691,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T00:43:39Z",
-      "updated_at": "2026-08-07T00:41:01Z"
+      "pushed_at": "2026-08-07T03:33:57Z",
+      "updated_at": "2026-08-07T04:40:22Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21165,
-      "forks": 1917,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-06T22:42:22Z",
-      "updated_at": "2026-08-06T23:34:21Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5462,
-      "forks": 642,
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6435,
+      "forks": 386,
       "language": "Kotlin",
-      "pushed_at": "2026-08-06T23:42:35Z",
-      "updated_at": "2026-08-06T23:42:42Z"
+      "pushed_at": "2026-08-07T05:08:32Z",
+      "updated_at": "2026-08-07T04:29:10Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5760,
+      "forks": 764,
+      "language": "Swift",
+      "pushed_at": "2026-08-07T05:37:50Z",
+      "updated_at": "2026-08-07T03:46:17Z"
     },
     {
       "id": 257400448,
@@ -70,30 +70,41 @@
       "stars": 1911,
       "forks": 133,
       "language": "Go",
-      "pushed_at": "2026-08-06T22:25:54Z",
-      "updated_at": "2026-08-06T21:51:24Z"
+      "pushed_at": "2026-08-07T04:24:35Z",
+      "updated_at": "2026-08-07T04:20:10Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1612,
+      "stars": 1625,
       "forks": 82,
       "language": "C#",
-      "pushed_at": "2026-08-06T22:24:36Z",
-      "updated_at": "2026-08-06T23:32:21Z"
+      "pushed_at": "2026-08-07T04:51:13Z",
+      "updated_at": "2026-08-07T05:32:15Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1610,
-      "forks": 92,
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1056,
+      "forks": 37,
+      "language": "Rust",
+      "pushed_at": "2026-08-07T05:27:39Z",
+      "updated_at": "2026-08-07T05:28:35Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 850,
+      "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T00:10:32Z",
-      "updated_at": "2026-08-07T00:11:01Z"
+      "pushed_at": "2026-08-07T03:49:44Z",
+      "updated_at": "2026-08-07T03:50:20Z"
     },
     {
       "id": 591995344,
@@ -103,52 +114,19 @@
       "stars": 820,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-07T00:41:13Z",
-      "updated_at": "2026-08-07T00:41:17Z"
+      "pushed_at": "2026-08-07T03:39:59Z",
+      "updated_at": "2026-08-07T03:40:10Z"
     },
     {
-      "id": 17773756,
-      "full_name": "getting-things-gnome/gtg",
-      "html_url": "https://github.com/getting-things-gnome/gtg",
-      "description": "Getting Things GNOME! desktop app development",
-      "stars": 600,
-      "forks": 176,
-      "language": "Python",
-      "pushed_at": "2026-08-06T22:20:44Z",
-      "updated_at": "2026-08-06T22:20:52Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 564,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-08-07T00:39:01Z",
-      "updated_at": "2026-08-07T00:39:25Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 448,
-      "forks": 81,
-      "language": "Go",
-      "pushed_at": "2026-08-07T00:22:21Z",
-      "updated_at": "2026-08-06T23:44:45Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 23,
-      "language": "Shell",
-      "pushed_at": "2026-08-06T23:57:12Z",
-      "updated_at": "2026-08-06T23:57:16Z"
+      "id": 1076571787,
+      "full_name": "huytieu/COG-second-brain",
+      "html_url": "https://github.com/huytieu/COG-second-brain",
+      "description": "Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "stars": 803,
+      "forks": 96,
+      "language": "HTML",
+      "pushed_at": "2026-08-07T05:13:08Z",
+      "updated_at": "2026-08-07T05:13:25Z"
     },
     {
       "id": 1133241492,
@@ -158,19 +136,41 @@
       "stars": 214,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-08-06T21:39:45Z",
-      "updated_at": "2026-08-06T21:40:00Z"
+      "pushed_at": "2026-08-07T04:37:56Z",
+      "updated_at": "2026-08-07T04:38:26Z"
     },
     {
-      "id": 1309395119,
-      "full_name": "sazardev/shiki",
-      "html_url": "https://github.com/sazardev/shiki",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "stars": 210,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-08-06T23:22:44Z",
-      "updated_at": "2026-08-06T23:23:15Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-07T05:35:41Z",
+      "updated_at": "2026-08-07T05:36:24Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-07T03:50:04Z",
+      "updated_at": "2026-08-07T03:50:21Z"
+    },
+    {
+      "id": 1161498026,
+      "full_name": "alivecontext/alive",
+      "html_url": "https://github.com/alivecontext/alive",
+      "description": "Personal Context Manager for Claude Code. Your life in walnuts.",
+      "stars": 122,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-08-07T03:56:05Z",
+      "updated_at": "2026-08-07T03:56:31Z"
     }
   ]
 }
