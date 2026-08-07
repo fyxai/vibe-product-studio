@@ -8,81 +8,81 @@
   "total_found": 1019,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 129112,
-      "forks": 14725,
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 238515,
+      "forks": 36223,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-07T16:46:06Z",
+      "updated_at": "2026-08-07T16:50:28Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21178,
+      "forks": 1920,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T12:18:11Z",
-      "updated_at": "2026-08-07T12:53:02Z"
+      "pushed_at": "2026-08-07T16:28:33Z",
+      "updated_at": "2026-08-07T16:36:27Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14610,
-      "forks": 949,
+      "id": 309123651,
+      "full_name": "alyssaxuu/screenity",
+      "html_url": "https://github.com/alyssaxuu/screenity",
+      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+      "stars": 18474,
+      "forks": 1489,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-07T16:11:40Z",
+      "updated_at": "2026-08-07T15:53:01Z"
+    },
+    {
+      "id": 1052845083,
+      "full_name": "danielmiessler/LifeOS",
+      "html_url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "stars": 17223,
+      "forks": 2328,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T12:49:45Z",
-      "updated_at": "2026-08-07T12:47:15Z"
+      "pushed_at": "2026-08-07T16:06:46Z",
+      "updated_at": "2026-08-07T16:42:54Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11885,
-      "forks": 1474,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T12:09:00Z",
-      "updated_at": "2026-08-07T12:06:37Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5466,
+      "forks": 642,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-07T16:10:29Z",
+      "updated_at": "2026-08-07T16:12:24Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6609,
-      "forks": 152,
-      "language": "Swift",
-      "pushed_at": "2026-08-07T12:56:49Z",
-      "updated_at": "2026-08-07T12:56:04Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "1078 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to decoding a lease, budgeting your energy in spoons, and rehearsing the hardest conversation. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
+      "stars": 1262,
+      "forks": 226,
+      "language": "HTML",
+      "pushed_at": "2026-08-07T16:05:42Z",
+      "updated_at": "2026-08-07T16:06:47Z"
     },
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5738,
-      "forks": 554,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T12:35:02Z",
-      "updated_at": "2026-08-07T12:45:57Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1613,
-      "forks": 93,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T12:30:31Z",
-      "updated_at": "2026-08-07T12:30:43Z"
-    },
-    {
-      "id": 1046385861,
-      "full_name": "unhappychoice/gittype",
-      "html_url": "https://github.com/unhappychoice/gittype",
-      "description": "A CLI code-typing game that turns your source code into typing challenges",
-      "stars": 1549,
-      "forks": 43,
-      "language": "Rust",
-      "pushed_at": "2026-08-07T12:29:38Z",
-      "updated_at": "2026-08-07T12:31:39Z"
+      "id": 63333652,
+      "full_name": "alexadam/save-as-ebook",
+      "html_url": "https://github.com/alexadam/save-as-ebook",
+      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
+      "stars": 1118,
+      "forks": 73,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-07T16:27:51Z",
+      "updated_at": "2026-08-07T16:28:22Z"
     },
     {
       "id": 1148683593,
@@ -92,41 +92,63 @@
       "stars": 1057,
       "forks": 37,
       "language": "Rust",
-      "pushed_at": "2026-08-07T12:53:56Z",
-      "updated_at": "2026-08-07T12:54:21Z"
+      "pushed_at": "2026-08-07T16:21:22Z",
+      "updated_at": "2026-08-07T16:21:26Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 788,
-      "forks": 66,
-      "language": "Swift",
-      "pushed_at": "2026-08-07T12:26:10Z",
-      "updated_at": "2026-08-07T12:26:24Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 461,
-      "forks": 128,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 822,
+      "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-07T12:44:17Z",
-      "updated_at": "2026-08-07T12:46:40Z"
+      "pushed_at": "2026-08-07T16:27:37Z",
+      "updated_at": "2026-08-07T16:27:41Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 23,
-      "language": "Shell",
-      "pushed_at": "2026-08-07T12:54:41Z",
-      "updated_at": "2026-08-07T12:54:47Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 563,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-08-07T16:09:22Z",
+      "updated_at": "2026-08-07T16:12:14Z"
+    },
+    {
+      "id": 1203531250,
+      "full_name": "Giammarco-Ferranti/deja",
+      "html_url": "https://github.com/Giammarco-Ferranti/deja",
+      "description": "Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync",
+      "stars": 548,
+      "forks": 9,
+      "language": "Go",
+      "pushed_at": "2026-08-07T16:41:36Z",
+      "updated_at": "2026-08-07T16:41:24Z"
+    },
+    {
+      "id": 905920026,
+      "full_name": "anechunaev/notion-electron",
+      "html_url": "https://github.com/anechunaev/notion-electron",
+      "description": "Notion Desktop Client for Linux",
+      "stars": 218,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T15:55:50Z",
+      "updated_at": "2026-08-07T15:58:29Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 212,
+      "forks": 4,
+      "language": "Vue",
+      "pushed_at": "2026-08-07T15:31:43Z",
+      "updated_at": "2026-08-07T15:31:16Z"
     },
     {
       "id": 1244050587,
@@ -134,21 +156,10 @@
       "html_url": "https://github.com/hasanyilmaz/operon",
       "description": "Task management system for humans and agents in Obsidian.",
       "stars": 168,
-      "forks": 10,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T12:12:52Z",
-      "updated_at": "2026-08-07T12:13:30Z"
-    },
-    {
-      "id": 1073368386,
-      "full_name": "fulsomenko/kanban",
-      "html_url": "https://github.com/fulsomenko/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 152,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-08-07T12:36:41Z",
-      "updated_at": "2026-08-07T12:37:04Z"
+      "pushed_at": "2026-08-07T16:49:06Z",
+      "updated_at": "2026-08-07T16:50:30Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-07T12:50:37Z",
-      "updated_at": "2026-08-07T12:51:02Z"
-    },
-    {
-      "id": 1322755678,
-      "full_name": "akalikbergenov/cyclop",
-      "html_url": "https://github.com/akalikbergenov/cyclop",
-      "description": "Челка MacBook как рабочий инструмент: плеер, полка для файлов, буфер обмена, заготовки, календарь и офлайн-перевод. Нативно, на SwiftUI, без зависимостей.",
-      "stars": 140,
-      "forks": 30,
-      "language": "Swift",
-      "pushed_at": "2026-08-07T12:55:29Z",
-      "updated_at": "2026-08-07T12:58:03Z"
+      "pushed_at": "2026-08-07T16:46:50Z",
+      "updated_at": "2026-08-07T16:46:56Z"
     }
   ]
 }
