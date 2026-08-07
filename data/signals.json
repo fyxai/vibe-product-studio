@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1019,
+  "total_found": 1020,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 238515,
-      "forks": 36223,
+      "stars": 238547,
+      "forks": 36227,
       "language": "JavaScript",
-      "pushed_at": "2026-08-07T16:46:06Z",
-      "updated_at": "2026-08-07T16:50:28Z"
+      "pushed_at": "2026-08-07T20:06:53Z",
+      "updated_at": "2026-08-07T20:35:25Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21178,
-      "forks": 1920,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 34275,
+      "forks": 3693,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T16:28:33Z",
-      "updated_at": "2026-08-07T16:36:27Z"
+      "pushed_at": "2026-08-07T18:45:31Z",
+      "updated_at": "2026-08-07T19:01:41Z"
     },
     {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18474,
-      "forks": 1489,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-07T16:11:40Z",
-      "updated_at": "2026-08-07T15:53:01Z"
-    },
-    {
-      "id": 1052845083,
-      "full_name": "danielmiessler/LifeOS",
-      "html_url": "https://github.com/danielmiessler/LifeOS",
-      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "stars": 17223,
-      "forks": 2328,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14616,
+      "forks": 949,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T16:06:46Z",
-      "updated_at": "2026-08-07T16:42:54Z"
+      "pushed_at": "2026-08-07T20:31:35Z",
+      "updated_at": "2026-08-07T20:15:00Z"
+    },
+    {
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 5746,
+      "forks": 555,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T18:08:38Z",
+      "updated_at": "2026-08-07T20:03:30Z"
     },
     {
       "id": 11512043,
@@ -57,43 +57,21 @@
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
       "stars": 5466,
-      "forks": 642,
+      "forks": 644,
       "language": "Kotlin",
-      "pushed_at": "2026-08-07T16:10:29Z",
-      "updated_at": "2026-08-07T16:12:24Z"
+      "pushed_at": "2026-08-07T20:16:20Z",
+      "updated_at": "2026-08-07T20:16:27Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1078 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to decoding a lease, budgeting your energy in spoons, and rehearsing the hardest conversation. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
-      "stars": 1262,
-      "forks": 226,
-      "language": "HTML",
-      "pushed_at": "2026-08-07T16:05:42Z",
-      "updated_at": "2026-08-07T16:06:47Z"
-    },
-    {
-      "id": 63333652,
-      "full_name": "alexadam/save-as-ebook",
-      "html_url": "https://github.com/alexadam/save-as-ebook",
-      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
-      "stars": 1118,
-      "forks": 73,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-07T16:27:51Z",
-      "updated_at": "2026-08-07T16:28:22Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1057,
-      "forks": 37,
-      "language": "Rust",
-      "pushed_at": "2026-08-07T16:21:22Z",
-      "updated_at": "2026-08-07T16:21:26Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4300,
+      "forks": 856,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T20:37:22Z",
+      "updated_at": "2026-08-07T19:03:50Z"
     },
     {
       "id": 591995344,
@@ -103,8 +81,8 @@
       "stars": 822,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-07T16:27:37Z",
-      "updated_at": "2026-08-07T16:27:41Z"
+      "pushed_at": "2026-08-07T20:35:42Z",
+      "updated_at": "2026-08-07T20:35:50Z"
     },
     {
       "id": 49612213,
@@ -114,52 +92,41 @@
       "stars": 563,
       "forks": 71,
       "language": "C#",
-      "pushed_at": "2026-08-07T16:09:22Z",
-      "updated_at": "2026-08-07T16:12:14Z"
+      "pushed_at": "2026-08-07T20:02:07Z",
+      "updated_at": "2026-08-07T20:02:24Z"
     },
     {
-      "id": 1203531250,
-      "full_name": "Giammarco-Ferranti/deja",
-      "html_url": "https://github.com/Giammarco-Ferranti/deja",
-      "description": "Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync",
-      "stars": 548,
-      "forks": 9,
-      "language": "Go",
-      "pushed_at": "2026-08-07T16:41:36Z",
-      "updated_at": "2026-08-07T16:41:24Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 23,
+      "language": "Shell",
+      "pushed_at": "2026-08-07T18:50:30Z",
+      "updated_at": "2026-08-07T18:50:50Z"
     },
     {
-      "id": 905920026,
-      "full_name": "anechunaev/notion-electron",
-      "html_url": "https://github.com/anechunaev/notion-electron",
-      "description": "Notion Desktop Client for Linux",
-      "stars": 218,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T15:55:50Z",
-      "updated_at": "2026-08-07T15:58:29Z"
-    },
-    {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "id": 1309395119,
+      "full_name": "sazardev/shiki",
+      "html_url": "https://github.com/sazardev/shiki",
+      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
       "stars": 212,
-      "forks": 4,
-      "language": "Vue",
-      "pushed_at": "2026-08-07T15:31:43Z",
-      "updated_at": "2026-08-07T15:31:16Z"
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-08-07T18:32:50Z",
+      "updated_at": "2026-08-07T18:58:57Z"
     },
     {
-      "id": 1244050587,
-      "full_name": "hasanyilmaz/operon",
-      "html_url": "https://github.com/hasanyilmaz/operon",
-      "description": "Task management system for humans and agents in Obsidian.",
-      "stars": 168,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T16:49:06Z",
-      "updated_at": "2026-08-07T16:50:30Z"
+      "id": 412385182,
+      "full_name": "scribe-org/Scribe-iOS",
+      "html_url": "https://github.com/scribe-org/Scribe-iOS",
+      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
+      "stars": 167,
+      "forks": 107,
+      "language": "Swift",
+      "pushed_at": "2026-08-07T20:23:43Z",
+      "updated_at": "2026-08-07T20:23:50Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +136,41 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-07T16:46:50Z",
-      "updated_at": "2026-08-07T16:46:56Z"
+      "pushed_at": "2026-08-07T20:34:07Z",
+      "updated_at": "2026-08-07T20:34:13Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-07T19:55:21Z",
+      "updated_at": "2026-08-07T19:55:33Z"
+    },
+    {
+      "id": 200305344,
+      "full_name": "rafinhadufluxo/Materias-UFFS",
+      "html_url": "https://github.com/rafinhadufluxo/Materias-UFFS",
+      "description": "Todo conteúdo do Curso, você encontra aqui  🍩 👾",
+      "stars": 113,
+      "forks": 32,
+      "language": "C",
+      "pushed_at": "2026-08-07T19:05:20Z",
+      "updated_at": "2026-08-07T19:05:41Z"
+    },
+    {
+      "id": 1323366961,
+      "full_name": "palamim/starboard",
+      "html_url": "https://github.com/palamim/starboard",
+      "description": "A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture",
+      "stars": 97,
+      "forks": 3,
+      "language": "Swift",
+      "pushed_at": "2026-08-07T18:47:32Z",
+      "updated_at": "2026-08-07T20:05:09Z"
     }
   ]
 }
