@@ -8,125 +8,114 @@
   "total_found": 1019,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 129087,
-      "forks": 14723,
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 189073,
+      "forks": 26581,
+      "language": "Shell",
+      "pushed_at": "2026-08-07T08:53:03Z",
+      "updated_at": "2026-08-07T08:54:22Z"
+    },
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27196,
+      "forks": 2419,
+      "language": "Go",
+      "pushed_at": "2026-08-07T07:52:12Z",
+      "updated_at": "2026-08-07T07:47:35Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21170,
+      "forks": 1919,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T04:54:31Z",
-      "updated_at": "2026-08-07T04:56:33Z"
+      "pushed_at": "2026-08-07T08:42:14Z",
+      "updated_at": "2026-08-07T08:42:51Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44562,
-      "forks": 2807,
-      "language": "C#",
-      "pushed_at": "2026-08-07T04:38:00Z",
-      "updated_at": "2026-08-07T05:12:37Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17002,
-      "forks": 1691,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14605,
+      "forks": 948,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T03:33:57Z",
-      "updated_at": "2026-08-07T04:40:22Z"
+      "pushed_at": "2026-08-07T07:59:14Z",
+      "updated_at": "2026-08-07T08:36:24Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6435,
-      "forks": 386,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-07T05:08:32Z",
-      "updated_at": "2026-08-07T04:29:10Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11885,
+      "forks": 1474,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T08:28:48Z",
+      "updated_at": "2026-08-07T08:53:44Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8804,
+      "forks": 263,
+      "language": "C++",
+      "pushed_at": "2026-08-07T08:26:05Z",
+      "updated_at": "2026-08-07T08:36:52Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5806,
+      "forks": 910,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T08:37:49Z",
+      "updated_at": "2026-08-07T08:38:30Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5760,
+      "stars": 5761,
       "forks": 764,
       "language": "Swift",
-      "pushed_at": "2026-08-07T05:37:50Z",
-      "updated_at": "2026-08-07T03:46:17Z"
+      "pushed_at": "2026-08-07T07:29:35Z",
+      "updated_at": "2026-08-07T08:39:33Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1911,
-      "forks": 133,
-      "language": "Go",
-      "pushed_at": "2026-08-07T04:24:35Z",
-      "updated_at": "2026-08-07T04:20:10Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1625,
-      "forks": 82,
-      "language": "C#",
-      "pushed_at": "2026-08-07T04:51:13Z",
-      "updated_at": "2026-08-07T05:32:15Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1056,
-      "forks": 37,
-      "language": "Rust",
-      "pushed_at": "2026-08-07T05:27:39Z",
-      "updated_at": "2026-08-07T05:28:35Z"
-    },
-    {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
-      "stars": 850,
-      "forks": 46,
+      "id": 1305383508,
+      "full_name": "Prism-Shadow/penguin-harness",
+      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Builder. Use DeepSeek or GPT to Create Self-Evolving Agents in One Click",
+      "stars": 957,
+      "forks": 88,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T03:49:44Z",
-      "updated_at": "2026-08-07T03:50:20Z"
+      "pushed_at": "2026-08-07T08:51:51Z",
+      "updated_at": "2026-08-07T08:28:11Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 820,
-      "forks": 87,
-      "language": "Python",
-      "pushed_at": "2026-08-07T03:39:59Z",
-      "updated_at": "2026-08-07T03:40:10Z"
-    },
-    {
-      "id": 1076571787,
-      "full_name": "huytieu/COG-second-brain",
-      "html_url": "https://github.com/huytieu/COG-second-brain",
-      "description": "Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
-      "stars": 803,
-      "forks": 96,
-      "language": "HTML",
-      "pushed_at": "2026-08-07T05:13:08Z",
-      "updated_at": "2026-08-07T05:13:25Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 319,
+      "forks": 23,
+      "language": "Shell",
+      "pushed_at": "2026-08-07T07:16:28Z",
+      "updated_at": "2026-08-07T07:17:53Z"
     },
     {
       "id": 1133241492,
@@ -136,8 +125,41 @@
       "stars": 214,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T04:37:56Z",
-      "updated_at": "2026-08-07T04:38:26Z"
+      "pushed_at": "2026-08-07T07:39:43Z",
+      "updated_at": "2026-08-07T07:41:19Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 212,
+      "forks": 4,
+      "language": "Vue",
+      "pushed_at": "2026-08-07T07:17:23Z",
+      "updated_at": "2026-08-07T07:18:56Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 194,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T07:21:15Z",
+      "updated_at": "2026-08-07T08:44:50Z"
+    },
+    {
+      "id": 1244050587,
+      "full_name": "hasanyilmaz/operon",
+      "html_url": "https://github.com/hasanyilmaz/operon",
+      "description": "Task management system for humans and agents in Obsidian.",
+      "stars": 168,
+      "forks": 10,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T08:12:31Z",
+      "updated_at": "2026-08-07T08:15:35Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-07T05:35:41Z",
-      "updated_at": "2026-08-07T05:36:24Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-07T03:50:04Z",
-      "updated_at": "2026-08-07T03:50:21Z"
-    },
-    {
-      "id": 1161498026,
-      "full_name": "alivecontext/alive",
-      "html_url": "https://github.com/alivecontext/alive",
-      "description": "Personal Context Manager for Claude Code. Your life in walnuts.",
-      "stars": 122,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-08-07T03:56:05Z",
-      "updated_at": "2026-08-07T03:56:31Z"
+      "pushed_at": "2026-08-07T08:51:33Z",
+      "updated_at": "2026-08-07T08:52:37Z"
     }
   ]
 }
