@@ -8,125 +8,59 @@
   "total_found": 1021,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 129152,
-      "forks": 14728,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-08T08:19:27Z",
-      "updated_at": "2026-08-08T08:37:27Z"
-    },
-    {
-      "id": 501045649,
-      "full_name": "wavetermdev/waveterm",
-      "html_url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "stars": 21964,
-      "forks": 1090,
-      "language": "Go",
-      "pushed_at": "2026-08-08T07:54:29Z",
-      "updated_at": "2026-08-08T08:01:31Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13356,
-      "forks": 825,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-08T08:04:05Z",
-      "updated_at": "2026-08-08T08:11:57Z"
-    },
-    {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8821,
+      "stars": 8825,
       "forks": 263,
       "language": "C++",
-      "pushed_at": "2026-08-08T08:27:20Z",
-      "updated_at": "2026-08-08T08:37:46Z"
+      "pushed_at": "2026-08-08T11:38:54Z",
+      "updated_at": "2026-08-08T11:38:55Z"
     },
     {
-      "id": 1083188349,
-      "full_name": "RICHQAQ/PasteMD",
-      "html_url": "https://github.com/RICHQAQ/PasteMD",
-      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
-      "stars": 5186,
-      "forks": 311,
-      "language": "Python",
-      "pushed_at": "2026-08-08T07:10:04Z",
-      "updated_at": "2026-08-08T07:10:13Z"
-    },
-    {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3292,
-      "forks": 154,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4304,
+      "forks": 857,
       "language": "TypeScript",
-      "pushed_at": "2026-08-08T07:26:53Z",
-      "updated_at": "2026-08-08T08:26:16Z"
+      "pushed_at": "2026-08-08T12:32:51Z",
+      "updated_at": "2026-08-08T12:14:43Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1950,
-      "forks": 143,
-      "language": "Dart",
-      "pushed_at": "2026-08-08T07:46:20Z",
-      "updated_at": "2026-08-08T07:46:34Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2401,
+      "forks": 90,
+      "language": "Swift",
+      "pushed_at": "2026-08-08T11:52:25Z",
+      "updated_at": "2026-08-08T12:37:09Z"
     },
     {
-      "id": 220114000,
-      "full_name": "chipsalliance/verible",
-      "html_url": "https://github.com/chipsalliance/verible",
-      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
-      "stars": 1905,
-      "forks": 300,
-      "language": "C++",
-      "pushed_at": "2026-08-08T08:28:41Z",
-      "updated_at": "2026-08-08T08:06:53Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1917,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-08-08T12:27:59Z",
+      "updated_at": "2026-08-08T12:22:55Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1655,
-      "forks": 83,
-      "language": "C#",
-      "pushed_at": "2026-08-08T08:11:51Z",
-      "updated_at": "2026-08-08T08:11:58Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1059,
-      "forks": 37,
-      "language": "Rust",
-      "pushed_at": "2026-08-08T08:36:08Z",
-      "updated_at": "2026-08-08T08:36:16Z"
-    },
-    {
-      "id": 378725581,
-      "full_name": "translate-tools/linguist",
-      "html_url": "https://github.com/translate-tools/linguist",
-      "description": "Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline",
-      "stars": 1044,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-08T08:21:27Z",
-      "updated_at": "2026-08-08T08:21:33Z"
+      "id": 63333652,
+      "full_name": "alexadam/save-as-ebook",
+      "html_url": "https://github.com/alexadam/save-as-ebook",
+      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
+      "stars": 1118,
+      "forks": 73,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-08T11:32:32Z",
+      "updated_at": "2026-08-08T11:32:36Z"
     },
     {
       "id": 591995344,
@@ -134,10 +68,10 @@
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
       "stars": 822,
-      "forks": 87,
+      "forks": 88,
       "language": "Python",
-      "pushed_at": "2026-08-08T06:07:24Z",
-      "updated_at": "2026-08-08T06:07:30Z"
+      "pushed_at": "2026-08-08T12:36:22Z",
+      "updated_at": "2026-08-08T12:36:29Z"
     },
     {
       "id": 1185843143,
@@ -147,8 +81,19 @@
       "stars": 788,
       "forks": 66,
       "language": "Swift",
-      "pushed_at": "2026-08-08T07:58:19Z",
-      "updated_at": "2026-08-08T07:58:38Z"
+      "pushed_at": "2026-08-08T11:30:38Z",
+      "updated_at": "2026-08-08T11:30:43Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 461,
+      "forks": 129,
+      "language": "Python",
+      "pushed_at": "2026-08-08T12:33:50Z",
+      "updated_at": "2026-08-08T12:33:53Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +103,74 @@
       "stars": 319,
       "forks": 25,
       "language": "Shell",
-      "pushed_at": "2026-08-08T06:45:11Z",
-      "updated_at": "2026-08-08T06:45:16Z"
+      "pushed_at": "2026-08-08T12:39:25Z",
+      "updated_at": "2026-08-08T12:39:29Z"
     },
     {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 225,
-      "forks": 24,
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-08T12:34:06Z",
+      "updated_at": "2026-08-08T12:15:18Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 258,
+      "forks": 31,
+      "language": "Python",
+      "pushed_at": "2026-08-08T12:28:03Z",
+      "updated_at": "2026-08-08T11:24:17Z"
+    },
+    {
+      "id": 1169187012,
+      "full_name": "YiShu5/GZHcomposing",
+      "html_url": "https://github.com/YiShu5/GZHcomposing",
+      "description": "A browser-native WeChat editor with live Markdown preview, reusable themes, and one-click rich-text export.",
+      "stars": 220,
+      "forks": 0,
       "language": "JavaScript",
-      "pushed_at": "2026-08-08T07:15:03Z",
-      "updated_at": "2026-08-08T07:13:34Z"
+      "pushed_at": "2026-08-08T12:42:36Z",
+      "updated_at": "2026-08-08T12:42:37Z"
+    },
+    {
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 218,
+      "forks": 5,
+      "language": "CSS",
+      "pushed_at": "2026-08-08T11:16:24Z",
+      "updated_at": "2026-08-08T11:16:28Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 216,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-08T12:08:04Z",
+      "updated_at": "2026-08-08T11:50:12Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "kanban-rs/kanban",
+      "html_url": "https://github.com/kanban-rs/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 153,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-08-08T12:13:10Z",
+      "updated_at": "2026-08-08T12:05:06Z"
     }
   ]
 }
