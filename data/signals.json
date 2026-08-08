@@ -8,37 +8,48 @@
   "total_found": 1021,
   "items": [
     {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27195,
+      "forks": 2419,
+      "language": "Go",
+      "pushed_at": "2026-08-08T16:23:53Z",
+      "updated_at": "2026-08-08T16:24:05Z"
+    },
+    {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8825,
-      "forks": 263,
+      "stars": 8826,
+      "forks": 262,
       "language": "C++",
-      "pushed_at": "2026-08-08T11:38:54Z",
-      "updated_at": "2026-08-08T11:38:55Z"
+      "pushed_at": "2026-08-08T15:25:31Z",
+      "updated_at": "2026-08-08T15:25:36Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4304,
-      "forks": 857,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-08T12:32:51Z",
-      "updated_at": "2026-08-08T12:14:43Z"
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6623,
+      "forks": 153,
+      "language": "Swift",
+      "pushed_at": "2026-08-08T15:05:38Z",
+      "updated_at": "2026-08-08T15:58:35Z"
     },
     {
       "id": 1079924730,
       "full_name": "BarutSRB/OmniWM",
       "html_url": "https://github.com/BarutSRB/OmniWM",
       "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2401,
-      "forks": 90,
+      "stars": 2405,
+      "forks": 92,
       "language": "Swift",
-      "pushed_at": "2026-08-08T11:52:25Z",
-      "updated_at": "2026-08-08T12:37:09Z"
+      "pushed_at": "2026-08-08T15:47:38Z",
+      "updated_at": "2026-08-08T15:47:41Z"
     },
     {
       "id": 257400448,
@@ -48,19 +59,30 @@
       "stars": 1917,
       "forks": 133,
       "language": "Go",
-      "pushed_at": "2026-08-08T12:27:59Z",
-      "updated_at": "2026-08-08T12:22:55Z"
+      "pushed_at": "2026-08-08T16:10:51Z",
+      "updated_at": "2026-08-08T15:49:46Z"
     },
     {
-      "id": 63333652,
-      "full_name": "alexadam/save-as-ebook",
-      "html_url": "https://github.com/alexadam/save-as-ebook",
-      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
-      "stars": 1118,
-      "forks": 73,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-08T11:32:32Z",
-      "updated_at": "2026-08-08T11:32:36Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1619,
+      "forks": 93,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-08T16:20:17Z",
+      "updated_at": "2026-08-08T16:20:26Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1059,
+      "forks": 37,
+      "language": "Rust",
+      "pushed_at": "2026-08-08T15:47:02Z",
+      "updated_at": "2026-08-08T15:47:06Z"
     },
     {
       "id": 591995344,
@@ -70,19 +92,19 @@
       "stars": 822,
       "forks": 88,
       "language": "Python",
-      "pushed_at": "2026-08-08T12:36:22Z",
-      "updated_at": "2026-08-08T12:36:29Z"
+      "pushed_at": "2026-08-08T14:53:33Z",
+      "updated_at": "2026-08-08T14:53:39Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 788,
-      "forks": 66,
-      "language": "Swift",
-      "pushed_at": "2026-08-08T11:30:38Z",
-      "updated_at": "2026-08-08T11:30:43Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 564,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-08-08T15:46:43Z",
+      "updated_at": "2026-08-08T15:46:47Z"
     },
     {
       "id": 1142482827,
@@ -92,85 +114,63 @@
       "stars": 461,
       "forks": 129,
       "language": "Python",
-      "pushed_at": "2026-08-08T12:33:50Z",
-      "updated_at": "2026-08-08T12:33:53Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 25,
-      "language": "Shell",
-      "pushed_at": "2026-08-08T12:39:25Z",
-      "updated_at": "2026-08-08T12:39:29Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-08T12:34:06Z",
-      "updated_at": "2026-08-08T12:15:18Z"
+      "pushed_at": "2026-08-08T16:12:26Z",
+      "updated_at": "2026-08-08T16:06:05Z"
     },
     {
       "id": 1016255018,
       "full_name": "theexperiencecompany/gaia",
       "html_url": "https://github.com/theexperiencecompany/gaia",
       "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 258,
+      "stars": 259,
       "forks": 31,
       "language": "Python",
-      "pushed_at": "2026-08-08T12:28:03Z",
-      "updated_at": "2026-08-08T11:24:17Z"
-    },
-    {
-      "id": 1169187012,
-      "full_name": "YiShu5/GZHcomposing",
-      "html_url": "https://github.com/YiShu5/GZHcomposing",
-      "description": "A browser-native WeChat editor with live Markdown preview, reusable themes, and one-click rich-text export.",
-      "stars": 220,
-      "forks": 0,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-08T12:42:36Z",
-      "updated_at": "2026-08-08T12:42:37Z"
-    },
-    {
-      "id": 1124365241,
-      "full_name": "EbadShelby/dotfiles",
-      "html_url": "https://github.com/EbadShelby/dotfiles",
-      "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 218,
-      "forks": 5,
-      "language": "CSS",
-      "pushed_at": "2026-08-08T11:16:24Z",
-      "updated_at": "2026-08-08T11:16:28Z"
+      "pushed_at": "2026-08-08T16:22:49Z",
+      "updated_at": "2026-08-08T14:36:56Z"
     },
     {
       "id": 1133241492,
       "full_name": "gnoviawan/termul",
       "html_url": "https://github.com/gnoviawan/termul",
       "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 216,
+      "stars": 218,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-08-08T12:08:04Z",
-      "updated_at": "2026-08-08T11:50:12Z"
+      "pushed_at": "2026-08-08T14:53:14Z",
+      "updated_at": "2026-08-08T14:55:22Z"
     },
     {
-      "id": 1073368386,
-      "full_name": "kanban-rs/kanban",
-      "html_url": "https://github.com/kanban-rs/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 153,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-08-08T12:13:10Z",
-      "updated_at": "2026-08-08T12:05:06Z"
+      "id": 1213753689,
+      "full_name": "nylxar/curium",
+      "html_url": "https://github.com/nylxar/curium",
+      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
+      "stars": 193,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-08T14:50:19Z",
+      "updated_at": "2026-08-08T14:50:24Z"
+    },
+    {
+      "id": 1244050587,
+      "full_name": "hasanyilmaz/operon",
+      "html_url": "https://github.com/hasanyilmaz/operon",
+      "description": "Task management system for humans and agents in Obsidian.",
+      "stars": 169,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-08T14:20:33Z",
+      "updated_at": "2026-08-08T14:20:52Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-08T16:25:57Z",
+      "updated_at": "2026-08-08T16:26:01Z"
     }
   ]
 }
