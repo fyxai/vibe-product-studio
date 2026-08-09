@@ -12,11 +12,11 @@
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27197,
+      "stars": 27195,
       "forks": 2419,
       "language": "Go",
-      "pushed_at": "2026-08-09T04:38:20Z",
-      "updated_at": "2026-08-09T04:38:27Z"
+      "pushed_at": "2026-08-09T08:21:53Z",
+      "updated_at": "2026-08-09T08:22:08Z"
     },
     {
       "id": 957012,
@@ -26,41 +26,107 @@
       "stars": 15136,
       "forks": 2309,
       "language": "Shell",
-      "pushed_at": "2026-08-09T05:00:38Z",
-      "updated_at": "2026-08-09T05:00:55Z"
+      "pushed_at": "2026-08-09T06:56:08Z",
+      "updated_at": "2026-08-09T06:56:19Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14639,
+      "forks": 949,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-09T07:37:05Z",
+      "updated_at": "2026-08-09T08:01:50Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13361,
+      "forks": 826,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-09T06:30:30Z",
+      "updated_at": "2026-08-09T07:11:35Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8837,
+      "stars": 8838,
       "forks": 263,
       "language": "C++",
-      "pushed_at": "2026-08-09T04:50:26Z",
-      "updated_at": "2026-08-09T04:56:51Z"
+      "pushed_at": "2026-08-09T06:34:55Z",
+      "updated_at": "2026-08-09T07:01:49Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6625,
-      "forks": 153,
-      "language": "Swift",
-      "pushed_at": "2026-08-09T04:14:52Z",
-      "updated_at": "2026-08-09T04:14:54Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5471,
+      "forks": 644,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-09T08:29:28Z",
+      "updated_at": "2026-08-09T08:29:52Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1622,
-      "forks": 94,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T04:20:28Z",
-      "updated_at": "2026-08-09T04:20:34Z"
+      "id": 203938031,
+      "full_name": "200ok-ch/organice",
+      "html_url": "https://github.com/200ok-ch/organice",
+      "description": "An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers",
+      "stars": 2658,
+      "forks": 167,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-09T06:25:58Z",
+      "updated_at": "2026-08-09T06:26:03Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1714,
+      "forks": 109,
+      "language": "Rust",
+      "pushed_at": "2026-08-09T07:46:13Z",
+      "updated_at": "2026-08-09T07:46:40Z"
+    },
+    {
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "A curated list of the best native macOS apps — fast, lightweight, no Electron bloat. Swift & SwiftUI apps for Mac power users, updated regularly.",
+      "stars": 1379,
+      "forks": 107,
+      "language": "Shell",
+      "pushed_at": "2026-08-09T07:18:14Z",
+      "updated_at": "2026-08-09T08:32:06Z"
+    },
+    {
+      "id": 1060712801,
+      "full_name": "surajverma/homehub",
+      "html_url": "https://github.com/surajverma/homehub",
+      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
+      "stars": 1210,
+      "forks": 75,
+      "language": "HTML",
+      "pushed_at": "2026-08-09T06:42:51Z",
+      "updated_at": "2026-08-09T06:41:25Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1188,
+      "forks": 127,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-09T06:19:49Z",
+      "updated_at": "2026-08-09T06:19:53Z"
     },
     {
       "id": 1148683593,
@@ -70,30 +136,30 @@
       "stars": 1060,
       "forks": 37,
       "language": "Rust",
-      "pushed_at": "2026-08-09T04:50:33Z",
-      "updated_at": "2026-08-09T04:50:38Z"
+      "pushed_at": "2026-08-09T08:35:44Z",
+      "updated_at": "2026-08-09T08:36:19Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 823,
-      "forks": 88,
-      "language": "Python",
-      "pushed_at": "2026-08-09T01:02:59Z",
-      "updated_at": "2026-08-09T01:03:02Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization.",
+      "stars": 839,
+      "forks": 43,
+      "language": "Java",
+      "pushed_at": "2026-08-09T08:13:55Z",
+      "updated_at": "2026-08-09T08:00:01Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 788,
-      "forks": 66,
-      "language": "Swift",
-      "pushed_at": "2026-08-09T05:02:31Z",
-      "updated_at": "2026-08-09T05:02:36Z"
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 666,
+      "forks": 102,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-09T08:37:33Z",
+      "updated_at": "2026-08-09T08:34:52Z"
     },
     {
       "id": 1166865874,
@@ -103,74 +169,8 @@
       "stars": 319,
       "forks": 25,
       "language": "Shell",
-      "pushed_at": "2026-08-09T01:50:59Z",
-      "updated_at": "2026-08-09T01:19:30Z"
-    },
-    {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 269,
-      "forks": 17,
-      "language": "C#",
-      "pushed_at": "2026-08-09T04:20:37Z",
-      "updated_at": "2026-08-09T04:20:31Z"
-    },
-    {
-      "id": 1085282019,
-      "full_name": "thehimel/cursor-rules-and-prompts",
-      "html_url": "https://github.com/thehimel/cursor-rules-and-prompts",
-      "description": "A comprehensive, open-source collection of rules and prompts designed to guide Cursor AI in generating better, more consistent code. Enhance code quality, enforce coding standards, and streamline development workflows automatically.",
-      "stars": 246,
-      "forks": 51,
-      "language": "Shell",
-      "pushed_at": "2026-08-09T03:02:28Z",
-      "updated_at": "2026-08-09T03:02:32Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 218,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T04:51:32Z",
-      "updated_at": "2026-08-09T04:51:37Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
-      "stars": 195,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T03:40:25Z",
-      "updated_at": "2026-08-09T03:39:40Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-09T04:58:32Z",
-      "updated_at": "2026-08-09T04:58:36Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-09T03:44:20Z",
-      "updated_at": "2026-08-09T03:44:23Z"
+      "pushed_at": "2026-08-09T06:48:53Z",
+      "updated_at": "2026-08-09T06:49:03Z"
     }
   ]
 }
