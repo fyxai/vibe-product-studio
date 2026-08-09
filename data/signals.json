@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1022,
+  "total_found": 1023,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44584,
+      "stars": 44583,
       "forks": 2808,
       "language": "C#",
-      "pushed_at": "2026-08-09T16:10:17Z",
-      "updated_at": "2026-08-09T15:56:02Z"
+      "pushed_at": "2026-08-09T20:03:23Z",
+      "updated_at": "2026-08-09T20:22:45Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39047,
+      "stars": 39048,
       "forks": 3882,
       "language": "C#",
-      "pushed_at": "2026-08-09T15:50:32Z",
-      "updated_at": "2026-08-09T15:51:06Z"
+      "pushed_at": "2026-08-09T19:26:12Z",
+      "updated_at": "2026-08-09T20:22:42Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11920,
+      "stars": 11922,
       "forks": 1476,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T15:53:48Z",
-      "updated_at": "2026-08-09T15:54:15Z"
-    },
-    {
-      "id": 592882602,
-      "full_name": "mrkai77/Loop",
-      "html_url": "https://github.com/mrkai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 11336,
-      "forks": 257,
-      "language": "Swift",
-      "pushed_at": "2026-08-09T16:22:23Z",
-      "updated_at": "2026-08-09T16:16:42Z"
+      "pushed_at": "2026-08-09T19:44:13Z",
+      "updated_at": "2026-08-09T19:44:32Z"
     },
     {
       "id": 129699403,
@@ -59,52 +48,63 @@
       "stars": 5761,
       "forks": 764,
       "language": "Swift",
-      "pushed_at": "2026-08-09T16:06:48Z",
-      "updated_at": "2026-08-09T16:16:57Z"
+      "pushed_at": "2026-08-09T20:18:09Z",
+      "updated_at": "2026-08-09T20:18:14Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4308,
-      "forks": 858,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:24:34Z",
-      "updated_at": "2026-08-09T16:22:22Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5470,
+      "forks": 643,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-09T20:23:28Z",
+      "updated_at": "2026-08-09T20:23:42Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2426,
-      "forks": 94,
-      "language": "Swift",
-      "pushed_at": "2026-08-09T15:34:17Z",
-      "updated_at": "2026-08-09T16:26:27Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3611,
+      "forks": 251,
+      "language": "Python",
+      "pushed_at": "2026-08-09T20:17:50Z",
+      "updated_at": "2026-08-09T20:18:00Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2304,
-      "forks": 95,
-      "language": "Swift",
-      "pushed_at": "2026-08-09T16:30:29Z",
-      "updated_at": "2026-08-09T16:30:48Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1917,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-08-09T19:49:41Z",
+      "updated_at": "2026-08-09T19:39:07Z"
+    },
+    {
+      "id": 220114000,
+      "full_name": "chipsalliance/verible",
+      "html_url": "https://github.com/chipsalliance/verible",
+      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+      "stars": 1904,
+      "forks": 300,
+      "language": "C++",
+      "pushed_at": "2026-08-09T19:42:09Z",
+      "updated_at": "2026-08-09T19:18:54Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1061,
+      "stars": 1062,
       "forks": 37,
       "language": "Rust",
-      "pushed_at": "2026-08-09T16:03:44Z",
-      "updated_at": "2026-08-09T16:04:12Z"
+      "pushed_at": "2026-08-09T20:15:12Z",
+      "updated_at": "2026-08-09T20:15:21Z"
     },
     {
       "id": 591995344,
@@ -114,8 +114,19 @@
       "stars": 823,
       "forks": 89,
       "language": "Python",
-      "pushed_at": "2026-08-09T16:32:40Z",
-      "updated_at": "2026-08-09T16:13:19Z"
+      "pushed_at": "2026-08-09T20:20:22Z",
+      "updated_at": "2026-08-09T20:20:32Z"
+    },
+    {
+      "id": 511356686,
+      "full_name": "ConvoyPanel/panel",
+      "html_url": "https://github.com/ConvoyPanel/panel",
+      "description": "A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per node per month for commercial use, and completely free for personal and non-profit endeavors.",
+      "stars": 507,
+      "forks": 91,
+      "language": "PHP",
+      "pushed_at": "2026-08-09T20:28:13Z",
+      "updated_at": "2026-08-09T20:28:20Z"
     },
     {
       "id": 689740171,
@@ -125,30 +136,19 @@
       "stars": 305,
       "forks": 332,
       "language": "JavaScript",
-      "pushed_at": "2026-08-09T15:36:43Z",
-      "updated_at": "2026-08-09T15:37:05Z"
-    },
-    {
-      "id": 1213753689,
-      "full_name": "nylxar/curium",
-      "html_url": "https://github.com/nylxar/curium",
-      "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
-      "stars": 208,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:01:40Z",
-      "updated_at": "2026-08-09T16:02:07Z"
+      "pushed_at": "2026-08-09T20:00:40Z",
+      "updated_at": "2026-08-09T20:00:54Z"
     },
     {
       "id": 1244050587,
       "full_name": "hasanyilmaz/operon",
       "html_url": "https://github.com/hasanyilmaz/operon",
       "description": "Task management system for humans and agents in Obsidian.",
-      "stars": 169,
+      "stars": 168,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:21:44Z",
-      "updated_at": "2026-08-09T16:22:40Z"
+      "pushed_at": "2026-08-09T20:18:10Z",
+      "updated_at": "2026-08-09T20:14:18Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +158,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-09T16:27:31Z",
-      "updated_at": "2026-08-09T16:27:56Z"
+      "pushed_at": "2026-08-09T20:24:59Z",
+      "updated_at": "2026-08-09T20:25:03Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-09T15:32:48Z",
-      "updated_at": "2026-08-09T15:33:27Z"
+      "pushed_at": "2026-08-09T19:34:13Z",
+      "updated_at": "2026-08-09T19:34:37Z"
     }
   ]
 }
