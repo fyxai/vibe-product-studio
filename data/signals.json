@@ -5,150 +5,128 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1025,
+  "total_found": 1026,
   "items": [
     {
-      "id": 1238120057,
-      "full_name": "ayghri/i-have-adhd",
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 18964,
-      "forks": 1118,
-      "language": "Python",
-      "pushed_at": "2026-08-10T12:20:24Z",
-      "updated_at": "2026-08-10T13:01:41Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11931,
-      "forks": 1476,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 129268,
+      "forks": 14796,
       "language": "TypeScript",
-      "pushed_at": "2026-08-10T12:22:16Z",
-      "updated_at": "2026-08-10T12:34:00Z"
+      "pushed_at": "2026-08-10T16:16:06Z",
+      "updated_at": "2026-08-10T16:50:52Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6639,
-      "forks": 153,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27201,
+      "forks": 2420,
+      "language": "Go",
+      "pushed_at": "2026-08-10T16:31:14Z",
+      "updated_at": "2026-08-10T16:33:14Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17070,
+      "forks": 1697,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-10T16:18:29Z",
+      "updated_at": "2026-08-10T16:28:39Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14684,
+      "forks": 951,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-10T16:39:11Z",
+      "updated_at": "2026-08-10T16:40:19Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2439,
+      "forks": 95,
       "language": "Swift",
-      "pushed_at": "2026-08-10T12:23:20Z",
-      "updated_at": "2026-08-10T12:57:59Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5766,
-      "forks": 764,
-      "language": "Swift",
-      "pushed_at": "2026-08-10T12:22:21Z",
-      "updated_at": "2026-08-10T12:23:13Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1950,
-      "forks": 143,
-      "language": "Dart",
-      "pushed_at": "2026-08-10T12:47:58Z",
-      "updated_at": "2026-08-10T12:48:24Z"
+      "pushed_at": "2026-08-10T16:36:13Z",
+      "updated_at": "2026-08-10T16:36:44Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1710,
+      "stars": 1715,
       "forks": 87,
       "language": "C#",
-      "pushed_at": "2026-08-10T12:34:21Z",
-      "updated_at": "2026-08-10T12:34:49Z"
+      "pushed_at": "2026-08-10T16:52:09Z",
+      "updated_at": "2026-08-10T16:46:46Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1641,
+      "forks": 94,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-10T16:04:00Z",
+      "updated_at": "2026-08-10T16:36:19Z"
     },
     {
       "id": 1305383508,
       "full_name": "Prism-Shadow/penguin-harness",
       "html_url": "https://github.com/Prism-Shadow/penguin-harness",
       "description": "🐧 Automated Agent Builder. Create Self-Evolving Agents in One Click (DeepSeek/Kimi/GPT/Claude/Gemini)",
-      "stars": 1132,
+      "stars": 1140,
       "forks": 105,
       "language": "TypeScript",
-      "pushed_at": "2026-08-10T12:53:43Z",
-      "updated_at": "2026-08-10T12:37:02Z"
+      "pushed_at": "2026-08-10T16:08:21Z",
+      "updated_at": "2026-08-10T16:36:09Z"
+    },
+    {
+      "id": 63333652,
+      "full_name": "alexadam/save-as-ebook",
+      "html_url": "https://github.com/alexadam/save-as-ebook",
+      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
+      "stars": 1118,
+      "forks": 73,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-10T16:46:01Z",
+      "updated_at": "2026-08-10T16:46:24Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1063,
+      "stars": 1064,
       "forks": 38,
       "language": "Rust",
-      "pushed_at": "2026-08-10T12:18:27Z",
-      "updated_at": "2026-08-10T12:19:31Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 565,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-08-10T13:02:10Z",
-      "updated_at": "2026-08-10T13:03:23Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 462,
-      "forks": 129,
-      "language": "Python",
-      "pushed_at": "2026-08-10T12:53:07Z",
-      "updated_at": "2026-08-10T12:51:43Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 25,
-      "language": "Shell",
-      "pushed_at": "2026-08-10T12:59:49Z",
-      "updated_at": "2026-08-10T13:00:57Z"
-    },
-    {
-      "id": 1158424301,
-      "full_name": "modu-ai/moai-cowork",
-      "html_url": "https://github.com/modu-ai/moai-cowork",
-      "description": "모두의 코워크(MoAI-Cowork) — 한국 실무 Claude Code AI 직원 플러그인 + 4트랙 한국어 가이드 (cowork.mo.ai.kr)",
-      "stars": 268,
-      "forks": 63,
-      "language": "Python",
-      "pushed_at": "2026-08-10T12:20:15Z",
-      "updated_at": "2026-08-10T12:27:08Z"
+      "pushed_at": "2026-08-10T16:24:59Z",
+      "updated_at": "2026-08-10T16:25:09Z"
     },
     {
       "id": 1016255018,
       "full_name": "theexperiencecompany/gaia",
       "html_url": "https://github.com/theexperiencecompany/gaia",
       "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 262,
+      "stars": 263,
       "forks": 31,
       "language": "Python",
-      "pushed_at": "2026-08-10T12:55:20Z",
-      "updated_at": "2026-08-10T12:47:03Z"
+      "pushed_at": "2026-08-10T16:45:41Z",
+      "updated_at": "2026-08-10T16:46:01Z"
     },
     {
       "id": 1133241492,
@@ -158,8 +136,30 @@
       "stars": 218,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-08-10T12:04:47Z",
-      "updated_at": "2026-08-10T12:05:10Z"
+      "pushed_at": "2026-08-10T15:54:39Z",
+      "updated_at": "2026-08-10T15:57:26Z"
+    },
+    {
+      "id": 969718304,
+      "full_name": "ognistik/macrowhisper",
+      "html_url": "https://github.com/ognistik/macrowhisper",
+      "description": "Automation Helper for Superwhisper",
+      "stars": 218,
+      "forks": 18,
+      "language": "Swift",
+      "pushed_at": "2026-08-10T15:53:15Z",
+      "updated_at": "2026-08-10T15:56:42Z"
+    },
+    {
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 212,
+      "forks": 4,
+      "language": "Vue",
+      "pushed_at": "2026-08-10T16:41:36Z",
+      "updated_at": "2026-08-10T16:40:26Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-10T12:54:57Z",
-      "updated_at": "2026-08-10T12:55:27Z"
+      "pushed_at": "2026-08-10T16:48:05Z",
+      "updated_at": "2026-08-10T16:49:58Z"
     }
   ]
 }
