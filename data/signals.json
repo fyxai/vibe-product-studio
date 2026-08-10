@@ -8,59 +8,48 @@
   "total_found": 1023,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27197,
-      "forks": 2419,
-      "language": "Go",
-      "pushed_at": "2026-08-10T00:59:52Z",
-      "updated_at": "2026-08-10T00:59:56Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 239057,
+      "forks": 36311,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-10T04:56:36Z",
+      "updated_at": "2026-08-10T05:22:29Z"
     },
     {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 9989,
-      "forks": 693,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T23:41:14Z",
-      "updated_at": "2026-08-09T23:41:16Z"
-    },
-    {
-      "id": 307192103,
-      "full_name": "swiftbar/SwiftBar",
-      "html_url": "https://github.com/swiftbar/SwiftBar",
-      "description": "Powerful macOS menu bar customization tool",
-      "stars": 4383,
-      "forks": 131,
-      "language": "Swift",
-      "pushed_at": "2026-08-10T01:14:37Z",
-      "updated_at": "2026-08-10T00:48:32Z"
+      "id": 1238120057,
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 18839,
+      "forks": 1108,
+      "language": "Python",
+      "pushed_at": "2026-08-10T04:31:09Z",
+      "updated_at": "2026-08-10T05:20:48Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4309,
+      "stars": 4310,
       "forks": 858,
       "language": "TypeScript",
-      "pushed_at": "2026-08-10T01:06:55Z",
-      "updated_at": "2026-08-10T01:01:58Z"
+      "pushed_at": "2026-08-10T04:26:58Z",
+      "updated_at": "2026-08-10T04:25:29Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3612,
-      "forks": 251,
-      "language": "Python",
-      "pushed_at": "2026-08-10T01:30:59Z",
-      "updated_at": "2026-08-10T01:31:06Z"
+      "id": 89766385,
+      "full_name": "cassidoo/todometer",
+      "html_url": "https://github.com/cassidoo/todometer",
+      "description": "A meter-based to-do list",
+      "stars": 2121,
+      "forks": 305,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-10T05:10:42Z",
+      "updated_at": "2026-08-10T05:11:30Z"
     },
     {
       "id": 1177941774,
@@ -70,19 +59,41 @@
       "stars": 1714,
       "forks": 109,
       "language": "Rust",
-      "pushed_at": "2026-08-10T01:30:44Z",
-      "updated_at": "2026-08-10T01:30:51Z"
+      "pushed_at": "2026-08-10T04:49:40Z",
+      "updated_at": "2026-08-10T04:49:53Z"
     },
     {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1446,
-      "forks": 83,
-      "language": "Dart",
-      "pushed_at": "2026-08-10T01:19:52Z",
-      "updated_at": "2026-08-10T00:28:31Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1695,
+      "forks": 87,
+      "language": "C#",
+      "pushed_at": "2026-08-10T04:09:53Z",
+      "updated_at": "2026-08-10T04:10:18Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1628,
+      "forks": 94,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-10T05:23:51Z",
+      "updated_at": "2026-08-10T05:23:57Z"
+    },
+    {
+      "id": 1305383508,
+      "full_name": "Prism-Shadow/penguin-harness",
+      "html_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Builder. Create Self-Evolving Agents in One Click (DeepSeek/Kimi/GPT/Claude/Gemini)",
+      "stars": 1105,
+      "forks": 104,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-10T04:42:26Z",
+      "updated_at": "2026-08-10T05:23:49Z"
     },
     {
       "id": 1148683593,
@@ -92,8 +103,19 @@
       "stars": 1063,
       "forks": 38,
       "language": "Rust",
-      "pushed_at": "2026-08-10T01:16:50Z",
-      "updated_at": "2026-08-10T01:16:16Z"
+      "pushed_at": "2026-08-10T04:25:27Z",
+      "updated_at": "2026-08-10T04:25:32Z"
+    },
+    {
+      "id": 76633312,
+      "full_name": "Ibexoft/awesome-startup-tools-list",
+      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
+      "description": "List of all tools (apps, services) that startups should use.",
+      "stars": 1039,
+      "forks": 266,
+      "language": "Unknown",
+      "pushed_at": "2026-08-10T04:43:23Z",
+      "updated_at": "2026-08-10T04:43:44Z"
     },
     {
       "id": 591995344,
@@ -103,63 +125,41 @@
       "stars": 823,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-10T01:36:44Z",
-      "updated_at": "2026-08-10T01:36:47Z"
+      "pushed_at": "2026-08-10T04:51:43Z",
+      "updated_at": "2026-08-10T04:52:08Z"
     },
     {
       "id": 49612213,
       "full_name": "vchelaru/FlatRedBall",
       "html_url": "https://github.com/vchelaru/FlatRedBall",
       "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 564,
+      "stars": 565,
       "forks": 71,
       "language": "C#",
-      "pushed_at": "2026-08-10T00:39:54Z",
-      "updated_at": "2026-08-10T00:39:56Z"
+      "pushed_at": "2026-08-10T04:56:31Z",
+      "updated_at": "2026-08-10T05:10:22Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 319,
-      "forks": 25,
-      "language": "Shell",
-      "pushed_at": "2026-08-10T01:21:44Z",
-      "updated_at": "2026-08-10T01:21:49Z"
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 258,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-10T04:23:00Z",
+      "updated_at": "2026-08-10T04:17:12Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
       "stars": 218,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-10T01:28:01Z",
-      "updated_at": "2026-08-10T01:16:11Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 212,
-      "forks": 14,
-      "language": "C#",
-      "pushed_at": "2026-08-09T23:38:31Z",
-      "updated_at": "2026-08-09T23:31:50Z"
-    },
-    {
-      "id": 1132684547,
-      "full_name": "BuildWithAIs/voicekey",
-      "html_url": "https://github.com/BuildWithAIs/voicekey",
-      "description": "Voice to text, one key to input.",
-      "stars": 176,
-      "forks": 15,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-10T00:56:07Z",
-      "updated_at": "2026-08-10T00:56:11Z"
+      "forks": 5,
+      "language": "CSS",
+      "pushed_at": "2026-08-10T04:05:06Z",
+      "updated_at": "2026-08-10T04:05:11Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-10T01:16:26Z",
-      "updated_at": "2026-08-10T01:16:36Z"
+      "pushed_at": "2026-08-10T05:20:13Z",
+      "updated_at": "2026-08-10T05:20:32Z"
     }
   ]
 }
