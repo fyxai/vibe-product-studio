@@ -8,70 +8,81 @@
   "total_found": 1029,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 239735,
+      "forks": 36386,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-12T19:52:26Z",
+      "updated_at": "2026-08-12T20:38:59Z"
+    },
+    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39092,
-      "forks": 3885,
+      "stars": 39094,
+      "forks": 3886,
       "language": "C#",
-      "pushed_at": "2026-08-12T16:44:43Z",
-      "updated_at": "2026-08-12T16:45:19Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27208,
-      "forks": 2420,
-      "language": "Go",
-      "pushed_at": "2026-08-12T16:15:32Z",
-      "updated_at": "2026-08-12T16:18:07Z"
+      "pushed_at": "2026-08-12T19:55:46Z",
+      "updated_at": "2026-08-12T19:56:24Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 17171,
+      "stars": 17180,
       "forks": 1708,
       "language": "TypeScript",
-      "pushed_at": "2026-08-12T16:33:41Z",
-      "updated_at": "2026-08-12T16:33:44Z"
+      "pushed_at": "2026-08-12T19:24:34Z",
+      "updated_at": "2026-08-12T20:21:12Z"
     },
     {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16219,
-      "forks": 1269,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T15:46:13Z",
-      "updated_at": "2026-08-12T15:47:35Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 8881,
+      "forks": 264,
+      "language": "C++",
+      "pushed_at": "2026-08-12T19:30:44Z",
+      "updated_at": "2026-08-12T19:36:39Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5768,
-      "forks": 765,
-      "language": "Swift",
-      "pushed_at": "2026-08-12T16:47:45Z",
-      "updated_at": "2026-08-12T16:34:18Z"
+      "id": 1180917769,
+      "full_name": "uditgoenka/autoresearch",
+      "html_url": "https://github.com/uditgoenka/autoresearch",
+      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+      "stars": 5821,
+      "forks": 442,
+      "language": "Shell",
+      "pushed_at": "2026-08-12T20:22:09Z",
+      "updated_at": "2026-08-12T20:22:14Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3641,
-      "forks": 253,
-      "language": "Python",
-      "pushed_at": "2026-08-12T15:53:19Z",
-      "updated_at": "2026-08-12T15:53:48Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5476,
+      "forks": 643,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-12T19:29:05Z",
+      "updated_at": "2026-08-12T19:15:38Z"
+    },
+    {
+      "id": 177860947,
+      "full_name": "Volmarg/personal-management-system",
+      "html_url": "https://github.com/Volmarg/personal-management-system",
+      "description": "Your web application for managing personal data.",
+      "stars": 4129,
+      "forks": 341,
+      "language": "PHP",
+      "pushed_at": "2026-08-12T19:41:10Z",
+      "updated_at": "2026-08-12T19:41:18Z"
     },
     {
       "id": 1079924730,
@@ -81,30 +92,30 @@
       "stars": 2457,
       "forks": 96,
       "language": "Swift",
-      "pushed_at": "2026-08-12T16:14:20Z",
-      "updated_at": "2026-08-12T16:15:39Z"
+      "pushed_at": "2026-08-12T19:22:36Z",
+      "updated_at": "2026-08-12T19:22:42Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1655,
-      "forks": 96,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T16:41:40Z",
-      "updated_at": "2026-08-12T16:43:03Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1919,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-08-12T20:08:25Z",
+      "updated_at": "2026-08-12T20:03:28Z"
     },
     {
-      "id": 63333652,
-      "full_name": "alexadam/save-as-ebook",
-      "html_url": "https://github.com/alexadam/save-as-ebook",
-      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
-      "stars": 1118,
-      "forks": 73,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-12T16:04:50Z",
-      "updated_at": "2026-08-12T16:05:05Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1788,
+      "forks": 89,
+      "language": "C#",
+      "pushed_at": "2026-08-12T20:20:22Z",
+      "updated_at": "2026-08-12T20:17:15Z"
     },
     {
       "id": 1148683593,
@@ -114,19 +125,19 @@
       "stars": 1071,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-12T16:37:53Z",
-      "updated_at": "2026-08-12T16:38:33Z"
+      "pushed_at": "2026-08-12T20:10:02Z",
+      "updated_at": "2026-08-12T20:10:06Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 576,
-      "forks": 46,
-      "language": "Rust",
-      "pushed_at": "2026-08-12T16:38:07Z",
-      "updated_at": "2026-08-12T15:54:06Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 825,
+      "forks": 90,
+      "language": "Python",
+      "pushed_at": "2026-08-12T19:34:38Z",
+      "updated_at": "2026-08-12T19:35:17Z"
     },
     {
       "id": 1142482827,
@@ -136,19 +147,19 @@
       "stars": 465,
       "forks": 129,
       "language": "Python",
-      "pushed_at": "2026-08-12T15:40:34Z",
-      "updated_at": "2026-08-12T15:41:23Z"
+      "pushed_at": "2026-08-12T20:26:36Z",
+      "updated_at": "2026-08-12T20:26:39Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 329,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T16:52:15Z",
-      "updated_at": "2026-08-12T16:50:11Z"
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 264,
+      "forks": 32,
+      "language": "Python",
+      "pushed_at": "2026-08-12T20:37:02Z",
+      "updated_at": "2026-08-12T20:01:04Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-12T16:51:38Z",
-      "updated_at": "2026-08-12T16:52:13Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-12T16:04:11Z",
-      "updated_at": "2026-08-12T16:06:10Z"
+      "pushed_at": "2026-08-12T19:58:14Z",
+      "updated_at": "2026-08-12T19:58:48Z"
     }
   ]
 }
