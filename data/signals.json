@@ -8,114 +8,59 @@
   "total_found": 1029,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 239735,
-      "forks": 36386,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-12T19:52:26Z",
-      "updated_at": "2026-08-12T20:38:59Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39094,
-      "forks": 3886,
-      "language": "C#",
-      "pushed_at": "2026-08-12T19:55:46Z",
-      "updated_at": "2026-08-12T19:56:24Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17180,
-      "forks": 1708,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 129454,
+      "forks": 14835,
       "language": "TypeScript",
-      "pushed_at": "2026-08-12T19:24:34Z",
-      "updated_at": "2026-08-12T20:21:12Z"
+      "pushed_at": "2026-08-13T01:35:23Z",
+      "updated_at": "2026-08-13T01:23:51Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8881,
-      "forks": 264,
-      "language": "C++",
-      "pushed_at": "2026-08-12T19:30:44Z",
-      "updated_at": "2026-08-12T19:36:39Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 75925,
+      "forks": 4775,
+      "language": "Rust",
+      "pushed_at": "2026-08-13T00:14:17Z",
+      "updated_at": "2026-08-13T01:25:42Z"
     },
     {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 5821,
-      "forks": 442,
+      "id": 49516849,
+      "full_name": "xwmx/nb",
+      "html_url": "https://github.com/xwmx/nb",
+      "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+      "stars": 8352,
+      "forks": 253,
       "language": "Shell",
-      "pushed_at": "2026-08-12T20:22:09Z",
-      "updated_at": "2026-08-12T20:22:14Z"
+      "pushed_at": "2026-08-13T00:01:40Z",
+      "updated_at": "2026-08-12T23:57:24Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5476,
-      "forks": 643,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-12T19:29:05Z",
-      "updated_at": "2026-08-12T19:15:38Z"
-    },
-    {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.",
-      "stars": 4129,
-      "forks": 341,
-      "language": "PHP",
-      "pushed_at": "2026-08-12T19:41:10Z",
-      "updated_at": "2026-08-12T19:41:18Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2457,
-      "forks": 96,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5768,
+      "forks": 765,
       "language": "Swift",
-      "pushed_at": "2026-08-12T19:22:36Z",
-      "updated_at": "2026-08-12T19:22:42Z"
+      "pushed_at": "2026-08-13T01:31:26Z",
+      "updated_at": "2026-08-13T01:02:04Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1919,
-      "forks": 133,
-      "language": "Go",
-      "pushed_at": "2026-08-12T20:08:25Z",
-      "updated_at": "2026-08-12T20:03:28Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1788,
-      "forks": 89,
-      "language": "C#",
-      "pushed_at": "2026-08-12T20:20:22Z",
-      "updated_at": "2026-08-12T20:17:15Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3642,
+      "forks": 253,
+      "language": "Python",
+      "pushed_at": "2026-08-13T00:07:46Z",
+      "updated_at": "2026-08-13T00:57:44Z"
     },
     {
       "id": 1148683593,
@@ -125,8 +70,19 @@
       "stars": 1071,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-12T20:10:02Z",
-      "updated_at": "2026-08-12T20:10:06Z"
+      "pushed_at": "2026-08-13T01:46:49Z",
+      "updated_at": "2026-08-13T01:46:53Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 880,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-13T01:48:07Z",
+      "updated_at": "2026-08-13T01:48:11Z"
     },
     {
       "id": 591995344,
@@ -136,8 +92,41 @@
       "stars": 825,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-12T19:34:38Z",
-      "updated_at": "2026-08-12T19:35:17Z"
+      "pushed_at": "2026-08-13T00:55:53Z",
+      "updated_at": "2026-08-13T00:55:57Z"
+    },
+    {
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 800,
+      "forks": 67,
+      "language": "Swift",
+      "pushed_at": "2026-08-13T00:18:42Z",
+      "updated_at": "2026-08-13T01:34:14Z"
+    },
+    {
+      "id": 1258788077,
+      "full_name": "coreyhaines31/makerskills",
+      "html_url": "https://github.com/coreyhaines31/makerskills",
+      "description": "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.",
+      "stars": 563,
+      "forks": 46,
+      "language": "Unknown",
+      "pushed_at": "2026-08-12T23:59:42Z",
+      "updated_at": "2026-08-12T23:59:33Z"
+    },
+    {
+      "id": 1198068829,
+      "full_name": "MioMioOS/MioIsland",
+      "html_url": "https://github.com/MioMioOS/MioIsland",
+      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
+      "stars": 526,
+      "forks": 66,
+      "language": "Swift",
+      "pushed_at": "2026-08-13T01:05:51Z",
+      "updated_at": "2026-08-13T01:05:56Z"
     },
     {
       "id": 1142482827,
@@ -147,30 +136,41 @@
       "stars": 465,
       "forks": 129,
       "language": "Python",
-      "pushed_at": "2026-08-12T20:26:36Z",
-      "updated_at": "2026-08-12T20:26:39Z"
+      "pushed_at": "2026-08-13T01:10:12Z",
+      "updated_at": "2026-08-13T01:03:07Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 264,
-      "forks": 32,
-      "language": "Python",
-      "pushed_at": "2026-08-12T20:37:02Z",
-      "updated_at": "2026-08-12T20:01:04Z"
+      "id": 1006740535,
+      "full_name": "ljtn/epiq",
+      "html_url": "https://github.com/ljtn/epiq",
+      "description": "Local-first issue tracker - distributed and  backed by Git",
+      "stars": 329,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T23:57:16Z",
+      "updated_at": "2026-08-12T23:54:41Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-12T19:58:14Z",
-      "updated_at": "2026-08-12T19:58:48Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 320,
+      "forks": 25,
+      "language": "Shell",
+      "pushed_at": "2026-08-13T01:29:22Z",
+      "updated_at": "2026-08-13T01:29:26Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "kanban-rs/kanban",
+      "html_url": "https://github.com/kanban-rs/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 155,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-08-12T23:49:49Z",
+      "updated_at": "2026-08-12T23:49:51Z"
     }
   ]
 }
