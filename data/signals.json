@@ -8,114 +8,125 @@
   "total_found": 1029,
   "items": [
     {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 41286,
+      "forks": 982,
+      "language": "Rust",
+      "pushed_at": "2026-08-13T08:04:26Z",
+      "updated_at": "2026-08-13T09:06:27Z"
+    },
+    {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 17192,
-      "forks": 1707,
+      "stars": 17200,
+      "forks": 1706,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T05:34:57Z",
-      "updated_at": "2026-08-13T05:13:18Z"
+      "pushed_at": "2026-08-13T09:06:24Z",
+      "updated_at": "2026-08-13T09:07:48Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14400,
-      "forks": 977,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 11979,
+      "forks": 1486,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T03:36:15Z",
-      "updated_at": "2026-08-13T04:21:43Z"
+      "pushed_at": "2026-08-13T08:33:00Z",
+      "updated_at": "2026-08-13T08:53:40Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5881,
-      "forks": 930,
+      "stars": 5883,
+      "forks": 931,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T03:34:51Z",
-      "updated_at": "2026-08-13T04:29:59Z"
+      "pushed_at": "2026-08-13T09:03:36Z",
+      "updated_at": "2026-08-13T08:40:45Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3643,
-      "forks": 254,
-      "language": "Python",
-      "pushed_at": "2026-08-13T04:55:37Z",
-      "updated_at": "2026-08-13T05:35:36Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5768,
+      "forks": 765,
+      "language": "Swift",
+      "pushed_at": "2026-08-13T09:09:49Z",
+      "updated_at": "2026-08-13T08:13:29Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1954,
+      "forks": 143,
+      "language": "Dart",
+      "pushed_at": "2026-08-13T07:38:29Z",
+      "updated_at": "2026-08-13T08:16:35Z"
+    },
+    {
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1923,
+      "forks": 100,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-13T08:06:57Z",
+      "updated_at": "2026-08-13T08:05:37Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1798,
-      "forks": 89,
+      "stars": 1804,
+      "forks": 90,
       "language": "C#",
-      "pushed_at": "2026-08-13T05:30:54Z",
-      "updated_at": "2026-08-13T05:30:47Z"
-    },
-    {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1725,
-      "forks": 109,
-      "language": "Rust",
-      "pushed_at": "2026-08-13T03:57:51Z",
-      "updated_at": "2026-08-13T03:57:55Z"
-    },
-    {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1451,
-      "forks": 83,
-      "language": "Dart",
-      "pushed_at": "2026-08-13T02:52:55Z",
-      "updated_at": "2026-08-13T04:57:04Z"
+      "pushed_at": "2026-08-13T08:51:08Z",
+      "updated_at": "2026-08-13T09:04:27Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1071,
+      "stars": 1072,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-13T05:30:20Z",
-      "updated_at": "2026-08-13T05:30:50Z"
+      "pushed_at": "2026-08-13T08:11:15Z",
+      "updated_at": "2026-08-13T08:09:01Z"
     },
     {
-      "id": 1183931176,
-      "full_name": "ifer47/markeron",
-      "html_url": "https://github.com/ifer47/markeron",
-      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
-      "stars": 880,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-13T05:20:58Z",
-      "updated_at": "2026-08-13T05:21:22Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 320,
+      "forks": 25,
+      "language": "Shell",
+      "pushed_at": "2026-08-13T07:22:40Z",
+      "updated_at": "2026-08-13T07:22:44Z"
     },
     {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 260,
-      "forks": 26,
-      "language": "Python",
-      "pushed_at": "2026-08-13T02:24:13Z",
-      "updated_at": "2026-08-13T02:24:17Z"
+      "id": 1120438074,
+      "full_name": "kaima2022/Health-reminder",
+      "html_url": "https://github.com/kaima2022/Health-reminder",
+      "description": "This is a high-performance desktop application developed using Rust and Tauri, designed to help you stay focused on your work while scientifically managing sedentary time, hydration, and eye rest through intelligent task scheduling and multi-dimensional reminders.一款基于 Rust 与 Tauri 开发的高性能桌面应用，旨在通过智能化的任务排程与多维提醒，帮助你在专注工作的同时，科学地进行久坐、补水与用眼休息。",
+      "stars": 256,
+      "forks": 19,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-13T08:45:02Z",
+      "updated_at": "2026-08-13T08:45:34Z"
     },
     {
       "id": 1133241492,
@@ -125,8 +136,8 @@
       "stars": 220,
       "forks": 41,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T04:49:33Z",
-      "updated_at": "2026-08-13T03:11:51Z"
+      "pushed_at": "2026-08-13T08:57:56Z",
+      "updated_at": "2026-08-13T08:49:25Z"
     },
     {
       "id": 1283323996,
@@ -136,8 +147,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-13T04:05:11Z",
-      "updated_at": "2026-08-13T04:05:15Z"
+      "pushed_at": "2026-08-13T08:15:27Z",
+      "updated_at": "2026-08-13T08:16:17Z"
     },
     {
       "id": 1283327964,
@@ -147,30 +158,19 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-13T04:51:28Z",
-      "updated_at": "2026-08-13T04:51:31Z"
+      "pushed_at": "2026-08-13T08:21:48Z",
+      "updated_at": "2026-08-13T08:22:03Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 112,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-13T04:37:22Z",
-      "updated_at": "2026-08-13T04:37:23Z"
-    },
-    {
-      "id": 1291948090,
-      "full_name": "runpantheon/ltui",
-      "html_url": "https://github.com/runpantheon/ltui",
-      "description": "◐ A fast, beautiful TUI for Linear — status-grouped tickets, instant startup, full keyboard + mouse control",
-      "stars": 100,
-      "forks": 2,
-      "language": "Python",
-      "pushed_at": "2026-08-13T05:02:24Z",
-      "updated_at": "2026-08-13T05:02:34Z"
+      "id": 1174381781,
+      "full_name": "eljulians/skillfile",
+      "html_url": "https://github.com/eljulians/skillfile",
+      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
+      "stars": 138,
+      "forks": 29,
+      "language": "Rust",
+      "pushed_at": "2026-08-13T07:41:05Z",
+      "updated_at": "2026-08-13T07:41:21Z"
     }
   ]
 }
