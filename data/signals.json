@@ -8,81 +8,70 @@
   "total_found": 1031,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 129524,
-      "forks": 14831,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-13T15:55:10Z",
-      "updated_at": "2026-08-13T16:53:21Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44609,
-      "forks": 2813,
-      "language": "C#",
-      "pushed_at": "2026-08-13T16:47:59Z",
-      "updated_at": "2026-08-13T16:48:26Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27220,
-      "forks": 2421,
-      "language": "Go",
-      "pushed_at": "2026-08-13T16:18:51Z",
-      "updated_at": "2026-08-13T16:18:56Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8893,
-      "forks": 266,
-      "language": "C++",
-      "pushed_at": "2026-08-13T16:44:41Z",
-      "updated_at": "2026-08-13T16:31:45Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5886,
-      "forks": 931,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-13T15:40:09Z",
-      "updated_at": "2026-08-13T15:47:57Z"
+      "id": 3868463,
+      "full_name": "jrnl-org/jrnl",
+      "html_url": "https://github.com/jrnl-org/jrnl",
+      "description": "Collect your thoughts and notes without leaving the command line.",
+      "stars": 7291,
+      "forks": 563,
+      "language": "Python",
+      "pushed_at": "2026-08-13T19:56:33Z",
+      "updated_at": "2026-08-13T20:32:53Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5768,
+      "stars": 5769,
       "forks": 766,
       "language": "Swift",
-      "pushed_at": "2026-08-13T16:36:21Z",
-      "updated_at": "2026-08-13T16:36:25Z"
+      "pushed_at": "2026-08-13T20:16:09Z",
+      "updated_at": "2026-08-13T19:43:35Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4316,
-      "forks": 861,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3653,
+      "forks": 254,
+      "language": "Python",
+      "pushed_at": "2026-08-13T19:24:38Z",
+      "updated_at": "2026-08-13T19:24:41Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 2712,
+      "forks": 258,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T16:28:21Z",
-      "updated_at": "2026-08-13T16:25:47Z"
+      "pushed_at": "2026-08-13T20:27:52Z",
+      "updated_at": "2026-08-13T19:41:51Z"
+    },
+    {
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2308,
+      "forks": 96,
+      "language": "Swift",
+      "pushed_at": "2026-08-13T20:36:57Z",
+      "updated_at": "2026-08-13T20:37:18Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1920,
+      "forks": 133,
+      "language": "Go",
+      "pushed_at": "2026-08-13T20:18:14Z",
+      "updated_at": "2026-08-13T19:32:45Z"
     },
     {
       "id": 1111978380,
@@ -92,41 +81,30 @@
       "stars": 1659,
       "forks": 96,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T16:31:44Z",
-      "updated_at": "2026-08-13T16:13:27Z"
+      "pushed_at": "2026-08-13T19:23:25Z",
+      "updated_at": "2026-08-13T19:24:10Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 946,
-      "forks": 52,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-13T16:29:17Z",
-      "updated_at": "2026-08-13T16:29:21Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1074,
+      "forks": 39,
+      "language": "Rust",
+      "pushed_at": "2026-08-13T20:14:24Z",
+      "updated_at": "2026-08-13T20:14:38Z"
     },
     {
       "id": 591995344,
       "full_name": "rush86999/atom",
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 825,
+      "stars": 826,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-13T16:30:40Z",
-      "updated_at": "2026-08-13T16:30:47Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 576,
-      "forks": 46,
-      "language": "Rust",
-      "pushed_at": "2026-08-13T15:45:11Z",
-      "updated_at": "2026-08-13T15:38:32Z"
+      "pushed_at": "2026-08-13T20:27:17Z",
+      "updated_at": "2026-08-13T20:27:22Z"
     },
     {
       "id": 49612213,
@@ -136,30 +114,52 @@
       "stars": 565,
       "forks": 71,
       "language": "C#",
-      "pushed_at": "2026-08-13T16:31:06Z",
-      "updated_at": "2026-08-13T15:43:04Z"
+      "pushed_at": "2026-08-13T20:06:22Z",
+      "updated_at": "2026-08-13T20:11:57Z"
     },
     {
       "id": 1142482827,
       "full_name": "davekilleen/Dex",
       "html_url": "https://github.com/davekilleen/Dex",
       "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 466,
+      "stars": 467,
       "forks": 129,
       "language": "Python",
-      "pushed_at": "2026-08-13T16:51:04Z",
-      "updated_at": "2026-08-13T16:47:07Z"
+      "pushed_at": "2026-08-13T20:39:23Z",
+      "updated_at": "2026-08-13T20:39:35Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 415,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-08-13T19:51:52Z",
+      "updated_at": "2026-08-13T19:49:10Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 320,
+      "forks": 26,
+      "language": "Shell",
+      "pushed_at": "2026-08-13T19:41:51Z",
+      "updated_at": "2026-08-13T19:41:55Z"
     },
     {
       "id": 1177055450,
       "full_name": "PM-Shawn/Abu-Cowork",
       "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
       "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 279,
+      "stars": 280,
       "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T16:39:34Z",
-      "updated_at": "2026-08-13T16:37:56Z"
+      "pushed_at": "2026-08-13T20:38:09Z",
+      "updated_at": "2026-08-13T20:01:21Z"
     },
     {
       "id": 1309395119,
@@ -169,8 +169,8 @@
       "stars": 255,
       "forks": 15,
       "language": "Rust",
-      "pushed_at": "2026-08-13T16:09:48Z",
-      "updated_at": "2026-08-13T16:10:01Z"
+      "pushed_at": "2026-08-13T20:15:03Z",
+      "updated_at": "2026-08-13T20:15:09Z"
     }
   ]
 }
