@@ -8,59 +8,81 @@
   "total_found": 1029,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 129454,
-      "forks": 14835,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17192,
+      "forks": 1707,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T01:35:23Z",
-      "updated_at": "2026-08-13T01:23:51Z"
+      "pushed_at": "2026-08-13T05:34:57Z",
+      "updated_at": "2026-08-13T05:13:18Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 75925,
-      "forks": 4775,
-      "language": "Rust",
-      "pushed_at": "2026-08-13T00:14:17Z",
-      "updated_at": "2026-08-13T01:25:42Z"
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14400,
+      "forks": 977,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-13T03:36:15Z",
+      "updated_at": "2026-08-13T04:21:43Z"
     },
     {
-      "id": 49516849,
-      "full_name": "xwmx/nb",
-      "html_url": "https://github.com/xwmx/nb",
-      "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
-      "stars": 8352,
-      "forks": 253,
-      "language": "Shell",
-      "pushed_at": "2026-08-13T00:01:40Z",
-      "updated_at": "2026-08-12T23:57:24Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5768,
-      "forks": 765,
-      "language": "Swift",
-      "pushed_at": "2026-08-13T01:31:26Z",
-      "updated_at": "2026-08-13T01:02:04Z"
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5881,
+      "forks": 930,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-13T03:34:51Z",
+      "updated_at": "2026-08-13T04:29:59Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3642,
-      "forks": 253,
+      "stars": 3643,
+      "forks": 254,
       "language": "Python",
-      "pushed_at": "2026-08-13T00:07:46Z",
-      "updated_at": "2026-08-13T00:57:44Z"
+      "pushed_at": "2026-08-13T04:55:37Z",
+      "updated_at": "2026-08-13T05:35:36Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1798,
+      "forks": 89,
+      "language": "C#",
+      "pushed_at": "2026-08-13T05:30:54Z",
+      "updated_at": "2026-08-13T05:30:47Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1725,
+      "forks": 109,
+      "language": "Rust",
+      "pushed_at": "2026-08-13T03:57:51Z",
+      "updated_at": "2026-08-13T03:57:55Z"
+    },
+    {
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1451,
+      "forks": 83,
+      "language": "Dart",
+      "pushed_at": "2026-08-13T02:52:55Z",
+      "updated_at": "2026-08-13T04:57:04Z"
     },
     {
       "id": 1148683593,
@@ -70,8 +92,8 @@
       "stars": 1071,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-13T01:46:49Z",
-      "updated_at": "2026-08-13T01:46:53Z"
+      "pushed_at": "2026-08-13T05:30:20Z",
+      "updated_at": "2026-08-13T05:30:50Z"
     },
     {
       "id": 1183931176,
@@ -81,96 +103,74 @@
       "stars": 880,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T01:48:07Z",
-      "updated_at": "2026-08-13T01:48:11Z"
+      "pushed_at": "2026-08-13T05:20:58Z",
+      "updated_at": "2026-08-13T05:21:22Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 825,
-      "forks": 90,
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 260,
+      "forks": 26,
       "language": "Python",
-      "pushed_at": "2026-08-13T00:55:53Z",
-      "updated_at": "2026-08-13T00:55:57Z"
+      "pushed_at": "2026-08-13T02:24:13Z",
+      "updated_at": "2026-08-13T02:24:17Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 800,
-      "forks": 67,
-      "language": "Swift",
-      "pushed_at": "2026-08-13T00:18:42Z",
-      "updated_at": "2026-08-13T01:34:14Z"
-    },
-    {
-      "id": 1258788077,
-      "full_name": "coreyhaines31/makerskills",
-      "html_url": "https://github.com/coreyhaines31/makerskills",
-      "description": "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.",
-      "stars": 563,
-      "forks": 46,
-      "language": "Unknown",
-      "pushed_at": "2026-08-12T23:59:42Z",
-      "updated_at": "2026-08-12T23:59:33Z"
-    },
-    {
-      "id": 1198068829,
-      "full_name": "MioMioOS/MioIsland",
-      "html_url": "https://github.com/MioMioOS/MioIsland",
-      "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
-      "stars": 526,
-      "forks": 66,
-      "language": "Swift",
-      "pushed_at": "2026-08-13T01:05:51Z",
-      "updated_at": "2026-08-13T01:05:56Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 465,
-      "forks": 129,
-      "language": "Python",
-      "pushed_at": "2026-08-13T01:10:12Z",
-      "updated_at": "2026-08-13T01:03:07Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local-first issue tracker - distributed and  backed by Git",
-      "stars": 329,
-      "forks": 12,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 220,
+      "forks": 41,
       "language": "TypeScript",
-      "pushed_at": "2026-08-12T23:57:16Z",
-      "updated_at": "2026-08-12T23:54:41Z"
+      "pushed_at": "2026-08-13T04:49:33Z",
+      "updated_at": "2026-08-13T03:11:51Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 320,
-      "forks": 25,
-      "language": "Shell",
-      "pushed_at": "2026-08-13T01:29:22Z",
-      "updated_at": "2026-08-13T01:29:26Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-13T04:05:11Z",
+      "updated_at": "2026-08-13T04:05:15Z"
     },
     {
-      "id": 1073368386,
-      "full_name": "kanban-rs/kanban",
-      "html_url": "https://github.com/kanban-rs/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 155,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-08-12T23:49:49Z",
-      "updated_at": "2026-08-12T23:49:51Z"
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-13T04:51:28Z",
+      "updated_at": "2026-08-13T04:51:31Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 112,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-13T04:37:22Z",
+      "updated_at": "2026-08-13T04:37:23Z"
+    },
+    {
+      "id": 1291948090,
+      "full_name": "runpantheon/ltui",
+      "html_url": "https://github.com/runpantheon/ltui",
+      "description": "◐ A fast, beautiful TUI for Linear — status-grouped tickets, instant startup, full keyboard + mouse control",
+      "stars": 100,
+      "forks": 2,
+      "language": "Python",
+      "pushed_at": "2026-08-13T05:02:24Z",
+      "updated_at": "2026-08-13T05:02:34Z"
     }
   ]
 }
