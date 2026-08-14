@@ -5,73 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1031,
+  "total_found": 1032,
   "items": [
     {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44608,
-      "forks": 2814,
+      "stars": 44614,
+      "forks": 2815,
       "language": "C#",
-      "pushed_at": "2026-08-13T23:16:54Z",
-      "updated_at": "2026-08-13T23:17:19Z"
+      "pushed_at": "2026-08-14T04:25:12Z",
+      "updated_at": "2026-08-14T05:28:47Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41303,
-      "forks": 984,
-      "language": "Rust",
-      "pushed_at": "2026-08-14T01:46:06Z",
-      "updated_at": "2026-08-14T01:46:08Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27219,
+      "forks": 2423,
+      "language": "Go",
+      "pushed_at": "2026-08-14T05:09:00Z",
+      "updated_at": "2026-08-14T05:09:10Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26180,
-      "forks": 1924,
-      "language": "Vue",
-      "pushed_at": "2026-08-13T23:45:20Z",
-      "updated_at": "2026-08-14T01:39:02Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5578,
-      "forks": 323,
-      "language": "Vala",
-      "pushed_at": "2026-08-14T00:33:01Z",
-      "updated_at": "2026-08-14T00:01:53Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5477,
-      "forks": 644,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-14T01:47:15Z",
-      "updated_at": "2026-08-14T01:47:21Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4319,
-      "forks": 863,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14405,
+      "forks": 978,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T23:06:45Z",
-      "updated_at": "2026-08-14T01:36:33Z"
+      "pushed_at": "2026-08-14T03:57:56Z",
+      "updated_at": "2026-08-14T03:57:58Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5887,
+      "forks": 932,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-14T04:42:38Z",
+      "updated_at": "2026-08-14T04:14:38Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2466,
+      "forks": 98,
+      "language": "Swift",
+      "pushed_at": "2026-08-14T04:39:47Z",
+      "updated_at": "2026-08-14T04:39:59Z"
     },
     {
       "id": 257400448,
@@ -81,19 +70,19 @@
       "stars": 1920,
       "forks": 133,
       "language": "Go",
-      "pushed_at": "2026-08-13T23:05:06Z",
-      "updated_at": "2026-08-13T23:00:04Z"
+      "pushed_at": "2026-08-14T04:20:23Z",
+      "updated_at": "2026-08-14T04:15:36Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1662,
+      "stars": 1664,
       "forks": 96,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T00:20:30Z",
-      "updated_at": "2026-08-14T00:25:06Z"
+      "pushed_at": "2026-08-14T05:28:16Z",
+      "updated_at": "2026-08-14T05:28:22Z"
     },
     {
       "id": 1148683593,
@@ -103,8 +92,19 @@
       "stars": 1074,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-14T01:46:32Z",
-      "updated_at": "2026-08-14T01:46:37Z"
+      "pushed_at": "2026-08-14T04:32:23Z",
+      "updated_at": "2026-08-14T04:32:36Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 947,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-14T04:49:19Z",
+      "updated_at": "2026-08-14T04:49:25Z"
     },
     {
       "id": 591995344,
@@ -114,30 +114,30 @@
       "stars": 826,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-14T01:19:06Z",
-      "updated_at": "2026-08-14T01:19:11Z"
+      "pushed_at": "2026-08-14T04:11:21Z",
+      "updated_at": "2026-08-14T04:11:32Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 320,
-      "forks": 26,
-      "language": "Shell",
-      "pushed_at": "2026-08-14T01:29:03Z",
-      "updated_at": "2026-08-14T01:29:17Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 238,
-      "forks": 12,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 578,
+      "forks": 46,
       "language": "Rust",
-      "pushed_at": "2026-08-14T01:26:15Z",
-      "updated_at": "2026-08-14T01:26:21Z"
+      "pushed_at": "2026-08-14T04:46:26Z",
+      "updated_at": "2026-08-14T04:06:57Z"
+    },
+    {
+      "id": 1073368386,
+      "full_name": "kanban-rs/kanban",
+      "html_url": "https://github.com/kanban-rs/kanban",
+      "description": "Terminal based project management solution",
+      "stars": 155,
+      "forks": 9,
+      "language": "Rust",
+      "pushed_at": "2026-08-14T05:33:53Z",
+      "updated_at": "2026-08-14T05:15:03Z"
     },
     {
       "id": 1283323996,
@@ -147,8 +147,8 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-14T01:23:52Z",
-      "updated_at": "2026-08-14T01:23:56Z"
+      "pushed_at": "2026-08-14T04:01:39Z",
+      "updated_at": "2026-08-14T04:01:51Z"
     },
     {
       "id": 1283327964,
@@ -158,8 +158,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-13T23:42:01Z",
-      "updated_at": "2026-08-13T23:42:05Z"
+      "pushed_at": "2026-08-14T04:48:48Z",
+      "updated_at": "2026-08-14T04:48:52Z"
     },
     {
       "id": 1190641281,
@@ -169,8 +169,8 @@
       "stars": 128,
       "forks": 18,
       "language": "Kotlin",
-      "pushed_at": "2026-08-14T01:48:04Z",
-      "updated_at": "2026-08-14T01:42:18Z"
+      "pushed_at": "2026-08-14T03:54:19Z",
+      "updated_at": "2026-08-14T03:54:23Z"
     }
   ]
 }
