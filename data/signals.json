@@ -5,18 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1033,
+  "total_found": 1034,
   "items": [
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27219,
+      "forks": 2423,
+      "language": "Go",
+      "pushed_at": "2026-08-14T12:14:56Z",
+      "updated_at": "2026-08-14T11:32:34Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21340,
+      "forks": 1946,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-14T11:59:49Z",
+      "updated_at": "2026-08-14T12:09:26Z"
+    },
+    {
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 14422,
+      "forks": 1243,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-14T10:54:43Z",
+      "updated_at": "2026-08-14T12:34:22Z"
+    },
     {
       "id": 353775942,
       "full_name": "streetwriters/notesnook",
       "html_url": "https://github.com/streetwriters/notesnook",
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14406,
+      "stars": 14408,
       "forks": 979,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T07:34:11Z",
-      "updated_at": "2026-08-14T07:47:38Z"
+      "pushed_at": "2026-08-14T11:39:58Z",
+      "updated_at": "2026-08-14T11:42:57Z"
     },
     {
       "id": 665613753,
@@ -24,65 +57,76 @@
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
       "stars": 11992,
-      "forks": 1488,
+      "forks": 1489,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T07:06:59Z",
-      "updated_at": "2026-08-14T07:07:31Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8898,
-      "forks": 266,
-      "language": "C++",
-      "pushed_at": "2026-08-14T08:03:15Z",
-      "updated_at": "2026-08-14T08:56:16Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6497,
-      "forks": 390,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-14T08:30:13Z",
-      "updated_at": "2026-08-14T08:44:01Z"
+      "pushed_at": "2026-08-14T12:13:39Z",
+      "updated_at": "2026-08-14T12:13:50Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5889,
+      "stars": 5888,
       "forks": 934,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T09:02:28Z",
-      "updated_at": "2026-08-14T08:16:52Z"
+      "pushed_at": "2026-08-14T12:17:13Z",
+      "updated_at": "2026-08-14T12:24:18Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5769,
-      "forks": 766,
+      "id": 307192103,
+      "full_name": "swiftbar/SwiftBar",
+      "html_url": "https://github.com/swiftbar/SwiftBar",
+      "description": "Powerful macOS menu bar customization tool",
+      "stars": 4401,
+      "forks": 133,
       "language": "Swift",
-      "pushed_at": "2026-08-14T08:49:39Z",
-      "updated_at": "2026-08-14T08:47:07Z"
+      "pushed_at": "2026-08-14T12:41:02Z",
+      "updated_at": "2026-08-14T12:59:24Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1729,
+      "forks": 109,
+      "language": "Rust",
+      "pushed_at": "2026-08-14T10:19:43Z",
+      "updated_at": "2026-08-14T10:19:54Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1666,
+      "forks": 96,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-14T12:19:58Z",
+      "updated_at": "2026-08-14T12:20:04Z"
+    },
+    {
+      "id": 331378904,
+      "full_name": "gioxx/MarvellousSuspender",
+      "html_url": "https://github.com/gioxx/MarvellousSuspender",
+      "description": "A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.",
+      "stars": 1375,
+      "forks": 140,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-14T13:01:17Z",
+      "updated_at": "2026-08-14T12:57:57Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1075,
+      "stars": 1076,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-14T08:50:54Z",
-      "updated_at": "2026-08-14T08:51:05Z"
+      "pushed_at": "2026-08-14T12:56:51Z",
+      "updated_at": "2026-08-14T12:57:58Z"
     },
     {
       "id": 1125258937,
@@ -92,30 +136,19 @@
       "stars": 948,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T07:04:26Z",
-      "updated_at": "2026-08-14T07:32:20Z"
+      "pushed_at": "2026-08-14T12:47:22Z",
+      "updated_at": "2026-08-14T12:45:29Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 577,
-      "forks": 46,
-      "language": "Rust",
-      "pushed_at": "2026-08-14T08:27:31Z",
-      "updated_at": "2026-08-14T08:23:21Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 467,
-      "forks": 129,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 826,
+      "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-14T09:03:49Z",
-      "updated_at": "2026-08-14T09:01:19Z"
+      "pushed_at": "2026-08-14T12:59:54Z",
+      "updated_at": "2026-08-14T13:00:58Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +158,19 @@
       "stars": 320,
       "forks": 26,
       "language": "Shell",
-      "pushed_at": "2026-08-14T07:19:48Z",
-      "updated_at": "2026-08-14T07:20:12Z"
+      "pushed_at": "2026-08-14T12:56:44Z",
+      "updated_at": "2026-08-14T12:58:20Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 303,
-      "forks": 20,
-      "language": "C#",
-      "pushed_at": "2026-08-14T07:55:34Z",
-      "updated_at": "2026-08-14T08:48:30Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 238,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-08-14T07:58:48Z",
-      "updated_at": "2026-08-14T07:58:59Z"
-    },
-    {
-      "id": 1283466765,
-      "full_name": "Licoy/codex-runway",
-      "html_url": "https://github.com/Licoy/codex-runway",
-      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 158,
-      "forks": 6,
-      "language": "Swift",
-      "pushed_at": "2026-08-14T08:06:27Z",
-      "updated_at": "2026-08-14T08:06:38Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
+      "stars": 241,
+      "forks": 11,
       "language": "HTML",
-      "pushed_at": "2026-08-14T08:10:25Z",
-      "updated_at": "2026-08-14T08:10:44Z"
+      "pushed_at": "2026-08-14T12:50:12Z",
+      "updated_at": "2026-08-14T12:56:33Z"
     }
   ]
 }
