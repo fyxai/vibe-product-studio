@@ -5,117 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1034,
+  "total_found": 1035,
   "items": [
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27219,
+      "stars": 27220,
       "forks": 2423,
       "language": "Go",
-      "pushed_at": "2026-08-14T12:14:56Z",
-      "updated_at": "2026-08-14T11:32:34Z"
+      "pushed_at": "2026-08-14T16:29:44Z",
+      "updated_at": "2026-08-14T16:30:59Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21340,
+      "stars": 21350,
       "forks": 1946,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T11:59:49Z",
-      "updated_at": "2026-08-14T12:09:26Z"
+      "pushed_at": "2026-08-14T16:41:08Z",
+      "updated_at": "2026-08-14T16:30:42Z"
     },
     {
-      "id": 810364325,
-      "full_name": "plait-board/drawnix",
-      "html_url": "https://github.com/plait-board/drawnix",
-      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-      "stars": 14422,
-      "forks": 1243,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6120,
+      "forks": 580,
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T10:54:43Z",
-      "updated_at": "2026-08-14T12:34:22Z"
+      "pushed_at": "2026-08-14T16:49:21Z",
+      "updated_at": "2026-08-14T16:49:49Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14408,
-      "forks": 979,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-14T11:39:58Z",
-      "updated_at": "2026-08-14T11:42:57Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 11992,
-      "forks": 1489,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-14T12:13:39Z",
-      "updated_at": "2026-08-14T12:13:50Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5888,
-      "forks": 934,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-14T12:17:13Z",
-      "updated_at": "2026-08-14T12:24:18Z"
-    },
-    {
-      "id": 307192103,
-      "full_name": "swiftbar/SwiftBar",
-      "html_url": "https://github.com/swiftbar/SwiftBar",
-      "description": "Powerful macOS menu bar customization tool",
-      "stars": 4401,
-      "forks": 133,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5769,
+      "forks": 766,
       "language": "Swift",
-      "pushed_at": "2026-08-14T12:41:02Z",
-      "updated_at": "2026-08-14T12:59:24Z"
+      "pushed_at": "2026-08-14T16:49:49Z",
+      "updated_at": "2026-08-14T16:25:06Z"
     },
     {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1729,
-      "forks": 109,
-      "language": "Rust",
-      "pushed_at": "2026-08-14T10:19:43Z",
-      "updated_at": "2026-08-14T10:19:54Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5476,
+      "forks": 645,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-14T16:14:00Z",
+      "updated_at": "2026-08-14T16:12:47Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1666,
-      "forks": 96,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-14T12:19:58Z",
-      "updated_at": "2026-08-14T12:20:04Z"
+      "id": 262013713,
+      "full_name": "leits/MeetingBar",
+      "html_url": "https://github.com/leits/MeetingBar",
+      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+      "stars": 5302,
+      "forks": 288,
+      "language": "Swift",
+      "pushed_at": "2026-08-14T16:22:39Z",
+      "updated_at": "2026-08-14T16:23:58Z"
     },
     {
-      "id": 331378904,
-      "full_name": "gioxx/MarvellousSuspender",
-      "html_url": "https://github.com/gioxx/MarvellousSuspender",
-      "description": "A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.",
-      "stars": 1375,
-      "forks": 140,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-14T13:01:17Z",
-      "updated_at": "2026-08-14T12:57:57Z"
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1132,
+      "forks": 45,
+      "language": "C++",
+      "pushed_at": "2026-08-14T16:09:45Z",
+      "updated_at": "2026-08-14T16:10:27Z"
     },
     {
       "id": 1148683593,
@@ -125,19 +92,19 @@
       "stars": 1076,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-14T12:56:51Z",
-      "updated_at": "2026-08-14T12:57:58Z"
+      "pushed_at": "2026-08-14T16:49:44Z",
+      "updated_at": "2026-08-14T16:49:56Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 948,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-14T12:47:22Z",
-      "updated_at": "2026-08-14T12:45:29Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
+      "stars": 845,
+      "forks": 43,
+      "language": "Java",
+      "pushed_at": "2026-08-14T16:32:34Z",
+      "updated_at": "2026-08-14T16:24:16Z"
     },
     {
       "id": 591995344,
@@ -147,30 +114,63 @@
       "stars": 826,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-14T12:59:54Z",
-      "updated_at": "2026-08-14T13:00:58Z"
+      "pushed_at": "2026-08-14T16:15:49Z",
+      "updated_at": "2026-08-14T16:15:55Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 320,
-      "forks": 26,
-      "language": "Shell",
-      "pushed_at": "2026-08-14T12:56:44Z",
-      "updated_at": "2026-08-14T12:58:20Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 579,
+      "forks": 46,
+      "language": "Rust",
+      "pushed_at": "2026-08-14T16:38:46Z",
+      "updated_at": "2026-08-14T16:38:46Z"
     },
     {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
-      "stars": 241,
-      "forks": 11,
-      "language": "HTML",
-      "pushed_at": "2026-08-14T12:50:12Z",
-      "updated_at": "2026-08-14T12:56:33Z"
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 467,
+      "forks": 129,
+      "language": "Python",
+      "pushed_at": "2026-08-14T16:04:16Z",
+      "updated_at": "2026-08-14T16:05:50Z"
+    },
+    {
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 374,
+      "forks": 39,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-14T16:13:50Z",
+      "updated_at": "2026-08-14T16:14:32Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 266,
+      "forks": 32,
+      "language": "Python",
+      "pushed_at": "2026-08-14T16:47:47Z",
+      "updated_at": "2026-08-14T16:14:29Z"
+    },
+    {
+      "id": 346456845,
+      "full_name": "LinwoodDev/Flow",
+      "html_url": "https://github.com/LinwoodDev/Flow",
+      "description": "⌚ Feature rich event, group and time managment system",
+      "stars": 153,
+      "forks": 13,
+      "language": "Dart",
+      "pushed_at": "2026-08-14T16:30:18Z",
+      "updated_at": "2026-08-14T16:20:25Z"
     }
   ]
 }
