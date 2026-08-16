@@ -5,51 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1036,
+  "total_found": 1037,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39146,
-      "forks": 3890,
-      "language": "C#",
-      "pushed_at": "2026-08-15T22:22:32Z",
-      "updated_at": "2026-08-16T00:04:45Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 240323,
+      "forks": 36468,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-16T02:12:46Z",
+      "updated_at": "2026-08-16T04:26:25Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14797,
+      "forks": 962,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-16T04:23:44Z",
+      "updated_at": "2026-08-16T04:23:50Z"
+    },
+    {
+      "id": 810364325,
+      "full_name": "plait-board/drawnix",
+      "html_url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "stars": 14470,
+      "forks": 1243,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-16T03:52:22Z",
+      "updated_at": "2026-08-16T04:15:26Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12007,
+      "stars": 12008,
       "forks": 1488,
       "language": "TypeScript",
-      "pushed_at": "2026-08-16T01:07:01Z",
-      "updated_at": "2026-08-16T00:57:10Z"
+      "pushed_at": "2026-08-16T01:42:45Z",
+      "updated_at": "2026-08-16T02:42:42Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4326,
-      "forks": 863,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6118,
+      "forks": 581,
       "language": "TypeScript",
-      "pushed_at": "2026-08-15T21:32:47Z",
-      "updated_at": "2026-08-15T23:19:19Z"
+      "pushed_at": "2026-08-16T03:20:00Z",
+      "updated_at": "2026-08-16T03:22:58Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2477,
-      "forks": 101,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5769,
+      "forks": 767,
       "language": "Swift",
-      "pushed_at": "2026-08-15T23:47:01Z",
-      "updated_at": "2026-08-15T23:47:05Z"
+      "pushed_at": "2026-08-16T04:16:04Z",
+      "updated_at": "2026-08-16T04:16:13Z"
+    },
+    {
+      "id": 1116772709,
+      "full_name": "hanebox/ekphos",
+      "html_url": "https://github.com/hanebox/ekphos",
+      "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian",
+      "stars": 976,
+      "forks": 40,
+      "language": "Rust",
+      "pushed_at": "2026-08-16T01:53:50Z",
+      "updated_at": "2026-08-16T01:53:55Z"
     },
     {
       "id": 1134844685,
@@ -59,96 +92,52 @@
       "stars": 967,
       "forks": 111,
       "language": "JavaScript",
-      "pushed_at": "2026-08-16T00:38:30Z",
-      "updated_at": "2026-08-16T00:55:25Z"
+      "pushed_at": "2026-08-16T04:29:43Z",
+      "updated_at": "2026-08-16T02:18:58Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 807,
-      "forks": 68,
-      "language": "Swift",
-      "pushed_at": "2026-08-15T23:25:24Z",
-      "updated_at": "2026-08-15T23:25:29Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 724,
-      "forks": 117,
-      "language": "Go",
-      "pushed_at": "2026-08-15T22:51:13Z",
-      "updated_at": "2026-08-15T22:50:46Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 543,
-      "forks": 94,
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 598,
+      "forks": 64,
       "language": "TypeScript",
-      "pushed_at": "2026-08-16T01:01:01Z",
-      "updated_at": "2026-08-16T00:50:12Z"
+      "pushed_at": "2026-08-16T02:32:15Z",
+      "updated_at": "2026-08-16T02:47:45Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 390,
-      "forks": 37,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-15T21:47:38Z",
-      "updated_at": "2026-08-15T21:47:57Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 565,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-08-16T03:30:24Z",
+      "updated_at": "2026-08-16T03:30:32Z"
     },
     {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local-first issue tracker - distributed and  backed by Git",
-      "stars": 333,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-16T01:11:12Z",
-      "updated_at": "2026-08-15T23:58:09Z"
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 268,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-08-16T02:33:09Z",
+      "updated_at": "2026-08-16T02:41:32Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 26,
-      "language": "Shell",
-      "pushed_at": "2026-08-16T01:01:54Z",
-      "updated_at": "2026-08-16T01:02:02Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-16T00:39:14Z",
-      "updated_at": "2026-08-16T00:39:19Z"
-    },
-    {
-      "id": 1242368753,
-      "full_name": "kbrdn1/gwm-cli",
-      "html_url": "https://github.com/kbrdn1/gwm-cli",
-      "description": "Git worktree manager for the terminal: CLI + TUI in Rust. Creates the worktree, runs your project setup, links the issue, and shows which AI agent is working where. Single binary, no git CLI needed.",
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
       "stars": 128,
-      "forks": 5,
-      "language": "Rust",
-      "pushed_at": "2026-08-16T00:04:13Z",
-      "updated_at": "2026-08-15T23:40:10Z"
+      "forks": 19,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-16T02:24:00Z",
+      "updated_at": "2026-08-16T02:23:42Z"
     },
     {
       "id": 1283327964,
@@ -158,8 +147,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-15T23:21:10Z",
-      "updated_at": "2026-08-15T23:21:18Z"
+      "pushed_at": "2026-08-16T03:01:04Z",
+      "updated_at": "2026-08-16T03:01:20Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +158,19 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-16T00:57:00Z",
-      "updated_at": "2026-08-16T00:57:04Z"
+      "pushed_at": "2026-08-16T04:29:20Z",
+      "updated_at": "2026-08-16T04:29:26Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 113,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-16T04:28:35Z",
+      "updated_at": "2026-08-16T04:28:38Z"
     }
   ]
 }
