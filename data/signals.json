@@ -5,128 +5,128 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1041,
+  "total_found": 1043,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44639,
-      "forks": 2821,
-      "language": "C#",
-      "pushed_at": "2026-08-16T20:18:46Z",
-      "updated_at": "2026-08-16T20:19:15Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 240495,
+      "forks": 36485,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-17T00:42:27Z",
+      "updated_at": "2026-08-17T00:59:20Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 76299,
+      "forks": 4795,
+      "language": "Rust",
+      "pushed_at": "2026-08-17T01:03:41Z",
+      "updated_at": "2026-08-17T01:09:06Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39163,
+      "stars": 39165,
       "forks": 3892,
       "language": "C#",
-      "pushed_at": "2026-08-16T20:10:20Z",
-      "updated_at": "2026-08-16T20:10:48Z"
+      "pushed_at": "2026-08-17T00:52:31Z",
+      "updated_at": "2026-08-17T00:52:35Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12013,
-      "forks": 1489,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-16T20:14:18Z",
-      "updated_at": "2026-08-16T20:14:20Z"
-    },
-    {
-      "id": 89766385,
-      "full_name": "cassidoo/todometer",
-      "html_url": "https://github.com/cassidoo/todometer",
-      "description": "A meter-based to-do list",
-      "stars": 2121,
-      "forks": 305,
+      "id": 1134844685,
+      "full_name": "agent-sh/agentsys",
+      "html_url": "https://github.com/agent-sh/agentsys",
+      "description": "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "stars": 967,
+      "forks": 111,
       "language": "JavaScript",
-      "pushed_at": "2026-08-16T20:16:18Z",
-      "updated_at": "2026-08-16T20:16:38Z"
+      "pushed_at": "2026-08-17T00:39:07Z",
+      "updated_at": "2026-08-17T00:39:16Z"
     },
     {
-      "id": 925501678,
-      "full_name": "supreme-gg-gg/instagram-cli",
-      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
-      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
-      "stars": 2114,
-      "forks": 139,
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 599,
+      "forks": 64,
       "language": "TypeScript",
-      "pushed_at": "2026-08-16T19:31:45Z",
-      "updated_at": "2026-08-16T19:31:59Z"
+      "pushed_at": "2026-08-17T00:32:54Z",
+      "updated_at": "2026-08-17T00:32:58Z"
     },
     {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "A curated list of the best native macOS apps — fast, lightweight, no Electron bloat. Swift & SwiftUI apps for Mac power users, updated regularly.",
-      "stars": 1429,
-      "forks": 120,
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 565,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-08-17T01:07:53Z",
+      "updated_at": "2026-08-17T01:07:56Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 543,
+      "forks": 94,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-17T00:57:27Z",
+      "updated_at": "2026-08-17T00:53:48Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 321,
+      "forks": 26,
       "language": "Shell",
-      "pushed_at": "2026-08-16T18:57:23Z",
-      "updated_at": "2026-08-16T18:57:48Z"
+      "pushed_at": "2026-08-17T01:00:28Z",
+      "updated_at": "2026-08-17T01:00:44Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1193,
-      "forks": 127,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-16T19:32:01Z",
-      "updated_at": "2026-08-16T19:32:30Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 826,
-      "forks": 90,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 269,
+      "forks": 33,
       "language": "Python",
-      "pushed_at": "2026-08-16T19:34:05Z",
-      "updated_at": "2026-08-16T19:34:10Z"
+      "pushed_at": "2026-08-17T00:26:59Z",
+      "updated_at": "2026-08-17T00:01:58Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 731,
-      "forks": 118,
-      "language": "Go",
-      "pushed_at": "2026-08-16T20:09:12Z",
-      "updated_at": "2026-08-16T20:09:06Z"
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 213,
+      "forks": 26,
+      "language": "HTML",
+      "pushed_at": "2026-08-16T23:23:10Z",
+      "updated_at": "2026-08-16T23:23:17Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 390,
-      "forks": 39,
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 146,
+      "forks": 11,
       "language": "Kotlin",
-      "pushed_at": "2026-08-16T19:42:07Z",
-      "updated_at": "2026-08-16T19:42:16Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 329,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-16T20:00:30Z",
-      "updated_at": "2026-08-16T19:58:29Z"
+      "pushed_at": "2026-08-17T00:40:25Z",
+      "updated_at": "2026-08-17T00:40:30Z"
     },
     {
       "id": 1336222704,
@@ -136,8 +136,8 @@
       "stars": 117,
       "forks": 22,
       "language": "HTML",
-      "pushed_at": "2026-08-16T19:19:33Z",
-      "updated_at": "2026-08-16T19:19:38Z"
+      "pushed_at": "2026-08-17T01:07:54Z",
+      "updated_at": "2026-08-17T01:07:58Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +147,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-16T19:21:34Z",
-      "updated_at": "2026-08-16T19:21:59Z"
+      "pushed_at": "2026-08-16T23:20:43Z",
+      "updated_at": "2026-08-16T23:20:49Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +158,8 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-16T20:15:06Z",
-      "updated_at": "2026-08-16T20:15:30Z"
+      "pushed_at": "2026-08-17T00:55:21Z",
+      "updated_at": "2026-08-17T00:55:26Z"
     },
     {
       "id": 1140929355,
@@ -169,8 +169,8 @@
       "stars": 113,
       "forks": 8,
       "language": "JavaScript",
-      "pushed_at": "2026-08-16T20:04:18Z",
-      "updated_at": "2026-08-16T20:04:30Z"
+      "pushed_at": "2026-08-17T00:45:18Z",
+      "updated_at": "2026-08-16T23:45:52Z"
     }
   ]
 }
