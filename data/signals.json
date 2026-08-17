@@ -5,73 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1043,
+  "total_found": 1045,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 240495,
-      "forks": 36485,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-17T00:42:27Z",
-      "updated_at": "2026-08-17T00:59:20Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27228,
+      "forks": 2423,
+      "language": "Go",
+      "pushed_at": "2026-08-17T03:42:13Z",
+      "updated_at": "2026-08-17T04:06:27Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 76299,
-      "forks": 4795,
-      "language": "Rust",
-      "pushed_at": "2026-08-17T01:03:41Z",
-      "updated_at": "2026-08-17T01:09:06Z"
-    },
-    {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39165,
-      "forks": 3892,
-      "language": "C#",
-      "pushed_at": "2026-08-17T00:52:31Z",
-      "updated_at": "2026-08-17T00:52:35Z"
-    },
-    {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 967,
-      "forks": 111,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-17T00:39:07Z",
-      "updated_at": "2026-08-17T00:39:16Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 599,
-      "forks": 64,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5896,
+      "forks": 933,
       "language": "TypeScript",
-      "pushed_at": "2026-08-17T00:32:54Z",
-      "updated_at": "2026-08-17T00:32:58Z"
+      "pushed_at": "2026-08-17T03:46:54Z",
+      "updated_at": "2026-08-17T03:54:07Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 565,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-08-17T01:07:53Z",
-      "updated_at": "2026-08-17T01:07:56Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3672,
+      "forks": 259,
+      "language": "Python",
+      "pushed_at": "2026-08-17T03:22:26Z",
+      "updated_at": "2026-08-17T03:22:46Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1923,
+      "forks": 136,
+      "language": "Go",
+      "pushed_at": "2026-08-17T04:36:53Z",
+      "updated_at": "2026-08-17T04:31:51Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1687,
+      "forks": 99,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-17T04:24:44Z",
+      "updated_at": "2026-08-17T04:24:48Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1081,
+      "forks": 39,
+      "language": "Rust",
+      "pushed_at": "2026-08-17T04:33:23Z",
+      "updated_at": "2026-08-17T04:33:34Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 965,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-17T04:30:19Z",
+      "updated_at": "2026-08-17T04:19:57Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 581,
+      "forks": 46,
+      "language": "Rust",
+      "pushed_at": "2026-08-17T04:32:20Z",
+      "updated_at": "2026-08-17T04:29:54Z"
     },
     {
       "id": 549694131,
@@ -81,30 +103,41 @@
       "stars": 543,
       "forks": 94,
       "language": "TypeScript",
-      "pushed_at": "2026-08-17T00:57:27Z",
-      "updated_at": "2026-08-17T00:53:48Z"
+      "pushed_at": "2026-08-17T04:33:04Z",
+      "updated_at": "2026-08-17T04:31:51Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 26,
-      "language": "Shell",
-      "pushed_at": "2026-08-17T01:00:28Z",
-      "updated_at": "2026-08-17T01:00:44Z"
+      "id": 1255014875,
+      "full_name": "ntd4996/agentpet",
+      "html_url": "https://github.com/ntd4996/agentpet",
+      "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
+      "stars": 320,
+      "forks": 53,
+      "language": "Swift",
+      "pushed_at": "2026-08-17T03:40:54Z",
+      "updated_at": "2026-08-17T04:17:36Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 269,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-08-17T00:26:59Z",
-      "updated_at": "2026-08-17T00:01:58Z"
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-08-17T02:46:56Z",
+      "updated_at": "2026-08-17T02:47:06Z"
+    },
+    {
+      "id": 1135338086,
+      "full_name": "l06066hb/MarKing",
+      "html_url": "https://github.com/l06066hb/MarKing",
+      "description": "Marking：现代化跨平台 Markdown 编辑器 - 专业级编辑体验 + 可视化表格编辑  + 强大导出功能 | Modern cross-platform Markdown editor with professional editing, visual table editor, and powerful export | MarKing: A modern, professional cross-platform Markdown editor with stunning UI, DOCX/PDF export, and native performance.",
+      "stars": 223,
+      "forks": 15,
+      "language": "Unknown",
+      "pushed_at": "2026-08-17T04:16:53Z",
+      "updated_at": "2026-08-17T04:16:43Z"
     },
     {
       "id": 1336386025,
@@ -114,19 +147,19 @@
       "stars": 213,
       "forks": 26,
       "language": "HTML",
-      "pushed_at": "2026-08-16T23:23:10Z",
-      "updated_at": "2026-08-16T23:23:17Z"
+      "pushed_at": "2026-08-17T03:03:26Z",
+      "updated_at": "2026-08-17T03:03:41Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 146,
-      "forks": 11,
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
+      "stars": 129,
+      "forks": 20,
       "language": "Kotlin",
-      "pushed_at": "2026-08-17T00:40:25Z",
-      "updated_at": "2026-08-17T00:40:30Z"
+      "pushed_at": "2026-08-17T03:56:55Z",
+      "updated_at": "2026-08-17T03:56:58Z"
     },
     {
       "id": 1336222704,
@@ -136,41 +169,8 @@
       "stars": 117,
       "forks": 22,
       "language": "HTML",
-      "pushed_at": "2026-08-17T01:07:54Z",
-      "updated_at": "2026-08-17T01:07:58Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-16T23:20:43Z",
-      "updated_at": "2026-08-16T23:20:49Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 116,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-17T00:55:21Z",
-      "updated_at": "2026-08-17T00:55:26Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 113,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-17T00:45:18Z",
-      "updated_at": "2026-08-16T23:45:52Z"
+      "pushed_at": "2026-08-17T04:39:30Z",
+      "updated_at": "2026-08-17T03:54:15Z"
     }
   ]
 }
