@@ -5,29 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1048,
+  "total_found": 1047,
   "items": [
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27232,
+      "stars": 27234,
       "forks": 2423,
       "language": "Go",
-      "pushed_at": "2026-08-18T08:04:44Z",
-      "updated_at": "2026-08-18T08:15:00Z"
+      "pushed_at": "2026-08-18T12:27:58Z",
+      "updated_at": "2026-08-18T12:09:47Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17316,
+      "forks": 1721,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T11:28:57Z",
+      "updated_at": "2026-08-18T11:41:28Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14428,
+      "forks": 983,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T11:24:41Z",
+      "updated_at": "2026-08-18T12:38:18Z"
     },
     {
       "id": 1156137396,
       "full_name": "netease-youdao/LobsterAI",
       "html_url": "https://github.com/netease-youdao/LobsterAI",
       "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5912,
+      "stars": 5914,
       "forks": 937,
       "language": "TypeScript",
-      "pushed_at": "2026-08-18T07:04:31Z",
-      "updated_at": "2026-08-18T08:17:07Z"
+      "pushed_at": "2026-08-18T12:16:07Z",
+      "updated_at": "2026-08-18T12:23:29Z"
     },
     {
       "id": 129699403,
@@ -37,85 +59,96 @@
       "stars": 5769,
       "forks": 767,
       "language": "Swift",
-      "pushed_at": "2026-08-18T08:21:27Z",
-      "updated_at": "2026-08-18T08:19:04Z"
+      "pushed_at": "2026-08-18T12:41:04Z",
+      "updated_at": "2026-08-18T12:15:16Z"
     },
     {
       "id": 1010561139,
       "full_name": "AmintaCCCP/GithubStarsManager",
       "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3354,
+      "stars": 3362,
       "forks": 156,
       "language": "TypeScript",
-      "pushed_at": "2026-08-18T08:30:28Z",
-      "updated_at": "2026-08-18T08:32:33Z"
+      "pushed_at": "2026-08-18T12:25:07Z",
+      "updated_at": "2026-08-18T12:29:40Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1901,
+      "stars": 1910,
       "forks": 93,
       "language": "C#",
-      "pushed_at": "2026-08-18T07:33:46Z",
-      "updated_at": "2026-08-18T08:03:01Z"
+      "pushed_at": "2026-08-18T11:08:42Z",
+      "updated_at": "2026-08-18T11:58:32Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
-      "stars": 1293,
-      "forks": 231,
-      "language": "HTML",
-      "pushed_at": "2026-08-18T08:31:03Z",
-      "updated_at": "2026-08-18T07:45:56Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1088,
+      "forks": 39,
+      "language": "Rust",
+      "pushed_at": "2026-08-18T11:19:33Z",
+      "updated_at": "2026-08-18T11:23:29Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 809,
-      "forks": 69,
-      "language": "Swift",
-      "pushed_at": "2026-08-18T06:56:37Z",
-      "updated_at": "2026-08-18T08:08:24Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 827,
+      "forks": 90,
+      "language": "Python",
+      "pushed_at": "2026-08-18T12:31:37Z",
+      "updated_at": "2026-08-18T12:35:34Z"
     },
     {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Local-first issue tracker - distributed and  backed by Git",
-      "stars": 336,
-      "forks": 12,
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.",
+      "stars": 668,
+      "forks": 102,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-18T10:54:32Z",
+      "updated_at": "2026-08-18T10:53:40Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 544,
+      "forks": 95,
       "language": "TypeScript",
-      "pushed_at": "2026-08-18T06:30:58Z",
-      "updated_at": "2026-08-18T06:33:46Z"
+      "pushed_at": "2026-08-18T12:27:50Z",
+      "updated_at": "2026-08-18T12:28:29Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 26,
-      "language": "Shell",
-      "pushed_at": "2026-08-18T06:42:20Z",
-      "updated_at": "2026-08-18T06:44:04Z"
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
+      "stars": 334,
+      "forks": 78,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T12:41:06Z",
+      "updated_at": "2026-08-18T12:12:39Z"
     },
     {
-      "id": 1283466765,
-      "full_name": "Licoy/codex-runway",
-      "html_url": "https://github.com/Licoy/codex-runway",
-      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 167,
-      "forks": 6,
-      "language": "Swift",
-      "pushed_at": "2026-08-18T07:59:19Z",
-      "updated_at": "2026-08-18T08:01:27Z"
+      "id": 1221690169,
+      "full_name": "Spielewoy/multi-cli",
+      "html_url": "https://github.com/Spielewoy/multi-cli",
+      "description": "Use multiple accounts simultaneously without switching between AI coding tools.",
+      "stars": 210,
+      "forks": 15,
+      "language": "PowerShell",
+      "pushed_at": "2026-08-18T12:30:06Z",
+      "updated_at": "2026-08-18T12:30:07Z"
     },
     {
       "id": 1336386025,
@@ -125,52 +158,19 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-18T07:41:03Z",
-      "updated_at": "2026-08-18T07:42:47Z"
+      "pushed_at": "2026-08-18T11:28:49Z",
+      "updated_at": "2026-08-18T11:28:53Z"
     },
     {
-      "id": 1230547152,
-      "full_name": "Meridiona/meridian",
-      "html_url": "https://github.com/Meridiona/meridian",
-      "description": "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you.",
-      "stars": 125,
-      "forks": 8,
-      "language": "Rust",
-      "pushed_at": "2026-08-18T07:22:40Z",
-      "updated_at": "2026-08-18T08:30:54Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-18T07:38:40Z",
-      "updated_at": "2026-08-18T07:39:09Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 116,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-18T08:29:07Z",
-      "updated_at": "2026-08-18T08:31:54Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 104,
-      "forks": 3,
-      "language": "C#",
-      "pushed_at": "2026-08-18T07:13:21Z",
-      "updated_at": "2026-08-18T07:58:48Z"
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
+      "stars": 131,
+      "forks": 20,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-18T12:13:23Z",
+      "updated_at": "2026-08-18T12:14:23Z"
     }
   ]
 }
