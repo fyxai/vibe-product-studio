@@ -5,51 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1047,
+  "total_found": 1048,
   "items": [
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44659,
+      "forks": 2828,
+      "language": "C#",
+      "pushed_at": "2026-08-18T16:22:20Z",
+      "updated_at": "2026-08-18T15:52:25Z"
+    },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27234,
+      "stars": 27233,
       "forks": 2423,
       "language": "Go",
-      "pushed_at": "2026-08-18T12:27:58Z",
-      "updated_at": "2026-08-18T12:09:47Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17316,
-      "forks": 1721,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-18T11:28:57Z",
-      "updated_at": "2026-08-18T11:41:28Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14428,
-      "forks": 983,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-18T11:24:41Z",
-      "updated_at": "2026-08-18T12:38:18Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5914,
-      "forks": 937,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-18T12:16:07Z",
-      "updated_at": "2026-08-18T12:23:29Z"
+      "pushed_at": "2026-08-18T15:49:45Z",
+      "updated_at": "2026-08-18T15:52:54Z"
     },
     {
       "id": 129699403,
@@ -57,98 +35,109 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5769,
-      "forks": 767,
+      "forks": 766,
       "language": "Swift",
-      "pushed_at": "2026-08-18T12:41:04Z",
-      "updated_at": "2026-08-18T12:15:16Z"
+      "pushed_at": "2026-08-18T16:27:36Z",
+      "updated_at": "2026-08-18T16:27:57Z"
     },
     {
       "id": 1010561139,
       "full_name": "AmintaCCCP/GithubStarsManager",
       "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3362,
+      "stars": 3368,
       "forks": 156,
       "language": "TypeScript",
-      "pushed_at": "2026-08-18T12:25:07Z",
-      "updated_at": "2026-08-18T12:29:40Z"
+      "pushed_at": "2026-08-18T15:53:46Z",
+      "updated_at": "2026-08-18T15:51:10Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1910,
+      "stars": 1916,
       "forks": 93,
       "language": "C#",
-      "pushed_at": "2026-08-18T11:08:42Z",
-      "updated_at": "2026-08-18T11:58:32Z"
+      "pushed_at": "2026-08-18T15:43:33Z",
+      "updated_at": "2026-08-18T16:10:42Z"
+    },
+    {
+      "id": 494321512,
+      "full_name": "poetaman/arttime",
+      "html_url": "https://github.com/poetaman/arttime",
+      "description": "arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰",
+      "stars": 1375,
+      "forks": 26,
+      "language": "Shell",
+      "pushed_at": "2026-08-18T16:24:35Z",
+      "updated_at": "2026-08-18T16:26:03Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1088,
+      "stars": 1089,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-18T11:19:33Z",
-      "updated_at": "2026-08-18T11:23:29Z"
+      "pushed_at": "2026-08-18T16:16:32Z",
+      "updated_at": "2026-08-18T16:21:25Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 827,
-      "forks": 90,
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
+      "stars": 854,
+      "forks": 44,
+      "language": "Java",
+      "pushed_at": "2026-08-18T16:23:21Z",
+      "updated_at": "2026-08-18T16:16:59Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 606,
+      "forks": 47,
+      "language": "Rust",
+      "pushed_at": "2026-08-18T15:25:49Z",
+      "updated_at": "2026-08-18T15:45:08Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME.",
+      "stars": 251,
+      "forks": 12,
       "language": "Python",
-      "pushed_at": "2026-08-18T12:31:37Z",
-      "updated_at": "2026-08-18T12:35:34Z"
+      "pushed_at": "2026-08-18T15:20:36Z",
+      "updated_at": "2026-08-18T15:29:16Z"
     },
     {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.",
-      "stars": 668,
-      "forks": 102,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-18T10:54:32Z",
-      "updated_at": "2026-08-18T10:53:40Z"
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-08-18T16:04:43Z",
+      "updated_at": "2026-08-18T16:05:53Z"
     },
     {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 544,
-      "forks": 95,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-18T12:27:50Z",
-      "updated_at": "2026-08-18T12:28:29Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
-      "stars": 334,
-      "forks": 78,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-18T12:41:06Z",
-      "updated_at": "2026-08-18T12:12:39Z"
-    },
-    {
-      "id": 1221690169,
-      "full_name": "Spielewoy/multi-cli",
-      "html_url": "https://github.com/Spielewoy/multi-cli",
-      "description": "Use multiple accounts simultaneously without switching between AI coding tools.",
-      "stars": 210,
-      "forks": 15,
-      "language": "PowerShell",
-      "pushed_at": "2026-08-18T12:30:06Z",
-      "updated_at": "2026-08-18T12:30:07Z"
+      "id": 582366639,
+      "full_name": "Th3Un1q3/flipp_pomodoro",
+      "html_url": "https://github.com/Th3Un1q3/flipp_pomodoro",
+      "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
+      "stars": 209,
+      "forks": 14,
+      "language": "C",
+      "pushed_at": "2026-08-18T16:25:37Z",
+      "updated_at": "2026-08-18T16:28:27Z"
     },
     {
       "id": 1336386025,
@@ -158,19 +147,30 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-18T11:28:49Z",
-      "updated_at": "2026-08-18T11:28:53Z"
+      "pushed_at": "2026-08-18T15:35:08Z",
+      "updated_at": "2026-08-18T15:36:47Z"
     },
     {
-      "id": 1190641281,
-      "full_name": "ahatem/QTranslate",
-      "html_url": "https://github.com/ahatem/QTranslate",
-      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
-      "stars": 131,
-      "forks": 20,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-18T12:13:23Z",
-      "updated_at": "2026-08-18T12:14:23Z"
+      "id": 1169355653,
+      "full_name": "mobrava/PasteClip",
+      "html_url": "https://github.com/mobrava/PasteClip",
+      "description": "Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, Quick Look, and 100% local storage.",
+      "stars": 132,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-08-18T14:53:10Z",
+      "updated_at": "2026-08-18T15:00:16Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-18T15:33:09Z",
+      "updated_at": "2026-08-18T15:39:22Z"
     }
   ]
 }
