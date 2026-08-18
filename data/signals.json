@@ -5,8 +5,19 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1048,
+  "total_found": 1049,
   "items": [
+    {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 240926,
+      "forks": 36542,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-18T20:07:38Z",
+      "updated_at": "2026-08-18T20:19:36Z"
+    },
     {
       "id": 164140756,
       "full_name": "files-community/Files",
@@ -15,19 +26,19 @@
       "stars": 44659,
       "forks": 2828,
       "language": "C#",
-      "pushed_at": "2026-08-18T16:22:20Z",
-      "updated_at": "2026-08-18T15:52:25Z"
+      "pushed_at": "2026-08-18T20:07:47Z",
+      "updated_at": "2026-08-18T20:17:50Z"
     },
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27233,
-      "forks": 2423,
-      "language": "Go",
-      "pushed_at": "2026-08-18T15:49:45Z",
-      "updated_at": "2026-08-18T15:52:54Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12023,
+      "forks": 1496,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T19:32:18Z",
+      "updated_at": "2026-08-18T20:07:54Z"
     },
     {
       "id": 129699403,
@@ -37,107 +48,107 @@
       "stars": 5769,
       "forks": 766,
       "language": "Swift",
-      "pushed_at": "2026-08-18T16:27:36Z",
-      "updated_at": "2026-08-18T16:27:57Z"
+      "pushed_at": "2026-08-18T20:19:12Z",
+      "updated_at": "2026-08-18T20:20:04Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3368,
-      "forks": 156,
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 2209,
+      "forks": 183,
+      "language": "Dart",
+      "pushed_at": "2026-08-18T19:35:36Z",
+      "updated_at": "2026-08-18T19:44:57Z"
+    },
+    {
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+      "stars": 1927,
+      "forks": 100,
       "language": "TypeScript",
-      "pushed_at": "2026-08-18T15:53:46Z",
-      "updated_at": "2026-08-18T15:51:10Z"
+      "pushed_at": "2026-08-18T19:45:51Z",
+      "updated_at": "2026-08-18T19:46:38Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1916,
-      "forks": 93,
-      "language": "C#",
-      "pushed_at": "2026-08-18T15:43:33Z",
-      "updated_at": "2026-08-18T16:10:42Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1699,
+      "forks": 98,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T19:23:35Z",
+      "updated_at": "2026-08-18T19:26:27Z"
     },
     {
-      "id": 494321512,
-      "full_name": "poetaman/arttime",
-      "html_url": "https://github.com/poetaman/arttime",
-      "description": "arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰",
-      "stars": 1375,
-      "forks": 26,
-      "language": "Shell",
-      "pushed_at": "2026-08-18T16:24:35Z",
-      "updated_at": "2026-08-18T16:26:03Z"
+      "id": 831216882,
+      "full_name": "Buzzpy/Dev-Encyclopedia",
+      "html_url": "https://github.com/Buzzpy/Dev-Encyclopedia",
+      "description": "An encyclopedia for everything, Programming.",
+      "stars": 316,
+      "forks": 65,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T19:22:57Z",
+      "updated_at": "2026-08-18T19:21:14Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1089,
-      "forks": 39,
-      "language": "Rust",
-      "pushed_at": "2026-08-18T16:16:32Z",
-      "updated_at": "2026-08-18T16:21:25Z"
-    },
-    {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
-      "stars": 854,
-      "forks": 44,
-      "language": "Java",
-      "pushed_at": "2026-08-18T16:23:21Z",
-      "updated_at": "2026-08-18T16:16:59Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 606,
-      "forks": 47,
-      "language": "Rust",
-      "pushed_at": "2026-08-18T15:25:49Z",
-      "updated_at": "2026-08-18T15:45:08Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME.",
-      "stars": 251,
-      "forks": 12,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 271,
+      "forks": 33,
       "language": "Python",
-      "pushed_at": "2026-08-18T15:20:36Z",
-      "updated_at": "2026-08-18T15:29:16Z"
+      "pushed_at": "2026-08-18T20:04:09Z",
+      "updated_at": "2026-08-18T20:06:06Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 238,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
+      "stars": 241,
+      "forks": 11,
+      "language": "HTML",
+      "pushed_at": "2026-08-18T19:22:52Z",
+      "updated_at": "2026-08-18T19:25:41Z"
+    },
+    {
+      "id": 1323366961,
+      "full_name": "palamim/starboard",
+      "html_url": "https://github.com/palamim/starboard",
+      "description": "A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture",
+      "stars": 191,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-08-18T20:21:04Z",
+      "updated_at": "2026-08-18T19:37:25Z"
+    },
+    {
+      "id": 1244050587,
+      "full_name": "hasanyilmaz/operon",
+      "html_url": "https://github.com/hasanyilmaz/operon",
+      "description": "Task management system for humans and agents in Obsidian.",
+      "stars": 172,
       "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-08-18T16:04:43Z",
-      "updated_at": "2026-08-18T16:05:53Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-08-18T20:17:53Z",
+      "updated_at": "2026-08-18T20:06:19Z"
     },
     {
-      "id": 582366639,
-      "full_name": "Th3Un1q3/flipp_pomodoro",
-      "html_url": "https://github.com/Th3Un1q3/flipp_pomodoro",
-      "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
-      "stars": 209,
-      "forks": 14,
-      "language": "C",
-      "pushed_at": "2026-08-18T16:25:37Z",
-      "updated_at": "2026-08-18T16:28:27Z"
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 163,
+      "forks": 11,
+      "language": "Dart",
+      "pushed_at": "2026-08-18T20:10:45Z",
+      "updated_at": "2026-08-18T20:12:40Z"
     },
     {
       "id": 1336386025,
@@ -147,19 +158,8 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-18T15:35:08Z",
-      "updated_at": "2026-08-18T15:36:47Z"
-    },
-    {
-      "id": 1169355653,
-      "full_name": "mobrava/PasteClip",
-      "html_url": "https://github.com/mobrava/PasteClip",
-      "description": "Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, Quick Look, and 100% local storage.",
-      "stars": 132,
-      "forks": 10,
-      "language": "Swift",
-      "pushed_at": "2026-08-18T14:53:10Z",
-      "updated_at": "2026-08-18T15:00:16Z"
+      "pushed_at": "2026-08-18T19:30:16Z",
+      "updated_at": "2026-08-18T19:32:41Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-18T15:33:09Z",
-      "updated_at": "2026-08-18T15:39:22Z"
+      "pushed_at": "2026-08-18T19:28:18Z",
+      "updated_at": "2026-08-18T19:30:03Z"
     }
   ]
 }
