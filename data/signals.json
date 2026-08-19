@@ -5,40 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1050,
+  "total_found": 1052,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 76621,
-      "forks": 4819,
+      "stars": 76658,
+      "forks": 4822,
       "language": "Rust",
-      "pushed_at": "2026-08-19T12:41:36Z",
-      "updated_at": "2026-08-19T12:41:28Z"
+      "pushed_at": "2026-08-19T16:20:53Z",
+      "updated_at": "2026-08-19T16:17:41Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44677,
+      "forks": 2830,
+      "language": "C#",
+      "pushed_at": "2026-08-19T16:02:06Z",
+      "updated_at": "2026-08-19T16:10:37Z"
     },
     {
       "id": 663900193,
       "full_name": "sxyazi/yazi",
       "html_url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41485,
+      "stars": 41489,
       "forks": 983,
       "language": "Rust",
-      "pushed_at": "2026-08-19T11:54:19Z",
-      "updated_at": "2026-08-19T12:34:41Z"
-    },
-    {
-      "id": 314995099,
-      "full_name": "ankitpokhrel/jira-cli",
-      "html_url": "https://github.com/ankitpokhrel/jira-cli",
-      "description": "🔥 Feature-rich interactive Jira command line.",
-      "stars": 5908,
-      "forks": 406,
-      "language": "Go",
-      "pushed_at": "2026-08-19T11:07:22Z",
-      "updated_at": "2026-08-19T11:28:57Z"
+      "pushed_at": "2026-08-19T15:30:43Z",
+      "updated_at": "2026-08-19T15:50:24Z"
     },
     {
       "id": 129699403,
@@ -48,19 +48,41 @@
       "stars": 5769,
       "forks": 766,
       "language": "Swift",
-      "pushed_at": "2026-08-19T12:41:52Z",
-      "updated_at": "2026-08-19T12:36:03Z"
+      "pushed_at": "2026-08-19T16:07:53Z",
+      "updated_at": "2026-08-19T16:14:29Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1952,
-      "forks": 93,
-      "language": "C#",
-      "pushed_at": "2026-08-19T12:15:53Z",
-      "updated_at": "2026-08-19T11:30:04Z"
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3376,
+      "forks": 157,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-19T15:49:30Z",
+      "updated_at": "2026-08-19T16:02:44Z"
+    },
+    {
+      "id": 812362660,
+      "full_name": "ViscousPot/GitSync",
+      "html_url": "https://github.com/ViscousPot/GitSync",
+      "description": "Mobile Git client for syncing a repository between remote and a local directory",
+      "stars": 2212,
+      "forks": 184,
+      "language": "Dart",
+      "pushed_at": "2026-08-19T16:03:11Z",
+      "updated_at": "2026-08-19T16:09:02Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1976,
+      "forks": 145,
+      "language": "Dart",
+      "pushed_at": "2026-08-19T16:28:05Z",
+      "updated_at": "2026-08-19T16:10:23Z"
     },
     {
       "id": 1148683593,
@@ -70,41 +92,30 @@
       "stars": 1091,
       "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-19T11:03:01Z",
-      "updated_at": "2026-08-19T11:06:13Z"
+      "pushed_at": "2026-08-19T15:19:57Z",
+      "updated_at": "2026-08-19T15:22:01Z"
     },
     {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 416,
-      "forks": 52,
-      "language": "PHP",
-      "pushed_at": "2026-08-19T12:39:45Z",
-      "updated_at": "2026-08-19T12:40:12Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 27,
-      "language": "Shell",
-      "pushed_at": "2026-08-19T12:38:32Z",
-      "updated_at": "2026-08-19T12:40:38Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 271,
-      "forks": 33,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 827,
+      "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-19T10:46:22Z",
-      "updated_at": "2026-08-19T10:42:59Z"
+      "pushed_at": "2026-08-19T16:18:40Z",
+      "updated_at": "2026-08-19T16:26:32Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME.",
+      "stars": 251,
+      "forks": 12,
+      "language": "Python",
+      "pushed_at": "2026-08-19T15:51:14Z",
+      "updated_at": "2026-08-19T15:53:14Z"
     },
     {
       "id": 1221180063,
@@ -114,30 +125,19 @@
       "stars": 241,
       "forks": 11,
       "language": "HTML",
-      "pushed_at": "2026-08-19T11:53:40Z",
-      "updated_at": "2026-08-19T11:54:07Z"
+      "pushed_at": "2026-08-19T15:47:58Z",
+      "updated_at": "2026-08-19T16:06:33Z"
     },
     {
-      "id": 1009719992,
-      "full_name": "Appaxaap/Focus",
-      "html_url": "https://github.com/Appaxaap/Focus",
-      "description": "Offline-first Eisenhower Matrix productivity app",
-      "stars": 240,
-      "forks": 11,
-      "language": "Dart",
-      "pushed_at": "2026-08-19T12:23:40Z",
-      "updated_at": "2026-08-19T12:27:02Z"
-    },
-    {
-      "id": 1323366961,
-      "full_name": "palamim/starboard",
-      "html_url": "https://github.com/palamim/starboard",
-      "description": "A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture",
-      "stars": 192,
-      "forks": 8,
+      "id": 412385182,
+      "full_name": "scribe-org/Scribe-iOS",
+      "html_url": "https://github.com/scribe-org/Scribe-iOS",
+      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
+      "stars": 167,
+      "forks": 107,
       "language": "Swift",
-      "pushed_at": "2026-08-19T12:06:17Z",
-      "updated_at": "2026-08-19T12:08:58Z"
+      "pushed_at": "2026-08-19T15:55:00Z",
+      "updated_at": "2026-08-19T16:04:05Z"
     },
     {
       "id": 1336386025,
@@ -147,19 +147,19 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-19T11:28:50Z",
-      "updated_at": "2026-08-19T11:32:00Z"
+      "pushed_at": "2026-08-19T15:34:54Z",
+      "updated_at": "2026-08-19T15:54:19Z"
     },
     {
-      "id": 1169355653,
-      "full_name": "mobrava/PasteClip",
-      "html_url": "https://github.com/mobrava/PasteClip",
-      "description": "Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, Quick Look, and 100% local storage.",
-      "stars": 134,
-      "forks": 10,
-      "language": "Swift",
-      "pushed_at": "2026-08-19T12:28:33Z",
-      "updated_at": "2026-08-19T12:31:57Z"
+      "id": 452405275,
+      "full_name": "jrgilbertson/networked-thinking",
+      "html_url": "https://github.com/jrgilbertson/networked-thinking",
+      "description": "A curated teaching version of the Networked Thinking method in Obsidian, with notes, templates, and examples you can inspect before you build your own.",
+      "stars": 147,
+      "forks": 17,
+      "language": "Unknown",
+      "pushed_at": "2026-08-19T15:18:50Z",
+      "updated_at": "2026-08-19T15:25:31Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-19T11:25:56Z",
-      "updated_at": "2026-08-19T11:27:04Z"
+      "pushed_at": "2026-08-19T15:32:46Z",
+      "updated_at": "2026-08-19T15:42:58Z"
     }
   ]
 }
