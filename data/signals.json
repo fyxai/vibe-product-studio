@@ -8,70 +8,59 @@
   "total_found": 1052,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 76658,
-      "forks": 4822,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T16:20:53Z",
-      "updated_at": "2026-08-19T16:17:41Z"
-    },
-    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44677,
+      "stars": 44678,
       "forks": 2830,
       "language": "C#",
-      "pushed_at": "2026-08-19T16:02:06Z",
-      "updated_at": "2026-08-19T16:10:37Z"
+      "pushed_at": "2026-08-19T20:22:26Z",
+      "updated_at": "2026-08-19T20:15:54Z"
     },
     {
       "id": 663900193,
       "full_name": "sxyazi/yazi",
       "html_url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41489,
+      "stars": 41494,
       "forks": 983,
       "language": "Rust",
-      "pushed_at": "2026-08-19T15:30:43Z",
-      "updated_at": "2026-08-19T15:50:24Z"
+      "pushed_at": "2026-08-19T19:40:01Z",
+      "updated_at": "2026-08-19T20:20:49Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5769,
-      "forks": 766,
-      "language": "Swift",
-      "pushed_at": "2026-08-19T16:07:53Z",
-      "updated_at": "2026-08-19T16:14:29Z"
-    },
-    {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3376,
-      "forks": 157,
+      "id": 458094748,
+      "full_name": "omnivore-app/omnivore",
+      "html_url": "https://github.com/omnivore-app/omnivore",
+      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+      "stars": 16223,
+      "forks": 1267,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T15:49:30Z",
-      "updated_at": "2026-08-19T16:02:44Z"
+      "pushed_at": "2026-08-19T19:55:15Z",
+      "updated_at": "2026-08-19T19:48:34Z"
     },
     {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 2212,
-      "forks": 184,
-      "language": "Dart",
-      "pushed_at": "2026-08-19T16:03:11Z",
-      "updated_at": "2026-08-19T16:09:02Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15390,
+      "forks": 634,
+      "language": "C#",
+      "pushed_at": "2026-08-19T20:07:17Z",
+      "updated_at": "2026-08-19T20:21:16Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2503,
+      "forks": 101,
+      "language": "Swift",
+      "pushed_at": "2026-08-19T19:05:50Z",
+      "updated_at": "2026-08-19T19:38:48Z"
     },
     {
       "id": 323279421,
@@ -81,8 +70,30 @@
       "stars": 1976,
       "forks": 145,
       "language": "Dart",
-      "pushed_at": "2026-08-19T16:28:05Z",
-      "updated_at": "2026-08-19T16:10:23Z"
+      "pushed_at": "2026-08-19T20:14:28Z",
+      "updated_at": "2026-08-19T20:16:38Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1959,
+      "forks": 93,
+      "language": "C#",
+      "pushed_at": "2026-08-19T20:16:34Z",
+      "updated_at": "2026-08-19T20:17:28Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1925,
+      "forks": 136,
+      "language": "Go",
+      "pushed_at": "2026-08-19T20:24:20Z",
+      "updated_at": "2026-08-19T19:39:41Z"
     },
     {
       "id": 1148683593,
@@ -90,10 +101,10 @@
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "stars": 1091,
-      "forks": 39,
+      "forks": 40,
       "language": "Rust",
-      "pushed_at": "2026-08-19T15:19:57Z",
-      "updated_at": "2026-08-19T15:22:01Z"
+      "pushed_at": "2026-08-19T19:21:33Z",
+      "updated_at": "2026-08-19T19:24:58Z"
     },
     {
       "id": 591995344,
@@ -103,41 +114,19 @@
       "stars": 827,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-19T16:18:40Z",
-      "updated_at": "2026-08-19T16:26:32Z"
+      "pushed_at": "2026-08-19T20:13:25Z",
+      "updated_at": "2026-08-19T20:15:30Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME.",
-      "stars": 251,
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
       "forks": 12,
-      "language": "Python",
-      "pushed_at": "2026-08-19T15:51:14Z",
-      "updated_at": "2026-08-19T15:53:14Z"
-    },
-    {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
-      "stars": 241,
-      "forks": 11,
-      "language": "HTML",
-      "pushed_at": "2026-08-19T15:47:58Z",
-      "updated_at": "2026-08-19T16:06:33Z"
-    },
-    {
-      "id": 412385182,
-      "full_name": "scribe-org/Scribe-iOS",
-      "html_url": "https://github.com/scribe-org/Scribe-iOS",
-      "description": "Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app",
-      "stars": 167,
-      "forks": 107,
-      "language": "Swift",
-      "pushed_at": "2026-08-19T15:55:00Z",
-      "updated_at": "2026-08-19T16:04:05Z"
+      "language": "Rust",
+      "pushed_at": "2026-08-19T20:18:46Z",
+      "updated_at": "2026-08-19T20:20:26Z"
     },
     {
       "id": 1336386025,
@@ -147,19 +136,19 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-19T15:34:54Z",
-      "updated_at": "2026-08-19T15:54:19Z"
+      "pushed_at": "2026-08-19T19:28:57Z",
+      "updated_at": "2026-08-19T19:30:32Z"
     },
     {
-      "id": 452405275,
-      "full_name": "jrgilbertson/networked-thinking",
-      "html_url": "https://github.com/jrgilbertson/networked-thinking",
-      "description": "A curated teaching version of the Networked Thinking method in Obsidian, with notes, templates, and examples you can inspect before you build your own.",
-      "stars": 147,
-      "forks": 17,
-      "language": "Unknown",
-      "pushed_at": "2026-08-19T15:18:50Z",
-      "updated_at": "2026-08-19T15:25:31Z"
+      "id": 1230547152,
+      "full_name": "Meridiona/meridian",
+      "html_url": "https://github.com/Meridiona/meridian",
+      "description": "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you.",
+      "stars": 155,
+      "forks": 8,
+      "language": "Rust",
+      "pushed_at": "2026-08-19T19:22:00Z",
+      "updated_at": "2026-08-19T19:08:31Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +158,19 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-19T15:32:46Z",
-      "updated_at": "2026-08-19T15:42:58Z"
+      "pushed_at": "2026-08-19T19:26:39Z",
+      "updated_at": "2026-08-19T19:31:45Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 116,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-19T20:19:36Z",
+      "updated_at": "2026-08-19T20:21:00Z"
     }
   ]
 }
