@@ -12,110 +12,132 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 76584,
-      "forks": 4818,
+      "stars": 76621,
+      "forks": 4819,
       "language": "Rust",
-      "pushed_at": "2026-08-19T08:11:00Z",
-      "updated_at": "2026-08-19T08:31:38Z"
+      "pushed_at": "2026-08-19T12:41:36Z",
+      "updated_at": "2026-08-19T12:41:28Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14850,
-      "forks": 968,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T07:19:03Z",
-      "updated_at": "2026-08-19T07:39:42Z"
-    },
-    {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14433,
-      "forks": 984,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T08:31:11Z",
-      "updated_at": "2026-08-19T08:28:12Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6534,
-      "forks": 389,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-19T07:45:28Z",
-      "updated_at": "2026-08-19T07:51:05Z"
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 41485,
+      "forks": 983,
+      "language": "Rust",
+      "pushed_at": "2026-08-19T11:54:19Z",
+      "updated_at": "2026-08-19T12:34:41Z"
     },
     {
       "id": 314995099,
       "full_name": "ankitpokhrel/jira-cli",
       "html_url": "https://github.com/ankitpokhrel/jira-cli",
       "description": "🔥 Feature-rich interactive Jira command line.",
-      "stars": 5906,
+      "stars": 5908,
       "forks": 406,
       "language": "Go",
-      "pushed_at": "2026-08-19T08:32:07Z",
-      "updated_at": "2026-08-19T07:30:14Z"
+      "pushed_at": "2026-08-19T11:07:22Z",
+      "updated_at": "2026-08-19T11:28:57Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3375,
-      "forks": 156,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T07:45:12Z",
-      "updated_at": "2026-08-19T07:45:09Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5769,
+      "forks": 766,
+      "language": "Swift",
+      "pushed_at": "2026-08-19T12:41:52Z",
+      "updated_at": "2026-08-19T12:36:03Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1949,
+      "stars": 1952,
       "forks": 93,
       "language": "C#",
-      "pushed_at": "2026-08-19T08:05:31Z",
-      "updated_at": "2026-08-19T08:14:21Z"
+      "pushed_at": "2026-08-19T12:15:53Z",
+      "updated_at": "2026-08-19T11:30:04Z"
     },
     {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1739,
-      "forks": 110,
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1091,
+      "forks": 39,
       "language": "Rust",
-      "pushed_at": "2026-08-19T07:30:37Z",
-      "updated_at": "2026-08-19T08:13:58Z"
+      "pushed_at": "2026-08-19T11:03:01Z",
+      "updated_at": "2026-08-19T11:06:13Z"
     },
     {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 973,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T08:11:48Z",
-      "updated_at": "2026-08-19T08:13:22Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 416,
+      "forks": 52,
+      "language": "PHP",
+      "pushed_at": "2026-08-19T12:39:45Z",
+      "updated_at": "2026-08-19T12:40:12Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 466,
-      "forks": 36,
-      "language": "C#",
-      "pushed_at": "2026-08-19T07:34:26Z",
-      "updated_at": "2026-08-19T08:33:40Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 321,
+      "forks": 27,
+      "language": "Shell",
+      "pushed_at": "2026-08-19T12:38:32Z",
+      "updated_at": "2026-08-19T12:40:38Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 271,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-08-19T10:46:22Z",
+      "updated_at": "2026-08-19T10:42:59Z"
+    },
+    {
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
+      "stars": 241,
+      "forks": 11,
+      "language": "HTML",
+      "pushed_at": "2026-08-19T11:53:40Z",
+      "updated_at": "2026-08-19T11:54:07Z"
+    },
+    {
+      "id": 1009719992,
+      "full_name": "Appaxaap/Focus",
+      "html_url": "https://github.com/Appaxaap/Focus",
+      "description": "Offline-first Eisenhower Matrix productivity app",
+      "stars": 240,
+      "forks": 11,
+      "language": "Dart",
+      "pushed_at": "2026-08-19T12:23:40Z",
+      "updated_at": "2026-08-19T12:27:02Z"
+    },
+    {
+      "id": 1323366961,
+      "full_name": "palamim/starboard",
+      "html_url": "https://github.com/palamim/starboard",
+      "description": "A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture",
+      "stars": 192,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-08-19T12:06:17Z",
+      "updated_at": "2026-08-19T12:08:58Z"
     },
     {
       "id": 1336386025,
@@ -125,8 +147,19 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-19T07:41:24Z",
-      "updated_at": "2026-08-19T07:41:29Z"
+      "pushed_at": "2026-08-19T11:28:50Z",
+      "updated_at": "2026-08-19T11:32:00Z"
+    },
+    {
+      "id": 1169355653,
+      "full_name": "mobrava/PasteClip",
+      "html_url": "https://github.com/mobrava/PasteClip",
+      "description": "Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, Quick Look, and 100% local storage.",
+      "stars": 134,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-08-19T12:28:33Z",
+      "updated_at": "2026-08-19T12:31:57Z"
     },
     {
       "id": 1283327964,
@@ -136,41 +169,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-19T07:39:10Z",
-      "updated_at": "2026-08-19T07:40:58Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 116,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-19T08:29:08Z",
-      "updated_at": "2026-08-19T08:31:11Z"
-    },
-    {
-      "id": 1187493898,
-      "full_name": "vcmf/dim0",
-      "html_url": "https://github.com/vcmf/dim0",
-      "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
-      "stars": 104,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T08:12:19Z",
-      "updated_at": "2026-08-19T07:59:23Z"
-    },
-    {
-      "id": 1248011924,
-      "full_name": "lanxiuyun/Catrace",
-      "html_url": "https://github.com/lanxiuyun/Catrace",
-      "description": "Catrace: Every notify is a Plugin",
-      "stars": 78,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T07:42:05Z",
-      "updated_at": "2026-08-19T08:07:13Z"
+      "pushed_at": "2026-08-19T11:25:56Z",
+      "updated_at": "2026-08-19T11:27:04Z"
     }
   ]
 }
