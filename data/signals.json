@@ -8,158 +8,158 @@
   "total_found": 1053,
   "items": [
     {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 18649,
-      "forks": 985,
-      "language": "Python",
-      "pushed_at": "2026-08-20T12:42:03Z",
-      "updated_at": "2026-08-20T12:43:43Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17333,
-      "forks": 1720,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T12:23:18Z",
-      "updated_at": "2026-08-20T12:22:07Z"
-    },
-    {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14880,
+      "stars": 14885,
       "forks": 970,
       "language": "TypeScript",
-      "pushed_at": "2026-08-20T11:57:59Z",
-      "updated_at": "2026-08-20T12:33:21Z"
+      "pushed_at": "2026-08-20T16:28:18Z",
+      "updated_at": "2026-08-20T16:07:42Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 8967,
-      "forks": 268,
-      "language": "C++",
-      "pushed_at": "2026-08-20T12:02:43Z",
-      "updated_at": "2026-08-20T12:09:53Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5769,
-      "forks": 766,
-      "language": "Swift",
-      "pushed_at": "2026-08-20T12:38:22Z",
-      "updated_at": "2026-08-20T12:35:22Z"
-    },
-    {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4583,
-      "forks": 274,
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "💪 Build your own AI prompt library — 5000+ community prompts for ChatGPT, Claude, Gemini and Cursor ｜ AI 快捷指令：把好用的提示词收进自己的库，5000+ 社区提示词随取",
+      "stars": 8699,
+      "forks": 948,
       "language": "TypeScript",
-      "pushed_at": "2026-08-20T12:17:14Z",
-      "updated_at": "2026-08-20T12:19:08Z"
+      "pushed_at": "2026-08-20T16:14:06Z",
+      "updated_at": "2026-08-20T16:29:29Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4338,
-      "forks": 865,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T12:39:46Z",
-      "updated_at": "2026-08-20T12:42:42Z"
+      "id": 736435794,
+      "full_name": "joshmedeski/sesh",
+      "html_url": "https://github.com/joshmedeski/sesh",
+      "description": "Smart tmux session manager",
+      "stars": 2771,
+      "forks": 126,
+      "language": "Go",
+      "pushed_at": "2026-08-20T16:01:46Z",
+      "updated_at": "2026-08-20T16:02:33Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2315,
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 1998,
       "forks": 95,
-      "language": "Swift",
-      "pushed_at": "2026-08-20T12:09:11Z",
-      "updated_at": "2026-08-20T12:12:42Z"
+      "language": "C#",
+      "pushed_at": "2026-08-20T16:19:27Z",
+      "updated_at": "2026-08-20T16:28:52Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1977,
+      "forks": 145,
+      "language": "Dart",
+      "pushed_at": "2026-08-20T15:28:58Z",
+      "updated_at": "2026-08-20T15:44:29Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1718,
+      "forks": 98,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T16:17:36Z",
+      "updated_at": "2026-08-20T16:21:35Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1093,
+      "forks": 40,
+      "language": "Rust",
+      "pushed_at": "2026-08-20T15:37:49Z",
+      "updated_at": "2026-08-20T15:26:20Z"
     },
     {
       "id": 591995344,
       "full_name": "rush86999/atom",
       "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
       "stars": 827,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-20T12:23:37Z",
-      "updated_at": "2026-08-20T12:24:15Z"
+      "pushed_at": "2026-08-20T16:03:28Z",
+      "updated_at": "2026-08-20T16:15:01Z"
     },
     {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 462,
-      "forks": 25,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T12:44:28Z",
-      "updated_at": "2026-08-20T12:39:19Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 28,
-      "language": "Shell",
-      "pushed_at": "2026-08-20T12:40:09Z",
-      "updated_at": "2026-08-20T12:42:47Z"
-    },
-    {
-      "id": 1120438074,
-      "full_name": "kaima2022/Health-reminder",
-      "html_url": "https://github.com/kaima2022/Health-reminder",
-      "description": "This is a high-performance desktop application developed using Rust and Tauri, designed to help you stay focused on your work while scientifically managing sedentary time, hydration, and eye rest through intelligent task scheduling and multi-dimensional reminders.一款基于 Rust 与 Tauri 开发的高性能桌面应用，旨在通过智能化的任务排程与多维提醒，帮助你在专注工作的同时，科学地进行久坐、补水与用眼休息。",
-      "stars": 262,
-      "forks": 20,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-20T12:42:45Z",
-      "updated_at": "2026-08-20T12:36:31Z"
-    },
-    {
-      "id": 1323366961,
-      "full_name": "palamim/starboard",
-      "html_url": "https://github.com/palamim/starboard",
-      "description": "A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture",
-      "stars": 194,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-08-20T11:56:25Z",
-      "updated_at": "2026-08-20T11:58:41Z"
-    },
-    {
-      "id": 1230547152,
-      "full_name": "Meridiona/meridian",
-      "html_url": "https://github.com/Meridiona/meridian",
-      "description": "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you.",
-      "stars": 164,
-      "forks": 8,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 646,
+      "forks": 47,
       "language": "Rust",
-      "pushed_at": "2026-08-20T11:46:41Z",
-      "updated_at": "2026-08-20T12:20:36Z"
+      "pushed_at": "2026-08-20T15:31:48Z",
+      "updated_at": "2026-08-20T15:53:00Z"
+    },
+    {
+      "id": 1112334575,
+      "full_name": "zhaoliangbin42/AI-MarkDone",
+      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
+      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
+      "stars": 178,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T15:57:18Z",
+      "updated_at": "2026-08-20T16:01:27Z"
+    },
+    {
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 162,
+      "forks": 15,
+      "language": "HTML",
+      "pushed_at": "2026-08-20T15:37:30Z",
+      "updated_at": "2026-08-20T15:46:19Z"
+    },
+    {
+      "id": 1169355653,
+      "full_name": "mobrava/Clipbara",
+      "html_url": "https://github.com/mobrava/Clipbara",
+      "description": "Free, open-source clipboard manager for macOS. Native card-style UI with Pinboards, Quick Look, and 100% local storage.",
+      "stars": 136,
+      "forks": 11,
+      "language": "Swift",
+      "pushed_at": "2026-08-20T15:23:06Z",
+      "updated_at": "2026-08-20T15:29:39Z"
+    },
+    {
+      "id": 1136220235,
+      "full_name": "will-be-done/will-be-done",
+      "html_url": "https://github.com/will-be-done/will-be-done",
+      "description": "Offline-first, self-hosted TickTick/Todoist alternative focused on weekly planning. Day columns, project boards, drag & drop, Vim keybindings, and an instant UI without loading spinners.",
+      "stars": 126,
+      "forks": 5,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T16:23:24Z",
+      "updated_at": "2026-08-20T16:26:15Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-20T15:34:40Z",
+      "updated_at": "2026-08-20T15:39:55Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-20T12:35:33Z",
-      "updated_at": "2026-08-20T12:39:22Z"
+      "pushed_at": "2026-08-20T16:27:47Z",
+      "updated_at": "2026-08-20T15:35:29Z"
     }
   ]
 }
