@@ -8,26 +8,59 @@
   "total_found": 1052,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 241194,
+      "forks": 36576,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-19T23:31:56Z",
+      "updated_at": "2026-08-20T00:47:14Z"
+    },
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 76701,
+      "forks": 4827,
+      "language": "Rust",
+      "pushed_at": "2026-08-20T00:31:07Z",
+      "updated_at": "2026-08-20T01:07:22Z"
+    },
+    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44678,
-      "forks": 2830,
+      "stars": 44680,
+      "forks": 2831,
       "language": "C#",
-      "pushed_at": "2026-08-19T20:22:26Z",
-      "updated_at": "2026-08-19T20:15:54Z"
+      "pushed_at": "2026-08-20T00:45:01Z",
+      "updated_at": "2026-08-20T00:49:58Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41494,
-      "forks": 983,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T19:40:01Z",
-      "updated_at": "2026-08-19T20:20:49Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39206,
+      "forks": 3899,
+      "language": "C#",
+      "pushed_at": "2026-08-20T00:45:48Z",
+      "updated_at": "2026-08-20T00:46:12Z"
+    },
+    {
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 35066,
+      "forks": 3769,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-19T22:13:25Z",
+      "updated_at": "2026-08-20T00:57:30Z"
     },
     {
       "id": 458094748,
@@ -37,74 +70,41 @@
       "stars": 16223,
       "forks": 1267,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T19:55:15Z",
-      "updated_at": "2026-08-19T19:48:34Z"
+      "pushed_at": "2026-08-20T00:58:17Z",
+      "updated_at": "2026-08-20T00:45:54Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15390,
-      "forks": 634,
-      "language": "C#",
-      "pushed_at": "2026-08-19T20:07:17Z",
-      "updated_at": "2026-08-19T20:21:16Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "stars": 2503,
-      "forks": 101,
-      "language": "Swift",
-      "pushed_at": "2026-08-19T19:05:50Z",
-      "updated_at": "2026-08-19T19:38:48Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1976,
-      "forks": 145,
-      "language": "Dart",
-      "pushed_at": "2026-08-19T20:14:28Z",
-      "updated_at": "2026-08-19T20:16:38Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4334,
+      "forks": 864,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-19T23:20:53Z",
+      "updated_at": "2026-08-19T23:03:07Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1959,
+      "stars": 1960,
       "forks": 93,
       "language": "C#",
-      "pushed_at": "2026-08-19T20:16:34Z",
-      "updated_at": "2026-08-19T20:17:28Z"
+      "pushed_at": "2026-08-20T00:55:04Z",
+      "updated_at": "2026-08-20T01:01:05Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1925,
-      "forks": 136,
-      "language": "Go",
-      "pushed_at": "2026-08-19T20:24:20Z",
-      "updated_at": "2026-08-19T19:39:41Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1091,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T19:21:33Z",
-      "updated_at": "2026-08-19T19:24:58Z"
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1455,
+      "forks": 85,
+      "language": "Dart",
+      "pushed_at": "2026-08-19T23:57:57Z",
+      "updated_at": "2026-08-19T23:58:03Z"
     },
     {
       "id": 591995344,
@@ -114,19 +114,41 @@
       "stars": 827,
       "forks": 90,
       "language": "Python",
-      "pushed_at": "2026-08-19T20:13:25Z",
-      "updated_at": "2026-08-19T20:15:30Z"
+      "pushed_at": "2026-08-19T21:50:01Z",
+      "updated_at": "2026-08-19T21:50:46Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 238,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T20:18:46Z",
-      "updated_at": "2026-08-19T20:20:26Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 321,
+      "forks": 28,
+      "language": "Shell",
+      "pushed_at": "2026-08-20T00:58:54Z",
+      "updated_at": "2026-08-20T00:59:58Z"
+    },
+    {
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 271,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-08-19T21:28:23Z",
+      "updated_at": "2026-08-19T21:24:55Z"
+    },
+    {
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 166,
+      "forks": 11,
+      "language": "Dart",
+      "pushed_at": "2026-08-19T21:52:23Z",
+      "updated_at": "2026-08-19T22:19:28Z"
     },
     {
       "id": 1336386025,
@@ -136,19 +158,8 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-19T19:28:57Z",
-      "updated_at": "2026-08-19T19:30:32Z"
-    },
-    {
-      "id": 1230547152,
-      "full_name": "Meridiona/meridian",
-      "html_url": "https://github.com/Meridiona/meridian",
-      "description": "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you.",
-      "stars": 155,
-      "forks": 8,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T19:22:00Z",
-      "updated_at": "2026-08-19T19:08:31Z"
+      "pushed_at": "2026-08-19T23:26:17Z",
+      "updated_at": "2026-08-19T23:26:27Z"
     },
     {
       "id": 1283327964,
@@ -158,19 +169,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-19T19:26:39Z",
-      "updated_at": "2026-08-19T19:31:45Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 116,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-19T20:19:36Z",
-      "updated_at": "2026-08-19T20:21:00Z"
+      "pushed_at": "2026-08-19T23:24:07Z",
+      "updated_at": "2026-08-19T23:24:12Z"
     }
   ]
 }
