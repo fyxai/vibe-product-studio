@@ -8,147 +8,114 @@
   "total_found": 1052,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 241194,
-      "forks": 36576,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-19T23:31:56Z",
-      "updated_at": "2026-08-20T00:47:14Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 76701,
-      "forks": 4827,
-      "language": "Rust",
-      "pushed_at": "2026-08-20T00:31:07Z",
-      "updated_at": "2026-08-20T01:07:22Z"
-    },
-    {
       "id": 164140756,
       "full_name": "files-community/Files",
       "html_url": "https://github.com/files-community/Files",
       "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44680,
+      "stars": 44682,
       "forks": 2831,
       "language": "C#",
-      "pushed_at": "2026-08-20T00:45:01Z",
-      "updated_at": "2026-08-20T00:49:58Z"
+      "pushed_at": "2026-08-20T04:33:16Z",
+      "updated_at": "2026-08-20T03:15:06Z"
     },
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39206,
+      "stars": 39209,
       "forks": 3899,
       "language": "C#",
-      "pushed_at": "2026-08-20T00:45:48Z",
-      "updated_at": "2026-08-20T00:46:12Z"
+      "pushed_at": "2026-08-20T03:59:17Z",
+      "updated_at": "2026-08-20T03:59:32Z"
     },
     {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 35066,
-      "forks": 3769,
+      "stars": 35073,
+      "forks": 3770,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T22:13:25Z",
-      "updated_at": "2026-08-20T00:57:30Z"
+      "pushed_at": "2026-08-20T02:37:32Z",
+      "updated_at": "2026-08-20T04:20:29Z"
     },
     {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16223,
-      "forks": 1267,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T00:58:17Z",
-      "updated_at": "2026-08-20T00:45:54Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4334,
-      "forks": 864,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T23:20:53Z",
-      "updated_at": "2026-08-19T23:03:07Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 1960,
-      "forks": 93,
-      "language": "C#",
-      "pushed_at": "2026-08-20T00:55:04Z",
-      "updated_at": "2026-08-20T01:01:05Z"
-    },
-    {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1455,
-      "forks": 85,
-      "language": "Dart",
-      "pushed_at": "2026-08-19T23:57:57Z",
-      "updated_at": "2026-08-19T23:58:03Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 827,
-      "forks": 90,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3682,
+      "forks": 260,
       "language": "Python",
-      "pushed_at": "2026-08-19T21:50:01Z",
-      "updated_at": "2026-08-19T21:50:46Z"
+      "pushed_at": "2026-08-20T03:24:27Z",
+      "updated_at": "2026-08-20T03:24:57Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 28,
-      "language": "Shell",
-      "pushed_at": "2026-08-20T00:58:54Z",
-      "updated_at": "2026-08-20T00:59:58Z"
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 973,
+      "forks": 54,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T03:07:12Z",
+      "updated_at": "2026-08-20T03:08:06Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 271,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-08-19T21:28:23Z",
-      "updated_at": "2026-08-19T21:24:55Z"
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 912,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T03:07:39Z",
+      "updated_at": "2026-08-20T04:28:30Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "id": 1149110392,
+      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
+      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
+      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, security operations, and enterprise deployment.",
+      "stars": 495,
+      "forks": 68,
+      "language": "Unknown",
+      "pushed_at": "2026-08-20T04:06:23Z",
+      "updated_at": "2026-08-20T04:06:32Z"
+    },
+    {
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 308,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T02:12:32Z",
+      "updated_at": "2026-08-20T02:12:53Z"
+    },
+    {
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 218,
+      "forks": 5,
+      "language": "CSS",
+      "pushed_at": "2026-08-20T03:26:20Z",
+      "updated_at": "2026-08-20T03:27:22Z"
+    },
+    {
+      "id": 1211713865,
+      "full_name": "HatanoChihiro/obsidian-webnovel-assistant",
+      "html_url": "https://github.com/HatanoChihiro/obsidian-webnovel-assistant",
+      "description": "为小说故事创作设计的 Obsidian 插件 | Obsidian plugin for novel and story writing",
       "stars": 166,
       "forks": 11,
-      "language": "Dart",
-      "pushed_at": "2026-08-19T21:52:23Z",
-      "updated_at": "2026-08-19T22:19:28Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T04:19:48Z",
+      "updated_at": "2026-08-20T04:19:56Z"
     },
     {
       "id": 1336386025,
@@ -158,8 +125,19 @@
       "stars": 162,
       "forks": 15,
       "language": "HTML",
-      "pushed_at": "2026-08-19T23:26:17Z",
-      "updated_at": "2026-08-19T23:26:27Z"
+      "pushed_at": "2026-08-20T03:00:44Z",
+      "updated_at": "2026-08-20T03:01:09Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 146,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-20T03:06:09Z",
+      "updated_at": "2026-08-20T03:06:29Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +147,30 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-19T23:24:07Z",
-      "updated_at": "2026-08-19T23:24:12Z"
+      "pushed_at": "2026-08-20T03:52:11Z",
+      "updated_at": "2026-08-20T03:52:15Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 116,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-20T04:31:32Z",
+      "updated_at": "2026-08-20T04:31:58Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 114,
+      "forks": 9,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-20T04:24:58Z",
+      "updated_at": "2026-08-20T02:27:55Z"
     }
   ]
 }
