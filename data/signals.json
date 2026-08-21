@@ -5,40 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1055,
+  "total_found": 1056,
   "items": [
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41546,
-      "forks": 987,
-      "language": "Rust",
-      "pushed_at": "2026-08-21T07:30:49Z",
-      "updated_at": "2026-08-21T08:30:51Z"
-    },
     {
       "id": 343078060,
       "full_name": "lissy93/dashy",
       "html_url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26249,
+      "stars": 26250,
       "forks": 1927,
       "language": "Vue",
-      "pushed_at": "2026-08-21T07:46:28Z",
-      "updated_at": "2026-08-21T07:41:05Z"
+      "pushed_at": "2026-08-21T12:22:27Z",
+      "updated_at": "2026-08-21T12:24:34Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14894,
-      "forks": 973,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21498,
+      "forks": 1969,
       "language": "TypeScript",
-      "pushed_at": "2026-08-21T07:35:59Z",
-      "updated_at": "2026-08-21T07:37:36Z"
+      "pushed_at": "2026-08-21T12:41:59Z",
+      "updated_at": "2026-08-21T12:28:12Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5936,
+      "forks": 938,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-21T12:34:18Z",
+      "updated_at": "2026-08-21T12:36:40Z"
     },
     {
       "id": 129699403,
@@ -48,8 +48,8 @@
       "stars": 5769,
       "forks": 767,
       "language": "Swift",
-      "pushed_at": "2026-08-21T08:35:48Z",
-      "updated_at": "2026-08-21T08:29:13Z"
+      "pushed_at": "2026-08-21T12:35:50Z",
+      "updated_at": "2026-08-21T12:30:23Z"
     },
     {
       "id": 187916430,
@@ -59,52 +59,63 @@
       "stars": 4409,
       "forks": 295,
       "language": "Go",
-      "pushed_at": "2026-08-21T07:36:38Z",
-      "updated_at": "2026-08-21T07:49:34Z"
+      "pushed_at": "2026-08-21T12:23:15Z",
+      "updated_at": "2026-08-21T12:26:35Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3695,
-      "forks": 259,
-      "language": "Python",
-      "pushed_at": "2026-08-21T07:46:18Z",
-      "updated_at": "2026-08-21T07:47:58Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
-      "stars": 1302,
-      "forks": 231,
-      "language": "HTML",
-      "pushed_at": "2026-08-21T07:29:47Z",
-      "updated_at": "2026-08-21T08:14:33Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1723,
+      "forks": 98,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-21T12:12:22Z",
+      "updated_at": "2026-08-21T12:12:37Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1095,
+      "stars": 1097,
       "forks": 40,
       "language": "Rust",
-      "pushed_at": "2026-08-21T08:06:32Z",
-      "updated_at": "2026-08-21T08:08:59Z"
+      "pushed_at": "2026-08-21T11:54:51Z",
+      "updated_at": "2026-08-21T12:36:13Z"
     },
     {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
-      "stars": 855,
-      "forks": 44,
-      "language": "Java",
-      "pushed_at": "2026-08-21T08:01:11Z",
-      "updated_at": "2026-08-21T07:52:09Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 827,
+      "forks": 90,
+      "language": "Python",
+      "pushed_at": "2026-08-21T12:41:20Z",
+      "updated_at": "2026-08-21T12:41:17Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 321,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-08-21T12:39:06Z",
+      "updated_at": "2026-08-21T12:41:47Z"
+    },
+    {
+      "id": 1028437757,
+      "full_name": "mylee04/code-notify",
+      "html_url": "https://github.com/mylee04/code-notify",
+      "description": "Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.",
+      "stars": 287,
+      "forks": 24,
+      "language": "Shell",
+      "pushed_at": "2026-08-21T12:42:28Z",
+      "updated_at": "2026-08-18T15:15:19Z"
     },
     {
       "id": 1336386025,
@@ -114,30 +125,8 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-21T07:47:03Z",
-      "updated_at": "2026-08-21T07:48:47Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 147,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-21T08:26:11Z",
-      "updated_at": "2026-08-21T08:37:32Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 141,
-      "forks": 3,
-      "language": "C#",
-      "pushed_at": "2026-08-21T08:07:11Z",
-      "updated_at": "2026-08-21T08:08:37Z"
+      "pushed_at": "2026-08-21T11:29:53Z",
+      "updated_at": "2026-08-21T11:29:57Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +136,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-21T07:43:38Z",
-      "updated_at": "2026-08-21T07:43:49Z"
+      "pushed_at": "2026-08-21T11:27:31Z",
+      "updated_at": "2026-08-21T11:27:35Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +147,30 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-21T08:33:09Z",
-      "updated_at": "2026-08-21T08:34:14Z"
+      "pushed_at": "2026-08-21T12:34:27Z",
+      "updated_at": "2026-08-21T12:34:56Z"
     },
     {
-      "id": 1187493898,
-      "full_name": "vcmf/dim0",
-      "html_url": "https://github.com/vcmf/dim0",
-      "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
-      "stars": 106,
-      "forks": 14,
+      "id": 907938065,
+      "full_name": "TimMacy/YouTubeAlchemy",
+      "html_url": "https://github.com/TimMacy/YouTubeAlchemy",
+      "description": "This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.",
+      "stars": 99,
+      "forks": 3,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-21T12:15:03Z",
+      "updated_at": "2026-08-21T12:16:00Z"
+    },
+    {
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 94,
+      "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-08-21T07:37:07Z",
-      "updated_at": "2026-08-21T07:38:38Z"
+      "pushed_at": "2026-08-21T12:01:23Z",
+      "updated_at": "2026-08-21T12:02:03Z"
     }
   ]
 }
