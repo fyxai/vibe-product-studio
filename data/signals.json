@@ -8,48 +8,81 @@
   "total_found": 1056,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39236,
-      "forks": 3900,
-      "language": "C#",
-      "pushed_at": "2026-08-22T01:01:52Z",
-      "updated_at": "2026-08-22T01:02:09Z"
-    },
-    {
       "id": 953521037,
       "full_name": "DayuanJiang/next-ai-draw-io",
       "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 35139,
+      "stars": 35146,
       "forks": 3773,
       "language": "TypeScript",
-      "pushed_at": "2026-08-21T23:43:46Z",
-      "updated_at": "2026-08-22T00:52:21Z"
+      "pushed_at": "2026-08-22T03:55:31Z",
+      "updated_at": "2026-08-22T04:08:24Z"
     },
     {
       "id": 154173536,
       "full_name": "alainm23/planify",
       "html_url": "https://github.com/alainm23/planify",
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5597,
+      "stars": 5598,
       "forks": 323,
       "language": "Vala",
-      "pushed_at": "2026-08-21T23:57:51Z",
-      "updated_at": "2026-08-21T23:57:56Z"
+      "pushed_at": "2026-08-22T01:59:26Z",
+      "updated_at": "2026-08-22T04:27:38Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4343,
+      "forks": 868,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T02:19:28Z",
+      "updated_at": "2026-08-22T04:08:53Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 2031,
+      "forks": 97,
+      "language": "C#",
+      "pushed_at": "2026-08-22T03:30:34Z",
+      "updated_at": "2026-08-22T04:21:21Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1724,
+      "stars": 1725,
       "forks": 97,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T00:07:04Z",
-      "updated_at": "2026-08-22T00:37:09Z"
+      "pushed_at": "2026-08-22T03:00:16Z",
+      "updated_at": "2026-08-22T03:00:30Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1102,
+      "forks": 40,
+      "language": "Rust",
+      "pushed_at": "2026-08-22T02:57:01Z",
+      "updated_at": "2026-08-22T04:03:42Z"
+    },
+    {
+      "id": 1201537262,
+      "full_name": "FuJacob/cotabby",
+      "html_url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "stars": 961,
+      "forks": 57,
+      "language": "Swift",
+      "pushed_at": "2026-08-22T02:09:56Z",
+      "updated_at": "2026-08-22T02:10:23Z"
     },
     {
       "id": 591995344,
@@ -59,52 +92,30 @@
       "stars": 827,
       "forks": 91,
       "language": "Python",
-      "pushed_at": "2026-08-22T00:56:31Z",
-      "updated_at": "2026-08-22T00:56:54Z"
+      "pushed_at": "2026-08-22T04:05:31Z",
+      "updated_at": "2026-08-22T04:05:37Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 567,
-      "forks": 71,
-      "language": "C#",
-      "pushed_at": "2026-08-22T00:45:48Z",
-      "updated_at": "2026-08-22T00:27:22Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-08-22T00:59:17Z",
-      "updated_at": "2026-08-22T00:59:26Z"
-    },
-    {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 238,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-08-21T23:57:43Z",
-      "updated_at": "2026-08-21T23:57:48Z"
-    },
-    {
-      "id": 1244050587,
-      "full_name": "hasanyilmaz/operon",
-      "html_url": "https://github.com/hasanyilmaz/operon",
-      "description": "Task management system for humans and agents in Obsidian.",
-      "stars": 178,
-      "forks": 13,
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T00:59:19Z",
-      "updated_at": "2026-08-22T00:55:33Z"
+      "pushed_at": "2026-08-22T01:44:29Z",
+      "updated_at": "2026-08-22T01:44:35Z"
+    },
+    {
+      "id": 1158424301,
+      "full_name": "modu-ai/moai-cowork",
+      "html_url": "https://github.com/modu-ai/moai-cowork",
+      "description": "비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작",
+      "stars": 295,
+      "forks": 72,
+      "language": "Python",
+      "pushed_at": "2026-08-22T03:50:53Z",
+      "updated_at": "2026-08-22T03:50:57Z"
     },
     {
       "id": 1336386025,
@@ -114,41 +125,30 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-21T23:27:38Z",
-      "updated_at": "2026-08-21T23:28:48Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 150,
-      "forks": 4,
-      "language": "C#",
-      "pushed_at": "2026-08-22T00:33:47Z",
-      "updated_at": "2026-08-22T00:34:07Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 147,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-22T00:20:32Z",
-      "updated_at": "2026-08-22T00:20:37Z"
+      "pushed_at": "2026-08-22T03:49:20Z",
+      "updated_at": "2026-08-22T03:49:46Z"
     },
     {
       "id": 1206500150,
       "full_name": "krelltunez/lifeGLANCE",
       "html_url": "https://github.com/krelltunez/lifeGLANCE",
       "description": "Your life, at a glance",
-      "stars": 142,
+      "stars": 143,
       "forks": 11,
       "language": "JavaScript",
-      "pushed_at": "2026-08-22T00:11:14Z",
-      "updated_at": "2026-08-21T23:43:03Z"
+      "pushed_at": "2026-08-22T04:28:51Z",
+      "updated_at": "2026-08-22T01:59:14Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-22T03:43:28Z",
+      "updated_at": "2026-08-22T03:43:51Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +158,19 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-22T00:53:54Z",
-      "updated_at": "2026-08-22T00:54:06Z"
+      "pushed_at": "2026-08-22T04:26:38Z",
+      "updated_at": "2026-08-22T04:26:41Z"
     },
     {
       "id": 1140929355,
       "full_name": "krelltunez/dayGLANCE",
       "html_url": "https://github.com/krelltunez/dayGLANCE",
       "description": "Your day, at a glance",
-      "stars": 114,
+      "stars": 115,
       "forks": 9,
       "language": "JavaScript",
-      "pushed_at": "2026-08-22T00:51:56Z",
-      "updated_at": "2026-08-21T23:59:28Z"
+      "pushed_at": "2026-08-22T01:46:06Z",
+      "updated_at": "2026-08-22T01:59:18Z"
     }
   ]
 }
