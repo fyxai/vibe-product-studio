@@ -5,117 +5,139 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1056,
+  "total_found": 1058,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 35146,
-      "forks": 3773,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T03:55:31Z",
-      "updated_at": "2026-08-22T04:08:24Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5598,
-      "forks": 323,
-      "language": "Vala",
-      "pushed_at": "2026-08-22T01:59:26Z",
-      "updated_at": "2026-08-22T04:27:38Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4343,
-      "forks": 868,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T02:19:28Z",
-      "updated_at": "2026-08-22T04:08:53Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2031,
-      "forks": 97,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39239,
+      "forks": 3901,
       "language": "C#",
-      "pushed_at": "2026-08-22T03:30:34Z",
-      "updated_at": "2026-08-22T04:21:21Z"
+      "pushed_at": "2026-08-22T07:34:49Z",
+      "updated_at": "2026-08-22T07:35:24Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21510,
+      "forks": 1970,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T08:25:10Z",
+      "updated_at": "2026-08-22T08:09:52Z"
+    },
+    {
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and the dx plugin: skills for everyday dev workflows.",
+      "stars": 9844,
+      "forks": 789,
+      "language": "HTML",
+      "pushed_at": "2026-08-22T08:07:21Z",
+      "updated_at": "2026-08-22T08:11:36Z"
+    },
+    {
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3384,
+      "forks": 157,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T08:24:49Z",
+      "updated_at": "2026-08-22T07:40:08Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1725,
+      "stars": 1726,
       "forks": 97,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T03:00:16Z",
-      "updated_at": "2026-08-22T03:00:30Z"
+      "pushed_at": "2026-08-22T07:18:48Z",
+      "updated_at": "2026-08-22T07:18:52Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1195,
+      "forks": 129,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-22T07:25:27Z",
+      "updated_at": "2026-08-22T07:26:20Z"
+    },
+    {
+      "id": 111103465,
+      "full_name": "andresgongora/synth-shell",
+      "html_url": "https://github.com/andresgongora/synth-shell",
+      "description": "Boost your terminal, script by script",
+      "stars": 1133,
+      "forks": 240,
+      "language": "Shell",
+      "pushed_at": "2026-08-22T06:43:08Z",
+      "updated_at": "2026-08-22T06:43:30Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1102,
+      "stars": 1104,
       "forks": 40,
       "language": "Rust",
-      "pushed_at": "2026-08-22T02:57:01Z",
-      "updated_at": "2026-08-22T04:03:42Z"
+      "pushed_at": "2026-08-22T06:51:01Z",
+      "updated_at": "2026-08-22T07:09:08Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 961,
-      "forks": 57,
-      "language": "Swift",
-      "pushed_at": "2026-08-22T02:09:56Z",
-      "updated_at": "2026-08-22T02:10:23Z"
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
+      "stars": 857,
+      "forks": 43,
+      "language": "Java",
+      "pushed_at": "2026-08-22T07:11:15Z",
+      "updated_at": "2026-08-22T07:04:47Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 827,
-      "forks": 91,
-      "language": "Python",
-      "pushed_at": "2026-08-22T04:05:31Z",
-      "updated_at": "2026-08-22T04:05:37Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
+      "stars": 342,
+      "forks": 79,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T01:44:29Z",
-      "updated_at": "2026-08-22T01:44:35Z"
+      "pushed_at": "2026-08-22T08:26:33Z",
+      "updated_at": "2026-08-22T08:18:50Z"
     },
     {
-      "id": 1158424301,
-      "full_name": "modu-ai/moai-cowork",
-      "html_url": "https://github.com/modu-ai/moai-cowork",
-      "description": "비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작",
-      "stars": 295,
-      "forks": 72,
+      "id": 959999576,
+      "full_name": "0PandaDEV/Ziit",
+      "html_url": "https://github.com/0PandaDEV/Ziit",
+      "description": "The Swiss army knife of code time tracking.",
+      "stars": 249,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T07:18:42Z",
+      "updated_at": "2026-08-22T07:18:44Z"
+    },
+    {
+      "id": 1009805708,
+      "full_name": "ashesbloom/LocalLens",
+      "html_url": "https://github.com/ashesbloom/LocalLens",
+      "description": "Local Lens is a privacy-first, AI-powered photo organizer for your PC. Sort and group photos by faces, dates, and locations—all locally, with no cloud upload. Enjoy a modern, intuitive UI and keep your memories organized and secure on your own device.",
+      "stars": 151,
+      "forks": 15,
       "language": "Python",
-      "pushed_at": "2026-08-22T03:50:53Z",
-      "updated_at": "2026-08-22T03:50:57Z"
+      "pushed_at": "2026-08-22T08:19:20Z",
+      "updated_at": "2026-08-22T08:19:15Z"
     },
     {
       "id": 1336386025,
@@ -125,19 +147,8 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-22T03:49:20Z",
-      "updated_at": "2026-08-22T03:49:46Z"
-    },
-    {
-      "id": 1206500150,
-      "full_name": "krelltunez/lifeGLANCE",
-      "html_url": "https://github.com/krelltunez/lifeGLANCE",
-      "description": "Your life, at a glance",
-      "stars": 143,
-      "forks": 11,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-22T04:28:51Z",
-      "updated_at": "2026-08-22T01:59:14Z"
+      "pushed_at": "2026-08-22T07:35:13Z",
+      "updated_at": "2026-08-22T07:35:21Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +158,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-22T03:43:28Z",
-      "updated_at": "2026-08-22T03:43:51Z"
+      "pushed_at": "2026-08-22T07:32:30Z",
+      "updated_at": "2026-08-22T07:32:47Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-22T04:26:38Z",
-      "updated_at": "2026-08-22T04:26:41Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 115,
-      "forks": 9,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-22T01:46:06Z",
-      "updated_at": "2026-08-22T01:59:18Z"
+      "pushed_at": "2026-08-22T08:21:38Z",
+      "updated_at": "2026-08-22T08:21:41Z"
     }
   ]
 }
