@@ -8,92 +8,48 @@
   "total_found": 1056,
   "items": [
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24379,
-      "forks": 2317,
-      "language": "Python",
-      "pushed_at": "2026-08-21T19:57:31Z",
-      "updated_at": "2026-08-21T20:01:09Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39236,
+      "forks": 3900,
+      "language": "C#",
+      "pushed_at": "2026-08-22T01:01:52Z",
+      "updated_at": "2026-08-22T01:02:09Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21505,
-      "forks": 1970,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 35139,
+      "forks": 3773,
       "language": "TypeScript",
-      "pushed_at": "2026-08-21T19:00:36Z",
-      "updated_at": "2026-08-21T19:54:25Z"
+      "pushed_at": "2026-08-21T23:43:46Z",
+      "updated_at": "2026-08-22T00:52:21Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9003,
-      "forks": 269,
-      "language": "C++",
-      "pushed_at": "2026-08-21T18:45:51Z",
-      "updated_at": "2026-08-21T19:38:44Z"
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5597,
+      "forks": 323,
+      "language": "Vala",
+      "pushed_at": "2026-08-21T23:57:51Z",
+      "updated_at": "2026-08-21T23:57:56Z"
     },
     {
-      "id": 187916430,
-      "full_name": "muety/wakapi",
-      "html_url": "https://github.com/muety/wakapi",
-      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
-      "stars": 4408,
-      "forks": 295,
-      "language": "Go",
-      "pushed_at": "2026-08-21T18:59:14Z",
-      "updated_at": "2026-08-21T18:59:41Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4342,
-      "forks": 866,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1724,
+      "forks": 97,
       "language": "TypeScript",
-      "pushed_at": "2026-08-21T19:20:41Z",
-      "updated_at": "2026-08-21T18:35:55Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
-      "stars": 1303,
-      "forks": 231,
-      "language": "HTML",
-      "pushed_at": "2026-08-21T20:04:17Z",
-      "updated_at": "2026-08-21T20:07:47Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1100,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-08-21T18:40:19Z",
-      "updated_at": "2026-08-21T18:43:47Z"
-    },
-    {
-      "id": 970875123,
-      "full_name": "TechNomadCode/AI-Product-Development-Toolkit",
-      "html_url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit",
-      "description": "User-Centered Product Development Prompt Templates & Agent Configurations",
-      "stars": 939,
-      "forks": 158,
-      "language": "Unknown",
-      "pushed_at": "2026-08-21T19:21:56Z",
-      "updated_at": "2026-08-21T19:22:09Z"
+      "pushed_at": "2026-08-22T00:07:04Z",
+      "updated_at": "2026-08-22T00:37:09Z"
     },
     {
       "id": 591995344,
@@ -103,19 +59,19 @@
       "stars": 827,
       "forks": 91,
       "language": "Python",
-      "pushed_at": "2026-08-21T19:40:31Z",
-      "updated_at": "2026-08-21T19:40:38Z"
+      "pushed_at": "2026-08-22T00:56:31Z",
+      "updated_at": "2026-08-22T00:56:54Z"
     },
     {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 544,
-      "forks": 96,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-21T19:00:10Z",
-      "updated_at": "2026-08-21T18:34:01Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 567,
+      "forks": 71,
+      "language": "C#",
+      "pushed_at": "2026-08-22T00:45:48Z",
+      "updated_at": "2026-08-22T00:27:22Z"
     },
     {
       "id": 1166865874,
@@ -125,8 +81,30 @@
       "stars": 321,
       "forks": 29,
       "language": "Shell",
-      "pushed_at": "2026-08-21T18:37:33Z",
-      "updated_at": "2026-08-21T18:37:37Z"
+      "pushed_at": "2026-08-22T00:59:17Z",
+      "updated_at": "2026-08-22T00:59:26Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-08-21T23:57:43Z",
+      "updated_at": "2026-08-21T23:57:48Z"
+    },
+    {
+      "id": 1244050587,
+      "full_name": "hasanyilmaz/operon",
+      "html_url": "https://github.com/hasanyilmaz/operon",
+      "description": "Task management system for humans and agents in Obsidian.",
+      "stars": 178,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T00:59:19Z",
+      "updated_at": "2026-08-22T00:55:33Z"
     },
     {
       "id": 1336386025,
@@ -136,19 +114,41 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-21T19:28:23Z",
-      "updated_at": "2026-08-21T19:28:35Z"
+      "pushed_at": "2026-08-21T23:27:38Z",
+      "updated_at": "2026-08-21T23:28:48Z"
     },
     {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-21T19:26:39Z",
-      "updated_at": "2026-08-21T19:26:49Z"
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 150,
+      "forks": 4,
+      "language": "C#",
+      "pushed_at": "2026-08-22T00:33:47Z",
+      "updated_at": "2026-08-22T00:34:07Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 147,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-22T00:20:32Z",
+      "updated_at": "2026-08-22T00:20:37Z"
+    },
+    {
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 142,
+      "forks": 11,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-22T00:11:14Z",
+      "updated_at": "2026-08-21T23:43:03Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +158,19 @@
       "stars": 116,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-21T20:18:37Z",
-      "updated_at": "2026-08-21T20:19:17Z"
+      "pushed_at": "2026-08-22T00:53:54Z",
+      "updated_at": "2026-08-22T00:54:06Z"
     },
     {
-      "id": 1159738101,
-      "full_name": "vincentkoc/dotskills",
-      "html_url": "https://github.com/vincentkoc/dotskills",
-      "description": "🐙 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted development patterns.",
-      "stars": 102,
-      "forks": 10,
-      "language": "Python",
-      "pushed_at": "2026-08-21T19:08:27Z",
-      "updated_at": "2026-08-21T19:08:35Z"
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 114,
+      "forks": 9,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-22T00:51:56Z",
+      "updated_at": "2026-08-21T23:59:28Z"
     }
   ]
 }
