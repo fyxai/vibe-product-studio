@@ -5,29 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1060,
+  "total_found": 1061,
   "items": [
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12064,
-      "forks": 1505,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21533,
+      "forks": 1975,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T12:21:22Z",
-      "updated_at": "2026-08-23T12:02:32Z"
+      "pushed_at": "2026-08-23T16:16:13Z",
+      "updated_at": "2026-08-23T16:16:24Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14929,
+      "forks": 972,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-23T15:51:24Z",
+      "updated_at": "2026-08-23T15:58:33Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9038,
+      "stars": 9056,
       "forks": 273,
       "language": "C++",
-      "pushed_at": "2026-08-23T11:58:56Z",
-      "updated_at": "2026-08-23T12:32:40Z"
+      "pushed_at": "2026-08-23T15:26:56Z",
+      "updated_at": "2026-08-23T16:22:01Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3730,
+      "forks": 261,
+      "language": "Python",
+      "pushed_at": "2026-08-23T16:18:32Z",
+      "updated_at": "2026-08-23T16:18:45Z"
+    },
+    {
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3392,
+      "forks": 157,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-23T16:22:12Z",
+      "updated_at": "2026-08-23T16:16:13Z"
     },
     {
       "id": 257400448,
@@ -37,30 +70,19 @@
       "stars": 1933,
       "forks": 138,
       "language": "Go",
-      "pushed_at": "2026-08-23T12:25:37Z",
-      "updated_at": "2026-08-23T12:09:03Z"
+      "pushed_at": "2026-08-23T16:21:27Z",
+      "updated_at": "2026-08-23T16:17:40Z"
     },
     {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
-      "stars": 1929,
-      "forks": 100,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-23T12:09:52Z",
-      "updated_at": "2026-08-23T12:10:10Z"
-    },
-    {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1458,
-      "forks": 86,
-      "language": "Dart",
-      "pushed_at": "2026-08-23T11:47:41Z",
-      "updated_at": "2026-08-23T12:35:52Z"
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "stars": 915,
+      "forks": 74,
+      "language": "C#",
+      "pushed_at": "2026-08-23T16:09:54Z",
+      "updated_at": "2026-08-23T16:22:13Z"
     },
     {
       "id": 735408417,
@@ -70,30 +92,8 @@
       "stars": 858,
       "forks": 43,
       "language": "Java",
-      "pushed_at": "2026-08-23T11:22:11Z",
-      "updated_at": "2026-08-23T11:18:08Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 827,
-      "forks": 91,
-      "language": "Python",
-      "pushed_at": "2026-08-23T12:33:23Z",
-      "updated_at": "2026-08-23T12:33:30Z"
-    },
-    {
-      "id": 302966455,
-      "full_name": "mrusme/zeit",
-      "html_url": "https://github.com/mrusme/zeit",
-      "description": "Zeit, erfassen. A command line tool for tracking time. (https://tty.fail/mrus/zeit)",
-      "stars": 585,
-      "forks": 29,
-      "language": "Go",
-      "pushed_at": "2026-08-23T11:15:38Z",
-      "updated_at": "2026-08-23T11:16:30Z"
+      "pushed_at": "2026-08-23T16:16:19Z",
+      "updated_at": "2026-08-23T16:17:43Z"
     },
     {
       "id": 49612213,
@@ -103,52 +103,52 @@
       "stars": 567,
       "forks": 72,
       "language": "C#",
-      "pushed_at": "2026-08-23T12:16:43Z",
-      "updated_at": "2026-08-23T12:17:43Z"
+      "pushed_at": "2026-08-23T16:14:17Z",
+      "updated_at": "2026-08-23T16:14:20Z"
     },
     {
-      "id": 846156986,
-      "full_name": "GeorgeClensy/Escape-Launcher",
-      "html_url": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "description": "A minimalist android launcher to help you quit your phone addiction",
-      "stars": 394,
-      "forks": 42,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-23T12:15:31Z",
-      "updated_at": "2026-08-23T12:16:33Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-08-23T12:32:43Z",
-      "updated_at": "2026-08-23T12:33:56Z"
-    },
-    {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 292,
-      "forks": 51,
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 405,
+      "forks": 43,
       "language": "JavaScript",
-      "pushed_at": "2026-08-23T12:10:22Z",
-      "updated_at": "2026-08-23T12:10:32Z"
+      "pushed_at": "2026-08-23T15:40:36Z",
+      "updated_at": "2026-08-23T15:40:44Z"
     },
     {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 262,
-      "forks": 26,
+      "id": 1279187498,
+      "full_name": "px0-ai/px0",
+      "html_url": "https://github.com/px0-ai/px0",
+      "description": "An agent that works the way you work.",
+      "stars": 215,
+      "forks": 25,
       "language": "Python",
-      "pushed_at": "2026-08-23T11:11:58Z",
-      "updated_at": "2026-08-23T12:25:13Z"
+      "pushed_at": "2026-08-23T15:38:59Z",
+      "updated_at": "2026-08-23T15:39:12Z"
+    },
+    {
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 180,
+      "forks": 14,
+      "language": "Dart",
+      "pushed_at": "2026-08-23T16:17:06Z",
+      "updated_at": "2026-08-23T16:18:28Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/codex-runway",
+      "html_url": "https://github.com/Licoy/codex-runway",
+      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
+      "stars": 179,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-08-23T15:58:42Z",
+      "updated_at": "2026-08-23T15:58:47Z"
     },
     {
       "id": 1336386025,
@@ -158,19 +158,19 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-23T11:24:07Z",
-      "updated_at": "2026-08-23T11:24:14Z"
+      "pushed_at": "2026-08-23T15:26:14Z",
+      "updated_at": "2026-08-23T15:27:14Z"
     },
     {
-      "id": 1342851168,
-      "full_name": "bam-bam-2/solo-skills",
-      "html_url": "https://github.com/bam-bam-2/solo-skills",
-      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stars": 135,
-      "forks": 24,
-      "language": "Python",
-      "pushed_at": "2026-08-23T11:53:32Z",
-      "updated_at": "2026-08-23T12:20:31Z"
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 147,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-23T15:46:20Z",
+      "updated_at": "2026-08-23T15:47:13Z"
     }
   ]
 }
