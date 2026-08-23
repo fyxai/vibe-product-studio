@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1061,
+  "total_found": 1062,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21533,
-      "forks": 1975,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-23T16:16:13Z",
-      "updated_at": "2026-08-23T16:16:24Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 77156,
+      "forks": 4852,
+      "language": "Rust",
+      "pushed_at": "2026-08-23T19:52:28Z",
+      "updated_at": "2026-08-23T19:59:41Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14929,
-      "forks": 972,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12068,
+      "forks": 1505,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T15:51:24Z",
-      "updated_at": "2026-08-23T15:58:33Z"
+      "pushed_at": "2026-08-23T20:04:50Z",
+      "updated_at": "2026-08-23T20:04:56Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9056,
-      "forks": 273,
-      "language": "C++",
-      "pushed_at": "2026-08-23T15:26:56Z",
-      "updated_at": "2026-08-23T16:22:01Z"
+      "id": 610217037,
+      "full_name": "di-sukharev/opencommit",
+      "html_url": "https://github.com/di-sukharev/opencommit",
+      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "stars": 7525,
+      "forks": 441,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-23T19:37:25Z",
+      "updated_at": "2026-08-23T19:37:10Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5772,
+      "forks": 767,
+      "language": "Swift",
+      "pushed_at": "2026-08-23T20:16:12Z",
+      "updated_at": "2026-08-23T20:16:25Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3730,
+      "stars": 3731,
       "forks": 261,
       "language": "Python",
-      "pushed_at": "2026-08-23T16:18:32Z",
-      "updated_at": "2026-08-23T16:18:45Z"
-    },
-    {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3392,
-      "forks": 157,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-23T16:22:12Z",
-      "updated_at": "2026-08-23T16:16:13Z"
+      "pushed_at": "2026-08-23T19:37:17Z",
+      "updated_at": "2026-08-23T19:37:20Z"
     },
     {
       "id": 257400448,
@@ -70,30 +70,30 @@
       "stars": 1933,
       "forks": 138,
       "language": "Go",
-      "pushed_at": "2026-08-23T16:21:27Z",
-      "updated_at": "2026-08-23T16:17:40Z"
+      "pushed_at": "2026-08-23T20:16:36Z",
+      "updated_at": "2026-08-23T20:11:51Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 915,
-      "forks": 74,
-      "language": "C#",
-      "pushed_at": "2026-08-23T16:09:54Z",
-      "updated_at": "2026-08-23T16:22:13Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 827,
+      "forks": 91,
+      "language": "Python",
+      "pushed_at": "2026-08-23T20:09:13Z",
+      "updated_at": "2026-08-23T20:09:29Z"
     },
     {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
-      "stars": 858,
-      "forks": 43,
-      "language": "Java",
-      "pushed_at": "2026-08-23T16:16:19Z",
-      "updated_at": "2026-08-23T16:17:43Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 780,
+      "forks": 135,
+      "language": "Go",
+      "pushed_at": "2026-08-23T19:17:01Z",
+      "updated_at": "2026-08-23T19:16:24Z"
     },
     {
       "id": 49612213,
@@ -103,52 +103,19 @@
       "stars": 567,
       "forks": 72,
       "language": "C#",
-      "pushed_at": "2026-08-23T16:14:17Z",
-      "updated_at": "2026-08-23T16:14:20Z"
+      "pushed_at": "2026-08-23T19:15:47Z",
+      "updated_at": "2026-08-23T19:16:13Z"
     },
     {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 405,
-      "forks": 43,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-23T15:40:36Z",
-      "updated_at": "2026-08-23T15:40:44Z"
-    },
-    {
-      "id": 1279187498,
-      "full_name": "px0-ai/px0",
-      "html_url": "https://github.com/px0-ai/px0",
-      "description": "An agent that works the way you work.",
-      "stars": 215,
-      "forks": 25,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 274,
+      "forks": 35,
       "language": "Python",
-      "pushed_at": "2026-08-23T15:38:59Z",
-      "updated_at": "2026-08-23T15:39:12Z"
-    },
-    {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 180,
-      "forks": 14,
-      "language": "Dart",
-      "pushed_at": "2026-08-23T16:17:06Z",
-      "updated_at": "2026-08-23T16:18:28Z"
-    },
-    {
-      "id": 1283466765,
-      "full_name": "Licoy/codex-runway",
-      "html_url": "https://github.com/Licoy/codex-runway",
-      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 179,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-08-23T15:58:42Z",
-      "updated_at": "2026-08-23T15:58:47Z"
+      "pushed_at": "2026-08-23T19:25:30Z",
+      "updated_at": "2026-08-23T19:13:01Z"
     },
     {
       "id": 1336386025,
@@ -158,19 +125,52 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-23T15:26:14Z",
-      "updated_at": "2026-08-23T15:27:14Z"
+      "pushed_at": "2026-08-23T19:24:41Z",
+      "updated_at": "2026-08-23T19:25:16Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 147,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-23T15:46:20Z",
-      "updated_at": "2026-08-23T15:47:13Z"
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-23T19:22:39Z",
+      "updated_at": "2026-08-23T19:22:43Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 116,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-23T20:15:08Z",
+      "updated_at": "2026-08-23T20:15:33Z"
+    },
+    {
+      "id": 1187493898,
+      "full_name": "vcmf/dim0",
+      "html_url": "https://github.com/vcmf/dim0",
+      "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
+      "stars": 110,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-23T20:06:31Z",
+      "updated_at": "2026-08-23T20:07:32Z"
+    },
+    {
+      "id": 1210011300,
+      "full_name": "Astro-Han/pawwork",
+      "html_url": "https://github.com/Astro-Han/pawwork",
+      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows. Alternative to Codex App and Claude Cowork. BYOK with 75+ providers, ChatGPT OAuth, local models, Office files. No terminal needed.",
+      "stars": 101,
+      "forks": 14,
+      "language": "Python",
+      "pushed_at": "2026-08-23T20:13:21Z",
+      "updated_at": "2026-08-23T19:46:07Z"
     }
   ]
 }
