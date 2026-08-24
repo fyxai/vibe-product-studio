@@ -5,62 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1067,
+  "total_found": 1068,
   "items": [
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44741,
+      "forks": 2836,
+      "language": "C#",
+      "pushed_at": "2026-08-24T16:33:55Z",
+      "updated_at": "2026-08-24T16:27:12Z"
+    },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27246,
+      "stars": 27247,
       "forks": 2425,
       "language": "Go",
-      "pushed_at": "2026-08-24T12:06:49Z",
-      "updated_at": "2026-08-24T11:49:34Z"
+      "pushed_at": "2026-08-24T15:58:08Z",
+      "updated_at": "2026-08-24T16:10:57Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21553,
+      "forks": 1980,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-24T15:43:25Z",
+      "updated_at": "2026-08-24T16:09:12Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 17386,
-      "forks": 1724,
+      "stars": 17390,
+      "forks": 1725,
       "language": "TypeScript",
-      "pushed_at": "2026-08-24T12:41:44Z",
-      "updated_at": "2026-08-24T11:48:49Z"
+      "pushed_at": "2026-08-24T15:58:18Z",
+      "updated_at": "2026-08-24T16:07:03Z"
     },
     {
-      "id": 205326947,
-      "full_name": "espanso/espanso",
-      "html_url": "https://github.com/espanso/espanso",
-      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
-      "stars": 14344,
-      "forks": 457,
-      "language": "Rust",
-      "pushed_at": "2026-08-24T12:40:34Z",
-      "updated_at": "2026-08-24T12:43:48Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12071,
-      "forks": 1505,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14948,
+      "forks": 974,
       "language": "TypeScript",
-      "pushed_at": "2026-08-24T12:27:53Z",
-      "updated_at": "2026-08-24T12:21:53Z"
+      "pushed_at": "2026-08-24T16:14:49Z",
+      "updated_at": "2026-08-24T16:24:16Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9114,
-      "forks": 274,
+      "stars": 9122,
+      "forks": 275,
       "language": "C++",
-      "pushed_at": "2026-08-24T12:13:03Z",
-      "updated_at": "2026-08-24T12:18:01Z"
+      "pushed_at": "2026-08-24T15:58:20Z",
+      "updated_at": "2026-08-24T16:15:42Z"
+    },
+    {
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6229,
+      "forks": 593,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-24T16:06:46Z",
+      "updated_at": "2026-08-24T15:51:31Z"
     },
     {
       "id": 129699403,
@@ -70,96 +92,74 @@
       "stars": 5773,
       "forks": 766,
       "language": "Swift",
-      "pushed_at": "2026-08-24T12:38:53Z",
-      "updated_at": "2026-08-24T12:14:35Z"
+      "pushed_at": "2026-08-24T16:29:46Z",
+      "updated_at": "2026-08-24T16:27:28Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3396,
-      "forks": 157,
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 3193,
+      "forks": 292,
       "language": "TypeScript",
-      "pushed_at": "2026-08-24T12:22:50Z",
-      "updated_at": "2026-08-24T12:24:47Z"
+      "pushed_at": "2026-08-24T16:20:25Z",
+      "updated_at": "2026-08-24T16:32:35Z"
     },
     {
-      "id": 1329272295,
-      "full_name": "Leonxlnx/unlazy",
-      "html_url": "https://github.com/Leonxlnx/unlazy",
-      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-      "stars": 2131,
-      "forks": 115,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-24T12:27:13Z",
-      "updated_at": "2026-08-24T12:45:04Z"
-    },
-    {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1457,
-      "forks": 85,
-      "language": "Dart",
-      "pushed_at": "2026-08-24T12:16:02Z",
-      "updated_at": "2026-08-24T12:20:58Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 851,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-08-24T11:35:07Z",
-      "updated_at": "2026-08-24T12:15:03Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 568,
-      "forks": 72,
-      "language": "C#",
-      "pushed_at": "2026-08-24T12:34:25Z",
-      "updated_at": "2026-08-24T12:38:37Z"
-    },
-    {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 515,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-24T12:21:48Z",
-      "updated_at": "2026-08-24T12:41:56Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-08-24T12:41:26Z",
-      "updated_at": "2026-08-24T12:44:21Z"
-    },
-    {
-      "id": 1322755678,
-      "full_name": "akalikbergenov/cyclop",
-      "html_url": "https://github.com/akalikbergenov/cyclop",
-      "description": "The MacBook notch as a working tool — media controls, file shelf, clipboard history, snippets, calendar, offline translation and a teleprompter. Native SwiftUI, zero dependencies, no permissions. Free and open source.",
-      "stars": 240,
-      "forks": 51,
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2542,
+      "forks": 105,
       "language": "Swift",
-      "pushed_at": "2026-08-24T11:36:45Z",
-      "updated_at": "2026-08-24T11:43:59Z"
+      "pushed_at": "2026-08-24T15:56:46Z",
+      "updated_at": "2026-08-24T16:04:56Z"
+    },
+    {
+      "id": 1312220956,
+      "full_name": "jchultarsky/mirador",
+      "html_url": "https://github.com/jchultarsky/mirador",
+      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
+      "stars": 292,
+      "forks": 29,
+      "language": "Rust",
+      "pushed_at": "2026-08-24T15:39:32Z",
+      "updated_at": "2026-08-24T15:46:48Z"
+    },
+    {
+      "id": 1309395119,
+      "full_name": "sazardev/shiki",
+      "html_url": "https://github.com/sazardev/shiki",
+      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "stars": 283,
+      "forks": 16,
+      "language": "Rust",
+      "pushed_at": "2026-08-24T16:15:17Z",
+      "updated_at": "2026-08-24T16:21:43Z"
+    },
+    {
+      "id": 969718304,
+      "full_name": "ognistik/macrowhisper",
+      "html_url": "https://github.com/ognistik/macrowhisper",
+      "description": "Automation Helper for Superwhisper",
+      "stars": 222,
+      "forks": 18,
+      "language": "Swift",
+      "pushed_at": "2026-08-24T15:55:20Z",
+      "updated_at": "2026-08-24T16:03:36Z"
+    },
+    {
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 174,
+      "forks": 7,
+      "language": "C#",
+      "pushed_at": "2026-08-24T16:31:33Z",
+      "updated_at": "2026-08-24T16:26:04Z"
     },
     {
       "id": 1336386025,
@@ -169,8 +169,8 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-24T11:32:58Z",
-      "updated_at": "2026-08-24T11:35:42Z"
+      "pushed_at": "2026-08-24T15:42:40Z",
+      "updated_at": "2026-08-24T15:48:19Z"
     }
   ]
 }
