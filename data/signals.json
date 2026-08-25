@@ -8,114 +8,103 @@
   "total_found": 1071,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 189359,
-      "forks": 26578,
-      "language": "Shell",
-      "pushed_at": "2026-08-25T08:26:24Z",
-      "updated_at": "2026-08-25T08:31:35Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 77331,
-      "forks": 4865,
-      "language": "Rust",
-      "pushed_at": "2026-08-25T07:39:45Z",
-      "updated_at": "2026-08-25T08:34:38Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41656,
-      "forks": 994,
-      "language": "Rust",
-      "pushed_at": "2026-08-25T08:22:56Z",
-      "updated_at": "2026-08-25T08:28:06Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5947,
-      "forks": 939,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17401,
+      "forks": 1725,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T08:20:10Z",
-      "updated_at": "2026-08-25T07:52:16Z"
+      "pushed_at": "2026-08-25T11:31:43Z",
+      "updated_at": "2026-08-25T12:19:34Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13432,
+      "forks": 832,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T12:31:30Z",
+      "updated_at": "2026-08-25T12:04:32Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12082,
+      "forks": 1507,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T11:35:10Z",
+      "updated_at": "2026-08-25T11:35:46Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 9143,
+      "forks": 277,
+      "language": "C++",
+      "pushed_at": "2026-08-25T12:11:38Z",
+      "updated_at": "2026-08-25T12:21:13Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5774,
+      "stars": 5775,
       "forks": 767,
       "language": "Swift",
-      "pushed_at": "2026-08-25T08:38:22Z",
-      "updated_at": "2026-08-25T08:19:37Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3752,
-      "forks": 261,
-      "language": "Python",
-      "pushed_at": "2026-08-25T07:46:45Z",
-      "updated_at": "2026-08-25T07:48:07Z"
+      "pushed_at": "2026-08-25T12:07:57Z",
+      "updated_at": "2026-08-25T12:41:19Z"
     },
     {
       "id": 1010561139,
       "full_name": "AmintaCCCP/GithubStarsManager",
       "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3400,
+      "stars": 3402,
       "forks": 157,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T08:38:39Z",
-      "updated_at": "2026-08-25T08:28:49Z"
+      "pushed_at": "2026-08-25T12:35:39Z",
+      "updated_at": "2026-08-25T11:52:21Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
-      "stars": 1308,
-      "forks": 233,
-      "language": "HTML",
-      "pushed_at": "2026-08-25T08:18:34Z",
-      "updated_at": "2026-08-25T08:23:05Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1984,
+      "forks": 145,
+      "language": "Dart",
+      "pushed_at": "2026-08-25T12:00:07Z",
+      "updated_at": "2026-08-25T12:04:12Z"
     },
     {
-      "id": 1167485752,
-      "full_name": "tover0314-w/opentypeless",
-      "html_url": "https://github.com/tover0314-w/opentypeless",
-      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
-      "stars": 473,
-      "forks": 91,
-      "language": "Rust",
-      "pushed_at": "2026-08-25T08:30:34Z",
-      "updated_at": "2026-08-25T08:34:26Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 868,
+      "forks": 93,
+      "language": "Python",
+      "pushed_at": "2026-08-25T12:39:56Z",
+      "updated_at": "2026-08-25T12:25:15Z"
     },
     {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
-      "stars": 349,
-      "forks": 79,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-25T08:13:59Z",
-      "updated_at": "2026-08-25T08:39:04Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 568,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-08-25T12:26:51Z",
+      "updated_at": "2026-08-25T12:30:57Z"
     },
     {
       "id": 1312220956,
@@ -125,19 +114,52 @@
       "stars": 292,
       "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-08-25T08:18:32Z",
-      "updated_at": "2026-08-25T08:21:26Z"
+      "pushed_at": "2026-08-25T12:30:33Z",
+      "updated_at": "2026-08-25T12:40:21Z"
     },
     {
-      "id": 1283466765,
-      "full_name": "Licoy/codex-runway",
-      "html_url": "https://github.com/Licoy/codex-runway",
-      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 182,
-      "forks": 8,
+      "id": 1230547152,
+      "full_name": "Meridiona/meridian",
+      "html_url": "https://github.com/Meridiona/meridian",
+      "description": "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you.",
+      "stars": 235,
+      "forks": 20,
+      "language": "Rust",
+      "pushed_at": "2026-08-25T11:57:51Z",
+      "updated_at": "2026-08-25T12:16:44Z"
+    },
+    {
+      "id": 969718304,
+      "full_name": "ognistik/macrowhisper",
+      "html_url": "https://github.com/ognistik/macrowhisper",
+      "description": "Automation Helper for Superwhisper",
+      "stars": 223,
+      "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-08-25T08:24:34Z",
-      "updated_at": "2026-08-25T08:25:33Z"
+      "pushed_at": "2026-08-25T12:14:15Z",
+      "updated_at": "2026-08-25T12:19:51Z"
+    },
+    {
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 179,
+      "forks": 8,
+      "language": "C#",
+      "pushed_at": "2026-08-25T11:32:19Z",
+      "updated_at": "2026-08-25T12:38:52Z"
+    },
+    {
+      "id": 1211713865,
+      "full_name": "HatanoChihiro/obsidian-webnovel-assistant",
+      "html_url": "https://github.com/HatanoChihiro/obsidian-webnovel-assistant",
+      "description": "为小说故事创作设计的 Obsidian 插件 | Obsidian plugin for novel and story writing",
+      "stars": 172,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T12:36:34Z",
+      "updated_at": "2026-08-25T12:40:03Z"
     },
     {
       "id": 1336386025,
@@ -147,30 +169,8 @@
       "stars": 151,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-25T07:48:16Z",
-      "updated_at": "2026-08-25T07:49:25Z"
-    },
-    {
-      "id": 1190641281,
-      "full_name": "ahatem/QTranslate",
-      "html_url": "https://github.com/ahatem/QTranslate",
-      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
-      "stars": 149,
-      "forks": 21,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-25T08:16:30Z",
-      "updated_at": "2026-08-25T08:17:54Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-25T07:44:48Z",
-      "updated_at": "2026-08-25T07:47:27Z"
+      "pushed_at": "2026-08-25T11:32:04Z",
+      "updated_at": "2026-08-25T11:35:47Z"
     }
   ]
 }
