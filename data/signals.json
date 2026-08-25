@@ -8,59 +8,37 @@
   "total_found": 1069,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 242936,
-      "forks": 36763,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-25T01:08:14Z",
-      "updated_at": "2026-08-25T01:06:27Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27249,
+      "forks": 2425,
+      "language": "Go",
+      "pushed_at": "2026-08-25T03:37:35Z",
+      "updated_at": "2026-08-25T03:38:11Z"
     },
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 41645,
-      "forks": 993,
-      "language": "Rust",
-      "pushed_at": "2026-08-24T23:23:52Z",
-      "updated_at": "2026-08-25T00:28:04Z"
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14466,
+      "forks": 986,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T04:24:17Z",
+      "updated_at": "2026-08-25T03:48:15Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39285,
-      "forks": 3902,
-      "language": "C#",
-      "pushed_at": "2026-08-25T00:22:17Z",
-      "updated_at": "2026-08-25T00:22:35Z"
-    },
-    {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16230,
-      "forks": 1266,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-25T00:32:12Z",
-      "updated_at": "2026-08-25T00:32:41Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9131,
-      "forks": 276,
-      "language": "C++",
-      "pushed_at": "2026-08-25T00:47:34Z",
-      "updated_at": "2026-08-25T01:02:45Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2545,
+      "forks": 106,
+      "language": "Swift",
+      "pushed_at": "2026-08-25T03:52:32Z",
+      "updated_at": "2026-08-25T04:19:08Z"
     },
     {
       "id": 1111978380,
@@ -70,63 +48,85 @@
       "stars": 1742,
       "forks": 101,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T00:07:58Z",
-      "updated_at": "2026-08-25T00:08:04Z"
+      "pushed_at": "2026-08-25T04:10:23Z",
+      "updated_at": "2026-08-25T04:10:30Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1113,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-08-25T03:53:21Z",
+      "updated_at": "2026-08-25T03:53:31Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 979,
+      "forks": 54,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T04:13:50Z",
+      "updated_at": "2026-08-25T04:13:37Z"
     },
     {
       "id": 591995344,
       "full_name": "rush86999/atom",
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 862,
+      "stars": 864,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-08-25T00:12:26Z",
-      "updated_at": "2026-08-25T00:12:38Z"
+      "pushed_at": "2026-08-25T03:30:39Z",
+      "updated_at": "2026-08-25T03:30:59Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 614,
-      "forks": 65,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-25T00:24:27Z",
-      "updated_at": "2026-08-25T00:23:59Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 321,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-08-25T01:01:45Z",
-      "updated_at": "2026-08-25T01:02:06Z"
+      "id": 1309395119,
+      "full_name": "sazardev/shiki",
+      "html_url": "https://github.com/sazardev/shiki",
+      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "stars": 284,
+      "forks": 16,
+      "language": "Rust",
+      "pushed_at": "2026-08-25T03:28:22Z",
+      "updated_at": "2026-08-24T20:02:34Z"
     },
     {
       "id": 1016255018,
       "full_name": "theexperiencecompany/gaia",
       "html_url": "https://github.com/theexperiencecompany/gaia",
       "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 275,
+      "stars": 276,
       "forks": 36,
       "language": "Python",
-      "pushed_at": "2026-08-25T01:00:31Z",
-      "updated_at": "2026-08-25T00:57:00Z"
+      "pushed_at": "2026-08-25T04:09:14Z",
+      "updated_at": "2026-08-25T04:01:51Z"
     },
     {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 151,
-      "forks": 14,
-      "language": "HTML",
-      "pushed_at": "2026-08-24T23:25:34Z",
-      "updated_at": "2026-08-24T23:25:39Z"
+      "id": 1217603969,
+      "full_name": "aliaihub/awesome-hermes-usecases",
+      "html_url": "https://github.com/aliaihub/awesome-hermes-usecases",
+      "description": "Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources.",
+      "stars": 200,
+      "forks": 17,
+      "language": "Python",
+      "pushed_at": "2026-08-25T03:50:07Z",
+      "updated_at": "2026-08-25T03:50:21Z"
+    },
+    {
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 175,
+      "forks": 7,
+      "language": "C#",
+      "pushed_at": "2026-08-25T04:18:09Z",
+      "updated_at": "2026-08-25T04:18:24Z"
     },
     {
       "id": 1283327964,
@@ -136,8 +136,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-24T23:23:35Z",
-      "updated_at": "2026-08-24T23:23:59Z"
+      "pushed_at": "2026-08-25T03:54:39Z",
+      "updated_at": "2026-08-25T03:54:44Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +147,30 @@
       "stars": 117,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-25T00:56:06Z",
-      "updated_at": "2026-08-25T00:56:21Z"
+      "pushed_at": "2026-08-25T04:32:44Z",
+      "updated_at": "2026-08-25T04:33:02Z"
     },
     {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 94,
-      "forks": 31,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-24T23:51:49Z",
-      "updated_at": "2026-08-24T23:51:54Z"
+      "id": 1285787558,
+      "full_name": "myunwang/LLMPET",
+      "html_url": "https://github.com/myunwang/LLMPET",
+      "description": "🐙 盯着 Claude Code 的桌面宠物：随 agent 状态变表情、弹消息气泡、一键授权，并统计 token 用量与花费。本地优先、MIT。",
+      "stars": 106,
+      "forks": 17,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-25T03:16:34Z",
+      "updated_at": "2026-08-25T03:16:53Z"
     },
     {
-      "id": 1018267033,
-      "full_name": "vaibhav-mattoo/alman",
-      "html_url": "https://github.com/vaibhav-mattoo/alman",
-      "description": "Smart alias manager with TUI for shell aliases and command-line efficiency 🚀",
-      "stars": 92,
-      "forks": 4,
-      "language": "Rust",
-      "pushed_at": "2026-08-24T23:42:57Z",
-      "updated_at": "2026-08-24T23:45:12Z"
+      "id": 1211152788,
+      "full_name": "jdpolasky/ai-chief-of-staff",
+      "html_url": "https://github.com/jdpolasky/ai-chief-of-staff",
+      "description": "The original AI Chief of Staff built on Claude Code and Obsidian. ADHD prosthetic, open to anyone. Superseded by chief-of-staff-2.",
+      "stars": 95,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-08-25T03:37:47Z",
+      "updated_at": "2026-08-25T03:38:12Z"
     }
   ]
 }
