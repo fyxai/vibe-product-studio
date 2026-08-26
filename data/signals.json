@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1072,
+  "total_found": 1073,
   "items": [
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4348,
-      "forks": 871,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-26T04:26:34Z",
-      "updated_at": "2026-08-26T04:23:09Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1750,
-      "forks": 101,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-26T03:22:08Z",
-      "updated_at": "2026-08-26T03:23:00Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1128,
-      "forks": 41,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 77463,
+      "forks": 4871,
       "language": "Rust",
-      "pushed_at": "2026-08-26T04:21:41Z",
-      "updated_at": "2026-08-26T04:22:24Z"
+      "pushed_at": "2026-08-26T08:11:32Z",
+      "updated_at": "2026-08-26T08:33:18Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "StepanKropachev/obsidian-pm",
-      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 617,
-      "forks": 66,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17408,
+      "forks": 1727,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T02:51:01Z",
-      "updated_at": "2026-08-26T02:51:05Z"
+      "pushed_at": "2026-08-26T07:14:02Z",
+      "updated_at": "2026-08-26T08:10:07Z"
     },
     {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 568,
-      "forks": 72,
-      "language": "C#",
-      "pushed_at": "2026-08-26T03:46:57Z",
-      "updated_at": "2026-08-26T03:47:43Z"
+      "id": 606031950,
+      "full_name": "rockbenben/ChatGPT-Shortcut",
+      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库",
+      "stars": 8715,
+      "forks": 950,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T08:01:27Z",
+      "updated_at": "2026-08-26T08:02:44Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5776,
+      "forks": 767,
+      "language": "Swift",
+      "pushed_at": "2026-08-26T08:16:48Z",
+      "updated_at": "2026-08-26T08:12:42Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 3884,
+      "forks": 501,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T08:31:38Z",
+      "updated_at": "2026-08-26T08:34:45Z"
+    },
+    {
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.",
+      "stars": 670,
+      "forks": 102,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-26T07:21:02Z",
+      "updated_at": "2026-08-26T07:21:10Z"
     },
     {
       "id": 1227213243,
@@ -70,30 +81,52 @@
       "stars": 252,
       "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-08-26T03:00:53Z",
-      "updated_at": "2026-08-26T03:01:28Z"
+      "pushed_at": "2026-08-26T07:17:02Z",
+      "updated_at": "2026-08-26T07:17:44Z"
     },
     {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 187,
-      "forks": 8,
+      "id": 1073657969,
+      "full_name": "alekspetrov/navigator",
+      "html_url": "https://github.com/alekspetrov/navigator",
+      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
+      "stars": 229,
+      "forks": 11,
+      "language": "Python",
+      "pushed_at": "2026-08-26T07:45:28Z",
+      "updated_at": "2026-08-26T07:46:10Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 225,
+      "forks": 44,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T08:33:29Z",
+      "updated_at": "2026-08-26T07:33:24Z"
+    },
+    {
+      "id": 1171240164,
+      "full_name": "LumiBearStudio/SpanFinder",
+      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
+      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
+      "stars": 220,
+      "forks": 14,
       "language": "C#",
-      "pushed_at": "2026-08-26T04:01:21Z",
-      "updated_at": "2026-08-26T04:02:02Z"
+      "pushed_at": "2026-08-26T08:15:15Z",
+      "updated_at": "2026-08-26T08:19:22Z"
     },
     {
-      "id": 1283466765,
-      "full_name": "Licoy/codex-runway",
-      "html_url": "https://github.com/Licoy/codex-runway",
-      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 182,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-08-26T02:53:47Z",
-      "updated_at": "2026-08-26T02:53:48Z"
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
+      "stars": 154,
+      "forks": 23,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-26T07:26:43Z",
+      "updated_at": "2026-08-26T08:17:33Z"
     },
     {
       "id": 1336386025,
@@ -103,41 +136,8 @@
       "stars": 150,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-26T03:09:14Z",
-      "updated_at": "2026-08-26T03:09:27Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 147,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-26T03:44:11Z",
-      "updated_at": "2026-08-26T03:44:26Z"
-    },
-    {
-      "id": 1161498026,
-      "full_name": "alivecontext/alive",
-      "html_url": "https://github.com/alivecontext/alive",
-      "description": "Personal Context Manager for Claude Code. Your life in walnuts.",
-      "stars": 126,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-08-26T03:32:55Z",
-      "updated_at": "2026-08-26T03:33:46Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 120,
-      "forks": 9,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-26T04:23:24Z",
-      "updated_at": "2026-08-26T04:23:53Z"
+      "pushed_at": "2026-08-26T07:50:53Z",
+      "updated_at": "2026-08-26T07:54:10Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +147,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-26T03:06:22Z",
-      "updated_at": "2026-08-26T03:06:44Z"
+      "pushed_at": "2026-08-26T07:48:06Z",
+      "updated_at": "2026-08-26T07:50:21Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +158,19 @@
       "stars": 117,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-26T04:33:43Z",
-      "updated_at": "2026-08-26T04:34:17Z"
+      "pushed_at": "2026-08-26T08:35:54Z",
+      "updated_at": "2026-08-26T07:44:45Z"
     },
     {
-      "id": 1161865259,
-      "full_name": "Avi7ii/AirSend",
-      "html_url": "https://github.com/Avi7ii/AirSend",
-      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
-      "stars": 108,
-      "forks": 3,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-26T03:17:35Z",
-      "updated_at": "2026-08-26T03:18:11Z"
+      "id": 1187493898,
+      "full_name": "vcmf/dim0",
+      "html_url": "https://github.com/vcmf/dim0",
+      "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
+      "stars": 117,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T07:56:35Z",
+      "updated_at": "2026-08-26T07:59:18Z"
     }
   ]
 }
