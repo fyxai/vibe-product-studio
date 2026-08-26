@@ -8,114 +8,92 @@
   "total_found": 1072,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44755,
-      "forks": 2840,
-      "language": "C#",
-      "pushed_at": "2026-08-26T01:05:09Z",
-      "updated_at": "2026-08-26T01:00:01Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9156,
-      "forks": 277,
-      "language": "C++",
-      "pushed_at": "2026-08-25T23:37:31Z",
-      "updated_at": "2026-08-25T23:51:03Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5617,
-      "forks": 328,
-      "language": "Vala",
-      "pushed_at": "2026-08-25T23:04:00Z",
-      "updated_at": "2026-08-25T23:04:23Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 870,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-08-25T23:54:28Z",
-      "updated_at": "2026-08-25T23:54:45Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 705,
-      "forks": 46,
-      "language": "Rust",
-      "pushed_at": "2026-08-26T01:10:38Z",
-      "updated_at": "2026-08-26T01:10:27Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 545,
-      "forks": 97,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4348,
+      "forks": 871,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T00:52:28Z",
-      "updated_at": "2026-08-26T00:53:24Z"
+      "pushed_at": "2026-08-26T04:26:34Z",
+      "updated_at": "2026-08-26T04:23:09Z"
     },
     {
-      "id": 462913472,
-      "full_name": "r3bl-org/r3bl-open-core",
-      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
-      "description": "TUI framework and developer productivity apps in Rust 🦀",
-      "stars": 479,
-      "forks": 31,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1750,
+      "forks": 101,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T03:22:08Z",
+      "updated_at": "2026-08-26T03:23:00Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1128,
+      "forks": 41,
       "language": "Rust",
-      "pushed_at": "2026-08-26T00:28:29Z",
-      "updated_at": "2026-08-26T00:17:55Z"
+      "pushed_at": "2026-08-26T04:21:41Z",
+      "updated_at": "2026-08-26T04:22:24Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 322,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-08-26T01:02:28Z",
-      "updated_at": "2026-08-26T01:02:51Z"
+      "id": 1196349223,
+      "full_name": "StepanKropachev/obsidian-pm",
+      "html_url": "https://github.com/StepanKropachev/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 617,
+      "forks": 66,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T02:51:01Z",
+      "updated_at": "2026-08-26T02:51:05Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 202,
-      "forks": 17,
-      "language": "Dart",
-      "pushed_at": "2026-08-25T22:51:57Z",
-      "updated_at": "2026-08-26T01:07:01Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 568,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-08-26T03:46:57Z",
+      "updated_at": "2026-08-26T03:47:43Z"
+    },
+    {
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME.",
+      "stars": 252,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-08-26T03:00:53Z",
+      "updated_at": "2026-08-26T03:01:28Z"
     },
     {
       "id": 1324755488,
       "full_name": "Lertaro/Lertaro",
       "html_url": "https://github.com/Lertaro/Lertaro",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 183,
+      "stars": 187,
       "forks": 8,
       "language": "C#",
-      "pushed_at": "2026-08-26T00:48:37Z",
-      "updated_at": "2026-08-26T00:49:17Z"
+      "pushed_at": "2026-08-26T04:01:21Z",
+      "updated_at": "2026-08-26T04:02:02Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/codex-runway",
+      "html_url": "https://github.com/Licoy/codex-runway",
+      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
+      "stars": 182,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-08-26T02:53:47Z",
+      "updated_at": "2026-08-26T02:53:48Z"
     },
     {
       "id": 1336386025,
@@ -125,19 +103,41 @@
       "stars": 150,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-25T23:27:57Z",
-      "updated_at": "2026-08-25T23:28:18Z"
+      "pushed_at": "2026-08-26T03:09:14Z",
+      "updated_at": "2026-08-26T03:09:27Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 147,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-26T03:44:11Z",
+      "updated_at": "2026-08-26T03:44:26Z"
+    },
+    {
+      "id": 1161498026,
+      "full_name": "alivecontext/alive",
+      "html_url": "https://github.com/alivecontext/alive",
+      "description": "Personal Context Manager for Claude Code. Your life in walnuts.",
+      "stars": 126,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-08-26T03:32:55Z",
+      "updated_at": "2026-08-26T03:33:46Z"
     },
     {
       "id": 1140929355,
       "full_name": "krelltunez/dayGLANCE",
       "html_url": "https://github.com/krelltunez/dayGLANCE",
       "description": "Your day, at a glance",
-      "stars": 119,
+      "stars": 120,
       "forks": 9,
       "language": "JavaScript",
-      "pushed_at": "2026-08-26T00:57:32Z",
-      "updated_at": "2026-08-26T00:08:22Z"
+      "pushed_at": "2026-08-26T04:23:24Z",
+      "updated_at": "2026-08-26T04:23:53Z"
     },
     {
       "id": 1283327964,
@@ -147,8 +147,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-25T23:25:40Z",
-      "updated_at": "2026-08-25T23:27:21Z"
+      "pushed_at": "2026-08-26T03:06:22Z",
+      "updated_at": "2026-08-26T03:06:44Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +158,19 @@
       "stars": 117,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-26T00:57:10Z",
-      "updated_at": "2026-08-26T00:57:31Z"
+      "pushed_at": "2026-08-26T04:33:43Z",
+      "updated_at": "2026-08-26T04:34:17Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish with our own on-device model (EG-1), Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini key. No account, no subscription, audio never leaves your Mac.",
-      "stars": 85,
-      "forks": 7,
-      "language": "Swift",
-      "pushed_at": "2026-08-26T01:06:40Z",
-      "updated_at": "2026-08-26T00:54:01Z"
+      "id": 1161865259,
+      "full_name": "Avi7ii/AirSend",
+      "html_url": "https://github.com/Avi7ii/AirSend",
+      "description": "A native, headless AirDrop-like client for macOS and Android. Lightweight, fast, and elegant.",
+      "stars": 108,
+      "forks": 3,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-26T03:17:35Z",
+      "updated_at": "2026-08-26T03:18:11Z"
     }
   ]
 }
