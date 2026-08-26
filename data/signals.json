@@ -12,33 +12,44 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 77463,
+      "stars": 77488,
       "forks": 4871,
       "language": "Rust",
-      "pushed_at": "2026-08-26T08:11:32Z",
-      "updated_at": "2026-08-26T08:33:18Z"
+      "pushed_at": "2026-08-26T12:11:10Z",
+      "updated_at": "2026-08-26T12:39:06Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17408,
-      "forks": 1727,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 14990,
+      "forks": 974,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T07:14:02Z",
-      "updated_at": "2026-08-26T08:10:07Z"
+      "pushed_at": "2026-08-26T12:06:39Z",
+      "updated_at": "2026-08-26T12:09:53Z"
     },
     {
-      "id": 606031950,
-      "full_name": "rockbenben/ChatGPT-Shortcut",
-      "html_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
-      "description": "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库",
-      "stars": 8715,
-      "forks": 950,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12091,
+      "forks": 1507,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T08:01:27Z",
-      "updated_at": "2026-08-26T08:02:44Z"
+      "pushed_at": "2026-08-26T11:47:27Z",
+      "updated_at": "2026-08-26T11:48:07Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5951,
+      "forks": 942,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T11:51:27Z",
+      "updated_at": "2026-08-26T12:01:17Z"
     },
     {
       "id": 129699403,
@@ -48,19 +59,41 @@
       "stars": 5776,
       "forks": 767,
       "language": "Swift",
-      "pushed_at": "2026-08-26T08:16:48Z",
-      "updated_at": "2026-08-26T08:12:42Z"
+      "pushed_at": "2026-08-26T12:44:29Z",
+      "updated_at": "2026-08-26T12:15:50Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3884,
-      "forks": 501,
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3409,
+      "forks": 158,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T08:31:38Z",
-      "updated_at": "2026-08-26T08:34:45Z"
+      "pushed_at": "2026-08-26T11:35:32Z",
+      "updated_at": "2026-08-26T11:41:14Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 2121,
+      "forks": 102,
+      "language": "C#",
+      "pushed_at": "2026-08-26T12:43:06Z",
+      "updated_at": "2026-08-26T12:35:52Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1129,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-08-26T11:46:28Z",
+      "updated_at": "2026-08-26T11:47:20Z"
     },
     {
       "id": 1073579907,
@@ -70,63 +103,52 @@
       "stars": 670,
       "forks": 102,
       "language": "JavaScript",
-      "pushed_at": "2026-08-26T07:21:02Z",
-      "updated_at": "2026-08-26T07:21:10Z"
+      "pushed_at": "2026-08-26T12:32:54Z",
+      "updated_at": "2026-08-26T12:36:00Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME.",
-      "stars": 252,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-08-26T07:17:02Z",
-      "updated_at": "2026-08-26T07:17:44Z"
+      "id": 63053090,
+      "full_name": "deseven/iCanHazShortcut",
+      "html_url": "https://github.com/deseven/iCanHazShortcut",
+      "description": "simple shortcut manager for macOS",
+      "stars": 421,
+      "forks": 16,
+      "language": "Swift",
+      "pushed_at": "2026-08-26T12:47:55Z",
+      "updated_at": "2026-08-26T12:10:43Z"
     },
     {
-      "id": 1073657969,
-      "full_name": "alekspetrov/navigator",
-      "html_url": "https://github.com/alekspetrov/navigator",
-      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
-      "stars": 229,
-      "forks": 11,
-      "language": "Python",
-      "pushed_at": "2026-08-26T07:45:28Z",
-      "updated_at": "2026-08-26T07:46:10Z"
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 419,
+      "forks": 42,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-26T12:05:09Z",
+      "updated_at": "2026-08-26T12:05:47Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 225,
-      "forks": 44,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-26T08:33:29Z",
-      "updated_at": "2026-08-26T07:33:24Z"
-    },
-    {
-      "id": 1171240164,
-      "full_name": "LumiBearStudio/SpanFinder",
-      "html_url": "https://github.com/LumiBearStudio/SpanFinder",
-      "description": "macOS Finder-style Miller Columns file explorer for Windows — multi-tab, split view, 10 themes, keyboard-first, FTP/SFTP",
-      "stars": 220,
-      "forks": 14,
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 191,
+      "forks": 9,
       "language": "C#",
-      "pushed_at": "2026-08-26T08:15:15Z",
-      "updated_at": "2026-08-26T08:19:22Z"
+      "pushed_at": "2026-08-26T11:33:14Z",
+      "updated_at": "2026-08-26T12:03:22Z"
     },
     {
       "id": 1190641281,
       "full_name": "ahatem/QTranslate",
       "html_url": "https://github.com/ahatem/QTranslate",
       "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
-      "stars": 154,
+      "stars": 156,
       "forks": 23,
       "language": "Kotlin",
-      "pushed_at": "2026-08-26T07:26:43Z",
-      "updated_at": "2026-08-26T08:17:33Z"
+      "pushed_at": "2026-08-26T12:06:20Z",
+      "updated_at": "2026-08-26T12:06:53Z"
     },
     {
       "id": 1336386025,
@@ -136,8 +158,8 @@
       "stars": 150,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-26T07:50:53Z",
-      "updated_at": "2026-08-26T07:54:10Z"
+      "pushed_at": "2026-08-26T11:33:48Z",
+      "updated_at": "2026-08-26T11:38:44Z"
     },
     {
       "id": 1283327964,
@@ -147,30 +169,8 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-26T07:48:06Z",
-      "updated_at": "2026-08-26T07:50:21Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 117,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-26T08:35:54Z",
-      "updated_at": "2026-08-26T07:44:45Z"
-    },
-    {
-      "id": 1187493898,
-      "full_name": "vcmf/dim0",
-      "html_url": "https://github.com/vcmf/dim0",
-      "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
-      "stars": 117,
-      "forks": 15,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-26T07:56:35Z",
-      "updated_at": "2026-08-26T07:59:18Z"
+      "pushed_at": "2026-08-26T11:31:25Z",
+      "updated_at": "2026-08-26T11:32:48Z"
     }
   ]
 }
