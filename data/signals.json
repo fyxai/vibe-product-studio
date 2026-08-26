@@ -12,22 +12,33 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 77488,
-      "forks": 4871,
+      "stars": 77507,
+      "forks": 4873,
       "language": "Rust",
-      "pushed_at": "2026-08-26T12:11:10Z",
-      "updated_at": "2026-08-26T12:39:06Z"
+      "pushed_at": "2026-08-26T16:35:09Z",
+      "updated_at": "2026-08-26T16:41:09Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 14990,
-      "forks": 974,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44769,
+      "forks": 2841,
+      "language": "C#",
+      "pushed_at": "2026-08-26T16:41:53Z",
+      "updated_at": "2026-08-26T16:42:02Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21611,
+      "forks": 1986,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T12:06:39Z",
-      "updated_at": "2026-08-26T12:09:53Z"
+      "pushed_at": "2026-08-26T16:10:35Z",
+      "updated_at": "2026-08-26T16:43:36Z"
     },
     {
       "id": 665613753,
@@ -35,120 +46,120 @@
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
       "stars": 12091,
-      "forks": 1507,
+      "forks": 1508,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T11:47:27Z",
-      "updated_at": "2026-08-26T11:48:07Z"
+      "pushed_at": "2026-08-26T16:22:04Z",
+      "updated_at": "2026-08-26T16:25:40Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5951,
-      "forks": 942,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-26T11:51:27Z",
-      "updated_at": "2026-08-26T12:01:17Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 9168,
+      "forks": 277,
+      "language": "C++",
+      "pushed_at": "2026-08-26T16:41:05Z",
+      "updated_at": "2026-08-26T16:14:38Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5776,
+      "stars": 5775,
       "forks": 767,
       "language": "Swift",
-      "pushed_at": "2026-08-26T12:44:29Z",
-      "updated_at": "2026-08-26T12:15:50Z"
+      "pushed_at": "2026-08-26T16:33:42Z",
+      "updated_at": "2026-08-26T16:26:59Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3409,
-      "forks": 158,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1753,
+      "forks": 101,
       "language": "TypeScript",
-      "pushed_at": "2026-08-26T11:35:32Z",
-      "updated_at": "2026-08-26T11:41:14Z"
+      "pushed_at": "2026-08-26T16:10:17Z",
+      "updated_at": "2026-08-26T16:11:35Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2121,
-      "forks": 102,
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "stars": 1242,
+      "forks": 95,
       "language": "C#",
-      "pushed_at": "2026-08-26T12:43:06Z",
-      "updated_at": "2026-08-26T12:35:52Z"
+      "pushed_at": "2026-08-26T16:42:48Z",
+      "updated_at": "2026-08-26T16:39:43Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1129,
-      "forks": 41,
-      "language": "Rust",
-      "pushed_at": "2026-08-26T11:46:28Z",
-      "updated_at": "2026-08-26T11:47:20Z"
-    },
-    {
-      "id": 1073579907,
-      "full_name": "shinpr/claude-code-workflows",
-      "html_url": "https://github.com/shinpr/claude-code-workflows",
-      "description": "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.",
-      "stars": 670,
-      "forks": 102,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-26T12:32:54Z",
-      "updated_at": "2026-08-26T12:36:00Z"
-    },
-    {
-      "id": 63053090,
-      "full_name": "deseven/iCanHazShortcut",
-      "html_url": "https://github.com/deseven/iCanHazShortcut",
-      "description": "simple shortcut manager for macOS",
-      "stars": 421,
-      "forks": 16,
-      "language": "Swift",
-      "pushed_at": "2026-08-26T12:47:55Z",
-      "updated_at": "2026-08-26T12:10:43Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 419,
+      "stars": 1131,
       "forks": 42,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-26T12:05:09Z",
-      "updated_at": "2026-08-26T12:05:47Z"
+      "language": "Rust",
+      "pushed_at": "2026-08-26T15:39:13Z",
+      "updated_at": "2026-08-26T15:45:20Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 871,
+      "forks": 93,
+      "language": "Python",
+      "pushed_at": "2026-08-26T16:17:22Z",
+      "updated_at": "2026-08-26T16:17:27Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 568,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-08-26T16:02:26Z",
+      "updated_at": "2026-08-26T15:48:24Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 225,
+      "forks": 44,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T16:15:01Z",
+      "updated_at": "2026-08-26T16:15:29Z"
     },
     {
       "id": 1324755488,
       "full_name": "Lertaro/Lertaro",
       "html_url": "https://github.com/Lertaro/Lertaro",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 191,
+      "stars": 197,
       "forks": 9,
       "language": "C#",
-      "pushed_at": "2026-08-26T11:33:14Z",
-      "updated_at": "2026-08-26T12:03:22Z"
+      "pushed_at": "2026-08-26T16:39:50Z",
+      "updated_at": "2026-08-26T16:43:28Z"
     },
     {
-      "id": 1190641281,
-      "full_name": "ahatem/QTranslate",
-      "html_url": "https://github.com/ahatem/QTranslate",
-      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
-      "stars": 156,
-      "forks": 23,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-26T12:06:20Z",
-      "updated_at": "2026-08-26T12:06:53Z"
+      "id": 1112334575,
+      "full_name": "zhaoliangbin42/AI-MarkDone",
+      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
+      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
+      "stars": 180,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-26T15:31:16Z",
+      "updated_at": "2026-08-26T15:35:50Z"
     },
     {
       "id": 1336386025,
@@ -158,19 +169,8 @@
       "stars": 150,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-08-26T11:33:48Z",
-      "updated_at": "2026-08-26T11:38:44Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-26T11:31:25Z",
-      "updated_at": "2026-08-26T11:32:48Z"
+      "pushed_at": "2026-08-26T16:23:17Z",
+      "updated_at": "2026-08-26T16:24:00Z"
     }
   ]
 }
