@@ -8,81 +8,59 @@
   "total_found": 1078,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 243715,
-      "forks": 36852,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-27T17:24:13Z",
-      "updated_at": "2026-08-27T18:46:16Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6590,
+      "forks": 394,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-28T02:44:43Z",
+      "updated_at": "2026-08-28T02:44:47Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21631,
-      "forks": 1990,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6261,
+      "forks": 594,
       "language": "TypeScript",
-      "pushed_at": "2026-08-27T18:39:48Z",
-      "updated_at": "2026-08-27T18:41:37Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15011,
-      "forks": 974,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-27T18:46:10Z",
-      "updated_at": "2026-08-27T18:35:36Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12098,
-      "forks": 1511,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-27T18:09:59Z",
-      "updated_at": "2026-08-27T18:44:47Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9191,
-      "forks": 278,
-      "language": "C++",
-      "pushed_at": "2026-08-27T18:35:15Z",
-      "updated_at": "2026-08-27T18:44:14Z"
+      "pushed_at": "2026-08-28T03:35:58Z",
+      "updated_at": "2026-08-28T03:08:37Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5773,
-      "forks": 767,
+      "stars": 5776,
+      "forks": 768,
       "language": "Swift",
-      "pushed_at": "2026-08-27T18:48:09Z",
-      "updated_at": "2026-08-27T17:25:54Z"
+      "pushed_at": "2026-08-28T04:00:17Z",
+      "updated_at": "2026-08-28T03:57:31Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2144,
-      "forks": 104,
-      "language": "C#",
-      "pushed_at": "2026-08-27T18:50:56Z",
-      "updated_at": "2026-08-27T18:32:07Z"
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5627,
+      "forks": 332,
+      "language": "Vala",
+      "pushed_at": "2026-08-28T01:47:46Z",
+      "updated_at": "2026-08-28T02:20:37Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4350,
+      "forks": 871,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-28T02:39:48Z",
+      "updated_at": "2026-08-28T02:38:39Z"
     },
     {
       "id": 1111978380,
@@ -92,8 +70,19 @@
       "stars": 1758,
       "forks": 101,
       "language": "TypeScript",
-      "pushed_at": "2026-08-27T17:33:12Z",
-      "updated_at": "2026-08-27T17:45:43Z"
+      "pushed_at": "2026-08-28T02:42:18Z",
+      "updated_at": "2026-08-28T02:42:34Z"
+    },
+    {
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1484,
+      "forks": 87,
+      "language": "Dart",
+      "pushed_at": "2026-08-28T03:49:53Z",
+      "updated_at": "2026-08-28T03:51:41Z"
     },
     {
       "id": 1148683593,
@@ -103,41 +92,8 @@
       "stars": 1135,
       "forks": 43,
       "language": "Rust",
-      "pushed_at": "2026-08-27T18:00:24Z",
-      "updated_at": "2026-08-27T18:08:09Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 877,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-08-27T18:40:26Z",
-      "updated_at": "2026-08-27T17:17:32Z"
-    },
-    {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
-      "stars": 864,
-      "forks": 44,
-      "language": "Java",
-      "pushed_at": "2026-08-27T18:42:36Z",
-      "updated_at": "2026-08-27T18:34:31Z"
-    },
-    {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 633,
-      "forks": 41,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-27T18:44:22Z",
-      "updated_at": "2026-08-27T18:48:21Z"
+      "pushed_at": "2026-08-28T03:47:19Z",
+      "updated_at": "2026-08-28T03:47:34Z"
     },
     {
       "id": 1142482827,
@@ -147,30 +103,74 @@
       "stars": 473,
       "forks": 127,
       "language": "Python",
-      "pushed_at": "2026-08-27T18:43:46Z",
-      "updated_at": "2026-08-27T17:35:06Z"
+      "pushed_at": "2026-08-28T01:35:28Z",
+      "updated_at": "2026-08-28T01:35:33Z"
     },
     {
-      "id": 1279187498,
-      "full_name": "px0-ai/px0",
-      "html_url": "https://github.com/px0-ai/px0",
-      "description": "An agent that works the way you work.",
-      "stars": 228,
-      "forks": 27,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 279,
+      "forks": 36,
       "language": "Python",
-      "pushed_at": "2026-08-27T18:50:52Z",
-      "updated_at": "2026-08-27T18:05:00Z"
+      "pushed_at": "2026-08-28T03:47:27Z",
+      "updated_at": "2026-08-28T02:23:52Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-08-28T02:27:47Z",
+      "updated_at": "2026-08-28T02:27:55Z"
+    },
+    {
+      "id": 1156842910,
+      "full_name": "Lv-0/plumb",
+      "html_url": "https://github.com/Lv-0/plumb",
+      "description": "A lightweight macOS window manager that auto-centers and auto-tiles your apps.",
+      "stars": 207,
+      "forks": 5,
+      "language": "Swift",
+      "pushed_at": "2026-08-28T01:44:12Z",
+      "updated_at": "2026-08-28T01:45:09Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/codex-runway",
+      "html_url": "https://github.com/Licoy/codex-runway",
+      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
+      "stars": 184,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-08-28T03:49:25Z",
+      "updated_at": "2026-08-28T03:50:30Z"
     },
     {
       "id": 1132684547,
       "full_name": "BuildWithAIs/voicekey",
       "html_url": "https://github.com/BuildWithAIs/voicekey",
       "description": "Voice to text, one key to input.",
-      "stars": 178,
+      "stars": 179,
       "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-08-27T17:15:53Z",
-      "updated_at": "2026-08-27T17:21:08Z"
+      "pushed_at": "2026-08-28T03:49:43Z",
+      "updated_at": "2026-08-28T03:49:55Z"
+    },
+    {
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 150,
+      "forks": 14,
+      "language": "HTML",
+      "pushed_at": "2026-08-28T01:22:12Z",
+      "updated_at": "2026-08-28T01:22:16Z"
     }
   ]
 }
