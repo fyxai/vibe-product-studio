@@ -5,73 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1080,
+  "total_found": 1081,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 243945,
-      "forks": 36895,
+      "stars": 243986,
+      "forks": 36903,
       "language": "JavaScript",
-      "pushed_at": "2026-08-28T18:02:10Z",
-      "updated_at": "2026-08-28T19:46:08Z"
+      "pushed_at": "2026-08-29T02:24:24Z",
+      "updated_at": "2026-08-29T02:40:31Z"
     },
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 35374,
-      "forks": 3799,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T18:13:01Z",
-      "updated_at": "2026-08-28T19:30:42Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 189429,
+      "forks": 26581,
+      "language": "Shell",
+      "pushed_at": "2026-08-29T00:43:45Z",
+      "updated_at": "2026-08-29T01:52:27Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21644,
-      "forks": 1993,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T19:30:17Z",
-      "updated_at": "2026-08-28T19:43:54Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15028,
-      "forks": 977,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T19:44:55Z",
-      "updated_at": "2026-08-28T19:46:45Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12103,
-      "forks": 1510,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T19:01:10Z",
-      "updated_at": "2026-08-28T19:37:11Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6597,
-      "forks": 394,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-28T19:47:20Z",
-      "updated_at": "2026-08-28T19:47:28Z"
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21842,
+      "forks": 815,
+      "language": "C",
+      "pushed_at": "2026-08-29T00:23:16Z",
+      "updated_at": "2026-08-29T00:31:28Z"
     },
     {
       "id": 129699403,
@@ -81,96 +48,129 @@
       "stars": 5778,
       "forks": 769,
       "language": "Swift",
-      "pushed_at": "2026-08-28T19:16:54Z",
-      "updated_at": "2026-08-28T18:59:50Z"
+      "pushed_at": "2026-08-29T02:06:24Z",
+      "updated_at": "2026-08-29T01:58:05Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3792,
+      "stars": 3793,
       "forks": 266,
       "language": "Python",
-      "pushed_at": "2026-08-28T19:00:08Z",
-      "updated_at": "2026-08-28T19:00:16Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2152,
-      "forks": 106,
-      "language": "C#",
-      "pushed_at": "2026-08-28T18:01:56Z",
-      "updated_at": "2026-08-28T17:59:54Z"
+      "pushed_at": "2026-08-29T02:38:39Z",
+      "updated_at": "2026-08-29T01:42:19Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1763,
-      "forks": 102,
+      "stars": 1764,
+      "forks": 103,
       "language": "TypeScript",
-      "pushed_at": "2026-08-28T18:11:56Z",
-      "updated_at": "2026-08-28T18:16:48Z"
+      "pushed_at": "2026-08-29T00:56:59Z",
+      "updated_at": "2026-08-29T00:59:48Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 1686,
-      "forks": 118,
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1499,
+      "forks": 87,
+      "language": "Dart",
+      "pushed_at": "2026-08-29T02:23:18Z",
+      "updated_at": "2026-08-29T02:23:30Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 878,
+      "forks": 93,
+      "language": "Python",
+      "pushed_at": "2026-08-29T02:16:49Z",
+      "updated_at": "2026-08-29T02:17:08Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 473,
+      "forks": 126,
+      "language": "Python",
+      "pushed_at": "2026-08-29T00:43:06Z",
+      "updated_at": "2026-08-29T00:43:18Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
+      "stars": 360,
+      "forks": 82,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-29T01:12:56Z",
+      "updated_at": "2026-08-29T01:59:46Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 334,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-29T02:07:17Z",
+      "updated_at": "2026-08-29T02:07:37Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-29T00:53:41Z",
+      "updated_at": "2026-08-29T00:53:48Z"
+    },
+    {
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 212,
+      "forks": 9,
       "language": "C#",
-      "pushed_at": "2026-08-28T18:21:11Z",
-      "updated_at": "2026-08-28T18:56:59Z"
+      "pushed_at": "2026-08-29T00:49:30Z",
+      "updated_at": "2026-08-29T00:49:37Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1140,
-      "forks": 43,
-      "language": "Rust",
-      "pushed_at": "2026-08-28T19:53:21Z",
-      "updated_at": "2026-08-28T19:02:03Z"
-    },
-    {
-      "id": 63333652,
-      "full_name": "alexadam/save-as-ebook",
-      "html_url": "https://github.com/alexadam/save-as-ebook",
-      "description": "Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
-      "stars": 1121,
-      "forks": 73,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-28T18:33:28Z",
-      "updated_at": "2026-08-28T18:39:43Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 340,
+      "id": 1169355653,
+      "full_name": "mobrava/Clipbara",
+      "html_url": "https://github.com/mobrava/Clipbara",
+      "description": "Free, open-source clipboard manager for macOS. Native card-style UI with Pinboards, Quick Look, and 100% local storage.",
+      "stars": 158,
       "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T19:32:45Z",
-      "updated_at": "2026-08-28T19:34:59Z"
+      "language": "Swift",
+      "pushed_at": "2026-08-29T02:27:10Z",
+      "updated_at": "2026-08-29T02:29:08Z"
     },
     {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 292,
-      "forks": 52,
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 123,
+      "forks": 10,
       "language": "JavaScript",
-      "pushed_at": "2026-08-28T19:27:26Z",
-      "updated_at": "2026-08-28T19:31:45Z"
+      "pushed_at": "2026-08-29T00:51:07Z",
+      "updated_at": "2026-08-29T00:36:08Z"
     }
   ]
 }
