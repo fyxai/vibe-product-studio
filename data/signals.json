@@ -5,29 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1081,
+  "total_found": 1082,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21656,
-      "forks": 1992,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-29T16:12:39Z",
-      "updated_at": "2026-08-29T15:52:36Z"
+      "id": 592882602,
+      "full_name": "mrkai77/Loop",
+      "html_url": "https://github.com/mrkai77/Loop",
+      "description": "Window management made elegant.",
+      "stars": 11456,
+      "forks": 265,
+      "language": "Swift",
+      "pushed_at": "2026-08-29T21:58:03Z",
+      "updated_at": "2026-08-29T21:58:14Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5518,
-      "forks": 648,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-29T15:03:57Z",
-      "updated_at": "2026-08-29T15:18:43Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5781,
+      "forks": 769,
+      "language": "Swift",
+      "pushed_at": "2026-08-29T22:07:53Z",
+      "updated_at": "2026-08-29T21:27:02Z"
+    },
+    {
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3801,
+      "forks": 268,
+      "language": "Python",
+      "pushed_at": "2026-08-29T22:01:01Z",
+      "updated_at": "2026-08-29T21:53:57Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 1987,
+      "forks": 147,
+      "language": "Dart",
+      "pushed_at": "2026-08-29T21:49:20Z",
+      "updated_at": "2026-08-29T21:49:29Z"
     },
     {
       "id": 257400448,
@@ -37,63 +59,30 @@
       "stars": 1941,
       "forks": 141,
       "language": "Go",
-      "pushed_at": "2026-08-29T15:36:53Z",
-      "updated_at": "2026-08-29T15:32:27Z"
+      "pushed_at": "2026-08-29T21:22:03Z",
+      "updated_at": "2026-08-29T21:17:02Z"
     },
     {
-      "id": 220114000,
-      "full_name": "chipsalliance/verible",
-      "html_url": "https://github.com/chipsalliance/verible",
-      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
-      "stars": 1921,
-      "forks": 302,
-      "language": "C++",
-      "pushed_at": "2026-08-29T15:43:20Z",
-      "updated_at": "2026-08-29T15:22:22Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1200,
-      "forks": 129,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-29T16:13:04Z",
-      "updated_at": "2026-08-29T15:29:12Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1144,
-      "forks": 44,
-      "language": "Rust",
-      "pushed_at": "2026-08-29T15:57:04Z",
-      "updated_at": "2026-08-29T15:57:32Z"
-    },
-    {
-      "id": 177397013,
-      "full_name": "houmain/keymapper",
-      "html_url": "https://github.com/houmain/keymapper",
-      "description": "A cross-platform context-aware key remapper.",
-      "stars": 1139,
-      "forks": 46,
-      "language": "C++",
-      "pushed_at": "2026-08-29T16:01:41Z",
-      "updated_at": "2026-08-29T15:25:21Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 987,
-      "forks": 57,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1767,
+      "forks": 103,
       "language": "TypeScript",
-      "pushed_at": "2026-08-29T16:08:18Z",
-      "updated_at": "2026-08-29T16:09:02Z"
+      "pushed_at": "2026-08-29T21:40:45Z",
+      "updated_at": "2026-08-29T21:44:43Z"
+    },
+    {
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1586,
+      "forks": 74,
+      "language": "Rust",
+      "pushed_at": "2026-08-29T21:51:15Z",
+      "updated_at": "2026-08-29T21:48:28Z"
     },
     {
       "id": 591995344,
@@ -103,19 +92,8 @@
       "stars": 878,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-08-29T16:03:46Z",
-      "updated_at": "2026-08-29T16:05:16Z"
-    },
-    {
-      "id": 1167485752,
-      "full_name": "tover0314-w/opentypeless",
-      "html_url": "https://github.com/tover0314-w/opentypeless",
-      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
-      "stars": 482,
-      "forks": 95,
-      "language": "Rust",
-      "pushed_at": "2026-08-29T15:50:30Z",
-      "updated_at": "2026-08-29T15:55:02Z"
+      "pushed_at": "2026-08-29T22:07:34Z",
+      "updated_at": "2026-08-29T22:08:00Z"
     },
     {
       "id": 1006740535,
@@ -125,41 +103,52 @@
       "stars": 340,
       "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-08-29T16:10:23Z",
-      "updated_at": "2026-08-29T15:56:41Z"
+      "pushed_at": "2026-08-29T22:22:00Z",
+      "updated_at": "2026-08-29T21:17:51Z"
     },
     {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 313,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-08-29T14:37:10Z",
-      "updated_at": "2026-08-29T14:37:03Z"
+      "pushed_at": "2026-08-29T21:37:25Z",
+      "updated_at": "2026-08-29T21:37:40Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 245,
-      "forks": 21,
-      "language": "Dart",
-      "pushed_at": "2026-08-29T16:10:44Z",
-      "updated_at": "2026-08-29T16:12:05Z"
+      "id": 163754017,
+      "full_name": "gergelyszabo94/csgo-trader-extension",
+      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
+      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
+      "stars": 292,
+      "forks": 52,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-29T21:36:50Z",
+      "updated_at": "2026-08-29T21:36:56Z"
     },
     {
-      "id": 1093854529,
-      "full_name": "Squirreljetpack/matchmaker",
-      "html_url": "https://github.com/Squirreljetpack/matchmaker",
-      "description": "powerful multi-purpose fuzzy searcher",
-      "stars": 238,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-08-29T15:27:21Z",
-      "updated_at": "2026-08-29T15:28:11Z"
+      "id": 1210906575,
+      "full_name": "alexsmedile/hormozi-skills",
+      "html_url": "https://github.com/alexsmedile/hormozi-skills",
+      "description": "Skill library for building Hormozi-inspired offer systems. Build offers people can’t say no to!",
+      "stars": 137,
+      "forks": 27,
+      "language": "Unknown",
+      "pushed_at": "2026-08-29T21:24:37Z",
+      "updated_at": "2026-08-29T21:24:45Z"
+    },
+    {
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 133,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-29T22:10:11Z",
+      "updated_at": "2026-08-29T22:10:11Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +158,19 @@
       "stars": 117,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-29T15:24:15Z",
-      "updated_at": "2026-08-29T15:24:20Z"
+      "pushed_at": "2026-08-29T22:11:19Z",
+      "updated_at": "2026-08-29T22:11:44Z"
+    },
+    {
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The all-in-one platform for humans and agents to get work done",
+      "stars": 112,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-29T22:19:25Z",
+      "updated_at": "2026-08-29T22:19:54Z"
     }
   ]
 }
