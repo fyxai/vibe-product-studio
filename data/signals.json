@@ -8,81 +8,59 @@
   "total_found": 1081,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39359,
-      "forks": 3905,
-      "language": "C#",
-      "pushed_at": "2026-08-29T10:39:26Z",
-      "updated_at": "2026-08-29T10:40:44Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27291,
-      "forks": 2430,
-      "language": "Go",
-      "pushed_at": "2026-08-29T10:04:31Z",
-      "updated_at": "2026-08-29T10:04:44Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26324,
-      "forks": 1936,
-      "language": "Vue",
-      "pushed_at": "2026-08-29T09:36:26Z",
-      "updated_at": "2026-08-29T09:37:12Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21652,
-      "forks": 1993,
+      "stars": 21656,
+      "forks": 1992,
       "language": "TypeScript",
-      "pushed_at": "2026-08-29T10:40:00Z",
-      "updated_at": "2026-08-29T10:41:02Z"
+      "pushed_at": "2026-08-29T16:12:39Z",
+      "updated_at": "2026-08-29T15:52:36Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 3249,
-      "forks": 295,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-29T09:57:50Z",
-      "updated_at": "2026-08-29T09:57:58Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5518,
+      "forks": 648,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-29T15:03:57Z",
+      "updated_at": "2026-08-29T15:18:43Z"
     },
     {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 1986,
-      "forks": 146,
-      "language": "Dart",
-      "pushed_at": "2026-08-29T10:46:11Z",
-      "updated_at": "2026-08-29T10:13:13Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1941,
+      "forks": 141,
+      "language": "Go",
+      "pushed_at": "2026-08-29T15:36:53Z",
+      "updated_at": "2026-08-29T15:32:27Z"
     },
     {
-      "id": 582248876,
-      "full_name": "chocoford/ExcalidrawZ",
-      "html_url": "https://github.com/chocoford/ExcalidrawZ",
-      "description": "Excalidraw app for mac. Powered by pure SwiftUI.",
-      "stars": 1407,
-      "forks": 74,
-      "language": "Swift",
-      "pushed_at": "2026-08-29T10:47:03Z",
-      "updated_at": "2026-08-29T10:46:39Z"
+      "id": 220114000,
+      "full_name": "chipsalliance/verible",
+      "html_url": "https://github.com/chipsalliance/verible",
+      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+      "stars": 1921,
+      "forks": 302,
+      "language": "C++",
+      "pushed_at": "2026-08-29T15:43:20Z",
+      "updated_at": "2026-08-29T15:22:22Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1200,
+      "forks": 129,
+      "language": "Kotlin",
+      "pushed_at": "2026-08-29T16:13:04Z",
+      "updated_at": "2026-08-29T15:29:12Z"
     },
     {
       "id": 1148683593,
@@ -92,30 +70,41 @@
       "stars": 1144,
       "forks": 44,
       "language": "Rust",
-      "pushed_at": "2026-08-29T10:32:08Z",
-      "updated_at": "2026-08-29T10:32:19Z"
+      "pushed_at": "2026-08-29T15:57:04Z",
+      "updated_at": "2026-08-29T15:57:32Z"
     },
     {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
-      "stars": 864,
-      "forks": 44,
-      "language": "Java",
-      "pushed_at": "2026-08-29T09:59:53Z",
-      "updated_at": "2026-08-29T10:27:49Z"
+      "id": 177397013,
+      "full_name": "houmain/keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "stars": 1139,
+      "forks": 46,
+      "language": "C++",
+      "pushed_at": "2026-08-29T16:01:41Z",
+      "updated_at": "2026-08-29T15:25:21Z"
     },
     {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 832,
-      "forks": 41,
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 987,
+      "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-08-29T10:35:25Z",
-      "updated_at": "2026-08-29T10:35:32Z"
+      "pushed_at": "2026-08-29T16:08:18Z",
+      "updated_at": "2026-08-29T16:09:02Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 878,
+      "forks": 93,
+      "language": "Python",
+      "pushed_at": "2026-08-29T16:03:46Z",
+      "updated_at": "2026-08-29T16:05:16Z"
     },
     {
       "id": 1167485752,
@@ -125,8 +114,19 @@
       "stars": 482,
       "forks": 95,
       "language": "Rust",
-      "pushed_at": "2026-08-29T09:50:18Z",
-      "updated_at": "2026-08-29T09:47:52Z"
+      "pushed_at": "2026-08-29T15:50:30Z",
+      "updated_at": "2026-08-29T15:55:02Z"
+    },
+    {
+      "id": 1006740535,
+      "full_name": "ljtn/epiq",
+      "html_url": "https://github.com/ljtn/epiq",
+      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
+      "stars": 340,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-29T16:10:23Z",
+      "updated_at": "2026-08-29T15:56:41Z"
     },
     {
       "id": 226175035,
@@ -136,30 +136,30 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-08-29T09:50:41Z",
-      "updated_at": "2026-08-29T09:50:56Z"
+      "pushed_at": "2026-08-29T14:37:10Z",
+      "updated_at": "2026-08-29T14:37:03Z"
     },
     {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 216,
-      "forks": 9,
-      "language": "C#",
-      "pushed_at": "2026-08-29T10:15:23Z",
-      "updated_at": "2026-08-29T10:16:05Z"
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 245,
+      "forks": 21,
+      "language": "Dart",
+      "pushed_at": "2026-08-29T16:10:44Z",
+      "updated_at": "2026-08-29T16:12:05Z"
     },
     {
-      "id": 1073368386,
-      "full_name": "kanban-rs/kanban",
-      "html_url": "https://github.com/kanban-rs/kanban",
-      "description": "Terminal based project management solution",
-      "stars": 163,
-      "forks": 9,
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
+      "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-08-29T10:40:55Z",
-      "updated_at": "2026-08-29T10:41:08Z"
+      "pushed_at": "2026-08-29T15:27:21Z",
+      "updated_at": "2026-08-29T15:28:11Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-08-29T10:39:12Z",
-      "updated_at": "2026-08-29T10:39:25Z"
+      "pushed_at": "2026-08-29T15:24:15Z",
+      "updated_at": "2026-08-29T15:24:20Z"
     }
   ]
 }
