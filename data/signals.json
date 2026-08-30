@@ -5,117 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1085,
+  "total_found": 1086,
   "items": [
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 130793,
-      "forks": 15068,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T08:06:49Z",
-      "updated_at": "2026-08-30T09:37:06Z"
-    },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27297,
-      "forks": 2430,
+      "stars": 27301,
+      "forks": 2431,
       "language": "Go",
-      "pushed_at": "2026-08-30T09:32:50Z",
-      "updated_at": "2026-08-30T09:32:57Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26327,
-      "forks": 1936,
-      "language": "Vue",
-      "pushed_at": "2026-08-30T09:42:28Z",
-      "updated_at": "2026-08-30T09:43:10Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21847,
-      "forks": 815,
-      "language": "C",
-      "pushed_at": "2026-08-30T09:04:59Z",
-      "updated_at": "2026-08-30T09:05:15Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21662,
-      "forks": 1994,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T08:22:12Z",
-      "updated_at": "2026-08-30T09:38:36Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15459,
-      "forks": 638,
-      "language": "C#",
-      "pushed_at": "2026-08-30T08:15:14Z",
-      "updated_at": "2026-08-30T09:11:21Z"
+      "pushed_at": "2026-08-30T15:36:23Z",
+      "updated_at": "2026-08-30T15:44:09Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15053,
-      "forks": 982,
+      "stars": 15057,
+      "forks": 984,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T08:50:35Z",
-      "updated_at": "2026-08-30T09:19:28Z"
+      "pushed_at": "2026-08-30T15:55:10Z",
+      "updated_at": "2026-08-30T15:22:00Z"
     },
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 6263,
-      "forks": 593,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3804,
+      "forks": 268,
+      "language": "Python",
+      "pushed_at": "2026-08-30T15:56:14Z",
+      "updated_at": "2026-08-30T15:56:26Z"
+    },
+    {
+      "id": 855207363,
+      "full_name": "kubewall/kubewall",
+      "html_url": "https://github.com/kubewall/kubewall",
+      "description": "kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.",
+      "stars": 1932,
+      "forks": 101,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T08:29:17Z",
-      "updated_at": "2026-08-30T08:29:51Z"
+      "pushed_at": "2026-08-30T15:38:36Z",
+      "updated_at": "2026-08-30T15:38:55Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5783,
-      "forks": 770,
-      "language": "Swift",
-      "pushed_at": "2026-08-30T08:32:43Z",
-      "updated_at": "2026-08-30T08:42:27Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1794,
+      "forks": 104,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-30T15:03:06Z",
+      "updated_at": "2026-08-30T15:58:52Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1942,
-      "forks": 142,
-      "language": "Go",
-      "pushed_at": "2026-08-30T08:20:54Z",
-      "updated_at": "2026-08-30T08:45:02Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1597,
+      "forks": 74,
+      "language": "Rust",
+      "pushed_at": "2026-08-30T15:07:08Z",
+      "updated_at": "2026-08-30T15:57:18Z"
     },
     {
       "id": 1148683593,
@@ -125,19 +81,63 @@
       "stars": 1144,
       "forks": 44,
       "language": "Rust",
-      "pushed_at": "2026-08-30T09:27:05Z",
-      "updated_at": "2026-08-30T09:26:25Z"
+      "pushed_at": "2026-08-30T15:57:25Z",
+      "updated_at": "2026-08-30T15:23:39Z"
     },
     {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 843,
-      "forks": 71,
-      "language": "Swift",
-      "pushed_at": "2026-08-30T09:25:47Z",
-      "updated_at": "2026-08-30T09:25:51Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 878,
+      "forks": 93,
+      "language": "Python",
+      "pushed_at": "2026-08-30T15:06:17Z",
+      "updated_at": "2026-08-30T15:06:50Z"
+    },
+    {
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
+      "stars": 866,
+      "forks": 45,
+      "language": "Java",
+      "pushed_at": "2026-08-30T15:57:16Z",
+      "updated_at": "2026-08-30T15:57:23Z"
+    },
+    {
+      "id": 1006740535,
+      "full_name": "ljtn/epiq",
+      "html_url": "https://github.com/ljtn/epiq",
+      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
+      "stars": 340,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-30T15:53:45Z",
+      "updated_at": "2026-08-30T14:57:48Z"
+    },
+    {
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 334,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-30T15:48:12Z",
+      "updated_at": "2026-08-30T15:48:19Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 322,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-08-30T15:57:16Z",
+      "updated_at": "2026-08-30T15:57:33Z"
     },
     {
       "id": 163754017,
@@ -147,30 +147,30 @@
       "stars": 292,
       "forks": 52,
       "language": "JavaScript",
-      "pushed_at": "2026-08-30T08:14:09Z",
-      "updated_at": "2026-08-30T08:14:48Z"
+      "pushed_at": "2026-08-30T15:59:04Z",
+      "updated_at": "2026-08-30T16:00:32Z"
     },
     {
-      "id": 1156842910,
-      "full_name": "Lv-0/plumb",
-      "html_url": "https://github.com/Lv-0/plumb",
-      "description": "A lightweight macOS window manager that auto-centers and auto-tiles your apps.",
-      "stars": 213,
-      "forks": 5,
-      "language": "Swift",
-      "pushed_at": "2026-08-30T09:28:21Z",
-      "updated_at": "2026-08-30T09:28:30Z"
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 221,
+      "forks": 9,
+      "language": "C#",
+      "pushed_at": "2026-08-30T15:52:01Z",
+      "updated_at": "2026-08-30T15:52:12Z"
     },
     {
-      "id": 1281865940,
-      "full_name": "drewnekota/cetus",
-      "html_url": "https://github.com/drewnekota/cetus",
-      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
-      "stars": 141,
-      "forks": 11,
+      "id": 1311664525,
+      "full_name": "KitionAI/kition",
+      "html_url": "https://github.com/KitionAI/kition",
+      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
+      "stars": 197,
+      "forks": 16,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T07:57:11Z",
-      "updated_at": "2026-08-30T07:57:36Z"
+      "pushed_at": "2026-08-30T15:06:21Z",
+      "updated_at": "2026-08-30T14:57:58Z"
     }
   ]
 }
