@@ -8,103 +8,103 @@
   "total_found": 1086,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27301,
-      "forks": 2431,
-      "language": "Go",
-      "pushed_at": "2026-08-30T15:36:23Z",
-      "updated_at": "2026-08-30T15:44:09Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 244676,
+      "forks": 36982,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-30T19:52:28Z",
+      "updated_at": "2026-08-30T22:23:17Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15057,
-      "forks": 984,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T15:55:10Z",
-      "updated_at": "2026-08-30T15:22:00Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 77931,
+      "forks": 4909,
+      "language": "Rust",
+      "pushed_at": "2026-08-30T22:06:15Z",
+      "updated_at": "2026-08-30T22:22:29Z"
+    },
+    {
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 44831,
+      "forks": 2850,
+      "language": "C#",
+      "pushed_at": "2026-08-30T21:45:43Z",
+      "updated_at": "2026-08-30T21:46:06Z"
+    },
+    {
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 9979,
+      "forks": 802,
+      "language": "HTML",
+      "pushed_at": "2026-08-30T22:22:38Z",
+      "updated_at": "2026-08-30T22:22:58Z"
+    },
+    {
+      "id": 85459264,
+      "full_name": "ohmybash/oh-my-bash",
+      "html_url": "https://github.com/ohmybash/oh-my-bash",
+      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+      "stars": 7669,
+      "forks": 785,
+      "language": "Shell",
+      "pushed_at": "2026-08-30T20:42:39Z",
+      "updated_at": "2026-08-30T20:42:49Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3804,
+      "stars": 3806,
       "forks": 268,
       "language": "Python",
-      "pushed_at": "2026-08-30T15:56:14Z",
-      "updated_at": "2026-08-30T15:56:26Z"
+      "pushed_at": "2026-08-30T22:22:35Z",
+      "updated_at": "2026-08-30T21:38:40Z"
     },
     {
-      "id": 855207363,
-      "full_name": "kubewall/kubewall",
-      "html_url": "https://github.com/kubewall/kubewall",
-      "description": "kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.",
-      "stars": 1932,
-      "forks": 101,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T15:38:36Z",
-      "updated_at": "2026-08-30T15:38:55Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "stars": 2648,
+      "forks": 110,
+      "language": "Swift",
+      "pushed_at": "2026-08-30T20:28:03Z",
+      "updated_at": "2026-08-30T21:19:41Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1794,
-      "forks": 104,
+      "stars": 1825,
+      "forks": 105,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T15:03:06Z",
-      "updated_at": "2026-08-30T15:58:52Z"
+      "pushed_at": "2026-08-30T21:16:14Z",
+      "updated_at": "2026-08-30T22:16:07Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
-      "stars": 1597,
-      "forks": 74,
-      "language": "Rust",
-      "pushed_at": "2026-08-30T15:07:08Z",
-      "updated_at": "2026-08-30T15:57:18Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1144,
-      "forks": 44,
-      "language": "Rust",
-      "pushed_at": "2026-08-30T15:57:25Z",
-      "updated_at": "2026-08-30T15:23:39Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 878,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-08-30T15:06:17Z",
-      "updated_at": "2026-08-30T15:06:50Z"
-    },
-    {
-      "id": 735408417,
-      "full_name": "petoncle/mousemaster",
-      "html_url": "https://github.com/petoncle/mousemaster",
-      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
-      "stars": 866,
-      "forks": 45,
-      "language": "Java",
-      "pushed_at": "2026-08-30T15:57:16Z",
-      "updated_at": "2026-08-30T15:57:23Z"
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Scrolly, Blok and more!",
+      "stars": 758,
+      "forks": 128,
+      "language": "Swift",
+      "pushed_at": "2026-08-30T20:18:52Z",
+      "updated_at": "2026-08-30T20:18:54Z"
     },
     {
       "id": 1006740535,
@@ -114,8 +114,8 @@
       "stars": 340,
       "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T15:53:45Z",
-      "updated_at": "2026-08-30T14:57:48Z"
+      "pushed_at": "2026-08-30T21:08:11Z",
+      "updated_at": "2026-08-30T21:01:01Z"
     },
     {
       "id": 1030039430,
@@ -125,8 +125,8 @@
       "stars": 334,
       "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T15:48:12Z",
-      "updated_at": "2026-08-30T15:48:19Z"
+      "pushed_at": "2026-08-30T20:26:21Z",
+      "updated_at": "2026-08-30T20:26:30Z"
     },
     {
       "id": 1166865874,
@@ -136,41 +136,41 @@
       "stars": 322,
       "forks": 29,
       "language": "Shell",
-      "pushed_at": "2026-08-30T15:57:16Z",
-      "updated_at": "2026-08-30T15:57:33Z"
+      "pushed_at": "2026-08-30T20:28:22Z",
+      "updated_at": "2026-08-30T20:29:23Z"
     },
     {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 292,
-      "forks": 52,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-30T15:59:04Z",
-      "updated_at": "2026-08-30T16:00:32Z"
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 286,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-08-30T22:16:10Z",
+      "updated_at": "2026-08-30T21:19:02Z"
     },
     {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 221,
-      "forks": 9,
-      "language": "C#",
-      "pushed_at": "2026-08-30T15:52:01Z",
-      "updated_at": "2026-08-30T15:52:12Z"
-    },
-    {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 197,
+      "id": 412647584,
+      "full_name": "akiver/AltBacktick",
+      "html_url": "https://github.com/akiver/AltBacktick",
+      "description": "Switch between windows using ALT+backtick",
+      "stars": 187,
       "forks": 16,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T15:06:21Z",
-      "updated_at": "2026-08-30T14:57:58Z"
+      "language": "C++",
+      "pushed_at": "2026-08-30T21:46:51Z",
+      "updated_at": "2026-08-30T21:46:59Z"
+    },
+    {
+      "id": 73910557,
+      "full_name": "iazarny/gitember",
+      "html_url": "https://github.com/iazarny/gitember",
+      "description": "Gitember not just another git GUI client",
+      "stars": 153,
+      "forks": 19,
+      "language": "Java",
+      "pushed_at": "2026-08-30T20:13:15Z",
+      "updated_at": "2026-08-30T20:13:45Z"
     }
   ]
 }
