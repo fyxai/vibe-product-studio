@@ -5,8 +5,41 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1083,
+  "total_found": 1085,
   "items": [
+    {
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 130793,
+      "forks": 15068,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-30T08:06:49Z",
+      "updated_at": "2026-08-30T09:37:06Z"
+    },
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27297,
+      "forks": 2430,
+      "language": "Go",
+      "pushed_at": "2026-08-30T09:32:50Z",
+      "updated_at": "2026-08-30T09:32:57Z"
+    },
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 26327,
+      "forks": 1936,
+      "language": "Vue",
+      "pushed_at": "2026-08-30T09:42:28Z",
+      "updated_at": "2026-08-30T09:43:10Z"
+    },
     {
       "id": 66150122,
       "full_name": "jarun/nnn",
@@ -15,63 +48,74 @@
       "stars": 21847,
       "forks": 815,
       "language": "C",
-      "pushed_at": "2026-08-30T03:44:17Z",
-      "updated_at": "2026-08-30T03:44:46Z"
+      "pushed_at": "2026-08-30T09:04:59Z",
+      "updated_at": "2026-08-30T09:05:15Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6616,
-      "forks": 395,
-      "language": "Kotlin",
-      "pushed_at": "2026-08-30T03:05:35Z",
-      "updated_at": "2026-08-30T03:18:25Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3802,
-      "forks": 268,
-      "language": "Python",
-      "pushed_at": "2026-08-30T03:33:32Z",
-      "updated_at": "2026-08-30T03:04:48Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2323,
-      "forks": 95,
-      "language": "Swift",
-      "pushed_at": "2026-08-30T03:37:16Z",
-      "updated_at": "2026-08-30T03:34:56Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1768,
-      "forks": 103,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21662,
+      "forks": 1994,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T02:44:25Z",
-      "updated_at": "2026-08-30T02:46:10Z"
+      "pushed_at": "2026-08-30T08:22:12Z",
+      "updated_at": "2026-08-30T09:38:36Z"
     },
     {
-      "id": 860188605,
-      "full_name": "iwe-org/iwe",
-      "html_url": "https://github.com/iwe-org/iwe",
-      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
-      "stars": 1588,
-      "forks": 74,
-      "language": "Rust",
-      "pushed_at": "2026-08-30T02:52:06Z",
-      "updated_at": "2026-08-30T02:49:34Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15459,
+      "forks": 638,
+      "language": "C#",
+      "pushed_at": "2026-08-30T08:15:14Z",
+      "updated_at": "2026-08-30T09:11:21Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15053,
+      "forks": 982,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-30T08:50:35Z",
+      "updated_at": "2026-08-30T09:19:28Z"
+    },
+    {
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6263,
+      "forks": 593,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-30T08:29:17Z",
+      "updated_at": "2026-08-30T08:29:51Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5783,
+      "forks": 770,
+      "language": "Swift",
+      "pushed_at": "2026-08-30T08:32:43Z",
+      "updated_at": "2026-08-30T08:42:27Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1942,
+      "forks": 142,
+      "language": "Go",
+      "pushed_at": "2026-08-30T08:20:54Z",
+      "updated_at": "2026-08-30T08:45:02Z"
     },
     {
       "id": 1148683593,
@@ -81,96 +125,52 @@
       "stars": 1144,
       "forks": 44,
       "language": "Rust",
-      "pushed_at": "2026-08-30T03:27:07Z",
-      "updated_at": "2026-08-30T03:27:20Z"
+      "pushed_at": "2026-08-30T09:27:05Z",
+      "updated_at": "2026-08-30T09:26:25Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 878,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-08-30T03:23:27Z",
-      "updated_at": "2026-08-30T03:23:55Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 340,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T02:59:08Z",
-      "updated_at": "2026-08-30T02:58:54Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 334,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-30T03:15:28Z",
-      "updated_at": "2026-08-30T03:13:37Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 322,
-      "forks": 29,
-      "language": "Shell",
-      "pushed_at": "2026-08-30T03:13:57Z",
-      "updated_at": "2026-08-30T03:14:30Z"
-    },
-    {
-      "id": 1120438074,
-      "full_name": "kaima2022/Health-reminder",
-      "html_url": "https://github.com/kaima2022/Health-reminder",
-      "description": "This is a high-performance desktop application developed using Rust and Tauri, designed to help you stay focused on your work while scientifically managing sedentary time, hydration, and eye rest through intelligent task scheduling and multi-dimensional reminders.一款基于 Rust 与 Tauri 开发的高性能桌面应用，旨在通过智能化的任务排程与多维提醒，帮助你在专注工作的同时，科学地进行久坐、补水与用眼休息。",
-      "stars": 266,
-      "forks": 20,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-30T03:36:03Z",
-      "updated_at": "2026-08-30T03:36:08Z"
-    },
-    {
-      "id": 1283466765,
-      "full_name": "Licoy/codex-runway",
-      "html_url": "https://github.com/Licoy/codex-runway",
-      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 188,
-      "forks": 8,
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 843,
+      "forks": 71,
       "language": "Swift",
-      "pushed_at": "2026-08-30T03:41:02Z",
-      "updated_at": "2026-08-30T03:41:18Z"
+      "pushed_at": "2026-08-30T09:25:47Z",
+      "updated_at": "2026-08-30T09:25:51Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 123,
-      "forks": 10,
+      "id": 163754017,
+      "full_name": "gergelyszabo94/csgo-trader-extension",
+      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
+      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
+      "stars": 292,
+      "forks": 52,
       "language": "JavaScript",
-      "pushed_at": "2026-08-30T02:15:08Z",
-      "updated_at": "2026-08-30T02:14:30Z"
+      "pushed_at": "2026-08-30T08:14:09Z",
+      "updated_at": "2026-08-30T08:14:48Z"
     },
     {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 114,
-      "forks": 0,
+      "id": 1156842910,
+      "full_name": "Lv-0/plumb",
+      "html_url": "https://github.com/Lv-0/plumb",
+      "description": "A lightweight macOS window manager that auto-centers and auto-tiles your apps.",
+      "stars": 213,
+      "forks": 5,
+      "language": "Swift",
+      "pushed_at": "2026-08-30T09:28:21Z",
+      "updated_at": "2026-08-30T09:28:30Z"
+    },
+    {
+      "id": 1281865940,
+      "full_name": "drewnekota/cetus",
+      "html_url": "https://github.com/drewnekota/cetus",
+      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+      "stars": 141,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-08-30T02:53:10Z",
-      "updated_at": "2026-08-30T02:53:18Z"
+      "pushed_at": "2026-08-30T07:57:11Z",
+      "updated_at": "2026-08-30T07:57:36Z"
     }
   ]
 }
