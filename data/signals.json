@@ -5,117 +5,139 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1089,
+  "total_found": 1090,
   "items": [
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 130851,
-      "forks": 15079,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-31T09:24:40Z",
-      "updated_at": "2026-08-31T10:32:44Z"
-    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 78011,
-      "forks": 4915,
+      "stars": 78067,
+      "forks": 4923,
       "language": "Rust",
-      "pushed_at": "2026-08-31T09:27:34Z",
-      "updated_at": "2026-08-31T10:29:57Z"
+      "pushed_at": "2026-08-31T18:31:02Z",
+      "updated_at": "2026-08-31T18:45:45Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39393,
-      "forks": 3907,
-      "language": "C#",
-      "pushed_at": "2026-08-31T10:32:02Z",
-      "updated_at": "2026-08-31T10:05:43Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27306,
-      "forks": 2432,
-      "language": "Go",
-      "pushed_at": "2026-08-31T10:30:12Z",
-      "updated_at": "2026-08-31T10:32:37Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17445,
-      "forks": 1731,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 35471,
+      "forks": 3816,
       "language": "TypeScript",
-      "pushed_at": "2026-08-31T09:02:28Z",
-      "updated_at": "2026-08-31T09:05:20Z"
+      "pushed_at": "2026-08-31T18:14:08Z",
+      "updated_at": "2026-08-31T18:46:37Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5965,
-      "forks": 950,
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 26341,
+      "forks": 1935,
+      "language": "Vue",
+      "pushed_at": "2026-08-31T18:05:20Z",
+      "updated_at": "2026-08-31T18:17:58Z"
+    },
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24388,
+      "forks": 2318,
+      "language": "Python",
+      "pushed_at": "2026-08-31T18:17:27Z",
+      "updated_at": "2026-08-31T18:18:42Z"
+    },
+    {
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 21852,
+      "forks": 815,
+      "language": "C",
+      "pushed_at": "2026-08-31T18:23:26Z",
+      "updated_at": "2026-08-31T18:33:27Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21703,
+      "forks": 2001,
       "language": "TypeScript",
-      "pushed_at": "2026-08-31T09:03:29Z",
-      "updated_at": "2026-08-31T08:59:21Z"
+      "pushed_at": "2026-08-31T18:09:00Z",
+      "updated_at": "2026-08-31T18:10:15Z"
+    },
+    {
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 18773,
+      "forks": 1004,
+      "language": "Python",
+      "pushed_at": "2026-08-31T18:30:55Z",
+      "updated_at": "2026-08-31T18:31:30Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5782,
+      "stars": 5783,
       "forks": 770,
       "language": "Swift",
-      "pushed_at": "2026-08-31T10:30:15Z",
-      "updated_at": "2026-08-31T09:33:27Z"
+      "pushed_at": "2026-08-31T18:42:19Z",
+      "updated_at": "2026-08-31T18:16:28Z"
     },
     {
-      "id": 70557651,
-      "full_name": "oliverschwendener/ueli",
-      "html_url": "https://github.com/oliverschwendener/ueli",
-      "description": "Cross-Platform Keystroke Launcher",
-      "stars": 4586,
-      "forks": 275,
+      "id": 154173536,
+      "full_name": "alainm23/planify",
+      "html_url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "stars": 5638,
+      "forks": 335,
+      "language": "Vala",
+      "pushed_at": "2026-08-31T18:26:38Z",
+      "updated_at": "2026-08-31T18:31:45Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1942,
+      "forks": 142,
+      "language": "Go",
+      "pushed_at": "2026-08-31T18:40:43Z",
+      "updated_at": "2026-08-31T18:47:35Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1863,
+      "forks": 109,
       "language": "TypeScript",
-      "pushed_at": "2026-08-31T10:29:29Z",
-      "updated_at": "2026-08-31T10:33:36Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2325,
-      "forks": 96,
-      "language": "Swift",
-      "pushed_at": "2026-08-31T09:25:07Z",
-      "updated_at": "2026-08-31T09:29:54Z"
+      "pushed_at": "2026-08-31T18:19:01Z",
+      "updated_at": "2026-08-31T18:37:41Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1157,
+      "stars": 1161,
       "forks": 45,
       "language": "Rust",
-      "pushed_at": "2026-08-31T09:30:23Z",
-      "updated_at": "2026-08-31T09:37:14Z"
+      "pushed_at": "2026-08-31T18:26:05Z",
+      "updated_at": "2026-08-31T18:37:12Z"
     },
     {
       "id": 1006740535,
@@ -125,52 +147,30 @@
       "stars": 340,
       "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-08-31T10:23:05Z",
-      "updated_at": "2026-08-31T10:25:26Z"
+      "pushed_at": "2026-08-31T18:47:27Z",
+      "updated_at": "2026-08-31T18:45:57Z"
     },
     {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 231,
-      "forks": 9,
-      "language": "C#",
-      "pushed_at": "2026-08-31T10:17:48Z",
-      "updated_at": "2026-08-31T10:21:37Z"
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 334,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-31T18:38:28Z",
+      "updated_at": "2026-08-31T18:19:37Z"
     },
     {
-      "id": 73910557,
-      "full_name": "iazarny/gitember",
-      "html_url": "https://github.com/iazarny/gitember",
-      "description": "Gitember not just another git GUI client",
-      "stars": 153,
-      "forks": 19,
-      "language": "Java",
-      "pushed_at": "2026-08-31T09:08:10Z",
-      "updated_at": "2026-08-31T09:14:03Z"
-    },
-    {
-      "id": 1174381781,
-      "full_name": "eljulians/skillfile",
-      "html_url": "https://github.com/eljulians/skillfile",
-      "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
-      "stars": 143,
-      "forks": 30,
-      "language": "Rust",
-      "pushed_at": "2026-08-31T10:04:17Z",
-      "updated_at": "2026-08-31T10:14:20Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 117,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-31T09:35:21Z",
-      "updated_at": "2026-08-31T09:38:52Z"
+      "id": 1080371427,
+      "full_name": "KartikHalkunde/LockedIn-YT",
+      "html_url": "https://github.com/KartikHalkunde/LockedIn-YT",
+      "description": "LockedIn is a Browser extension that hides all distractions: Shorts, homepage feed, recommendations, explore, and more. It features a miniml Popup UI with simple toggles to create your perfect, distraction-free viewing environment.",
+      "stars": 120,
+      "forks": 7,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-31T17:58:31Z",
+      "updated_at": "2026-08-31T17:58:43Z"
     }
   ]
 }
