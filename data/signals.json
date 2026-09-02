@@ -5,95 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1092,
+  "total_found": 1094,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44848,
-      "forks": 2855,
-      "language": "C#",
-      "pushed_at": "2026-09-01T21:14:40Z",
-      "updated_at": "2026-09-01T21:37:38Z"
+      "id": 1105657641,
+      "full_name": "ykdojo/claude-code-tips",
+      "html_url": "https://github.com/ykdojo/claude-code-tips",
+      "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "stars": 10008,
+      "forks": 809,
+      "language": "HTML",
+      "pushed_at": "2026-09-02T01:14:35Z",
+      "updated_at": "2026-09-02T02:21:09Z"
     },
     {
-      "id": 1238120057,
-      "full_name": "ayghri/i-have-adhd",
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 26377,
-      "forks": 1657,
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 3836,
+      "forks": 270,
       "language": "Python",
-      "pushed_at": "2026-09-01T20:49:17Z",
-      "updated_at": "2026-09-01T22:14:15Z"
-    },
-    {
-      "id": 309123651,
-      "full_name": "alyssaxuu/screenity",
-      "html_url": "https://github.com/alyssaxuu/screenity",
-      "description": "The free and privacy-friendly screen recorder with no limits 🎥",
-      "stars": 18650,
-      "forks": 1517,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-01T21:19:58Z",
-      "updated_at": "2026-09-01T21:28:46Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12131,
-      "forks": 1512,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-01T22:22:10Z",
-      "updated_at": "2026-09-01T21:35:22Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9279,
-      "forks": 283,
-      "language": "C++",
-      "pushed_at": "2026-09-01T22:02:06Z",
-      "updated_at": "2026-09-01T22:10:19Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5786,
-      "forks": 771,
-      "language": "Swift",
-      "pushed_at": "2026-09-01T22:18:43Z",
-      "updated_at": "2026-09-01T21:18:25Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5521,
-      "forks": 649,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-01T21:50:07Z",
-      "updated_at": "2026-09-01T21:10:40Z"
+      "pushed_at": "2026-09-02T02:29:29Z",
+      "updated_at": "2026-09-02T02:21:01Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2195,
+      "stars": 2197,
       "forks": 112,
       "language": "C#",
-      "pushed_at": "2026-09-01T22:14:49Z",
-      "updated_at": "2026-09-01T22:15:23Z"
+      "pushed_at": "2026-09-02T02:56:16Z",
+      "updated_at": "2026-09-02T02:56:25Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1897,
+      "forks": 112,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-02T02:17:49Z",
+      "updated_at": "2026-09-02T02:17:55Z"
+    },
+    {
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1527,
+      "forks": 87,
+      "language": "Dart",
+      "pushed_at": "2026-09-02T01:41:46Z",
+      "updated_at": "2026-09-02T01:41:54Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1164,
+      "forks": 46,
+      "language": "Rust",
+      "pushed_at": "2026-09-02T02:46:27Z",
+      "updated_at": "2026-09-02T02:49:10Z"
     },
     {
       "id": 591995344,
@@ -103,19 +81,8 @@
       "stars": 880,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-09-01T22:21:40Z",
-      "updated_at": "2026-09-01T22:22:30Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 341,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-01T22:16:58Z",
-      "updated_at": "2026-09-01T22:11:36Z"
+      "pushed_at": "2026-09-02T01:57:53Z",
+      "updated_at": "2026-09-02T01:57:57Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +92,85 @@
       "stars": 322,
       "forks": 30,
       "language": "Shell",
-      "pushed_at": "2026-09-01T20:28:55Z",
-      "updated_at": "2026-09-01T20:46:07Z"
+      "pushed_at": "2026-09-02T02:32:38Z",
+      "updated_at": "2026-09-02T02:33:00Z"
     },
     {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 150,
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME.",
+      "stars": 255,
       "forks": 14,
+      "language": "Python",
+      "pushed_at": "2026-09-02T01:51:56Z",
+      "updated_at": "2026-09-02T01:52:02Z"
+    },
+    {
+      "id": 759407510,
+      "full_name": "huaminghuangtw/Shortcutomation",
+      "html_url": "https://github.com/huaminghuangtw/Shortcutomation",
+      "description": "Automate the Boring Stuff with  Apple Shortcuts",
+      "stars": 146,
+      "forks": 12,
       "language": "HTML",
-      "pushed_at": "2026-09-01T20:48:16Z",
-      "updated_at": "2026-09-01T21:03:22Z"
+      "pushed_at": "2026-09-02T01:57:28Z",
+      "updated_at": "2026-09-02T01:59:22Z"
     },
     {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The all-in-one platform for humans and agents to get work done",
-      "stars": 132,
-      "forks": 18,
+      "id": 1281865940,
+      "full_name": "drewnekota/cetus",
+      "html_url": "https://github.com/drewnekota/cetus",
+      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+      "stars": 142,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-09-01T21:58:09Z",
-      "updated_at": "2026-09-01T21:58:15Z"
+      "pushed_at": "2026-09-02T02:09:18Z",
+      "updated_at": "2026-09-02T02:09:16Z"
     },
     {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 118,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-09-01T20:42:23Z",
-      "updated_at": "2026-09-01T20:42:28Z"
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 125,
+      "forks": 12,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-02T02:30:55Z",
+      "updated_at": "2026-09-02T01:59:54Z"
     },
     {
-      "id": 1210011300,
-      "full_name": "Astro-Han/pawwork",
-      "html_url": "https://github.com/Astro-Han/pawwork",
-      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows, built on DeepSeek Harness (DSH). Free models included, no API key or terminal. Office files, web search, and scheduled automations out of the box. An open alternative to Codex App and Claude Cowork.",
-      "stars": 111,
-      "forks": 13,
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 95,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-09-01T20:42:46Z",
-      "updated_at": "2026-09-01T20:45:58Z"
+      "pushed_at": "2026-09-02T02:39:06Z",
+      "updated_at": "2026-09-02T01:29:04Z"
+    },
+    {
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish with our own on-device model (EG-1), Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini key. No account, no subscription, audio never leaves your Mac.",
+      "stars": 91,
+      "forks": 7,
+      "language": "Swift",
+      "pushed_at": "2026-09-02T02:45:09Z",
+      "updated_at": "2026-09-02T02:45:56Z"
+    },
+    {
+      "id": 1340911298,
+      "full_name": "newdee/magpie",
+      "html_url": "https://github.com/newdee/magpie",
+      "description": "Spotlight-style local search for everything you saved and forgot: GitHub stars, local files, images, and bookmarks. Privacy-first, no full-disk scanning, fully on-device.",
+      "stars": 81,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-09-02T02:08:03Z",
+      "updated_at": "2026-09-02T02:08:40Z"
     }
   ]
 }
