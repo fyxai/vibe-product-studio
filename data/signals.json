@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1099,
+  "total_found": 1100,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 131078,
-      "forks": 15125,
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 26373,
+      "forks": 1931,
+      "language": "Vue",
+      "pushed_at": "2026-09-03T18:54:18Z",
+      "updated_at": "2026-09-03T19:04:57Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21787,
+      "forks": 2009,
       "language": "TypeScript",
-      "pushed_at": "2026-09-03T15:24:44Z",
-      "updated_at": "2026-09-03T15:43:58Z"
+      "pushed_at": "2026-09-03T19:05:44Z",
+      "updated_at": "2026-09-03T19:05:26Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 78430,
-      "forks": 4953,
-      "language": "Rust",
-      "pushed_at": "2026-09-03T15:39:51Z",
-      "updated_at": "2026-09-03T15:48:10Z"
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 18796,
+      "forks": 1005,
+      "language": "Python",
+      "pushed_at": "2026-09-03T18:21:48Z",
+      "updated_at": "2026-09-03T19:05:50Z"
     },
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27311,
-      "forks": 2431,
-      "language": "Go",
-      "pushed_at": "2026-09-03T14:52:34Z",
-      "updated_at": "2026-09-03T15:09:29Z"
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17457,
+      "forks": 1730,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-03T18:55:02Z",
+      "updated_at": "2026-09-03T18:36:37Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6648,
+      "stars": 6649,
       "forks": 399,
       "language": "Kotlin",
-      "pushed_at": "2026-09-03T15:37:44Z",
-      "updated_at": "2026-09-03T15:45:05Z"
+      "pushed_at": "2026-09-03T18:28:08Z",
+      "updated_at": "2026-09-03T18:28:16Z"
     },
     {
       "id": 129699403,
@@ -59,19 +70,30 @@
       "stars": 5787,
       "forks": 771,
       "language": "Swift",
-      "pushed_at": "2026-09-03T15:48:53Z",
-      "updated_at": "2026-09-03T15:44:39Z"
+      "pushed_at": "2026-09-03T19:04:14Z",
+      "updated_at": "2026-09-03T18:28:56Z"
     },
     {
       "id": 11512043,
       "full_name": "tasks/tasks",
       "html_url": "https://github.com/tasks/tasks",
       "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5526,
+      "stars": 5528,
       "forks": 649,
       "language": "Kotlin",
-      "pushed_at": "2026-09-03T15:42:52Z",
-      "updated_at": "2026-09-03T15:47:29Z"
+      "pushed_at": "2026-09-03T19:05:46Z",
+      "updated_at": "2026-09-03T18:46:41Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4364,
+      "forks": 876,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-03T18:18:43Z",
+      "updated_at": "2026-09-03T18:18:15Z"
     },
     {
       "id": 897595329,
@@ -81,96 +103,74 @@
       "stars": 3846,
       "forks": 268,
       "language": "Python",
-      "pushed_at": "2026-09-03T15:37:09Z",
-      "updated_at": "2026-09-03T15:49:00Z"
+      "pushed_at": "2026-09-03T18:48:03Z",
+      "updated_at": "2026-09-03T18:57:03Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2328,
-      "forks": 98,
-      "language": "Swift",
-      "pushed_at": "2026-09-03T15:48:52Z",
-      "updated_at": "2026-09-03T15:15:12Z"
+      "id": 925501678,
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
+      "stars": 2132,
+      "forks": 143,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-03T18:26:24Z",
+      "updated_at": "2026-09-03T18:28:49Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 882,
-      "forks": 93,
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1945,
+      "forks": 143,
+      "language": "Go",
+      "pushed_at": "2026-09-03T19:02:55Z",
+      "updated_at": "2026-09-03T19:05:46Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "stars": 1928,
+      "forks": 115,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-03T18:46:49Z",
+      "updated_at": "2026-09-03T18:49:28Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1170,
+      "forks": 47,
+      "language": "Rust",
+      "pushed_at": "2026-09-03T19:04:50Z",
+      "updated_at": "2026-09-03T19:05:25Z"
+    },
+    {
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 705,
+      "forks": 34,
       "language": "Python",
-      "pushed_at": "2026-09-03T15:47:10Z",
-      "updated_at": "2026-09-03T15:48:09Z"
-    },
-    {
-      "id": 1336092482,
-      "full_name": "Aisland-SJL/dsh-worktable",
-      "html_url": "https://github.com/Aisland-SJL/dsh-worktable",
-      "description": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "stars": 466,
-      "forks": 59,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-03T15:17:13Z",
-      "updated_at": "2026-09-03T15:19:05Z"
+      "pushed_at": "2026-09-03T18:46:24Z",
+      "updated_at": "2026-09-03T18:54:27Z"
     },
     {
       "id": 1006740535,
       "full_name": "ljtn/epiq",
       "html_url": "https://github.com/ljtn/epiq",
       "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 345,
+      "stars": 346,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-09-03T15:48:23Z",
-      "updated_at": "2026-09-03T15:19:57Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 322,
-      "forks": 31,
-      "language": "Shell",
-      "pushed_at": "2026-09-03T15:42:52Z",
-      "updated_at": "2026-09-03T15:43:39Z"
-    },
-    {
-      "id": 73910557,
-      "full_name": "iazarny/gitember",
-      "html_url": "https://github.com/iazarny/gitember",
-      "description": "Gitember not just another git GUI client",
-      "stars": 152,
-      "forks": 19,
-      "language": "Java",
-      "pushed_at": "2026-09-03T15:22:46Z",
-      "updated_at": "2026-09-03T15:24:21Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 126,
-      "forks": 12,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-03T15:15:44Z",
-      "updated_at": "2026-09-03T15:18:43Z"
-    },
-    {
-      "id": 1210011300,
-      "full_name": "Astro-Han/pawwork",
-      "html_url": "https://github.com/Astro-Han/pawwork",
-      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows, built on DeepSeek Harness (DSH). Free models included, no API key or terminal. Office files, web search, and scheduled automations out of the box. An open alternative to Codex App and Claude Cowork.",
-      "stars": 113,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-03T15:25:25Z",
-      "updated_at": "2026-09-03T15:26:23Z"
+      "pushed_at": "2026-09-03T19:02:38Z",
+      "updated_at": "2026-09-03T18:50:50Z"
     }
   ]
 }
