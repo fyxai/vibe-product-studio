@@ -8,59 +8,48 @@
   "total_found": 1103,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 78564,
-      "forks": 4963,
-      "language": "Rust",
-      "pushed_at": "2026-09-04T17:46:00Z",
-      "updated_at": "2026-09-04T18:46:53Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 189552,
+      "forks": 26577,
+      "language": "Shell",
+      "pushed_at": "2026-09-04T21:51:23Z",
+      "updated_at": "2026-09-04T21:50:01Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 44883,
-      "forks": 2856,
-      "language": "C#",
-      "pushed_at": "2026-09-04T18:24:20Z",
-      "updated_at": "2026-09-04T18:24:43Z"
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 35614,
+      "forks": 3819,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-04T21:56:15Z",
+      "updated_at": "2026-09-04T21:58:38Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12151,
+      "forks": 1516,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-04T21:39:12Z",
+      "updated_at": "2026-09-04T21:51:44Z"
     },
     {
       "id": 1027461827,
       "full_name": "vicinaehq/vicinae",
       "html_url": "https://github.com/vicinaehq/vicinae",
       "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9319,
+      "stars": 9320,
       "forks": 281,
       "language": "C++",
-      "pushed_at": "2026-09-04T18:40:08Z",
-      "updated_at": "2026-09-04T18:40:11Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6654,
-      "forks": 399,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-04T18:08:15Z",
-      "updated_at": "2026-09-04T18:08:39Z"
-    },
-    {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 6290,
-      "forks": 595,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-04T17:53:19Z",
-      "updated_at": "2026-09-04T17:56:55Z"
+      "pushed_at": "2026-09-04T22:00:38Z",
+      "updated_at": "2026-09-04T22:00:50Z"
     },
     {
       "id": 129699403,
@@ -70,52 +59,52 @@
       "stars": 5788,
       "forks": 772,
       "language": "Swift",
-      "pushed_at": "2026-09-04T18:47:06Z",
-      "updated_at": "2026-09-04T18:23:55Z"
+      "pushed_at": "2026-09-04T22:06:35Z",
+      "updated_at": "2026-09-04T21:55:13Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5533,
+      "forks": 650,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-04T20:53:45Z",
+      "updated_at": "2026-09-04T20:53:54Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 4368,
+      "stars": 4369,
       "forks": 876,
       "language": "TypeScript",
-      "pushed_at": "2026-09-04T18:44:45Z",
-      "updated_at": "2026-09-04T18:42:45Z"
+      "pushed_at": "2026-09-04T22:05:58Z",
+      "updated_at": "2026-09-04T20:52:39Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3857,
-      "forks": 271,
-      "language": "Python",
-      "pushed_at": "2026-09-04T18:34:09Z",
-      "updated_at": "2026-09-04T18:08:28Z"
-    },
-    {
-      "id": 668367318,
-      "full_name": "Anze/KeyCluCask",
-      "html_url": "https://github.com/Anze/KeyCluCask",
-      "description": "A simple and handy overview of application shortcuts",
-      "stars": 2550,
-      "forks": 41,
-      "language": "Unknown",
-      "pushed_at": "2026-09-04T17:43:47Z",
-      "updated_at": "2026-09-04T17:44:04Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1945,
+      "forks": 143,
+      "language": "Go",
+      "pushed_at": "2026-09-04T21:55:42Z",
+      "updated_at": "2026-09-04T21:47:23Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1174,
+      "stars": 1175,
       "forks": 47,
       "language": "Rust",
-      "pushed_at": "2026-09-04T18:38:57Z",
-      "updated_at": "2026-09-04T18:39:01Z"
+      "pushed_at": "2026-09-04T22:03:30Z",
+      "updated_at": "2026-09-04T22:03:35Z"
     },
     {
       "id": 591995344,
@@ -125,30 +114,52 @@
       "stars": 883,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-09-04T18:06:07Z",
-      "updated_at": "2026-09-04T18:06:13Z"
+      "pushed_at": "2026-09-04T22:03:29Z",
+      "updated_at": "2026-09-04T22:03:34Z"
     },
     {
-      "id": 1149110392,
-      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
-      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
-      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, security operations, and enterprise deployment.",
-      "stars": 510,
-      "forks": 72,
-      "language": "Unknown",
-      "pushed_at": "2026-09-04T18:22:17Z",
-      "updated_at": "2026-09-04T18:22:24Z"
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 705,
+      "forks": 34,
+      "language": "Python",
+      "pushed_at": "2026-09-04T20:49:00Z",
+      "updated_at": "2026-09-04T20:49:04Z"
     },
     {
       "id": 1006740535,
       "full_name": "ljtn/epiq",
       "html_url": "https://github.com/ljtn/epiq",
       "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 349,
+      "stars": 350,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-09-04T17:47:15Z",
-      "updated_at": "2026-09-04T18:12:33Z"
+      "pushed_at": "2026-09-04T21:44:50Z",
+      "updated_at": "2026-09-04T21:44:32Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-04T21:18:19Z",
+      "updated_at": "2026-09-04T21:16:39Z"
+    },
+    {
+      "id": 850497911,
+      "full_name": "cryptrr/AutoPie",
+      "html_url": "https://github.com/cryptrr/AutoPie",
+      "description": "Swiss Army Knife For Android. Automate with Linux Commands and Workflows on Android ",
+      "stars": 192,
+      "forks": 5,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-04T21:14:20Z",
+      "updated_at": "2026-09-04T21:14:24Z"
     },
     {
       "id": 865058020,
@@ -158,19 +169,8 @@
       "stars": 151,
       "forks": 6,
       "language": "TypeScript",
-      "pushed_at": "2026-09-04T18:17:18Z",
-      "updated_at": "2026-09-04T18:17:23Z"
-    },
-    {
-      "id": 1334199659,
-      "full_name": "anibalribeiro/WinMice",
-      "html_url": "https://github.com/anibalribeiro/WinMice",
-      "description": "Windows-style autoscroll (middle-click vector scrolling) and back/forward mouse side buttons for macOS. Tiny native Swift menu-bar app, about 1.7 MB, no Electron.",
-      "stars": 131,
-      "forks": 0,
-      "language": "Swift",
-      "pushed_at": "2026-09-04T18:47:12Z",
-      "updated_at": "2026-09-04T18:47:32Z"
+      "pushed_at": "2026-09-04T21:58:46Z",
+      "updated_at": "2026-09-04T21:58:22Z"
     }
   ]
 }
