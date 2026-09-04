@@ -12,11 +12,11 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 78549,
+      "stars": 78564,
       "forks": 4963,
       "language": "Rust",
-      "pushed_at": "2026-09-04T14:42:27Z",
-      "updated_at": "2026-09-04T15:13:33Z"
+      "pushed_at": "2026-09-04T17:46:00Z",
+      "updated_at": "2026-09-04T18:46:53Z"
     },
     {
       "id": 164140756,
@@ -26,30 +26,19 @@
       "stars": 44883,
       "forks": 2856,
       "language": "C#",
-      "pushed_at": "2026-09-04T14:51:36Z",
-      "updated_at": "2026-09-04T15:19:32Z"
+      "pushed_at": "2026-09-04T18:24:20Z",
+      "updated_at": "2026-09-04T18:24:43Z"
     },
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24395,
-      "forks": 2317,
-      "language": "Python",
-      "pushed_at": "2026-09-04T15:36:51Z",
-      "updated_at": "2026-09-04T15:16:27Z"
-    },
-    {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 18804,
-      "forks": 1005,
-      "language": "Python",
-      "pushed_at": "2026-09-04T15:01:04Z",
-      "updated_at": "2026-09-04T15:02:37Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 9319,
+      "forks": 281,
+      "language": "C++",
+      "pushed_at": "2026-09-04T18:40:08Z",
+      "updated_at": "2026-09-04T18:40:11Z"
     },
     {
       "id": 418086942,
@@ -59,52 +48,63 @@
       "stars": 6654,
       "forks": 399,
       "language": "Kotlin",
-      "pushed_at": "2026-09-04T15:17:33Z",
-      "updated_at": "2026-09-04T15:18:40Z"
+      "pushed_at": "2026-09-04T18:08:15Z",
+      "updated_at": "2026-09-04T18:08:39Z"
     },
     {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 3913,
-      "forks": 509,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6290,
+      "forks": 595,
       "language": "TypeScript",
-      "pushed_at": "2026-09-04T15:40:33Z",
-      "updated_at": "2026-09-04T15:39:46Z"
+      "pushed_at": "2026-09-04T17:53:19Z",
+      "updated_at": "2026-09-04T17:56:55Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5788,
+      "forks": 772,
+      "language": "Swift",
+      "pushed_at": "2026-09-04T18:47:06Z",
+      "updated_at": "2026-09-04T18:23:55Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 4368,
+      "forks": 876,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-04T18:44:45Z",
+      "updated_at": "2026-09-04T18:42:45Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3855,
+      "stars": 3857,
       "forks": 271,
       "language": "Python",
-      "pushed_at": "2026-09-04T15:39:08Z",
-      "updated_at": "2026-09-04T15:39:34Z"
+      "pushed_at": "2026-09-04T18:34:09Z",
+      "updated_at": "2026-09-04T18:08:28Z"
     },
     {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2808,
-      "forks": 126,
-      "language": "Go",
-      "pushed_at": "2026-09-04T15:20:43Z",
-      "updated_at": "2026-09-04T15:20:06Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1942,
-      "forks": 117,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-04T15:30:51Z",
-      "updated_at": "2026-09-04T15:31:01Z"
+      "id": 668367318,
+      "full_name": "Anze/KeyCluCask",
+      "html_url": "https://github.com/Anze/KeyCluCask",
+      "description": "A simple and handy overview of application shortcuts",
+      "stars": 2550,
+      "forks": 41,
+      "language": "Unknown",
+      "pushed_at": "2026-09-04T17:43:47Z",
+      "updated_at": "2026-09-04T17:44:04Z"
     },
     {
       "id": 1148683593,
@@ -114,19 +114,8 @@
       "stars": 1174,
       "forks": 47,
       "language": "Rust",
-      "pushed_at": "2026-09-04T15:38:48Z",
-      "updated_at": "2026-09-04T15:38:52Z"
-    },
-    {
-      "id": 378725581,
-      "full_name": "translate-tools/linguist",
-      "html_url": "https://github.com/translate-tools/linguist",
-      "description": "Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline",
-      "stars": 1059,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-04T14:59:55Z",
-      "updated_at": "2026-09-04T15:00:06Z"
+      "pushed_at": "2026-09-04T18:38:57Z",
+      "updated_at": "2026-09-04T18:39:01Z"
     },
     {
       "id": 591995344,
@@ -136,41 +125,52 @@
       "stars": 883,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-09-04T14:42:22Z",
-      "updated_at": "2026-09-04T14:42:45Z"
+      "pushed_at": "2026-09-04T18:06:07Z",
+      "updated_at": "2026-09-04T18:06:13Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 475,
-      "forks": 127,
-      "language": "Python",
-      "pushed_at": "2026-09-04T15:46:24Z",
-      "updated_at": "2026-09-04T15:42:22Z"
+      "id": 1149110392,
+      "full_name": "kesslernity/awesome-microsoft-copilot-prompts",
+      "html_url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts",
+      "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, security operations, and enterprise deployment.",
+      "stars": 510,
+      "forks": 72,
+      "language": "Unknown",
+      "pushed_at": "2026-09-04T18:22:17Z",
+      "updated_at": "2026-09-04T18:22:24Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 31,
-      "language": "Shell",
-      "pushed_at": "2026-09-04T15:41:01Z",
-      "updated_at": "2026-09-04T15:41:55Z"
+      "id": 1006740535,
+      "full_name": "ljtn/epiq",
+      "html_url": "https://github.com/ljtn/epiq",
+      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
+      "stars": 349,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-04T17:47:15Z",
+      "updated_at": "2026-09-04T18:12:33Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 303,
-      "forks": 21,
-      "language": "Dart",
-      "pushed_at": "2026-09-04T15:44:35Z",
-      "updated_at": "2026-09-04T15:44:41Z"
+      "id": 865058020,
+      "full_name": "iamzubin/holdem",
+      "html_url": "https://github.com/iamzubin/holdem",
+      "description": "Holdem is a lightweight, open-source tool for effortlessly dragging and organizing files on your desktop. Inspired by Dropover and built with Tauri, Holdem lets you collect and drop files in a temporary holding area — no clutter, no hassle.",
+      "stars": 151,
+      "forks": 6,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-04T18:17:18Z",
+      "updated_at": "2026-09-04T18:17:23Z"
+    },
+    {
+      "id": 1334199659,
+      "full_name": "anibalribeiro/WinMice",
+      "html_url": "https://github.com/anibalribeiro/WinMice",
+      "description": "Windows-style autoscroll (middle-click vector scrolling) and back/forward mouse side buttons for macOS. Tiny native Swift menu-bar app, about 1.7 MB, no Electron.",
+      "stars": 131,
+      "forks": 0,
+      "language": "Swift",
+      "pushed_at": "2026-09-04T18:47:12Z",
+      "updated_at": "2026-09-04T18:47:32Z"
     }
   ]
 }
