@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1103,
+  "total_found": 1104,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 35621,
-      "forks": 3819,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-05T01:48:44Z",
-      "updated_at": "2026-09-05T03:01:41Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27321,
+      "forks": 2432,
+      "language": "Go",
+      "pushed_at": "2026-09-05T07:27:51Z",
+      "updated_at": "2026-09-05T07:27:55Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21811,
-      "forks": 2012,
+      "stars": 21812,
+      "forks": 2013,
       "language": "TypeScript",
-      "pushed_at": "2026-09-05T03:00:35Z",
-      "updated_at": "2026-09-05T02:44:51Z"
+      "pushed_at": "2026-09-05T07:58:39Z",
+      "updated_at": "2026-09-05T07:45:32Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15163,
-      "forks": 1002,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17475,
+      "forks": 1731,
       "language": "TypeScript",
-      "pushed_at": "2026-09-05T02:51:48Z",
-      "updated_at": "2026-09-05T03:00:33Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9321,
-      "forks": 281,
-      "language": "C++",
-      "pushed_at": "2026-09-05T02:59:16Z",
-      "updated_at": "2026-09-05T03:02:47Z"
+      "pushed_at": "2026-09-05T08:02:05Z",
+      "updated_at": "2026-09-05T07:36:53Z"
     },
     {
       "id": 418086942,
       "full_name": "plainhub/plain-app",
       "html_url": "https://github.com/plainhub/plain-app",
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6655,
+      "stars": 6656,
       "forks": 399,
       "language": "Kotlin",
-      "pushed_at": "2026-09-05T01:51:05Z",
-      "updated_at": "2026-09-05T01:51:12Z"
+      "pushed_at": "2026-09-05T06:54:36Z",
+      "updated_at": "2026-09-05T06:54:43Z"
     },
     {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2333,
-      "forks": 99,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5788,
+      "forks": 772,
       "language": "Swift",
-      "pushed_at": "2026-09-05T01:52:24Z",
-      "updated_at": "2026-09-05T01:52:27Z"
+      "pushed_at": "2026-09-05T08:02:53Z",
+      "updated_at": "2026-09-05T07:35:58Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1947,
-      "forks": 117,
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3441,
+      "forks": 162,
       "language": "TypeScript",
-      "pushed_at": "2026-09-05T02:44:26Z",
-      "updated_at": "2026-09-05T02:44:31Z"
+      "pushed_at": "2026-09-05T07:02:31Z",
+      "updated_at": "2026-09-05T07:02:31Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 2252,
+      "forks": 112,
+      "language": "C#",
+      "pushed_at": "2026-09-05T06:44:30Z",
+      "updated_at": "2026-09-05T08:00:24Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1759,
+      "forks": 114,
+      "language": "Rust",
+      "pushed_at": "2026-09-05T07:52:30Z",
+      "updated_at": "2026-09-05T07:52:17Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1206,
+      "forks": 130,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-05T07:20:43Z",
+      "updated_at": "2026-09-05T07:20:47Z"
     },
     {
       "id": 1148683593,
@@ -92,63 +114,52 @@
       "stars": 1177,
       "forks": 47,
       "language": "Rust",
-      "pushed_at": "2026-09-05T02:52:46Z",
-      "updated_at": "2026-09-05T02:52:50Z"
+      "pushed_at": "2026-09-05T07:14:27Z",
+      "updated_at": "2026-09-05T07:03:01Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 995,
-      "forks": 62,
+      "id": 1185843143,
+      "full_name": "realskyrin/capcap",
+      "html_url": "https://github.com/realskyrin/capcap",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "stars": 860,
+      "forks": 74,
       "language": "Swift",
-      "pushed_at": "2026-09-05T02:58:53Z",
-      "updated_at": "2026-09-05T02:58:59Z"
+      "pushed_at": "2026-09-05T07:53:38Z",
+      "updated_at": "2026-09-05T07:53:42Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 883,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-09-05T02:54:20Z",
-      "updated_at": "2026-09-05T02:17:16Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 842,
+      "forks": 145,
+      "language": "Go",
+      "pushed_at": "2026-09-05T07:59:31Z",
+      "updated_at": "2026-09-05T07:59:36Z"
     },
     {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 727,
-      "forks": 42,
-      "language": "Python",
-      "pushed_at": "2026-09-05T02:15:05Z",
-      "updated_at": "2026-09-05T02:15:09Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 832,
+      "forks": 53,
+      "language": "Rust",
+      "pushed_at": "2026-09-05T07:16:40Z",
+      "updated_at": "2026-09-05T07:17:23Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "dotpm/obsidian-pm",
-      "html_url": "https://github.com/dotpm/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 675,
-      "forks": 72,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-05T03:01:07Z",
-      "updated_at": "2026-09-05T03:01:10Z"
-    },
-    {
-      "id": 1028870440,
-      "full_name": "Taskosaur/Taskosaur",
-      "html_url": "https://github.com/Taskosaur/Taskosaur",
-      "description": "Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.",
-      "stars": 551,
-      "forks": 109,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-05T01:56:34Z",
-      "updated_at": "2026-09-05T01:56:37Z"
+      "id": 1073579907,
+      "full_name": "shinpr/claude-code-workflows",
+      "html_url": "https://github.com/shinpr/claude-code-workflows",
+      "description": "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.",
+      "stars": 679,
+      "forks": 102,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-05T07:23:54Z",
+      "updated_at": "2026-09-05T07:23:08Z"
     },
     {
       "id": 1041102492,
@@ -158,19 +169,8 @@
       "stars": 364,
       "forks": 23,
       "language": "Python",
-      "pushed_at": "2026-09-05T02:28:37Z",
-      "updated_at": "2026-09-05T02:28:42Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 31,
-      "language": "Shell",
-      "pushed_at": "2026-09-05T02:38:17Z",
-      "updated_at": "2026-09-05T02:38:20Z"
+      "pushed_at": "2026-09-05T07:32:34Z",
+      "updated_at": "2026-09-05T07:32:38Z"
     }
   ]
 }
