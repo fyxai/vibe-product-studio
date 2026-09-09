@@ -5,128 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1106,
+  "total_found": 1108,
   "items": [
     {
-      "id": 291137,
-      "full_name": "ohmyzsh/ohmyzsh",
-      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 189649,
-      "forks": 26586,
-      "language": "Shell",
-      "pushed_at": "2026-09-09T15:12:35Z",
-      "updated_at": "2026-09-09T15:57:15Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 255016,
+      "forks": 38204,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-09T19:00:49Z",
+      "updated_at": "2026-09-09T19:08:50Z"
     },
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27341,
-      "forks": 2433,
-      "language": "Go",
-      "pushed_at": "2026-09-09T15:05:39Z",
-      "updated_at": "2026-09-09T14:58:08Z"
-    },
-    {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 18851,
-      "forks": 1007,
-      "language": "Python",
-      "pushed_at": "2026-09-09T14:59:36Z",
-      "updated_at": "2026-09-09T15:07:56Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 21914,
+      "forks": 2025,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-09T18:28:59Z",
+      "updated_at": "2026-09-09T18:31:58Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 17508,
+      "stars": 17510,
       "forks": 1733,
       "language": "TypeScript",
-      "pushed_at": "2026-09-09T14:53:47Z",
-      "updated_at": "2026-09-09T15:24:10Z"
-    },
-    {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16234,
-      "forks": 1264,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-09T14:50:36Z",
-      "updated_at": "2026-09-09T14:58:45Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15243,
-      "forks": 1008,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-09T14:47:52Z",
-      "updated_at": "2026-09-09T15:45:16Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12175,
-      "forks": 1521,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-09T15:46:33Z",
-      "updated_at": "2026-09-09T15:56:19Z"
-    },
-    {
-      "id": 610217037,
-      "full_name": "di-sukharev/opencommit",
-      "html_url": "https://github.com/di-sukharev/opencommit",
-      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
-      "stars": 7535,
-      "forks": 443,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-09T15:32:24Z",
-      "updated_at": "2026-09-09T15:44:12Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5798,
-      "forks": 776,
-      "language": "Swift",
-      "pushed_at": "2026-09-09T15:49:08Z",
-      "updated_at": "2026-09-09T15:42:37Z"
-    },
-    {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 4966,
-      "forks": 112,
-      "language": "Rust",
-      "pushed_at": "2026-09-09T14:41:23Z",
-      "updated_at": "2026-09-09T15:07:19Z"
+      "pushed_at": "2026-09-09T18:43:57Z",
+      "updated_at": "2026-09-09T18:21:57Z"
     },
     {
       "id": 1266135511,
       "full_name": "Tianyu199509/DeskBox",
       "html_url": "https://github.com/Tianyu199509/DeskBox",
       "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 3780,
+      "stars": 3793,
       "forks": 210,
       "language": "C#",
-      "pushed_at": "2026-09-09T14:48:09Z",
-      "updated_at": "2026-09-09T15:55:42Z"
+      "pushed_at": "2026-09-09T19:09:00Z",
+      "updated_at": "2026-09-09T18:50:29Z"
+    },
+    {
+      "id": 1101924225,
+      "full_name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stars": 3433,
+      "forks": 308,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-09T18:27:28Z",
+      "updated_at": "2026-09-09T18:25:23Z"
     },
     {
       "id": 1250907197,
@@ -136,8 +70,30 @@
       "stars": 2306,
       "forks": 114,
       "language": "C#",
-      "pushed_at": "2026-09-09T15:49:22Z",
-      "updated_at": "2026-09-09T14:56:44Z"
+      "pushed_at": "2026-09-09T18:57:57Z",
+      "updated_at": "2026-09-09T18:42:05Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2004,
+      "forks": 147,
+      "language": "Dart",
+      "pushed_at": "2026-09-09T18:36:23Z",
+      "updated_at": "2026-09-09T18:38:38Z"
+    },
+    {
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1950,
+      "forks": 144,
+      "language": "Go",
+      "pushed_at": "2026-09-09T18:59:48Z",
+      "updated_at": "2026-09-09T19:01:06Z"
     },
     {
       "id": 1148683593,
@@ -147,30 +103,74 @@
       "stars": 1190,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-09T15:32:38Z",
-      "updated_at": "2026-09-09T15:39:08Z"
+      "pushed_at": "2026-09-09T18:24:50Z",
+      "updated_at": "2026-09-09T18:26:27Z"
     },
     {
-      "id": 1187304686,
-      "full_name": "westpoint-io/mimik",
-      "html_url": "https://github.com/westpoint-io/mimik",
-      "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
-      "stars": 757,
-      "forks": 105,
+      "id": 462913472,
+      "full_name": "r3bl-org/r3bl-open-core",
+      "html_url": "https://github.com/r3bl-org/r3bl-open-core",
+      "description": "TUI framework and developer productivity apps in Rust 🦀",
+      "stars": 483,
+      "forks": 31,
+      "language": "Rust",
+      "pushed_at": "2026-09-09T18:32:22Z",
+      "updated_at": "2026-09-09T18:36:43Z"
+    },
+    {
+      "id": 1319581450,
+      "full_name": "ganeshmshetty/openclip",
+      "html_url": "https://github.com/ganeshmshetty/openclip",
+      "description": "Fast, open-source macOS floating text actions. Transform text, run scripts, and integrate AI seamlessly.",
+      "stars": 312,
+      "forks": 16,
+      "language": "Swift",
+      "pushed_at": "2026-09-09T19:06:10Z",
+      "updated_at": "2026-09-09T19:06:28Z"
+    },
+    {
+      "id": 1205087124,
+      "full_name": "no1msd/seance",
+      "html_url": "https://github.com/no1msd/seance",
+      "description": "A scrolling terminal multiplexer that tracks your AI coding agents.",
+      "stars": 133,
+      "forks": 15,
+      "language": "Zig",
+      "pushed_at": "2026-09-09T18:52:03Z",
+      "updated_at": "2026-09-09T18:59:28Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-09-09T18:23:05Z",
+      "updated_at": "2026-09-09T18:38:20Z"
+    },
+    {
+      "id": 1155372026,
+      "full_name": "kawayiYokami/P-ai",
+      "html_url": "https://github.com/kawayiYokami/P-ai",
+      "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
+      "stars": 99,
+      "forks": 17,
+      "language": "Rust",
+      "pushed_at": "2026-09-09T18:14:06Z",
+      "updated_at": "2026-09-09T18:14:45Z"
+    },
+    {
+      "id": 1332787059,
+      "full_name": "salarzeidanlou/todofy",
+      "html_url": "https://github.com/salarzeidanlou/todofy",
+      "description": "A modern, fast, local-first to-do app for Linux, macOS & Windows — smart lists, labels, recurring tasks, focus timers, reminders, natural-language quick-add, and optional self-hosted account sync. Built with Tauri, Preact & Rust. By unifybrowse.",
+      "stars": 86,
+      "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-09-09T15:07:11Z",
-      "updated_at": "2026-09-09T15:37:07Z"
-    },
-    {
-      "id": 302966455,
-      "full_name": "mrusme/zeit",
-      "html_url": "https://github.com/mrusme/zeit",
-      "description": "Zeit, erfassen. A command line tool for tracking time. (https://tty.fail/mrus/zeit)",
-      "stars": 587,
-      "forks": 29,
-      "language": "Go",
-      "pushed_at": "2026-09-09T15:36:22Z",
-      "updated_at": "2026-09-09T15:42:08Z"
+      "pushed_at": "2026-09-09T18:16:57Z",
+      "updated_at": "2026-09-09T18:19:32Z"
     }
   ]
 }
