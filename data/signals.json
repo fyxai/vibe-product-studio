@@ -8,37 +8,59 @@
   "total_found": 1108,
   "items": [
     {
-      "id": 837911756,
-      "full_name": "feder-cr/AIHawk",
-      "html_url": "https://github.com/feder-cr/AIHawk",
-      "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.",
-      "stars": 30334,
-      "forks": 4648,
-      "language": "Python",
-      "pushed_at": "2026-09-10T01:54:19Z",
-      "updated_at": "2026-09-10T01:41:01Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 79750,
+      "forks": 5047,
+      "language": "Rust",
+      "pushed_at": "2026-09-10T08:22:41Z",
+      "updated_at": "2026-09-10T08:38:47Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17516,
+      "forks": 1733,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-10T08:38:18Z",
+      "updated_at": "2026-09-10T08:24:36Z"
     },
     {
       "id": 1110782890,
       "full_name": "YishenTu/claudian",
       "html_url": "https://github.com/YishenTu/claudian",
       "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15250,
-      "forks": 1008,
+      "stars": 15251,
+      "forks": 1011,
       "language": "TypeScript",
-      "pushed_at": "2026-09-10T02:24:15Z",
-      "updated_at": "2026-09-10T02:03:38Z"
+      "pushed_at": "2026-09-10T08:22:33Z",
+      "updated_at": "2026-09-10T08:22:44Z"
     },
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 6301,
-      "forks": 596,
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 7088,
+      "forks": 430,
+      "language": "Swift",
+      "pushed_at": "2026-09-10T07:30:44Z",
+      "updated_at": "2026-09-10T07:31:03Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 6003,
+      "forks": 962,
       "language": "TypeScript",
-      "pushed_at": "2026-09-10T01:38:05Z",
-      "updated_at": "2026-09-10T02:07:40Z"
+      "pushed_at": "2026-09-10T08:31:42Z",
+      "updated_at": "2026-09-10T07:38:31Z"
     },
     {
       "id": 129699403,
@@ -48,107 +70,41 @@
       "stars": 5798,
       "forks": 776,
       "language": "Swift",
-      "pushed_at": "2026-09-10T02:34:33Z",
-      "updated_at": "2026-09-10T02:21:01Z"
+      "pushed_at": "2026-09-10T08:38:54Z",
+      "updated_at": "2026-09-10T08:34:28Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5552,
-      "forks": 653,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-10T01:53:40Z",
-      "updated_at": "2026-09-10T01:41:51Z"
-    },
-    {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 3814,
-      "forks": 212,
-      "language": "C#",
-      "pushed_at": "2026-09-10T03:04:24Z",
-      "updated_at": "2026-09-10T03:07:12Z"
-    },
-    {
-      "id": 812362660,
-      "full_name": "ViscousPot/GitSync",
-      "html_url": "https://github.com/ViscousPot/GitSync",
-      "description": "Mobile Git client for syncing a repository between remote and a local directory",
-      "stars": 2299,
-      "forks": 189,
-      "language": "Dart",
-      "pushed_at": "2026-09-10T02:44:19Z",
-      "updated_at": "2026-09-10T02:44:24Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
-      "stars": 1989,
-      "forks": 121,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-10T01:30:07Z",
-      "updated_at": "2026-09-10T01:30:15Z"
+      "id": 220114000,
+      "full_name": "chipsalliance/verible",
+      "html_url": "https://github.com/chipsalliance/verible",
+      "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+      "stars": 1933,
+      "forks": 304,
+      "language": "C++",
+      "pushed_at": "2026-09-10T08:27:06Z",
+      "updated_at": "2026-09-10T07:41:24Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1190,
+      "stars": 1191,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-10T03:06:01Z",
-      "updated_at": "2026-09-10T03:06:05Z"
+      "pushed_at": "2026-09-10T07:42:37Z",
+      "updated_at": "2026-09-10T07:56:26Z"
     },
     {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, zen, widgets, pomodoro and 24/7 time tracking. :scream_cat:",
-      "stars": 713,
-      "forks": 43,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-10T02:58:01Z",
-      "updated_at": "2026-09-10T02:58:05Z"
-    },
-    {
-      "id": 1196349223,
-      "full_name": "dotpm/obsidian-pm",
-      "html_url": "https://github.com/dotpm/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 688,
-      "forks": 72,
+      "id": 1281865940,
+      "full_name": "drewnekota/cetus",
+      "html_url": "https://github.com/drewnekota/cetus",
+      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+      "stars": 143,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-09-10T01:57:25Z",
-      "updated_at": "2026-09-10T01:57:31Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 32,
-      "language": "Shell",
-      "pushed_at": "2026-09-10T02:47:37Z",
-      "updated_at": "2026-09-10T02:47:40Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 286,
-      "forks": 12,
-      "language": "C#",
-      "pushed_at": "2026-09-10T02:46:25Z",
-      "updated_at": "2026-09-10T03:10:32Z"
+      "pushed_at": "2026-09-10T08:39:06Z",
+      "updated_at": "2026-09-10T08:39:12Z"
     },
     {
       "id": 1161274003,
@@ -158,19 +114,63 @@
       "stars": 138,
       "forks": 10,
       "language": "Swift",
-      "pushed_at": "2026-09-10T02:56:59Z",
-      "updated_at": "2026-09-10T02:06:23Z"
+      "pushed_at": "2026-09-10T07:07:32Z",
+      "updated_at": "2026-09-10T07:07:35Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 130,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-10T02:03:05Z",
-      "updated_at": "2026-09-10T02:03:10Z"
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The all-in-one platform for humans and agents to get work done",
+      "stars": 134,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-10T08:10:39Z",
+      "updated_at": "2026-09-10T08:10:44Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "zeweihan/aiworkdeck",
+      "html_url": "https://github.com/zeweihan/aiworkdeck",
+      "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, built-in document editing with tracked changes, OCR, evidence chains. VS Code for lawyers.",
+      "stars": 119,
+      "forks": 13,
+      "language": "Java",
+      "pushed_at": "2026-09-10T08:35:43Z",
+      "updated_at": "2026-09-10T08:35:50Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-09-10T07:47:41Z",
+      "updated_at": "2026-09-10T07:47:57Z"
+    },
+    {
+      "id": 1155372026,
+      "full_name": "kawayiYokami/P-ai",
+      "html_url": "https://github.com/kawayiYokami/P-ai",
+      "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
+      "stars": 99,
+      "forks": 17,
+      "language": "Rust",
+      "pushed_at": "2026-09-10T07:54:41Z",
+      "updated_at": "2026-09-10T07:55:02Z"
+    },
+    {
+      "id": 1029731706,
+      "full_name": "mgsgde/whisper-shortcut",
+      "html_url": "https://github.com/mgsgde/whisper-shortcut",
+      "description": "Voice-first macOS menu bar app: dictate, voice-edit clipboard, read aloud, AI chat with Google/Trello tools, and live meeting notes. Bring your own keys (Gemini, GPT, Grok) or run offline with Whisper.",
+      "stars": 73,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-09-10T07:57:43Z",
+      "updated_at": "2026-09-10T07:57:39Z"
     }
   ]
 }
