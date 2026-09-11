@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1108,
+  "total_found": 1109,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 79950,
-      "forks": 5058,
+      "stars": 79970,
+      "forks": 5062,
       "language": "Rust",
-      "pushed_at": "2026-09-11T15:28:58Z",
-      "updated_at": "2026-09-11T15:48:58Z"
+      "pushed_at": "2026-09-11T18:18:27Z",
+      "updated_at": "2026-09-11T18:32:25Z"
     },
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27363,
-      "forks": 2433,
-      "language": "Go",
-      "pushed_at": "2026-09-11T15:28:00Z",
-      "updated_at": "2026-09-11T15:36:44Z"
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24405,
+      "forks": 2313,
+      "language": "Python",
+      "pushed_at": "2026-09-11T17:00:16Z",
+      "updated_at": "2026-09-11T16:57:23Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21959,
-      "forks": 2032,
+      "stars": 21963,
+      "forks": 2034,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:18:48Z",
-      "updated_at": "2026-09-11T15:38:28Z"
+      "pushed_at": "2026-09-11T18:57:13Z",
+      "updated_at": "2026-09-11T18:50:15Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15263,
-      "forks": 1014,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:36:02Z",
-      "updated_at": "2026-09-11T15:42:20Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13491,
-      "forks": 838,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:19:06Z",
-      "updated_at": "2026-09-11T15:17:28Z"
+      "id": 458094748,
+      "full_name": "omnivore-app/omnivore",
+      "html_url": "https://github.com/omnivore-app/omnivore",
+      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+      "stars": 16237,
+      "forks": 1264,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-11T17:46:14Z",
+      "updated_at": "2026-09-11T17:44:49Z"
     },
     {
       "id": 665613753,
@@ -70,8 +59,8 @@
       "stars": 12187,
       "forks": 1522,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:46:34Z",
-      "updated_at": "2026-09-11T15:42:42Z"
+      "pushed_at": "2026-09-11T17:14:04Z",
+      "updated_at": "2026-09-11T16:43:40Z"
     },
     {
       "id": 129699403,
@@ -81,19 +70,30 @@
       "stars": 5799,
       "forks": 777,
       "language": "Swift",
-      "pushed_at": "2026-09-11T15:39:40Z",
-      "updated_at": "2026-09-11T15:39:43Z"
+      "pushed_at": "2026-09-11T18:54:28Z",
+      "updated_at": "2026-09-11T18:45:39Z"
     },
     {
-      "id": 331378904,
-      "full_name": "gioxx/MarvellousSuspender",
-      "html_url": "https://github.com/gioxx/MarvellousSuspender",
-      "description": "A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.",
-      "stars": 1391,
-      "forks": 143,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-11T15:27:46Z",
-      "updated_at": "2026-09-11T15:02:20Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5553,
+      "forks": 652,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-11T18:51:05Z",
+      "updated_at": "2026-09-11T18:51:12Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2001,
+      "forks": 122,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-11T18:44:01Z",
+      "updated_at": "2026-09-11T18:44:06Z"
     },
     {
       "id": 1148683593,
@@ -103,74 +103,74 @@
       "stars": 1195,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-11T15:48:37Z",
-      "updated_at": "2026-09-11T15:48:41Z"
+      "pushed_at": "2026-09-11T17:51:54Z",
+      "updated_at": "2026-09-11T17:51:06Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 887,
-      "forks": 94,
+      "id": 633571482,
+      "full_name": "hyprland-community/pyprland",
+      "html_url": "https://github.com/hyprland-community/pyprland",
+      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+      "stars": 705,
+      "forks": 34,
       "language": "Python",
-      "pushed_at": "2026-09-11T15:42:57Z",
-      "updated_at": "2026-09-11T15:43:01Z"
+      "pushed_at": "2026-09-11T17:04:35Z",
+      "updated_at": "2026-09-11T17:04:39Z"
     },
     {
-      "id": 1187304686,
-      "full_name": "westpoint-io/mimik",
-      "html_url": "https://github.com/westpoint-io/mimik",
-      "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
-      "stars": 779,
-      "forks": 108,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:13:08Z",
-      "updated_at": "2026-09-11T15:13:11Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 575,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-09-11T18:26:46Z",
+      "updated_at": "2026-09-11T18:26:48Z"
     },
     {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 456,
-      "forks": 51,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-11T15:41:49Z",
-      "updated_at": "2026-09-11T15:41:54Z"
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME.",
+      "stars": 256,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-09-11T18:31:03Z",
+      "updated_at": "2026-09-11T18:31:10Z"
     },
     {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "Fast, open-source macOS floating text actions. Transform text, run scripts, and integrate AI seamlessly.",
-      "stars": 325,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-09-11T14:51:18Z",
-      "updated_at": "2026-09-11T15:08:37Z"
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 150,
+      "forks": 14,
+      "language": "HTML",
+      "pushed_at": "2026-09-11T17:37:50Z",
+      "updated_at": "2026-09-11T17:37:54Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 32,
+      "id": 1220652910,
+      "full_name": "Ducksss/codex-profiles",
+      "html_url": "https://github.com/Ducksss/codex-profiles",
+      "description": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
+      "stars": 143,
+      "forks": 10,
       "language": "Shell",
-      "pushed_at": "2026-09-11T15:47:01Z",
-      "updated_at": "2026-09-11T15:47:06Z"
+      "pushed_at": "2026-09-11T17:44:59Z",
+      "updated_at": "2026-09-11T17:43:43Z"
     },
     {
-      "id": 1347255896,
-      "full_name": "xiaopu-ai/TO-DO-Panel",
-      "html_url": "https://github.com/xiaopu-ai/TO-DO-Panel",
-      "description": "把 Mac 刘海变成随手可用的本地工作台：待办、随笔记、链接、录音与 AI 完成提醒。",
-      "stars": 153,
-      "forks": 24,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-11T15:09:00Z",
-      "updated_at": "2026-09-11T15:09:04Z"
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 139,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-09-11T18:23:42Z",
+      "updated_at": "2026-09-11T17:28:04Z"
     }
   ]
 }
