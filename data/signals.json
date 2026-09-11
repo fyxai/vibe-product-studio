@@ -5,29 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1109,
+  "total_found": 1108,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 79970,
-      "forks": 5062,
-      "language": "Rust",
-      "pushed_at": "2026-09-11T18:18:27Z",
-      "updated_at": "2026-09-11T18:32:25Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24405,
-      "forks": 2313,
-      "language": "Python",
-      "pushed_at": "2026-09-11T17:00:16Z",
-      "updated_at": "2026-09-11T16:57:23Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39534,
+      "forks": 3912,
+      "language": "C#",
+      "pushed_at": "2026-09-11T21:52:47Z",
+      "updated_at": "2026-09-11T22:07:13Z"
     },
     {
       "id": 78243781,
@@ -35,32 +24,21 @@
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
       "stars": 21963,
-      "forks": 2034,
+      "forks": 2035,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T18:57:13Z",
-      "updated_at": "2026-09-11T18:50:15Z"
+      "pushed_at": "2026-09-11T21:37:02Z",
+      "updated_at": "2026-09-11T21:16:14Z"
     },
     {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16237,
-      "forks": 1264,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-11T17:46:14Z",
-      "updated_at": "2026-09-11T17:44:49Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12187,
-      "forks": 1522,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T17:14:04Z",
-      "updated_at": "2026-09-11T16:43:40Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6692,
+      "forks": 402,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-11T20:30:21Z",
+      "updated_at": "2026-09-11T20:30:28Z"
     },
     {
       "id": 129699403,
@@ -70,8 +48,8 @@
       "stars": 5799,
       "forks": 777,
       "language": "Swift",
-      "pushed_at": "2026-09-11T18:54:28Z",
-      "updated_at": "2026-09-11T18:45:39Z"
+      "pushed_at": "2026-09-11T22:04:30Z",
+      "updated_at": "2026-09-11T21:00:41Z"
     },
     {
       "id": 11512043,
@@ -81,19 +59,63 @@
       "stars": 5553,
       "forks": 652,
       "language": "Kotlin",
-      "pushed_at": "2026-09-11T18:51:05Z",
-      "updated_at": "2026-09-11T18:51:12Z"
+      "pushed_at": "2026-09-11T20:56:16Z",
+      "updated_at": "2026-09-11T20:56:22Z"
+    },
+    {
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3496,
+      "forks": 164,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-11T20:04:37Z",
+      "updated_at": "2026-09-11T20:04:36Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 2845,
+      "forks": 119,
+      "language": "Swift",
+      "pushed_at": "2026-09-11T21:51:54Z",
+      "updated_at": "2026-09-11T21:52:02Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 2324,
+      "forks": 115,
+      "language": "C#",
+      "pushed_at": "2026-09-11T22:15:17Z",
+      "updated_at": "2026-09-11T21:57:27Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2009,
+      "forks": 146,
+      "language": "Dart",
+      "pushed_at": "2026-09-11T20:29:44Z",
+      "updated_at": "2026-09-11T20:29:51Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2001,
+      "stars": 2005,
       "forks": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T18:44:01Z",
-      "updated_at": "2026-09-11T18:44:06Z"
+      "pushed_at": "2026-09-11T20:11:29Z",
+      "updated_at": "2026-09-11T22:08:54Z"
     },
     {
       "id": 1148683593,
@@ -103,19 +125,8 @@
       "stars": 1195,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-11T17:51:54Z",
-      "updated_at": "2026-09-11T17:51:06Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 705,
-      "forks": 34,
-      "language": "Python",
-      "pushed_at": "2026-09-11T17:04:35Z",
-      "updated_at": "2026-09-11T17:04:39Z"
+      "pushed_at": "2026-09-11T19:54:57Z",
+      "updated_at": "2026-09-11T19:55:01Z"
     },
     {
       "id": 49612213,
@@ -125,52 +136,41 @@
       "stars": 575,
       "forks": 72,
       "language": "C#",
-      "pushed_at": "2026-09-11T18:26:46Z",
-      "updated_at": "2026-09-11T18:26:48Z"
+      "pushed_at": "2026-09-11T21:14:35Z",
+      "updated_at": "2026-09-11T21:14:38Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "The Anti-Note for GNOME.",
-      "stars": 256,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-09-11T18:31:03Z",
-      "updated_at": "2026-09-11T18:31:10Z"
-    },
-    {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 150,
-      "forks": 14,
-      "language": "HTML",
-      "pushed_at": "2026-09-11T17:37:50Z",
-      "updated_at": "2026-09-11T17:37:54Z"
-    },
-    {
-      "id": 1220652910,
-      "full_name": "Ducksss/codex-profiles",
-      "html_url": "https://github.com/Ducksss/codex-profiles",
-      "description": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
-      "stars": 143,
-      "forks": 10,
-      "language": "Shell",
-      "pushed_at": "2026-09-11T17:44:59Z",
-      "updated_at": "2026-09-11T17:43:43Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 139,
-      "forks": 10,
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 423,
+      "forks": 25,
       "language": "Swift",
-      "pushed_at": "2026-09-11T18:23:42Z",
-      "updated_at": "2026-09-11T17:28:04Z"
+      "pushed_at": "2026-09-11T20:54:09Z",
+      "updated_at": "2026-09-11T20:54:06Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 323,
+      "forks": 32,
+      "language": "Shell",
+      "pushed_at": "2026-09-11T20:24:48Z",
+      "updated_at": "2026-09-11T20:24:52Z"
+    },
+    {
+      "id": 1312220956,
+      "full_name": "jchultarsky/mirador",
+      "html_url": "https://github.com/jchultarsky/mirador",
+      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
+      "stars": 301,
+      "forks": 31,
+      "language": "Rust",
+      "pushed_at": "2026-09-11T21:21:06Z",
+      "updated_at": "2026-09-11T21:21:10Z"
     }
   ]
 }
