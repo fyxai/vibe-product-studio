@@ -5,8 +5,19 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1111,
+  "total_found": 1110,
   "items": [
+    {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 80093,
+      "forks": 5072,
+      "language": "Rust",
+      "pushed_at": "2026-09-12T21:24:33Z",
+      "updated_at": "2026-09-12T21:55:32Z"
+    },
     {
       "id": 837911756,
       "full_name": "feder-cr/AIHawk",
@@ -15,41 +26,41 @@
       "stars": 30350,
       "forks": 4653,
       "language": "Python",
-      "pushed_at": "2026-09-12T17:45:02Z",
-      "updated_at": "2026-09-12T17:41:43Z"
+      "pushed_at": "2026-09-12T21:23:50Z",
+      "updated_at": "2026-09-12T21:23:28Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21973,
-      "forks": 2036,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-12T17:51:22Z",
-      "updated_at": "2026-09-12T17:43:49Z"
+      "id": 1079924730,
+      "full_name": "BarutSRB/OmniWM",
+      "html_url": "https://github.com/BarutSRB/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 2858,
+      "forks": 120,
+      "language": "Swift",
+      "pushed_at": "2026-09-12T21:30:10Z",
+      "updated_at": "2026-09-12T21:30:15Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "stars": 17539,
-      "forks": 1736,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-12T17:21:19Z",
-      "updated_at": "2026-09-12T17:34:56Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2343,
+      "forks": 99,
+      "language": "Swift",
+      "pushed_at": "2026-09-12T21:21:17Z",
+      "updated_at": "2026-09-12T21:21:19Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3372,
-      "forks": 165,
-      "language": "Gherkin",
-      "pushed_at": "2026-09-12T17:17:21Z",
-      "updated_at": "2026-09-12T17:37:54Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "stars": 2331,
+      "forks": 116,
+      "language": "C#",
+      "pushed_at": "2026-09-12T21:54:37Z",
+      "updated_at": "2026-09-12T20:44:06Z"
     },
     {
       "id": 16063480,
@@ -59,30 +70,19 @@
       "stars": 2055,
       "forks": 220,
       "language": "JavaScript",
-      "pushed_at": "2026-09-12T17:41:32Z",
-      "updated_at": "2026-09-12T17:41:38Z"
+      "pushed_at": "2026-09-12T20:32:32Z",
+      "updated_at": "2026-09-12T20:32:35Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2013,
-      "forks": 121,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-12T17:37:27Z",
-      "updated_at": "2026-09-12T17:37:31Z"
-    },
-    {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1212,
-      "forks": 131,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-12T18:00:20Z",
-      "updated_at": "2026-09-12T18:00:23Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2011,
+      "forks": 146,
+      "language": "Dart",
+      "pushed_at": "2026-09-12T21:53:20Z",
+      "updated_at": "2026-09-12T21:53:24Z"
     },
     {
       "id": 1148683593,
@@ -92,63 +92,52 @@
       "stars": 1199,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-12T18:04:33Z",
-      "updated_at": "2026-09-12T18:04:37Z"
+      "pushed_at": "2026-09-12T21:30:49Z",
+      "updated_at": "2026-09-12T21:30:52Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "dotpm/obsidian-pm",
-      "html_url": "https://github.com/dotpm/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 692,
-      "forks": 74,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-12T17:58:43Z",
-      "updated_at": "2026-09-12T17:58:46Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 575,
-      "forks": 72,
-      "language": "C#",
-      "pushed_at": "2026-09-12T17:50:39Z",
-      "updated_at": "2026-09-12T17:33:29Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-12T16:59:21Z",
-      "updated_at": "2026-09-12T16:59:25Z"
-    },
-    {
-      "id": 1073657969,
-      "full_name": "alekspetrov/navigator",
-      "html_url": "https://github.com/alekspetrov/navigator",
-      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
-      "stars": 232,
-      "forks": 12,
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 278,
+      "forks": 26,
       "language": "Python",
-      "pushed_at": "2026-09-12T17:05:30Z",
-      "updated_at": "2026-09-12T17:05:33Z"
+      "pushed_at": "2026-09-12T20:56:29Z",
+      "updated_at": "2026-09-12T20:56:32Z"
     },
     {
-      "id": 1143431716,
-      "full_name": "Rench321/sklad",
-      "html_url": "https://github.com/Rench321/sklad",
-      "description": "Industrial-grade secure snippet warehouse for your system tray. 📦 Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.",
-      "stars": 175,
-      "forks": 3,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-12T17:27:04Z",
-      "updated_at": "2026-09-12T17:27:10Z"
+      "id": 1009805708,
+      "full_name": "ashesbloom/LocalLens",
+      "html_url": "https://github.com/ashesbloom/LocalLens",
+      "description": "Local Lens is a privacy-first, AI-powered photo organizer for your PC. Sort and group photos by faces, dates, and locations ...all locally, with no cloud upload and no Internet. ... 🫪 Now on CLAUDE ☼ check below🔽",
+      "stars": 160,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-09-12T21:00:08Z",
+      "updated_at": "2026-09-12T20:59:55Z"
+    },
+    {
+      "id": 1168864369,
+      "full_name": "oldany/dropmind",
+      "html_url": "https://github.com/oldany/dropmind",
+      "description": "Self-hosted capture layer to save anything from anywhere.",
+      "stars": 142,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-12T20:40:34Z",
+      "updated_at": "2026-09-12T20:40:38Z"
+    },
+    {
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 139,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-09-12T21:29:10Z",
+      "updated_at": "2026-09-12T21:16:48Z"
     },
     {
       "id": 1133644268,
@@ -158,19 +147,30 @@
       "stars": 134,
       "forks": 18,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T17:59:05Z",
-      "updated_at": "2026-09-12T17:58:53Z"
+      "pushed_at": "2026-09-12T21:49:02Z",
+      "updated_at": "2026-09-12T21:45:27Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 130,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-12T21:53:49Z",
+      "updated_at": "2026-09-12T21:53:49Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
       "stars": 118,
-      "forks": 1,
+      "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-09-12T17:38:00Z",
-      "updated_at": "2026-09-12T17:38:04Z"
+      "pushed_at": "2026-09-12T21:23:23Z",
+      "updated_at": "2026-09-12T21:23:27Z"
     }
   ]
 }
