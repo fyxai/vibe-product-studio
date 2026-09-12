@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1110,
+  "total_found": 1111,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27370,
-      "forks": 2433,
-      "language": "Go",
-      "pushed_at": "2026-09-12T14:55:05Z",
-      "updated_at": "2026-09-12T14:55:14Z"
+      "id": 837911756,
+      "full_name": "feder-cr/AIHawk",
+      "html_url": "https://github.com/feder-cr/AIHawk",
+      "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.",
+      "stars": 30350,
+      "forks": 4653,
+      "language": "Python",
+      "pushed_at": "2026-09-12T17:45:02Z",
+      "updated_at": "2026-09-12T17:41:43Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21974,
+      "stars": 21973,
       "forks": 2036,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T14:38:45Z",
-      "updated_at": "2026-09-12T14:47:24Z"
+      "pushed_at": "2026-09-12T17:51:22Z",
+      "updated_at": "2026-09-12T17:43:49Z"
     },
     {
       "id": 916009087,
       "full_name": "rowboatlabs/rowboat",
       "html_url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 17535,
+      "stars": 17539,
       "forks": 1736,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T14:09:22Z",
-      "updated_at": "2026-09-12T14:15:51Z"
+      "pushed_at": "2026-09-12T17:21:19Z",
+      "updated_at": "2026-09-12T17:34:56Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2331,
-      "forks": 116,
-      "language": "C#",
-      "pushed_at": "2026-09-12T14:30:38Z",
-      "updated_at": "2026-09-12T14:52:18Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3372,
+      "forks": 165,
+      "language": "Gherkin",
+      "pushed_at": "2026-09-12T17:17:21Z",
+      "updated_at": "2026-09-12T17:37:54Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 955,
-      "forks": 62,
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 2055,
+      "forks": 220,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-12T17:41:32Z",
+      "updated_at": "2026-09-12T17:41:38Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2013,
+      "forks": 121,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T17:37:27Z",
+      "updated_at": "2026-09-12T17:37:31Z"
+    },
+    {
+      "id": 260652021,
+      "full_name": "Razeeman/Android-SimpleTimeTracker",
+      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
+      "description": "Simple app that tracks time.",
+      "stars": 1212,
+      "forks": 131,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-12T18:00:20Z",
+      "updated_at": "2026-09-12T18:00:23Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1199,
+      "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-12T14:19:17Z",
-      "updated_at": "2026-09-12T14:19:19Z"
+      "pushed_at": "2026-09-12T18:04:33Z",
+      "updated_at": "2026-09-12T18:04:37Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 888,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-09-12T14:47:28Z",
-      "updated_at": "2026-09-12T14:47:32Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 874,
-      "forks": 155,
-      "language": "Go",
-      "pushed_at": "2026-09-12T14:29:49Z",
-      "updated_at": "2026-09-12T13:50:22Z"
+      "id": 1196349223,
+      "full_name": "dotpm/obsidian-pm",
+      "html_url": "https://github.com/dotpm/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 692,
+      "forks": 74,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T17:58:43Z",
+      "updated_at": "2026-09-12T17:58:46Z"
     },
     {
       "id": 49612213,
@@ -92,30 +114,8 @@
       "stars": 575,
       "forks": 72,
       "language": "C#",
-      "pushed_at": "2026-09-12T14:20:25Z",
-      "updated_at": "2026-09-12T14:08:12Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 392,
-      "forks": 17,
-      "language": "C#",
-      "pushed_at": "2026-09-12T14:10:20Z",
-      "updated_at": "2026-09-12T14:57:31Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 32,
-      "language": "Shell",
-      "pushed_at": "2026-09-12T14:55:14Z",
-      "updated_at": "2026-09-12T14:55:17Z"
+      "pushed_at": "2026-09-12T17:50:39Z",
+      "updated_at": "2026-09-12T17:33:29Z"
     },
     {
       "id": 226175035,
@@ -125,52 +125,52 @@
       "stars": 318,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T13:52:32Z",
-      "updated_at": "2026-09-12T13:52:35Z"
+      "pushed_at": "2026-09-12T16:59:21Z",
+      "updated_at": "2026-09-12T16:59:25Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 290,
-      "forks": 35,
+      "id": 1073657969,
+      "full_name": "alekspetrov/navigator",
+      "html_url": "https://github.com/alekspetrov/navigator",
+      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
+      "stars": 232,
+      "forks": 12,
       "language": "Python",
-      "pushed_at": "2026-09-12T14:31:16Z",
-      "updated_at": "2026-09-12T13:58:00Z"
+      "pushed_at": "2026-09-12T17:05:30Z",
+      "updated_at": "2026-09-12T17:05:33Z"
     },
     {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 228,
-      "forks": 26,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12T13:57:33Z",
-      "updated_at": "2026-09-12T13:57:02Z"
+      "id": 1143431716,
+      "full_name": "Rench321/sklad",
+      "html_url": "https://github.com/Rench321/sklad",
+      "description": "Industrial-grade secure snippet warehouse for your system tray. 📦 Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.",
+      "stars": 175,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T17:27:04Z",
+      "updated_at": "2026-09-12T17:27:10Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 139,
-      "forks": 10,
-      "language": "Swift",
-      "pushed_at": "2026-09-12T14:54:09Z",
-      "updated_at": "2026-09-12T14:54:12Z"
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The all-in-one platform for humans and agents to get work done",
+      "stars": 134,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T17:59:05Z",
+      "updated_at": "2026-09-12T17:58:53Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 130,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12T14:46:07Z",
-      "updated_at": "2026-09-12T14:23:09Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-09-12T17:38:00Z",
+      "updated_at": "2026-09-12T17:38:04Z"
     }
   ]
 }
