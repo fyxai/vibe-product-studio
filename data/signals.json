@@ -8,125 +8,70 @@
   "total_found": 1108,
   "items": [
     {
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 256576,
+      "forks": 38394,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-12T03:00:17Z",
+      "updated_at": "2026-09-12T03:13:06Z"
+    },
+    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39534,
-      "forks": 3912,
+      "stars": 39535,
+      "forks": 3913,
       "language": "C#",
-      "pushed_at": "2026-09-11T21:52:47Z",
-      "updated_at": "2026-09-11T22:07:13Z"
+      "pushed_at": "2026-09-12T02:44:55Z",
+      "updated_at": "2026-09-12T02:45:00Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 21963,
-      "forks": 2035,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12191,
+      "forks": 1523,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T21:37:02Z",
-      "updated_at": "2026-09-11T21:16:14Z"
-    },
-    {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6692,
-      "forks": 402,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-11T20:30:21Z",
-      "updated_at": "2026-09-11T20:30:28Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5799,
-      "forks": 777,
-      "language": "Swift",
-      "pushed_at": "2026-09-11T22:04:30Z",
-      "updated_at": "2026-09-11T21:00:41Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5553,
-      "forks": 652,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-11T20:56:16Z",
-      "updated_at": "2026-09-11T20:56:22Z"
-    },
-    {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3496,
-      "forks": 164,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T20:04:37Z",
-      "updated_at": "2026-09-11T20:04:36Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 2845,
-      "forks": 119,
-      "language": "Swift",
-      "pushed_at": "2026-09-11T21:51:54Z",
-      "updated_at": "2026-09-11T21:52:02Z"
+      "pushed_at": "2026-09-12T02:24:27Z",
+      "updated_at": "2026-09-12T02:36:15Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2324,
-      "forks": 115,
+      "stars": 2327,
+      "forks": 116,
       "language": "C#",
-      "pushed_at": "2026-09-11T22:15:17Z",
-      "updated_at": "2026-09-11T21:57:27Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 2009,
-      "forks": 146,
-      "language": "Dart",
-      "pushed_at": "2026-09-11T20:29:44Z",
-      "updated_at": "2026-09-11T20:29:51Z"
+      "pushed_at": "2026-09-12T02:26:27Z",
+      "updated_at": "2026-09-12T02:36:37Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2005,
+      "stars": 2006,
       "forks": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T20:11:29Z",
-      "updated_at": "2026-09-11T22:08:54Z"
+      "pushed_at": "2026-09-12T01:32:07Z",
+      "updated_at": "2026-09-12T01:32:12Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1195,
-      "forks": 48,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 953,
+      "forks": 61,
       "language": "Rust",
-      "pushed_at": "2026-09-11T19:54:57Z",
-      "updated_at": "2026-09-11T19:55:01Z"
+      "pushed_at": "2026-09-12T02:30:07Z",
+      "updated_at": "2026-09-12T01:07:20Z"
     },
     {
       "id": 49612213,
@@ -136,19 +81,19 @@
       "stars": 575,
       "forks": 72,
       "language": "C#",
-      "pushed_at": "2026-09-11T21:14:35Z",
-      "updated_at": "2026-09-11T21:14:38Z"
+      "pushed_at": "2026-09-12T03:10:50Z",
+      "updated_at": "2026-09-12T03:02:37Z"
     },
     {
-      "id": 1148232257,
-      "full_name": "samirpatil2000/Buffer",
-      "html_url": "https://github.com/samirpatil2000/Buffer",
-      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
-      "stars": 423,
-      "forks": 25,
-      "language": "Swift",
-      "pushed_at": "2026-09-11T20:54:09Z",
-      "updated_at": "2026-09-11T20:54:06Z"
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 364,
+      "forks": 16,
+      "language": "C#",
+      "pushed_at": "2026-09-12T02:49:42Z",
+      "updated_at": "2026-09-12T03:10:18Z"
     },
     {
       "id": 1166865874,
@@ -158,19 +103,74 @@
       "stars": 323,
       "forks": 32,
       "language": "Shell",
-      "pushed_at": "2026-09-11T20:24:48Z",
-      "updated_at": "2026-09-11T20:24:52Z"
+      "pushed_at": "2026-09-12T02:49:29Z",
+      "updated_at": "2026-09-12T02:49:32Z"
     },
     {
-      "id": 1312220956,
-      "full_name": "jchultarsky/mirador",
-      "html_url": "https://github.com/jchultarsky/mirador",
-      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "stars": 301,
-      "forks": 31,
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T01:52:40Z",
+      "updated_at": "2026-09-12T01:52:43Z"
+    },
+    {
+      "id": 816791495,
+      "full_name": "ktmouk/minute",
+      "html_url": "https://github.com/ktmouk/minute",
+      "description": "⏰ The open-source time tracking app for individuals.",
+      "stars": 259,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T03:11:46Z",
+      "updated_at": "2026-09-12T03:07:09Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 236,
+      "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-09-11T21:21:06Z",
-      "updated_at": "2026-09-11T21:21:10Z"
+      "pushed_at": "2026-09-12T01:30:09Z",
+      "updated_at": "2026-09-12T01:30:13Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/CodexRunway",
+      "html_url": "https://github.com/Licoy/CodexRunway",
+      "description": "Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
+      "stars": 220,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-09-12T01:14:58Z",
+      "updated_at": "2026-09-12T01:14:59Z"
+    },
+    {
+      "id": 850497911,
+      "full_name": "cryptrr/AutoPie",
+      "html_url": "https://github.com/cryptrr/AutoPie",
+      "description": "Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.",
+      "stars": 204,
+      "forks": 5,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-12T01:43:07Z",
+      "updated_at": "2026-09-12T01:43:13Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 130,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-12T02:18:53Z",
+      "updated_at": "2026-09-12T02:18:47Z"
     }
   ]
 }
