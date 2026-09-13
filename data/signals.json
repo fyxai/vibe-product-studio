@@ -12,77 +12,55 @@
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 80093,
-      "forks": 5072,
+      "stars": 80107,
+      "forks": 5073,
       "language": "Rust",
-      "pushed_at": "2026-09-12T21:24:33Z",
-      "updated_at": "2026-09-12T21:55:32Z"
+      "pushed_at": "2026-09-13T01:21:13Z",
+      "updated_at": "2026-09-13T02:50:56Z"
     },
     {
       "id": 837911756,
       "full_name": "feder-cr/AIHawk",
       "html_url": "https://github.com/feder-cr/AIHawk",
-      "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.",
+      "description": "Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Plain-English tasks, computer-use agent, browser MCP for Claude Code and Gemini CLI.",
       "stars": 30350,
-      "forks": 4653,
+      "forks": 4652,
       "language": "Python",
-      "pushed_at": "2026-09-12T21:23:50Z",
-      "updated_at": "2026-09-12T21:23:28Z"
+      "pushed_at": "2026-09-13T01:50:24Z",
+      "updated_at": "2026-09-13T03:03:22Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "BarutSRB/OmniWM",
-      "html_url": "https://github.com/BarutSRB/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 2858,
-      "forks": 120,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27373,
+      "forks": 2432,
+      "language": "Go",
+      "pushed_at": "2026-09-13T03:06:55Z",
+      "updated_at": "2026-09-13T01:17:54Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 9490,
+      "forks": 288,
+      "language": "C++",
+      "pushed_at": "2026-09-13T03:10:50Z",
+      "updated_at": "2026-09-13T02:13:59Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5799,
+      "forks": 777,
       "language": "Swift",
-      "pushed_at": "2026-09-12T21:30:10Z",
-      "updated_at": "2026-09-12T21:30:15Z"
-    },
-    {
-      "id": 324267700,
-      "full_name": "pakerwreah/Calendr",
-      "html_url": "https://github.com/pakerwreah/Calendr",
-      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
-      "stars": 2343,
-      "forks": 99,
-      "language": "Swift",
-      "pushed_at": "2026-09-12T21:21:17Z",
-      "updated_at": "2026-09-12T21:21:19Z"
-    },
-    {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
-      "stars": 2331,
-      "forks": 116,
-      "language": "C#",
-      "pushed_at": "2026-09-12T21:54:37Z",
-      "updated_at": "2026-09-12T20:44:06Z"
-    },
-    {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 2055,
-      "forks": 220,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12T20:32:32Z",
-      "updated_at": "2026-09-12T20:32:35Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 2011,
-      "forks": 146,
-      "language": "Dart",
-      "pushed_at": "2026-09-12T21:53:20Z",
-      "updated_at": "2026-09-12T21:53:24Z"
+      "pushed_at": "2026-09-13T03:13:11Z",
+      "updated_at": "2026-09-13T01:21:04Z"
     },
     {
       "id": 1148683593,
@@ -92,52 +70,96 @@
       "stars": 1199,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-12T21:30:49Z",
-      "updated_at": "2026-09-12T21:30:52Z"
+      "pushed_at": "2026-09-13T03:16:30Z",
+      "updated_at": "2026-09-13T03:16:34Z"
     },
     {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 278,
-      "forks": 26,
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, stopwatch, calendar, notes, shortcuts, zen-mode, widgets, pomodoro and 24/7 time tracking. :scream_cat:",
+      "stars": 714,
+      "forks": 43,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-13T01:39:51Z",
+      "updated_at": "2026-09-13T01:39:55Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "dotpm/obsidian-pm",
+      "html_url": "https://github.com/dotpm/obsidian-pm",
+      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
+      "stars": 693,
+      "forks": 74,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-13T02:47:42Z",
+      "updated_at": "2026-09-13T03:02:52Z"
+    },
+    {
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 575,
+      "forks": 72,
+      "language": "C#",
+      "pushed_at": "2026-09-13T00:46:36Z",
+      "updated_at": "2026-09-13T00:46:39Z"
+    },
+    {
+      "id": 1328784466,
+      "full_name": "Kabanya/Pomodoist",
+      "html_url": "https://github.com/Kabanya/Pomodoist",
+      "description": "Open-source Todoist alternative. Self-hosted. A focused Pomodoro timer and task manager for mobile, desktop, and web.",
+      "stars": 447,
+      "forks": 44,
+      "language": "Dart",
+      "pushed_at": "2026-09-13T01:06:09Z",
+      "updated_at": "2026-09-13T01:36:46Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 372,
+      "forks": 23,
       "language": "Python",
-      "pushed_at": "2026-09-12T20:56:29Z",
-      "updated_at": "2026-09-12T20:56:32Z"
+      "pushed_at": "2026-09-13T00:51:35Z",
+      "updated_at": "2026-09-13T00:51:36Z"
     },
     {
-      "id": 1009805708,
-      "full_name": "ashesbloom/LocalLens",
-      "html_url": "https://github.com/ashesbloom/LocalLens",
-      "description": "Local Lens is a privacy-first, AI-powered photo organizer for your PC. Sort and group photos by faces, dates, and locations ...all locally, with no cloud upload and no Internet. ... 🫪 Now on CLAUDE ☼ check below🔽",
-      "stars": 160,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-09-12T21:00:08Z",
-      "updated_at": "2026-09-12T20:59:55Z"
-    },
-    {
-      "id": 1168864369,
-      "full_name": "oldany/dropmind",
-      "html_url": "https://github.com/oldany/dropmind",
-      "description": "Self-hosted capture layer to save anything from anywhere.",
-      "stars": 142,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12T20:40:34Z",
-      "updated_at": "2026-09-12T20:40:38Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 139,
-      "forks": 10,
+      "id": 1319581450,
+      "full_name": "ganeshmshetty/openclip",
+      "html_url": "https://github.com/ganeshmshetty/openclip",
+      "description": "Fast, open-source macOS floating text actions. Transform text, run scripts, and integrate AI seamlessly.",
+      "stars": 335,
+      "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-09-12T21:29:10Z",
-      "updated_at": "2026-09-12T21:16:48Z"
+      "pushed_at": "2026-09-13T02:56:42Z",
+      "updated_at": "2026-09-13T02:56:42Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 323,
+      "forks": 32,
+      "language": "Shell",
+      "pushed_at": "2026-09-13T02:48:05Z",
+      "updated_at": "2026-09-13T02:48:08Z"
+    },
+    {
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 150,
+      "forks": 14,
+      "language": "HTML",
+      "pushed_at": "2026-09-13T00:42:05Z",
+      "updated_at": "2026-09-13T00:42:09Z"
     },
     {
       "id": 1133644268,
@@ -147,30 +169,8 @@
       "stars": 134,
       "forks": 18,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T21:49:02Z",
-      "updated_at": "2026-09-12T21:45:27Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 130,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12T21:53:49Z",
-      "updated_at": "2026-09-12T21:53:49Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 118,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-09-12T21:23:23Z",
-      "updated_at": "2026-09-12T21:23:27Z"
+      "pushed_at": "2026-09-13T00:38:35Z",
+      "updated_at": "2026-09-13T00:35:20Z"
     }
   ]
 }
