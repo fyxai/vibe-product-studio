@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1110,
+  "total_found": 1111,
   "items": [
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 80107,
-      "forks": 5073,
-      "language": "Rust",
-      "pushed_at": "2026-09-13T01:21:13Z",
-      "updated_at": "2026-09-13T02:50:56Z"
-    },
     {
       "id": 837911756,
       "full_name": "feder-cr/AIHawk",
       "html_url": "https://github.com/feder-cr/AIHawk",
       "description": "Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Plain-English tasks, computer-use agent, browser MCP for Claude Code and Gemini CLI.",
-      "stars": 30350,
+      "stars": 30693,
       "forks": 4652,
       "language": "Python",
-      "pushed_at": "2026-09-13T01:50:24Z",
-      "updated_at": "2026-09-13T03:03:22Z"
+      "pushed_at": "2026-09-13T15:36:18Z",
+      "updated_at": "2026-09-13T15:27:02Z"
     },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27373,
+      "stars": 27374,
       "forks": 2432,
       "language": "Go",
-      "pushed_at": "2026-09-13T03:06:55Z",
-      "updated_at": "2026-09-13T01:17:54Z"
+      "pushed_at": "2026-09-13T15:30:02Z",
+      "updated_at": "2026-09-13T15:30:06Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9490,
-      "forks": 288,
-      "language": "C++",
-      "pushed_at": "2026-09-13T03:10:50Z",
-      "updated_at": "2026-09-13T02:13:59Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15559,
+      "forks": 643,
+      "language": "C#",
+      "pushed_at": "2026-09-13T14:47:51Z",
+      "updated_at": "2026-09-13T15:36:08Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5799,
-      "forks": 777,
-      "language": "Swift",
-      "pushed_at": "2026-09-13T03:13:11Z",
-      "updated_at": "2026-09-13T01:21:04Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15282,
+      "forks": 1018,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-13T14:45:28Z",
+      "updated_at": "2026-09-13T15:01:16Z"
+    },
+    {
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1566,
+      "forks": 92,
+      "language": "Dart",
+      "pushed_at": "2026-09-13T15:28:36Z",
+      "updated_at": "2026-09-13T15:28:37Z"
     },
     {
       "id": 1148683593,
@@ -70,74 +70,41 @@
       "stars": 1199,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-13T03:16:30Z",
-      "updated_at": "2026-09-13T03:16:34Z"
+      "pushed_at": "2026-09-13T15:05:26Z",
+      "updated_at": "2026-09-13T15:05:29Z"
     },
     {
-      "id": 588005013,
-      "full_name": "Medvedev91/timeto.me",
-      "html_url": "https://github.com/Medvedev91/timeto.me",
-      "description": "App with goals, checklists, tasks, repetitive tasks, timer, stopwatch, calendar, notes, shortcuts, zen-mode, widgets, pomodoro and 24/7 time tracking. :scream_cat:",
-      "stars": 714,
-      "forks": 43,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-13T01:39:51Z",
-      "updated_at": "2026-09-13T01:39:55Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 958,
+      "forks": 63,
+      "language": "Rust",
+      "pushed_at": "2026-09-13T15:05:45Z",
+      "updated_at": "2026-09-13T15:05:45Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "dotpm/obsidian-pm",
-      "html_url": "https://github.com/dotpm/obsidian-pm",
-      "description": "Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.",
-      "stars": 693,
-      "forks": 74,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-13T02:47:42Z",
-      "updated_at": "2026-09-13T03:02:52Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 575,
-      "forks": 72,
-      "language": "C#",
-      "pushed_at": "2026-09-13T00:46:36Z",
-      "updated_at": "2026-09-13T00:46:39Z"
-    },
-    {
-      "id": 1328784466,
-      "full_name": "Kabanya/Pomodoist",
-      "html_url": "https://github.com/Kabanya/Pomodoist",
-      "description": "Open-source Todoist alternative. Self-hosted. A focused Pomodoro timer and task manager for mobile, desktop, and web.",
-      "stars": 447,
+      "id": 735408417,
+      "full_name": "petoncle/mousemaster",
+      "html_url": "https://github.com/petoncle/mousemaster",
+      "description": "Mouseless mouse control and advanced keyboard customization for Windows and macOS.",
+      "stars": 885,
       "forks": 44,
-      "language": "Dart",
-      "pushed_at": "2026-09-13T01:06:09Z",
-      "updated_at": "2026-09-13T01:36:46Z"
+      "language": "Java",
+      "pushed_at": "2026-09-13T14:57:52Z",
+      "updated_at": "2026-09-13T14:57:39Z"
     },
     {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 372,
-      "forks": 23,
-      "language": "Python",
-      "pushed_at": "2026-09-13T00:51:35Z",
-      "updated_at": "2026-09-13T00:51:36Z"
-    },
-    {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "Fast, open-source macOS floating text actions. Transform text, run scripts, and integrate AI seamlessly.",
-      "stars": 335,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-09-13T02:56:42Z",
-      "updated_at": "2026-09-13T02:56:42Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 882,
+      "forks": 158,
+      "language": "Go",
+      "pushed_at": "2026-09-13T15:31:51Z",
+      "updated_at": "2026-09-13T14:57:58Z"
     },
     {
       "id": 1166865874,
@@ -147,30 +114,63 @@
       "stars": 323,
       "forks": 32,
       "language": "Shell",
-      "pushed_at": "2026-09-13T02:48:05Z",
-      "updated_at": "2026-09-13T02:48:08Z"
+      "pushed_at": "2026-09-13T15:32:55Z",
+      "updated_at": "2026-09-13T15:32:58Z"
     },
     {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 150,
-      "forks": 14,
-      "language": "HTML",
-      "pushed_at": "2026-09-13T00:42:05Z",
-      "updated_at": "2026-09-13T00:42:09Z"
+      "id": 689740171,
+      "full_name": "pivoshenko/catppuccin-startpage",
+      "html_url": "https://github.com/pivoshenko/catppuccin-startpage",
+      "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+      "stars": 308,
+      "forks": 338,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-13T14:50:54Z",
+      "updated_at": "2026-09-13T14:50:59Z"
     },
     {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The all-in-one platform for humans and agents to get work done",
-      "stars": 134,
-      "forks": 18,
+      "id": 1211713865,
+      "full_name": "HatanoChihiro/obsidian-webnovel-assistant",
+      "html_url": "https://github.com/HatanoChihiro/obsidian-webnovel-assistant",
+      "description": "为小说故事创作设计的 Obsidian 插件 | Obsidian plugin for novel and story writing",
+      "stars": 197,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-09-13T00:38:35Z",
-      "updated_at": "2026-09-13T00:35:20Z"
+      "pushed_at": "2026-09-13T15:29:05Z",
+      "updated_at": "2026-09-13T15:29:01Z"
+    },
+    {
+      "id": 1220384784,
+      "full_name": "danielvm-git/bigpowers",
+      "html_url": "https://github.com/danielvm-git/bigpowers",
+      "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
+      "stars": 188,
+      "forks": 19,
+      "language": "Shell",
+      "pushed_at": "2026-09-13T15:37:30Z",
+      "updated_at": "2026-09-13T15:37:31Z"
+    },
+    {
+      "id": 1205121088,
+      "full_name": "vaibhav-kakde-in/mdhero",
+      "html_url": "https://github.com/vaibhav-kakde-in/mdhero",
+      "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
+      "stars": 153,
+      "forks": 20,
+      "language": "Svelte",
+      "pushed_at": "2026-09-13T15:23:47Z",
+      "updated_at": "2026-09-13T15:15:02Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "zeweihan/aiworkdeck",
+      "html_url": "https://github.com/zeweihan/aiworkdeck",
+      "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, built-in document editing with tracked changes, OCR, evidence chains. VS Code for lawyers.",
+      "stars": 146,
+      "forks": 15,
+      "language": "Java",
+      "pushed_at": "2026-09-13T15:20:12Z",
+      "updated_at": "2026-09-13T15:20:16Z"
     }
   ]
 }
