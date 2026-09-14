@@ -5,95 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1111,
+  "total_found": 1113,
   "items": [
-    {
-      "id": 837911756,
-      "full_name": "feder-cr/AIHawk",
-      "html_url": "https://github.com/feder-cr/AIHawk",
-      "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.",
-      "stars": 30788,
-      "forks": 4652,
-      "language": "Python",
-      "pushed_at": "2026-09-14T02:51:04Z",
-      "updated_at": "2026-09-14T03:16:31Z"
-    },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27381,
+      "stars": 27380,
       "forks": 2432,
       "language": "Go",
-      "pushed_at": "2026-09-14T03:07:38Z",
-      "updated_at": "2026-09-14T03:10:28Z"
+      "pushed_at": "2026-09-14T09:08:06Z",
+      "updated_at": "2026-09-14T08:00:03Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9519,
-      "forks": 288,
-      "language": "C++",
-      "pushed_at": "2026-09-14T02:11:40Z",
-      "updated_at": "2026-09-14T03:13:37Z"
-    },
-    {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 6984,
-      "forks": 264,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22006,
+      "forks": 2042,
       "language": "TypeScript",
-      "pushed_at": "2026-09-14T02:10:18Z",
-      "updated_at": "2026-09-14T02:10:24Z"
+      "pushed_at": "2026-09-14T07:16:10Z",
+      "updated_at": "2026-09-14T09:34:08Z"
     },
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 6311,
-      "forks": 593,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 17558,
+      "forks": 1740,
       "language": "TypeScript",
-      "pushed_at": "2026-09-14T02:53:06Z",
-      "updated_at": "2026-09-14T03:14:45Z"
+      "pushed_at": "2026-09-14T09:00:57Z",
+      "updated_at": "2026-09-14T09:33:39Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 5242,
-      "forks": 951,
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14588,
+      "forks": 1006,
       "language": "TypeScript",
-      "pushed_at": "2026-09-14T02:33:05Z",
-      "updated_at": "2026-09-14T03:28:44Z"
+      "pushed_at": "2026-09-14T09:29:56Z",
+      "updated_at": "2026-09-14T08:32:30Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 3952,
-      "forks": 282,
-      "language": "Python",
-      "pushed_at": "2026-09-14T03:29:31Z",
-      "updated_at": "2026-09-14T03:12:29Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2021,
-      "forks": 122,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 6023,
+      "forks": 962,
       "language": "TypeScript",
-      "pushed_at": "2026-09-14T03:26:10Z",
-      "updated_at": "2026-09-14T03:26:15Z"
+      "pushed_at": "2026-09-14T09:19:16Z",
+      "updated_at": "2026-09-14T09:15:19Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5564,
+      "forks": 653,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-14T07:39:24Z",
+      "updated_at": "2026-09-14T07:39:30Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 4976,
+      "forks": 114,
+      "language": "Rust",
+      "pushed_at": "2026-09-14T08:19:11Z",
+      "updated_at": "2026-09-14T08:19:14Z"
     },
     {
       "id": 1148683593,
@@ -103,41 +92,52 @@
       "stars": 1201,
       "forks": 48,
       "language": "Rust",
-      "pushed_at": "2026-09-14T02:31:28Z",
-      "updated_at": "2026-09-14T02:31:31Z"
+      "pushed_at": "2026-09-14T09:16:25Z",
+      "updated_at": "2026-09-14T09:16:30Z"
+    },
+    {
+      "id": 1076571787,
+      "full_name": "huytieu/COG-second-brain",
+      "html_url": "https://github.com/huytieu/COG-second-brain",
+      "description": "Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "stars": 1188,
+      "forks": 134,
+      "language": "HTML",
+      "pushed_at": "2026-09-14T08:14:01Z",
+      "updated_at": "2026-09-14T08:14:09Z"
     },
     {
       "id": 1201098277,
       "full_name": "kunkka19xx/look",
       "html_url": "https://github.com/kunkka19xx/look",
       "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 962,
+      "stars": 964,
       "forks": 63,
       "language": "Rust",
-      "pushed_at": "2026-09-14T03:06:01Z",
-      "updated_at": "2026-09-14T02:11:20Z"
+      "pushed_at": "2026-09-14T09:20:00Z",
+      "updated_at": "2026-09-14T09:21:01Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 32,
-      "language": "Shell",
-      "pushed_at": "2026-09-14T03:02:40Z",
-      "updated_at": "2026-09-14T03:02:44Z"
+      "id": 588005013,
+      "full_name": "Medvedev91/timeto.me",
+      "html_url": "https://github.com/Medvedev91/timeto.me",
+      "description": "App with goals, checklists, tasks, repetitive tasks, timer, stopwatch, calendar, notes, shortcuts, zen-mode, widgets, pomodoro and 24/7 time tracking. :scream_cat:",
+      "stars": 714,
+      "forks": 43,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-14T07:54:26Z",
+      "updated_at": "2026-09-14T07:54:31Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 293,
-      "forks": 35,
-      "language": "Python",
-      "pushed_at": "2026-09-14T02:41:24Z",
-      "updated_at": "2026-09-14T02:04:54Z"
+      "id": 73910557,
+      "full_name": "iazarny/gitember",
+      "html_url": "https://github.com/iazarny/gitember",
+      "description": "Gitember not just another git GUI client",
+      "stars": 154,
+      "forks": 19,
+      "language": "Java",
+      "pushed_at": "2026-09-14T08:39:58Z",
+      "updated_at": "2026-09-14T08:40:01Z"
     },
     {
       "id": 1138989235,
@@ -147,8 +147,8 @@
       "stars": 152,
       "forks": 15,
       "language": "Java",
-      "pushed_at": "2026-09-14T02:06:55Z",
-      "updated_at": "2026-09-14T03:24:07Z"
+      "pushed_at": "2026-09-14T09:01:50Z",
+      "updated_at": "2026-09-14T09:01:55Z"
     },
     {
       "id": 1161274003,
@@ -158,19 +158,19 @@
       "stars": 141,
       "forks": 10,
       "language": "Swift",
-      "pushed_at": "2026-09-14T03:29:02Z",
-      "updated_at": "2026-09-14T03:11:09Z"
+      "pushed_at": "2026-09-14T08:48:31Z",
+      "updated_at": "2026-09-14T08:48:35Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 131,
-      "forks": 14,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-14T02:37:05Z",
-      "updated_at": "2026-09-14T02:02:22Z"
+      "id": 1291948090,
+      "full_name": "runpantheon/ltui",
+      "html_url": "https://github.com/runpantheon/ltui",
+      "description": "◐ A fast, beautiful TUI for Linear — status-grouped tickets, instant startup, full keyboard + mouse control",
+      "stars": 116,
+      "forks": 3,
+      "language": "Python",
+      "pushed_at": "2026-09-14T09:16:04Z",
+      "updated_at": "2026-09-14T09:16:09Z"
     }
   ]
 }
