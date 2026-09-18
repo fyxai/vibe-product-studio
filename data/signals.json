@@ -5,139 +5,106 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1127,
+  "total_found": 1128,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 45500,
-      "forks": 2915,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39622,
+      "forks": 3916,
       "language": "C#",
-      "pushed_at": "2026-09-17T21:50:31Z",
-      "updated_at": "2026-09-17T22:05:35Z"
-    },
-    {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 42255,
-      "forks": 1021,
-      "language": "Rust",
-      "pushed_at": "2026-09-17T22:40:14Z",
-      "updated_at": "2026-09-17T22:40:17Z"
-    },
-    {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 35906,
-      "forks": 3835,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-17T21:49:04Z",
-      "updated_at": "2026-09-17T22:09:59Z"
+      "pushed_at": "2026-09-18T03:15:30Z",
+      "updated_at": "2026-09-18T03:15:35Z"
     },
     {
       "id": 837911756,
       "full_name": "feder-cr/AIHawk",
       "html_url": "https://github.com/feder-cr/AIHawk",
       "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.",
-      "stars": 31620,
+      "stars": 31626,
       "forks": 4664,
       "language": "Python",
-      "pushed_at": "2026-09-17T21:05:24Z",
-      "updated_at": "2026-09-17T21:33:33Z"
+      "pushed_at": "2026-09-18T02:26:26Z",
+      "updated_at": "2026-09-18T03:12:03Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12238,
-      "forks": 1536,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27410,
+      "forks": 2434,
+      "language": "Go",
+      "pushed_at": "2026-09-18T03:06:44Z",
+      "updated_at": "2026-09-18T02:16:46Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15367,
+      "forks": 1030,
       "language": "TypeScript",
-      "pushed_at": "2026-09-17T22:36:12Z",
-      "updated_at": "2026-09-17T22:31:04Z"
+      "pushed_at": "2026-09-18T03:06:11Z",
+      "updated_at": "2026-09-18T03:09:27Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9833,
-      "forks": 291,
-      "language": "C++",
-      "pushed_at": "2026-09-17T21:55:46Z",
-      "updated_at": "2026-09-17T22:31:21Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 7508,
-      "forks": 1119,
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 6989,
+      "forks": 265,
       "language": "TypeScript",
-      "pushed_at": "2026-09-17T22:40:44Z",
-      "updated_at": "2026-09-17T22:39:19Z"
+      "pushed_at": "2026-09-18T02:19:24Z",
+      "updated_at": "2026-09-18T02:19:24Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
-      "stars": 2378,
+      "stars": 2381,
       "forks": 122,
       "language": "C#",
-      "pushed_at": "2026-09-17T22:26:50Z",
-      "updated_at": "2026-09-17T22:26:54Z"
+      "pushed_at": "2026-09-18T01:54:27Z",
+      "updated_at": "2026-09-18T03:16:46Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2062,
+      "stars": 2063,
       "forks": 126,
       "language": "TypeScript",
-      "pushed_at": "2026-09-17T21:47:29Z",
-      "updated_at": "2026-09-17T21:14:14Z"
+      "pushed_at": "2026-09-18T02:58:15Z",
+      "updated_at": "2026-09-18T02:58:21Z"
     },
     {
-      "id": 1187304686,
-      "full_name": "westpoint-io/mimik",
-      "html_url": "https://github.com/westpoint-io/mimik",
-      "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
-      "stars": 840,
-      "forks": 119,
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1305,
+      "forks": 49,
+      "language": "Rust",
+      "pushed_at": "2026-09-18T03:14:24Z",
+      "updated_at": "2026-09-18T03:14:28Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
+      "stars": 380,
+      "forks": 86,
       "language": "TypeScript",
-      "pushed_at": "2026-09-17T21:00:32Z",
-      "updated_at": "2026-09-17T22:39:06Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 575,
-      "forks": 73,
-      "language": "C#",
-      "pushed_at": "2026-09-17T22:34:00Z",
-      "updated_at": "2026-09-17T22:08:01Z"
-    },
-    {
-      "id": 1006740535,
-      "full_name": "ljtn/epiq",
-      "html_url": "https://github.com/ljtn/epiq",
-      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 381,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-17T22:22:46Z",
-      "updated_at": "2026-09-17T22:21:28Z"
+      "pushed_at": "2026-09-18T01:53:13Z",
+      "updated_at": "2026-09-18T02:57:08Z"
     },
     {
       "id": 1166865874,
@@ -147,30 +114,63 @@
       "stars": 323,
       "forks": 34,
       "language": "Shell",
-      "pushed_at": "2026-09-17T20:56:12Z",
-      "updated_at": "2026-09-17T20:56:17Z"
+      "pushed_at": "2026-09-18T02:52:26Z",
+      "updated_at": "2026-09-18T02:52:29Z"
     },
     {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 150,
-      "forks": 14,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+      "stars": 290,
+      "forks": 12,
       "language": "HTML",
-      "pushed_at": "2026-09-17T21:58:43Z",
-      "updated_at": "2026-09-17T21:58:47Z"
+      "pushed_at": "2026-09-18T02:27:02Z",
+      "updated_at": "2026-09-18T03:07:23Z"
     },
     {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The all-in-one platform for humans and agents to get work done",
-      "stars": 141,
-      "forks": 19,
+      "id": 1227213243,
+      "full_name": "tanaybhomia/Whisp",
+      "html_url": "https://github.com/tanaybhomia/Whisp",
+      "description": "The Anti-Note for GNOME.",
+      "stars": 266,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-09-18T02:06:59Z",
+      "updated_at": "2026-09-18T02:07:04Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 155,
+      "forks": 15,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-18T02:30:17Z",
+      "updated_at": "2026-09-18T01:56:55Z"
+    },
+    {
+      "id": 1281865940,
+      "full_name": "drewnekota/cetus",
+      "html_url": "https://github.com/drewnekota/cetus",
+      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+      "stars": 145,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-09-17T21:28:07Z",
-      "updated_at": "2026-09-17T21:27:31Z"
+      "pushed_at": "2026-09-18T03:07:50Z",
+      "updated_at": "2026-09-18T03:07:51Z"
+    },
+    {
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 144,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-18T02:21:21Z",
+      "updated_at": "2026-09-18T03:11:44Z"
     }
   ]
 }
