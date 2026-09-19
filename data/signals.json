@@ -5,51 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1132,
+  "total_found": 1133,
   "items": [
-    {
-      "id": 1238120057,
-      "full_name": "ayghri/i-have-adhd",
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 48525,
-      "forks": 2822,
-      "language": "Python",
-      "pushed_at": "2026-09-19T14:29:55Z",
-      "updated_at": "2026-09-19T15:23:11Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27411,
-      "forks": 2435,
-      "language": "Go",
-      "pushed_at": "2026-09-19T15:04:54Z",
-      "updated_at": "2026-09-19T15:00:35Z"
-    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22136,
-      "forks": 2055,
+      "stars": 22141,
+      "forks": 2057,
       "language": "TypeScript",
-      "pushed_at": "2026-09-19T15:19:40Z",
-      "updated_at": "2026-09-19T15:19:42Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 21952,
-      "forks": 818,
-      "language": "C",
-      "pushed_at": "2026-09-19T14:18:21Z",
-      "updated_at": "2026-09-19T15:15:45Z"
+      "pushed_at": "2026-09-19T18:08:22Z",
+      "updated_at": "2026-09-19T18:10:39Z"
     },
     {
       "id": 129699403,
@@ -59,41 +26,52 @@
       "stars": 5809,
       "forks": 779,
       "language": "Elixir",
-      "pushed_at": "2026-09-19T15:20:26Z",
-      "updated_at": "2026-09-19T15:15:28Z"
+      "pushed_at": "2026-09-19T18:05:38Z",
+      "updated_at": "2026-09-19T17:43:02Z"
     },
     {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 3498,
-      "forks": 316,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-19T15:02:36Z",
-      "updated_at": "2026-09-19T14:52:50Z"
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "stars": 4827,
+      "forks": 258,
+      "language": "C#",
+      "pushed_at": "2026-09-19T17:34:38Z",
+      "updated_at": "2026-09-19T17:44:00Z"
     },
     {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1578,
-      "forks": 95,
-      "language": "Dart",
-      "pushed_at": "2026-09-19T14:35:39Z",
-      "updated_at": "2026-09-19T14:34:27Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1653,
+      "forks": 78,
+      "language": "Rust",
+      "pushed_at": "2026-09-19T17:22:23Z",
+      "updated_at": "2026-09-19T17:22:26Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1335,
+      "stars": 1341,
       "forks": 49,
       "language": "Rust",
-      "pushed_at": "2026-09-19T15:18:27Z",
-      "updated_at": "2026-09-19T15:19:31Z"
+      "pushed_at": "2026-09-19T17:44:40Z",
+      "updated_at": "2026-09-19T17:44:43Z"
+    },
+    {
+      "id": 1243618131,
+      "full_name": "elvisun/newsjack",
+      "html_url": "https://github.com/elvisun/newsjack",
+      "description": "The open-source skills that turn your agent into a full PR team.",
+      "stars": 1123,
+      "forks": 95,
+      "language": "Go",
+      "pushed_at": "2026-09-19T17:11:34Z",
+      "updated_at": "2026-09-19T18:20:25Z"
     },
     {
       "id": 1109341946,
@@ -103,30 +81,30 @@
       "stars": 922,
       "forks": 167,
       "language": "Go",
-      "pushed_at": "2026-09-19T15:19:28Z",
-      "updated_at": "2026-09-19T15:19:32Z"
+      "pushed_at": "2026-09-19T17:48:57Z",
+      "updated_at": "2026-09-19T17:48:54Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "dotpm/obsidian-pm",
-      "html_url": "https://github.com/dotpm/obsidian-pm",
-      "description": "Project management inside Obsidian. Table, Gantt and Kanban over plain Markdown notes, with a local API for agents and scripts.",
-      "stars": 711,
-      "forks": 80,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-19T15:00:52Z",
-      "updated_at": "2026-09-19T15:00:57Z"
+      "id": 1212093880,
+      "full_name": "heyderekj/dinky",
+      "html_url": "https://github.com/heyderekj/dinky",
+      "description": "Dinky makes files smaller.",
+      "stars": 510,
+      "forks": 23,
+      "language": "Swift",
+      "pushed_at": "2026-09-19T17:59:55Z",
+      "updated_at": "2026-09-19T17:59:57Z"
     },
     {
       "id": 1006740535,
       "full_name": "ljtn/epiq",
       "html_url": "https://github.com/ljtn/epiq",
       "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
-      "stars": 382,
+      "stars": 383,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-09-19T15:23:32Z",
-      "updated_at": "2026-09-19T15:05:39Z"
+      "pushed_at": "2026-09-19T18:19:00Z",
+      "updated_at": "2026-09-19T18:19:05Z"
     },
     {
       "id": 1030039430,
@@ -136,41 +114,63 @@
       "stars": 338,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-09-19T15:19:34Z",
-      "updated_at": "2026-09-19T14:19:51Z"
+      "pushed_at": "2026-09-19T18:24:24Z",
+      "updated_at": "2026-09-19T17:37:57Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 35,
-      "language": "Shell",
-      "pushed_at": "2026-09-19T15:16:30Z",
-      "updated_at": "2026-09-19T15:16:34Z"
+      "id": 1112879061,
+      "full_name": "majiayu000/spellbook",
+      "html_url": "https://github.com/majiayu000/spellbook",
+      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+      "stars": 280,
+      "forks": 26,
+      "language": "Python",
+      "pushed_at": "2026-09-19T17:52:07Z",
+      "updated_at": "2026-09-19T17:52:11Z"
     },
     {
-      "id": 1329587981,
-      "full_name": "CatCatUncle/openworkbuddy",
-      "html_url": "https://github.com/CatCatUncle/openworkbuddy",
-      "description": "openworkbuddy — local-first AI office agent: turn requests into real files. Self-hosted, BYOK, MCP, Codex/Claude Code, executable short-drama canvas.",
-      "stars": 161,
-      "forks": 36,
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 155,
+      "forks": 15,
       "language": "JavaScript",
-      "pushed_at": "2026-09-19T14:44:06Z",
-      "updated_at": "2026-09-19T14:43:51Z"
+      "pushed_at": "2026-09-19T18:24:05Z",
+      "updated_at": "2026-09-19T18:24:07Z"
     },
     {
-      "id": 616847538,
-      "full_name": "cattr-app/server-application",
-      "html_url": "https://github.com/cattr-app/server-application",
-      "description": "Cattr server application - self-hosted time tracking with project management, reports, screenshots, activity tracking and public API",
-      "stars": 101,
-      "forks": 55,
-      "language": "PHP",
-      "pushed_at": "2026-09-19T15:10:12Z",
-      "updated_at": "2026-09-19T15:07:43Z"
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 150,
+      "forks": 14,
+      "language": "HTML",
+      "pushed_at": "2026-09-19T17:04:59Z",
+      "updated_at": "2026-09-19T17:05:03Z"
+    },
+    {
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The all-in-one platform for humans and agents to get work done",
+      "stars": 141,
+      "forks": 19,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-19T17:44:06Z",
+      "updated_at": "2026-09-19T17:44:09Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-09-19T17:40:59Z",
+      "updated_at": "2026-09-19T17:41:04Z"
     }
   ]
 }
