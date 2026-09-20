@@ -5,128 +5,128 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1136,
+  "total_found": 1137,
   "items": [
     {
       "id": 291137,
       "full_name": "ohmyzsh/ohmyzsh",
       "html_url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 189838,
-      "forks": 27199,
+      "stars": 189842,
+      "forks": 27203,
       "language": "Shell",
-      "pushed_at": "2026-09-20T08:06:21Z",
-      "updated_at": "2026-09-20T08:55:07Z"
+      "pushed_at": "2026-09-20T15:14:29Z",
+      "updated_at": "2026-09-20T15:14:34Z"
     },
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39660,
-      "forks": 3916,
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 45564,
+      "forks": 2922,
       "language": "C#",
-      "pushed_at": "2026-09-20T08:18:50Z",
-      "updated_at": "2026-09-20T08:56:26Z"
+      "pushed_at": "2026-09-20T14:56:23Z",
+      "updated_at": "2026-09-20T15:03:15Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 42314,
+      "forks": 1023,
+      "language": "Rust",
+      "pushed_at": "2026-09-20T15:16:22Z",
+      "updated_at": "2026-09-20T15:16:25Z"
     },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27417,
+      "stars": 27419,
       "forks": 2435,
       "language": "Go",
-      "pushed_at": "2026-09-20T08:13:22Z",
-      "updated_at": "2026-09-20T08:42:43Z"
+      "pushed_at": "2026-09-20T15:05:08Z",
+      "updated_at": "2026-09-20T15:08:34Z"
     },
     {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 9902,
-      "forks": 297,
-      "language": "C++",
-      "pushed_at": "2026-09-20T08:10:39Z",
-      "updated_at": "2026-09-20T08:38:17Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 7794,
-      "forks": 1156,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15417,
+      "forks": 1031,
       "language": "TypeScript",
-      "pushed_at": "2026-09-20T08:54:49Z",
-      "updated_at": "2026-09-20T08:59:00Z"
+      "pushed_at": "2026-09-20T15:06:10Z",
+      "updated_at": "2026-09-20T15:06:13Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2075,
-      "forks": 127,
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3589,
+      "forks": 175,
       "language": "TypeScript",
-      "pushed_at": "2026-09-20T08:21:01Z",
-      "updated_at": "2026-09-20T08:21:05Z"
-    },
-    {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1581,
-      "forks": 95,
-      "language": "Dart",
-      "pushed_at": "2026-09-20T08:14:58Z",
-      "updated_at": "2026-09-20T08:14:57Z"
+      "pushed_at": "2026-09-20T15:04:29Z",
+      "updated_at": "2026-09-20T15:04:30Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1381,
+      "stars": 1404,
       "forks": 50,
       "language": "Rust",
-      "pushed_at": "2026-09-20T08:58:43Z",
-      "updated_at": "2026-09-20T08:58:47Z"
+      "pushed_at": "2026-09-20T15:11:30Z",
+      "updated_at": "2026-09-20T15:22:25Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1214,
-      "forks": 132,
-      "language": "Kotlin",
-      "pushed_at": "2026-09-20T09:01:04Z",
-      "updated_at": "2026-09-20T09:01:08Z"
+      "id": 76633312,
+      "full_name": "Ibexoft/awesome-startup-tools-list",
+      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
+      "description": "List of all tools (apps, services) that startups should use.",
+      "stars": 1067,
+      "forks": 289,
+      "language": "Unknown",
+      "pushed_at": "2026-09-20T15:01:24Z",
+      "updated_at": "2026-09-20T15:01:28Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 928,
+      "forks": 169,
+      "language": "Go",
+      "pushed_at": "2026-09-20T15:26:39Z",
+      "updated_at": "2026-09-20T15:07:41Z"
     },
     {
       "id": 1324755488,
       "full_name": "Lertaro/Lertaro",
       "html_url": "https://github.com/Lertaro/Lertaro",
       "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 634,
+      "stars": 644,
       "forks": 30,
       "language": "C#",
-      "pushed_at": "2026-09-20T08:43:21Z",
-      "updated_at": "2026-09-20T09:04:31Z"
+      "pushed_at": "2026-09-20T15:22:56Z",
+      "updated_at": "2026-09-20T15:26:16Z"
     },
     {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "Programmable text utility that mac needs",
-      "stars": 466,
-      "forks": 24,
-      "language": "Swift",
-      "pushed_at": "2026-09-20T08:31:38Z",
-      "updated_at": "2026-09-20T08:31:44Z"
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 389,
+      "forks": 25,
+      "language": "Dart",
+      "pushed_at": "2026-09-20T15:23:45Z",
+      "updated_at": "2026-09-20T15:23:48Z"
     },
     {
       "id": 1006740535,
@@ -136,30 +136,30 @@
       "stars": 383,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-09-20T09:03:30Z",
-      "updated_at": "2026-09-20T09:00:12Z"
+      "pushed_at": "2026-09-20T15:27:50Z",
+      "updated_at": "2026-09-20T15:19:02Z"
     },
     {
-      "id": 1210011300,
-      "full_name": "Astro-Han/pawwork",
-      "html_url": "https://github.com/Astro-Han/pawwork",
-      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows, built on DeepSeek Harness (DSH). Free models included, no API key or terminal. Office files, web search, and scheduled automations out of the box. An open alternative to Codex App and Claude Cowork.",
-      "stars": 195,
-      "forks": 21,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-20T09:02:22Z",
-      "updated_at": "2026-09-20T08:28:37Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 323,
+      "forks": 35,
+      "language": "Shell",
+      "pushed_at": "2026-09-20T15:20:57Z",
+      "updated_at": "2026-09-20T15:21:01Z"
     },
     {
       "id": 1329587981,
       "full_name": "CatCatUncle/openworkbuddy",
       "html_url": "https://github.com/CatCatUncle/openworkbuddy",
       "description": "openworkbuddy — local-first AI office agent: turn requests into real files. Self-hosted, BYOK, MCP, Codex/Claude Code, executable short-drama canvas.",
-      "stars": 166,
+      "stars": 167,
       "forks": 38,
       "language": "JavaScript",
-      "pushed_at": "2026-09-20T08:50:17Z",
-      "updated_at": "2026-09-20T08:50:21Z"
+      "pushed_at": "2026-09-20T15:25:49Z",
+      "updated_at": "2026-09-20T15:25:38Z"
     },
     {
       "id": 1138989235,
@@ -169,8 +169,8 @@
       "stars": 148,
       "forks": 14,
       "language": "Java",
-      "pushed_at": "2026-09-20T08:53:32Z",
-      "updated_at": "2026-09-20T07:47:24Z"
+      "pushed_at": "2026-09-20T15:27:40Z",
+      "updated_at": "2026-09-20T14:53:43Z"
     }
   ]
 }
