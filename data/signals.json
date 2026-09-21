@@ -8,103 +8,114 @@
   "total_found": 1139,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 42339,
-      "forks": 1023,
-      "language": "Rust",
-      "pushed_at": "2026-09-21T17:38:06Z",
-      "updated_at": "2026-09-21T17:38:09Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39679,
+      "forks": 3916,
+      "language": "C#",
+      "pushed_at": "2026-09-21T21:40:46Z",
+      "updated_at": "2026-09-21T22:43:21Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26540,
-      "forks": 1936,
-      "language": "Vue",
-      "pushed_at": "2026-09-21T17:07:27Z",
-      "updated_at": "2026-09-21T17:46:04Z"
+      "id": 837911756,
+      "full_name": "feder-cr/AIHawk",
+      "html_url": "https://github.com/feder-cr/AIHawk",
+      "description": "Anti-detect agentic browser automation: undetected browsing, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.",
+      "stars": 31619,
+      "forks": 4671,
+      "language": "Python",
+      "pushed_at": "2026-09-21T22:36:38Z",
+      "updated_at": "2026-09-21T22:55:17Z"
     },
     {
       "id": 33702544,
       "full_name": "plotly/dash",
       "html_url": "https://github.com/plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24424,
-      "forks": 2318,
+      "stars": 24423,
+      "forks": 2319,
       "language": "Python",
-      "pushed_at": "2026-09-21T17:07:13Z",
-      "updated_at": "2026-09-21T17:07:19Z"
+      "pushed_at": "2026-09-21T22:43:58Z",
+      "updated_at": "2026-09-21T22:26:58Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22190,
+      "forks": 2068,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-21T21:55:39Z",
+      "updated_at": "2026-09-21T22:42:29Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12276,
+      "forks": 1540,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-21T22:59:01Z",
+      "updated_at": "2026-09-21T22:59:07Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 2977,
+      "forks": 124,
+      "language": "Swift",
+      "pushed_at": "2026-09-21T21:55:25Z",
+      "updated_at": "2026-09-21T21:55:30Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "stars": 2406,
+      "forks": 124,
+      "language": "C#",
+      "pushed_at": "2026-09-21T22:58:46Z",
+      "updated_at": "2026-09-21T22:24:27Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2087,
+      "stars": 2091,
       "forks": 128,
       "language": "TypeScript",
-      "pushed_at": "2026-09-21T17:28:04Z",
-      "updated_at": "2026-09-21T17:28:09Z"
+      "pushed_at": "2026-09-21T22:57:13Z",
+      "updated_at": "2026-09-21T22:57:18Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1449,
-      "forks": 50,
-      "language": "Rust",
-      "pushed_at": "2026-09-21T17:21:27Z",
-      "updated_at": "2026-09-21T17:35:59Z"
-    },
-    {
-      "id": 1187304686,
-      "full_name": "westpoint-io/mimik",
-      "html_url": "https://github.com/westpoint-io/mimik",
-      "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
-      "stars": 949,
-      "forks": 130,
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1536,
+      "forks": 141,
       "language": "TypeScript",
-      "pushed_at": "2026-09-21T17:05:11Z",
-      "updated_at": "2026-09-21T17:50:07Z"
+      "pushed_at": "2026-09-21T21:33:38Z",
+      "updated_at": "2026-09-21T21:33:39Z"
     },
     {
-      "id": 919664598,
-      "full_name": "WINBIGFOX/TimeScribe",
-      "html_url": "https://github.com/WINBIGFOX/TimeScribe",
-      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
-      "stars": 906,
-      "forks": 85,
-      "language": "PHP",
-      "pushed_at": "2026-09-21T16:55:53Z",
-      "updated_at": "2026-09-21T16:55:22Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 902,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-09-21T17:20:19Z",
-      "updated_at": "2026-09-21T17:20:24Z"
-    },
-    {
-      "id": 721237243,
-      "full_name": "Victor-IX/Blender-Launcher-V2",
-      "html_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-      "description": "Standalone client for managing official builds of Blender 3D and its popular forks",
-      "stars": 733,
-      "forks": 42,
-      "language": "Python",
-      "pushed_at": "2026-09-21T17:21:51Z",
-      "updated_at": "2026-09-21T17:21:51Z"
+      "id": 1116772709,
+      "full_name": "nostacks/ekphos",
+      "html_url": "https://github.com/nostacks/ekphos",
+      "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian",
+      "stars": 1011,
+      "forks": 43,
+      "language": "Rust",
+      "pushed_at": "2026-09-21T22:52:50Z",
+      "updated_at": "2026-09-21T22:52:17Z"
     },
     {
       "id": 1142482827,
@@ -114,8 +125,8 @@
       "stars": 481,
       "forks": 130,
       "language": "Python",
-      "pushed_at": "2026-09-21T17:53:07Z",
-      "updated_at": "2026-09-21T17:07:10Z"
+      "pushed_at": "2026-09-21T23:00:14Z",
+      "updated_at": "2026-09-21T22:46:55Z"
     },
     {
       "id": 1166865874,
@@ -125,52 +136,41 @@
       "stars": 323,
       "forks": 35,
       "language": "Shell",
-      "pushed_at": "2026-09-21T17:46:16Z",
-      "updated_at": "2026-09-21T17:46:19Z"
+      "pushed_at": "2026-09-21T21:38:47Z",
+      "updated_at": "2026-09-21T21:38:51Z"
     },
     {
-      "id": 1309395119,
-      "full_name": "sazardev/shiki",
-      "html_url": "https://github.com/sazardev/shiki",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "stars": 298,
-      "forks": 16,
-      "language": "Rust",
-      "pushed_at": "2026-09-21T17:50:23Z",
-      "updated_at": "2026-09-21T17:46:16Z"
-    },
-    {
-      "id": 1220384784,
-      "full_name": "danielvm-git/bigpowers",
-      "html_url": "https://github.com/danielvm-git/bigpowers",
-      "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
       "stars": 216,
-      "forks": 18,
-      "language": "Shell",
-      "pushed_at": "2026-09-21T17:48:22Z",
-      "updated_at": "2026-09-21T17:48:23Z"
+      "forks": 34,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-21T22:55:54Z",
+      "updated_at": "2026-09-21T22:15:32Z"
     },
     {
-      "id": 1329587981,
-      "full_name": "CatCatUncle/openworkbuddy",
-      "html_url": "https://github.com/CatCatUncle/openworkbuddy",
-      "description": "openworkbuddy — local-first AI office agent: turn requests into real files. Self-hosted, BYOK, MCP, Codex/Claude Code, executable short-drama canvas.",
-      "stars": 173,
-      "forks": 42,
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 158,
+      "forks": 17,
       "language": "JavaScript",
-      "pushed_at": "2026-09-21T17:52:34Z",
-      "updated_at": "2026-09-21T17:52:39Z"
+      "pushed_at": "2026-09-21T22:54:33Z",
+      "updated_at": "2026-09-21T22:54:35Z"
     },
     {
-      "id": 73910557,
-      "full_name": "iazarny/gitember",
-      "html_url": "https://github.com/iazarny/gitember",
-      "description": "Gitember not just another git GUI client",
-      "stars": 156,
-      "forks": 19,
-      "language": "Java",
-      "pushed_at": "2026-09-21T17:41:30Z",
-      "updated_at": "2026-09-21T17:41:34Z"
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 158,
+      "forks": 12,
+      "language": "Swift",
+      "pushed_at": "2026-09-21T22:39:07Z",
+      "updated_at": "2026-09-21T22:39:11Z"
     }
   ]
 }
