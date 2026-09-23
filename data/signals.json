@@ -5,117 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1147,
+  "total_found": 1149,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 132682,
-      "forks": 15419,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-22T21:38:59Z",
-      "updated_at": "2026-09-22T22:06:06Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 45618,
-      "forks": 2932,
-      "language": "C#",
-      "pushed_at": "2026-09-22T22:13:08Z",
-      "updated_at": "2026-09-22T22:26:06Z"
-    },
-    {
-      "id": 837911756,
-      "full_name": "feder-cr/invisible_playwright_mcp",
-      "html_url": "https://github.com/feder-cr/invisible_playwright_mcp",
-      "description": "Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.",
-      "stars": 31626,
-      "forks": 4677,
-      "language": "Python",
-      "pushed_at": "2026-09-22T22:28:16Z",
-      "updated_at": "2026-09-22T22:28:20Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27426,
+      "forks": 2435,
+      "language": "Go",
+      "pushed_at": "2026-09-23T03:06:56Z",
+      "updated_at": "2026-09-23T03:17:06Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12301,
-      "forks": 1543,
+      "stars": 12304,
+      "forks": 1545,
       "language": "TypeScript",
-      "pushed_at": "2026-09-22T21:26:13Z",
-      "updated_at": "2026-09-22T21:16:10Z"
+      "pushed_at": "2026-09-23T02:22:22Z",
+      "updated_at": "2026-09-23T02:35:19Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 7841,
+      "stars": 7846,
       "forks": 1172,
       "language": "TypeScript",
-      "pushed_at": "2026-09-22T21:54:54Z",
-      "updated_at": "2026-09-22T21:19:19Z"
-    },
-    {
-      "id": 1101924225,
-      "full_name": "dembrandt/dembrandt",
-      "html_url": "https://github.com/dembrandt/dembrandt",
-      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
-      "stars": 3512,
-      "forks": 317,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-22T21:52:09Z",
-      "updated_at": "2026-09-22T21:46:04Z"
+      "pushed_at": "2026-09-23T03:17:57Z",
+      "updated_at": "2026-09-23T03:09:00Z"
     },
     {
       "id": 1250907197,
       "full_name": "snownico0722/PaperTodo",
       "html_url": "https://github.com/snownico0722/PaperTodo",
       "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
-      "stars": 2411,
+      "stars": 2415,
       "forks": 126,
       "language": "C#",
-      "pushed_at": "2026-09-22T22:43:43Z",
-      "updated_at": "2026-09-22T22:43:27Z"
-    },
-    {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "Best Native macOS Apps (2026) — Fast, Lightweight, No Electron Bloat",
-      "stars": 1523,
-      "forks": 148,
-      "language": "Shell",
-      "pushed_at": "2026-09-22T21:39:33Z",
-      "updated_at": "2026-09-22T21:39:37Z"
+      "pushed_at": "2026-09-23T03:23:37Z",
+      "updated_at": "2026-09-23T03:24:18Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1471,
+      "stars": 1472,
       "forks": 50,
       "language": "Rust",
-      "pushed_at": "2026-09-22T22:05:29Z",
-      "updated_at": "2026-09-22T22:05:34Z"
+      "pushed_at": "2026-09-23T03:07:33Z",
+      "updated_at": "2026-09-23T03:07:38Z"
     },
     {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1166 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
-      "stars": 1388,
-      "forks": 246,
-      "language": "HTML",
-      "pushed_at": "2026-09-22T21:05:08Z",
-      "updated_at": "2026-09-22T21:19:46Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 1000,
+      "forks": 62,
+      "language": "Rust",
+      "pushed_at": "2026-09-23T02:21:46Z",
+      "updated_at": "2026-09-23T02:18:32Z"
     },
     {
       "id": 591995344,
@@ -125,41 +81,52 @@
       "stars": 901,
       "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-09-22T22:06:44Z",
-      "updated_at": "2026-09-22T22:06:49Z"
+      "pushed_at": "2026-09-23T02:37:05Z",
+      "updated_at": "2026-09-23T02:37:10Z"
     },
     {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 482,
-      "forks": 130,
-      "language": "Python",
-      "pushed_at": "2026-09-22T21:25:18Z",
-      "updated_at": "2026-09-22T21:25:22Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 323,
+      "forks": 35,
+      "language": "Shell",
+      "pushed_at": "2026-09-23T03:00:41Z",
+      "updated_at": "2026-09-23T03:00:45Z"
     },
     {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 150,
+      "id": 626659549,
+      "full_name": "2e3s/awatcher",
+      "html_url": "https://github.com/2e3s/awatcher",
+      "description": "Activity and idle watchers",
+      "stars": 308,
+      "forks": 27,
+      "language": "Rust",
+      "pushed_at": "2026-09-23T03:19:47Z",
+      "updated_at": "2026-09-23T03:19:51Z"
+    },
+    {
+      "id": 1319102721,
+      "full_name": "dckxx/x-hub",
+      "html_url": "https://github.com/dckxx/x-hub",
+      "description": "本地优先的个人桌面效率工作台：时钟 / 倒计时 / 便签 / 待办 / 速记 / 速达 / AI 对话 / 剪贴板历史，所有数据本地存储、不上云端。基于 Tauri 2 + Vue 3 + TypeScript + Rust。",
+      "stars": 169,
+      "forks": 28,
+      "language": "Rust",
+      "pushed_at": "2026-09-23T03:17:23Z",
+      "updated_at": "2026-09-23T03:23:19Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "zeweihan/aiworkdeck",
+      "html_url": "https://github.com/zeweihan/aiworkdeck",
+      "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, built-in document editing with tracked changes, OCR, evidence chains. VS Code for lawyers.",
+      "stars": 149,
       "forks": 14,
-      "language": "HTML",
-      "pushed_at": "2026-09-22T21:53:09Z",
-      "updated_at": "2026-09-22T21:53:13Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 118,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-09-22T21:50:35Z",
-      "updated_at": "2026-09-22T21:50:38Z"
+      "language": "Java",
+      "pushed_at": "2026-09-23T03:12:14Z",
+      "updated_at": "2026-09-23T03:12:19Z"
     },
     {
       "id": 1337168270,
@@ -169,8 +136,41 @@
       "stars": 118,
       "forks": 22,
       "language": "Python",
-      "pushed_at": "2026-09-22T22:19:57Z",
-      "updated_at": "2026-09-22T22:00:28Z"
+      "pushed_at": "2026-09-23T02:58:58Z",
+      "updated_at": "2026-09-23T02:58:45Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 101,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-09-23T03:20:54Z",
+      "updated_at": "2026-09-23T02:28:22Z"
+    },
+    {
+      "id": 1336222704,
+      "full_name": "IndigoKageBait/filmora-utility-2026",
+      "html_url": "https://github.com/IndigoKageBait/filmora-utility-2026",
+      "description": "Portable Windows companion for Wondershare Filmora 15.x — export presets, project helpers, and free workflow docs.",
+      "stars": 70,
+      "forks": 9,
+      "language": "HTML",
+      "pushed_at": "2026-09-23T03:22:41Z",
+      "updated_at": "2026-09-23T03:22:45Z"
+    },
+    {
+      "id": 1327537984,
+      "full_name": "dccif/KeySteer",
+      "html_url": "https://github.com/dccif/KeySteer",
+      "description": "Keyboard-driven mouse and window management for Windows and macOS — Vim-style navigation, accessibility UI hints, tiling, tabs, and workspaces.",
+      "stars": 66,
+      "forks": 3,
+      "language": "Rust",
+      "pushed_at": "2026-09-23T03:23:50Z",
+      "updated_at": "2026-09-23T03:17:54Z"
     }
   ]
 }
