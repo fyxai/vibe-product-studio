@@ -8,136 +8,158 @@
   "total_found": 1156,
   "items": [
     {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 81766,
+      "forks": 5182,
+      "language": "Rust",
+      "pushed_at": "2026-09-26T17:56:16Z",
+      "updated_at": "2026-09-26T18:44:27Z"
+    },
+    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22278,
+      "stars": 22281,
       "forks": 2074,
       "language": "TypeScript",
-      "pushed_at": "2026-09-26T15:29:20Z",
-      "updated_at": "2026-09-26T15:29:24Z"
+      "pushed_at": "2026-09-26T19:00:46Z",
+      "updated_at": "2026-09-26T19:00:52Z"
     },
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14643,
-      "forks": 1009,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-26T15:00:23Z",
-      "updated_at": "2026-09-26T15:46:40Z"
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 18988,
+      "forks": 1019,
+      "language": "Python",
+      "pushed_at": "2026-09-26T18:37:54Z",
+      "updated_at": "2026-09-26T18:18:47Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8058,
-      "forks": 1185,
+      "stars": 8068,
+      "forks": 1189,
       "language": "TypeScript",
-      "pushed_at": "2026-09-26T15:28:39Z",
-      "updated_at": "2026-09-26T15:38:54Z"
+      "pushed_at": "2026-09-26T18:19:45Z",
+      "updated_at": "2026-09-26T18:56:36Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6788,
+      "forks": 420,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-26T18:13:42Z",
+      "updated_at": "2026-09-26T18:13:49Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5815,
+      "forks": 782,
+      "language": "Elixir",
+      "pushed_at": "2026-09-26T18:59:37Z",
+      "updated_at": "2026-09-26T18:54:02Z"
     },
     {
       "id": 1266135511,
       "full_name": "Tianyu199509/DeskBox",
       "html_url": "https://github.com/Tianyu199509/DeskBox",
       "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 5424,
-      "forks": 291,
+      "stars": 5447,
+      "forks": 293,
       "language": "C#",
-      "pushed_at": "2026-09-26T15:38:54Z",
-      "updated_at": "2026-09-26T15:44:52Z"
+      "pushed_at": "2026-09-26T18:54:36Z",
+      "updated_at": "2026-09-26T18:54:38Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3605,
-      "forks": 177,
+      "id": 700879222,
+      "full_name": "remvze/moodist",
+      "html_url": "https://github.com/remvze/moodist",
+      "description": "Ambient sounds for focus and calm.",
+      "stars": 3851,
+      "forks": 330,
       "language": "TypeScript",
-      "pushed_at": "2026-09-26T14:36:15Z",
-      "updated_at": "2026-09-26T15:43:30Z"
+      "pushed_at": "2026-09-26T18:53:44Z",
+      "updated_at": "2026-09-26T18:53:48Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 581,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2124,
+      "forks": 134,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-26T18:42:25Z",
+      "updated_at": "2026-09-26T18:42:28Z"
+    },
+    {
+      "id": 1196349223,
+      "full_name": "dotpm/obsidian-pm",
+      "html_url": "https://github.com/dotpm/obsidian-pm",
+      "description": "Project management inside Obsidian. Table, Gantt and Kanban over plain Markdown notes, with a local API for agents and scripts.",
+      "stars": 726,
+      "forks": 81,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-26T18:45:56Z",
+      "updated_at": "2026-09-26T18:45:57Z"
+    },
+    {
+      "id": 1006740535,
+      "full_name": "ljtn/epiq",
+      "html_url": "https://github.com/ljtn/epiq",
+      "description": "Distributed, code-native issue tracker - audit workflows via time-travel",
+      "stars": 453,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-26T18:50:52Z",
+      "updated_at": "2026-09-26T18:55:35Z"
+    },
+    {
+      "id": 1384228920,
+      "full_name": "saragordic/rooms",
+      "html_url": "https://github.com/saragordic/rooms",
+      "description": "Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.",
+      "stars": 312,
+      "forks": 13,
+      "language": "Swift",
+      "pushed_at": "2026-09-26T18:55:26Z",
+      "updated_at": "2026-09-26T18:55:30Z"
+    },
+    {
+      "id": 1230153502,
+      "full_name": "myICOR/myPKA",
+      "html_url": "https://github.com/myICOR/myPKA",
+      "description": "AI-powered Personal Knowledge Assistance in a folder. Built on the ICOR methodology. Plain markdown. Any LLM. Yours forever.",
+      "stars": 303,
+      "forks": 84,
+      "language": "Python",
+      "pushed_at": "2026-09-26T18:42:15Z",
+      "updated_at": "2026-09-26T18:20:09Z"
+    },
+    {
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
+      "stars": 222,
       "forks": 35,
-      "language": "Dart",
-      "pushed_at": "2026-09-26T14:47:57Z",
-      "updated_at": "2026-09-26T15:03:05Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 576,
-      "forks": 73,
-      "language": "C#",
-      "pushed_at": "2026-09-26T15:33:20Z",
-      "updated_at": "2026-09-26T15:33:23Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 37,
-      "language": "Shell",
-      "pushed_at": "2026-09-26T15:39:33Z",
-      "updated_at": "2026-09-26T15:39:36Z"
-    },
-    {
-      "id": 1248011924,
-      "full_name": "lanxiuyun/Catrace",
-      "html_url": "https://github.com/lanxiuyun/Catrace",
-      "description": "Catrace: Every notify is a Plugin! Catrace 是一个桌面小窗系统，由插件决定小窗的展示方式与交互形式。 VSCode 提供代码视窗，插件提供能力；Catrace 提供小窗视窗，插件提供内容。久坐提醒是 Catrace 的首个插件，未来还将有更多能力以插件的形式接入。",
-      "stars": 246,
-      "forks": 20,
-      "language": "Rust",
-      "pushed_at": "2026-09-26T15:35:42Z",
-      "updated_at": "2026-09-26T15:28:51Z"
-    },
-    {
-      "id": 1124104820,
-      "full_name": "NexaFlowFrance/OpenFamily",
-      "html_url": "https://github.com/NexaFlowFrance/OpenFamily",
-      "description": "The open-source, self-hosted family organizer. Keep full control of your family's data : run it on your own server.",
-      "stars": 178,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-26T15:14:31Z",
-      "updated_at": "2026-09-26T15:14:36Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 158,
-      "forks": 17,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-26T15:40:43Z",
-      "updated_at": "2026-09-26T15:00:55Z"
-    },
-    {
-      "id": 670118185,
-      "full_name": "zhugecaomao/ALTRun",
-      "html_url": "https://github.com/zhugecaomao/ALTRun",
-      "description": "轻量、高效、开源的 Windows 启动器",
-      "stars": 148,
-      "forks": 5,
-      "language": "AutoHotkey",
-      "pushed_at": "2026-09-26T15:15:10Z",
-      "updated_at": "2026-09-26T15:15:00Z"
+      "language": "Kotlin",
+      "pushed_at": "2026-09-26T18:48:58Z",
+      "updated_at": "2026-09-26T18:49:01Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +169,8 @@
       "stars": 117,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-09-26T14:49:41Z",
-      "updated_at": "2026-09-26T14:49:44Z"
-    },
-    {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Settings instead of config files, seven layouts incl. PaperWM-style scrolling, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 92,
-      "forks": 2,
-      "language": "Swift",
-      "pushed_at": "2026-09-26T15:25:16Z",
-      "updated_at": "2026-09-26T15:25:19Z"
-    },
-    {
-      "id": 1240505854,
-      "full_name": "quangtruong2003/SmoothScroll",
-      "html_url": "https://github.com/quangtruong2003/SmoothScroll",
-      "description": "Smooth mouse-wheel scrolling for Windows — native low-level input interception, frame-perfect easing, per-app exclusion. Built with Rust, Tauri 2, React. MacOS, Linux comingsoon.",
-      "stars": 86,
-      "forks": 1,
-      "language": "Rust",
-      "pushed_at": "2026-09-26T15:02:32Z",
-      "updated_at": "2026-09-26T15:02:35Z"
+      "pushed_at": "2026-09-26T18:13:02Z",
+      "updated_at": "2026-09-26T18:13:05Z"
     }
   ]
 }
