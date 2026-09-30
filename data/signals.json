@@ -8,103 +8,81 @@
   "total_found": 1162,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 269624,
-      "forks": 40291,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-29T23:08:40Z",
-      "updated_at": "2026-09-29T23:24:58Z"
-    },
-    {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27470,
+      "stars": 27471,
       "forks": 2435,
       "language": "Go",
-      "pushed_at": "2026-09-29T22:54:38Z",
-      "updated_at": "2026-09-29T22:54:49Z"
+      "pushed_at": "2026-09-30T03:38:49Z",
+      "updated_at": "2026-09-30T03:38:54Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22390,
-      "forks": 2091,
+      "stars": 22394,
+      "forks": 2094,
       "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:16:20Z",
-      "updated_at": "2026-09-29T23:16:26Z"
+      "pushed_at": "2026-09-30T03:45:27Z",
+      "updated_at": "2026-09-30T04:02:38Z"
     },
     {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16269,
-      "forks": 1261,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T21:44:30Z",
-      "updated_at": "2026-09-29T21:44:34Z"
+      "id": 592882602,
+      "full_name": "mrkai77/Loop",
+      "html_url": "https://github.com/mrkai77/Loop",
+      "description": "Window management made elegant.",
+      "stars": 11700,
+      "forks": 278,
+      "language": "Swift",
+      "pushed_at": "2026-09-30T04:01:36Z",
+      "updated_at": "2026-09-30T03:34:53Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12370,
-      "forks": 1553,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6320,
+      "forks": 596,
       "language": "TypeScript",
-      "pushed_at": "2026-09-29T21:10:52Z",
-      "updated_at": "2026-09-29T23:15:37Z"
-    },
-    {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4065,
-      "forks": 298,
-      "language": "Python",
-      "pushed_at": "2026-09-29T22:48:19Z",
-      "updated_at": "2026-09-29T22:48:21Z"
+      "pushed_at": "2026-09-30T03:27:37Z",
+      "updated_at": "2026-09-30T03:57:38Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2156,
+      "stars": 2158,
       "forks": 135,
       "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:24:59Z",
-      "updated_at": "2026-09-29T23:25:12Z"
+      "pushed_at": "2026-09-30T04:04:16Z",
+      "updated_at": "2026-09-30T04:04:20Z"
     },
     {
-      "id": 1196349223,
-      "full_name": "dotpm/obsidian-pm",
-      "html_url": "https://github.com/dotpm/obsidian-pm",
-      "description": "Project management inside Obsidian. Table, Gantt and Kanban over plain Markdown notes, with a local API for agents and scripts.",
-      "stars": 729,
-      "forks": 81,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T22:41:38Z",
-      "updated_at": "2026-09-29T22:41:42Z"
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1800,
+      "forks": 117,
+      "language": "Rust",
+      "pushed_at": "2026-09-30T03:51:39Z",
+      "updated_at": "2026-09-30T03:51:43Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 345,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:12:29Z",
-      "updated_at": "2026-09-29T21:24:57Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 1095,
+      "forks": 64,
+      "language": "Rust",
+      "pushed_at": "2026-09-30T03:59:49Z",
+      "updated_at": "2026-09-30T03:59:50Z"
     },
     {
       "id": 1166865874,
@@ -114,41 +92,41 @@
       "stars": 322,
       "forks": 38,
       "language": "Shell",
-      "pushed_at": "2026-09-29T22:04:20Z",
-      "updated_at": "2026-09-29T22:04:24Z"
+      "pushed_at": "2026-09-30T03:41:31Z",
+      "updated_at": "2026-09-30T03:41:35Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 302,
-      "forks": 66,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-29T22:23:27Z",
-      "updated_at": "2026-09-29T22:20:31Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 161,
-      "forks": 17,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-29T22:40:54Z",
-      "updated_at": "2026-09-29T22:24:06Z"
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 253,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-30T03:59:34Z",
+      "updated_at": "2026-09-30T02:53:03Z"
     },
     {
       "id": 1161274003,
       "full_name": "saurabhav88/EnviousWispr",
       "html_url": "https://github.com/saurabhav88/EnviousWispr",
       "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 161,
+      "stars": 162,
       "forks": 13,
       "language": "Swift",
-      "pushed_at": "2026-09-29T22:41:47Z",
-      "updated_at": "2026-09-29T22:41:50Z"
+      "pushed_at": "2026-09-30T03:17:30Z",
+      "updated_at": "2026-09-30T03:17:32Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "zeweihan/aiworkdeck",
+      "html_url": "https://github.com/zeweihan/aiworkdeck",
+      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
+      "stars": 150,
+      "forks": 14,
+      "language": "Java",
+      "pushed_at": "2026-09-30T03:11:43Z",
+      "updated_at": "2026-09-30T02:48:29Z"
     },
     {
       "id": 1337168270,
@@ -158,19 +136,41 @@
       "stars": 128,
       "forks": 36,
       "language": "Python",
-      "pushed_at": "2026-09-29T22:23:06Z",
-      "updated_at": "2026-09-29T22:25:00Z"
+      "pushed_at": "2026-09-30T03:16:55Z",
+      "updated_at": "2026-09-30T03:07:54Z"
     },
     {
       "id": 1288180765,
       "full_name": "KiwiCanopy/KiwiDesk",
       "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
       "description": "Tiling that feels like it shipped with macOS. Settings instead of config files, seven layouts incl. PaperWM-style scrolling, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 122,
+      "stars": 124,
       "forks": 4,
       "language": "Swift",
-      "pushed_at": "2026-09-29T23:23:35Z",
-      "updated_at": "2026-09-29T23:21:06Z"
+      "pushed_at": "2026-09-30T03:40:20Z",
+      "updated_at": "2026-09-30T03:33:44Z"
+    },
+    {
+      "id": 1236536813,
+      "full_name": "pcx-wave/vibe-skill",
+      "html_url": "https://github.com/pcx-wave/vibe-skill",
+      "description": "Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage",
+      "stars": 118,
+      "forks": 13,
+      "language": "Shell",
+      "pushed_at": "2026-09-30T04:00:15Z",
+      "updated_at": "2026-09-30T04:00:19Z"
+    },
+    {
+      "id": 1355857144,
+      "full_name": "theguysudo/ENZO",
+      "html_url": "https://github.com/theguysudo/ENZO",
+      "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+      "stars": 110,
+      "forks": 25,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-30T03:32:50Z",
+      "updated_at": "2026-09-30T03:32:55Z"
     }
   ]
 }
