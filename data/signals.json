@@ -8,26 +8,15 @@
   "total_found": 1165,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 133353,
-      "forks": 15544,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-01T14:39:42Z",
-      "updated_at": "2026-10-01T14:39:47Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 82156,
-      "forks": 5213,
-      "language": "Rust",
-      "pushed_at": "2026-10-01T15:03:53Z",
-      "updated_at": "2026-10-01T15:05:01Z"
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 270625,
+      "forks": 40460,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-01T20:04:07Z",
+      "updated_at": "2026-10-01T20:45:59Z"
     },
     {
       "id": 13428264,
@@ -37,140 +26,151 @@
       "stars": 39831,
       "forks": 3938,
       "language": "C#",
-      "pushed_at": "2026-10-01T14:55:15Z",
-      "updated_at": "2026-10-01T14:55:35Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27474,
-      "forks": 2437,
-      "language": "Go",
-      "pushed_at": "2026-10-01T14:48:18Z",
-      "updated_at": "2026-10-01T14:48:29Z"
+      "pushed_at": "2026-10-01T20:46:20Z",
+      "updated_at": "2026-10-01T20:28:55Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22438,
+      "stars": 22447,
       "forks": 2105,
       "language": "TypeScript",
-      "pushed_at": "2026-10-01T14:15:03Z",
-      "updated_at": "2026-10-01T14:43:01Z"
+      "pushed_at": "2026-10-01T20:36:24Z",
+      "updated_at": "2026-10-01T20:41:35Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 5063,
-      "forks": 117,
-      "language": "Rust",
-      "pushed_at": "2026-10-01T14:45:31Z",
-      "updated_at": "2026-10-01T14:45:35Z"
-    },
-    {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3631,
-      "forks": 180,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8152,
+      "forks": 1198,
       "language": "TypeScript",
-      "pushed_at": "2026-10-01T14:33:55Z",
-      "updated_at": "2026-10-01T14:30:53Z"
+      "pushed_at": "2026-10-01T20:29:10Z",
+      "updated_at": "2026-10-01T20:15:50Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5818,
+      "forks": 782,
+      "language": "Elixir",
+      "pushed_at": "2026-10-01T20:48:02Z",
+      "updated_at": "2026-10-01T19:31:19Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5620,
+      "forks": 665,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-01T19:44:52Z",
+      "updated_at": "2026-10-01T19:44:58Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2169,
+      "stars": 2171,
       "forks": 136,
       "language": "TypeScript",
-      "pushed_at": "2026-10-01T14:37:36Z",
-      "updated_at": "2026-10-01T14:44:17Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 2043,
-      "forks": 153,
-      "language": "Dart",
-      "pushed_at": "2026-10-01T14:50:39Z",
-      "updated_at": "2026-10-01T15:04:06Z"
-    },
-    {
-      "id": 632693436,
-      "full_name": "FriesI23/mhabit",
-      "html_url": "https://github.com/FriesI23/mhabit",
-      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
-      "stars": 1621,
-      "forks": 100,
-      "language": "Dart",
-      "pushed_at": "2026-10-01T14:30:30Z",
-      "updated_at": "2026-10-01T14:30:36Z"
+      "pushed_at": "2026-10-01T20:47:05Z",
+      "updated_at": "2026-10-01T20:47:10Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1527,
+      "stars": 1528,
       "forks": 54,
       "language": "Rust",
-      "pushed_at": "2026-10-01T14:17:17Z",
-      "updated_at": "2026-10-01T14:17:22Z"
+      "pushed_at": "2026-10-01T19:13:50Z",
+      "updated_at": "2026-10-01T19:14:06Z"
     },
     {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 997,
-      "forks": 42,
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 422,
+      "forks": 53,
+      "language": "PHP",
+      "pushed_at": "2026-10-01T19:52:23Z",
+      "updated_at": "2026-10-01T19:52:20Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 238,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-10-01T19:43:18Z",
+      "updated_at": "2026-10-01T19:43:23Z"
+    },
+    {
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The control plane for your AI employees",
+      "stars": 181,
+      "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-01T14:32:16Z",
-      "updated_at": "2026-10-01T14:32:25Z"
+      "pushed_at": "2026-10-01T20:37:17Z",
+      "updated_at": "2026-10-01T20:37:22Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 900,
-      "forks": 93,
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 162,
+      "forks": 18,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-01T20:40:34Z",
+      "updated_at": "2026-10-01T20:40:36Z"
+    },
+    {
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 146,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-01T20:34:35Z",
+      "updated_at": "2026-10-01T20:34:41Z"
+    },
+    {
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
+      "stars": 132,
+      "forks": 36,
       "language": "Python",
-      "pushed_at": "2026-10-01T14:10:34Z",
-      "updated_at": "2026-10-01T14:10:39Z"
+      "pushed_at": "2026-10-01T20:20:01Z",
+      "updated_at": "2026-10-01T20:20:06Z"
     },
     {
-      "id": 73134029,
-      "full_name": "jasonlong/mater",
-      "html_url": "https://github.com/jasonlong/mater",
-      "description": "🍅 A simple, native macOS menubar Pomodoro app",
-      "stars": 592,
-      "forks": 43,
-      "language": "Swift",
-      "pushed_at": "2026-10-01T14:49:12Z",
-      "updated_at": "2026-10-01T14:49:16Z"
-    },
-    {
-      "id": 1338000115,
-      "full_name": "MuQY1818/OpenYoink",
-      "html_url": "https://github.com/MuQY1818/OpenYoink",
-      "description": "A free, open-source macOS drag-and-drop shelf and Dynamic Island for files, images, text and links. Built with SwiftUI + AppKit.",
-      "stars": 217,
-      "forks": 1,
-      "language": "Swift",
-      "pushed_at": "2026-10-01T14:10:31Z",
-      "updated_at": "2026-10-01T14:10:36Z"
+      "id": 1115652403,
+      "full_name": "JuhLabs/juhradial-mx",
+      "html_url": "https://github.com/JuhLabs/juhradial-mx",
+      "description": "JuhRadial MX 🖱️🖥️  is an alternative for the missing Logi Options + for Linux | a beautiful radial menu for Logitech MX Master mice (KDE Plasma 6, Hyprland, Wayland) - Now also supporting the new MX Keypad.",
+      "stars": 131,
+      "forks": 14,
+      "language": "Python",
+      "pushed_at": "2026-10-01T19:32:44Z",
+      "updated_at": "2026-10-01T19:11:09Z"
     }
   ]
 }
