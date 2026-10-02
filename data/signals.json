@@ -8,136 +8,125 @@
   "total_found": 1166,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 82219,
-      "forks": 5217,
-      "language": "Rust",
-      "pushed_at": "2026-10-02T13:41:25Z",
-      "updated_at": "2026-10-02T14:22:30Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22482,
+      "forks": 2109,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-02T19:42:04Z",
+      "updated_at": "2026-10-02T20:12:04Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15570,
-      "forks": 1051,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12392,
+      "forks": 1557,
       "language": "TypeScript",
-      "pushed_at": "2026-10-02T13:56:47Z",
-      "updated_at": "2026-10-02T13:56:57Z"
+      "pushed_at": "2026-10-02T20:19:16Z",
+      "updated_at": "2026-10-02T20:19:22Z"
+    },
+    {
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 10126,
+      "forks": 308,
+      "language": "C++",
+      "pushed_at": "2026-10-02T20:17:45Z",
+      "updated_at": "2026-10-02T20:17:49Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8160,
-      "forks": 1198,
+      "stars": 8158,
+      "forks": 1196,
       "language": "TypeScript",
-      "pushed_at": "2026-10-02T14:27:28Z",
-      "updated_at": "2026-10-02T14:27:11Z"
+      "pushed_at": "2026-10-02T20:08:40Z",
+      "updated_at": "2026-10-02T19:47:01Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5622,
+      "forks": 664,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-02T20:09:49Z",
+      "updated_at": "2026-10-02T20:09:56Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2174,
+      "stars": 2175,
       "forks": 136,
       "language": "TypeScript",
-      "pushed_at": "2026-10-02T13:56:57Z",
-      "updated_at": "2026-10-02T14:10:25Z"
+      "pushed_at": "2026-10-02T20:09:53Z",
+      "updated_at": "2026-10-02T20:09:59Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1530,
-      "forks": 54,
-      "language": "Rust",
-      "pushed_at": "2026-10-02T14:00:10Z",
-      "updated_at": "2026-10-02T14:00:18Z"
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2043,
+      "forks": 152,
+      "language": "Dart",
+      "pushed_at": "2026-10-02T20:07:39Z",
+      "updated_at": "2026-10-02T20:04:46Z"
     },
     {
-      "id": 1243618131,
-      "full_name": "elvisun/newsjack",
-      "html_url": "https://github.com/elvisun/newsjack",
-      "description": "The open-source skills that turn your agent into a full PR team.",
-      "stars": 1494,
-      "forks": 148,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 993,
+      "forks": 180,
       "language": "Go",
-      "pushed_at": "2026-10-02T14:18:16Z",
-      "updated_at": "2026-10-02T14:15:02Z"
+      "pushed_at": "2026-10-02T20:07:02Z",
+      "updated_at": "2026-10-02T20:06:35Z"
     },
     {
-      "id": 1076571787,
-      "full_name": "huytieu/COG-second-brain",
-      "html_url": "https://github.com/huytieu/COG-second-brain",
-      "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
-      "stars": 1248,
-      "forks": 150,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 901,
+      "forks": 92,
       "language": "Python",
-      "pushed_at": "2026-10-02T14:09:34Z",
-      "updated_at": "2026-10-02T14:09:35Z"
+      "pushed_at": "2026-10-02T18:58:03Z",
+      "updated_at": "2026-10-02T18:58:09Z"
     },
     {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "Programmable text utility that mac needs",
-      "stars": 589,
-      "forks": 35,
+      "id": 1148232257,
+      "full_name": "samirpatil2000/Buffer",
+      "html_url": "https://github.com/samirpatil2000/Buffer",
+      "description": "Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.",
+      "stars": 434,
+      "forks": 29,
       "language": "Swift",
-      "pushed_at": "2026-10-02T14:26:35Z",
-      "updated_at": "2026-10-02T14:26:39Z"
+      "pushed_at": "2026-10-02T20:15:07Z",
+      "updated_at": "2026-10-02T20:15:09Z"
     },
     {
-      "id": 1080441761,
-      "full_name": "karanb192/awesome-claude-skills",
-      "html_url": "https://github.com/karanb192/awesome-claude-skills",
-      "description": "🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.",
-      "stars": 529,
-      "forks": 315,
-      "language": "Unknown",
-      "pushed_at": "2026-10-02T13:53:44Z",
-      "updated_at": "2026-10-02T13:53:51Z"
-    },
-    {
-      "id": 1142482827,
-      "full_name": "davekilleen/Dex",
-      "html_url": "https://github.com/davekilleen/Dex",
-      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
-      "stars": 489,
-      "forks": 130,
-      "language": "Python",
-      "pushed_at": "2026-10-02T13:55:14Z",
-      "updated_at": "2026-10-02T13:55:08Z"
-    },
-    {
-      "id": 1319102721,
-      "full_name": "dckxx/x-hub",
-      "html_url": "https://github.com/dckxx/x-hub",
-      "description": "本地优先的个人桌面效率工作台：时钟 / 倒计时 / 便签 / 待办 / 速记 / 速达 / AI 对话 / 剪贴板历史，所有数据本地存储、不上云端。基于 Tauri 2 + Vue 3 + TypeScript + Rust。",
-      "stars": 319,
-      "forks": 54,
-      "language": "Rust",
-      "pushed_at": "2026-10-02T13:55:55Z",
-      "updated_at": "2026-10-02T13:55:57Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 306,
-      "forks": 37,
-      "language": "Python",
-      "pushed_at": "2026-10-02T14:15:51Z",
-      "updated_at": "2026-10-02T14:13:52Z"
+      "id": 1328784466,
+      "full_name": "Kabanya/Pomodoist",
+      "html_url": "https://github.com/Kabanya/Pomodoist",
+      "description": "Open-source Todoist alternative. Self-hosted. A focused Pomodoro timer and task manager for mobile, desktop, and web.",
+      "stars": 422,
+      "forks": 43,
+      "language": "Dart",
+      "pushed_at": "2026-10-02T19:08:15Z",
+      "updated_at": "2026-10-02T20:01:16Z"
     },
     {
       "id": 1133241492,
@@ -147,19 +136,19 @@
       "stars": 256,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-10-02T14:19:40Z",
-      "updated_at": "2026-10-02T14:12:37Z"
+      "pushed_at": "2026-10-02T19:06:30Z",
+      "updated_at": "2026-10-02T19:02:58Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 162,
-      "forks": 18,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-02T13:49:31Z",
-      "updated_at": "2026-10-02T13:49:31Z"
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 165,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-10-02T20:11:42Z",
+      "updated_at": "2026-10-02T19:15:59Z"
     },
     {
       "id": 1264434310,
@@ -169,8 +158,19 @@
       "stars": 146,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-02T14:22:51Z",
-      "updated_at": "2026-10-02T14:06:33Z"
+      "pushed_at": "2026-10-02T20:14:45Z",
+      "updated_at": "2026-10-02T20:05:41Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Settings instead of config files, seven layouts incl. PaperWM-style scrolling, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 139,
+      "forks": 5,
+      "language": "Swift",
+      "pushed_at": "2026-10-02T19:08:15Z",
+      "updated_at": "2026-10-02T19:30:39Z"
     }
   ]
 }
