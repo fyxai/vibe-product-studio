@@ -13,109 +13,76 @@
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
       "stars": 39857,
-      "forks": 3938,
+      "forks": 3939,
       "language": "C#",
-      "pushed_at": "2026-10-03T18:39:56Z",
-      "updated_at": "2026-10-03T18:23:07Z"
+      "pushed_at": "2026-10-03T22:41:09Z",
+      "updated_at": "2026-10-03T22:12:03Z"
     },
     {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 22034,
-      "forks": 826,
-      "language": "C",
-      "pushed_at": "2026-10-03T17:22:18Z",
-      "updated_at": "2026-10-03T17:22:24Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8164,
-      "forks": 1197,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22515,
+      "forks": 2118,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T17:25:05Z",
-      "updated_at": "2026-10-03T18:17:25Z"
+      "pushed_at": "2026-10-03T22:00:59Z",
+      "updated_at": "2026-10-03T22:38:52Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5624,
-      "forks": 663,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-03T17:29:25Z",
-      "updated_at": "2026-10-03T17:29:31Z"
+      "id": 324267700,
+      "full_name": "pakerwreah/Calendr",
+      "html_url": "https://github.com/pakerwreah/Calendr",
+      "description": "Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI",
+      "stars": 2364,
+      "forks": 102,
+      "language": "Swift",
+      "pushed_at": "2026-10-03T21:30:20Z",
+      "updated_at": "2026-10-03T21:30:23Z"
     },
     {
-      "id": 123563464,
-      "full_name": "code-charity/youtube",
-      "html_url": "https://github.com/code-charity/youtube",
-      "description": "YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
-      "stars": 4612,
-      "forks": 1002,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-03T18:27:48Z",
-      "updated_at": "2026-10-03T18:27:52Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1537,
+      "forks": 54,
+      "language": "Rust",
+      "pushed_at": "2026-10-03T21:08:15Z",
+      "updated_at": "2026-10-03T21:08:20Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2186,
-      "forks": 137,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-03T18:32:26Z",
-      "updated_at": "2026-10-03T18:32:30Z"
-    },
-    {
-      "id": 1208490640,
-      "full_name": "EdgeTypE/better-deepseek",
-      "html_url": "https://github.com/EdgeTypE/better-deepseek",
-      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-      "stars": 573,
-      "forks": 58,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-03T17:06:00Z",
-      "updated_at": "2026-10-03T18:31:51Z"
-    },
-    {
-      "id": 69779247,
-      "full_name": "CodeverDotDev/codever",
-      "html_url": "https://github.com/CodeverDotDev/codever",
-      "description": "Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support",
-      "stars": 386,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-03T18:21:22Z",
-      "updated_at": "2026-10-03T18:21:25Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 305,
-      "forks": 37,
+      "id": 608574029,
+      "full_name": "seratch/ChatGPT-in-Slack",
+      "html_url": "https://github.com/seratch/ChatGPT-in-Slack",
+      "description": "Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot",
+      "stars": 512,
+      "forks": 180,
       "language": "Python",
-      "pushed_at": "2026-10-03T18:32:17Z",
-      "updated_at": "2026-10-03T17:59:53Z"
+      "pushed_at": "2026-10-03T21:52:54Z",
+      "updated_at": "2026-10-03T21:52:58Z"
     },
     {
-      "id": 1073657969,
-      "full_name": "qf-studio/navigator",
-      "html_url": "https://github.com/qf-studio/navigator",
-      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
-      "stars": 246,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-10-03T18:29:02Z",
-      "updated_at": "2026-10-03T18:29:05Z"
+      "id": 476797398,
+      "full_name": "astudentinearth/darkwrite",
+      "html_url": "https://github.com/astudentinearth/darkwrite",
+      "description": "Notes as it should have been. Built for people who just want to write, without nonsense.",
+      "stars": 318,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-03T21:13:48Z",
+      "updated_at": "2026-10-03T21:13:52Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 258,
+      "forks": 47,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-03T21:46:03Z",
+      "updated_at": "2026-10-03T21:26:54Z"
     },
     {
       "id": 1133644268,
@@ -125,8 +92,19 @@
       "stars": 182,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T18:29:55Z",
-      "updated_at": "2026-10-03T18:29:59Z"
+      "pushed_at": "2026-10-03T22:34:38Z",
+      "updated_at": "2026-10-03T22:34:41Z"
+    },
+    {
+      "id": 1124104820,
+      "full_name": "NexaFlowFrance/OpenFamily",
+      "html_url": "https://github.com/NexaFlowFrance/OpenFamily",
+      "description": "The open-source, self-hosted family organizer. Keep full control of your family's data : run it on your own server.",
+      "stars": 181,
+      "forks": 45,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-03T22:06:27Z",
+      "updated_at": "2026-10-03T22:02:25Z"
     },
     {
       "id": 1161274003,
@@ -136,19 +114,8 @@
       "stars": 165,
       "forks": 14,
       "language": "Swift",
-      "pushed_at": "2026-10-03T18:26:27Z",
-      "updated_at": "2026-10-03T18:26:31Z"
-    },
-    {
-      "id": 901565223,
-      "full_name": "awslabs/nx-plugin-for-aws",
-      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
-      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
-      "stars": 151,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-03T18:56:36Z",
-      "updated_at": "2026-10-03T17:36:23Z"
+      "pushed_at": "2026-10-03T22:10:18Z",
+      "updated_at": "2026-10-03T22:10:21Z"
     },
     {
       "id": 1336386025,
@@ -158,8 +125,30 @@
       "stars": 150,
       "forks": 14,
       "language": "HTML",
-      "pushed_at": "2026-10-03T17:05:44Z",
-      "updated_at": "2026-10-03T17:05:48Z"
+      "pushed_at": "2026-10-03T20:48:03Z",
+      "updated_at": "2026-10-03T20:48:07Z"
+    },
+    {
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 146,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-03T21:51:04Z",
+      "updated_at": "2026-10-03T21:51:08Z"
+    },
+    {
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 133,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-03T21:41:34Z",
+      "updated_at": "2026-10-03T21:41:29Z"
     },
     {
       "id": 1283327964,
@@ -169,8 +158,19 @@
       "stars": 117,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-10-03T17:02:05Z",
-      "updated_at": "2026-10-03T17:02:09Z"
+      "pushed_at": "2026-10-03T20:43:18Z",
+      "updated_at": "2026-10-03T20:43:21Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 117,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-03T22:36:33Z",
+      "updated_at": "2026-10-03T22:36:36Z"
     }
   ]
 }
