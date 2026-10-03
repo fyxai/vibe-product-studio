@@ -8,70 +8,92 @@
   "total_found": 1167,
   "items": [
     {
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 82290,
+      "forks": 5228,
+      "language": "Rust",
+      "pushed_at": "2026-10-03T15:24:47Z",
+      "updated_at": "2026-10-03T15:44:23Z"
+    },
+    {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 39849,
-      "forks": 3936,
+      "stars": 39856,
+      "forks": 3937,
       "language": "C#",
-      "pushed_at": "2026-10-03T09:30:37Z",
-      "updated_at": "2026-10-03T08:28:35Z"
+      "pushed_at": "2026-10-03T15:28:05Z",
+      "updated_at": "2026-10-03T15:37:44Z"
     },
     {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27476,
+      "stars": 27477,
       "forks": 2437,
       "language": "Go",
-      "pushed_at": "2026-10-03T09:36:43Z",
-      "updated_at": "2026-10-03T09:36:50Z"
+      "pushed_at": "2026-10-03T15:21:48Z",
+      "updated_at": "2026-10-03T15:21:52Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22492,
-      "forks": 2110,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8163,
+      "forks": 1197,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T08:31:25Z",
-      "updated_at": "2026-10-03T09:16:48Z"
-    },
-    {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 15706,
-      "forks": 656,
-      "language": "C#",
-      "pushed_at": "2026-10-03T08:55:19Z",
-      "updated_at": "2026-10-03T08:55:28Z"
+      "pushed_at": "2026-10-03T15:03:15Z",
+      "updated_at": "2026-10-03T15:38:47Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5818,
+      "stars": 5819,
       "forks": 781,
       "language": "Elixir",
-      "pushed_at": "2026-10-03T09:16:22Z",
-      "updated_at": "2026-10-03T08:56:27Z"
+      "pushed_at": "2026-10-03T15:36:28Z",
+      "updated_at": "2026-10-03T15:27:10Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 5072,
+      "forks": 117,
+      "language": "Rust",
+      "pushed_at": "2026-10-03T15:13:13Z",
+      "updated_at": "2026-10-03T15:13:16Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3178,
+      "forks": 137,
+      "language": "Swift",
+      "pushed_at": "2026-10-03T15:18:52Z",
+      "updated_at": "2026-10-03T15:28:15Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2181,
+      "stars": 2183,
       "forks": 137,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T08:40:58Z",
-      "updated_at": "2026-10-03T08:41:01Z"
+      "pushed_at": "2026-10-03T15:42:52Z",
+      "updated_at": "2026-10-03T15:43:01Z"
     },
     {
       "id": 1148683593,
@@ -81,41 +103,52 @@
       "stars": 1534,
       "forks": 54,
       "language": "Rust",
-      "pushed_at": "2026-10-03T09:29:53Z",
-      "updated_at": "2026-10-03T09:29:57Z"
+      "pushed_at": "2026-10-03T14:35:51Z",
+      "updated_at": "2026-10-03T14:35:55Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 994,
-      "forks": 181,
-      "language": "Go",
-      "pushed_at": "2026-10-03T08:22:30Z",
-      "updated_at": "2026-10-03T08:22:08Z"
+      "id": 1116772709,
+      "full_name": "nostacks/ekphos",
+      "html_url": "https://github.com/nostacks/ekphos",
+      "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian",
+      "stars": 1066,
+      "forks": 47,
+      "language": "Rust",
+      "pushed_at": "2026-10-03T15:39:38Z",
+      "updated_at": "2026-10-03T15:32:44Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 681,
-      "forks": 42,
-      "language": "Dart",
-      "pushed_at": "2026-10-03T09:19:43Z",
-      "updated_at": "2026-10-03T09:19:48Z"
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 748,
+      "forks": 34,
+      "language": "C#",
+      "pushed_at": "2026-10-03T15:07:44Z",
+      "updated_at": "2026-10-03T15:07:34Z"
     },
     {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "Programmable text utility that mac needs",
-      "stars": 592,
-      "forks": 35,
-      "language": "Swift",
-      "pushed_at": "2026-10-03T08:50:58Z",
-      "updated_at": "2026-10-03T08:51:03Z"
+      "id": 1208490640,
+      "full_name": "EdgeTypE/better-deepseek",
+      "html_url": "https://github.com/EdgeTypE/better-deepseek",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "stars": 572,
+      "forks": 58,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-03T14:39:33Z",
+      "updated_at": "2026-10-03T15:12:56Z"
+    },
+    {
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 322,
+      "forks": 41,
+      "language": "Shell",
+      "pushed_at": "2026-10-03T15:39:07Z",
+      "updated_at": "2026-10-03T15:39:11Z"
     },
     {
       "id": 1133241492,
@@ -125,52 +158,19 @@
       "stars": 258,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T09:40:16Z",
-      "updated_at": "2026-10-03T09:24:00Z"
+      "pushed_at": "2026-10-03T14:28:35Z",
+      "updated_at": "2026-10-03T14:28:40Z"
     },
     {
-      "id": 1124365241,
-      "full_name": "EbadShelby/dotfiles",
-      "html_url": "https://github.com/EbadShelby/dotfiles",
-      "description": "Fedora Workstation | Gnome & Niri setup🐧",
-      "stars": 253,
-      "forks": 8,
-      "language": "CSS",
-      "pushed_at": "2026-10-03T08:47:30Z",
-      "updated_at": "2026-10-03T08:47:33Z"
-    },
-    {
-      "id": 670118185,
-      "full_name": "zhugecaomao/ALTRun",
-      "html_url": "https://github.com/zhugecaomao/ALTRun",
-      "description": "轻量、高效、开源的 Windows 启动器",
-      "stars": 147,
-      "forks": 6,
-      "language": "AutoHotkey",
-      "pushed_at": "2026-10-03T09:24:39Z",
-      "updated_at": "2026-10-03T09:24:41Z"
-    },
-    {
-      "id": 1241977003,
-      "full_name": "futuregene/future-os",
-      "html_url": "https://github.com/futuregene/future-os",
-      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-      "stars": 109,
+      "id": 1073657969,
+      "full_name": "qf-studio/navigator",
+      "html_url": "https://github.com/qf-studio/navigator",
+      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
+      "stars": 246,
       "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-10-03T09:36:19Z",
-      "updated_at": "2026-10-03T09:36:22Z"
-    },
-    {
-      "id": 412385439,
-      "full_name": "scribe-org/Scribe-Android",
-      "html_url": "https://github.com/scribe-org/Scribe-Android",
-      "description": "Scribe-Android: Keyboards for language learners & Conjugate-Android: Wikidata based verb conjugation app",
-      "stars": 107,
-      "forks": 123,
-      "language": "C++",
-      "pushed_at": "2026-10-03T09:18:07Z",
-      "updated_at": "2026-10-03T09:23:41Z"
+      "language": "Python",
+      "pushed_at": "2026-10-03T15:07:16Z",
+      "updated_at": "2026-10-03T15:07:20Z"
     }
   ]
 }
