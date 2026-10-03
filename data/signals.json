@@ -8,59 +8,81 @@
   "total_found": 1167,
   "items": [
     {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 39849,
+      "forks": 3936,
+      "language": "C#",
+      "pushed_at": "2026-10-03T09:30:37Z",
+      "updated_at": "2026-10-03T08:28:35Z"
+    },
+    {
       "id": 15315789,
       "full_name": "Wox-launcher/Wox",
       "html_url": "https://github.com/Wox-launcher/Wox",
       "description": "A cross-platform launcher that simply works",
-      "stars": 27475,
+      "stars": 27476,
       "forks": 2437,
       "language": "Go",
-      "pushed_at": "2026-10-03T03:16:54Z",
-      "updated_at": "2026-10-03T02:35:35Z"
+      "pushed_at": "2026-10-03T09:36:43Z",
+      "updated_at": "2026-10-03T09:36:50Z"
     },
     {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6928,
-      "forks": 174,
-      "language": "Swift",
-      "pushed_at": "2026-10-03T02:39:49Z",
-      "updated_at": "2026-10-03T03:45:52Z"
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22492,
+      "forks": 2110,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-03T08:31:25Z",
+      "updated_at": "2026-10-03T09:16:48Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3172,
-      "forks": 136,
-      "language": "Swift",
-      "pushed_at": "2026-10-03T03:26:18Z",
-      "updated_at": "2026-10-03T03:26:23Z"
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15706,
+      "forks": 656,
+      "language": "C#",
+      "pushed_at": "2026-10-03T08:55:19Z",
+      "updated_at": "2026-10-03T08:55:28Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5818,
+      "forks": 781,
+      "language": "Elixir",
+      "pushed_at": "2026-10-03T09:16:22Z",
+      "updated_at": "2026-10-03T08:56:27Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2179,
-      "forks": 136,
+      "stars": 2181,
+      "forks": 137,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T03:26:45Z",
-      "updated_at": "2026-10-03T03:26:49Z"
+      "pushed_at": "2026-10-03T08:40:58Z",
+      "updated_at": "2026-10-03T08:41:01Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1531,
+      "stars": 1534,
       "forks": 54,
       "language": "Rust",
-      "pushed_at": "2026-10-03T03:39:43Z",
-      "updated_at": "2026-10-03T03:39:48Z"
+      "pushed_at": "2026-10-03T09:29:53Z",
+      "updated_at": "2026-10-03T09:29:57Z"
     },
     {
       "id": 1109341946,
@@ -70,8 +92,19 @@
       "stars": 994,
       "forks": 181,
       "language": "Go",
-      "pushed_at": "2026-10-03T03:48:23Z",
-      "updated_at": "2026-10-03T03:47:54Z"
+      "pushed_at": "2026-10-03T08:22:30Z",
+      "updated_at": "2026-10-03T08:22:08Z"
+    },
+    {
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 681,
+      "forks": 42,
+      "language": "Dart",
+      "pushed_at": "2026-10-03T09:19:43Z",
+      "updated_at": "2026-10-03T09:19:48Z"
     },
     {
       "id": 1319581450,
@@ -81,41 +114,8 @@
       "stars": 592,
       "forks": 35,
       "language": "Swift",
-      "pushed_at": "2026-10-03T02:46:21Z",
-      "updated_at": "2026-10-03T03:18:32Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 345,
-      "forks": 56,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-03T01:58:36Z",
-      "updated_at": "2026-10-03T01:58:40Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 322,
-      "forks": 41,
-      "language": "Shell",
-      "pushed_at": "2026-10-03T03:30:44Z",
-      "updated_at": "2026-10-03T03:30:48Z"
-    },
-    {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "Anti-Note for GNOME.",
-      "stars": 268,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-10-03T02:27:29Z",
-      "updated_at": "2026-10-03T02:27:34Z"
+      "pushed_at": "2026-10-03T08:50:58Z",
+      "updated_at": "2026-10-03T08:51:03Z"
     },
     {
       "id": 1133241492,
@@ -125,52 +125,52 @@
       "stars": 258,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-10-03T03:52:33Z",
-      "updated_at": "2026-10-03T03:49:13Z"
+      "pushed_at": "2026-10-03T09:40:16Z",
+      "updated_at": "2026-10-03T09:24:00Z"
     },
     {
-      "id": 1248011924,
-      "full_name": "lanxiuyun/Catrace",
-      "html_url": "https://github.com/lanxiuyun/Catrace",
-      "description": "Catrace: Every notify is a Plugin! Catrace 是一个桌面小窗系统，由插件决定小窗的展示方式与交互形式。 VSCode 提供代码视窗，插件提供能力；Catrace 提供小窗视窗，插件提供内容。久坐提醒是 Catrace 的首个插件，未来还将有更多能力以插件的形式接入。",
-      "stars": 252,
-      "forks": 20,
-      "language": "Rust",
-      "pushed_at": "2026-10-03T03:45:25Z",
-      "updated_at": "2026-10-03T03:45:30Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
-      "stars": 206,
-      "forks": 42,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-03T02:35:00Z",
-      "updated_at": "2026-10-03T02:32:42Z"
-    },
-    {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The control plane for your AI employees",
-      "stars": 182,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-03T02:17:59Z",
-      "updated_at": "2026-10-03T02:18:03Z"
-    },
-    {
-      "id": 1340911298,
-      "full_name": "newdee/magpie",
-      "html_url": "https://github.com/newdee/magpie",
-      "description": "Spotlight-style local search for everything you saved and forgot: GitHub stars, local files, images, and bookmarks. Privacy-first, no full-disk scanning, fully on-device.",
-      "stars": 146,
+      "id": 1124365241,
+      "full_name": "EbadShelby/dotfiles",
+      "html_url": "https://github.com/EbadShelby/dotfiles",
+      "description": "Fedora Workstation | Gnome & Niri setup🐧",
+      "stars": 253,
       "forks": 8,
+      "language": "CSS",
+      "pushed_at": "2026-10-03T08:47:30Z",
+      "updated_at": "2026-10-03T08:47:33Z"
+    },
+    {
+      "id": 670118185,
+      "full_name": "zhugecaomao/ALTRun",
+      "html_url": "https://github.com/zhugecaomao/ALTRun",
+      "description": "轻量、高效、开源的 Windows 启动器",
+      "stars": 147,
+      "forks": 6,
+      "language": "AutoHotkey",
+      "pushed_at": "2026-10-03T09:24:39Z",
+      "updated_at": "2026-10-03T09:24:41Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 109,
+      "forks": 13,
       "language": "Rust",
-      "pushed_at": "2026-10-03T03:36:59Z",
-      "updated_at": "2026-10-03T03:37:03Z"
+      "pushed_at": "2026-10-03T09:36:19Z",
+      "updated_at": "2026-10-03T09:36:22Z"
+    },
+    {
+      "id": 412385439,
+      "full_name": "scribe-org/Scribe-Android",
+      "html_url": "https://github.com/scribe-org/Scribe-Android",
+      "description": "Scribe-Android: Keyboards for language learners & Conjugate-Android: Wikidata based verb conjugation app",
+      "stars": 107,
+      "forks": 123,
+      "language": "C++",
+      "pushed_at": "2026-10-03T09:18:07Z",
+      "updated_at": "2026-10-03T09:23:41Z"
     }
   ]
 }
