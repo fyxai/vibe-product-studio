@@ -8,15 +8,26 @@
   "total_found": 1172,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22541,
-      "forks": 2119,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-04T21:58:41Z",
-      "updated_at": "2026-10-04T21:44:06Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27485,
+      "forks": 2437,
+      "language": "Go",
+      "pushed_at": "2026-10-05T02:56:23Z",
+      "updated_at": "2026-10-05T02:56:27Z"
+    },
+    {
+      "id": 375653778,
+      "full_name": "linearmouse/linearmouse",
+      "html_url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "stars": 6939,
+      "forks": 175,
+      "language": "Swift",
+      "pushed_at": "2026-10-05T03:06:41Z",
+      "updated_at": "2026-10-05T03:05:31Z"
     },
     {
       "id": 129699403,
@@ -26,63 +37,52 @@
       "stars": 5819,
       "forks": 781,
       "language": "Elixir",
-      "pushed_at": "2026-10-04T22:14:12Z",
-      "updated_at": "2026-10-04T22:07:43Z"
-    },
-    {
-      "id": 222709217,
-      "full_name": "wmariuss/awesome-devops",
-      "html_url": "https://github.com/wmariuss/awesome-devops",
-      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
-      "stars": 4407,
-      "forks": 1025,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-04T21:54:28Z",
-      "updated_at": "2026-10-04T21:54:02Z"
+      "pushed_at": "2026-10-05T03:12:53Z",
+      "updated_at": "2026-10-05T03:06:56Z"
     },
     {
       "id": 1079924730,
       "full_name": "OmniNull/OmniWM",
       "html_url": "https://github.com/OmniNull/OmniWM",
       "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3198,
+      "stars": 3200,
       "forks": 140,
       "language": "Swift",
-      "pushed_at": "2026-10-04T21:24:45Z",
-      "updated_at": "2026-10-04T21:24:49Z"
+      "pushed_at": "2026-10-05T04:09:52Z",
+      "updated_at": "2026-10-05T04:09:56Z"
+    },
+    {
+      "id": 198357530,
+      "full_name": "insin/control-panel-for-twitter",
+      "html_url": "https://github.com/insin/control-panel-for-twitter",
+      "description": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile",
+      "stars": 2637,
+      "forks": 104,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-05T03:34:07Z",
+      "updated_at": "2026-10-05T03:34:12Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2193,
+      "stars": 2195,
       "forks": 140,
       "language": "TypeScript",
-      "pushed_at": "2026-10-04T22:30:26Z",
-      "updated_at": "2026-10-04T22:30:30Z"
+      "pushed_at": "2026-10-05T04:09:21Z",
+      "updated_at": "2026-10-05T04:09:25Z"
     },
     {
-      "id": 1201537262,
-      "full_name": "FuJacob/cotabby",
-      "html_url": "https://github.com/FuJacob/cotabby",
-      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
-      "stars": 1054,
-      "forks": 68,
-      "language": "Swift",
-      "pushed_at": "2026-10-04T22:01:23Z",
-      "updated_at": "2026-10-04T22:01:29Z"
-    },
-    {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 701,
-      "forks": 43,
-      "language": "Dart",
-      "pushed_at": "2026-10-04T21:34:01Z",
-      "updated_at": "2026-10-04T21:34:05Z"
+      "id": 16063480,
+      "full_name": "extesy/hoverzoom",
+      "html_url": "https://github.com/extesy/hoverzoom",
+      "description": "Google Chrome extension for zooming images on mouse hover",
+      "stars": 2061,
+      "forks": 221,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-05T03:33:48Z",
+      "updated_at": "2026-10-05T03:33:54Z"
     },
     {
       "id": 1030039430,
@@ -92,8 +92,8 @@
       "stars": 345,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-10-04T22:40:07Z",
-      "updated_at": "2026-10-04T21:34:55Z"
+      "pushed_at": "2026-10-05T04:07:27Z",
+      "updated_at": "2026-10-05T04:00:12Z"
     },
     {
       "id": 1166865874,
@@ -103,74 +103,74 @@
       "stars": 322,
       "forks": 41,
       "language": "Shell",
-      "pushed_at": "2026-10-04T20:50:12Z",
-      "updated_at": "2026-10-04T20:50:16Z"
+      "pushed_at": "2026-10-05T03:43:16Z",
+      "updated_at": "2026-10-05T03:43:20Z"
     },
     {
-      "id": 1190641281,
-      "full_name": "ahatem/QTranslate",
-      "html_url": "https://github.com/ahatem/QTranslate",
-      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
-      "stars": 237,
-      "forks": 37,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-04T22:37:57Z",
-      "updated_at": "2026-10-04T21:29:07Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 163,
-      "forks": 18,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-04T22:36:54Z",
-      "updated_at": "2026-10-04T22:36:06Z"
-    },
-    {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 150,
-      "forks": 14,
-      "language": "HTML",
-      "pushed_at": "2026-10-04T21:03:25Z",
-      "updated_at": "2026-10-04T21:03:29Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 117,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-10-04T22:12:14Z",
-      "updated_at": "2026-10-04T22:12:18Z"
-    },
-    {
-      "id": 750644141,
-      "full_name": "Axial-SQL/AxialSqlTools",
-      "html_url": "https://github.com/Axial-SQL/AxialSqlTools",
-      "description": "Axial SQL Tools | SQL Server Management Studio 22 Productivity Addin",
-      "stars": 89,
-      "forks": 20,
-      "language": "C#",
-      "pushed_at": "2026-10-04T21:55:36Z",
-      "updated_at": "2026-10-04T21:27:44Z"
-    },
-    {
-      "id": 1110043437,
-      "full_name": "terrylica/cc-skills",
-      "html_url": "https://github.com/terrylica/cc-skills",
-      "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows",
-      "stars": 75,
-      "forks": 12,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 260,
+      "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-10-04T22:40:04Z",
-      "updated_at": "2026-10-04T22:39:58Z"
+      "pushed_at": "2026-10-05T03:35:33Z",
+      "updated_at": "2026-10-05T03:26:28Z"
+    },
+    {
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The control plane for your AI employees",
+      "stars": 182,
+      "forks": 23,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-05T03:00:27Z",
+      "updated_at": "2026-10-05T03:00:31Z"
+    },
+    {
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 168,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-10-05T04:06:35Z",
+      "updated_at": "2026-10-05T04:06:38Z"
+    },
+    {
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 135,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-10-05T03:42:07Z",
+      "updated_at": "2026-10-05T03:42:11Z"
+    },
+    {
+      "id": 1379726830,
+      "full_name": "Earendel-lab/Tapbar",
+      "html_url": "https://github.com/Earendel-lab/Tapbar",
+      "description": "Launch any app or trigger quick actions from the status bar or anywhere on your screen.",
+      "stars": 112,
+      "forks": 4,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-05T03:43:28Z",
+      "updated_at": "2026-10-05T03:42:28Z"
+    },
+    {
+      "id": 1083798727,
+      "full_name": "bug-ops/helix-trainer",
+      "html_url": "https://github.com/bug-ops/helix-trainer",
+      "description": "🎮 Master Helix editor keybindings through interactive practice. Scenarios, arcade mode, quests & streaks. Build muscle memory the fun way.",
+      "stars": 88,
+      "forks": 3,
+      "language": "Rust",
+      "pushed_at": "2026-10-05T03:00:13Z",
+      "updated_at": "2026-10-05T03:00:15Z"
     }
   ]
 }
