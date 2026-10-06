@@ -5,62 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1175,
+  "total_found": 1176,
   "items": [
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12423,
-      "forks": 1563,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-06T17:33:59Z",
-      "updated_at": "2026-10-06T17:56:57Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 82553,
+      "forks": 5251,
+      "language": "Rust",
+      "pushed_at": "2026-10-06T23:23:21Z",
+      "updated_at": "2026-10-06T23:16:32Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 6832,
-      "forks": 421,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-06T17:02:36Z",
-      "updated_at": "2026-10-06T17:02:44Z"
+      "id": 1238120057,
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 54379,
+      "forks": 3123,
+      "language": "Python",
+      "pushed_at": "2026-10-06T23:23:46Z",
+      "updated_at": "2026-10-06T23:32:53Z"
     },
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 6317,
-      "forks": 595,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-06T16:37:43Z",
-      "updated_at": "2026-10-06T17:53:50Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5819,
-      "forks": 781,
-      "language": "Elixir",
-      "pushed_at": "2026-10-06T17:57:43Z",
-      "updated_at": "2026-10-06T17:52:21Z"
-    },
-    {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5734,
-      "forks": 342,
-      "language": "Vala",
-      "pushed_at": "2026-10-06T17:15:57Z",
-      "updated_at": "2026-10-06T17:50:25Z"
+      "id": 57224308,
+      "full_name": "ActivityWatch/activitywatch",
+      "html_url": "https://github.com/ActivityWatch/activitywatch",
+      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+      "stars": 19084,
+      "forks": 1030,
+      "language": "Python",
+      "pushed_at": "2026-10-06T23:27:10Z",
+      "updated_at": "2026-10-06T21:34:55Z"
     },
     {
       "id": 897595329,
@@ -68,98 +46,87 @@
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
       "stars": 4107,
-      "forks": 302,
+      "forks": 301,
       "language": "Python",
-      "pushed_at": "2026-10-06T16:45:57Z",
-      "updated_at": "2026-10-06T16:45:59Z"
+      "pushed_at": "2026-10-06T23:03:21Z",
+      "updated_at": "2026-10-06T23:32:08Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3228,
+      "forks": 141,
+      "language": "Swift",
+      "pushed_at": "2026-10-06T23:28:46Z",
+      "updated_at": "2026-10-06T23:29:12Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "stars": 2466,
+      "forks": 128,
+      "language": "C#",
+      "pushed_at": "2026-10-06T23:29:53Z",
+      "updated_at": "2026-10-06T22:53:43Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2209,
+      "stars": 2210,
       "forks": 141,
       "language": "TypeScript",
-      "pushed_at": "2026-10-06T17:44:21Z",
-      "updated_at": "2026-10-06T17:44:28Z"
+      "pushed_at": "2026-10-06T22:31:37Z",
+      "updated_at": "2026-10-06T22:31:42Z"
     },
     {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "Programmable text utility that mac needs",
-      "stars": 613,
-      "forks": 36,
-      "language": "Swift",
-      "pushed_at": "2026-10-06T16:50:57Z",
-      "updated_at": "2026-10-06T16:51:02Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "Discover the best native macOS apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities. Free and paid options. No Electron.",
+      "stars": 1622,
+      "forks": 158,
+      "language": "Shell",
+      "pushed_at": "2026-10-06T21:25:19Z",
+      "updated_at": "2026-10-06T22:10:51Z"
     },
     {
-      "id": 1230547152,
-      "full_name": "Meridiona/meridian",
-      "html_url": "https://github.com/Meridiona/meridian",
-      "description": "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you.",
-      "stars": 405,
-      "forks": 25,
-      "language": "Rust",
-      "pushed_at": "2026-10-06T17:03:32Z",
-      "updated_at": "2026-10-06T17:03:38Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 345,
-      "forks": 56,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-06T17:23:50Z",
-      "updated_at": "2026-10-06T17:23:54Z"
-    },
-    {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 307,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-10-06T17:55:06Z",
-      "updated_at": "2026-10-06T17:55:12Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 263,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-06T17:32:37Z",
-      "updated_at": "2026-10-06T16:38:21Z"
-    },
-    {
-      "id": 1244050587,
-      "full_name": "hasanyilmaz/operon",
-      "html_url": "https://github.com/hasanyilmaz/operon",
-      "description": "Task management system for humans and agents in Obsidian.",
-      "stars": 246,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-06T17:07:44Z",
-      "updated_at": "2026-10-06T17:07:47Z"
+      "id": 1166865874,
+      "full_name": "altstackHQ/altstack-data",
+      "html_url": "https://github.com/altstackHQ/altstack-data",
+      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
+      "stars": 322,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-10-06T22:14:50Z",
+      "updated_at": "2026-10-06T22:14:55Z"
     },
     {
       "id": 1133644268,
       "full_name": "LayerNorm/overlay-web",
       "html_url": "https://github.com/LayerNorm/overlay-web",
       "description": "The control plane for your AI employees",
-      "stars": 182,
+      "stars": 183,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-06T17:40:46Z",
-      "updated_at": "2026-10-06T17:40:50Z"
+      "pushed_at": "2026-10-06T23:29:56Z",
+      "updated_at": "2026-10-06T23:30:00Z"
+    },
+    {
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 150,
+      "forks": 14,
+      "language": "HTML",
+      "pushed_at": "2026-10-06T21:29:01Z",
+      "updated_at": "2026-10-06T21:29:05Z"
     },
     {
       "id": 1288180765,
@@ -169,8 +136,41 @@
       "stars": 149,
       "forks": 6,
       "language": "Swift",
-      "pushed_at": "2026-10-06T17:52:02Z",
-      "updated_at": "2026-10-06T17:52:06Z"
+      "pushed_at": "2026-10-06T23:25:36Z",
+      "updated_at": "2026-10-06T23:16:33Z"
+    },
+    {
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 136,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-10-06T22:52:43Z",
+      "updated_at": "2026-10-06T22:52:47Z"
+    },
+    {
+      "id": 1240365551,
+      "full_name": "wr/mojito",
+      "html_url": "https://github.com/wr/mojito",
+      "description": "Type :emoji:, ::symbol::, and :::gif::: shortcodes anywhere on macOS",
+      "stars": 119,
+      "forks": 3,
+      "language": "Swift",
+      "pushed_at": "2026-10-06T23:20:03Z",
+      "updated_at": "2026-10-06T23:20:08Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-06T22:09:58Z",
+      "updated_at": "2026-10-06T22:10:02Z"
     }
   ]
 }
