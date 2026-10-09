@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1181,
+  "total_found": 1182,
   "items": [
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15605,
-      "forks": 1056,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22676,
+      "forks": 2136,
       "language": "TypeScript",
-      "pushed_at": "2026-10-09T04:19:23Z",
-      "updated_at": "2026-10-09T04:19:26Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12435,
-      "forks": 1562,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-09T04:09:49Z",
-      "updated_at": "2026-10-09T04:22:21Z"
-    },
-    {
-      "id": 592882602,
-      "full_name": "mrkai77/Loop",
-      "html_url": "https://github.com/mrkai77/Loop",
-      "description": "Window management made elegant.",
-      "stars": 11736,
-      "forks": 276,
-      "language": "Swift",
-      "pushed_at": "2026-10-09T03:55:05Z",
-      "updated_at": "2026-10-09T04:28:25Z"
+      "pushed_at": "2026-10-09T14:58:04Z",
+      "updated_at": "2026-10-09T14:52:11Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8268,
-      "forks": 1217,
+      "stars": 8303,
+      "forks": 1223,
       "language": "TypeScript",
-      "pushed_at": "2026-10-09T04:18:25Z",
-      "updated_at": "2026-10-09T04:23:57Z"
+      "pushed_at": "2026-10-09T14:49:26Z",
+      "updated_at": "2026-10-09T14:58:36Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4124,
-      "forks": 305,
-      "language": "Python",
-      "pushed_at": "2026-10-09T04:26:05Z",
-      "updated_at": "2026-10-09T04:26:08Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 6853,
+      "forks": 421,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-09T14:55:41Z",
+      "updated_at": "2026-10-09T14:15:12Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 1144,
-      "forks": 66,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5825,
+      "forks": 779,
+      "language": "Elixir",
+      "pushed_at": "2026-10-09T14:57:47Z",
+      "updated_at": "2026-10-09T14:56:20Z"
+    },
+    {
+      "id": 262013713,
+      "full_name": "leits/MeetingBar",
+      "html_url": "https://github.com/leits/MeetingBar",
+      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+      "stars": 5365,
+      "forks": 297,
+      "language": "Swift",
+      "pushed_at": "2026-10-09T14:57:10Z",
+      "updated_at": "2026-10-09T14:57:15Z"
+    },
+    {
+      "id": 1092562478,
+      "full_name": "unhappychoice/gitlogue",
+      "html_url": "https://github.com/unhappychoice/gitlogue",
+      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+      "stars": 5096,
+      "forks": 119,
       "language": "Rust",
-      "pushed_at": "2026-10-09T04:27:48Z",
-      "updated_at": "2026-10-09T04:26:56Z"
+      "pushed_at": "2026-10-09T14:52:32Z",
+      "updated_at": "2026-10-09T14:52:35Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2226,
+      "forks": 141,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-09T14:41:37Z",
+      "updated_at": "2026-10-09T14:41:45Z"
     },
     {
       "id": 591995344,
       "full_name": "rush86999/atom",
       "html_url": "https://github.com/rush86999/atom",
       "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 902,
+      "stars": 903,
       "forks": 94,
       "language": "Python",
-      "pushed_at": "2026-10-09T03:35:27Z",
-      "updated_at": "2026-10-09T03:35:32Z"
+      "pushed_at": "2026-10-09T14:45:49Z",
+      "updated_at": "2026-10-09T14:45:54Z"
+    },
+    {
+      "id": 1142482827,
+      "full_name": "davekilleen/Dex",
+      "html_url": "https://github.com/davekilleen/Dex",
+      "description": "Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.",
+      "stars": 493,
+      "forks": 130,
+      "language": "Python",
+      "pushed_at": "2026-10-09T14:16:41Z",
+      "updated_at": "2026-10-09T14:16:46Z"
     },
     {
       "id": 1041956524,
@@ -92,30 +114,8 @@
       "stars": 464,
       "forks": 46,
       "language": "Rust",
-      "pushed_at": "2026-10-09T04:31:41Z",
-      "updated_at": "2026-10-09T04:31:45Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 322,
-      "forks": 40,
-      "language": "Shell",
-      "pushed_at": "2026-10-09T04:16:07Z",
-      "updated_at": "2026-10-09T04:16:11Z"
-    },
-    {
-      "id": 1158424301,
-      "full_name": "modu-ai/moai-cowork",
-      "html_url": "https://github.com/modu-ai/moai-cowork",
-      "description": "비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작",
-      "stars": 306,
-      "forks": 76,
-      "language": "Python",
-      "pushed_at": "2026-10-09T04:21:20Z",
-      "updated_at": "2026-10-09T04:21:09Z"
+      "pushed_at": "2026-10-09T14:50:28Z",
+      "updated_at": "2026-10-09T14:50:31Z"
     },
     {
       "id": 1133241492,
@@ -125,52 +125,52 @@
       "stars": 264,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-10-09T04:30:40Z",
-      "updated_at": "2026-10-09T04:30:45Z"
+      "pushed_at": "2026-10-09T14:53:35Z",
+      "updated_at": "2026-10-09T14:53:40Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 167,
-      "forks": 18,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-09T04:39:39Z",
-      "updated_at": "2026-10-09T04:39:40Z"
+      "id": 1362874559,
+      "full_name": "jaisuriya-11/tsuzuri",
+      "html_url": "https://github.com/jaisuriya-11/tsuzuri",
+      "description": " Block-based notebook for the terminal. Plain Markdown files, Vim editing, live preview, boards, calendars and 96 themes.",
+      "stars": 226,
+      "forks": 13,
+      "language": "Go",
+      "pushed_at": "2026-10-09T14:43:50Z",
+      "updated_at": "2026-10-09T14:41:29Z"
     },
     {
-      "id": 1318362226,
-      "full_name": "prapaa-ai/agav",
-      "html_url": "https://github.com/prapaa-ai/agav",
-      "description": "Terminal-native AI coding assistant for real repositories. Inspect code, edit files, run tests, and verify changes from the CLI.",
-      "stars": 151,
-      "forks": 61,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-09T04:40:07Z",
-      "updated_at": "2026-10-09T03:31:48Z"
+      "id": 670118185,
+      "full_name": "zhugecaomao/ALTRun",
+      "html_url": "https://github.com/zhugecaomao/ALTRun",
+      "description": "Lightweight, open-source Alfred-style launcher for Windows. Beyond apps, files and web search: Quick Switch in Open/Save dialogs, clipboard history, snippet expansion, actions on any selection, pinyin search and scripts.",
+      "stars": 173,
+      "forks": 8,
+      "language": "AutoHotkey",
+      "pushed_at": "2026-10-09T14:50:49Z",
+      "updated_at": "2026-10-09T14:52:04Z"
     },
     {
-      "id": 1337168270,
-      "full_name": "ldbumble/taskuary",
-      "html_url": "https://github.com/ldbumble/taskuary",
-      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
-      "stars": 138,
-      "forks": 35,
-      "language": "Python",
-      "pushed_at": "2026-10-09T03:44:15Z",
-      "updated_at": "2026-10-09T03:44:19Z"
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Settings instead of config files, seven layouts incl. PaperWM-style scrolling, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 156,
+      "forks": 6,
+      "language": "Swift",
+      "pushed_at": "2026-10-09T14:57:40Z",
+      "updated_at": "2026-10-09T14:38:19Z"
     },
     {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 124,
-      "forks": 9,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-09T04:26:56Z",
-      "updated_at": "2026-10-09T04:27:00Z"
+      "id": 1138989235,
+      "full_name": "zeweihan/aiworkdeck",
+      "html_url": "https://github.com/zeweihan/aiworkdeck",
+      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
+      "stars": 150,
+      "forks": 14,
+      "language": "Java",
+      "pushed_at": "2026-10-09T14:38:02Z",
+      "updated_at": "2026-10-09T14:38:05Z"
     }
   ]
 }
