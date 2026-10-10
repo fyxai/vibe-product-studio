@@ -5,139 +5,117 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1179,
+  "total_found": 1182,
   "items": [
     {
-      "id": 663900193,
-      "full_name": "sxyazi/yazi",
-      "html_url": "https://github.com/sxyazi/yazi",
-      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-      "stars": 42731,
-      "forks": 1044,
-      "language": "Rust",
-      "pushed_at": "2026-10-10T13:53:14Z",
-      "updated_at": "2026-10-10T13:49:49Z"
-    },
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27501,
-      "forks": 2437,
-      "language": "Go",
-      "pushed_at": "2026-10-10T13:49:20Z",
-      "updated_at": "2026-10-10T14:12:12Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 133607,
+      "forks": 15633,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-10T19:14:40Z",
+      "updated_at": "2026-10-10T19:44:38Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22704,
-      "forks": 2140,
+      "stars": 22710,
+      "forks": 2142,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T14:09:44Z",
-      "updated_at": "2026-10-10T13:52:44Z"
+      "pushed_at": "2026-10-10T18:51:57Z",
+      "updated_at": "2026-10-10T18:24:34Z"
     },
     {
-      "id": 57224308,
-      "full_name": "ActivityWatch/activitywatch",
-      "html_url": "https://github.com/ActivityWatch/activitywatch",
-      "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-      "stars": 19170,
-      "forks": 1039,
-      "language": "Python",
-      "pushed_at": "2026-10-10T13:48:07Z",
-      "updated_at": "2026-10-10T13:48:11Z"
-    },
-    {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16278,
-      "forks": 1261,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-10T13:54:33Z",
-      "updated_at": "2026-10-10T13:49:52Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8333,
-      "forks": 1231,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-10T14:02:03Z",
-      "updated_at": "2026-10-10T14:14:07Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6980,
-      "forks": 179,
-      "language": "Swift",
-      "pushed_at": "2026-10-10T14:08:56Z",
-      "updated_at": "2026-10-10T14:00:26Z"
+      "id": 187916430,
+      "full_name": "muety/wakapi",
+      "html_url": "https://github.com/muety/wakapi",
+      "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+      "stars": 4448,
+      "forks": 306,
+      "language": "Go",
+      "pushed_at": "2026-10-10T18:53:00Z",
+      "updated_at": "2026-10-10T18:53:06Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1553,
+      "stars": 1554,
       "forks": 54,
       "language": "Rust",
-      "pushed_at": "2026-10-10T14:07:33Z",
-      "updated_at": "2026-10-10T14:07:38Z"
+      "pushed_at": "2026-10-10T19:23:34Z",
+      "updated_at": "2026-10-10T19:23:38Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 903,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-10-10T13:59:02Z",
-      "updated_at": "2026-10-10T13:59:06Z"
+      "id": 1243618131,
+      "full_name": "elvisun/newsjack",
+      "html_url": "https://github.com/elvisun/newsjack",
+      "description": "The open-source skills that turn your agent into a full PR team.",
+      "stars": 1538,
+      "forks": 155,
+      "language": "Go",
+      "pushed_at": "2026-10-10T18:54:24Z",
+      "updated_at": "2026-10-10T19:41:55Z"
     },
     {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 589,
-      "forks": 111,
+      "id": 1196349223,
+      "full_name": "dotpm/obsidian-pm",
+      "html_url": "https://github.com/dotpm/obsidian-pm",
+      "description": "Project management inside Obsidian. Table, Gantt and Kanban over plain Markdown notes, with a local API for agents and scripts.",
+      "stars": 743,
+      "forks": 84,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T13:51:13Z",
-      "updated_at": "2026-10-10T13:50:33Z"
+      "pushed_at": "2026-10-10T19:35:18Z",
+      "updated_at": "2026-10-10T19:35:20Z"
     },
     {
-      "id": 1016255018,
-      "full_name": "theexperiencecompany/gaia",
-      "html_url": "https://github.com/theexperiencecompany/gaia",
-      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "stars": 308,
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 462,
+      "forks": 91,
+      "language": "Go",
+      "pushed_at": "2026-10-10T19:20:21Z",
+      "updated_at": "2026-10-10T19:18:23Z"
+    },
+    {
+      "id": 905920026,
+      "full_name": "anechunaev/notion-electron",
+      "html_url": "https://github.com/anechunaev/notion-electron",
+      "description": "Notion Desktop Client for Linux",
+      "stars": 253,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-10T18:46:47Z",
+      "updated_at": "2026-10-10T18:46:51Z"
+    },
+    {
+      "id": 266191907,
+      "full_name": "iseahound/ImagePut",
+      "html_url": "https://github.com/iseahound/ImagePut",
+      "description": "A core library for images in AutoHotkey. Supports AutoHotkey v1 and v2. ",
+      "stars": 233,
       "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-10-10T14:04:14Z",
-      "updated_at": "2026-10-10T13:59:58Z"
+      "language": "AutoHotkey",
+      "pushed_at": "2026-10-10T19:02:05Z",
+      "updated_at": "2026-10-10T19:02:09Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 263,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-10T14:08:58Z",
-      "updated_at": "2026-10-10T14:09:03Z"
+      "id": 1220652910,
+      "full_name": "Ducksss/codex-profiles",
+      "html_url": "https://github.com/Ducksss/codex-profiles",
+      "description": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
+      "stars": 180,
+      "forks": 11,
+      "language": "Shell",
+      "pushed_at": "2026-10-10T18:40:39Z",
+      "updated_at": "2026-10-10T18:40:41Z"
     },
     {
       "id": 1288180765,
@@ -147,8 +125,8 @@
       "stars": 157,
       "forks": 6,
       "language": "Swift",
-      "pushed_at": "2026-10-10T14:07:26Z",
-      "updated_at": "2026-10-10T14:05:06Z"
+      "pushed_at": "2026-10-10T19:45:20Z",
+      "updated_at": "2026-10-10T19:45:23Z"
     },
     {
       "id": 1264434310,
@@ -158,19 +136,41 @@
       "stars": 141,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T13:47:41Z",
-      "updated_at": "2026-10-10T13:41:30Z"
+      "pushed_at": "2026-10-10T19:37:12Z",
+      "updated_at": "2026-10-10T18:54:34Z"
     },
     {
-      "id": 1228480462,
-      "full_name": "krelltunez/lastGLANCE",
-      "html_url": "https://github.com/krelltunez/lastGLANCE",
-      "description": "When did you last...?",
-      "stars": 99,
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 139,
+      "forks": 12,
+      "language": "HTML",
+      "pushed_at": "2026-10-10T18:19:42Z",
+      "updated_at": "2026-10-10T18:19:47Z"
+    },
+    {
+      "id": 1165869088,
+      "full_name": "SoFluffyOS/lumide",
+      "html_url": "https://github.com/SoFluffyOS/lumide",
+      "description": "🦊 Desktop-first code editor built with Flutter, providing GPU-accelerated rendering and a smooth editing experience.",
+      "stars": 130,
+      "forks": 3,
+      "language": "Unknown",
+      "pushed_at": "2026-10-10T19:36:58Z",
+      "updated_at": "2026-10-10T19:36:58Z"
+    },
+    {
+      "id": 1102515745,
+      "full_name": "Valtora/Nojoin",
+      "html_url": "https://github.com/Valtora/Nojoin",
+      "description": "Open-source self-hosted meeting transcription software with diarisation and many other advanced features which even paid apps lack.",
+      "stars": 79,
       "forks": 6,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-10T14:11:03Z",
-      "updated_at": "2026-10-10T13:47:42Z"
+      "language": "Python",
+      "pushed_at": "2026-10-10T19:11:40Z",
+      "updated_at": "2026-10-10T18:51:55Z"
     }
   ]
 }
