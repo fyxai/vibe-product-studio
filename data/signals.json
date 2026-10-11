@@ -5,84 +5,117 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1184,
+  "total_found": 1185,
   "items": [
     {
-      "id": 953521037,
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": 36163,
-      "forks": 3849,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-11T03:05:18Z",
-      "updated_at": "2026-10-11T03:45:14Z"
-    },
-    {
-      "id": 375653778,
-      "full_name": "linearmouse/linearmouse",
-      "html_url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "stars": 6984,
-      "forks": 179,
-      "language": "Swift",
-      "pushed_at": "2026-10-11T03:47:21Z",
-      "updated_at": "2026-10-11T04:07:29Z"
-    },
-    {
-      "id": 1185843143,
-      "full_name": "realskyrin/capcap",
-      "html_url": "https://github.com/realskyrin/capcap",
-      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
-      "stars": 963,
-      "forks": 77,
-      "language": "Swift",
-      "pushed_at": "2026-10-11T03:32:47Z",
-      "updated_at": "2026-10-11T03:32:50Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 790,
-      "forks": 36,
-      "language": "C#",
-      "pushed_at": "2026-10-11T03:47:28Z",
-      "updated_at": "2026-10-11T03:47:34Z"
-    },
-    {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 391,
-      "forks": 19,
+      "id": 1136590548,
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 276904,
+      "forks": 41284,
       "language": "JavaScript",
-      "pushed_at": "2026-10-11T03:47:39Z",
-      "updated_at": "2026-10-11T03:47:43Z"
+      "pushed_at": "2026-10-11T14:25:46Z",
+      "updated_at": "2026-10-11T14:37:26Z"
     },
     {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 322,
-      "forks": 40,
-      "language": "Shell",
-      "pushed_at": "2026-10-11T03:35:23Z",
-      "updated_at": "2026-10-11T03:35:27Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 133641,
+      "forks": 15638,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:37:40Z",
+      "updated_at": "2026-10-11T14:39:10Z"
     },
     {
-      "id": 1227213243,
-      "full_name": "tanaybhomia/Whisp",
-      "html_url": "https://github.com/tanaybhomia/Whisp",
-      "description": "Spatial canvas for capturing fleeting thoughts",
-      "stars": 274,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-10-11T03:47:12Z",
-      "updated_at": "2026-10-11T03:47:16Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27505,
+      "forks": 2436,
+      "language": "Go",
+      "pushed_at": "2026-10-11T14:09:12Z",
+      "updated_at": "2026-10-11T14:09:21Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22724,
+      "forks": 2143,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:33:26Z",
+      "updated_at": "2026-10-11T14:37:38Z"
+    },
+    {
+      "id": 458094748,
+      "full_name": "omnivore-app/omnivore",
+      "html_url": "https://github.com/omnivore-app/omnivore",
+      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+      "stars": 16279,
+      "forks": 1262,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:15:27Z",
+      "updated_at": "2026-10-11T14:05:19Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15629,
+      "forks": 1055,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:11:15Z",
+      "updated_at": "2026-10-11T13:36:39Z"
+    },
+    {
+      "id": 1266135511,
+      "full_name": "Tianyu199509/DeskBox",
+      "html_url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "stars": 6685,
+      "forks": 345,
+      "language": "C#",
+      "pushed_at": "2026-10-11T13:55:02Z",
+      "updated_at": "2026-10-11T14:35:00Z"
+    },
+    {
+      "id": 262013713,
+      "full_name": "leits/MeetingBar",
+      "html_url": "https://github.com/leits/MeetingBar",
+      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+      "stars": 5364,
+      "forks": 297,
+      "language": "Swift",
+      "pushed_at": "2026-10-11T14:22:17Z",
+      "updated_at": "2026-10-11T14:22:00Z"
+    },
+    {
+      "id": 1167485752,
+      "full_name": "tover0314-w/opentypeless",
+      "html_url": "https://github.com/tover0314-w/opentypeless",
+      "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
+      "stars": 594,
+      "forks": 114,
+      "language": "Rust",
+      "pushed_at": "2026-10-11T14:31:50Z",
+      "updated_at": "2026-10-11T14:23:14Z"
+    },
+    {
+      "id": 222278547,
+      "full_name": "penge/my-notes",
+      "html_url": "https://github.com/penge/my-notes",
+      "description": "Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.",
+      "stars": 266,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:27:23Z",
+      "updated_at": "2026-10-11T14:26:43Z"
     },
     {
       "id": 1133241492,
@@ -92,30 +125,41 @@
       "stars": 263,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T03:53:24Z",
-      "updated_at": "2026-10-11T03:49:51Z"
+      "pushed_at": "2026-10-11T14:01:20Z",
+      "updated_at": "2026-10-11T13:48:32Z"
     },
     {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The control plane for your AI employees",
-      "stars": 183,
-      "forks": 23,
+      "id": 1132684547,
+      "full_name": "BuildWithAIs/voicekey",
+      "html_url": "https://github.com/BuildWithAIs/voicekey",
+      "description": "Voice to text, one key to input.",
+      "stars": 181,
+      "forks": 16,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T03:49:28Z",
-      "updated_at": "2026-10-11T03:33:05Z"
+      "pushed_at": "2026-10-11T13:26:57Z",
+      "updated_at": "2026-10-11T13:27:01Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 178,
-      "forks": 14,
-      "language": "Swift",
-      "pushed_at": "2026-10-11T03:40:48Z",
-      "updated_at": "2026-10-11T03:40:34Z"
+      "id": 1220652910,
+      "full_name": "Ducksss/codex-profiles",
+      "html_url": "https://github.com/Ducksss/codex-profiles",
+      "description": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
+      "stars": 180,
+      "forks": 11,
+      "language": "Shell",
+      "pushed_at": "2026-10-11T14:28:41Z",
+      "updated_at": "2026-10-11T14:28:43Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 170,
+      "forks": 19,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-11T14:38:16Z",
+      "updated_at": "2026-10-11T14:35:10Z"
     },
     {
       "id": 1288180765,
@@ -125,52 +169,8 @@
       "stars": 160,
       "forks": 7,
       "language": "Swift",
-      "pushed_at": "2026-10-11T03:53:49Z",
-      "updated_at": "2026-10-11T03:03:37Z"
-    },
-    {
-      "id": 1138989235,
-      "full_name": "AI-WorkDeck/aiworkdeck",
-      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
-      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
-      "stars": 151,
-      "forks": 14,
-      "language": "Java",
-      "pushed_at": "2026-10-11T03:56:41Z",
-      "updated_at": "2026-10-11T03:56:45Z"
-    },
-    {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 133,
-      "forks": 9,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-11T03:48:57Z",
-      "updated_at": "2026-10-11T03:49:00Z"
-    },
-    {
-      "id": 1240505854,
-      "full_name": "quangtruong2003/SmoothScroll",
-      "html_url": "https://github.com/quangtruong2003/SmoothScroll",
-      "description": "Free smooth-scrolling utility for Windows 10/11 — velocity-based 120 Hz easing engine, per-app profiles, UWP support, zero telemetry. Built with Rust + Tauri.",
-      "stars": 97,
-      "forks": 1,
-      "language": "Rust",
-      "pushed_at": "2026-10-11T03:59:28Z",
-      "updated_at": "2026-10-11T03:39:48Z"
-    },
-    {
-      "id": 1327537984,
-      "full_name": "dccif/KeySteer",
-      "html_url": "https://github.com/dccif/KeySteer",
-      "description": "Keyboard-driven mouse and window management for Windows and macOS — Vim-style navigation, accessibility UI hints, tiling, tabs, and workspaces.",
-      "stars": 89,
-      "forks": 5,
-      "language": "Rust",
-      "pushed_at": "2026-10-11T03:01:40Z",
-      "updated_at": "2026-10-11T03:01:44Z"
+      "pushed_at": "2026-10-11T14:35:04Z",
+      "updated_at": "2026-10-11T13:45:46Z"
     }
   ]
 }
