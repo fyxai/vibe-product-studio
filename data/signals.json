@@ -12,66 +12,55 @@
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 277085,
-      "forks": 41334,
+      "stars": 277195,
+      "forks": 41348,
       "language": "JavaScript",
-      "pushed_at": "2026-10-11T19:49:19Z",
-      "updated_at": "2026-10-11T19:54:46Z"
+      "pushed_at": "2026-10-11T23:18:59Z",
+      "updated_at": "2026-10-11T23:26:40Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 45905,
-      "forks": 2954,
-      "language": "C#",
-      "pushed_at": "2026-10-11T19:46:49Z",
-      "updated_at": "2026-10-11T19:28:20Z"
-    },
-    {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26679,
-      "forks": 1951,
-      "language": "Vue",
-      "pushed_at": "2026-10-11T18:26:31Z",
-      "updated_at": "2026-10-11T19:01:59Z"
+      "id": 291137,
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 190096,
+      "forks": 29095,
+      "language": "Shell",
+      "pushed_at": "2026-10-11T22:58:22Z",
+      "updated_at": "2026-10-11T22:58:33Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22734,
-      "forks": 2145,
+      "stars": 22736,
+      "forks": 2144,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T19:34:41Z",
-      "updated_at": "2026-10-11T19:40:20Z"
+      "pushed_at": "2026-10-11T22:47:58Z",
+      "updated_at": "2026-10-11T22:30:19Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13748,
-      "forks": 858,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8347,
+      "forks": 1234,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T18:29:14Z",
-      "updated_at": "2026-10-11T18:29:21Z"
+      "pushed_at": "2026-10-11T21:57:32Z",
+      "updated_at": "2026-10-11T22:48:13Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4141,
+      "stars": 4142,
       "forks": 307,
       "language": "Python",
-      "pushed_at": "2026-10-11T19:37:17Z",
-      "updated_at": "2026-10-11T19:37:19Z"
+      "pushed_at": "2026-10-11T23:20:57Z",
+      "updated_at": "2026-10-11T23:20:59Z"
     },
     {
       "id": 1111978380,
@@ -81,41 +70,52 @@
       "stars": 2236,
       "forks": 142,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T19:38:25Z",
-      "updated_at": "2026-10-11T19:38:30Z"
+      "pushed_at": "2026-10-11T23:18:50Z",
+      "updated_at": "2026-10-11T23:18:55Z"
     },
     {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1983,
-      "forks": 149,
-      "language": "Go",
-      "pushed_at": "2026-10-11T19:00:14Z",
-      "updated_at": "2026-10-11T18:54:03Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
-      "stars": 1437,
-      "forks": 257,
-      "language": "HTML",
-      "pushed_at": "2026-10-11T19:54:18Z",
-      "updated_at": "2026-10-11T19:50:35Z"
-    },
-    {
-      "id": 222278547,
-      "full_name": "penge/my-notes",
-      "html_url": "https://github.com/penge/my-notes",
-      "description": "Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.",
-      "stars": 266,
-      "forks": 37,
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 1301,
+      "forks": 119,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T19:29:47Z",
-      "updated_at": "2026-10-11T19:22:55Z"
+      "pushed_at": "2026-10-11T22:35:33Z",
+      "updated_at": "2026-10-11T22:21:14Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1064,
+      "forks": 192,
+      "language": "Go",
+      "pushed_at": "2026-10-11T23:21:38Z",
+      "updated_at": "2026-10-11T23:21:38Z"
+    },
+    {
+      "id": 134258952,
+      "full_name": "lawrencehook/remove-youtube-suggestions",
+      "html_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
+      "description": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
+      "stars": 584,
+      "forks": 64,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-11T22:35:10Z",
+      "updated_at": "2026-10-11T22:34:59Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 263,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T22:06:15Z",
+      "updated_at": "2026-10-11T22:06:20Z"
     },
     {
       "id": 1339903141,
@@ -125,19 +125,19 @@
       "stars": 193,
       "forks": 8,
       "language": "Rust",
-      "pushed_at": "2026-10-11T19:23:47Z",
-      "updated_at": "2026-10-11T19:22:31Z"
+      "pushed_at": "2026-10-11T23:13:40Z",
+      "updated_at": "2026-10-11T22:29:45Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 178,
-      "forks": 15,
-      "language": "Swift",
-      "pushed_at": "2026-10-11T19:42:25Z",
-      "updated_at": "2026-10-11T19:22:24Z"
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 171,
+      "forks": 18,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-11T23:26:28Z",
+      "updated_at": "2026-10-11T23:22:32Z"
     },
     {
       "id": 1288180765,
@@ -147,30 +147,30 @@
       "stars": 159,
       "forks": 7,
       "language": "Swift",
-      "pushed_at": "2026-10-11T19:49:46Z",
-      "updated_at": "2026-10-11T19:22:15Z"
+      "pushed_at": "2026-10-11T23:19:01Z",
+      "updated_at": "2026-10-11T22:51:46Z"
     },
     {
-      "id": 1409305885,
-      "full_name": "opennookorg/betterwispr",
-      "html_url": "https://github.com/opennookorg/betterwispr",
-      "description": "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.",
-      "stars": 146,
-      "forks": 9,
-      "language": "Swift",
-      "pushed_at": "2026-10-11T19:14:57Z",
-      "updated_at": "2026-10-11T19:54:58Z"
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 158,
+      "forks": 13,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-11T23:01:28Z",
+      "updated_at": "2026-10-11T23:01:28Z"
     },
     {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 145,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-11T19:49:57Z",
-      "updated_at": "2026-10-11T19:14:39Z"
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 138,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-10-11T22:46:48Z",
+      "updated_at": "2026-10-11T22:46:52Z"
     }
   ]
 }
