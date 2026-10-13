@@ -8,136 +8,70 @@
   "total_found": 1190,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 133775,
-      "forks": 15658,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T10:42:58Z",
-      "updated_at": "2026-10-13T11:14:49Z"
-    },
-    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 83168,
-      "forks": 5277,
+      "stars": 83204,
+      "forks": 5283,
       "language": "Rust",
-      "pushed_at": "2026-10-13T11:02:12Z",
-      "updated_at": "2026-10-13T11:22:55Z"
+      "pushed_at": "2026-10-13T18:27:56Z",
+      "updated_at": "2026-10-13T18:46:25Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "AI coworker with memory and collaboration",
-      "stars": 18013,
-      "forks": 1800,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27502,
+      "forks": 2438,
+      "language": "Go",
+      "pushed_at": "2026-10-13T18:08:06Z",
+      "updated_at": "2026-10-13T18:25:47Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8362,
+      "forks": 1237,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T10:53:10Z",
-      "updated_at": "2026-10-13T10:59:24Z"
+      "pushed_at": "2026-10-13T18:17:16Z",
+      "updated_at": "2026-10-13T18:46:26Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12460,
-      "forks": 1567,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:02:46Z",
-      "updated_at": "2026-10-13T10:59:00Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5829,
+      "forks": 779,
+      "language": "Elixir",
+      "pushed_at": "2026-10-13T18:52:34Z",
+      "updated_at": "2026-10-13T18:42:53Z"
     },
     {
-      "id": 610217037,
-      "full_name": "di-sukharev/opencommit",
-      "html_url": "https://github.com/di-sukharev/opencommit",
-      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
-      "stars": 7544,
-      "forks": 445,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-13T10:16:32Z",
-      "updated_at": "2026-10-13T10:16:39Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1987,
+      "forks": 149,
+      "language": "Go",
+      "pushed_at": "2026-10-13T17:34:08Z",
+      "updated_at": "2026-10-13T17:28:46Z"
     },
     {
-      "id": 262013713,
-      "full_name": "leits/MeetingBar",
-      "html_url": "https://github.com/leits/MeetingBar",
-      "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
-      "stars": 5366,
-      "forks": 297,
-      "language": "Swift",
-      "pushed_at": "2026-10-13T11:02:23Z",
-      "updated_at": "2026-10-13T10:19:57Z"
-    },
-    {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3671,
-      "forks": 183,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T10:23:26Z",
-      "updated_at": "2026-10-13T10:23:32Z"
-    },
-    {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3381,
-      "forks": 171,
-      "language": "Gherkin",
-      "pushed_at": "2026-10-13T11:12:56Z",
-      "updated_at": "2026-10-13T11:13:02Z"
-    },
-    {
-      "id": 1060712801,
-      "full_name": "surajverma/homehub",
-      "html_url": "https://github.com/surajverma/homehub",
-      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
-      "stars": 1246,
-      "forks": 77,
+      "id": 1016255018,
+      "full_name": "theexperiencecompany/gaia",
+      "html_url": "https://github.com/theexperiencecompany/gaia",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "stars": 309,
+      "forks": 36,
       "language": "Python",
-      "pushed_at": "2026-10-13T11:21:40Z",
-      "updated_at": "2026-10-13T11:21:45Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 578,
-      "forks": 73,
-      "language": "C#",
-      "pushed_at": "2026-10-13T10:17:24Z",
-      "updated_at": "2026-10-13T10:17:28Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
-      "stars": 393,
-      "forks": 91,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T10:16:28Z",
-      "updated_at": "2026-10-13T10:47:41Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 44,
-      "language": "Shell",
-      "pushed_at": "2026-10-13T10:51:24Z",
-      "updated_at": "2026-10-13T10:51:29Z"
+      "pushed_at": "2026-10-13T18:53:44Z",
+      "updated_at": "2026-10-13T18:53:50Z"
     },
     {
       "id": 1133241492,
@@ -147,8 +81,8 @@
       "stars": 268,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:25:22Z",
-      "updated_at": "2026-10-13T11:01:01Z"
+      "pushed_at": "2026-10-13T18:42:35Z",
+      "updated_at": "2026-10-13T18:16:13Z"
     },
     {
       "id": 1133644268,
@@ -158,19 +92,85 @@
       "stars": 183,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:19:44Z",
-      "updated_at": "2026-10-13T10:50:59Z"
+      "pushed_at": "2026-10-13T18:48:57Z",
+      "updated_at": "2026-10-13T18:39:48Z"
     },
     {
-      "id": 670118185,
-      "full_name": "zhugecaomao/ALTRun",
-      "html_url": "https://github.com/zhugecaomao/ALTRun",
-      "description": "A lightweight, open-source Alfred-style launcher for Windows.",
-      "stars": 182,
-      "forks": 9,
-      "language": "AutoHotkey",
-      "pushed_at": "2026-10-13T11:14:18Z",
-      "updated_at": "2026-10-13T10:26:12Z"
+      "id": 488877411,
+      "full_name": "kiran-venugopal/lofi-fm",
+      "html_url": "https://github.com/kiran-venugopal/lofi-fm",
+      "description": "Online LoFi music player web app",
+      "stars": 176,
+      "forks": 36,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-13T18:06:42Z",
+      "updated_at": "2026-10-13T18:06:47Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 164,
+      "forks": 7,
+      "language": "Swift",
+      "pushed_at": "2026-10-13T18:18:44Z",
+      "updated_at": "2026-10-13T17:42:05Z"
+    },
+    {
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 152,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-13T18:39:50Z",
+      "updated_at": "2026-10-13T17:51:11Z"
+    },
+    {
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 138,
+      "forks": 51,
+      "language": "Python",
+      "pushed_at": "2026-10-13T18:35:34Z",
+      "updated_at": "2026-10-13T18:43:28Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-13T17:27:31Z",
+      "updated_at": "2026-10-13T17:27:35Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-13T18:00:43Z",
+      "updated_at": "2026-10-13T18:00:55Z"
+    },
+    {
+      "id": 1243827071,
+      "full_name": "einoko/Tomato32",
+      "html_url": "https://github.com/einoko/Tomato32",
+      "description": "ESP32 Pomodoro/productivity timer",
+      "stars": 101,
+      "forks": 10,
+      "language": "C",
+      "pushed_at": "2026-10-13T18:23:37Z",
+      "updated_at": "2026-10-13T18:23:42Z"
     }
   ]
 }
