@@ -8,114 +8,70 @@
   "total_found": 1194,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 133870,
-      "forks": 15671,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-14T16:29:26Z",
-      "updated_at": "2026-10-14T16:29:37Z"
-    },
-    {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 83333,
-      "forks": 5290,
+      "stars": 83376,
+      "forks": 5294,
       "language": "Rust",
-      "pushed_at": "2026-10-14T16:06:34Z",
-      "updated_at": "2026-10-14T16:34:44Z"
-    },
-    {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 45972,
-      "forks": 2964,
-      "language": "C#",
-      "pushed_at": "2026-10-14T15:44:27Z",
-      "updated_at": "2026-10-14T16:31:49Z"
+      "pushed_at": "2026-10-14T22:54:51Z",
+      "updated_at": "2026-10-14T22:53:11Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12466,
+      "stars": 12471,
       "forks": 1571,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T16:33:18Z",
-      "updated_at": "2026-10-14T16:27:10Z"
+      "pushed_at": "2026-10-14T22:56:11Z",
+      "updated_at": "2026-10-14T22:56:17Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8367,
-      "forks": 1238,
+      "stars": 8369,
+      "forks": 1239,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T16:32:01Z",
-      "updated_at": "2026-10-14T16:31:13Z"
+      "pushed_at": "2026-10-14T22:39:51Z",
+      "updated_at": "2026-10-14T22:31:36Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
-      "stars": 2532,
-      "forks": 131,
-      "language": "C#",
-      "pushed_at": "2026-10-14T16:23:12Z",
-      "updated_at": "2026-10-14T16:27:36Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5656,
+      "forks": 664,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-14T22:32:10Z",
+      "updated_at": "2026-10-14T22:32:16Z"
     },
     {
-      "id": 1177941774,
-      "full_name": "wm94i/Work-Review",
-      "html_url": "https://github.com/wm94i/Work-Review",
-      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
-      "stars": 1812,
-      "forks": 118,
-      "language": "Rust",
-      "pushed_at": "2026-10-14T15:57:00Z",
-      "updated_at": "2026-10-14T15:57:05Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 728,
+      "forks": 128,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-14T22:39:44Z",
+      "updated_at": "2026-10-14T22:39:50Z"
     },
     {
-      "id": 1060712801,
-      "full_name": "surajverma/homehub",
-      "html_url": "https://github.com/surajverma/homehub",
-      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
-      "stars": 1246,
-      "forks": 77,
-      "language": "Python",
-      "pushed_at": "2026-10-14T16:13:07Z",
-      "updated_at": "2026-10-14T16:10:40Z"
-    },
-    {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 1100,
-      "forks": 51,
-      "language": "C#",
-      "pushed_at": "2026-10-14T16:20:47Z",
-      "updated_at": "2026-10-14T16:31:57Z"
-    },
-    {
-      "id": 1166865874,
-      "full_name": "altstackHQ/altstack-data",
-      "html_url": "https://github.com/altstackHQ/altstack-data",
-      "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.",
-      "stars": 323,
-      "forks": 44,
-      "language": "Shell",
-      "pushed_at": "2026-10-14T16:28:16Z",
-      "updated_at": "2026-10-14T16:28:20Z"
+      "id": 1030039430,
+      "full_name": "automagik-dev/genie",
+      "html_url": "https://github.com/automagik-dev/genie",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "stars": 346,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-14T22:49:01Z",
+      "updated_at": "2026-10-14T22:47:01Z"
     },
     {
       "id": 1133241492,
@@ -125,41 +81,52 @@
       "stars": 268,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T16:21:22Z",
-      "updated_at": "2026-10-14T16:21:27Z"
+      "pushed_at": "2026-10-14T22:07:55Z",
+      "updated_at": "2026-10-14T22:08:03Z"
+    },
+    {
+      "id": 1027092197,
+      "full_name": "shinpr/ai-coding-project-boilerplate",
+      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
+      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
+      "stars": 234,
+      "forks": 27,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-14T22:08:46Z",
+      "updated_at": "2026-10-14T22:07:58Z"
     },
     {
       "id": 1133644268,
       "full_name": "LayerNorm/overlay-web",
       "html_url": "https://github.com/LayerNorm/overlay-web",
       "description": "The control plane for your AI employees",
-      "stars": 183,
+      "stars": 184,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T16:32:02Z",
-      "updated_at": "2026-10-14T16:07:06Z"
+      "pushed_at": "2026-10-14T22:57:58Z",
+      "updated_at": "2026-10-14T22:57:02Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 172,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-14T16:30:29Z",
-      "updated_at": "2026-10-14T16:29:57Z"
+      "id": 1132086156,
+      "full_name": "ctrlaltwill/LearnKit",
+      "html_url": "https://github.com/ctrlaltwill/LearnKit",
+      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
+      "stars": 182,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-14T22:41:56Z",
+      "updated_at": "2026-10-14T22:41:59Z"
     },
     {
-      "id": 1155531826,
-      "full_name": "gonzaroman/acornix",
-      "html_url": "https://github.com/gonzaroman/acornix",
-      "description": "Vibe coding in your pocket. A native Android app that creates apps and games from text, voice or a photo with AI, runs them full screen with their own data, and controls your phone just by asking. Works with Claude, OpenAI, Gemini or any OpenAI-compatible model.",
-      "stars": 150,
-      "forks": 20,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-14T16:07:16Z",
-      "updated_at": "2026-10-14T16:07:16Z"
+      "id": 1138989235,
+      "full_name": "AI-WorkDeck/aiworkdeck",
+      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
+      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
+      "stars": 161,
+      "forks": 16,
+      "language": "Java",
+      "pushed_at": "2026-10-14T22:28:45Z",
+      "updated_at": "2026-10-14T22:28:48Z"
     },
     {
       "id": 1337168270,
@@ -169,8 +136,41 @@
       "stars": 138,
       "forks": 51,
       "language": "Python",
-      "pushed_at": "2026-10-14T16:04:52Z",
-      "updated_at": "2026-10-14T16:04:56Z"
+      "pushed_at": "2026-10-14T22:55:18Z",
+      "updated_at": "2026-10-14T22:55:22Z"
+    },
+    {
+      "id": 1284688466,
+      "full_name": "gyorgysh/keepresso",
+      "html_url": "https://github.com/gyorgysh/keepresso",
+      "description": "Keep your Mac awake on your terms. A native macOS menu-bar app with condition-based triggers, closed-display mode, and a headless-Mac toolkit. Built for AI agents, servers, and always-on Macs.",
+      "stars": 107,
+      "forks": 7,
+      "language": "Swift",
+      "pushed_at": "2026-10-14T22:37:27Z",
+      "updated_at": "2026-10-14T22:37:30Z"
+    },
+    {
+      "id": 1211152788,
+      "full_name": "jdpolasky/ai-chief-of-staff",
+      "html_url": "https://github.com/jdpolasky/ai-chief-of-staff",
+      "description": "The original AI Chief of Staff built on Claude Code and Obsidian. ADHD prosthetic, open to anyone. Superseded by chief-of-staff-2.",
+      "stars": 107,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-10-14T22:21:36Z",
+      "updated_at": "2026-10-14T22:25:37Z"
+    },
+    {
+      "id": 1155372026,
+      "full_name": "kawayiYokami/P-ai",
+      "html_url": "https://github.com/kawayiYokami/P-ai",
+      "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
+      "stars": 103,
+      "forks": 19,
+      "language": "Rust",
+      "pushed_at": "2026-10-14T22:07:24Z",
+      "updated_at": "2026-10-14T22:07:25Z"
     }
   ]
 }
