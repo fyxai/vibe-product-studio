@@ -5,95 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1192,
+  "total_found": 1193,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 40053,
-      "forks": 3961,
-      "language": "C#",
-      "pushed_at": "2026-10-13T23:08:40Z",
-      "updated_at": "2026-10-13T23:09:00Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27511,
+      "forks": 2438,
+      "language": "Go",
+      "pushed_at": "2026-10-14T03:35:29Z",
+      "updated_at": "2026-10-14T03:35:34Z"
     },
     {
-      "id": 814882742,
-      "full_name": "iib0011/omni-tools",
-      "html_url": "https://github.com/iib0011/omni-tools",
-      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-      "stars": 10309,
-      "forks": 721,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI coworker with memory and collaboration",
+      "stars": 18011,
+      "forks": 1802,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T23:34:12Z",
-      "updated_at": "2026-10-13T23:34:19Z"
+      "pushed_at": "2026-10-14T02:50:25Z",
+      "updated_at": "2026-10-14T03:17:12Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8362,
-      "forks": 1237,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15658,
+      "forks": 1061,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T23:32:18Z",
-      "updated_at": "2026-10-13T23:16:16Z"
+      "pushed_at": "2026-10-14T03:13:43Z",
+      "updated_at": "2026-10-14T03:13:51Z"
     },
     {
-      "id": 1062234789,
-      "full_name": "JerryZLiu/Dayflow",
-      "html_url": "https://github.com/JerryZLiu/Dayflow",
-      "description": "The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 7266,
-      "forks": 442,
-      "language": "Swift",
-      "pushed_at": "2026-10-13T23:01:29Z",
-      "updated_at": "2026-10-13T23:01:33Z"
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 6110,
+      "forks": 977,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-14T03:08:32Z",
+      "updated_at": "2026-10-14T03:25:40Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5651,
-      "forks": 661,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-13T23:26:16Z",
-      "updated_at": "2026-10-13T23:21:59Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 726,
-      "forks": 128,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-13T23:14:18Z",
-      "updated_at": "2026-10-13T23:14:23Z"
-    },
-    {
-      "id": 1368167244,
-      "full_name": "DayuanJiang/PecoFence",
-      "html_url": "https://github.com/DayuanJiang/PecoFence",
-      "description": "A free, open-source Stardock Fences alternative for Windows 11. Glass fences, live folders, tabs, Peek. Rust, ten languages, portable.",
-      "stars": 480,
-      "forks": 26,
+      "id": 1046385861,
+      "full_name": "unhappychoice/gittype",
+      "html_url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "stars": 1634,
+      "forks": 45,
       "language": "Rust",
-      "pushed_at": "2026-10-13T23:14:23Z",
-      "updated_at": "2026-10-13T23:13:29Z"
+      "pushed_at": "2026-10-14T03:13:29Z",
+      "updated_at": "2026-10-14T03:13:32Z"
     },
     {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 480,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T22:57:02Z",
-      "updated_at": "2026-10-13T22:57:14Z"
+      "id": 1409660690,
+      "full_name": "LingCore/WinShun",
+      "html_url": "https://github.com/LingCore/WinShun",
+      "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
+      "stars": 281,
+      "forks": 22,
+      "language": "C++",
+      "pushed_at": "2026-10-14T03:37:56Z",
+      "updated_at": "2026-10-14T03:38:00Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/Quosparr",
+      "html_url": "https://github.com/Licoy/Quosparr",
+      "description": "📊 Native macOS、Windows、Linux menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management | 📊  原生 macOS、Windows、Linux 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
+      "stars": 276,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-10-14T03:19:11Z",
+      "updated_at": "2026-10-14T03:37:46Z"
     },
     {
       "id": 1133241492,
@@ -103,8 +92,8 @@
       "stars": 268,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T23:30:40Z",
-      "updated_at": "2026-10-13T22:50:00Z"
+      "pushed_at": "2026-10-14T03:09:08Z",
+      "updated_at": "2026-10-14T02:46:52Z"
     },
     {
       "id": 670118185,
@@ -114,63 +103,74 @@
       "stars": 184,
       "forks": 9,
       "language": "AutoHotkey",
-      "pushed_at": "2026-10-13T23:28:42Z",
-      "updated_at": "2026-10-13T22:33:06Z"
+      "pushed_at": "2026-10-14T03:37:22Z",
+      "updated_at": "2026-10-14T03:37:12Z"
+    },
+    {
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 180,
+      "forks": 16,
+      "language": "Swift",
+      "pushed_at": "2026-10-14T03:15:25Z",
+      "updated_at": "2026-10-14T03:15:29Z"
     },
     {
       "id": 1140929355,
       "full_name": "krelltunez/dayGLANCE",
       "html_url": "https://github.com/krelltunez/dayGLANCE",
       "description": "Your day, at a glance",
-      "stars": 173,
+      "stars": 172,
       "forks": 19,
       "language": "JavaScript",
-      "pushed_at": "2026-10-13T23:20:12Z",
-      "updated_at": "2026-10-13T22:52:09Z"
+      "pushed_at": "2026-10-14T02:45:57Z",
+      "updated_at": "2026-10-14T02:45:34Z"
     },
     {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 149,
-      "forks": 0,
+      "id": 1206500150,
+      "full_name": "krelltunez/lifeGLANCE",
+      "html_url": "https://github.com/krelltunez/lifeGLANCE",
+      "description": "Your life, at a glance",
+      "stars": 158,
+      "forks": 13,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-14T02:57:35Z",
+      "updated_at": "2026-10-14T02:57:26Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 111,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-10-14T03:12:15Z",
+      "updated_at": "2026-10-14T03:12:18Z"
+    },
+    {
+      "id": 1228480462,
+      "full_name": "krelltunez/lastGLANCE",
+      "html_url": "https://github.com/krelltunez/lastGLANCE",
+      "description": "When did you last...?",
+      "stars": 100,
+      "forks": 6,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T23:29:13Z",
-      "updated_at": "2026-10-13T23:29:20Z"
+      "pushed_at": "2026-10-14T02:44:41Z",
+      "updated_at": "2026-10-14T02:44:12Z"
     },
     {
-      "id": 1337168270,
-      "full_name": "ldbumble/taskuary",
-      "html_url": "https://github.com/ldbumble/taskuary",
-      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
-      "stars": 138,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-10-13T23:21:40Z",
-      "updated_at": "2026-10-13T23:21:44Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 118,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-10-13T22:11:40Z",
-      "updated_at": "2026-10-13T22:11:44Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-10-13T23:12:06Z",
-      "updated_at": "2026-10-13T23:12:10Z"
+      "id": 1327537984,
+      "full_name": "dccif/KeySteer",
+      "html_url": "https://github.com/dccif/KeySteer",
+      "description": "Keyboard-driven mouse and window management for Windows and macOS — Vim-style navigation, accessibility UI hints, tiling, tabs, and workspaces.",
+      "stars": 89,
+      "forks": 5,
+      "language": "Rust",
+      "pushed_at": "2026-10-14T03:34:47Z",
+      "updated_at": "2026-10-14T03:34:52Z"
     }
   ]
 }
