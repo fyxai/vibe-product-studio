@@ -5,73 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1194,
+  "total_found": 1195,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 83376,
-      "forks": 5294,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15671,
+      "forks": 1062,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T03:10:54Z",
+      "updated_at": "2026-10-15T03:10:56Z"
+    },
+    {
+      "id": 475337801,
+      "full_name": "massCodeIO/massCode",
+      "html_url": "https://github.com/massCodeIO/massCode",
+      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+      "stars": 7072,
+      "forks": 278,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T03:10:37Z",
+      "updated_at": "2026-10-15T03:10:38Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5833,
+      "forks": 780,
+      "language": "Elixir",
+      "pushed_at": "2026-10-15T03:07:27Z",
+      "updated_at": "2026-10-15T01:59:50Z"
+    },
+    {
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2256,
+      "forks": 143,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T02:59:59Z",
+      "updated_at": "2026-10-15T03:00:04Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 1163,
+      "forks": 71,
       "language": "Rust",
-      "pushed_at": "2026-10-14T22:54:51Z",
-      "updated_at": "2026-10-14T22:53:11Z"
+      "pushed_at": "2026-10-15T03:09:58Z",
+      "updated_at": "2026-10-15T02:04:15Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12471,
-      "forks": 1571,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-14T22:56:11Z",
-      "updated_at": "2026-10-14T22:56:17Z"
+      "id": 1324755488,
+      "full_name": "Lertaro/Lertaro",
+      "html_url": "https://github.com/Lertaro/Lertaro",
+      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
+      "stars": 1113,
+      "forks": 52,
+      "language": "C#",
+      "pushed_at": "2026-10-15T02:42:51Z",
+      "updated_at": "2026-10-15T02:42:56Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8369,
-      "forks": 1239,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-14T22:39:51Z",
-      "updated_at": "2026-10-14T22:31:36Z"
+      "id": 1165281056,
+      "full_name": "miragecoa/AI-Cubby",
+      "html_url": "https://github.com/miragecoa/AI-Cubby",
+      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
+      "stars": 374,
+      "forks": 7,
+      "language": "Vue",
+      "pushed_at": "2026-10-15T02:06:59Z",
+      "updated_at": "2026-10-15T02:07:03Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5656,
-      "forks": 664,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-14T22:32:10Z",
-      "updated_at": "2026-10-14T22:32:16Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 728,
-      "forks": 128,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-14T22:39:44Z",
-      "updated_at": "2026-10-14T22:39:50Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 346,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-14T22:49:01Z",
-      "updated_at": "2026-10-14T22:47:01Z"
+      "id": 1283466765,
+      "full_name": "Licoy/Quosparr",
+      "html_url": "https://github.com/Licoy/Quosparr",
+      "description": "📊 Native macOS、Windows、Linux menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management | 📊  原生 macOS、Windows、Linux 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
+      "stars": 284,
+      "forks": 16,
+      "language": "Go",
+      "pushed_at": "2026-10-15T01:36:20Z",
+      "updated_at": "2026-10-15T01:36:25Z"
     },
     {
       "id": 1133241492,
@@ -81,19 +103,30 @@
       "stars": 268,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T22:07:55Z",
-      "updated_at": "2026-10-14T22:08:03Z"
+      "pushed_at": "2026-10-15T02:11:15Z",
+      "updated_at": "2026-10-15T02:11:20Z"
     },
     {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 234,
-      "forks": 27,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-14T22:08:46Z",
-      "updated_at": "2026-10-14T22:07:58Z"
+      "id": 1289484140,
+      "full_name": "flyl1u/FocuSD",
+      "html_url": "https://github.com/flyl1u/FocuSD",
+      "description": "这是一款轻量的PC灵动岛，帮助你更好的专注工作，包含剪贴板历史、快捷翻译、Codex状态灯、媒体控制、每日待办，支持液态玻璃效果。This is a lightweight Dynamic Island for PC that helps you focus better on work. It includes clipboard history, quick translation, a Codex status light, media controls, and daily to-dos, and supports a liquid glass effect.",
+      "stars": 215,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T03:15:08Z",
+      "updated_at": "2026-10-15T03:15:11Z"
+    },
+    {
+      "id": 670118185,
+      "full_name": "zhugecaomao/ALTRun",
+      "html_url": "https://github.com/zhugecaomao/ALTRun",
+      "description": "A lightweight, open-source Alfred-style launcher for Windows.",
+      "stars": 186,
+      "forks": 9,
+      "language": "AutoHotkey",
+      "pushed_at": "2026-10-15T01:38:05Z",
+      "updated_at": "2026-10-15T01:38:02Z"
     },
     {
       "id": 1133644268,
@@ -103,74 +136,41 @@
       "stars": 184,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T22:57:58Z",
-      "updated_at": "2026-10-14T22:57:02Z"
+      "pushed_at": "2026-10-15T02:11:49Z",
+      "updated_at": "2026-10-15T01:40:47Z"
     },
     {
-      "id": 1132086156,
-      "full_name": "ctrlaltwill/LearnKit",
-      "html_url": "https://github.com/ctrlaltwill/LearnKit",
-      "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
-      "stars": 182,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-14T22:41:56Z",
-      "updated_at": "2026-10-14T22:41:59Z"
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 172,
+      "forks": 19,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-15T03:17:45Z",
+      "updated_at": "2026-10-15T03:11:35Z"
     },
     {
       "id": 1138989235,
       "full_name": "AI-WorkDeck/aiworkdeck",
       "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
       "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
-      "stars": 161,
+      "stars": 162,
       "forks": 16,
       "language": "Java",
-      "pushed_at": "2026-10-14T22:28:45Z",
-      "updated_at": "2026-10-14T22:28:48Z"
+      "pushed_at": "2026-10-15T02:33:59Z",
+      "updated_at": "2026-10-15T02:34:05Z"
     },
     {
-      "id": 1337168270,
-      "full_name": "ldbumble/taskuary",
-      "html_url": "https://github.com/ldbumble/taskuary",
-      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
-      "stars": 138,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-10-14T22:55:18Z",
-      "updated_at": "2026-10-14T22:55:22Z"
-    },
-    {
-      "id": 1284688466,
-      "full_name": "gyorgysh/keepresso",
-      "html_url": "https://github.com/gyorgysh/keepresso",
-      "description": "Keep your Mac awake on your terms. A native macOS menu-bar app with condition-based triggers, closed-display mode, and a headless-Mac toolkit. Built for AI agents, servers, and always-on Macs.",
-      "stars": 107,
-      "forks": 7,
-      "language": "Swift",
-      "pushed_at": "2026-10-14T22:37:27Z",
-      "updated_at": "2026-10-14T22:37:30Z"
-    },
-    {
-      "id": 1211152788,
-      "full_name": "jdpolasky/ai-chief-of-staff",
-      "html_url": "https://github.com/jdpolasky/ai-chief-of-staff",
-      "description": "The original AI Chief of Staff built on Claude Code and Obsidian. ADHD prosthetic, open to anyone. Superseded by chief-of-staff-2.",
-      "stars": 107,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-10-14T22:21:36Z",
-      "updated_at": "2026-10-14T22:25:37Z"
-    },
-    {
-      "id": 1155372026,
-      "full_name": "kawayiYokami/P-ai",
-      "html_url": "https://github.com/kawayiYokami/P-ai",
-      "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
-      "stars": 103,
-      "forks": 19,
-      "language": "Rust",
-      "pushed_at": "2026-10-14T22:07:24Z",
-      "updated_at": "2026-10-14T22:07:25Z"
+      "id": 1281865940,
+      "full_name": "drewnekota/cetus",
+      "html_url": "https://github.com/drewnekota/cetus",
+      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+      "stars": 147,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T03:18:39Z",
+      "updated_at": "2026-10-15T03:18:41Z"
     }
   ]
 }
