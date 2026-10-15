@@ -8,48 +8,70 @@
   "total_found": 1195,
   "items": [
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15671,
-      "forks": 1062,
+      "id": 953521037,
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "stars": 36256,
+      "forks": 3852,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:10:54Z",
-      "updated_at": "2026-10-15T03:10:56Z"
+      "pushed_at": "2026-10-15T08:36:54Z",
+      "updated_at": "2026-10-15T08:37:16Z"
     },
     {
-      "id": 475337801,
-      "full_name": "massCodeIO/massCode",
-      "html_url": "https://github.com/massCodeIO/massCode",
-      "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
-      "stars": 7072,
-      "forks": 278,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:10:37Z",
-      "updated_at": "2026-10-15T03:10:38Z"
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27520,
+      "forks": 2437,
+      "language": "Go",
+      "pushed_at": "2026-10-15T08:48:49Z",
+      "updated_at": "2026-10-15T08:48:32Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5833,
-      "forks": 780,
-      "language": "Elixir",
-      "pushed_at": "2026-10-15T03:07:27Z",
-      "updated_at": "2026-10-15T01:59:50Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8372,
+      "forks": 1241,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T08:45:30Z",
+      "updated_at": "2026-10-15T08:28:16Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2256,
-      "forks": 143,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T02:59:59Z",
-      "updated_at": "2026-10-15T03:00:04Z"
+      "id": 1062234789,
+      "full_name": "JerryZLiu/Dayflow",
+      "html_url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 7269,
+      "forks": 445,
+      "language": "Swift",
+      "pushed_at": "2026-10-15T08:04:13Z",
+      "updated_at": "2026-10-15T08:04:17Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3343,
+      "forks": 153,
+      "language": "Swift",
+      "pushed_at": "2026-10-15T08:46:05Z",
+      "updated_at": "2026-10-15T08:46:11Z"
+    },
+    {
+      "id": 1177941774,
+      "full_name": "wm94i/Work-Review",
+      "html_url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "stars": 1812,
+      "forks": 118,
+      "language": "Rust",
+      "pushed_at": "2026-10-15T08:35:43Z",
+      "updated_at": "2026-10-15T08:18:47Z"
     },
     {
       "id": 1201098277,
@@ -59,41 +81,30 @@
       "stars": 1163,
       "forks": 71,
       "language": "Rust",
-      "pushed_at": "2026-10-15T03:09:58Z",
-      "updated_at": "2026-10-15T02:04:15Z"
+      "pushed_at": "2026-10-15T08:06:56Z",
+      "updated_at": "2026-10-15T08:06:55Z"
     },
     {
-      "id": 1324755488,
-      "full_name": "Lertaro/Lertaro",
-      "html_url": "https://github.com/Lertaro/Lertaro",
-      "description": "A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MFT parsing, real-time USN monitoring, and plugin support.",
-      "stars": 1113,
-      "forks": 52,
-      "language": "C#",
-      "pushed_at": "2026-10-15T02:42:51Z",
-      "updated_at": "2026-10-15T02:42:56Z"
+      "id": 1126665558,
+      "full_name": "3xpyth0n/ideon",
+      "html_url": "https://github.com/3xpyth0n/ideon",
+      "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.",
+      "stars": 640,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T08:00:37Z",
+      "updated_at": "2026-10-15T08:00:43Z"
     },
     {
-      "id": 1165281056,
-      "full_name": "miragecoa/AI-Cubby",
-      "html_url": "https://github.com/miragecoa/AI-Cubby",
-      "description": "Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。",
-      "stars": 374,
-      "forks": 7,
-      "language": "Vue",
-      "pushed_at": "2026-10-15T02:06:59Z",
-      "updated_at": "2026-10-15T02:07:03Z"
-    },
-    {
-      "id": 1283466765,
-      "full_name": "Licoy/Quosparr",
-      "html_url": "https://github.com/Licoy/Quosparr",
-      "description": "📊 Native macOS、Windows、Linux menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management | 📊  原生 macOS、Windows、Linux 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。",
-      "stars": 284,
-      "forks": 16,
-      "language": "Go",
-      "pushed_at": "2026-10-15T01:36:20Z",
-      "updated_at": "2026-10-15T01:36:25Z"
+      "id": 1409305885,
+      "full_name": "opennookorg/betterwispr",
+      "html_url": "https://github.com/opennookorg/betterwispr",
+      "description": "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.",
+      "stars": 330,
+      "forks": 22,
+      "language": "Swift",
+      "pushed_at": "2026-10-15T08:45:05Z",
+      "updated_at": "2026-10-15T08:44:24Z"
     },
     {
       "id": 1133241492,
@@ -103,52 +114,30 @@
       "stars": 268,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T02:11:15Z",
-      "updated_at": "2026-10-15T02:11:20Z"
+      "pushed_at": "2026-10-15T08:50:35Z",
+      "updated_at": "2026-10-15T08:50:41Z"
     },
     {
-      "id": 1289484140,
-      "full_name": "flyl1u/FocuSD",
-      "html_url": "https://github.com/flyl1u/FocuSD",
-      "description": "这是一款轻量的PC灵动岛，帮助你更好的专注工作，包含剪贴板历史、快捷翻译、Codex状态灯、媒体控制、每日待办，支持液态玻璃效果。This is a lightweight Dynamic Island for PC that helps you focus better on work. It includes clipboard history, quick translation, a Codex status light, media controls, and daily to-dos, and supports a liquid glass effect.",
-      "stars": 215,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:15:08Z",
-      "updated_at": "2026-10-15T03:15:11Z"
+      "id": 1248011924,
+      "full_name": "lanxiuyun/Catrace",
+      "html_url": "https://github.com/lanxiuyun/Catrace",
+      "description": "Catrace: Every notify is a Plugin! Catrace 是一个桌面小窗系统，由插件决定小窗的展示方式与交互形式。 VSCode 提供代码视窗，插件提供能力；Catrace 提供小窗视窗，插件提供内容。久坐提醒是 Catrace 的首个插件，未来还将有更多能力以插件的形式接入。",
+      "stars": 263,
+      "forks": 20,
+      "language": "Rust",
+      "pushed_at": "2026-10-15T08:19:32Z",
+      "updated_at": "2026-10-15T08:19:36Z"
     },
     {
-      "id": 670118185,
-      "full_name": "zhugecaomao/ALTRun",
-      "html_url": "https://github.com/zhugecaomao/ALTRun",
-      "description": "A lightweight, open-source Alfred-style launcher for Windows.",
-      "stars": 186,
-      "forks": 9,
-      "language": "AutoHotkey",
-      "pushed_at": "2026-10-15T01:38:05Z",
-      "updated_at": "2026-10-15T01:38:02Z"
-    },
-    {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The control plane for your AI employees",
-      "stars": 184,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T02:11:49Z",
-      "updated_at": "2026-10-15T01:40:47Z"
-    },
-    {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 172,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-15T03:17:45Z",
-      "updated_at": "2026-10-15T03:11:35Z"
+      "id": 1379726830,
+      "full_name": "Earendel-lab/Tapbar",
+      "html_url": "https://github.com/Earendel-lab/Tapbar",
+      "description": "Launch any app or trigger quick actions from the status bar or anywhere on your screen.",
+      "stars": 169,
+      "forks": 5,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-15T07:52:26Z",
+      "updated_at": "2026-10-15T07:52:31Z"
     },
     {
       "id": 1138989235,
@@ -158,19 +147,30 @@
       "stars": 162,
       "forks": 16,
       "language": "Java",
-      "pushed_at": "2026-10-15T02:33:59Z",
-      "updated_at": "2026-10-15T02:34:05Z"
+      "pushed_at": "2026-10-15T08:34:28Z",
+      "updated_at": "2026-10-15T08:34:25Z"
     },
     {
-      "id": 1281865940,
-      "full_name": "drewnekota/cetus",
-      "html_url": "https://github.com/drewnekota/cetus",
-      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
-      "stars": 147,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:18:39Z",
-      "updated_at": "2026-10-15T03:18:41Z"
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 161,
+      "forks": 10,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-15T08:20:37Z",
+      "updated_at": "2026-10-15T08:20:41Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 110,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-10-15T08:32:16Z",
+      "updated_at": "2026-10-15T08:32:21Z"
     }
   ]
 }
