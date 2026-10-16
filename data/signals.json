@@ -5,139 +5,95 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1197,
+  "total_found": 1198,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27528,
-      "forks": 2438,
-      "language": "Go",
-      "pushed_at": "2026-10-16T15:34:11Z",
-      "updated_at": "2026-10-16T15:34:15Z"
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 83621,
+      "forks": 5309,
+      "language": "Rust",
+      "pushed_at": "2026-10-16T20:41:17Z",
+      "updated_at": "2026-10-16T22:29:22Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22873,
-      "forks": 2159,
+      "stars": 22880,
+      "forks": 2160,
       "language": "TypeScript",
-      "pushed_at": "2026-10-16T15:53:24Z",
-      "updated_at": "2026-10-16T16:05:34Z"
+      "pushed_at": "2026-10-16T21:57:26Z",
+      "updated_at": "2026-10-16T21:57:29Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12576,
-      "forks": 1587,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8385,
+      "forks": 1246,
       "language": "TypeScript",
-      "pushed_at": "2026-10-16T15:58:26Z",
-      "updated_at": "2026-10-16T15:52:17Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 10267,
-      "forks": 318,
-      "language": "C++",
-      "pushed_at": "2026-10-16T15:56:45Z",
-      "updated_at": "2026-10-16T15:56:52Z"
+      "pushed_at": "2026-10-16T22:30:21Z",
+      "updated_at": "2026-10-16T22:29:24Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5833,
+      "stars": 5834,
       "forks": 780,
       "language": "Elixir",
-      "pushed_at": "2026-10-16T16:06:13Z",
-      "updated_at": "2026-10-16T15:26:31Z"
+      "pushed_at": "2026-10-16T22:03:30Z",
+      "updated_at": "2026-10-16T21:14:28Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1569,
-      "forks": 56,
-      "language": "Rust",
-      "pushed_at": "2026-10-16T15:41:39Z",
-      "updated_at": "2026-10-16T15:41:45Z"
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
+      "stars": 1466,
+      "forks": 259,
+      "language": "HTML",
+      "pushed_at": "2026-10-16T21:32:43Z",
+      "updated_at": "2026-10-16T21:32:25Z"
     },
     {
-      "id": 1234008446,
-      "full_name": "hsr88/mouzi",
-      "html_url": "https://github.com/hsr88/mouzi",
-      "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.",
-      "stars": 1040,
-      "forks": 43,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 271,
+      "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-10-16T15:46:14Z",
-      "updated_at": "2026-10-16T15:46:19Z"
+      "pushed_at": "2026-10-16T21:42:51Z",
+      "updated_at": "2026-10-16T21:42:56Z"
     },
     {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-      "stars": 660,
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 236,
       "forks": 12,
-      "language": "Python",
-      "pushed_at": "2026-10-16T16:06:49Z",
-      "updated_at": "2026-10-16T16:02:23Z"
+      "language": "Rust",
+      "pushed_at": "2026-10-16T22:02:38Z",
+      "updated_at": "2026-10-16T22:02:43Z"
     },
     {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 464,
-      "forks": 93,
-      "language": "Go",
-      "pushed_at": "2026-10-16T16:00:05Z",
-      "updated_at": "2026-10-16T15:55:00Z"
-    },
-    {
-      "id": 1073657969,
-      "full_name": "qf-studio/navigator",
-      "html_url": "https://github.com/qf-studio/navigator",
-      "description": "Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.",
-      "stars": 354,
-      "forks": 20,
-      "language": "Python",
-      "pushed_at": "2026-10-16T15:22:12Z",
-      "updated_at": "2026-10-16T15:22:17Z"
-    },
-    {
-      "id": 163642755,
-      "full_name": "cuongtk8/awesome-linux-apps",
-      "html_url": "https://github.com/cuongtk8/awesome-linux-apps",
-      "description": "🚀 A list of awesome applications for 🐧 Linux distributions.",
-      "stars": 261,
-      "forks": 56,
-      "language": "Unknown",
-      "pushed_at": "2026-10-16T16:04:38Z",
-      "updated_at": "2026-10-16T16:04:43Z"
-    },
-    {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 171,
-      "forks": 8,
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 185,
+      "forks": 16,
       "language": "Swift",
-      "pushed_at": "2026-10-16T15:58:13Z",
-      "updated_at": "2026-10-16T15:58:17Z"
+      "pushed_at": "2026-10-16T22:26:37Z",
+      "updated_at": "2026-10-16T22:26:40Z"
     },
     {
       "id": 1264434310,
@@ -147,19 +103,19 @@
       "stars": 157,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-16T15:21:47Z",
-      "updated_at": "2026-10-16T15:16:39Z"
+      "pushed_at": "2026-10-16T21:09:09Z",
+      "updated_at": "2026-10-16T21:08:00Z"
     },
     {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 156,
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 139,
       "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-16T16:06:41Z",
-      "updated_at": "2026-10-16T16:06:23Z"
+      "language": "HTML",
+      "pushed_at": "2026-10-16T20:43:11Z",
+      "updated_at": "2026-10-16T20:43:14Z"
     },
     {
       "id": 1337168270,
@@ -169,8 +125,52 @@
       "stars": 138,
       "forks": 52,
       "language": "Python",
-      "pushed_at": "2026-10-16T15:57:40Z",
-      "updated_at": "2026-10-16T15:59:08Z"
+      "pushed_at": "2026-10-16T21:07:48Z",
+      "updated_at": "2026-10-16T21:07:54Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-16T22:24:52Z",
+      "updated_at": "2026-10-16T22:24:56Z"
+    },
+    {
+      "id": 353529401,
+      "full_name": "ggfto/DroidDeck",
+      "html_url": "https://github.com/ggfto/DroidDeck",
+      "description": "Turn an Android phone into a Stream Deck for Windows: hotkeys, macros, per-app audio mixer, media, live CPU/GPU stats, Discord, OBS, soundboard and Tuya smart home. Flutter app + .NET 8 tray server.",
+      "stars": 110,
+      "forks": 6,
+      "language": "C#",
+      "pushed_at": "2026-10-16T22:24:10Z",
+      "updated_at": "2026-10-16T22:24:10Z"
+    },
+    {
+      "id": 1288917117,
+      "full_name": "PGHQdev/OpenScreenShot",
+      "html_url": "https://github.com/PGHQdev/OpenScreenShot",
+      "description": "OpenScreenShot is a privacy-first, free, open-source screenshot extension -- zero data leaves your device, no account needed, no telemetry, no third-party services.",
+      "stars": 84,
+      "forks": 7,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-16T22:28:05Z",
+      "updated_at": "2026-10-16T22:19:40Z"
+    },
+    {
+      "id": 1029731706,
+      "full_name": "mgsgde/whisper-shortcut",
+      "html_url": "https://github.com/mgsgde/whisper-shortcut",
+      "description": "Voice-first macOS menu bar app: dictate, voice-edit clipboard, read aloud, AI chat with Google/Trello tools, and live meeting notes. Bring your own keys (Gemini, GPT, Grok) or run offline with Whisper.",
+      "stars": 74,
+      "forks": 10,
+      "language": "Swift",
+      "pushed_at": "2026-10-16T22:26:28Z",
+      "updated_at": "2026-10-16T22:26:32Z"
     }
   ]
 }
