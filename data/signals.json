@@ -8,15 +8,15 @@
   "total_found": 1197,
   "items": [
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12507,
-      "forks": 1576,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15683,
+      "forks": 1063,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T22:26:42Z",
-      "updated_at": "2026-10-15T22:40:56Z"
+      "pushed_at": "2026-10-16T02:24:59Z",
+      "updated_at": "2026-10-16T02:54:44Z"
     },
     {
       "id": 189829392,
@@ -24,76 +24,76 @@
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "stars": 8380,
-      "forks": 1244,
+      "forks": 1245,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T22:49:54Z",
-      "updated_at": "2026-10-15T22:47:29Z"
+      "pushed_at": "2026-10-16T03:03:52Z",
+      "updated_at": "2026-10-16T02:25:59Z"
     },
     {
-      "id": 154173536,
-      "full_name": "alainm23/planify",
-      "html_url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "stars": 5752,
-      "forks": 343,
-      "language": "Vala",
-      "pushed_at": "2026-10-15T21:59:22Z",
-      "updated_at": "2026-10-15T21:59:28Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 4235,
+      "forks": 319,
+      "language": "Python",
+      "pushed_at": "2026-10-16T01:54:18Z",
+      "updated_at": "2026-10-16T02:44:44Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5659,
-      "forks": 664,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-15T22:11:32Z",
-      "updated_at": "2026-10-15T22:11:39Z"
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2262,
+      "forks": 144,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-16T02:11:35Z",
+      "updated_at": "2026-10-16T02:11:41Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3344,
-      "forks": 154,
-      "language": "Swift",
-      "pushed_at": "2026-10-15T22:07:05Z",
-      "updated_at": "2026-10-15T22:07:13Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 728,
-      "forks": 128,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-15T22:01:33Z",
-      "updated_at": "2026-10-15T21:59:38Z"
-    },
-    {
-      "id": 1368167244,
-      "full_name": "DayuanJiang/PecoFence",
-      "html_url": "https://github.com/DayuanJiang/PecoFence",
-      "description": "A free, open-source Stardock Fences alternative for Windows 11. Glass fences, live folders, tabs, Peek. Rust, ten languages, portable.",
-      "stars": 524,
-      "forks": 28,
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1774,
+      "forks": 93,
       "language": "Rust",
-      "pushed_at": "2026-10-15T22:03:18Z",
-      "updated_at": "2026-10-15T22:03:24Z"
+      "pushed_at": "2026-10-16T01:36:30Z",
+      "updated_at": "2026-10-16T01:36:34Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 347,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T22:46:20Z",
-      "updated_at": "2026-10-15T22:46:25Z"
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 1164,
+      "forks": 71,
+      "language": "Rust",
+      "pushed_at": "2026-10-16T01:45:56Z",
+      "updated_at": "2026-10-16T01:45:58Z"
+    },
+    {
+      "id": 737267757,
+      "full_name": "insin/control-panel-for-youtube",
+      "html_url": "https://github.com/insin/control-panel-for-youtube",
+      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+      "stars": 399,
+      "forks": 19,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-16T01:29:31Z",
+      "updated_at": "2026-10-16T01:29:35Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/Quosparr",
+      "html_url": "https://github.com/Licoy/Quosparr",
+      "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
+      "stars": 288,
+      "forks": 17,
+      "language": "Go",
+      "pushed_at": "2026-10-16T02:14:24Z",
+      "updated_at": "2026-10-16T02:14:29Z"
     },
     {
       "id": 1133644268,
@@ -103,8 +103,30 @@
       "stars": 184,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T22:51:46Z",
-      "updated_at": "2026-10-15T22:32:10Z"
+      "pushed_at": "2026-10-16T02:53:40Z",
+      "updated_at": "2026-10-16T02:50:42Z"
+    },
+    {
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 184,
+      "forks": 16,
+      "language": "Swift",
+      "pushed_at": "2026-10-16T03:03:18Z",
+      "updated_at": "2026-10-16T02:32:04Z"
+    },
+    {
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 179,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-10-16T03:14:19Z",
+      "updated_at": "2026-10-16T03:14:23Z"
     },
     {
       "id": 1140929355,
@@ -114,8 +136,30 @@
       "stars": 173,
       "forks": 19,
       "language": "JavaScript",
-      "pushed_at": "2026-10-15T22:42:53Z",
-      "updated_at": "2026-10-15T22:42:53Z"
+      "pushed_at": "2026-10-16T03:11:30Z",
+      "updated_at": "2026-10-16T02:18:44Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "AI-WorkDeck/aiworkdeck",
+      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
+      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
+      "stars": 165,
+      "forks": 16,
+      "language": "Java",
+      "pushed_at": "2026-10-16T03:11:41Z",
+      "updated_at": "2026-10-16T03:11:47Z"
+    },
+    {
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 163,
+      "forks": 10,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-16T03:06:37Z",
+      "updated_at": "2026-10-16T03:06:41Z"
     },
     {
       "id": 1337168270,
@@ -125,52 +169,8 @@
       "stars": 138,
       "forks": 52,
       "language": "Python",
-      "pushed_at": "2026-10-15T22:40:30Z",
-      "updated_at": "2026-10-15T22:40:32Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 118,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-10-15T22:50:35Z",
-      "updated_at": "2026-10-15T22:50:39Z"
-    },
-    {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-10-15T21:59:21Z",
-      "updated_at": "2026-10-15T21:59:25Z"
-    },
-    {
-      "id": 353529401,
-      "full_name": "ggfto/DroidDeck",
-      "html_url": "https://github.com/ggfto/DroidDeck",
-      "description": "Turn an Android phone into a Stream Deck for Windows: hotkeys, macros, per-app audio mixer, media, live CPU/GPU stats, Discord, OBS, soundboard and Tuya smart home. Flutter app + .NET 8 tray server.",
-      "stars": 108,
-      "forks": 6,
-      "language": "C#",
-      "pushed_at": "2026-10-15T22:41:56Z",
-      "updated_at": "2026-10-15T22:41:57Z"
-    },
-    {
-      "id": 963138052,
-      "full_name": "msbelaid/PlugBrain",
-      "html_url": "https://github.com/msbelaid/PlugBrain",
-      "description": "A focus app that unlocks distracting apps only after solving adaptive math challenges.",
-      "stars": 93,
-      "forks": 25,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-15T22:36:05Z",
-      "updated_at": "2026-10-15T21:29:05Z"
+      "pushed_at": "2026-10-16T02:53:59Z",
+      "updated_at": "2026-10-16T02:54:03Z"
     }
   ]
 }
