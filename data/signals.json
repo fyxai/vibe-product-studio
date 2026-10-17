@@ -5,18 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1199,
+  "total_found": 1201,
   "items": [
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8384,
-      "forks": 1245,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 22888,
+      "forks": 2164,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T02:36:01Z",
-      "updated_at": "2026-10-17T02:39:15Z"
+      "pushed_at": "2026-10-17T08:13:05Z",
+      "updated_at": "2026-10-17T08:03:49Z"
+    },
+    {
+      "id": 353775942,
+      "full_name": "streetwriters/notesnook",
+      "html_url": "https://github.com/streetwriters/notesnook",
+      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+      "stars": 14771,
+      "forks": 1031,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-17T07:22:08Z",
+      "updated_at": "2026-10-17T07:22:09Z"
     },
     {
       "id": 11512043,
@@ -26,140 +37,85 @@
       "stars": 5660,
       "forks": 664,
       "language": "Kotlin",
-      "pushed_at": "2026-10-17T02:33:25Z",
-      "updated_at": "2026-10-17T02:32:28Z"
+      "pushed_at": "2026-10-17T08:15:19Z",
+      "updated_at": "2026-10-17T08:11:56Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2268,
-      "forks": 145,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T02:43:57Z",
-      "updated_at": "2026-10-17T02:44:02Z"
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1659,
+      "forks": 101,
+      "language": "Dart",
+      "pushed_at": "2026-10-17T07:56:00Z",
+      "updated_at": "2026-10-17T07:55:58Z"
     },
     {
-      "id": 260652021,
-      "full_name": "Razeeman/Android-SimpleTimeTracker",
-      "html_url": "https://github.com/Razeeman/Android-SimpleTimeTracker",
-      "description": "Simple app that tracks time.",
-      "stars": 1228,
-      "forks": 139,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-17T02:52:51Z",
-      "updated_at": "2026-10-17T02:52:56Z"
-    },
-    {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 1172,
-      "forks": 71,
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1571,
+      "forks": 57,
       "language": "Rust",
-      "pushed_at": "2026-10-17T02:57:34Z",
-      "updated_at": "2026-10-17T02:45:38Z"
+      "pushed_at": "2026-10-17T07:02:57Z",
+      "updated_at": "2026-10-17T07:03:02Z"
     },
     {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-      "stars": 671,
-      "forks": 12,
+      "id": 970875123,
+      "full_name": "TechNomadCode/AI-Product-Development-Toolkit",
+      "html_url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit",
+      "description": "Plan, build and launch products with AI: guided planning prompts, an AI App Starter for Next.js, Supabase and Vercel, and agent configurations.",
+      "stars": 1025,
+      "forks": 169,
+      "language": "Unknown",
+      "pushed_at": "2026-10-17T07:36:06Z",
+      "updated_at": "2026-10-17T07:35:02Z"
+    },
+    {
+      "id": 1234452803,
+      "full_name": "aayushch/laya",
+      "html_url": "https://github.com/aayushch/laya",
+      "description": "Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.",
+      "stars": 704,
+      "forks": 110,
       "language": "Python",
-      "pushed_at": "2026-10-17T02:46:55Z",
-      "updated_at": "2026-10-17T02:43:06Z"
+      "pushed_at": "2026-10-17T07:58:07Z",
+      "updated_at": "2026-10-17T07:57:12Z"
     },
     {
       "id": 1368167244,
       "full_name": "DayuanJiang/PecoFence",
       "html_url": "https://github.com/DayuanJiang/PecoFence",
       "description": "A free, open-source Stardock Fences alternative for Windows 11. Glass fences, live folders, tabs, Peek. Rust, ten languages, portable.",
-      "stars": 549,
+      "stars": 553,
       "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-10-17T01:55:53Z",
-      "updated_at": "2026-10-17T02:17:45Z"
+      "pushed_at": "2026-10-17T08:09:25Z",
+      "updated_at": "2026-10-17T08:09:14Z"
     },
     {
-      "id": 737267757,
-      "full_name": "insin/control-panel-for-youtube",
-      "html_url": "https://github.com/insin/control-panel-for-youtube",
-      "description": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
-      "stars": 402,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-17T02:41:30Z",
-      "updated_at": "2026-10-17T02:41:34Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
+      "id": 670118185,
+      "full_name": "zhugecaomao/ALTRun",
+      "html_url": "https://github.com/zhugecaomao/ALTRun",
+      "description": "A lightweight, open-source Alfred-style launcher for Windows.",
+      "stars": 189,
       "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T02:01:52Z",
-      "updated_at": "2026-10-17T02:01:55Z"
+      "language": "AutoHotkey",
+      "pushed_at": "2026-10-17T07:13:25Z",
+      "updated_at": "2026-10-17T07:13:27Z"
     },
     {
-      "id": 1009026205,
-      "full_name": "pchuri/confluence-cli",
-      "html_url": "https://github.com/pchuri/confluence-cli",
-      "description": "A powerful command-line interface for Atlassian Confluence",
-      "stars": 315,
-      "forks": 70,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-17T02:44:11Z",
-      "updated_at": "2026-10-17T02:44:13Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 271,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T02:40:06Z",
-      "updated_at": "2026-10-17T02:40:11Z"
-    },
-    {
-      "id": 1195674112,
-      "full_name": "hadziqmtqn/erd-builder-pro",
-      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
-      "stars": 206,
-      "forks": 41,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T03:05:27Z",
-      "updated_at": "2026-10-17T02:31:39Z"
-    },
-    {
-      "id": 1264852223,
-      "full_name": "bob-zebedy/CodexBar",
-      "html_url": "https://github.com/bob-zebedy/CodexBar",
-      "description": "CodexBar 是一个 macOS 菜单栏应用，用于查看本机 Codex 账号状态、额度、Token 用量、详细统计信息",
-      "stars": 192,
-      "forks": 6,
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 185,
+      "forks": 16,
       "language": "Swift",
-      "pushed_at": "2026-10-17T02:26:54Z",
-      "updated_at": "2026-10-17T03:02:10Z"
-    },
-    {
-      "id": 1412610162,
-      "full_name": "SaarthurR/atticus-mac",
-      "html_url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 186,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-10-17T02:27:06Z",
-      "updated_at": "2026-10-17T02:27:10Z"
+      "pushed_at": "2026-10-17T07:33:42Z",
+      "updated_at": "2026-10-17T07:33:46Z"
     },
     {
       "id": 1281898617,
@@ -169,8 +125,52 @@
       "stars": 167,
       "forks": 10,
       "language": "Kotlin",
-      "pushed_at": "2026-10-17T03:04:27Z",
-      "updated_at": "2026-10-17T03:04:30Z"
+      "pushed_at": "2026-10-17T07:47:34Z",
+      "updated_at": "2026-10-17T07:47:37Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "AI-WorkDeck/aiworkdeck",
+      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
+      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
+      "stars": 166,
+      "forks": 16,
+      "language": "Java",
+      "pushed_at": "2026-10-17T07:44:39Z",
+      "updated_at": "2026-10-17T07:44:34Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 110,
+      "forks": 14,
+      "language": "Rust",
+      "pushed_at": "2026-10-17T08:09:10Z",
+      "updated_at": "2026-10-17T08:09:12Z"
+    },
+    {
+      "id": 616847538,
+      "full_name": "cattr-app/server-application",
+      "html_url": "https://github.com/cattr-app/server-application",
+      "description": "Cattr server application - self-hosted time tracking with project management, reports, screenshots, activity tracking and public API",
+      "stars": 103,
+      "forks": 57,
+      "language": "PHP",
+      "pushed_at": "2026-10-17T07:57:59Z",
+      "updated_at": "2026-10-17T07:58:02Z"
+    },
+    {
+      "id": 963138052,
+      "full_name": "msbelaid/PlugBrain",
+      "html_url": "https://github.com/msbelaid/PlugBrain",
+      "description": "A focus app that unlocks distracting apps only after solving adaptive math challenges.",
+      "stars": 93,
+      "forks": 25,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-17T08:07:31Z",
+      "updated_at": "2026-10-17T08:07:33Z"
     }
   ]
 }
