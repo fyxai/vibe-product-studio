@@ -5,40 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1204,
+  "total_found": 1205,
   "items": [
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27528,
+      "forks": 2438,
+      "language": "Go",
+      "pushed_at": "2026-10-18T08:14:46Z",
+      "updated_at": "2026-10-18T08:14:55Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 15813,
+      "forks": 663,
+      "language": "C#",
+      "pushed_at": "2026-10-18T08:02:50Z",
+      "updated_at": "2026-10-18T08:03:00Z"
+    },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8387,
+      "stars": 8389,
       "forks": 1246,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T03:04:18Z",
-      "updated_at": "2026-10-18T02:17:07Z"
+      "pushed_at": "2026-10-18T08:25:30Z",
+      "updated_at": "2026-10-18T08:22:32Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2277,
-      "forks": 146,
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 6318,
+      "forks": 590,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T02:56:25Z",
-      "updated_at": "2026-10-18T02:56:29Z"
-    },
-    {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 2064,
-      "forks": 222,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-18T02:53:58Z",
-      "updated_at": "2026-10-18T02:54:02Z"
+      "pushed_at": "2026-10-18T08:28:10Z",
+      "updated_at": "2026-10-18T08:30:18Z"
     },
     {
       "id": 1148683593,
@@ -48,30 +59,19 @@
       "stars": 1571,
       "forks": 57,
       "language": "Rust",
-      "pushed_at": "2026-10-18T02:50:49Z",
-      "updated_at": "2026-10-18T02:50:53Z"
+      "pushed_at": "2026-10-18T08:25:58Z",
+      "updated_at": "2026-10-18T08:26:02Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1105,
+      "stars": 1106,
       "forks": 200,
       "language": "Go",
-      "pushed_at": "2026-10-18T02:48:33Z",
-      "updated_at": "2026-10-18T02:47:02Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 905,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-10-18T02:56:36Z",
-      "updated_at": "2026-10-18T02:56:39Z"
+      "pushed_at": "2026-10-18T08:27:40Z",
+      "updated_at": "2026-10-18T08:15:11Z"
     },
     {
       "id": 1234452803,
@@ -81,19 +81,19 @@
       "stars": 709,
       "forks": 110,
       "language": "Python",
-      "pushed_at": "2026-10-18T02:33:15Z",
-      "updated_at": "2026-10-18T02:32:04Z"
+      "pushed_at": "2026-10-18T08:31:28Z",
+      "updated_at": "2026-10-18T08:25:25Z"
     },
     {
-      "id": 1283466765,
-      "full_name": "Licoy/Quosparr",
-      "html_url": "https://github.com/Licoy/Quosparr",
-      "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
-      "stars": 293,
-      "forks": 17,
-      "language": "Go",
-      "pushed_at": "2026-10-18T03:07:09Z",
-      "updated_at": "2026-10-18T03:07:13Z"
+      "id": 1311664525,
+      "full_name": "KitionAI/kition",
+      "html_url": "https://github.com/KitionAI/kition",
+      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
+      "stars": 510,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-18T08:09:25Z",
+      "updated_at": "2026-10-18T08:09:29Z"
     },
     {
       "id": 1227213243,
@@ -103,8 +103,8 @@
       "stars": 276,
       "forks": 17,
       "language": "Python",
-      "pushed_at": "2026-10-18T02:43:34Z",
-      "updated_at": "2026-10-18T02:43:38Z"
+      "pushed_at": "2026-10-18T07:40:05Z",
+      "updated_at": "2026-10-18T07:40:09Z"
     },
     {
       "id": 1133241492,
@@ -114,8 +114,8 @@
       "stars": 271,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T03:07:02Z",
-      "updated_at": "2026-10-18T02:28:01Z"
+      "pushed_at": "2026-10-18T08:28:38Z",
+      "updated_at": "2026-10-18T07:59:30Z"
     },
     {
       "id": 1195674112,
@@ -125,8 +125,19 @@
       "stars": 206,
       "forks": 41,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T02:41:37Z",
-      "updated_at": "2026-10-18T02:40:31Z"
+      "pushed_at": "2026-10-18T08:22:38Z",
+      "updated_at": "2026-10-18T08:22:42Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 190,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-10-18T08:31:57Z",
+      "updated_at": "2026-10-18T08:32:00Z"
     },
     {
       "id": 1161274003,
@@ -134,43 +145,32 @@
       "html_url": "https://github.com/saurabhav88/EnviousWispr",
       "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
       "stars": 187,
-      "forks": 16,
+      "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-10-18T02:34:32Z",
-      "updated_at": "2026-10-18T02:12:18Z"
+      "pushed_at": "2026-10-18T08:25:18Z",
+      "updated_at": "2026-10-18T08:03:00Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 174,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-18T02:20:20Z",
-      "updated_at": "2026-10-18T02:12:20Z"
+      "id": 1338829187,
+      "full_name": "GlitchAwakened/Favnyr",
+      "html_url": "https://github.com/GlitchAwakened/Favnyr",
+      "description": "A modern and lightweight file manager for Windows and Linux",
+      "stars": 134,
+      "forks": 6,
+      "language": "Rust",
+      "pushed_at": "2026-10-18T08:00:18Z",
+      "updated_at": "2026-10-18T07:48:45Z"
     },
     {
-      "id": 1138989235,
-      "full_name": "AI-WorkDeck/aiworkdeck",
-      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
-      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
-      "stars": 166,
-      "forks": 16,
-      "language": "Java",
-      "pushed_at": "2026-10-18T02:29:08Z",
-      "updated_at": "2026-10-18T02:29:14Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 156,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-18T01:59:55Z",
-      "updated_at": "2026-10-18T01:59:57Z"
+      "id": 1355857144,
+      "full_name": "theguysudo/ENZO",
+      "html_url": "https://github.com/theguysudo/ENZO",
+      "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+      "stars": 114,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-18T07:41:28Z",
+      "updated_at": "2026-10-18T07:41:32Z"
     }
   ]
 }
