@@ -8,136 +8,92 @@
   "total_found": 1209,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 40173,
-      "forks": 3978,
-      "language": "C#",
-      "pushed_at": "2026-10-18T21:45:57Z",
-      "updated_at": "2026-10-18T21:46:01Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22928,
-      "forks": 2168,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15723,
+      "forks": 1062,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T22:10:30Z",
-      "updated_at": "2026-10-18T21:26:28Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8392,
-      "forks": 1248,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-18T21:59:37Z",
-      "updated_at": "2026-10-18T22:06:01Z"
+      "pushed_at": "2026-10-19T02:18:25Z",
+      "updated_at": "2026-10-19T02:48:30Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2281,
-      "forks": 147,
+      "stars": 2284,
+      "forks": 148,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T21:41:00Z",
-      "updated_at": "2026-10-18T21:41:04Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 1991,
-      "forks": 152,
-      "language": "Go",
-      "pushed_at": "2026-10-18T21:43:15Z",
-      "updated_at": "2026-10-18T21:42:19Z"
+      "pushed_at": "2026-10-19T03:08:34Z",
+      "updated_at": "2026-10-19T03:15:04Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1110,
+      "stars": 1112,
       "forks": 202,
       "language": "Go",
-      "pushed_at": "2026-10-18T22:06:51Z",
-      "updated_at": "2026-10-18T22:01:10Z"
-    },
-    {
-      "id": 1134844685,
-      "full_name": "agent-sh/agentsys",
-      "html_url": "https://github.com/agent-sh/agentsys",
-      "description": "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
-      "stars": 1004,
-      "forks": 118,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-18T21:32:38Z",
-      "updated_at": "2026-10-18T21:32:41Z"
-    },
-    {
-      "id": 49612213,
-      "full_name": "vchelaru/FlatRedBall",
-      "html_url": "https://github.com/vchelaru/FlatRedBall",
-      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
-      "stars": 579,
-      "forks": 73,
-      "language": "C#",
-      "pushed_at": "2026-10-18T21:54:08Z",
-      "updated_at": "2026-10-18T21:54:10Z"
+      "pushed_at": "2026-10-19T03:19:58Z",
+      "updated_at": "2026-10-19T03:20:01Z"
     },
     {
       "id": 1311664525,
       "full_name": "KitionAI/kition",
       "html_url": "https://github.com/KitionAI/kition",
       "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 514,
+      "stars": 515,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T21:53:50Z",
-      "updated_at": "2026-10-18T21:53:57Z"
+      "pushed_at": "2026-10-19T02:40:23Z",
+      "updated_at": "2026-10-19T02:40:27Z"
     },
     {
       "id": 1294301448,
       "full_name": "CatVinci-Studio/Textus",
       "html_url": "https://github.com/CatVinci-Studio/Textus",
       "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
-      "stars": 316,
+      "stars": 325,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T22:04:24Z",
-      "updated_at": "2026-10-18T22:12:44Z"
-    },
-    {
-      "id": 163754017,
-      "full_name": "gergelyszabo94/csgo-trader-extension",
-      "html_url": "https://github.com/gergelyszabo94/csgo-trader-extension",
-      "description": "CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more",
-      "stars": 287,
-      "forks": 54,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-18T21:24:39Z",
-      "updated_at": "2026-10-18T21:24:43Z"
+      "pushed_at": "2026-10-19T03:20:52Z",
+      "updated_at": "2026-10-19T03:16:09Z"
     },
     {
       "id": 1133241492,
       "full_name": "gnoviawan/termul",
       "html_url": "https://github.com/gnoviawan/termul",
       "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 274,
+      "stars": 276,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T22:09:36Z",
-      "updated_at": "2026-10-18T22:09:00Z"
+      "pushed_at": "2026-10-19T03:00:55Z",
+      "updated_at": "2026-10-19T03:16:26Z"
+    },
+    {
+      "id": 670118185,
+      "full_name": "zhugecaomao/ALTRun",
+      "html_url": "https://github.com/zhugecaomao/ALTRun",
+      "description": "A lightweight, open-source Alfred-style launcher for Windows.",
+      "stars": 196,
+      "forks": 10,
+      "language": "AutoHotkey",
+      "pushed_at": "2026-10-19T03:21:34Z",
+      "updated_at": "2026-10-19T03:21:36Z"
+    },
+    {
+      "id": 1302557102,
+      "full_name": "Licoy/StrokeMouse",
+      "html_url": "https://github.com/Licoy/StrokeMouse",
+      "description": "macOS 鼠标/触控板手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
+      "stars": 190,
+      "forks": 9,
+      "language": "Swift",
+      "pushed_at": "2026-10-19T02:08:38Z",
+      "updated_at": "2026-10-19T02:08:42Z"
     },
     {
       "id": 1161274003,
@@ -147,30 +103,74 @@
       "stars": 188,
       "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-10-18T21:55:51Z",
-      "updated_at": "2026-10-18T21:55:54Z"
+      "pushed_at": "2026-10-19T03:07:49Z",
+      "updated_at": "2026-10-19T02:47:53Z"
     },
     {
-      "id": 1379726830,
-      "full_name": "Earendel-lab/Tapbar",
-      "html_url": "https://github.com/Earendel-lab/Tapbar",
-      "description": "Launch any app or trigger quick actions from the status bar or anywhere on your screen.",
-      "stars": 179,
-      "forks": 5,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-18T21:26:40Z",
-      "updated_at": "2026-10-18T21:26:44Z"
-    },
-    {
-      "id": 945556397,
-      "full_name": "ronynn/karui",
-      "html_url": "https://github.com/ronynn/karui",
-      "description": "Karui (軽い) is a offline only aesthetically pleasing, sync supported google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's a 140kb apk that allows you to take notes from status bar and from other apps with support for homescreen widgets! Made with ❤️ and Vue",
-      "stars": 147,
-      "forks": 8,
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 175,
+      "forks": 19,
       "language": "JavaScript",
-      "pushed_at": "2026-10-18T22:08:32Z",
-      "updated_at": "2026-10-18T22:08:40Z"
+      "pushed_at": "2026-10-19T02:34:21Z",
+      "updated_at": "2026-10-19T02:33:31Z"
+    },
+    {
+      "id": 1138989235,
+      "full_name": "AI-WorkDeck/aiworkdeck",
+      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
+      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
+      "stars": 167,
+      "forks": 16,
+      "language": "Java",
+      "pushed_at": "2026-10-19T03:03:37Z",
+      "updated_at": "2026-10-19T03:03:42Z"
+    },
+    {
+      "id": 1281865940,
+      "full_name": "drewnekota/cetus",
+      "html_url": "https://github.com/drewnekota/cetus",
+      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+      "stars": 148,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-19T02:05:42Z",
+      "updated_at": "2026-10-19T02:05:45Z"
+    },
+    {
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 140,
+      "forks": 55,
+      "language": "Python",
+      "pushed_at": "2026-10-19T03:03:44Z",
+      "updated_at": "2026-10-19T03:03:49Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 111,
+      "forks": 14,
+      "language": "Rust",
+      "pushed_at": "2026-10-19T03:17:29Z",
+      "updated_at": "2026-10-19T03:04:06Z"
+    },
+    {
+      "id": 1418204810,
+      "full_name": "InukaAsith/TwinDesk",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
+      "stars": 109,
+      "forks": 10,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-19T02:21:17Z",
+      "updated_at": "2026-10-19T03:20:05Z"
     }
   ]
 }
