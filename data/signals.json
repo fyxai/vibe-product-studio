@@ -5,150 +5,150 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1211,
+  "total_found": 1213,
   "items": [
     {
       "id": 1136590548,
       "full_name": "affaan-m/ECC",
       "html_url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 284104,
-      "forks": 42204,
+      "stars": 284209,
+      "forks": 42217,
       "language": "JavaScript",
-      "pushed_at": "2026-10-19T23:13:04Z",
-      "updated_at": "2026-10-19T23:18:21Z"
+      "pushed_at": "2026-10-20T02:50:51Z",
+      "updated_at": "2026-10-20T03:30:41Z"
     },
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 83988,
-      "forks": 5339,
-      "language": "Rust",
-      "pushed_at": "2026-10-19T23:05:16Z",
-      "updated_at": "2026-10-19T22:59:56Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 40224,
+      "forks": 3978,
+      "language": "C#",
+      "pushed_at": "2026-10-20T02:52:45Z",
+      "updated_at": "2026-10-20T03:10:25Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 22982,
-      "forks": 2172,
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8403,
+      "forks": 1249,
       "language": "TypeScript",
-      "pushed_at": "2026-10-19T22:56:54Z",
-      "updated_at": "2026-10-19T22:58:19Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12682,
-      "forks": 1608,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-19T23:10:28Z",
-      "updated_at": "2026-10-19T23:06:47Z"
-    },
-    {
-      "id": 1027461827,
-      "full_name": "vicinaehq/vicinae",
-      "html_url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "stars": 10303,
-      "forks": 320,
-      "language": "C++",
-      "pushed_at": "2026-10-19T22:52:00Z",
-      "updated_at": "2026-10-19T22:52:01Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5665,
-      "forks": 666,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-19T23:13:45Z",
-      "updated_at": "2026-10-19T23:06:54Z"
+      "pushed_at": "2026-10-20T02:59:01Z",
+      "updated_at": "2026-10-20T02:58:14Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2289,
+      "stars": 2291,
       "forks": 148,
       "language": "TypeScript",
-      "pushed_at": "2026-10-19T22:27:14Z",
-      "updated_at": "2026-10-19T22:27:19Z"
+      "pushed_at": "2026-10-20T03:01:48Z",
+      "updated_at": "2026-10-20T03:01:53Z"
     },
     {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 2066,
-      "forks": 222,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-19T23:07:31Z",
-      "updated_at": "2026-10-19T23:07:35Z"
+      "id": 1085525076,
+      "full_name": "steven-jianhao-li/zotero-AI-Butler",
+      "html_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "stars": 1816,
+      "forks": 98,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-20T03:22:36Z",
+      "updated_at": "2026-10-20T03:22:42Z"
     },
     {
-      "id": 1201098277,
-      "full_name": "kunkka19xx/look",
-      "html_url": "https://github.com/kunkka19xx/look",
-      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
-      "stars": 1211,
-      "forks": 73,
-      "language": "Rust",
-      "pushed_at": "2026-10-19T23:09:45Z",
-      "updated_at": "2026-10-19T23:14:52Z"
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1665,
+      "forks": 102,
+      "language": "Dart",
+      "pushed_at": "2026-10-20T02:53:10Z",
+      "updated_at": "2026-10-20T03:12:42Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 589,
+      "forks": 111,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-20T03:27:31Z",
+      "updated_at": "2026-10-20T03:26:54Z"
     },
     {
       "id": 1311664525,
       "full_name": "KitionAI/kition",
       "html_url": "https://github.com/KitionAI/kition",
       "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 518,
+      "stars": 520,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-10-19T22:56:15Z",
-      "updated_at": "2026-10-19T22:56:22Z"
+      "pushed_at": "2026-10-20T03:09:55Z",
+      "updated_at": "2026-10-20T03:10:00Z"
     },
     {
       "id": 1294301448,
       "full_name": "CatVinci-Studio/Textus",
       "html_url": "https://github.com/CatVinci-Studio/Textus",
       "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
-      "stars": 387,
-      "forks": 16,
+      "stars": 397,
+      "forks": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-10-19T23:15:06Z",
-      "updated_at": "2026-10-19T23:15:07Z"
+      "pushed_at": "2026-10-20T03:28:49Z",
+      "updated_at": "2026-10-20T03:23:51Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 277,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-19T23:15:58Z",
-      "updated_at": "2026-10-19T23:04:37Z"
+      "id": 1190641281,
+      "full_name": "ahatem/QTranslate",
+      "html_url": "https://github.com/ahatem/QTranslate",
+      "description": "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.",
+      "stars": 255,
+      "forks": 40,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-20T03:22:31Z",
+      "updated_at": "2026-10-20T03:20:19Z"
     },
     {
       "id": 1288180765,
       "full_name": "KiwiCanopy/KiwiDesk",
       "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
       "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 202,
+      "stars": 203,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-10-19T23:14:53Z",
-      "updated_at": "2026-10-19T23:14:57Z"
+      "pushed_at": "2026-10-20T03:29:05Z",
+      "updated_at": "2026-10-20T03:05:04Z"
+    },
+    {
+      "id": 1418204810,
+      "full_name": "InukaAsith/TwinDesk",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
+      "stars": 189,
+      "forks": 17,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-20T02:58:47Z",
+      "updated_at": "2026-10-20T03:05:33Z"
+    },
+    {
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 163,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-20T03:05:49Z",
+      "updated_at": "2026-10-20T03:05:48Z"
     },
     {
       "id": 1337168270,
@@ -158,19 +158,19 @@
       "stars": 140,
       "forks": 55,
       "language": "Python",
-      "pushed_at": "2026-10-19T22:33:52Z",
-      "updated_at": "2026-10-19T22:33:59Z"
+      "pushed_at": "2026-10-20T03:18:56Z",
+      "updated_at": "2026-10-20T03:19:00Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 119,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-10-19T22:44:59Z",
-      "updated_at": "2026-10-19T22:45:03Z"
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 111,
+      "forks": 14,
+      "language": "Rust",
+      "pushed_at": "2026-10-20T03:29:34Z",
+      "updated_at": "2026-10-20T03:19:36Z"
     }
   ]
 }
