@@ -5,18 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1224,
+  "total_found": 1225,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 84183,
-      "forks": 5354,
-      "language": "Rust",
-      "pushed_at": "2026-10-21T16:16:22Z",
-      "updated_at": "2026-10-21T16:22:10Z"
+      "id": 164140756,
+      "full_name": "files-community/Files",
+      "html_url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "stars": 46138,
+      "forks": 2973,
+      "language": "C#",
+      "pushed_at": "2026-10-21T21:52:23Z",
+      "updated_at": "2026-10-21T21:52:49Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 23046,
+      "forks": 2185,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T23:00:26Z",
+      "updated_at": "2026-10-21T22:55:19Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12736,
+      "forks": 1616,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T22:59:20Z",
+      "updated_at": "2026-10-21T22:59:27Z"
+    },
+    {
+      "id": 814882742,
+      "full_name": "iib0011/omni-tools",
+      "html_url": "https://github.com/iib0011/omni-tools",
+      "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+      "stars": 10340,
+      "forks": 729,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T22:39:59Z",
+      "updated_at": "2026-10-21T22:39:58Z"
     },
     {
       "id": 129699403,
@@ -26,85 +59,74 @@
       "stars": 5841,
       "forks": 779,
       "language": "Elixir",
-      "pushed_at": "2026-10-21T16:36:11Z",
-      "updated_at": "2026-10-21T16:18:16Z"
+      "pushed_at": "2026-10-21T22:37:11Z",
+      "updated_at": "2026-10-21T22:06:11Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4305,
-      "forks": 330,
-      "language": "Python",
-      "pushed_at": "2026-10-21T16:31:30Z",
-      "updated_at": "2026-10-21T16:31:35Z"
-    },
-    {
-      "id": 1125258937,
-      "full_name": "urzeye/ophel",
-      "html_url": "https://github.com/urzeye/ophel",
-      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-      "stars": 987,
-      "forks": 60,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2306,
+      "forks": 149,
       "language": "TypeScript",
-      "pushed_at": "2026-10-21T16:22:14Z",
-      "updated_at": "2026-10-21T16:22:19Z"
+      "pushed_at": "2026-10-21T22:56:06Z",
+      "updated_at": "2026-10-21T22:56:11Z"
     },
     {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-      "stars": 874,
-      "forks": 12,
-      "language": "Python",
-      "pushed_at": "2026-10-21T16:24:43Z",
-      "updated_at": "2026-10-21T16:31:10Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 464,
-      "forks": 94,
-      "language": "Go",
-      "pushed_at": "2026-10-21T16:36:51Z",
-      "updated_at": "2026-10-21T16:36:54Z"
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 730,
+      "forks": 130,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-21T22:44:06Z",
+      "updated_at": "2026-10-21T22:44:11Z"
     },
     {
       "id": 1332399543,
       "full_name": "JiangNanGenius/floe-agent",
       "html_url": "https://github.com/JiangNanGenius/floe-agent",
       "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
-      "stars": 298,
+      "stars": 301,
       "forks": 42,
       "language": "Swift",
-      "pushed_at": "2026-10-21T16:35:56Z",
-      "updated_at": "2026-10-21T16:27:19Z"
+      "pushed_at": "2026-10-21T22:48:14Z",
+      "updated_at": "2026-10-21T22:09:31Z"
     },
     {
-      "id": 1418204810,
-      "full_name": "InukaAsith/TwinDesk",
-      "html_url": "https://github.com/InukaAsith/TwinDesk",
-      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
-      "stars": 220,
-      "forks": 22,
+      "id": 1027092197,
+      "full_name": "shinpr/ai-coding-project-boilerplate",
+      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
+      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
+      "stars": 234,
+      "forks": 28,
       "language": "JavaScript",
-      "pushed_at": "2026-10-21T16:38:33Z",
-      "updated_at": "2026-10-21T16:38:38Z"
+      "pushed_at": "2026-10-21T22:46:54Z",
+      "updated_at": "2026-10-21T22:45:20Z"
     },
     {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 179,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-21T16:34:49Z",
-      "updated_at": "2026-10-21T16:34:54Z"
+      "id": 1339903141,
+      "full_name": "smarzban/tsk",
+      "html_url": "https://github.com/smarzban/tsk",
+      "description": "tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them.",
+      "stars": 223,
+      "forks": 10,
+      "language": "Rust",
+      "pushed_at": "2026-10-21T21:44:56Z",
+      "updated_at": "2026-10-21T21:44:42Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 208,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-10-21T22:54:20Z",
+      "updated_at": "2026-10-21T22:34:58Z"
     },
     {
       "id": 1264434310,
@@ -114,8 +136,8 @@
       "stars": 167,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-21T16:33:57Z",
-      "updated_at": "2026-10-21T16:34:04Z"
+      "pushed_at": "2026-10-21T22:42:45Z",
+      "updated_at": "2026-10-21T22:15:41Z"
     },
     {
       "id": 737246781,
@@ -125,52 +147,30 @@
       "stars": 157,
       "forks": 12,
       "language": "Kotlin",
-      "pushed_at": "2026-10-21T16:26:00Z",
-      "updated_at": "2026-10-21T16:26:03Z"
+      "pushed_at": "2026-10-21T22:11:26Z",
+      "updated_at": "2026-10-21T22:11:05Z"
     },
     {
-      "id": 945556397,
-      "full_name": "ronynn/karui",
-      "html_url": "https://github.com/ronynn/karui",
-      "description": "Karui (軽い) is a offline only aesthetically pleasing, sync supported google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's a 145kb apk that allows you to take notes from status bar and from other apps with support for homescreen widgets! Made with ❤️ and Vue",
-      "stars": 147,
-      "forks": 8,
-      "language": "Vue",
-      "pushed_at": "2026-10-21T16:36:54Z",
-      "updated_at": "2026-10-21T16:36:59Z"
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 140,
+      "forks": 55,
+      "language": "Python",
+      "pushed_at": "2026-10-21T22:54:40Z",
+      "updated_at": "2026-10-21T22:54:43Z"
     },
     {
-      "id": 1241977003,
-      "full_name": "futuregene/future-os",
-      "html_url": "https://github.com/futuregene/future-os",
-      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-      "stars": 111,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-10-21T16:33:46Z",
-      "updated_at": "2026-10-21T16:23:58Z"
-    },
-    {
-      "id": 1412617976,
-      "full_name": "pixari/OpenTodo",
-      "html_url": "https://github.com/pixari/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 84,
-      "forks": 4,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T16:29:05Z",
-      "updated_at": "2026-10-21T16:28:13Z"
-    },
-    {
-      "id": 1370979034,
-      "full_name": "PathGao/MoonDigest",
-      "html_url": "https://github.com/PathGao/MoonDigest",
-      "description": "用 AI 读完收藏的视频、整理 B 站收藏夹的 Chrome 扩展：字幕、AI 总结问答、收藏夹分拣，导出 Markdown，可选写入 Obsidian · Read and triage saved Bilibili & YouTube videos with AI: subtitles, AI summaries, favorites triage, Markdown and optional Obsidian export",
-      "stars": 75,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-21T16:33:03Z",
-      "updated_at": "2026-10-21T16:33:06Z"
+      "id": 1284688466,
+      "full_name": "gyorgysh/keepresso",
+      "html_url": "https://github.com/gyorgysh/keepresso",
+      "description": "Keep your Mac awake on your terms. A native macOS menu-bar app with condition-based triggers, closed-display mode, and a headless-Mac toolkit. Built for AI agents, servers, and always-on Macs.",
+      "stars": 117,
+      "forks": 7,
+      "language": "Swift",
+      "pushed_at": "2026-10-21T22:53:36Z",
+      "updated_at": "2026-10-21T22:53:40Z"
     }
   ]
 }
