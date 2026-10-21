@@ -5,51 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1219,
+  "total_found": 1224,
   "items": [
-    {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 134305,
-      "forks": 15778,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T08:21:02Z",
-      "updated_at": "2026-10-21T09:01:19Z"
-    },
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 84139,
-      "forks": 5348,
+      "stars": 84183,
+      "forks": 5354,
       "language": "Rust",
-      "pushed_at": "2026-10-21T08:27:31Z",
-      "updated_at": "2026-10-21T09:01:02Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "AI coworker with memory and collaboration",
-      "stars": 18045,
-      "forks": 1802,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T08:48:26Z",
-      "updated_at": "2026-10-21T08:48:40Z"
-    },
-    {
-      "id": 458094748,
-      "full_name": "omnivore-app/omnivore",
-      "html_url": "https://github.com/omnivore-app/omnivore",
-      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
-      "stars": 16326,
-      "forks": 1258,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T09:05:10Z",
-      "updated_at": "2026-10-21T08:41:52Z"
+      "pushed_at": "2026-10-21T16:16:22Z",
+      "updated_at": "2026-10-21T16:22:10Z"
     },
     {
       "id": 129699403,
@@ -57,65 +24,21 @@
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "stars": 5841,
-      "forks": 780,
+      "forks": 779,
       "language": "Elixir",
-      "pushed_at": "2026-10-21T09:07:35Z",
-      "updated_at": "2026-10-21T09:05:53Z"
+      "pushed_at": "2026-10-21T16:36:11Z",
+      "updated_at": "2026-10-21T16:18:16Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3720,
-      "forks": 188,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T08:45:10Z",
-      "updated_at": "2026-10-21T08:39:54Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2303,
-      "forks": 148,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T08:03:53Z",
-      "updated_at": "2026-10-21T08:03:58Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 2067,
-      "forks": 154,
-      "language": "Dart",
-      "pushed_at": "2026-10-21T08:37:59Z",
-      "updated_at": "2026-10-21T08:38:04Z"
-    },
-    {
-      "id": 231509982,
-      "full_name": "onblog/bar-tool",
-      "html_url": "https://github.com/onblog/bar-tool",
-      "description": "bar-tool — the clipboard workbench for macOS: screenshots, web pages, table columns — whatever lands on it comes back cleaned, tidied and ready to paste, and images go to your own bucket. 吧台：macOS 上的剪贴板工作台，截图/网页/表格列进了剪贴板就变成能直接用的样子。",
-      "stars": 1967,
-      "forks": 282,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-21T08:55:06Z",
-      "updated_at": "2026-10-21T08:55:09Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1580,
-      "forks": 56,
-      "language": "Rust",
-      "pushed_at": "2026-10-21T07:57:56Z",
-      "updated_at": "2026-10-21T08:04:41Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 4305,
+      "forks": 330,
+      "language": "Python",
+      "pushed_at": "2026-10-21T16:31:30Z",
+      "updated_at": "2026-10-21T16:31:35Z"
     },
     {
       "id": 1125258937,
@@ -125,52 +48,129 @@
       "stars": 987,
       "forks": 60,
       "language": "TypeScript",
-      "pushed_at": "2026-10-21T09:04:31Z",
-      "updated_at": "2026-10-21T09:04:34Z"
+      "pushed_at": "2026-10-21T16:22:14Z",
+      "updated_at": "2026-10-21T16:22:19Z"
     },
     {
-      "id": 1262952417,
-      "full_name": "InlitX/streak",
-      "html_url": "https://github.com/InlitX/streak",
-      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
-      "stars": 920,
-      "forks": 50,
-      "language": "Dart",
-      "pushed_at": "2026-10-21T08:04:34Z",
-      "updated_at": "2026-10-21T08:13:00Z"
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+      "stars": 874,
+      "forks": 12,
+      "language": "Python",
+      "pushed_at": "2026-10-21T16:24:43Z",
+      "updated_at": "2026-10-21T16:31:10Z"
     },
     {
-      "id": 1283466765,
-      "full_name": "Licoy/Quosparr",
-      "html_url": "https://github.com/Licoy/Quosparr",
-      "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
-      "stars": 298,
-      "forks": 20,
+      "id": 244958571,
+      "full_name": "wakatime/wakatime-cli",
+      "html_url": "https://github.com/wakatime/wakatime-cli",
+      "description": "Command line interface used by all WakaTime text editor plugins",
+      "stars": 464,
+      "forks": 94,
       "language": "Go",
-      "pushed_at": "2026-10-21T08:42:46Z",
-      "updated_at": "2026-10-21T08:42:51Z"
+      "pushed_at": "2026-10-21T16:36:51Z",
+      "updated_at": "2026-10-21T16:36:54Z"
     },
     {
       "id": 1332399543,
       "full_name": "JiangNanGenius/floe-agent",
       "html_url": "https://github.com/JiangNanGenius/floe-agent",
       "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
-      "stars": 296,
+      "stars": 298,
       "forks": 42,
       "language": "Swift",
-      "pushed_at": "2026-10-21T09:01:06Z",
-      "updated_at": "2026-10-21T08:53:52Z"
+      "pushed_at": "2026-10-21T16:35:56Z",
+      "updated_at": "2026-10-21T16:27:19Z"
     },
     {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 208,
+      "id": 1418204810,
+      "full_name": "InukaAsith/TwinDesk",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "description": "Use two computers as one desk: Mac,     Windows and Linux on the same network. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps.",
+      "stars": 220,
+      "forks": 22,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-21T16:38:33Z",
+      "updated_at": "2026-10-21T16:38:38Z"
+    },
+    {
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 179,
+      "forks": 11,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-21T16:34:49Z",
+      "updated_at": "2026-10-21T16:34:54Z"
+    },
+    {
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 167,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T16:33:57Z",
+      "updated_at": "2026-10-21T16:34:04Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 157,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-21T16:26:00Z",
+      "updated_at": "2026-10-21T16:26:03Z"
+    },
+    {
+      "id": 945556397,
+      "full_name": "ronynn/karui",
+      "html_url": "https://github.com/ronynn/karui",
+      "description": "Karui (軽い) is a offline only aesthetically pleasing, sync supported google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's a 145kb apk that allows you to take notes from status bar and from other apps with support for homescreen widgets! Made with ❤️ and Vue",
+      "stars": 147,
       "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-10-21T08:51:01Z",
-      "updated_at": "2026-10-21T08:33:04Z"
+      "language": "Vue",
+      "pushed_at": "2026-10-21T16:36:54Z",
+      "updated_at": "2026-10-21T16:36:59Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 111,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-10-21T16:33:46Z",
+      "updated_at": "2026-10-21T16:23:58Z"
+    },
+    {
+      "id": 1412617976,
+      "full_name": "pixari/OpenTodo",
+      "html_url": "https://github.com/pixari/OpenTodo",
+      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
+      "stars": 84,
+      "forks": 4,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T16:29:05Z",
+      "updated_at": "2026-10-21T16:28:13Z"
+    },
+    {
+      "id": 1370979034,
+      "full_name": "PathGao/MoonDigest",
+      "html_url": "https://github.com/PathGao/MoonDigest",
+      "description": "用 AI 读完收藏的视频、整理 B 站收藏夹的 Chrome 扩展：字幕、AI 总结问答、收藏夹分拣，导出 Markdown，可选写入 Obsidian · Read and triage saved Bilibili & YouTube videos with AI: subtitles, AI summaries, favorites triage, Markdown and optional Obsidian export",
+      "stars": 75,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-21T16:33:03Z",
+      "updated_at": "2026-10-21T16:33:06Z"
     }
   ]
 }
