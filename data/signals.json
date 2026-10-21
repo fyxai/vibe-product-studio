@@ -8,81 +8,147 @@
   "total_found": 1219,
   "items": [
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 6319,
-      "forks": 589,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 134305,
+      "forks": 15778,
       "language": "TypeScript",
-      "pushed_at": "2026-10-21T02:00:04Z",
-      "updated_at": "2026-10-21T02:38:18Z"
+      "pushed_at": "2026-10-21T08:21:02Z",
+      "updated_at": "2026-10-21T09:01:19Z"
     },
     {
-      "id": 1092562478,
-      "full_name": "unhappychoice/gitlogue",
-      "html_url": "https://github.com/unhappychoice/gitlogue",
-      "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-      "stars": 5190,
-      "forks": 120,
+      "id": 1139971460,
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 84139,
+      "forks": 5348,
       "language": "Rust",
-      "pushed_at": "2026-10-21T02:23:37Z",
-      "updated_at": "2026-10-21T03:16:54Z"
+      "pushed_at": "2026-10-21T08:27:31Z",
+      "updated_at": "2026-10-21T09:01:02Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI coworker with memory and collaboration",
+      "stars": 18045,
+      "forks": 1802,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T08:48:26Z",
+      "updated_at": "2026-10-21T08:48:40Z"
+    },
+    {
+      "id": 458094748,
+      "full_name": "omnivore-app/omnivore",
+      "html_url": "https://github.com/omnivore-app/omnivore",
+      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+      "stars": 16326,
+      "forks": 1258,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T09:05:10Z",
+      "updated_at": "2026-10-21T08:41:52Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5841,
+      "forks": 780,
+      "language": "Elixir",
+      "pushed_at": "2026-10-21T09:07:35Z",
+      "updated_at": "2026-10-21T09:05:53Z"
+    },
+    {
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3720,
+      "forks": 188,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T08:45:10Z",
+      "updated_at": "2026-10-21T08:39:54Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2301,
+      "stars": 2303,
       "forks": 148,
       "language": "TypeScript",
-      "pushed_at": "2026-10-21T03:03:42Z",
-      "updated_at": "2026-10-21T03:03:48Z"
+      "pushed_at": "2026-10-21T08:03:53Z",
+      "updated_at": "2026-10-21T08:03:58Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1128,
-      "forks": 208,
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2067,
+      "forks": 154,
+      "language": "Dart",
+      "pushed_at": "2026-10-21T08:37:59Z",
+      "updated_at": "2026-10-21T08:38:04Z"
+    },
+    {
+      "id": 231509982,
+      "full_name": "onblog/bar-tool",
+      "html_url": "https://github.com/onblog/bar-tool",
+      "description": "bar-tool — the clipboard workbench for macOS: screenshots, web pages, table columns — whatever lands on it comes back cleaned, tidied and ready to paste, and images go to your own bucket. 吧台：macOS 上的剪贴板工作台，截图/网页/表格列进了剪贴板就变成能直接用的样子。",
+      "stars": 1967,
+      "forks": 282,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-21T08:55:06Z",
+      "updated_at": "2026-10-21T08:55:09Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1580,
+      "forks": 56,
+      "language": "Rust",
+      "pushed_at": "2026-10-21T07:57:56Z",
+      "updated_at": "2026-10-21T08:04:41Z"
+    },
+    {
+      "id": 1125258937,
+      "full_name": "urzeye/ophel",
+      "html_url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "stars": 987,
+      "forks": 60,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21T09:04:31Z",
+      "updated_at": "2026-10-21T09:04:34Z"
+    },
+    {
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 920,
+      "forks": 50,
+      "language": "Dart",
+      "pushed_at": "2026-10-21T08:04:34Z",
+      "updated_at": "2026-10-21T08:13:00Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/Quosparr",
+      "html_url": "https://github.com/Licoy/Quosparr",
+      "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
+      "stars": 298,
+      "forks": 20,
       "language": "Go",
-      "pushed_at": "2026-10-21T02:16:27Z",
-      "updated_at": "2026-10-21T03:24:41Z"
-    },
-    {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-      "stars": 835,
-      "forks": 12,
-      "language": "Python",
-      "pushed_at": "2026-10-21T03:20:47Z",
-      "updated_at": "2026-10-21T03:20:30Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 591,
-      "forks": 111,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T02:46:09Z",
-      "updated_at": "2026-10-21T02:05:13Z"
-    },
-    {
-      "id": 1294301448,
-      "full_name": "CatVinci-Studio/Textus",
-      "html_url": "https://github.com/CatVinci-Studio/Textus",
-      "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
-      "stars": 442,
-      "forks": 19,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T02:46:31Z",
-      "updated_at": "2026-10-21T03:20:24Z"
+      "pushed_at": "2026-10-21T08:42:46Z",
+      "updated_at": "2026-10-21T08:42:51Z"
     },
     {
       "id": 1332399543,
@@ -92,85 +158,19 @@
       "stars": 296,
       "forks": 42,
       "language": "Swift",
-      "pushed_at": "2026-10-21T03:10:30Z",
-      "updated_at": "2026-10-21T03:15:13Z"
+      "pushed_at": "2026-10-21T09:01:06Z",
+      "updated_at": "2026-10-21T08:53:52Z"
     },
     {
-      "id": 1027092197,
-      "full_name": "shinpr/ai-coding-project-boilerplate",
-      "html_url": "https://github.com/shinpr/ai-coding-project-boilerplate",
-      "description": "Agentic coding TypeScript boilerplate for Claude Code: sub-agent workflows with built-in quality checks and context engineering.",
-      "stars": 234,
-      "forks": 28,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-21T02:22:32Z",
-      "updated_at": "2026-10-21T02:22:30Z"
-    },
-    {
-      "id": 1289484140,
-      "full_name": "flyl1u/fly-island",
-      "html_url": "https://github.com/flyl1u/fly-island",
-      "description": "一款轻量的PC灵动岛，集成QQ、微信及邮箱通知、剪贴板历史、快捷翻译、Codex状态灯、媒体控制、每日待办，支持液态玻璃效果；A lightweight PC Dynamic Island featuring QQ, WeChat, and email notifications, clipboard history, quick translation, a Codex status light, media controls, and daily to-dos, with liquid glass effects.",
-      "stars": 218,
-      "forks": 11,
-      "language": "Rust",
-      "pushed_at": "2026-10-21T02:30:53Z",
-      "updated_at": "2026-10-21T02:30:57Z"
-    },
-    {
-      "id": 1112334575,
-      "full_name": "zhaoliangbin42/AI-MarkDone",
-      "html_url": "https://github.com/zhaoliangbin42/AI-MarkDone",
-      "description": "ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.",
-      "stars": 204,
-      "forks": 16,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-21T02:14:37Z",
-      "updated_at": "2026-10-21T02:14:36Z"
-    },
-    {
-      "id": 1302557102,
-      "full_name": "Licoy/StrokeMouse",
-      "html_url": "https://github.com/Licoy/StrokeMouse",
-      "description": "macOS 鼠标/触控板手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-      "stars": 194,
-      "forks": 11,
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 208,
+      "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-10-21T02:21:27Z",
-      "updated_at": "2026-10-21T02:21:31Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 191,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-10-21T02:30:24Z",
-      "updated_at": "2026-10-21T02:30:28Z"
-    },
-    {
-      "id": 1138989235,
-      "full_name": "AI-WorkDeck/aiworkdeck",
-      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
-      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
-      "stars": 167,
-      "forks": 17,
-      "language": "Java",
-      "pushed_at": "2026-10-21T03:02:10Z",
-      "updated_at": "2026-10-21T03:02:16Z"
-    },
-    {
-      "id": 737246781,
-      "full_name": "Super12138/VerveDo",
-      "html_url": "https://github.com/Super12138/VerveDo",
-      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
-      "stars": 157,
-      "forks": 12,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-21T01:57:24Z",
-      "updated_at": "2026-10-21T01:57:26Z"
+      "pushed_at": "2026-10-21T08:51:01Z",
+      "updated_at": "2026-10-21T08:33:04Z"
     }
   ]
 }
