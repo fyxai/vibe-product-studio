@@ -8,103 +8,48 @@
   "total_found": 1230,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 84287,
-      "forks": 5357,
-      "language": "Rust",
-      "pushed_at": "2026-10-22T15:59:33Z",
-      "updated_at": "2026-10-22T16:26:09Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23063,
-      "forks": 2186,
+      "stars": 23068,
+      "forks": 2187,
       "language": "TypeScript",
-      "pushed_at": "2026-10-22T16:33:41Z",
-      "updated_at": "2026-10-22T16:11:52Z"
+      "pushed_at": "2026-10-22T22:41:09Z",
+      "updated_at": "2026-10-22T22:54:07Z"
     },
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15767,
-      "forks": 1066,
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12764,
+      "forks": 1621,
       "language": "TypeScript",
-      "pushed_at": "2026-10-22T16:04:22Z",
-      "updated_at": "2026-10-22T16:39:05Z"
+      "pushed_at": "2026-10-22T22:44:42Z",
+      "updated_at": "2026-10-22T22:35:03Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5844,
-      "forks": 780,
-      "language": "Elixir",
-      "pushed_at": "2026-10-22T16:39:14Z",
-      "updated_at": "2026-10-22T16:38:29Z"
+      "id": 1027461827,
+      "full_name": "vicinaehq/vicinae",
+      "html_url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "stars": 10380,
+      "forks": 324,
+      "language": "C++",
+      "pushed_at": "2026-10-22T22:18:00Z",
+      "updated_at": "2026-10-22T22:18:04Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4322,
-      "forks": 331,
-      "language": "Python",
-      "pushed_at": "2026-10-22T16:17:14Z",
-      "updated_at": "2026-10-22T16:26:19Z"
-    },
-    {
-      "id": 736435794,
-      "full_name": "joshmedeski/sesh",
-      "html_url": "https://github.com/joshmedeski/sesh",
-      "description": "Smart tmux session manager",
-      "stars": 2897,
-      "forks": 134,
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 1997,
+      "forks": 151,
       "language": "Go",
-      "pushed_at": "2026-10-22T16:24:03Z",
-      "updated_at": "2026-10-22T16:22:21Z"
-    },
-    {
-      "id": 16063480,
-      "full_name": "extesy/hoverzoom",
-      "html_url": "https://github.com/extesy/hoverzoom",
-      "description": "Google Chrome extension for zooming images on mouse hover",
-      "stars": 2069,
-      "forks": 222,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-22T16:15:22Z",
-      "updated_at": "2026-10-22T16:15:30Z"
-    },
-    {
-      "id": 1243618131,
-      "full_name": "elvisun/newsjack",
-      "html_url": "https://github.com/elvisun/newsjack",
-      "description": "The open-source skills that turn your agent into a full PR team.",
-      "stars": 1642,
-      "forks": 166,
-      "language": "Go",
-      "pushed_at": "2026-10-22T16:19:17Z",
-      "updated_at": "2026-10-22T16:19:20Z"
-    },
-    {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1581,
-      "forks": 56,
-      "language": "Rust",
-      "pushed_at": "2026-10-22T15:57:53Z",
-      "updated_at": "2026-10-22T15:58:00Z"
+      "pushed_at": "2026-10-22T22:15:44Z",
+      "updated_at": "2026-10-22T22:23:35Z"
     },
     {
       "id": 590023059,
@@ -114,63 +59,118 @@
       "stars": 730,
       "forks": 130,
       "language": "JavaScript",
-      "pushed_at": "2026-10-22T16:01:51Z",
-      "updated_at": "2026-10-22T16:01:57Z"
-    },
-    {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 501,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-22T16:21:10Z",
-      "updated_at": "2026-10-22T16:00:49Z"
-    },
-    {
-      "id": 1312220956,
-      "full_name": "jchultarsky/mirador",
-      "html_url": "https://github.com/jchultarsky/mirador",
-      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "stars": 324,
-      "forks": 31,
-      "language": "Rust",
-      "pushed_at": "2026-10-22T16:32:22Z",
-      "updated_at": "2026-10-22T16:30:31Z"
+      "pushed_at": "2026-10-22T22:31:30Z",
+      "updated_at": "2026-10-22T22:31:36Z"
     },
     {
       "id": 1332399543,
       "full_name": "JiangNanGenius/floe-agent",
       "html_url": "https://github.com/JiangNanGenius/floe-agent",
       "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
-      "stars": 294,
+      "stars": 295,
       "forks": 41,
       "language": "Swift",
-      "pushed_at": "2026-10-22T16:23:25Z",
-      "updated_at": "2026-10-22T16:13:00Z"
+      "pushed_at": "2026-10-22T22:53:16Z",
+      "updated_at": "2026-10-22T22:53:21Z"
+    },
+    {
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 224,
+      "forks": 12,
+      "language": "Python",
+      "pushed_at": "2026-10-22T22:54:36Z",
+      "updated_at": "2026-10-22T22:54:39Z"
     },
     {
       "id": 1288180765,
       "full_name": "KiwiCanopy/KiwiDesk",
       "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
       "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 210,
+      "stars": 212,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-10-22T16:14:57Z",
-      "updated_at": "2026-10-22T16:15:01Z"
+      "pushed_at": "2026-10-22T22:49:19Z",
+      "updated_at": "2026-10-22T22:54:27Z"
     },
     {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The control plane for your AI employees",
-      "stars": 185,
-      "forks": 23,
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 140,
+      "forks": 55,
+      "language": "Python",
+      "pushed_at": "2026-10-22T22:18:54Z",
+      "updated_at": "2026-10-22T22:18:58Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 119,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-22T22:55:01Z",
+      "updated_at": "2026-10-22T22:55:05Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-22T22:10:06Z",
+      "updated_at": "2026-10-22T22:10:10Z"
+    },
+    {
+      "id": 616847538,
+      "full_name": "cattr-app/server-application",
+      "html_url": "https://github.com/cattr-app/server-application",
+      "description": "Cattr server application - self-hosted time tracking with project management, reports, screenshots, activity tracking and public API",
+      "stars": 103,
+      "forks": 57,
+      "language": "PHP",
+      "pushed_at": "2026-10-22T22:56:48Z",
+      "updated_at": "2026-10-22T22:11:40Z"
+    },
+    {
+      "id": 1412617976,
+      "full_name": "pixari/OpenTodo",
+      "html_url": "https://github.com/pixari/OpenTodo",
+      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
+      "stars": 95,
+      "forks": 5,
       "language": "TypeScript",
-      "pushed_at": "2026-10-22T16:03:49Z",
-      "updated_at": "2026-10-22T16:19:19Z"
+      "pushed_at": "2026-10-22T22:55:58Z",
+      "updated_at": "2026-10-22T22:43:35Z"
+    },
+    {
+      "id": 1161296944,
+      "full_name": "taskade/taskade",
+      "html_url": "https://github.com/taskade/taskade",
+      "description": "The AI-native workspace platform. Projects remember. Agents think. Automations execute. One prompt to production — bug reports & feature requests welcome.",
+      "stars": 71,
+      "forks": 18,
+      "language": "Unknown",
+      "pushed_at": "2026-10-22T22:35:07Z",
+      "updated_at": "2026-10-22T22:35:11Z"
+    },
+    {
+      "id": 1382323819,
+      "full_name": "Timskull/Postbox-Windows-Setup-Guide",
+      "html_url": "https://github.com/Timskull/Postbox-Windows-Setup-Guide",
+      "description": "Postbox Email Client for Windows 11 and 10: Install, Setup and Configuration Guide 2026",
+      "stars": 68,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-22T22:52:08Z",
+      "updated_at": "2026-10-22T22:52:12Z"
     }
   ]
 }
