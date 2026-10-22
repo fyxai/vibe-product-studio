@@ -5,18 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1225,
+  "total_found": 1228,
   "items": [
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 40300,
+      "forks": 3987,
+      "language": "C#",
+      "pushed_at": "2026-10-22T08:56:22Z",
+      "updated_at": "2026-10-22T09:09:25Z"
+    },
+    {
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI coworker with memory and collaboration",
+      "stars": 18047,
+      "forks": 1804,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-22T09:05:53Z",
+      "updated_at": "2026-10-22T09:06:03Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15760,
+      "forks": 1066,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-22T08:36:47Z",
+      "updated_at": "2026-10-22T08:59:53Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8412,
+      "forks": 1255,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-22T09:08:55Z",
+      "updated_at": "2026-10-22T08:48:50Z"
+    },
     {
       "id": 1062234789,
       "full_name": "JerryZLiu/Dayflow",
       "html_url": "https://github.com/JerryZLiu/Dayflow",
       "description": "The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-      "stars": 7307,
+      "stars": 7308,
       "forks": 451,
       "language": "Swift",
-      "pushed_at": "2026-10-22T02:33:44Z",
-      "updated_at": "2026-10-22T03:14:24Z"
+      "pushed_at": "2026-10-22T08:56:08Z",
+      "updated_at": "2026-10-22T08:56:15Z"
+    },
+    {
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 7007,
+      "forks": 434,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-22T08:56:45Z",
+      "updated_at": "2026-10-22T08:56:49Z"
     },
     {
       "id": 1156137396,
@@ -26,85 +81,85 @@
       "stars": 6138,
       "forks": 979,
       "language": "TypeScript",
-      "pushed_at": "2026-10-22T03:19:03Z",
-      "updated_at": "2026-10-22T03:18:11Z"
+      "pushed_at": "2026-10-22T08:22:30Z",
+      "updated_at": "2026-10-22T08:24:26Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4309,
-      "forks": 331,
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5841,
+      "forks": 779,
+      "language": "Elixir",
+      "pushed_at": "2026-10-22T09:06:17Z",
+      "updated_at": "2026-10-22T08:23:32Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5675,
+      "forks": 667,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-22T08:24:57Z",
+      "updated_at": "2026-10-22T08:25:06Z"
+    },
+    {
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1581,
+      "forks": 56,
+      "language": "Rust",
+      "pushed_at": "2026-10-22T08:53:30Z",
+      "updated_at": "2026-10-22T08:53:37Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
+      "stars": 1478,
+      "forks": 258,
+      "language": "HTML",
+      "pushed_at": "2026-10-22T08:36:11Z",
+      "updated_at": "2026-10-22T08:35:52Z"
+    },
+    {
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 1220,
+      "forks": 72,
+      "language": "Rust",
+      "pushed_at": "2026-10-22T09:01:09Z",
+      "updated_at": "2026-10-22T08:18:16Z"
+    },
+    {
+      "id": 1311664525,
+      "full_name": "KitionAI/kition",
+      "html_url": "https://github.com/KitionAI/kition",
+      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
+      "stars": 500,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-22T08:58:04Z",
+      "updated_at": "2026-10-22T08:58:09Z"
+    },
+    {
+      "id": 1041102492,
+      "full_name": "leeguooooo/claude-code-usage-bar",
+      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "stars": 380,
+      "forks": 28,
       "language": "Python",
-      "pushed_at": "2026-10-22T03:07:59Z",
-      "updated_at": "2026-10-22T03:22:11Z"
-    },
-    {
-      "id": 231509982,
-      "full_name": "onblog/miaomiao-bar",
-      "html_url": "https://github.com/onblog/miaomiao-bar",
-      "description": "A macOS clipboard workbench: text and pictures that land on the clipboard leave usable. 喵喵吧台：macOS 上的剪贴板工作台，文字和图片进了剪贴板就变成能直接用的样子。",
-      "stars": 1967,
-      "forks": 282,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-22T03:07:20Z",
-      "updated_at": "2026-10-22T03:07:24Z"
-    },
-    {
-      "id": 1342851168,
-      "full_name": "bam-bam-2/solo-skills",
-      "html_url": "https://github.com/bam-bam-2/solo-skills",
-      "description": "1인 사업가 생산성 키트 — 직원 없이 58개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 38개(+실행 스크립트 19개)를 공개합니다",
-      "stars": 366,
-      "forks": 87,
-      "language": "Python",
-      "pushed_at": "2026-10-22T02:56:07Z",
-      "updated_at": "2026-10-22T02:56:11Z"
-    },
-    {
-      "id": 1283466765,
-      "full_name": "Licoy/Quosparr",
-      "html_url": "https://github.com/Licoy/Quosparr",
-      "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
-      "stars": 299,
-      "forks": 20,
-      "language": "Go",
-      "pushed_at": "2026-10-22T02:23:05Z",
-      "updated_at": "2026-10-22T02:23:10Z"
-    },
-    {
-      "id": 1332399543,
-      "full_name": "JiangNanGenius/floe-agent",
-      "html_url": "https://github.com/JiangNanGenius/floe-agent",
-      "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
-      "stars": 288,
-      "forks": 42,
-      "language": "Swift",
-      "pushed_at": "2026-10-22T03:01:27Z",
-      "updated_at": "2026-10-22T03:11:15Z"
-    },
-    {
-      "id": 1412610162,
-      "full_name": "SaarthurR/atticus-mac",
-      "html_url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 222,
-      "forks": 12,
-      "language": "Python",
-      "pushed_at": "2026-10-22T03:16:21Z",
-      "updated_at": "2026-10-22T03:16:25Z"
-    },
-    {
-      "id": 1264852223,
-      "full_name": "bob-zebedy/CodexBar",
-      "html_url": "https://github.com/bob-zebedy/CodexBar",
-      "description": "CodexBar 是一个 macOS 菜单栏应用，用于查看本机 Codex 账号状态、额度、Token 用量、详细统计信息",
-      "stars": 207,
-      "forks": 6,
-      "language": "Swift",
-      "pushed_at": "2026-10-22T02:16:17Z",
-      "updated_at": "2026-10-22T02:16:21Z"
+      "pushed_at": "2026-10-22T08:58:45Z",
+      "updated_at": "2026-10-22T08:57:53Z"
     },
     {
       "id": 1195674112,
@@ -114,63 +169,8 @@
       "stars": 207,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-10-22T03:22:16Z",
-      "updated_at": "2026-10-22T03:20:00Z"
-    },
-    {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 179,
-      "forks": 11,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-22T02:19:13Z",
-      "updated_at": "2026-10-22T02:19:17Z"
-    },
-    {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 168,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-22T02:27:55Z",
-      "updated_at": "2026-10-22T03:03:57Z"
-    },
-    {
-      "id": 1138989235,
-      "full_name": "AI-WorkDeck/aiworkdeck",
-      "html_url": "https://github.com/AI-WorkDeck/aiworkdeck",
-      "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible plugin runtime. Starting with legal work.",
-      "stars": 163,
-      "forks": 17,
-      "language": "Java",
-      "pushed_at": "2026-10-22T03:23:22Z",
-      "updated_at": "2026-10-22T03:23:27Z"
-    },
-    {
-      "id": 1241977003,
-      "full_name": "futuregene/future-os",
-      "html_url": "https://github.com/futuregene/future-os",
-      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-      "stars": 111,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-10-22T03:22:02Z",
-      "updated_at": "2026-10-22T03:22:07Z"
-    },
-    {
-      "id": 1327537984,
-      "full_name": "dccif/KeySteer",
-      "html_url": "https://github.com/dccif/KeySteer",
-      "description": "Keyboard-driven mouse and window management for Windows and macOS — Vim-style navigation, accessibility UI hints, tiling, tabs, and workspaces.",
-      "stars": 91,
-      "forks": 5,
-      "language": "Rust",
-      "pushed_at": "2026-10-22T02:20:43Z",
-      "updated_at": "2026-10-22T02:20:47Z"
+      "pushed_at": "2026-10-22T09:09:17Z",
+      "updated_at": "2026-10-22T09:08:33Z"
     }
   ]
 }
