@@ -5,139 +5,117 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1234,
+  "total_found": 1236,
   "items": [
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27562,
-      "forks": 2441,
-      "language": "Go",
-      "pushed_at": "2026-10-24T15:14:10Z",
-      "updated_at": "2026-10-24T15:18:14Z"
-    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23110,
+      "stars": 23114,
       "forks": 2196,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:08:22Z",
-      "updated_at": "2026-10-24T15:14:22Z"
-    },
-    {
-      "id": 87668160,
-      "full_name": "atlas-engineer/nyxt",
-      "html_url": "https://github.com/atlas-engineer/nyxt",
-      "description": "Nyxt - the hacker's browser.",
-      "stars": 11036,
-      "forks": 465,
-      "language": "Common Lisp",
-      "pushed_at": "2026-10-24T15:00:12Z",
-      "updated_at": "2026-10-24T15:00:00Z"
+      "pushed_at": "2026-10-24T18:22:04Z",
+      "updated_at": "2026-10-24T18:31:03Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8559,
+      "stars": 8560,
       "forks": 1289,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:22:35Z",
-      "updated_at": "2026-10-24T14:49:42Z"
+      "pushed_at": "2026-10-24T18:34:31Z",
+      "updated_at": "2026-10-24T17:59:42Z"
     },
     {
-      "id": 1266135511,
-      "full_name": "Tianyu199509/DeskBox",
-      "html_url": "https://github.com/Tianyu199509/DeskBox",
-      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
-      "stars": 7526,
-      "forks": 396,
-      "language": "C#",
-      "pushed_at": "2026-10-24T15:09:59Z",
-      "updated_at": "2026-10-24T15:23:15Z"
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5848,
+      "forks": 779,
+      "language": "Elixir",
+      "pushed_at": "2026-10-24T18:08:21Z",
+      "updated_at": "2026-10-24T18:03:07Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3736,
-      "forks": 188,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2318,
+      "forks": 148,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:05:19Z",
-      "updated_at": "2026-10-24T15:00:42Z"
+      "pushed_at": "2026-10-24T18:22:10Z",
+      "updated_at": "2026-10-24T18:22:15Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1588,
+      "stars": 1589,
       "forks": 56,
       "language": "Rust",
-      "pushed_at": "2026-10-24T15:13:14Z",
-      "updated_at": "2026-10-24T15:16:48Z"
+      "pushed_at": "2026-10-24T18:10:02Z",
+      "updated_at": "2026-10-24T18:17:04Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 909,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-10-24T14:57:37Z",
-      "updated_at": "2026-10-24T14:57:52Z"
-    },
-    {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 731,
-      "forks": 130,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-24T15:10:11Z",
-      "updated_at": "2026-10-24T15:10:15Z"
-    },
-    {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 516,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:15:16Z",
-      "updated_at": "2026-10-24T15:15:20Z"
-    },
-    {
-      "id": 1041102492,
-      "full_name": "leeguooooo/claude-code-usage-bar",
-      "html_url": "https://github.com/leeguooooo/claude-code-usage-bar",
-      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
-      "stars": 380,
-      "forks": 28,
-      "language": "Python",
-      "pushed_at": "2026-10-24T14:53:17Z",
-      "updated_at": "2026-10-24T14:52:23Z"
-    },
-    {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 195,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+      "stars": 785,
       "forks": 13,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-24T14:55:19Z",
-      "updated_at": "2026-10-24T14:55:25Z"
+      "language": "Python",
+      "pushed_at": "2026-10-24T18:04:02Z",
+      "updated_at": "2026-10-24T18:28:12Z"
+    },
+    {
+      "id": 1409305885,
+      "full_name": "opennookorg/betterwispr",
+      "html_url": "https://github.com/opennookorg/betterwispr",
+      "description": "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.",
+      "stars": 426,
+      "forks": 33,
+      "language": "Swift",
+      "pushed_at": "2026-10-24T18:21:05Z",
+      "updated_at": "2026-10-24T18:21:09Z"
+    },
+    {
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 9,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-24T18:01:48Z",
+      "updated_at": "2026-10-24T18:01:50Z"
+    },
+    {
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 299,
+      "forks": 18,
+      "language": "Python",
+      "pushed_at": "2026-10-24T17:57:55Z",
+      "updated_at": "2026-10-24T17:57:59Z"
+    },
+    {
+      "id": 222278547,
+      "full_name": "penge/my-notes",
+      "html_url": "https://github.com/penge/my-notes",
+      "description": "Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.",
+      "stars": 266,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-24T18:24:09Z",
+      "updated_at": "2026-10-24T18:24:12Z"
     },
     {
       "id": 1264434310,
@@ -147,30 +125,52 @@
       "stars": 166,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:22:03Z",
-      "updated_at": "2026-10-24T15:17:01Z"
+      "pushed_at": "2026-10-24T18:17:03Z",
+      "updated_at": "2026-10-24T18:03:58Z"
     },
     {
-      "id": 1412617976,
-      "full_name": "pixari/OpenTodo",
-      "html_url": "https://github.com/pixari/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 114,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:22:28Z",
-      "updated_at": "2026-10-24T15:19:15Z"
+      "id": 1282443178,
+      "full_name": "WizenPainter/shuffle",
+      "html_url": "https://github.com/WizenPainter/shuffle",
+      "description": "Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.",
+      "stars": 147,
+      "forks": 7,
+      "language": "Rust",
+      "pushed_at": "2026-10-24T17:56:28Z",
+      "updated_at": "2026-10-24T17:56:31Z"
     },
     {
-      "id": 1311412333,
-      "full_name": "Regncreative/Wedge",
-      "html_url": "https://github.com/Regncreative/Wedge",
-      "description": "Wedge: a file shelf on the edge of your screen, for Windows",
-      "stars": 88,
-      "forks": 6,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T15:22:39Z",
-      "updated_at": "2026-10-24T15:22:41Z"
+      "id": 1336386025,
+      "full_name": "RopemakerEnd/ds4windows-lab-2026",
+      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "stars": 139,
+      "forks": 12,
+      "language": "HTML",
+      "pushed_at": "2026-10-24T17:58:02Z",
+      "updated_at": "2026-10-24T17:58:06Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 117,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-24T17:55:31Z",
+      "updated_at": "2026-10-24T17:55:34Z"
+    },
+    {
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 110,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-10-24T18:34:17Z",
+      "updated_at": "2026-10-24T18:33:56Z"
     }
   ]
 }
