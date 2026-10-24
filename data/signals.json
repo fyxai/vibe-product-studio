@@ -8,26 +8,15 @@
   "total_found": 1236,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23114,
-      "forks": 2196,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T18:22:04Z",
-      "updated_at": "2026-10-24T18:31:03Z"
-    },
-    {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8560,
-      "forks": 1289,
+      "stars": 8569,
+      "forks": 1290,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T18:34:31Z",
-      "updated_at": "2026-10-24T17:59:42Z"
+      "pushed_at": "2026-10-24T22:04:10Z",
+      "updated_at": "2026-10-24T21:32:58Z"
     },
     {
       "id": 129699403,
@@ -37,52 +26,63 @@
       "stars": 5848,
       "forks": 779,
       "language": "Elixir",
-      "pushed_at": "2026-10-24T18:08:21Z",
-      "updated_at": "2026-10-24T18:03:07Z"
+      "pushed_at": "2026-10-24T22:12:44Z",
+      "updated_at": "2026-10-24T21:15:24Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2318,
-      "forks": 148,
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5686,
+      "forks": 669,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-24T21:44:22Z",
+      "updated_at": "2026-10-24T21:44:28Z"
+    },
+    {
+      "id": 1114821770,
+      "full_name": "DaKheera47/job-ops",
+      "html_url": "https://github.com/DaKheera47/job-ops",
+      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
+      "stars": 4068,
+      "forks": 544,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T18:22:10Z",
-      "updated_at": "2026-10-24T18:22:15Z"
+      "pushed_at": "2026-10-24T22:12:35Z",
+      "updated_at": "2026-10-24T21:58:59Z"
     },
     {
-      "id": 1148683593,
-      "full_name": "eval-exec/neomacs",
-      "html_url": "https://github.com/eval-exec/neomacs",
-      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1589,
-      "forks": 56,
-      "language": "Rust",
-      "pushed_at": "2026-10-24T18:10:02Z",
-      "updated_at": "2026-10-24T18:17:04Z"
-    },
-    {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-      "stars": 785,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-10-24T18:04:02Z",
-      "updated_at": "2026-10-24T18:28:12Z"
-    },
-    {
-      "id": 1409305885,
-      "full_name": "opennookorg/betterwispr",
-      "html_url": "https://github.com/opennookorg/betterwispr",
-      "description": "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.",
-      "stars": 426,
-      "forks": 33,
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3419,
+      "forks": 159,
       "language": "Swift",
-      "pushed_at": "2026-10-24T18:21:05Z",
-      "updated_at": "2026-10-24T18:21:09Z"
+      "pushed_at": "2026-10-24T22:11:40Z",
+      "updated_at": "2026-10-24T22:11:45Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1157,
+      "forks": 208,
+      "language": "Go",
+      "pushed_at": "2026-10-24T21:45:58Z",
+      "updated_at": "2026-10-24T22:12:35Z"
+    },
+    {
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
+      "stars": 319,
+      "forks": 44,
+      "language": "Swift",
+      "pushed_at": "2026-10-24T21:45:33Z",
+      "updated_at": "2026-10-24T21:52:02Z"
     },
     {
       "id": 226175035,
@@ -92,30 +92,30 @@
       "stars": 318,
       "forks": 9,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T18:01:48Z",
-      "updated_at": "2026-10-24T18:01:50Z"
+      "pushed_at": "2026-10-24T21:48:45Z",
+      "updated_at": "2026-10-24T21:48:47Z"
     },
     {
       "id": 1412610162,
       "full_name": "SaarthurR/atticus-mac",
       "html_url": "https://github.com/SaarthurR/atticus-mac",
       "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 299,
-      "forks": 18,
+      "stars": 313,
+      "forks": 19,
       "language": "Python",
-      "pushed_at": "2026-10-24T17:57:55Z",
-      "updated_at": "2026-10-24T17:57:59Z"
+      "pushed_at": "2026-10-24T21:33:56Z",
+      "updated_at": "2026-10-24T22:09:00Z"
     },
     {
-      "id": 222278547,
-      "full_name": "penge/my-notes",
-      "html_url": "https://github.com/penge/my-notes",
-      "description": "Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.",
-      "stars": 266,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T18:24:09Z",
-      "updated_at": "2026-10-24T18:24:12Z"
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 199,
+      "forks": 17,
+      "language": "Swift",
+      "pushed_at": "2026-10-24T21:45:45Z",
+      "updated_at": "2026-10-24T21:42:09Z"
     },
     {
       "id": 1264434310,
@@ -125,52 +125,52 @@
       "stars": 166,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T18:17:03Z",
-      "updated_at": "2026-10-24T18:03:58Z"
+      "pushed_at": "2026-10-24T22:11:44Z",
+      "updated_at": "2026-10-24T22:02:56Z"
     },
     {
-      "id": 1282443178,
-      "full_name": "WizenPainter/shuffle",
-      "html_url": "https://github.com/WizenPainter/shuffle",
-      "description": "Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.",
-      "stars": 147,
-      "forks": 7,
-      "language": "Rust",
-      "pushed_at": "2026-10-24T17:56:28Z",
-      "updated_at": "2026-10-24T17:56:31Z"
+      "id": 92109482,
+      "full_name": "kwent/aws-launcher",
+      "html_url": "https://github.com/kwent/aws-launcher",
+      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
+      "stars": 132,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-24T21:47:55Z",
+      "updated_at": "2026-10-24T21:47:52Z"
     },
     {
-      "id": 1336386025,
-      "full_name": "RopemakerEnd/ds4windows-lab-2026",
-      "html_url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
-      "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-      "stars": 139,
-      "forks": 12,
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 119,
+      "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-10-24T17:58:02Z",
-      "updated_at": "2026-10-24T17:58:06Z"
+      "pushed_at": "2026-10-24T22:11:05Z",
+      "updated_at": "2026-10-24T22:11:09Z"
     },
     {
-      "id": 1283327964,
-      "full_name": "kaderkck/hewn-forge",
-      "html_url": "https://github.com/kaderkck/hewn-forge",
-      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-      "stars": 117,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-10-24T17:55:31Z",
-      "updated_at": "2026-10-24T17:55:34Z"
+      "id": 1412617976,
+      "full_name": "pixari/OpenTodo",
+      "html_url": "https://github.com/pixari/OpenTodo",
+      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
+      "stars": 114,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-24T22:09:20Z",
+      "updated_at": "2026-10-24T22:05:31Z"
     },
     {
-      "id": 1241977003,
-      "full_name": "futuregene/future-os",
-      "html_url": "https://github.com/futuregene/future-os",
-      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-      "stars": 110,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-10-24T18:34:17Z",
-      "updated_at": "2026-10-24T18:33:56Z"
+      "id": 616847538,
+      "full_name": "cattr-app/server-application",
+      "html_url": "https://github.com/cattr-app/server-application",
+      "description": "Cattr server application - self-hosted time tracking with project management, reports, screenshots, activity tracking and public API",
+      "stars": 103,
+      "forks": 58,
+      "language": "PHP",
+      "pushed_at": "2026-10-24T21:33:20Z",
+      "updated_at": "2026-10-24T21:25:30Z"
     }
   ]
 }
