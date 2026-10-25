@@ -5,18 +5,62 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1236,
+  "total_found": 1238,
   "items": [
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8569,
-      "forks": 1290,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27568,
+      "forks": 2441,
+      "language": "Go",
+      "pushed_at": "2026-10-25T03:06:42Z",
+      "updated_at": "2026-10-25T02:39:30Z"
+    },
+    {
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 23123,
+      "forks": 2196,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T22:04:10Z",
-      "updated_at": "2026-10-24T21:32:58Z"
+      "pushed_at": "2026-10-25T02:13:53Z",
+      "updated_at": "2026-10-25T03:18:41Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15786,
+      "forks": 1070,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-25T03:18:14Z",
+      "updated_at": "2026-10-25T02:57:05Z"
+    },
+    {
+      "id": 87668160,
+      "full_name": "atlas-engineer/nyxt",
+      "html_url": "https://github.com/atlas-engineer/nyxt",
+      "description": "Nyxt - the hacker's browser.",
+      "stars": 11039,
+      "forks": 465,
+      "language": "Common Lisp",
+      "pushed_at": "2026-10-25T03:13:24Z",
+      "updated_at": "2026-10-25T03:13:27Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 6147,
+      "forks": 978,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-25T02:55:02Z",
+      "updated_at": "2026-10-25T03:16:12Z"
     },
     {
       "id": 129699403,
@@ -26,41 +70,30 @@
       "stars": 5848,
       "forks": 779,
       "language": "Elixir",
-      "pushed_at": "2026-10-24T22:12:44Z",
-      "updated_at": "2026-10-24T21:15:24Z"
+      "pushed_at": "2026-10-25T02:53:09Z",
+      "updated_at": "2026-10-25T01:47:42Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5686,
-      "forks": 669,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-24T21:44:22Z",
-      "updated_at": "2026-10-24T21:44:28Z"
-    },
-    {
-      "id": 1114821770,
-      "full_name": "DaKheera47/job-ops",
-      "html_url": "https://github.com/DaKheera47/job-ops",
-      "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process",
-      "stars": 4068,
-      "forks": 544,
+      "id": 1111978380,
+      "full_name": "dongdongbh/Mindwtr",
+      "html_url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "stars": 2321,
+      "forks": 148,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T22:12:35Z",
-      "updated_at": "2026-10-24T21:58:59Z"
+      "pushed_at": "2026-10-25T02:21:05Z",
+      "updated_at": "2026-10-25T02:21:08Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3419,
-      "forks": 159,
-      "language": "Swift",
-      "pushed_at": "2026-10-24T22:11:40Z",
-      "updated_at": "2026-10-24T22:11:45Z"
+      "id": 860188605,
+      "full_name": "iwe-org/iwe",
+      "html_url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+      "stars": 1792,
+      "forks": 93,
+      "language": "Rust",
+      "pushed_at": "2026-10-25T02:17:17Z",
+      "updated_at": "2026-10-25T02:17:20Z"
     },
     {
       "id": 1109341946,
@@ -68,109 +101,76 @@
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
       "stars": 1157,
-      "forks": 208,
+      "forks": 209,
       "language": "Go",
-      "pushed_at": "2026-10-24T21:45:58Z",
-      "updated_at": "2026-10-24T22:12:35Z"
+      "pushed_at": "2026-10-25T03:14:47Z",
+      "updated_at": "2026-10-25T03:14:49Z"
     },
     {
-      "id": 1332399543,
-      "full_name": "JiangNanGenius/floe-agent",
-      "html_url": "https://github.com/JiangNanGenius/floe-agent",
-      "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
-      "stars": 319,
-      "forks": 44,
-      "language": "Swift",
-      "pushed_at": "2026-10-24T21:45:33Z",
-      "updated_at": "2026-10-24T21:52:02Z"
-    },
-    {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T21:48:45Z",
-      "updated_at": "2026-10-24T21:48:47Z"
-    },
-    {
-      "id": 1412610162,
-      "full_name": "SaarthurR/atticus-mac",
-      "html_url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 313,
-      "forks": 19,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+      "stars": 785,
+      "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-10-24T21:33:56Z",
-      "updated_at": "2026-10-24T22:09:00Z"
+      "pushed_at": "2026-10-25T03:12:08Z",
+      "updated_at": "2026-10-25T03:11:38Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 199,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-10-24T21:45:45Z",
-      "updated_at": "2026-10-24T21:42:09Z"
-    },
-    {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 166,
-      "forks": 0,
+      "id": 1311664525,
+      "full_name": "KitionAI/kition",
+      "html_url": "https://github.com/KitionAI/kition",
+      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
+      "stars": 521,
+      "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T22:11:44Z",
-      "updated_at": "2026-10-24T22:02:56Z"
+      "pushed_at": "2026-10-25T03:15:42Z",
+      "updated_at": "2026-10-25T03:15:46Z"
     },
     {
-      "id": 92109482,
-      "full_name": "kwent/aws-launcher",
-      "html_url": "https://github.com/kwent/aws-launcher",
-      "description": "AWS Launcher. Launch AWS Services from your macOS dock.",
-      "stars": 132,
-      "forks": 8,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 287,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-25T01:51:46Z",
+      "updated_at": "2026-10-25T01:48:21Z"
+    },
+    {
+      "id": 1217603969,
+      "full_name": "aliaihub/awesome-hermes-usecases",
+      "html_url": "https://github.com/aliaihub/awesome-hermes-usecases",
+      "description": "Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources.",
+      "stars": 275,
+      "forks": 23,
+      "language": "Python",
+      "pushed_at": "2026-10-25T01:46:45Z",
+      "updated_at": "2026-10-25T01:46:49Z"
+    },
+    {
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 197,
+      "forks": 13,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-25T03:14:17Z",
+      "updated_at": "2026-10-25T03:14:21Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 179,
+      "forks": 21,
       "language": "JavaScript",
-      "pushed_at": "2026-10-24T21:47:55Z",
-      "updated_at": "2026-10-24T21:47:52Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 119,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-10-24T22:11:05Z",
-      "updated_at": "2026-10-24T22:11:09Z"
-    },
-    {
-      "id": 1412617976,
-      "full_name": "pixari/OpenTodo",
-      "html_url": "https://github.com/pixari/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 114,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T22:09:20Z",
-      "updated_at": "2026-10-24T22:05:31Z"
-    },
-    {
-      "id": 616847538,
-      "full_name": "cattr-app/server-application",
-      "html_url": "https://github.com/cattr-app/server-application",
-      "description": "Cattr server application - self-hosted time tracking with project management, reports, screenshots, activity tracking and public API",
-      "stars": 103,
-      "forks": 58,
-      "language": "PHP",
-      "pushed_at": "2026-10-24T21:33:20Z",
-      "updated_at": "2026-10-24T21:25:30Z"
+      "pushed_at": "2026-10-25T03:10:08Z",
+      "updated_at": "2026-10-25T03:10:09Z"
     }
   ]
 }
