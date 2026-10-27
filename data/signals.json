@@ -8,70 +8,37 @@
   "total_found": 1250,
   "items": [
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24471,
-      "forks": 2330,
-      "language": "Python",
-      "pushed_at": "2026-10-27T16:55:04Z",
-      "updated_at": "2026-10-27T16:57:16Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23189,
-      "forks": 2209,
+      "stars": 23193,
+      "forks": 2212,
       "language": "TypeScript",
-      "pushed_at": "2026-10-27T16:54:52Z",
-      "updated_at": "2026-10-27T17:23:43Z"
+      "pushed_at": "2026-10-27T23:26:01Z",
+      "updated_at": "2026-10-27T23:09:54Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8627,
-      "forks": 1304,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-27T17:25:05Z",
-      "updated_at": "2026-10-27T17:12:05Z"
+      "id": 257400448,
+      "full_name": "carapace-sh/carapace-bin",
+      "html_url": "https://github.com/carapace-sh/carapace-bin",
+      "description": "A multi-shell completion binary.",
+      "stars": 2002,
+      "forks": 156,
+      "language": "Go",
+      "pushed_at": "2026-10-27T23:08:52Z",
+      "updated_at": "2026-10-27T23:06:53Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5853,
-      "forks": 781,
-      "language": "Elixir",
-      "pushed_at": "2026-10-27T17:24:06Z",
-      "updated_at": "2026-10-27T17:24:09Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5693,
-      "forks": 672,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-27T17:02:27Z",
-      "updated_at": "2026-10-27T17:02:34Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3457,
-      "forks": 160,
-      "language": "Swift",
-      "pushed_at": "2026-10-27T16:59:33Z",
-      "updated_at": "2026-10-27T16:59:38Z"
+      "id": 940594927,
+      "full_name": "open-saas-directory/awesome-native-macosx-apps",
+      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "description": "Discover the best native macOS apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities. Free and paid options. No Electron.",
+      "stars": 1659,
+      "forks": 192,
+      "language": "Shell",
+      "pushed_at": "2026-10-27T23:10:11Z",
+      "updated_at": "2026-10-27T22:43:21Z"
     },
     {
       "id": 1148683593,
@@ -81,41 +48,41 @@
       "stars": 1603,
       "forks": 59,
       "language": "Rust",
-      "pushed_at": "2026-10-27T17:23:03Z",
-      "updated_at": "2026-10-27T17:23:08Z"
+      "pushed_at": "2026-10-27T23:21:23Z",
+      "updated_at": "2026-10-27T23:21:29Z"
     },
     {
-      "id": 591366844,
-      "full_name": "lasantosr/intelli-shell",
-      "html_url": "https://github.com/lasantosr/intelli-shell",
-      "description": "Like IntelliSense, but for shells",
-      "stars": 1301,
-      "forks": 25,
-      "language": "Rust",
-      "pushed_at": "2026-10-27T17:18:37Z",
-      "updated_at": "2026-10-27T17:18:40Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 909,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-10-27T17:03:30Z",
-      "updated_at": "2026-10-27T17:03:36Z"
+      "id": 980286881,
+      "full_name": "amicalhq/amical",
+      "html_url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "stars": 1572,
+      "forks": 142,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-27T22:47:51Z",
+      "updated_at": "2026-10-27T22:47:55Z"
     },
     {
       "id": 1311664525,
       "full_name": "KitionAI/kition",
       "html_url": "https://github.com/KitionAI/kition",
       "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 535,
+      "stars": 536,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-10-27T17:24:28Z",
-      "updated_at": "2026-10-27T17:24:32Z"
+      "pushed_at": "2026-10-27T23:21:11Z",
+      "updated_at": "2026-10-27T23:21:15Z"
+    },
+    {
+      "id": 1283466765,
+      "full_name": "Licoy/Quosparr",
+      "html_url": "https://github.com/Licoy/Quosparr",
+      "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
+      "stars": 311,
+      "forks": 21,
+      "language": "Go",
+      "pushed_at": "2026-10-27T23:29:25Z",
+      "updated_at": "2026-10-27T23:29:26Z"
     },
     {
       "id": 1133241492,
@@ -125,52 +92,85 @@
       "stars": 289,
       "forks": 58,
       "language": "TypeScript",
-      "pushed_at": "2026-10-27T17:19:20Z",
-      "updated_at": "2026-10-27T17:08:08Z"
+      "pushed_at": "2026-10-27T22:45:55Z",
+      "updated_at": "2026-10-27T22:45:59Z"
     },
     {
       "id": 1288180765,
       "full_name": "KiwiCanopy/KiwiDesk",
       "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
       "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 214,
+      "stars": 215,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-10-27T17:14:14Z",
-      "updated_at": "2026-10-27T17:14:18Z"
+      "pushed_at": "2026-10-27T22:49:02Z",
+      "updated_at": "2026-10-27T22:44:53Z"
     },
     {
       "id": 1161274003,
       "full_name": "saurabhav88/EnviousWispr",
       "html_url": "https://github.com/saurabhav88/EnviousWispr",
       "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 200,
+      "stars": 201,
       "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-10-27T17:10:59Z",
-      "updated_at": "2026-10-27T17:11:04Z"
+      "pushed_at": "2026-10-27T23:23:13Z",
+      "updated_at": "2026-10-27T23:23:18Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 118,
-      "forks": 2,
-      "language": "HTML",
-      "pushed_at": "2026-10-27T17:15:04Z",
-      "updated_at": "2026-10-27T17:15:09Z"
-    },
-    {
-      "id": 1118438465,
-      "full_name": "travisjneuman/.claude",
-      "html_url": "https://github.com/travisjneuman/.claude",
-      "description": "The Ultimate Claude Code Toolkit: 180 skills, 10 agents, 29 commands, 7 hooks, and 81 marketplace repos (11,000+ community skills). Drop-in ~/.claude config with a generated index and router that loads the right resources on demand. Zero config required.",
-      "stars": 106,
-      "forks": 26,
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The control plane for your AI employees",
+      "stars": 188,
+      "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-27T17:20:00Z",
-      "updated_at": "2026-10-27T17:20:04Z"
+      "pushed_at": "2026-10-27T23:02:46Z",
+      "updated_at": "2026-10-27T22:50:07Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 178,
+      "forks": 21,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-27T23:02:51Z",
+      "updated_at": "2026-10-27T23:02:53Z"
+    },
+    {
+      "id": 1337168270,
+      "full_name": "ldbumble/taskuary",
+      "html_url": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 143,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-10-27T23:01:52Z",
+      "updated_at": "2026-10-27T23:01:57Z"
+    },
+    {
+      "id": 1351541578,
+      "full_name": "ysalitrynskyi/stedding-browser",
+      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
+      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
+      "stars": 100,
+      "forks": 3,
+      "language": "HTML",
+      "pushed_at": "2026-10-27T22:57:59Z",
+      "updated_at": "2026-10-27T22:58:03Z"
+    },
+    {
+      "id": 963138052,
+      "full_name": "msbelaid/PlugBrain",
+      "html_url": "https://github.com/msbelaid/PlugBrain",
+      "description": "Break the doomscroll habit with a quick math challenge. The more you scroll, the harder it gets. Step away and it gets easier. Open source, no ads, no tracking, works offline.",
+      "stars": 97,
+      "forks": 27,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-27T23:20:17Z",
+      "updated_at": "2026-10-27T22:30:47Z"
     }
   ]
 }
