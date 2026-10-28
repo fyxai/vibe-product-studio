@@ -5,40 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1250,
+  "total_found": 1251,
   "items": [
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23193,
-      "forks": 2212,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-27T23:26:01Z",
-      "updated_at": "2026-10-27T23:09:54Z"
-    },
-    {
-      "id": 257400448,
-      "full_name": "carapace-sh/carapace-bin",
-      "html_url": "https://github.com/carapace-sh/carapace-bin",
-      "description": "A multi-shell completion binary.",
-      "stars": 2002,
-      "forks": 156,
-      "language": "Go",
-      "pushed_at": "2026-10-27T23:08:52Z",
-      "updated_at": "2026-10-27T23:06:53Z"
-    },
-    {
-      "id": 940594927,
-      "full_name": "open-saas-directory/awesome-native-macosx-apps",
-      "html_url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
-      "description": "Discover the best native macOS apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities. Free and paid options. No Electron.",
-      "stars": 1659,
-      "forks": 192,
-      "language": "Shell",
-      "pushed_at": "2026-10-27T23:10:11Z",
-      "updated_at": "2026-10-27T22:43:21Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5694,
+      "forks": 672,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-28T04:05:40Z",
+      "updated_at": "2026-10-28T04:05:46Z"
     },
     {
       "id": 1148683593,
@@ -46,32 +24,43 @@
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "stars": 1603,
-      "forks": 59,
+      "forks": 60,
       "language": "Rust",
-      "pushed_at": "2026-10-27T23:21:23Z",
-      "updated_at": "2026-10-27T23:21:29Z"
+      "pushed_at": "2026-10-28T03:45:22Z",
+      "updated_at": "2026-10-28T03:45:27Z"
     },
     {
-      "id": 980286881,
-      "full_name": "amicalhq/amical",
-      "html_url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "stars": 1572,
-      "forks": 142,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-27T22:47:51Z",
-      "updated_at": "2026-10-27T22:47:55Z"
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command installs them into the tool you already use.",
+      "stars": 793,
+      "forks": 14,
+      "language": "Python",
+      "pushed_at": "2026-10-28T03:51:29Z",
+      "updated_at": "2026-10-28T03:39:51Z"
     },
     {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 536,
-      "forks": 40,
+      "id": 1418204810,
+      "full_name": "InukaAsith/TwinDesk",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "description": " All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux and Android. Free and open source. No account, no cloud, and now no shared network needed.",
+      "stars": 746,
+      "forks": 59,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-28T04:01:58Z",
+      "updated_at": "2026-10-28T04:06:36Z"
+    },
+    {
+      "id": 1294301448,
+      "full_name": "CatVinci-Studio/Textus",
+      "html_url": "https://github.com/CatVinci-Studio/Textus",
+      "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
+      "stars": 527,
+      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-10-27T23:21:11Z",
-      "updated_at": "2026-10-27T23:21:15Z"
+      "pushed_at": "2026-10-28T03:52:37Z",
+      "updated_at": "2026-10-28T03:51:06Z"
     },
     {
       "id": 1283466765,
@@ -79,65 +68,54 @@
       "html_url": "https://github.com/Licoy/Quosparr",
       "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
       "stars": 311,
-      "forks": 21,
+      "forks": 22,
       "language": "Go",
-      "pushed_at": "2026-10-27T23:29:25Z",
-      "updated_at": "2026-10-27T23:29:26Z"
+      "pushed_at": "2026-10-28T04:03:18Z",
+      "updated_at": "2026-10-28T04:03:23Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 289,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-27T22:45:55Z",
-      "updated_at": "2026-10-27T22:45:59Z"
-    },
-    {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 215,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-10-27T22:49:02Z",
-      "updated_at": "2026-10-27T22:44:53Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 201,
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 240,
       "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-10-27T23:23:13Z",
-      "updated_at": "2026-10-27T23:23:18Z"
+      "language": "Kotlin",
+      "pushed_at": "2026-10-28T03:33:59Z",
+      "updated_at": "2026-10-28T03:58:37Z"
+    },
+    {
+      "id": 1093854529,
+      "full_name": "Squirreljetpack/matchmaker",
+      "html_url": "https://github.com/Squirreljetpack/matchmaker",
+      "description": "powerful multi-purpose fuzzy searcher",
+      "stars": 239,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-10-28T03:23:01Z",
+      "updated_at": "2026-10-28T03:23:06Z"
     },
     {
       "id": 1133644268,
       "full_name": "LayerNorm/overlay-web",
       "html_url": "https://github.com/LayerNorm/overlay-web",
       "description": "The control plane for your AI employees",
-      "stars": 188,
+      "stars": 189,
       "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-10-27T23:02:46Z",
-      "updated_at": "2026-10-27T22:50:07Z"
+      "pushed_at": "2026-10-28T03:41:53Z",
+      "updated_at": "2026-10-28T04:01:27Z"
     },
     {
-      "id": 1140929355,
-      "full_name": "krelltunez/dayGLANCE",
-      "html_url": "https://github.com/krelltunez/dayGLANCE",
-      "description": "Your day, at a glance",
-      "stars": 178,
-      "forks": 21,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-27T23:02:51Z",
-      "updated_at": "2026-10-27T23:02:53Z"
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 169,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-28T03:29:43Z",
+      "updated_at": "2026-10-28T03:27:22Z"
     },
     {
       "id": 1337168270,
@@ -147,30 +125,52 @@
       "stars": 143,
       "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-10-27T23:01:52Z",
-      "updated_at": "2026-10-27T23:01:57Z"
+      "pushed_at": "2026-10-28T03:55:59Z",
+      "updated_at": "2026-10-28T03:56:03Z"
     },
     {
-      "id": 1351541578,
-      "full_name": "ysalitrynskyi/stedding-browser",
-      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
-      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
-      "stars": 100,
-      "forks": 3,
-      "language": "HTML",
-      "pushed_at": "2026-10-27T22:57:59Z",
-      "updated_at": "2026-10-27T22:58:03Z"
+      "id": 1241977003,
+      "full_name": "futuregene/future-os",
+      "html_url": "https://github.com/futuregene/future-os",
+      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+      "stars": 112,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-10-28T04:06:03Z",
+      "updated_at": "2026-10-28T04:06:08Z"
     },
     {
-      "id": 963138052,
-      "full_name": "msbelaid/PlugBrain",
-      "html_url": "https://github.com/msbelaid/PlugBrain",
-      "description": "Break the doomscroll habit with a quick math challenge. The more you scroll, the harder it gets. Step away and it gets easier. Open source, no ads, no tracking, works offline.",
+      "id": 1228480462,
+      "full_name": "krelltunez/lastGLANCE",
+      "html_url": "https://github.com/krelltunez/lastGLANCE",
+      "description": "When did you last...?",
+      "stars": 103,
+      "forks": 7,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-28T04:06:40Z",
+      "updated_at": "2026-10-28T04:04:04Z"
+    },
+    {
+      "id": 1423852275,
+      "full_name": "ipavlin98/traydex",
+      "html_url": "https://github.com/ipavlin98/traydex",
+      "description": "Native drag-and-drop shelf for Windows. Drag a file and it slides in: keep files, images, text and links at hand, or drop them on tiles to zip, convert, compress, OCR and upload. Rust + GPUI, no Electron or web engine.",
       "stars": 97,
-      "forks": 27,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-27T23:20:17Z",
-      "updated_at": "2026-10-27T22:30:47Z"
+      "forks": 0,
+      "language": "Rust",
+      "pushed_at": "2026-10-28T03:54:52Z",
+      "updated_at": "2026-10-28T03:54:55Z"
+    },
+    {
+      "id": 899559464,
+      "full_name": "VeteranBoLuo/light-note",
+      "html_url": "https://github.com/VeteranBoLuo/light-note",
+      "description": "轻笺 - 免费的书签、笔记与云文件管理平台，内置 AI 助手，支持跨设备同步｜Free bookmark, note and cloud file manager.",
+      "stars": 84,
+      "forks": 8,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-28T04:02:03Z",
+      "updated_at": "2026-10-28T04:02:07Z"
     }
   ]
 }
