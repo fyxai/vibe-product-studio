@@ -8,92 +8,103 @@
   "total_found": 1254,
   "items": [
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 46318,
-      "forks": 2993,
-      "language": "C#",
-      "pushed_at": "2026-10-28T20:36:06Z",
-      "updated_at": "2026-10-28T20:46:04Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23228,
-      "forks": 2219,
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+      "stars": 15839,
+      "forks": 1080,
       "language": "TypeScript",
-      "pushed_at": "2026-10-28T20:45:55Z",
-      "updated_at": "2026-10-28T20:40:08Z"
+      "pushed_at": "2026-10-29T03:50:08Z",
+      "updated_at": "2026-10-29T03:50:10Z"
     },
     {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5853,
-      "forks": 781,
-      "language": "Elixir",
-      "pushed_at": "2026-10-28T20:24:06Z",
-      "updated_at": "2026-10-28T20:24:12Z"
+      "id": 87668160,
+      "full_name": "atlas-engineer/nyxt",
+      "html_url": "https://github.com/atlas-engineer/nyxt",
+      "description": "Nyxt - the hacker's browser.",
+      "stars": 11043,
+      "forks": 465,
+      "language": "Common Lisp",
+      "pushed_at": "2026-10-29T03:38:39Z",
+      "updated_at": "2026-10-29T03:38:52Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8642,
+      "forks": 1308,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-29T04:08:30Z",
+      "updated_at": "2026-10-29T04:06:59Z"
     },
     {
       "id": 897595329,
       "full_name": "basicmachines-co/basic-memory",
       "html_url": "https://github.com/basicmachines-co/basic-memory",
       "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4388,
-      "forks": 340,
+      "stars": 4389,
+      "forks": 342,
       "language": "Python",
-      "pushed_at": "2026-10-28T20:32:13Z",
-      "updated_at": "2026-10-28T20:24:53Z"
+      "pushed_at": "2026-10-29T04:16:12Z",
+      "updated_at": "2026-10-29T03:46:32Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3765,
-      "forks": 189,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-28T20:07:44Z",
-      "updated_at": "2026-10-28T20:18:30Z"
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3466,
+      "forks": 160,
+      "language": "Swift",
+      "pushed_at": "2026-10-29T03:56:18Z",
+      "updated_at": "2026-10-29T03:56:22Z"
     },
     {
       "id": 1111978380,
       "full_name": "dongdongbh/Mindwtr",
       "html_url": "https://github.com/dongdongbh/Mindwtr",
       "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2338,
+      "stars": 2339,
       "forks": 149,
       "language": "TypeScript",
-      "pushed_at": "2026-10-28T20:03:59Z",
-      "updated_at": "2026-10-28T20:28:22Z"
+      "pushed_at": "2026-10-29T03:37:48Z",
+      "updated_at": "2026-10-29T03:37:53Z"
     },
     {
-      "id": 1294301448,
-      "full_name": "CatVinci-Studio/Textus",
-      "html_url": "https://github.com/CatVinci-Studio/Textus",
-      "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
-      "stars": 537,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-28T20:42:24Z",
-      "updated_at": "2026-10-28T20:08:13Z"
+      "id": 1148683593,
+      "full_name": "eval-exec/neomacs",
+      "html_url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "stars": 1607,
+      "forks": 60,
+      "language": "Rust",
+      "pushed_at": "2026-10-29T04:21:17Z",
+      "updated_at": "2026-10-29T04:21:22Z"
     },
     {
-      "id": 1412610162,
-      "full_name": "SaarthurR/atticus-mac",
-      "html_url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 432,
-      "forks": 36,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command installs them into the tool you already use.",
+      "stars": 794,
+      "forks": 14,
       "language": "Python",
-      "pushed_at": "2026-10-28T20:04:17Z",
-      "updated_at": "2026-10-28T20:04:22Z"
+      "pushed_at": "2026-10-29T04:00:10Z",
+      "updated_at": "2026-10-29T03:53:27Z"
+    },
+    {
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 207,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-29T04:04:01Z",
+      "updated_at": "2026-10-29T03:56:43Z"
     },
     {
       "id": 1161274003,
@@ -103,41 +114,52 @@
       "stars": 201,
       "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-10-28T20:32:11Z",
-      "updated_at": "2026-10-28T19:56:55Z"
+      "pushed_at": "2026-10-29T04:22:00Z",
+      "updated_at": "2026-10-29T04:22:03Z"
     },
     {
-      "id": 1427884455,
-      "full_name": "Manan-Santoki/OpenShelf",
-      "html_url": "https://github.com/Manan-Santoki/OpenShelf",
-      "description": "Free, open-source Mac utility: start dragging any file, tap a key, and drop it on a wheel to convert, edit, AirDrop or shelve it. Runs fully offline.",
-      "stars": 162,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-10-28T19:59:58Z",
-      "updated_at": "2026-10-28T20:00:04Z"
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 171,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-29T04:27:11Z",
+      "updated_at": "2026-10-29T03:50:26Z"
     },
     {
       "id": 1337168270,
       "full_name": "ldbumble/taskuary",
       "html_url": "https://github.com/ldbumble/taskuary",
       "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
-      "stars": 143,
+      "stars": 144,
       "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-10-28T20:43:35Z",
-      "updated_at": "2026-10-28T20:24:16Z"
+      "pushed_at": "2026-10-29T04:27:37Z",
+      "updated_at": "2026-10-29T04:27:41Z"
     },
     {
-      "id": 1376488452,
-      "full_name": "kishormorol/cli-faq-shortcuts",
-      "html_url": "https://github.com/kishormorol/cli-faq-shortcuts",
-      "description": "Turn repeated Claude Code, Codex, and Cursor prompts into reusable slash commands. Local Python history extractor + Agent Skill.",
-      "stars": 132,
-      "forks": 5,
-      "language": "Python",
-      "pushed_at": "2026-10-28T19:52:10Z",
-      "updated_at": "2026-10-28T19:52:12Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-29T03:57:04Z",
+      "updated_at": "2026-10-29T03:57:07Z"
+    },
+    {
+      "id": 1355857144,
+      "full_name": "theguysudo/ENZO",
+      "html_url": "https://github.com/theguysudo/ENZO",
+      "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+      "stars": 116,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-29T03:55:54Z",
+      "updated_at": "2026-10-29T03:55:58Z"
     },
     {
       "id": 1241977003,
@@ -147,30 +169,8 @@
       "stars": 112,
       "forks": 13,
       "language": "Rust",
-      "pushed_at": "2026-10-28T20:45:13Z",
-      "updated_at": "2026-10-28T20:44:59Z"
-    },
-    {
-      "id": 1431613937,
-      "full_name": "lucacadalora/oyenza-studio",
-      "html_url": "https://github.com/lucacadalora/oyenza-studio",
-      "description": "Oyenza Studio (formerly Oyen Poni): a living notch (Dynamic Island) for Windows and Mac. Music with synced lyrics, a focus timer, a file shelf your phone can drop into, tasks, clipboard history and live system stats. Native Rust, free and open source.",
-      "stars": 108,
-      "forks": 18,
-      "language": "Rust",
-      "pushed_at": "2026-10-28T20:44:46Z",
-      "updated_at": "2026-10-28T20:44:25Z"
-    },
-    {
-      "id": 1227957944,
-      "full_name": "Mikedev115/Aetox-Harness",
-      "html_url": "https://github.com/Mikedev115/Aetox-Harness",
-      "description": "Aetox: a local-first Windows AI environment - model, skills, team and memory as one system. Two doors - an Assistant that adapts to your work and drives a real browser; and a Developer that names each weakness before writing, checks the project's security, runs the project's tests before saying done, and remembers what this project decided.",
-      "stars": 83,
-      "forks": 20,
-      "language": "Go",
-      "pushed_at": "2026-10-28T20:17:32Z",
-      "updated_at": "2026-10-28T20:17:37Z"
+      "pushed_at": "2026-10-29T04:28:56Z",
+      "updated_at": "2026-10-29T04:09:22Z"
     }
   ]
 }
