@@ -12,55 +12,22 @@
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23304,
+      "stars": 23305,
       "forks": 2232,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T19:19:54Z",
-      "updated_at": "2026-10-31T19:20:01Z"
+      "pushed_at": "2026-10-31T22:42:53Z",
+      "updated_at": "2026-10-31T22:29:46Z"
     },
     {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13842,
-      "forks": 868,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T19:39:15Z",
-      "updated_at": "2026-10-31T19:39:19Z"
-    },
-    {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12872,
-      "forks": 1653,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T19:38:38Z",
-      "updated_at": "2026-10-31T19:29:10Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5857,
-      "forks": 780,
-      "language": "Elixir",
-      "pushed_at": "2026-10-31T19:23:19Z",
-      "updated_at": "2026-10-31T19:10:14Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3495,
-      "forks": 162,
-      "language": "Swift",
-      "pushed_at": "2026-10-31T19:36:47Z",
-      "updated_at": "2026-10-31T19:36:53Z"
+      "id": 1416442720,
+      "full_name": "microsoft/TokenEconomizer",
+      "html_url": "https://github.com/microsoft/TokenEconomizer",
+      "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+      "stars": 3008,
+      "forks": 178,
+      "language": "Python",
+      "pushed_at": "2026-10-31T22:53:30Z",
+      "updated_at": "2026-10-31T23:05:04Z"
     },
     {
       "id": 323279421,
@@ -70,63 +37,63 @@
       "stars": 2085,
       "forks": 157,
       "language": "Dart",
-      "pushed_at": "2026-10-31T19:31:41Z",
-      "updated_at": "2026-10-31T19:31:45Z"
+      "pushed_at": "2026-10-31T22:38:13Z",
+      "updated_at": "2026-10-31T22:35:09Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1669,
+      "stars": 1672,
       "forks": 67,
       "language": "Rust",
-      "pushed_at": "2026-10-31T19:12:37Z",
-      "updated_at": "2026-10-31T19:23:10Z"
+      "pushed_at": "2026-10-31T22:53:21Z",
+      "updated_at": "2026-10-31T22:56:34Z"
     },
     {
-      "id": 1294301448,
-      "full_name": "CatVinci-Studio/Textus",
-      "html_url": "https://github.com/CatVinci-Studio/Textus",
-      "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
-      "stars": 559,
-      "forks": 26,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T19:43:02Z",
-      "updated_at": "2026-10-31T19:43:05Z"
-    },
-    {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 421,
-      "forks": 54,
-      "language": "PHP",
-      "pushed_at": "2026-10-31T19:12:45Z",
-      "updated_at": "2026-10-31T19:12:46Z"
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 489,
+      "forks": 42,
+      "language": "Python",
+      "pushed_at": "2026-10-31T22:20:06Z",
+      "updated_at": "2026-10-31T22:20:11Z"
     },
     {
       "id": 1332399543,
       "full_name": "JiangNanGenius/floe-agent",
       "html_url": "https://github.com/JiangNanGenius/floe-agent",
       "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, CAD/3D, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
-      "stars": 394,
+      "stars": 395,
       "forks": 55,
       "language": "Swift",
-      "pushed_at": "2026-10-31T19:10:10Z",
-      "updated_at": "2026-10-31T19:39:18Z"
+      "pushed_at": "2026-10-31T22:49:47Z",
+      "updated_at": "2026-10-31T22:49:52Z"
     },
     {
-      "id": 1412617976,
-      "full_name": "OpenTodoApp/OpenTodo",
-      "html_url": "https://github.com/OpenTodoApp/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 210,
-      "forks": 19,
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 9,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T19:42:43Z",
-      "updated_at": "2026-10-31T19:34:24Z"
+      "pushed_at": "2026-10-31T22:17:34Z",
+      "updated_at": "2026-10-31T22:17:36Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 296,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T22:48:44Z",
+      "updated_at": "2026-10-31T22:38:13Z"
     },
     {
       "id": 1161274003,
@@ -136,30 +103,8 @@
       "stars": 204,
       "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-10-31T19:08:57Z",
-      "updated_at": "2026-10-31T19:09:01Z"
-    },
-    {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 172,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T19:43:13Z",
-      "updated_at": "2026-10-31T19:42:28Z"
-    },
-    {
-      "id": 1351541578,
-      "full_name": "ysalitrynskyi/stedding-browser",
-      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
-      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
-      "stars": 120,
-      "forks": 4,
-      "language": "HTML",
-      "pushed_at": "2026-10-31T19:12:45Z",
-      "updated_at": "2026-10-31T19:12:48Z"
+      "pushed_at": "2026-10-31T22:54:13Z",
+      "updated_at": "2026-10-31T22:54:16Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +114,63 @@
       "stars": 118,
       "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-10-31T18:59:37Z",
-      "updated_at": "2026-10-31T18:59:41Z"
+      "pushed_at": "2026-10-31T22:23:00Z",
+      "updated_at": "2026-10-31T22:23:03Z"
+    },
+    {
+      "id": 1283327964,
+      "full_name": "kaderkck/hewn-forge",
+      "html_url": "https://github.com/kaderkck/hewn-forge",
+      "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+      "stars": 116,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-31T22:16:12Z",
+      "updated_at": "2026-10-31T22:16:15Z"
+    },
+    {
+      "id": 655394597,
+      "full_name": "aliammari1/awesome-ai-tools",
+      "html_url": "https://github.com/aliammari1/awesome-ai-tools",
+      "description": "Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers",
+      "stars": 108,
+      "forks": 172,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T22:33:45Z",
+      "updated_at": "2026-10-31T22:33:50Z"
+    },
+    {
+      "id": 1228480462,
+      "full_name": "krelltunez/lastGLANCE",
+      "html_url": "https://github.com/krelltunez/lastGLANCE",
+      "description": "When did you last...?",
+      "stars": 103,
+      "forks": 7,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T22:44:45Z",
+      "updated_at": "2026-10-31T22:44:46Z"
+    },
+    {
+      "id": 1319670891,
+      "full_name": "qeude/Defi",
+      "html_url": "https://github.com/qeude/Defi",
+      "description": "A fast, native scrollable-tiling window manager for macOS, inspired by Niri.",
+      "stars": 83,
+      "forks": 3,
+      "language": "Swift",
+      "pushed_at": "2026-10-31T22:56:41Z",
+      "updated_at": "2026-10-31T22:57:28Z"
+    },
+    {
+      "id": 1382376004,
+      "full_name": "mougheesimam/Surfer-SEO-Desktop-Complete",
+      "html_url": "https://github.com/mougheesimam/Surfer-SEO-Desktop-Complete",
+      "description": "Complete Surfer SEO 2026 Desktop Installer for Windows Search Optimization",
+      "stars": 71,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-31T22:20:57Z",
+      "updated_at": "2026-10-31T22:21:01Z"
     }
   ]
 }
