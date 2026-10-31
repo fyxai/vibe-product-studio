@@ -5,106 +5,117 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1260,
+  "total_found": 1261,
   "items": [
     {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27589,
-      "forks": 2442,
-      "language": "Go",
-      "pushed_at": "2026-10-31T03:03:44Z",
-      "updated_at": "2026-10-31T03:03:48Z"
-    },
-    {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
-      "stars": 15864,
-      "forks": 1081,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 134918,
+      "forks": 15942,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:03:15Z",
-      "updated_at": "2026-10-31T04:03:18Z"
+      "pushed_at": "2026-10-31T14:13:55Z",
+      "updated_at": "2026-10-31T14:16:00Z"
     },
     {
-      "id": 87668160,
-      "full_name": "atlas-engineer/nyxt",
-      "html_url": "https://github.com/atlas-engineer/nyxt",
-      "description": "Nyxt - the hacker's browser.",
-      "stars": 11046,
-      "forks": 468,
-      "language": "Common Lisp",
-      "pushed_at": "2026-10-31T03:40:43Z",
-      "updated_at": "2026-10-31T03:40:49Z"
+      "id": 66150122,
+      "full_name": "jarun/nnn",
+      "html_url": "https://github.com/jarun/nnn",
+      "description": "n³ The unorthodox terminal file manager",
+      "stars": 22101,
+      "forks": 833,
+      "language": "C",
+      "pushed_at": "2026-10-31T14:01:24Z",
+      "updated_at": "2026-10-31T14:01:30Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13842,
+      "forks": 868,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T13:49:21Z",
+      "updated_at": "2026-10-31T13:49:25Z"
+    },
+    {
+      "id": 1180917769,
+      "full_name": "uditgoenka/autoresearch",
+      "html_url": "https://github.com/uditgoenka/autoresearch",
+      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+      "stars": 6779,
+      "forks": 494,
+      "language": "Shell",
+      "pushed_at": "2026-10-31T13:56:11Z",
+      "updated_at": "2026-10-31T13:54:15Z"
+    },
+    {
+      "id": 129699403,
+      "full_name": "tuist/tuist",
+      "html_url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "stars": 5856,
+      "forks": 781,
+      "language": "Elixir",
+      "pushed_at": "2026-10-31T14:06:08Z",
+      "updated_at": "2026-10-31T13:54:30Z"
+    },
+    {
+      "id": 1010561139,
+      "full_name": "AmintaCCCP/GithubStarsManager",
+      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
+      "stars": 3780,
+      "forks": 191,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T13:57:06Z",
+      "updated_at": "2026-10-31T13:57:12Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1617,
-      "forks": 65,
+      "stars": 1646,
+      "forks": 67,
       "language": "Rust",
-      "pushed_at": "2026-10-31T04:09:07Z",
-      "updated_at": "2026-10-31T04:09:12Z"
+      "pushed_at": "2026-10-31T13:52:02Z",
+      "updated_at": "2026-10-31T14:08:43Z"
     },
     {
-      "id": 1368167244,
-      "full_name": "DayuanJiang/PecoFence",
-      "html_url": "https://github.com/DayuanJiang/PecoFence",
-      "description": "A free, open-source Stardock Fences alternative for Windows 11. Glass fences, live folders, tabs, Peek. Rust, ten languages, portable.",
-      "stars": 706,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-10-31T04:02:28Z",
-      "updated_at": "2026-10-31T04:02:34Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 600,
-      "forks": 114,
+      "id": 1124919682,
+      "full_name": "Gimanh/taskview-community",
+      "html_url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "stars": 1386,
+      "forks": 136,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:01:21Z",
-      "updated_at": "2026-10-31T04:00:40Z"
+      "pushed_at": "2026-10-31T13:46:02Z",
+      "updated_at": "2026-10-31T13:33:00Z"
     },
     {
-      "id": 1309395119,
-      "full_name": "sazardev/shiki",
-      "html_url": "https://github.com/sazardev/shiki",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "stars": 336,
-      "forks": 19,
-      "language": "Rust",
-      "pushed_at": "2026-10-31T03:59:07Z",
-      "updated_at": "2026-10-31T03:59:10Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 293,
-      "forks": 58,
+      "id": 1294301448,
+      "full_name": "CatVinci-Studio/Textus",
+      "html_url": "https://github.com/CatVinci-Studio/Textus",
+      "description": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux.",
+      "stars": 559,
+      "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:04:05Z",
-      "updated_at": "2026-10-31T03:53:39Z"
+      "pushed_at": "2026-10-31T13:46:06Z",
+      "updated_at": "2026-10-31T13:46:09Z"
     },
     {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 253,
-      "forks": 19,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-31T03:55:28Z",
-      "updated_at": "2026-10-31T03:55:32Z"
+      "id": 226175035,
+      "full_name": "kachkaev/njt",
+      "html_url": "https://github.com/kachkaev/njt",
+      "description": "njt (npm jump to): a quick navigation tool for npm packages",
+      "stars": 318,
+      "forks": 9,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T13:56:11Z",
+      "updated_at": "2026-10-31T13:56:14Z"
     },
     {
       "id": 1288180765,
@@ -114,30 +125,19 @@
       "stars": 216,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-10-31T04:01:08Z",
-      "updated_at": "2026-10-31T04:01:12Z"
-    },
-    {
-      "id": 1414714898,
-      "full_name": "cristipufu/strata-files",
-      "html_url": "https://github.com/cristipufu/strata-files",
-      "description": "Strata Files: a fast, native, keyboard-first file manager and Finder alternative for macOS. Instant search, live folder sizes, disk usage map, dual pane.",
-      "stars": 211,
-      "forks": 13,
-      "language": "Swift",
-      "pushed_at": "2026-10-31T03:49:13Z",
-      "updated_at": "2026-10-31T03:49:19Z"
+      "pushed_at": "2026-10-31T13:40:59Z",
+      "updated_at": "2026-10-31T13:40:55Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 195,
+      "stars": 199,
       "forks": 19,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:05:27Z",
-      "updated_at": "2026-10-31T04:05:31Z"
+      "pushed_at": "2026-10-31T14:04:35Z",
+      "updated_at": "2026-10-31T14:04:39Z"
     },
     {
       "id": 1264434310,
@@ -147,30 +147,30 @@
       "stars": 172,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T03:38:53Z",
-      "updated_at": "2026-10-31T03:22:12Z"
+      "pushed_at": "2026-10-31T14:14:39Z",
+      "updated_at": "2026-10-31T14:05:27Z"
     },
     {
-      "id": 1288827571,
-      "full_name": "FileMintApp/FileMint",
-      "html_url": "https://github.com/FileMintApp/FileMint",
-      "description": "Native macOS Finder extension for right-click file creation, templates, batch rename, checksums, image compression and OCR. Mac 右键新建文件、批量重命名、文件校验、图片压缩与文字识别。",
-      "stars": 153,
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-10-31T14:13:10Z",
+      "updated_at": "2026-10-31T14:13:13Z"
+    },
+    {
+      "id": 1370979034,
+      "full_name": "PathGao/MoonDigest",
+      "html_url": "https://github.com/PathGao/MoonDigest",
+      "description": "用 AI 读完收藏的视频、整理 B 站收藏夹的 Chrome 扩展：字幕、AI 总结问答、收藏夹分拣，导出 Markdown，可选写入 Obsidian · Read and triage saved Bilibili & YouTube videos with AI: subtitles, AI summaries, favorites triage, Markdown and optional Obsidian export",
+      "stars": 98,
       "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-10-31T04:00:09Z",
-      "updated_at": "2026-10-31T04:00:13Z"
-    },
-    {
-      "id": 655394597,
-      "full_name": "aliammari1/awesome-ai-tools",
-      "html_url": "https://github.com/aliammari1/awesome-ai-tools",
-      "description": "Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers",
-      "stars": 108,
-      "forks": 167,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:11:07Z",
-      "updated_at": "2026-10-31T04:11:11Z"
+      "language": "JavaScript",
+      "pushed_at": "2026-10-31T13:55:39Z",
+      "updated_at": "2026-10-31T13:55:20Z"
     }
   ]
 }
