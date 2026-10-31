@@ -5,29 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1261,
+  "total_found": 1269,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 134918,
-      "forks": 15942,
+      "id": 78243781,
+      "full_name": "super-productivity/super-productivity",
+      "html_url": "https://github.com/super-productivity/super-productivity",
+      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "stars": 23304,
+      "forks": 2232,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T14:13:55Z",
-      "updated_at": "2026-10-31T14:16:00Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 22101,
-      "forks": 833,
-      "language": "C",
-      "pushed_at": "2026-10-31T14:01:24Z",
-      "updated_at": "2026-10-31T14:01:30Z"
+      "pushed_at": "2026-10-31T19:19:54Z",
+      "updated_at": "2026-10-31T19:20:01Z"
     },
     {
       "id": 115446081,
@@ -37,63 +26,63 @@
       "stars": 13842,
       "forks": 868,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T13:49:21Z",
-      "updated_at": "2026-10-31T13:49:25Z"
+      "pushed_at": "2026-10-31T19:39:15Z",
+      "updated_at": "2026-10-31T19:39:19Z"
     },
     {
-      "id": 1180917769,
-      "full_name": "uditgoenka/autoresearch",
-      "html_url": "https://github.com/uditgoenka/autoresearch",
-      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 6779,
-      "forks": 494,
-      "language": "Shell",
-      "pushed_at": "2026-10-31T13:56:11Z",
-      "updated_at": "2026-10-31T13:54:15Z"
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12872,
+      "forks": 1653,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T19:38:38Z",
+      "updated_at": "2026-10-31T19:29:10Z"
     },
     {
       "id": 129699403,
       "full_name": "tuist/tuist",
       "html_url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
-      "stars": 5856,
-      "forks": 781,
+      "stars": 5857,
+      "forks": 780,
       "language": "Elixir",
-      "pushed_at": "2026-10-31T14:06:08Z",
-      "updated_at": "2026-10-31T13:54:30Z"
+      "pushed_at": "2026-10-31T19:23:19Z",
+      "updated_at": "2026-10-31T19:10:14Z"
     },
     {
-      "id": 1010561139,
-      "full_name": "AmintaCCCP/GithubStarsManager",
-      "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3780,
-      "forks": 191,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T13:57:06Z",
-      "updated_at": "2026-10-31T13:57:12Z"
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3495,
+      "forks": 162,
+      "language": "Swift",
+      "pushed_at": "2026-10-31T19:36:47Z",
+      "updated_at": "2026-10-31T19:36:53Z"
+    },
+    {
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2085,
+      "forks": 157,
+      "language": "Dart",
+      "pushed_at": "2026-10-31T19:31:41Z",
+      "updated_at": "2026-10-31T19:31:45Z"
     },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1646,
+      "stars": 1669,
       "forks": 67,
       "language": "Rust",
-      "pushed_at": "2026-10-31T13:52:02Z",
-      "updated_at": "2026-10-31T14:08:43Z"
-    },
-    {
-      "id": 1124919682,
-      "full_name": "Gimanh/taskview-community",
-      "html_url": "https://github.com/Gimanh/taskview-community",
-      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 1386,
-      "forks": 136,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T13:46:02Z",
-      "updated_at": "2026-10-31T13:33:00Z"
+      "pushed_at": "2026-10-31T19:12:37Z",
+      "updated_at": "2026-10-31T19:23:10Z"
     },
     {
       "id": 1294301448,
@@ -103,41 +92,52 @@
       "stars": 559,
       "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T13:46:06Z",
-      "updated_at": "2026-10-31T13:46:09Z"
+      "pushed_at": "2026-10-31T19:43:02Z",
+      "updated_at": "2026-10-31T19:43:05Z"
     },
     {
-      "id": 226175035,
-      "full_name": "kachkaev/njt",
-      "html_url": "https://github.com/kachkaev/njt",
-      "description": "njt (npm jump to): a quick navigation tool for npm packages",
-      "stars": 318,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T13:56:11Z",
-      "updated_at": "2026-10-31T13:56:14Z"
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 421,
+      "forks": 54,
+      "language": "PHP",
+      "pushed_at": "2026-10-31T19:12:45Z",
+      "updated_at": "2026-10-31T19:12:46Z"
     },
     {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 216,
-      "forks": 8,
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, CAD/3D, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
+      "stars": 394,
+      "forks": 55,
       "language": "Swift",
-      "pushed_at": "2026-10-31T13:40:59Z",
-      "updated_at": "2026-10-31T13:40:55Z"
+      "pushed_at": "2026-10-31T19:10:10Z",
+      "updated_at": "2026-10-31T19:39:18Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 199,
+      "stars": 210,
       "forks": 19,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T14:04:35Z",
-      "updated_at": "2026-10-31T14:04:39Z"
+      "pushed_at": "2026-10-31T19:42:43Z",
+      "updated_at": "2026-10-31T19:34:24Z"
+    },
+    {
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 204,
+      "forks": 17,
+      "language": "Swift",
+      "pushed_at": "2026-10-31T19:08:57Z",
+      "updated_at": "2026-10-31T19:09:01Z"
     },
     {
       "id": 1264434310,
@@ -147,8 +147,19 @@
       "stars": 172,
       "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T14:14:39Z",
-      "updated_at": "2026-10-31T14:05:27Z"
+      "pushed_at": "2026-10-31T19:43:13Z",
+      "updated_at": "2026-10-31T19:42:28Z"
+    },
+    {
+      "id": 1351541578,
+      "full_name": "ysalitrynskyi/stedding-browser",
+      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
+      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
+      "stars": 120,
+      "forks": 4,
+      "language": "HTML",
+      "pushed_at": "2026-10-31T19:12:45Z",
+      "updated_at": "2026-10-31T19:12:48Z"
     },
     {
       "id": 1283323996,
@@ -158,19 +169,8 @@
       "stars": 118,
       "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-10-31T14:13:10Z",
-      "updated_at": "2026-10-31T14:13:13Z"
-    },
-    {
-      "id": 1370979034,
-      "full_name": "PathGao/MoonDigest",
-      "html_url": "https://github.com/PathGao/MoonDigest",
-      "description": "用 AI 读完收藏的视频、整理 B 站收藏夹的 Chrome 扩展：字幕、AI 总结问答、收藏夹分拣，导出 Markdown，可选写入 Obsidian · Read and triage saved Bilibili & YouTube videos with AI: subtitles, AI summaries, favorites triage, Markdown and optional Obsidian export",
-      "stars": 98,
-      "forks": 8,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-31T13:55:39Z",
-      "updated_at": "2026-10-31T13:55:20Z"
+      "pushed_at": "2026-10-31T18:59:37Z",
+      "updated_at": "2026-10-31T18:59:41Z"
     }
   ]
 }
