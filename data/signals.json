@@ -5,150 +5,128 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1269,
+  "total_found": 1266,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 85197,
-      "forks": 5448,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 134976,
+      "forks": 15959,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-01T19:52:33Z",
+      "updated_at": "2026-11-01T20:04:30Z"
+    },
+    {
+      "id": 663900193,
+      "full_name": "sxyazi/yazi",
+      "html_url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "stars": 43165,
+      "forks": 1055,
       "language": "Rust",
-      "pushed_at": "2026-11-01T14:28:19Z",
-      "updated_at": "2026-11-01T14:41:26Z"
+      "pushed_at": "2026-11-01T19:52:34Z",
+      "updated_at": "2026-11-01T19:52:37Z"
     },
     {
-      "id": 164140756,
-      "full_name": "files-community/Files",
-      "html_url": "https://github.com/files-community/Files",
-      "description": "A modern file manager that helps users organize their files and folders.",
-      "stars": 46426,
-      "forks": 3008,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 40572,
+      "forks": 4017,
       "language": "C#",
-      "pushed_at": "2026-11-01T14:08:39Z",
-      "updated_at": "2026-11-01T14:36:10Z"
-    },
-    {
-      "id": 66150122,
-      "full_name": "jarun/nnn",
-      "html_url": "https://github.com/jarun/nnn",
-      "description": "n³ The unorthodox terminal file manager",
-      "stars": 22103,
-      "forks": 833,
-      "language": "C",
-      "pushed_at": "2026-11-01T14:37:58Z",
-      "updated_at": "2026-11-01T14:38:04Z"
+      "pushed_at": "2026-11-01T19:55:43Z",
+      "updated_at": "2026-11-01T19:55:47Z"
     },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12876,
-      "forks": 1653,
+      "stars": 12878,
+      "forks": 1652,
       "language": "TypeScript",
-      "pushed_at": "2026-11-01T14:06:39Z",
-      "updated_at": "2026-11-01T14:06:49Z"
+      "pushed_at": "2026-11-01T19:48:40Z",
+      "updated_at": "2026-11-01T19:48:50Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3497,
-      "forks": 164,
+      "id": 323279421,
+      "full_name": "LinwoodDev/Butterfly",
+      "html_url": "https://github.com/LinwoodDev/Butterfly",
+      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+      "stars": 2087,
+      "forks": 157,
+      "language": "Dart",
+      "pushed_at": "2026-11-01T19:49:43Z",
+      "updated_at": "2026-11-01T20:09:43Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 910,
+      "forks": 93,
+      "language": "Python",
+      "pushed_at": "2026-11-01T20:07:47Z",
+      "updated_at": "2026-11-01T19:39:21Z"
+    },
+    {
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Scrolly, Blok and more!",
+      "stars": 906,
+      "forks": 167,
       "language": "Swift",
-      "pushed_at": "2026-11-01T14:29:35Z",
-      "updated_at": "2026-11-01T14:29:41Z"
+      "pushed_at": "2026-11-01T19:43:18Z",
+      "updated_at": "2026-11-01T19:47:19Z"
     },
     {
-      "id": 231509982,
-      "full_name": "onblog/miaomiao-bar",
-      "html_url": "https://github.com/onblog/miaomiao-bar",
-      "description": "A macOS clipboard workbench: text and pictures that land on the clipboard leave usable. 喵喵剪贴板：macOS 上的剪贴板工作台，文字和图片进了剪贴板就变成能直接用的样子。",
-      "stars": 1968,
-      "forks": 283,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-01T14:24:29Z",
-      "updated_at": "2026-11-01T14:13:14Z"
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 525,
+      "forks": 47,
+      "language": "Python",
+      "pushed_at": "2026-11-01T19:53:16Z",
+      "updated_at": "2026-11-01T20:08:57Z"
+    },
+    {
+      "id": 1433111563,
+      "full_name": "emanuele-em/kanzo",
+      "html_url": "https://github.com/emanuele-em/kanzo",
+      "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+      "stars": 522,
+      "forks": 26,
+      "language": "Rust",
+      "pushed_at": "2026-11-01T20:09:57Z",
+      "updated_at": "2026-11-01T20:11:29Z"
     },
     {
       "id": 1332399543,
       "full_name": "JiangNanGenius/floe-agent",
       "html_url": "https://github.com/JiangNanGenius/floe-agent",
       "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, CAD/3D, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
-      "stars": 405,
+      "stars": 411,
       "forks": 56,
       "language": "Swift",
-      "pushed_at": "2026-11-01T14:14:20Z",
-      "updated_at": "2026-11-01T14:27:04Z"
-    },
-    {
-      "id": 989566869,
-      "full_name": "hainguyents13/mechvibes",
-      "html_url": "https://github.com/hainguyents13/mechvibes",
-      "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
-      "stars": 350,
-      "forks": 33,
-      "language": "Rust",
-      "pushed_at": "2026-11-01T14:30:22Z",
-      "updated_at": "2026-11-01T14:30:24Z"
-    },
-    {
-      "id": 1030039430,
-      "full_name": "automagik-dev/genie",
-      "html_url": "https://github.com/automagik-dev/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 345,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-01T14:28:57Z",
-      "updated_at": "2026-11-01T14:29:01Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 299,
-      "forks": 60,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-01T14:35:20Z",
-      "updated_at": "2026-11-01T14:35:24Z"
-    },
-    {
-      "id": 1112879061,
-      "full_name": "majiayu000/spellbook",
-      "html_url": "https://github.com/majiayu000/spellbook",
-      "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-      "stars": 288,
-      "forks": 28,
-      "language": "Python",
-      "pushed_at": "2026-11-01T14:18:07Z",
-      "updated_at": "2026-11-01T14:18:11Z"
+      "pushed_at": "2026-11-01T20:08:42Z",
+      "updated_at": "2026-11-01T20:08:47Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 227,
-      "forks": 21,
+      "stars": 236,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-11-01T14:42:03Z",
-      "updated_at": "2026-11-01T14:42:09Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 205,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-11-01T14:36:17Z",
-      "updated_at": "2026-11-01T14:36:20Z"
+      "pushed_at": "2026-11-01T20:09:08Z",
+      "updated_at": "2026-11-01T19:58:00Z"
     },
     {
       "id": 1337168270,
@@ -158,19 +136,41 @@
       "stars": 143,
       "forks": 58,
       "language": "Python",
-      "pushed_at": "2026-11-01T14:42:23Z",
-      "updated_at": "2026-11-01T14:42:26Z"
+      "pushed_at": "2026-11-01T19:42:37Z",
+      "updated_at": "2026-11-01T19:42:41Z"
     },
     {
-      "id": 1351541578,
-      "full_name": "ysalitrynskyi/stedding-browser",
-      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
-      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
-      "stars": 123,
-      "forks": 4,
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-11-01T14:37:11Z",
-      "updated_at": "2026-11-01T14:37:15Z"
+      "pushed_at": "2026-11-01T20:03:47Z",
+      "updated_at": "2026-11-01T20:03:51Z"
+    },
+    {
+      "id": 1355857144,
+      "full_name": "theguysudo/ENZO",
+      "html_url": "https://github.com/theguysudo/ENZO",
+      "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+      "stars": 116,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-01T20:04:01Z",
+      "updated_at": "2026-11-01T20:04:05Z"
+    },
+    {
+      "id": 1332594956,
+      "full_name": "ejboy/awesome-efficient-devtools",
+      "html_url": "https://github.com/ejboy/awesome-efficient-devtools",
+      "description": "A curated collection of developer tools that reduce compute, context, operational, or workflow overhead. Preference for tools that are open-source, lightweight, local-first, composable, fast, and focused.",
+      "stars": 89,
+      "forks": 26,
+      "language": "Unknown",
+      "pushed_at": "2026-11-01T20:05:17Z",
+      "updated_at": "2026-11-01T20:05:21Z"
     }
   ]
 }
