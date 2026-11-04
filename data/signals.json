@@ -5,150 +5,150 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1278,
+  "total_found": 1277,
   "items": [
+    {
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 40608,
+      "forks": 4025,
+      "language": "C#",
+      "pushed_at": "2026-11-03T23:47:57Z",
+      "updated_at": "2026-11-03T23:48:01Z"
+    },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23382,
+      "stars": 23391,
       "forks": 2252,
       "language": "TypeScript",
-      "pushed_at": "2026-11-03T18:59:03Z",
-      "updated_at": "2026-11-03T18:46:46Z"
+      "pushed_at": "2026-11-04T00:18:45Z",
+      "updated_at": "2026-11-04T00:11:47Z"
     },
     {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8684,
-      "forks": 1316,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-03T19:03:57Z",
-      "updated_at": "2026-11-03T19:01:31Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 4467,
+      "forks": 348,
+      "language": "Python",
+      "pushed_at": "2026-11-04T00:11:54Z",
+      "updated_at": "2026-11-04T00:11:58Z"
     },
     {
       "id": 1010561139,
       "full_name": "AmintaCCCP/GithubStarsManager",
       "html_url": "https://github.com/AmintaCCCP/GithubStarsManager",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
-      "stars": 3797,
+      "stars": 3800,
       "forks": 195,
       "language": "TypeScript",
-      "pushed_at": "2026-11-03T18:43:57Z",
-      "updated_at": "2026-11-03T18:34:54Z"
+      "pushed_at": "2026-11-04T00:00:38Z",
+      "updated_at": "2026-11-04T00:00:45Z"
     },
     {
       "id": 1079924730,
       "full_name": "OmniNull/OmniWM",
       "html_url": "https://github.com/OmniNull/OmniWM",
       "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3528,
+      "stars": 3533,
       "forks": 171,
       "language": "Swift",
-      "pushed_at": "2026-11-03T19:02:13Z",
-      "updated_at": "2026-11-03T19:02:18Z"
+      "pushed_at": "2026-11-04T00:06:54Z",
+      "updated_at": "2026-11-04T00:07:00Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2367,
-      "forks": 155,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-03T18:48:42Z",
-      "updated_at": "2026-11-03T19:02:45Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "stars": 2663,
+      "forks": 140,
+      "language": "C#",
+      "pushed_at": "2026-11-04T00:22:27Z",
+      "updated_at": "2026-11-04T00:19:41Z"
     },
     {
-      "id": 672605495,
-      "full_name": "iffse/pay-respects",
-      "html_url": "https://github.com/iffse/pay-respects",
-      "description": "Command suggestions, command-not-found and thefuck replacement written in Rust",
-      "stars": 735,
-      "forks": 38,
+      "id": 1201098277,
+      "full_name": "kunkka19xx/look",
+      "html_url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "stars": 1267,
+      "forks": 75,
       "language": "Rust",
-      "pushed_at": "2026-11-03T18:26:57Z",
-      "updated_at": "2026-11-03T18:27:03Z"
-    },
-    {
-      "id": 633571482,
-      "full_name": "hyprland-community/pyprland",
-      "html_url": "https://github.com/hyprland-community/pyprland",
-      "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
-      "stars": 709,
-      "forks": 37,
-      "language": "Python",
-      "pushed_at": "2026-11-03T18:34:32Z",
-      "updated_at": "2026-11-03T18:34:37Z"
+      "pushed_at": "2026-11-04T00:18:59Z",
+      "updated_at": "2026-11-03T23:52:32Z"
     },
     {
       "id": 1332399543,
       "full_name": "JiangNanGenius/floe-agent",
       "html_url": "https://github.com/JiangNanGenius/floe-agent",
       "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
-      "stars": 426,
+      "stars": 431,
       "forks": 58,
       "language": "Swift",
-      "pushed_at": "2026-11-03T18:37:50Z",
-      "updated_at": "2026-11-03T18:37:56Z"
-    },
-    {
-      "id": 989566869,
-      "full_name": "hainguyents13/mechvibes",
-      "html_url": "https://github.com/hainguyents13/mechvibes",
-      "description": "The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.",
-      "stars": 353,
-      "forks": 33,
-      "language": "Rust",
-      "pushed_at": "2026-11-03T18:57:19Z",
-      "updated_at": "2026-11-03T18:57:22Z"
-    },
-    {
-      "id": 1220384784,
-      "full_name": "danielvm-git/bigpowers",
-      "html_url": "https://github.com/danielvm-git/bigpowers",
-      "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
-      "stars": 288,
-      "forks": 24,
-      "language": "Shell",
-      "pushed_at": "2026-11-03T19:03:54Z",
-      "updated_at": "2026-11-03T19:04:00Z"
-    },
-    {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 272,
-      "forks": 20,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-03T18:50:00Z",
-      "updated_at": "2026-11-03T18:25:07Z"
+      "pushed_at": "2026-11-03T23:47:25Z",
+      "updated_at": "2026-11-03T23:47:30Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 259,
-      "forks": 23,
+      "stars": 263,
+      "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-11-03T18:54:03Z",
-      "updated_at": "2026-11-03T18:58:54Z"
+      "pushed_at": "2026-11-03T23:47:47Z",
+      "updated_at": "2026-11-03T23:47:52Z"
     },
     {
-      "id": 1220652910,
-      "full_name": "Ducksss/codex-profiles",
-      "html_url": "https://github.com/Ducksss/codex-profiles",
-      "description": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
-      "stars": 193,
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 207,
+      "forks": 17,
+      "language": "Swift",
+      "pushed_at": "2026-11-04T00:18:13Z",
+      "updated_at": "2026-11-04T00:18:17Z"
+    },
+    {
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The control plane for your AI employees",
+      "stars": 192,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-04T00:18:54Z",
+      "updated_at": "2026-11-04T00:12:13Z"
+    },
+    {
+      "id": 945556397,
+      "full_name": "ronynn/karui",
+      "html_url": "https://github.com/ronynn/karui",
+      "description": "Karui (軽い) is a offline only aesthetically pleasing, sync supported google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's a 145kb apk that allows you to take notes from status bar and from other apps with support for homescreen widgets! Made with ❤️ and Vue",
+      "stars": 154,
+      "forks": 8,
+      "language": "Vue",
+      "pushed_at": "2026-11-03T23:46:48Z",
+      "updated_at": "2026-11-03T23:46:52Z"
+    },
+    {
+      "id": 1333906002,
+      "full_name": "discoverhubgroup/product-daily-rank",
+      "html_url": "https://github.com/discoverhubgroup/product-daily-rank",
+      "description": "discover daily product :每日top10产品,提供GitHub趋势,每天早上8点更新",
+      "stars": 151,
       "forks": 12,
-      "language": "Shell",
-      "pushed_at": "2026-11-03T18:40:29Z",
-      "updated_at": "2026-11-03T18:32:24Z"
+      "language": "Unknown",
+      "pushed_at": "2026-11-04T00:00:05Z",
+      "updated_at": "2026-11-04T00:00:10Z"
     },
     {
       "id": 1337168270,
@@ -158,19 +158,19 @@
       "stars": 144,
       "forks": 59,
       "language": "Python",
-      "pushed_at": "2026-11-03T19:02:45Z",
-      "updated_at": "2026-11-03T19:02:51Z"
+      "pushed_at": "2026-11-04T00:19:33Z",
+      "updated_at": "2026-11-04T00:19:37Z"
     },
     {
-      "id": 1319670891,
-      "full_name": "qeude/Defi",
-      "html_url": "https://github.com/qeude/Defi",
-      "description": "A fast, native scrollable-tiling window manager for macOS, inspired by Niri.",
-      "stars": 144,
-      "forks": 5,
+      "id": 1284688466,
+      "full_name": "gyorgysh/keepresso",
+      "html_url": "https://github.com/gyorgysh/keepresso",
+      "description": "Keep your Mac awake on your terms. A native macOS menu-bar app with condition-based triggers, closed-display mode, and a headless-Mac toolkit. Built for AI agents, servers, and always-on Macs.",
+      "stars": 136,
+      "forks": 11,
       "language": "Swift",
-      "pushed_at": "2026-11-03T18:59:59Z",
-      "updated_at": "2026-11-03T18:38:56Z"
+      "pushed_at": "2026-11-03T23:53:02Z",
+      "updated_at": "2026-11-03T23:53:05Z"
     }
   ]
 }
