@@ -5,40 +5,29 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1286,
+  "total_found": 1287,
   "items": [
     {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 85739,
-      "forks": 5489,
-      "language": "Rust",
-      "pushed_at": "2026-11-06T18:18:52Z",
-      "updated_at": "2026-11-06T18:38:36Z"
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 135246,
+      "forks": 16032,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T23:14:56Z",
+      "updated_at": "2026-11-06T23:34:58Z"
     },
     {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23450,
+      "stars": 23455,
       "forks": 2261,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T18:51:23Z",
-      "updated_at": "2026-11-06T18:39:10Z"
-    },
-    {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "AI coworker with memory and collaboration",
-      "stars": 18140,
-      "forks": 1817,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-06T18:51:11Z",
-      "updated_at": "2026-11-06T18:38:34Z"
+      "pushed_at": "2026-11-06T23:01:44Z",
+      "updated_at": "2026-11-06T23:05:31Z"
     },
     {
       "id": 129699403,
@@ -48,63 +37,52 @@
       "stars": 5859,
       "forks": 781,
       "language": "Elixir",
-      "pushed_at": "2026-11-06T18:45:13Z",
-      "updated_at": "2026-11-06T18:36:48Z"
+      "pushed_at": "2026-11-06T23:48:52Z",
+      "updated_at": "2026-11-06T23:48:55Z"
     },
     {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5721,
-      "forks": 673,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-06T18:34:01Z",
-      "updated_at": "2026-11-06T18:34:07Z"
+      "id": 1368167244,
+      "full_name": "DayuanJiang/PecoFence",
+      "html_url": "https://github.com/DayuanJiang/PecoFence",
+      "description": "A free, open-source Stardock Fences alternative for Windows 11 and 10. Glass fences, live folders, tabs, Peek. Rust, a few MB of RAM at rest, 11 languages, portable.",
+      "stars": 822,
+      "forks": 47,
+      "language": "Rust",
+      "pushed_at": "2026-11-06T23:42:16Z",
+      "updated_at": "2026-11-06T23:42:21Z"
     },
     {
-      "id": 10671623,
-      "full_name": "aardappel/treesheets",
-      "html_url": "https://github.com/aardappel/treesheets",
-      "description": "Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.",
-      "stars": 3192,
-      "forks": 225,
-      "language": "C++",
-      "pushed_at": "2026-11-06T18:33:16Z",
-      "updated_at": "2026-11-06T18:33:19Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 911,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-11-06T18:54:11Z",
-      "updated_at": "2026-11-06T18:26:18Z"
-    },
-    {
-      "id": 1319581450,
-      "full_name": "ganeshmshetty/openclip",
-      "html_url": "https://github.com/ganeshmshetty/openclip",
-      "description": "An open-source, macOS text action popup for running custom scripts, AI actions, and extensible workflows on selected text.",
-      "stars": 740,
-      "forks": 45,
-      "language": "Swift",
-      "pushed_at": "2026-11-06T18:39:35Z",
-      "updated_at": "2026-11-06T18:39:40Z"
-    },
-    {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 596,
-      "forks": 42,
+      "id": 1294301448,
+      "full_name": "CatVinci-Studio/Textus",
+      "html_url": "https://github.com/CatVinci-Studio/Textus",
+      "description": "The next-generation Markdown editor and knowledge tool, made for writing with AI. Free and open source for macOS, Windows, Linux, iPhone and iPad.",
+      "stars": 653,
+      "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T18:23:33Z",
-      "updated_at": "2026-11-06T18:23:38Z"
+      "pushed_at": "2026-11-06T23:06:24Z",
+      "updated_at": "2026-11-06T23:06:27Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 603,
+      "forks": 114,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T23:44:32Z",
+      "updated_at": "2026-11-06T23:10:26Z"
+    },
+    {
+      "id": 1292208306,
+      "full_name": "EXXETA/exxperts",
+      "html_url": "https://github.com/EXXETA/exxperts",
+      "description": "A free, open-source desktop app for getting work done with AI. It shows you what it would remember before it saves anything.",
+      "stars": 452,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T23:37:15Z",
+      "updated_at": "2026-11-06T23:37:19Z"
     },
     {
       "id": 1332399543,
@@ -114,63 +92,85 @@
       "stars": 448,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-06T18:36:53Z",
-      "updated_at": "2026-11-06T18:36:58Z"
+      "pushed_at": "2026-11-06T23:54:00Z",
+      "updated_at": "2026-11-06T23:54:05Z"
+    },
+    {
+      "id": 951823188,
+      "full_name": "relaticle/flowforge",
+      "html_url": "https://github.com/relaticle/flowforge",
+      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
+      "stars": 421,
+      "forks": 54,
+      "language": "PHP",
+      "pushed_at": "2026-11-06T23:41:04Z",
+      "updated_at": "2026-11-06T23:40:01Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 315,
+      "stars": 318,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T18:44:34Z",
-      "updated_at": "2026-11-06T18:16:00Z"
+      "pushed_at": "2026-11-06T23:37:43Z",
+      "updated_at": "2026-11-06T23:37:07Z"
+    },
+    {
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 302,
+      "forks": 62,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T23:25:32Z",
+      "updated_at": "2026-11-06T23:25:38Z"
+    },
+    {
+      "id": 1338829187,
+      "full_name": "GlitchAwakened/Favnyr",
+      "html_url": "https://github.com/GlitchAwakened/Favnyr",
+      "description": "A modern and lightweight file manager for Windows and Linux",
+      "stars": 291,
+      "forks": 16,
+      "language": "Rust",
+      "pushed_at": "2026-11-06T23:12:48Z",
+      "updated_at": "2026-11-06T23:12:52Z"
     },
     {
       "id": 1220384784,
       "full_name": "danielvm-git/bigpowers",
       "html_url": "https://github.com/danielvm-git/bigpowers",
       "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
-      "stars": 287,
+      "stars": 288,
       "forks": 24,
       "language": "Shell",
-      "pushed_at": "2026-11-06T18:52:47Z",
-      "updated_at": "2026-11-06T18:52:51Z"
+      "pushed_at": "2026-11-06T23:40:44Z",
+      "updated_at": "2026-11-06T23:40:51Z"
     },
     {
-      "id": 1414714898,
-      "full_name": "cristipufu/strata-files",
-      "html_url": "https://github.com/cristipufu/strata-files",
-      "description": "Strata Files: a fast, native, keyboard-first file manager and Finder alternative for macOS. Instant search, live folder sizes, disk usage map, dual pane.",
-      "stars": 234,
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 215,
       "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-11-06T18:46:51Z",
-      "updated_at": "2026-11-06T18:46:58Z"
+      "pushed_at": "2026-11-06T23:12:45Z",
+      "updated_at": "2026-11-06T23:12:49Z"
     },
     {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 220,
-      "forks": 8,
-      "language": "Swift",
-      "pushed_at": "2026-11-06T18:45:07Z",
-      "updated_at": "2026-11-06T18:45:11Z"
-    },
-    {
-      "id": 1286830182,
-      "full_name": "Loxonl/vPaste-desktop",
-      "html_url": "https://github.com/Loxonl/vPaste-desktop",
-      "description": "An open-source clipboard manager for Windows and macOS, with searchable history for text, images, links, colors, and files",
-      "stars": 179,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-06T18:45:09Z",
-      "updated_at": "2026-11-06T18:45:13Z"
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 182,
+      "forks": 23,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-06T23:10:18Z",
+      "updated_at": "2026-11-06T23:10:20Z"
     }
   ]
 }
