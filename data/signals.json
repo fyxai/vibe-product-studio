@@ -5,51 +5,18 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1287,
+  "total_found": 1288,
   "items": [
     {
       "id": 1139971460,
       "full_name": "rtk-ai/rtk",
       "html_url": "https://github.com/rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 85644,
-      "forks": 5481,
+      "stars": 85660,
+      "forks": 5482,
       "language": "Rust",
-      "pushed_at": "2026-11-05T19:00:30Z",
-      "updated_at": "2026-11-05T19:18:50Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23427,
-      "forks": 2259,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-05T19:20:54Z",
-      "updated_at": "2026-11-05T19:21:19Z"
-    },
-    {
-      "id": 129699403,
-      "full_name": "tuist/tuist",
-      "html_url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "stars": 5860,
-      "forks": 781,
-      "language": "Elixir",
-      "pushed_at": "2026-11-05T19:20:49Z",
-      "updated_at": "2026-11-05T19:20:58Z"
-    },
-    {
-      "id": 177860947,
-      "full_name": "Volmarg/personal-management-system",
-      "html_url": "https://github.com/Volmarg/personal-management-system",
-      "description": "Your web application for managing personal data.",
-      "stars": 4194,
-      "forks": 350,
-      "language": "PHP",
-      "pushed_at": "2026-11-05T19:23:10Z",
-      "updated_at": "2026-11-05T19:23:15Z"
+      "pushed_at": "2026-11-06T00:18:46Z",
+      "updated_at": "2026-11-06T00:27:26Z"
     },
     {
       "id": 1250907197,
@@ -59,74 +26,118 @@
       "stars": 2680,
       "forks": 141,
       "language": "C#",
-      "pushed_at": "2026-11-05T19:29:47Z",
-      "updated_at": "2026-11-05T19:09:01Z"
+      "pushed_at": "2026-11-06T00:36:55Z",
+      "updated_at": "2026-11-06T00:34:51Z"
     },
     {
-      "id": 1294301448,
-      "full_name": "CatVinci-Studio/Textus",
-      "html_url": "https://github.com/CatVinci-Studio/Textus",
-      "description": "The next-generation Markdown editor and knowledge tool, made for writing with AI. Free and open source for macOS, Windows, Linux, iPhone and iPad.",
-      "stars": 640,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-05T19:19:17Z",
-      "updated_at": "2026-11-05T19:03:24Z"
-    },
-    {
-      "id": 244958571,
-      "full_name": "wakatime/wakatime-cli",
-      "html_url": "https://github.com/wakatime/wakatime-cli",
-      "description": "Command line interface used by all WakaTime text editor plugins",
-      "stars": 465,
-      "forks": 94,
-      "language": "Go",
-      "pushed_at": "2026-11-05T19:11:00Z",
-      "updated_at": "2026-11-05T19:09:47Z"
-    },
-    {
-      "id": 1309395119,
-      "full_name": "sazardev/shiki",
-      "html_url": "https://github.com/sazardev/shiki",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "stars": 335,
-      "forks": 19,
+      "id": 1433111563,
+      "full_name": "emanuele-em/kanzo",
+      "html_url": "https://github.com/emanuele-em/kanzo",
+      "description": "Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.",
+      "stars": 1034,
+      "forks": 72,
       "language": "Rust",
-      "pushed_at": "2026-11-05T19:29:58Z",
-      "updated_at": "2026-11-05T19:29:17Z"
+      "pushed_at": "2026-11-05T23:58:55Z",
+      "updated_at": "2026-11-06T00:20:20Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 911,
+      "forks": 94,
+      "language": "Python",
+      "pushed_at": "2026-11-06T00:43:36Z",
+      "updated_at": "2026-11-06T00:29:03Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 602,
+      "forks": 114,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T00:19:01Z",
+      "updated_at": "2026-11-06T00:04:04Z"
+    },
+    {
+      "id": 1163671946,
+      "full_name": "chrisblattman/claudeblattman",
+      "html_url": "https://github.com/chrisblattman/claudeblattman",
+      "description": "Claude Code for professionals who don't code — Skills, agents, and setup guides",
+      "stars": 476,
+      "forks": 77,
+      "language": "Python",
+      "pushed_at": "2026-11-06T00:30:40Z",
+      "updated_at": "2026-11-06T00:29:56Z"
+    },
+    {
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
+      "stars": 447,
+      "forks": 61,
+      "language": "Swift",
+      "pushed_at": "2026-11-06T00:31:53Z",
+      "updated_at": "2026-11-06T00:31:59Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 305,
-      "forks": 26,
+      "stars": 310,
+      "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-11-05T19:21:23Z",
-      "updated_at": "2026-11-05T19:21:26Z"
+      "pushed_at": "2026-11-06T00:43:43Z",
+      "updated_at": "2026-11-06T00:43:08Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 208,
-      "forks": 18,
+      "id": 1133241492,
+      "full_name": "gnoviawan/termul",
+      "html_url": "https://github.com/gnoviawan/termul",
+      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+      "stars": 302,
+      "forks": 62,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T00:28:06Z",
+      "updated_at": "2026-11-06T00:28:11Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 220,
+      "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-05T19:03:30Z",
-      "updated_at": "2026-11-05T19:03:35Z"
+      "pushed_at": "2026-11-06T00:21:08Z",
+      "updated_at": "2026-11-06T00:12:04Z"
     },
     {
-      "id": 1124104820,
-      "full_name": "NexaFlowFrance/OpenFamily",
-      "html_url": "https://github.com/NexaFlowFrance/OpenFamily",
-      "description": "The open-source, self-hosted family organizer. Keep full control of your family's data : run it on your own server.",
-      "stars": 207,
-      "forks": 56,
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The control plane for your AI employees",
+      "stars": 193,
+      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-11-05T19:27:46Z",
-      "updated_at": "2026-11-05T19:27:52Z"
+      "pushed_at": "2026-11-06T00:43:45Z",
+      "updated_at": "2026-11-06T00:32:05Z"
+    },
+    {
+      "id": 1333906002,
+      "full_name": "discoverhubgroup/product-daily-rank",
+      "html_url": "https://github.com/discoverhubgroup/product-daily-rank",
+      "description": "discover daily product :每日top10产品,提供GitHub趋势,每天早上8点更新",
+      "stars": 151,
+      "forks": 12,
+      "language": "Unknown",
+      "pushed_at": "2026-11-06T00:00:04Z",
+      "updated_at": "2026-11-06T00:00:08Z"
     },
     {
       "id": 1337168270,
@@ -136,8 +147,8 @@
       "stars": 147,
       "forks": 60,
       "language": "Python",
-      "pushed_at": "2026-11-05T19:26:12Z",
-      "updated_at": "2026-11-05T19:26:18Z"
+      "pushed_at": "2026-11-06T00:44:36Z",
+      "updated_at": "2026-11-06T00:44:41Z"
     },
     {
       "id": 1283323996,
@@ -147,8 +158,8 @@
       "stars": 118,
       "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-11-05T19:21:23Z",
-      "updated_at": "2026-11-05T19:21:28Z"
+      "pushed_at": "2026-11-06T00:39:14Z",
+      "updated_at": "2026-11-06T00:39:18Z"
     },
     {
       "id": 1355857144,
@@ -156,21 +167,10 @@
       "html_url": "https://github.com/theguysudo/ENZO",
       "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
       "stars": 117,
-      "forks": 29,
+      "forks": 30,
       "language": "TypeScript",
-      "pushed_at": "2026-11-05T19:21:16Z",
-      "updated_at": "2026-11-05T19:21:21Z"
-    },
-    {
-      "id": 1241977003,
-      "full_name": "futuregene/future-os",
-      "html_url": "https://github.com/futuregene/future-os",
-      "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-      "stars": 114,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-11-05T19:23:32Z",
-      "updated_at": "2026-11-05T19:18:03Z"
+      "pushed_at": "2026-11-06T00:39:27Z",
+      "updated_at": "2026-11-06T00:39:32Z"
     }
   ]
 }
