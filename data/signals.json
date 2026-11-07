@@ -5,73 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1294,
+  "total_found": 1295,
   "items": [
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 40760,
-      "forks": 4042,
+      "stars": 40765,
+      "forks": 4041,
       "language": "C#",
-      "pushed_at": "2026-11-07T19:50:46Z",
-      "updated_at": "2026-11-07T19:50:50Z"
+      "pushed_at": "2026-11-07T23:05:20Z",
+      "updated_at": "2026-11-07T23:05:27Z"
     },
     {
-      "id": 665613753,
-      "full_name": "elie222/inbox-zero",
-      "html_url": "https://github.com/elie222/inbox-zero",
-      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12942,
-      "forks": 1659,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:50:14Z",
-      "updated_at": "2026-11-07T19:45:30Z"
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 26938,
+      "forks": 1969,
+      "language": "Vue",
+      "pushed_at": "2026-11-07T23:15:15Z",
+      "updated_at": "2026-11-07T23:14:34Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8714,
+      "stars": 8715,
       "forks": 1322,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:49:26Z",
-      "updated_at": "2026-11-07T19:47:09Z"
+      "pushed_at": "2026-11-07T23:21:56Z",
+      "updated_at": "2026-11-07T23:16:48Z"
     },
     {
-      "id": 418086942,
-      "full_name": "plainhub/plain-app",
-      "html_url": "https://github.com/plainhub/plain-app",
-      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
-      "stars": 7156,
-      "forks": 448,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-07T19:18:12Z",
-      "updated_at": "2026-11-07T19:18:19Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 4526,
+      "forks": 353,
+      "language": "Python",
+      "pushed_at": "2026-11-07T23:12:50Z",
+      "updated_at": "2026-11-07T23:16:24Z"
     },
     {
-      "id": 1250907197,
-      "full_name": "snownico0722/PaperTodo",
-      "html_url": "https://github.com/snownico0722/PaperTodo",
-      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
-      "stars": 2717,
-      "forks": 143,
-      "language": "C#",
-      "pushed_at": "2026-11-07T19:49:19Z",
-      "updated_at": "2026-11-07T19:49:25Z"
+      "id": 19825320,
+      "full_name": "git-town/git-town",
+      "html_url": "https://github.com/git-town/git-town",
+      "description": "Git branches made easy",
+      "stars": 3392,
+      "forks": 173,
+      "language": "Gherkin",
+      "pushed_at": "2026-11-07T23:24:58Z",
+      "updated_at": "2026-11-07T23:16:49Z"
     },
     {
-      "id": 1433111563,
-      "full_name": "emanuele-em/kanzo",
-      "html_url": "https://github.com/emanuele-em/kanzo",
-      "description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
-      "stars": 1095,
-      "forks": 77,
-      "language": "Rust",
-      "pushed_at": "2026-11-07T19:41:15Z",
-      "updated_at": "2026-11-07T19:41:20Z"
+      "id": 1294301448,
+      "full_name": "CatVinci-Studio/Textus",
+      "html_url": "https://github.com/CatVinci-Studio/Textus",
+      "description": "The next-generation Markdown editor and knowledge tool, made for writing with AI. Free and open source for macOS, Windows, Linux, iPhone and iPad.",
+      "stars": 660,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T23:25:23Z",
+      "updated_at": "2026-11-07T23:08:16Z"
     },
     {
       "id": 549694131,
@@ -79,10 +79,10 @@
       "html_url": "https://github.com/ever-co/ever-teams",
       "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
       "stars": 605,
-      "forks": 115,
+      "forks": 114,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:49:12Z",
-      "updated_at": "2026-11-07T19:49:20Z"
+      "pushed_at": "2026-11-07T23:16:37Z",
+      "updated_at": "2026-11-07T23:05:10Z"
     },
     {
       "id": 1332399543,
@@ -92,41 +92,30 @@
       "stars": 448,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-07T19:46:08Z",
-      "updated_at": "2026-11-07T19:46:12Z"
+      "pushed_at": "2026-11-07T23:17:45Z",
+      "updated_at": "2026-11-07T23:17:50Z"
     },
     {
-      "id": 1412617976,
-      "full_name": "OpenTodoApp/OpenTodo",
-      "html_url": "https://github.com/OpenTodoApp/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 331,
+      "id": 1244050587,
+      "full_name": "hasanyilmaz/operon",
+      "html_url": "https://github.com/hasanyilmaz/operon",
+      "description": "Task management system for humans and agents in Obsidian.",
+      "stars": 300,
       "forks": 29,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:44:25Z",
-      "updated_at": "2026-11-07T19:44:30Z"
+      "pushed_at": "2026-11-07T23:10:14Z",
+      "updated_at": "2026-11-07T23:10:17Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 303,
-      "forks": 64,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:42:38Z",
-      "updated_at": "2026-11-07T19:42:42Z"
-    },
-    {
-      "id": 1288180765,
-      "full_name": "KiwiCanopy/KiwiDesk",
-      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
-      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
-      "stars": 220,
-      "forks": 8,
+      "id": 1161274003,
+      "full_name": "saurabhav88/EnviousWispr",
+      "html_url": "https://github.com/saurabhav88/EnviousWispr",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "stars": 217,
+      "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-11-07T19:50:03Z",
-      "updated_at": "2026-11-07T19:50:07Z"
+      "pushed_at": "2026-11-07T23:21:49Z",
+      "updated_at": "2026-11-07T23:21:53Z"
     },
     {
       "id": 781681513,
@@ -136,19 +125,19 @@
       "stars": 195,
       "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:48:42Z",
-      "updated_at": "2026-11-07T19:48:46Z"
+      "pushed_at": "2026-11-07T23:22:11Z",
+      "updated_at": "2026-11-07T23:21:19Z"
     },
     {
-      "id": 1264434310,
-      "full_name": "Changan-Su/Forsion",
-      "html_url": "https://github.com/Changan-Su/Forsion",
-      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-      "stars": 175,
-      "forks": 0,
+      "id": 1133644268,
+      "full_name": "LayerNorm/overlay-web",
+      "html_url": "https://github.com/LayerNorm/overlay-web",
+      "description": "The control plane for your AI employees",
+      "stars": 193,
+      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T19:51:20Z",
-      "updated_at": "2026-11-07T19:31:39Z"
+      "pushed_at": "2026-11-07T23:23:25Z",
+      "updated_at": "2026-11-07T23:23:29Z"
     },
     {
       "id": 1319670891,
@@ -158,8 +147,19 @@
       "stars": 170,
       "forks": 7,
       "language": "Swift",
-      "pushed_at": "2026-11-07T19:32:12Z",
-      "updated_at": "2026-11-07T19:39:12Z"
+      "pushed_at": "2026-11-07T23:23:24Z",
+      "updated_at": "2026-11-07T23:20:32Z"
+    },
+    {
+      "id": 901565223,
+      "full_name": "awslabs/nx-plugin-for-aws",
+      "html_url": "https://github.com/awslabs/nx-plugin-for-aws",
+      "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+      "stars": 155,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T23:25:24Z",
+      "updated_at": "2026-11-07T23:25:27Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 118,
       "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-11-07T19:47:42Z",
-      "updated_at": "2026-11-07T19:47:46Z"
+      "pushed_at": "2026-11-07T23:19:41Z",
+      "updated_at": "2026-11-07T23:19:45Z"
     }
   ]
 }
