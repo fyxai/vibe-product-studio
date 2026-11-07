@@ -5,29 +5,40 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1287,
+  "total_found": 1289,
   "items": [
     {
-      "id": 231283452,
-      "full_name": "excalidraw/excalidraw",
-      "html_url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 135246,
-      "forks": 16032,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:14:56Z",
-      "updated_at": "2026-11-06T23:34:58Z"
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 40712,
+      "forks": 4037,
+      "language": "C#",
+      "pushed_at": "2026-11-07T04:31:56Z",
+      "updated_at": "2026-11-07T05:17:50Z"
     },
     {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23455,
-      "forks": 2261,
+      "id": 916009087,
+      "full_name": "rowboatlabs/rowboat",
+      "html_url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI coworker with memory and collaboration",
+      "stars": 18143,
+      "forks": 1818,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:01:44Z",
-      "updated_at": "2026-11-06T23:05:31Z"
+      "pushed_at": "2026-11-07T04:48:11Z",
+      "updated_at": "2026-11-07T04:49:04Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8708,
+      "forks": 1318,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T05:02:14Z",
+      "updated_at": "2026-11-07T04:59:55Z"
     },
     {
       "id": 129699403,
@@ -37,30 +48,52 @@
       "stars": 5859,
       "forks": 781,
       "language": "Elixir",
-      "pushed_at": "2026-11-06T23:48:52Z",
-      "updated_at": "2026-11-06T23:48:55Z"
+      "pushed_at": "2026-11-07T05:11:17Z",
+      "updated_at": "2026-11-07T05:11:21Z"
     },
     {
-      "id": 1368167244,
-      "full_name": "DayuanJiang/PecoFence",
-      "html_url": "https://github.com/DayuanJiang/PecoFence",
-      "description": "A free, open-source Stardock Fences alternative for Windows 11 and 10. Glass fences, live folders, tabs, Peek. Rust, a few MB of RAM at rest, 11 languages, portable.",
-      "stars": 822,
-      "forks": 47,
-      "language": "Rust",
-      "pushed_at": "2026-11-06T23:42:16Z",
-      "updated_at": "2026-11-06T23:42:21Z"
+      "id": 632693436,
+      "full_name": "FriesI23/mhabit",
+      "html_url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+      "stars": 1691,
+      "forks": 106,
+      "language": "Dart",
+      "pushed_at": "2026-11-07T04:32:37Z",
+      "updated_at": "2026-11-07T04:32:43Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 1199,
+      "forks": 82,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T05:12:27Z",
+      "updated_at": "2026-11-07T05:12:24Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 911,
+      "forks": 94,
+      "language": "Python",
+      "pushed_at": "2026-11-07T05:15:03Z",
+      "updated_at": "2026-11-07T04:54:10Z"
     },
     {
       "id": 1294301448,
       "full_name": "CatVinci-Studio/Textus",
       "html_url": "https://github.com/CatVinci-Studio/Textus",
       "description": "The next-generation Markdown editor and knowledge tool, made for writing with AI. Free and open source for macOS, Windows, Linux, iPhone and iPad.",
-      "stars": 653,
-      "forks": 39,
+      "stars": 655,
+      "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:06:24Z",
-      "updated_at": "2026-11-06T23:06:27Z"
+      "pushed_at": "2026-11-07T04:45:35Z",
+      "updated_at": "2026-11-07T04:45:38Z"
     },
     {
       "id": 549694131,
@@ -70,19 +103,8 @@
       "stars": 603,
       "forks": 114,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:44:32Z",
-      "updated_at": "2026-11-06T23:10:26Z"
-    },
-    {
-      "id": 1292208306,
-      "full_name": "EXXETA/exxperts",
-      "html_url": "https://github.com/EXXETA/exxperts",
-      "description": "A free, open-source desktop app for getting work done with AI. It shows you what it would remember before it saves anything.",
-      "stars": 452,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:37:15Z",
-      "updated_at": "2026-11-06T23:37:19Z"
+      "pushed_at": "2026-11-07T05:02:52Z",
+      "updated_at": "2026-11-07T04:59:53Z"
     },
     {
       "id": 1332399543,
@@ -92,85 +114,63 @@
       "stars": 448,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-06T23:54:00Z",
-      "updated_at": "2026-11-06T23:54:05Z"
-    },
-    {
-      "id": 951823188,
-      "full_name": "relaticle/flowforge",
-      "html_url": "https://github.com/relaticle/flowforge",
-      "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-      "stars": 421,
-      "forks": 54,
-      "language": "PHP",
-      "pushed_at": "2026-11-06T23:41:04Z",
-      "updated_at": "2026-11-06T23:40:01Z"
+      "pushed_at": "2026-11-07T05:20:55Z",
+      "updated_at": "2026-11-07T05:20:59Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 318,
+      "stars": 321,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:37:43Z",
-      "updated_at": "2026-11-06T23:37:07Z"
+      "pushed_at": "2026-11-07T05:21:14Z",
+      "updated_at": "2026-11-07T04:45:50Z"
     },
     {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 302,
-      "forks": 62,
+      "id": 1234381241,
+      "full_name": "Priyanshu-byte-coder/devtrack",
+      "html_url": "https://github.com/Priyanshu-byte-coder/devtrack",
+      "description": "Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.",
+      "stars": 286,
+      "forks": 436,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T23:25:32Z",
-      "updated_at": "2026-11-06T23:25:38Z"
+      "pushed_at": "2026-11-07T05:15:54Z",
+      "updated_at": "2026-11-07T04:56:18Z"
     },
     {
-      "id": 1338829187,
-      "full_name": "GlitchAwakened/Favnyr",
-      "html_url": "https://github.com/GlitchAwakened/Favnyr",
-      "description": "A modern and lightweight file manager for Windows and Linux",
-      "stars": 291,
-      "forks": 16,
-      "language": "Rust",
-      "pushed_at": "2026-11-06T23:12:48Z",
-      "updated_at": "2026-11-06T23:12:52Z"
-    },
-    {
-      "id": 1220384784,
-      "full_name": "danielvm-git/bigpowers",
-      "html_url": "https://github.com/danielvm-git/bigpowers",
-      "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
-      "stars": 288,
-      "forks": 24,
-      "language": "Shell",
-      "pushed_at": "2026-11-06T23:40:44Z",
-      "updated_at": "2026-11-06T23:40:51Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 215,
-      "forks": 18,
-      "language": "Swift",
-      "pushed_at": "2026-11-06T23:12:45Z",
-      "updated_at": "2026-11-06T23:12:49Z"
+      "id": 781681513,
+      "full_name": "SystemSculpt/obsidian-systemsculpt-ai",
+      "html_url": "https://github.com/SystemSculpt/obsidian-systemsculpt-ai",
+      "description": "Chat with your Obsidian vault using your own Claude Code or Codex on desktop, or hosted AI. Edit notes with approval modes, transcribe audio and find related notes. Free to start.",
+      "stars": 195,
+      "forks": 32,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T04:37:56Z",
+      "updated_at": "2026-11-07T04:38:01Z"
     },
     {
       "id": 1140929355,
       "full_name": "krelltunez/dayGLANCE",
       "html_url": "https://github.com/krelltunez/dayGLANCE",
       "description": "Your day, at a glance",
-      "stars": 182,
+      "stars": 183,
       "forks": 23,
       "language": "JavaScript",
-      "pushed_at": "2026-11-06T23:10:18Z",
-      "updated_at": "2026-11-06T23:10:20Z"
+      "pushed_at": "2026-11-07T05:15:09Z",
+      "updated_at": "2026-11-07T05:15:11Z"
+    },
+    {
+      "id": 737246781,
+      "full_name": "Super12138/VerveDo",
+      "html_url": "https://github.com/Super12138/VerveDo",
+      "description": "一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Material 3 Expressive, using Jetpack Compose",
+      "stars": 159,
+      "forks": 12,
+      "language": "Kotlin",
+      "pushed_at": "2026-11-07T05:14:14Z",
+      "updated_at": "2026-11-07T05:14:17Z"
     }
   ]
 }
