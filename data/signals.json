@@ -5,73 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1291,
+  "total_found": 1294,
   "items": [
     {
-      "id": 1110782890,
-      "full_name": "YishenTu/claudian",
-      "html_url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.",
-      "stars": 15934,
-      "forks": 1088,
+      "id": 13428264,
+      "full_name": "ShareX/ShareX",
+      "html_url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "stars": 40760,
+      "forks": 4042,
+      "language": "C#",
+      "pushed_at": "2026-11-07T19:50:46Z",
+      "updated_at": "2026-11-07T19:50:50Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 12942,
+      "forks": 1659,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T14:02:04Z",
-      "updated_at": "2026-11-07T14:22:37Z"
+      "pushed_at": "2026-11-07T19:50:14Z",
+      "updated_at": "2026-11-07T19:45:30Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3559,
-      "forks": 175,
-      "language": "Swift",
-      "pushed_at": "2026-11-07T14:31:16Z",
-      "updated_at": "2026-11-07T14:31:21Z"
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8714,
+      "forks": 1322,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T19:49:26Z",
+      "updated_at": "2026-11-07T19:47:09Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 911,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-11-07T14:35:33Z",
-      "updated_at": "2026-11-07T14:35:38Z"
+      "id": 418086942,
+      "full_name": "plainhub/plain-app",
+      "html_url": "https://github.com/plainhub/plain-app",
+      "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "stars": 7156,
+      "forks": 448,
+      "language": "Kotlin",
+      "pushed_at": "2026-11-07T19:18:12Z",
+      "updated_at": "2026-11-07T19:18:19Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 736,
-      "forks": 131,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-07T14:24:53Z",
-      "updated_at": "2026-11-07T14:17:05Z"
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "stars": 2717,
+      "forks": 143,
+      "language": "C#",
+      "pushed_at": "2026-11-07T19:49:19Z",
+      "updated_at": "2026-11-07T19:49:25Z"
     },
     {
-      "id": 1409305885,
-      "full_name": "opennookorg/betterwispr",
-      "html_url": "https://github.com/opennookorg/betterwispr",
-      "description": "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.",
-      "stars": 515,
-      "forks": 49,
-      "language": "Swift",
-      "pushed_at": "2026-11-07T14:07:13Z",
-      "updated_at": "2026-11-07T14:29:56Z"
-    },
-    {
-      "id": 1319102721,
-      "full_name": "dckxx/x-hub",
-      "html_url": "https://github.com/dckxx/x-hub",
-      "description": "本地优先的个人桌面效率工作台：时钟 / 倒计时 / 便签 / 待办 / 速记 / 速达 / AI 对话 / 剪贴板历史，所有数据本地存储、不上云端。基于 Tauri 2 + Vue 3 + TypeScript + Rust。",
-      "stars": 451,
-      "forks": 73,
+      "id": 1433111563,
+      "full_name": "emanuele-em/kanzo",
+      "html_url": "https://github.com/emanuele-em/kanzo",
+      "description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
+      "stars": 1095,
+      "forks": 77,
       "language": "Rust",
-      "pushed_at": "2026-11-07T13:54:59Z",
-      "updated_at": "2026-11-07T13:55:00Z"
+      "pushed_at": "2026-11-07T19:41:15Z",
+      "updated_at": "2026-11-07T19:41:20Z"
+    },
+    {
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 605,
+      "forks": 115,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-07T19:49:12Z",
+      "updated_at": "2026-11-07T19:49:20Z"
     },
     {
       "id": 1332399543,
@@ -81,30 +92,30 @@
       "stars": 448,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-07T14:15:12Z",
-      "updated_at": "2026-11-07T14:15:17Z"
+      "pushed_at": "2026-11-07T19:46:08Z",
+      "updated_at": "2026-11-07T19:46:12Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 327,
+      "stars": 331,
       "forks": 29,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T13:57:03Z",
-      "updated_at": "2026-11-07T14:15:04Z"
+      "pushed_at": "2026-11-07T19:44:25Z",
+      "updated_at": "2026-11-07T19:44:30Z"
     },
     {
       "id": 1133241492,
       "full_name": "gnoviawan/termul",
       "html_url": "https://github.com/gnoviawan/termul",
       "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 302,
+      "stars": 303,
       "forks": 64,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T14:34:16Z",
-      "updated_at": "2026-11-07T14:18:25Z"
+      "pushed_at": "2026-11-07T19:42:38Z",
+      "updated_at": "2026-11-07T19:42:42Z"
     },
     {
       "id": 1288180765,
@@ -114,8 +125,8 @@
       "stars": 220,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-07T14:12:01Z",
-      "updated_at": "2026-11-07T14:12:04Z"
+      "pushed_at": "2026-11-07T19:50:03Z",
+      "updated_at": "2026-11-07T19:50:07Z"
     },
     {
       "id": 781681513,
@@ -125,52 +136,41 @@
       "stars": 195,
       "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T14:39:55Z",
-      "updated_at": "2026-11-07T14:09:14Z"
+      "pushed_at": "2026-11-07T19:48:42Z",
+      "updated_at": "2026-11-07T19:48:46Z"
     },
     {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The control plane for your AI employees",
-      "stars": 193,
-      "forks": 24,
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 175,
+      "forks": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T14:40:09Z",
-      "updated_at": "2026-11-07T14:06:20Z"
+      "pushed_at": "2026-11-07T19:51:20Z",
+      "updated_at": "2026-11-07T19:31:39Z"
     },
     {
-      "id": 1165269890,
-      "full_name": "EvanZhang008/open-walnut",
-      "html_url": "https://github.com/EvanZhang008/open-walnut",
-      "description": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
-      "stars": 103,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-07T14:32:07Z",
-      "updated_at": "2026-11-07T14:12:09Z"
+      "id": 1319670891,
+      "full_name": "qeude/Defi",
+      "html_url": "https://github.com/qeude/Defi",
+      "description": "A fast, native scrollable-tiling window manager for macOS, inspired by Niri.",
+      "stars": 170,
+      "forks": 7,
+      "language": "Swift",
+      "pushed_at": "2026-11-07T19:32:12Z",
+      "updated_at": "2026-11-07T19:39:12Z"
     },
     {
-      "id": 724839315,
-      "full_name": "SamErde/PSPreworkout",
-      "html_url": "https://github.com/SamErde/PSPreworkout",
-      "description": "A special mix of tools to help jump start your PowerShell session!",
-      "stars": 93,
-      "forks": 13,
-      "language": "PowerShell",
-      "pushed_at": "2026-11-07T14:22:29Z",
-      "updated_at": "2026-11-07T14:22:32Z"
-    },
-    {
-      "id": 1422076008,
-      "full_name": "sruf79/halo-spaces",
-      "html_url": "https://github.com/sruf79/halo-spaces",
-      "description": "A calm, tidy design for Thunderbird on macOS, with colourful spaces, message cards and a clear calendar.",
-      "stars": 86,
-      "forks": 5,
-      "language": "Python",
-      "pushed_at": "2026-11-07T14:12:33Z",
-      "updated_at": "2026-11-07T14:12:11Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 118,
+      "forks": 2,
+      "language": "HTML",
+      "pushed_at": "2026-11-07T19:47:42Z",
+      "updated_at": "2026-11-07T19:47:46Z"
     }
   ]
 }
