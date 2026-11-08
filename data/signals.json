@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1295,
+  "total_found": 1294,
   "items": [
     {
       "id": 13428264,
       "full_name": "ShareX/ShareX",
       "html_url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 40765,
-      "forks": 4041,
+      "stars": 40780,
+      "forks": 4043,
       "language": "C#",
-      "pushed_at": "2026-11-07T23:05:20Z",
-      "updated_at": "2026-11-07T23:05:27Z"
+      "pushed_at": "2026-11-08T04:06:44Z",
+      "updated_at": "2026-11-08T04:33:14Z"
     },
     {
-      "id": 343078060,
-      "full_name": "lissy93/dashy",
-      "html_url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "stars": 26938,
-      "forks": 1969,
-      "language": "Vue",
-      "pushed_at": "2026-11-07T23:15:15Z",
-      "updated_at": "2026-11-07T23:14:34Z"
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.",
+      "stars": 15939,
+      "forks": 1089,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-08T04:05:52Z",
+      "updated_at": "2026-11-08T04:31:37Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8715,
+      "stars": 8717,
       "forks": 1322,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:21:56Z",
-      "updated_at": "2026-11-07T23:16:48Z"
+      "pushed_at": "2026-11-08T04:23:32Z",
+      "updated_at": "2026-11-08T04:20:35Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4526,
-      "forks": 353,
+      "id": 1418204810,
+      "full_name": "InukaAsith/TwinDesk",
+      "html_url": "https://github.com/InukaAsith/TwinDesk",
+      "description": " All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux and Android. Free and open source. No account, no cloud, and now no shared network needed.",
+      "stars": 3716,
+      "forks": 286,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-08T03:31:41Z",
+      "updated_at": "2026-11-08T04:06:48Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 911,
+      "forks": 94,
       "language": "Python",
-      "pushed_at": "2026-11-07T23:12:50Z",
-      "updated_at": "2026-11-07T23:16:24Z"
+      "pushed_at": "2026-11-08T04:07:47Z",
+      "updated_at": "2026-11-08T03:32:06Z"
     },
     {
-      "id": 19825320,
-      "full_name": "git-town/git-town",
-      "html_url": "https://github.com/git-town/git-town",
-      "description": "Git branches made easy",
-      "stars": 3392,
-      "forks": 173,
-      "language": "Gherkin",
-      "pushed_at": "2026-11-07T23:24:58Z",
-      "updated_at": "2026-11-07T23:16:49Z"
-    },
-    {
-      "id": 1294301448,
-      "full_name": "CatVinci-Studio/Textus",
-      "html_url": "https://github.com/CatVinci-Studio/Textus",
-      "description": "The next-generation Markdown editor and knowledge tool, made for writing with AI. Free and open source for macOS, Windows, Linux, iPhone and iPad.",
-      "stars": 660,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:25:23Z",
-      "updated_at": "2026-11-07T23:08:16Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 605,
-      "forks": 114,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:16:37Z",
-      "updated_at": "2026-11-07T23:05:10Z"
+      "id": 1368167244,
+      "full_name": "DayuanJiang/PecoFence",
+      "html_url": "https://github.com/DayuanJiang/PecoFence",
+      "description": "A free, open-source Stardock Fences alternative for Windows 11 and 10. Glass fences, live folders, tabs, Peek. Rust, a few MB of RAM at rest, 11 languages, portable.",
+      "stars": 853,
+      "forks": 47,
+      "language": "Rust",
+      "pushed_at": "2026-11-08T04:33:11Z",
+      "updated_at": "2026-11-08T04:33:04Z"
     },
     {
       "id": 1332399543,
@@ -92,30 +81,30 @@
       "stars": 448,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-07T23:17:45Z",
-      "updated_at": "2026-11-07T23:17:50Z"
+      "pushed_at": "2026-11-08T04:29:20Z",
+      "updated_at": "2026-11-08T04:29:24Z"
     },
     {
-      "id": 1244050587,
-      "full_name": "hasanyilmaz/operon",
-      "html_url": "https://github.com/hasanyilmaz/operon",
-      "description": "Task management system for humans and agents in Obsidian.",
-      "stars": 300,
-      "forks": 29,
+      "id": 1412617976,
+      "full_name": "OpenTodoApp/OpenTodo",
+      "html_url": "https://github.com/OpenTodoApp/OpenTodo",
+      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
+      "stars": 331,
+      "forks": 30,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:10:14Z",
-      "updated_at": "2026-11-07T23:10:17Z"
+      "pushed_at": "2026-11-08T04:04:38Z",
+      "updated_at": "2026-11-08T04:04:41Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
-      "stars": 217,
-      "forks": 18,
-      "language": "Swift",
-      "pushed_at": "2026-11-07T23:21:49Z",
-      "updated_at": "2026-11-07T23:21:53Z"
+      "id": 1195674112,
+      "full_name": "hadziqmtqn/erd-builder-pro",
+      "html_url": "https://github.com/hadziqmtqn/erd-builder-pro",
+      "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+      "stars": 207,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-08T04:11:00Z",
+      "updated_at": "2026-11-08T04:11:02Z"
     },
     {
       "id": 781681513,
@@ -125,8 +114,8 @@
       "stars": 195,
       "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:22:11Z",
-      "updated_at": "2026-11-07T23:21:19Z"
+      "pushed_at": "2026-11-08T04:31:59Z",
+      "updated_at": "2026-11-08T04:02:01Z"
     },
     {
       "id": 1133644268,
@@ -136,19 +125,19 @@
       "stars": 193,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:23:25Z",
-      "updated_at": "2026-11-07T23:23:29Z"
+      "pushed_at": "2026-11-08T04:33:30Z",
+      "updated_at": "2026-11-08T03:32:39Z"
     },
     {
-      "id": 1319670891,
-      "full_name": "qeude/Defi",
-      "html_url": "https://github.com/qeude/Defi",
-      "description": "A fast, native scrollable-tiling window manager for macOS, inspired by Niri.",
-      "stars": 170,
-      "forks": 7,
-      "language": "Swift",
-      "pushed_at": "2026-11-07T23:23:24Z",
-      "updated_at": "2026-11-07T23:20:32Z"
+      "id": 1351541578,
+      "full_name": "ysalitrynskyi/stedding-browser",
+      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
+      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
+      "stars": 159,
+      "forks": 5,
+      "language": "HTML",
+      "pushed_at": "2026-11-08T03:18:55Z",
+      "updated_at": "2026-11-08T03:18:59Z"
     },
     {
       "id": 901565223,
@@ -158,8 +147,19 @@
       "stars": 155,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-11-07T23:25:24Z",
-      "updated_at": "2026-11-07T23:25:27Z"
+      "pushed_at": "2026-11-08T04:30:00Z",
+      "updated_at": "2026-11-08T04:30:03Z"
+    },
+    {
+      "id": 1423627652,
+      "full_name": "AlienTechSoftware/notecraft",
+      "html_url": "https://github.com/AlienTechSoftware/notecraft",
+      "description": "Note taking and organization; an open-source, clean-room reimplementation of Microsoft OneNote, rebuilt in pure Rust",
+      "stars": 137,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-11-08T04:33:08Z",
+      "updated_at": "2026-11-08T04:11:48Z"
     },
     {
       "id": 1283323996,
@@ -169,8 +169,8 @@
       "stars": 118,
       "forks": 2,
       "language": "HTML",
-      "pushed_at": "2026-11-07T23:19:41Z",
-      "updated_at": "2026-11-07T23:19:45Z"
+      "pushed_at": "2026-11-08T03:55:16Z",
+      "updated_at": "2026-11-08T03:55:20Z"
     }
   ]
 }
