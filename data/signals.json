@@ -5,51 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1292,
+  "total_found": 1295,
   "items": [
-    {
-      "id": 15315789,
-      "full_name": "Wox-launcher/Wox",
-      "html_url": "https://github.com/Wox-launcher/Wox",
-      "description": "A cross-platform launcher that simply works",
-      "stars": 27617,
-      "forks": 2447,
-      "language": "Go",
-      "pushed_at": "2026-11-08T14:23:44Z",
-      "updated_at": "2026-11-08T14:23:54Z"
-    },
     {
       "id": 665613753,
       "full_name": "elie222/inbox-zero",
       "html_url": "https://github.com/elie222/inbox-zero",
       "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
-      "stars": 12943,
+      "stars": 12945,
       "forks": 1658,
       "language": "TypeScript",
-      "pushed_at": "2026-11-08T14:36:30Z",
-      "updated_at": "2026-11-08T14:31:49Z"
+      "pushed_at": "2026-11-08T20:02:57Z",
+      "updated_at": "2026-11-08T20:08:58Z"
+    },
+    {
+      "id": 1416442720,
+      "full_name": "microsoft/TokenEconomizer",
+      "html_url": "https://github.com/microsoft/TokenEconomizer",
+      "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+      "stars": 5229,
+      "forks": 318,
+      "language": "Python",
+      "pushed_at": "2026-11-08T19:16:43Z",
+      "updated_at": "2026-11-08T20:12:07Z"
     },
     {
       "id": 1079924730,
       "full_name": "OmniNull/OmniWM",
       "html_url": "https://github.com/OmniNull/OmniWM",
       "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3570,
+      "stars": 3571,
       "forks": 176,
       "language": "Swift",
-      "pushed_at": "2026-11-08T13:59:10Z",
-      "updated_at": "2026-11-08T13:59:15Z"
+      "pushed_at": "2026-11-08T20:08:41Z",
+      "updated_at": "2026-11-08T20:08:47Z"
     },
     {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2374,
-      "forks": 158,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-08T14:33:59Z",
-      "updated_at": "2026-11-08T14:34:02Z"
+      "id": 1262952417,
+      "full_name": "InlitX/streak",
+      "html_url": "https://github.com/InlitX/streak",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "stars": 1139,
+      "forks": 62,
+      "language": "Dart",
+      "pushed_at": "2026-11-08T20:07:22Z",
+      "updated_at": "2026-11-08T20:07:28Z"
     },
     {
       "id": 591995344,
@@ -59,30 +59,30 @@
       "stars": 911,
       "forks": 94,
       "language": "Python",
-      "pushed_at": "2026-11-08T14:42:13Z",
-      "updated_at": "2026-11-08T14:33:33Z"
+      "pushed_at": "2026-11-08T20:10:04Z",
+      "updated_at": "2026-11-08T19:49:04Z"
     },
     {
-      "id": 542909593,
-      "full_name": "yenche123/liubai",
-      "html_url": "https://github.com/yenche123/liubai",
-      "description": "Supercharge yourself!",
-      "stars": 867,
-      "forks": 87,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-08T14:25:38Z",
-      "updated_at": "2026-11-08T14:25:43Z"
+      "id": 1426181476,
+      "full_name": "oinkvm/oink",
+      "html_url": "https://github.com/oinkvm/oink",
+      "description": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
+      "stars": 836,
+      "forks": 69,
+      "language": "Rust",
+      "pushed_at": "2026-11-08T19:13:27Z",
+      "updated_at": "2026-11-08T19:41:14Z"
     },
     {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 605,
-      "forks": 114,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-08T14:36:15Z",
-      "updated_at": "2026-11-08T14:11:55Z"
+      "id": 49612213,
+      "full_name": "vchelaru/FlatRedBall",
+      "html_url": "https://github.com/vchelaru/FlatRedBall",
+      "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+      "stars": 583,
+      "forks": 73,
+      "language": "C#",
+      "pushed_at": "2026-11-08T19:03:12Z",
+      "updated_at": "2026-11-08T19:03:15Z"
     },
     {
       "id": 1332399543,
@@ -92,85 +92,85 @@
       "stars": 448,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-08T14:35:57Z",
-      "updated_at": "2026-11-08T14:36:01Z"
+      "pushed_at": "2026-11-08T20:08:56Z",
+      "updated_at": "2026-11-08T20:09:00Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 337,
+      "stars": 338,
       "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-11-08T14:29:20Z",
-      "updated_at": "2026-11-08T14:14:12Z"
+      "pushed_at": "2026-11-08T20:09:36Z",
+      "updated_at": "2026-11-08T19:18:59Z"
     },
     {
-      "id": 1169355653,
-      "full_name": "mobrava/Clipbara",
-      "html_url": "https://github.com/mobrava/Clipbara",
-      "description": "Open-source clipboard manager for macOS and iPhone. Card-style history, Pinboards, Quick Look, and optional iCloud sync. Free DMG and Homebrew builds, one-time purchase on the App Store.",
-      "stars": 257,
-      "forks": 30,
-      "language": "Swift",
-      "pushed_at": "2026-11-08T14:20:15Z",
-      "updated_at": "2026-11-08T14:20:19Z"
+      "id": 1220384784,
+      "full_name": "danielvm-git/bigpowers",
+      "html_url": "https://github.com/danielvm-git/bigpowers",
+      "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
+      "stars": 288,
+      "forks": 24,
+      "language": "Shell",
+      "pushed_at": "2026-11-08T20:11:56Z",
+      "updated_at": "2026-11-08T20:12:01Z"
     },
     {
-      "id": 1436056460,
-      "full_name": "SumirSeth/wisp",
-      "html_url": "https://github.com/SumirSeth/wisp",
-      "description": "A dock and a launcher for Windows. Replaces the taskbar. Alt+Space grows the dock into a launcher. Rust and Win32, one ~1.5 MB exe.",
-      "stars": 111,
-      "forks": 3,
+      "id": 1339903141,
+      "full_name": "smarzban/tsk",
+      "html_url": "https://github.com/smarzban/tsk",
+      "description": "tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them.",
+      "stars": 262,
+      "forks": 12,
       "language": "Rust",
-      "pushed_at": "2026-11-08T14:10:18Z",
-      "updated_at": "2026-11-08T14:10:18Z"
+      "pushed_at": "2026-11-08T19:38:32Z",
+      "updated_at": "2026-11-08T19:38:35Z"
     },
     {
-      "id": 1165269890,
-      "full_name": "EvanZhang008/open-walnut",
-      "html_url": "https://github.com/EvanZhang008/open-walnut",
-      "description": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
-      "stars": 108,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-08T14:45:33Z",
-      "updated_at": "2026-11-08T14:05:18Z"
-    },
-    {
-      "id": 1422076008,
-      "full_name": "sruf79/halo-spaces",
-      "html_url": "https://github.com/sruf79/halo-spaces",
-      "description": "A calm, tidy design for Thunderbird on macOS, with colourful spaces, message cards and a clear calendar.",
-      "stars": 87,
-      "forks": 5,
-      "language": "Python",
-      "pushed_at": "2026-11-08T14:08:16Z",
-      "updated_at": "2026-11-08T14:08:20Z"
-    },
-    {
-      "id": 1045694618,
-      "full_name": "DarkKandaoMaster/QuickSay",
-      "html_url": "https://github.com/DarkKandaoMaster/QuickSay",
-      "description": "一款强大的快捷短语软件（聊天/常用语/快捷回复/快捷语录/客服工具/文本暂存器/输入 prompt 很好用）",
-      "stars": 78,
-      "forks": 6,
-      "language": "C++",
-      "pushed_at": "2026-11-08T14:23:26Z",
-      "updated_at": "2026-11-08T14:12:29Z"
-    },
-    {
-      "id": 1029731706,
-      "full_name": "mgsgde/whisper-shortcut",
-      "html_url": "https://github.com/mgsgde/whisper-shortcut",
-      "description": "Voice-first macOS menu bar app: dictate, voice-edit clipboard, read aloud, AI chat with Google/Trello tools, and live meeting notes. Bring your own keys (Gemini, GPT, Grok) or run offline with Whisper.",
-      "stars": 76,
-      "forks": 11,
+      "id": 1414714898,
+      "full_name": "cristipufu/strata-files",
+      "html_url": "https://github.com/cristipufu/strata-files",
+      "description": "Strata Files: a fast, native, keyboard-first file manager and Finder alternative for macOS. Instant search, live folder sizes, disk usage map, dual pane.",
+      "stars": 255,
+      "forks": 19,
       "language": "Swift",
-      "pushed_at": "2026-11-08T14:40:10Z",
-      "updated_at": "2026-11-08T14:34:52Z"
+      "pushed_at": "2026-11-08T19:11:32Z",
+      "updated_at": "2026-11-08T19:35:15Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 222,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-11-08T20:02:10Z",
+      "updated_at": "2026-11-08T20:02:14Z"
+    },
+    {
+      "id": 1136220235,
+      "full_name": "will-be-done/will-be-done",
+      "html_url": "https://github.com/will-be-done/will-be-done",
+      "description": "Local-first task manager with a visual weekly timeline. Works offline, syncs across devices, and self-hosts with one Docker command. Uses SQLite by default, so no external database is needed.",
+      "stars": 179,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-08T19:39:41Z",
+      "updated_at": "2026-11-08T19:39:46Z"
+    },
+    {
+      "id": 1264434310,
+      "full_name": "Changan-Su/Forsion",
+      "html_url": "https://github.com/Changan-Su/Forsion",
+      "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+      "stars": 176,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-08T20:04:26Z",
+      "updated_at": "2026-11-08T19:02:24Z"
     }
   ]
 }
