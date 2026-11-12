@@ -5,73 +5,84 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1313,
+  "total_found": 1310,
   "items": [
     {
-      "id": 353775942,
-      "full_name": "streetwriters/notesnook",
-      "html_url": "https://github.com/streetwriters/notesnook",
-      "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-      "stars": 14918,
-      "forks": 1051,
+      "id": 231283452,
+      "full_name": "excalidraw/excalidraw",
+      "html_url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "stars": 135565,
+      "forks": 16127,
       "language": "TypeScript",
-      "pushed_at": "2026-11-12T04:47:22Z",
-      "updated_at": "2026-11-12T05:20:43Z"
+      "pushed_at": "2026-11-12T16:03:04Z",
+      "updated_at": "2026-11-12T16:30:16Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 6180,
-      "forks": 979,
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27633,
+      "forks": 2448,
+      "language": "Go",
+      "pushed_at": "2026-11-12T15:39:27Z",
+      "updated_at": "2026-11-12T15:53:34Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 13000,
+      "forks": 1670,
       "language": "TypeScript",
-      "pushed_at": "2026-11-12T04:56:29Z",
-      "updated_at": "2026-11-12T04:22:01Z"
+      "pushed_at": "2026-11-12T15:53:54Z",
+      "updated_at": "2026-11-12T16:33:31Z"
+    },
+    {
+      "id": 189829392,
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 8796,
+      "forks": 1339,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-12T16:30:53Z",
+      "updated_at": "2026-11-12T15:30:44Z"
+    },
+    {
+      "id": 939207877,
+      "full_name": "mg-chao/snow-shot",
+      "html_url": "https://github.com/mg-chao/snow-shot",
+      "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
+      "stars": 6981,
+      "forks": 453,
+      "language": "C++",
+      "pushed_at": "2026-11-12T15:51:37Z",
+      "updated_at": "2026-11-12T16:11:30Z"
+    },
+    {
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5738,
+      "forks": 676,
+      "language": "Kotlin",
+      "pushed_at": "2026-11-12T15:46:27Z",
+      "updated_at": "2026-11-12T16:19:53Z"
     },
     {
       "id": 1418204810,
       "full_name": "InukaAsith/TwinDesk",
       "html_url": "https://github.com/InukaAsith/TwinDesk",
       "description": " All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux , Android, Web and ios / ipados . Free and open source. No account, no cloud, and no shared network needed.",
-      "stars": 3947,
-      "forks": 306,
+      "stars": 3971,
+      "forks": 309,
       "language": "JavaScript",
-      "pushed_at": "2026-11-12T05:44:28Z",
-      "updated_at": "2026-11-12T05:45:31Z"
-    },
-    {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3597,
-      "forks": 181,
-      "language": "Swift",
-      "pushed_at": "2026-11-12T05:50:20Z",
-      "updated_at": "2026-11-12T05:27:36Z"
-    },
-    {
-      "id": 1111978380,
-      "full_name": "dongdongbh/Mindwtr",
-      "html_url": "https://github.com/dongdongbh/Mindwtr",
-      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
-      "stars": 2387,
-      "forks": 161,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-12T05:23:48Z",
-      "updated_at": "2026-11-12T05:42:51Z"
-    },
-    {
-      "id": 1409660690,
-      "full_name": "LingCore/WinShun",
-      "html_url": "https://github.com/LingCore/WinShun",
-      "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
-      "stars": 984,
-      "forks": 66,
-      "language": "C++",
-      "pushed_at": "2026-11-12T04:54:33Z",
-      "updated_at": "2026-11-12T04:43:11Z"
+      "pushed_at": "2026-11-12T16:28:27Z",
+      "updated_at": "2026-11-12T16:28:51Z"
     },
     {
       "id": 591995344,
@@ -81,8 +92,8 @@
       "stars": 914,
       "forks": 95,
       "language": "Python",
-      "pushed_at": "2026-11-12T04:45:45Z",
-      "updated_at": "2026-11-12T05:09:14Z"
+      "pushed_at": "2026-11-12T16:25:35Z",
+      "updated_at": "2026-11-12T15:47:27Z"
     },
     {
       "id": 549694131,
@@ -92,85 +103,74 @@
       "stars": 606,
       "forks": 114,
       "language": "TypeScript",
-      "pushed_at": "2026-11-12T05:48:51Z",
-      "updated_at": "2026-11-12T04:50:01Z"
+      "pushed_at": "2026-11-12T16:32:15Z",
+      "updated_at": "2026-11-12T15:53:31Z"
     },
     {
-      "id": 1332399543,
-      "full_name": "JiangNanGenius/floe-agent",
-      "html_url": "https://github.com/JiangNanGenius/floe-agent",
-      "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
-      "stars": 452,
-      "forks": 61,
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 246,
+      "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-12T05:31:31Z",
-      "updated_at": "2026-11-12T05:17:22Z"
+      "pushed_at": "2026-11-12T16:02:24Z",
+      "updated_at": "2026-11-12T16:24:16Z"
     },
     {
-      "id": 1030039430,
-      "full_name": "automagik-si/genie",
-      "html_url": "https://github.com/automagik-si/genie",
-      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
-      "stars": 352,
-      "forks": 57,
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 186,
+      "forks": 22,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-12T16:07:03Z",
+      "updated_at": "2026-11-12T00:00:53Z"
+    },
+    {
+      "id": 1165269890,
+      "full_name": "EvanZhang008/open-walnut",
+      "html_url": "https://github.com/EvanZhang008/open-walnut",
+      "description": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+      "stars": 140,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-12T04:56:57Z",
-      "updated_at": "2026-11-12T04:14:07Z"
+      "pushed_at": "2026-11-12T16:34:21Z",
+      "updated_at": "2026-11-12T16:02:40Z"
     },
     {
-      "id": 850497911,
-      "full_name": "cryptrr/AutoPie",
-      "html_url": "https://github.com/cryptrr/AutoPie",
-      "description": "Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.",
-      "stars": 308,
-      "forks": 27,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-12T03:54:56Z",
-      "updated_at": "2026-11-12T04:55:01Z"
-    },
-    {
-      "id": 1133241492,
-      "full_name": "gnoviawan/termul",
-      "html_url": "https://github.com/gnoviawan/termul",
-      "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
-      "stars": 306,
-      "forks": 63,
+      "id": 1355857144,
+      "full_name": "theguysudo/ENZO",
+      "html_url": "https://github.com/theguysudo/ENZO",
+      "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+      "stars": 120,
+      "forks": 30,
       "language": "TypeScript",
-      "pushed_at": "2026-11-12T05:50:50Z",
-      "updated_at": "2026-11-12T05:15:48Z"
+      "pushed_at": "2026-11-12T16:24:59Z",
+      "updated_at": "2026-11-12T10:06:06Z"
     },
     {
-      "id": 1302557102,
-      "full_name": "Licoy/StrokeMouse",
-      "html_url": "https://github.com/Licoy/StrokeMouse",
-      "description": "macOS 鼠标/触控板手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-      "stars": 247,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-11-12T05:39:01Z",
-      "updated_at": "2026-11-12T05:50:21Z"
+      "id": 616847538,
+      "full_name": "cattr-app/server-application",
+      "html_url": "https://github.com/cattr-app/server-application",
+      "description": "Cattr server application - self-hosted time tracking with project management, reports, screenshots, activity tracking and public API",
+      "stars": 104,
+      "forks": 58,
+      "language": "PHP",
+      "pushed_at": "2026-11-12T16:26:18Z",
+      "updated_at": "2026-11-12T16:30:08Z"
     },
     {
-      "id": 1264852223,
-      "full_name": "bob-zebedy/CodexBar",
-      "html_url": "https://github.com/bob-zebedy/CodexBar",
-      "description": "CodexBar 是一个 macOS 菜单栏应用，用于查看本机 Codex 账号状态、额度、Token 用量、详细统计信息",
-      "stars": 231,
-      "forks": 6,
-      "language": "Swift",
-      "pushed_at": "2026-11-12T03:55:56Z",
-      "updated_at": "2026-11-12T05:49:36Z"
-    },
-    {
-      "id": 1423627652,
-      "full_name": "AlienTechSoftware/notecraft",
-      "html_url": "https://github.com/AlienTechSoftware/notecraft",
-      "description": "Note taking and organization; an open-source, clean-room reimplementation of Microsoft OneNote, rebuilt in pure Rust",
-      "stars": 162,
-      "forks": 17,
-      "language": "Rust",
-      "pushed_at": "2026-11-12T05:43:26Z",
-      "updated_at": "2026-11-12T05:03:30Z"
+      "id": 1271179812,
+      "full_name": "joexk1/JoeBro",
+      "html_url": "https://github.com/joexk1/JoeBro",
+      "description": "A native macOS AI workspace that's actually yours — local-first, private, pro-AI and anti-big-tech. Own your assistant, don't rent it. GPLv3.",
+      "stars": 94,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-11-12T16:31:40Z",
+      "updated_at": "2026-11-08T21:42:50Z"
     }
   ]
 }
