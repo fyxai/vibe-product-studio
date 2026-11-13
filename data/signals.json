@@ -8,81 +8,125 @@
   "total_found": 1311,
   "items": [
     {
-      "id": 13428264,
-      "full_name": "ShareX/ShareX",
-      "html_url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "stars": 41005,
-      "forks": 4077,
-      "language": "C#",
-      "pushed_at": "2026-11-13T11:18:32Z",
-      "updated_at": "2026-11-13T11:49:57Z"
-    },
-    {
       "id": 78243781,
       "full_name": "super-productivity/super-productivity",
       "html_url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23647,
-      "forks": 2289,
+      "stars": 23659,
+      "forks": 2292,
       "language": "TypeScript",
-      "pushed_at": "2026-11-13T11:46:05Z",
-      "updated_at": "2026-11-13T11:48:55Z"
+      "pushed_at": "2026-11-13T18:49:26Z",
+      "updated_at": "2026-11-13T18:49:33Z"
     },
     {
-      "id": 916009087,
-      "full_name": "rowboatlabs/rowboat",
-      "html_url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Your agent team, in one group chat.",
-      "stars": 18211,
-      "forks": 1824,
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13912,
+      "forks": 875,
       "language": "TypeScript",
-      "pushed_at": "2026-11-13T11:48:05Z",
-      "updated_at": "2026-11-13T11:05:42Z"
+      "pushed_at": "2026-11-13T17:44:43Z",
+      "updated_at": "2026-11-13T16:45:25Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 13015,
+      "forks": 1672,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-13T19:10:24Z",
+      "updated_at": "2026-11-13T18:36:44Z"
     },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
       "html_url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8802,
-      "forks": 1339,
+      "stars": 8810,
+      "forks": 1340,
       "language": "TypeScript",
-      "pushed_at": "2026-11-13T11:51:11Z",
-      "updated_at": "2026-11-13T10:53:27Z"
+      "pushed_at": "2026-11-13T19:09:53Z",
+      "updated_at": "2026-11-13T18:40:46Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3605,
-      "forks": 181,
-      "language": "Swift",
-      "pushed_at": "2026-11-13T11:36:54Z",
-      "updated_at": "2026-11-13T11:22:57Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 4568,
+      "forks": 358,
+      "language": "Python",
+      "pushed_at": "2026-11-13T18:16:34Z",
+      "updated_at": "2026-11-13T18:41:11Z"
+    },
+    {
+      "id": 1250907197,
+      "full_name": "snownico0722/PaperTodo",
+      "html_url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "stars": 2766,
+      "forks": 146,
+      "language": "C#",
+      "pushed_at": "2026-11-13T19:07:59Z",
+      "updated_at": "2026-11-13T18:45:59Z"
+    },
+    {
+      "id": 1187304686,
+      "full_name": "westpoint-io/mimik",
+      "html_url": "https://github.com/westpoint-io/mimik",
+      "description": "🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖",
+      "stars": 1845,
+      "forks": 218,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-13T17:47:13Z",
+      "updated_at": "2026-11-13T13:51:08Z"
     },
     {
       "id": 1426181476,
       "full_name": "oinkvm/oink",
       "html_url": "https://github.com/oinkvm/oink",
       "description": "Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.",
-      "stars": 1551,
-      "forks": 132,
+      "stars": 1591,
+      "forks": 135,
       "language": "Rust",
-      "pushed_at": "2026-11-13T11:01:00Z",
-      "updated_at": "2026-11-13T11:41:18Z"
+      "pushed_at": "2026-11-13T18:53:18Z",
+      "updated_at": "2026-11-13T18:58:41Z"
     },
     {
-      "id": 1289484140,
-      "full_name": "flyl1u/fly-island",
-      "html_url": "https://github.com/flyl1u/fly-island",
-      "description": "A lightweight PC Dynamic Island that integrates QQ, WeChat, and email notifications, clipboard history, quick translation, a Codex status light, media controls, daily to-dos, and more. | 轻量的PC灵动岛，集成QQ、微信及邮箱通知、剪贴历史、快捷翻译、Agent状态灯、媒体控制、每日待办等功能",
-      "stars": 590,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-13T11:00:13Z",
-      "updated_at": "2026-11-13T11:44:48Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom, Open-Source Governed AI Agent Platform for Self-Hosted Trained Employees For Your Business",
+      "stars": 914,
+      "forks": 95,
+      "language": "Python",
+      "pushed_at": "2026-11-13T18:05:56Z",
+      "updated_at": "2026-11-12T16:52:48Z"
+    },
+    {
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 761,
+      "forks": 82,
+      "language": "Python",
+      "pushed_at": "2026-11-13T17:57:59Z",
+      "updated_at": "2026-11-13T18:24:34Z"
+    },
+    {
+      "id": 590023059,
+      "full_name": "RARgames/4gaBoards",
+      "html_url": "https://github.com/RARgames/4gaBoards",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 738,
+      "forks": 131,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-13T18:06:13Z",
+      "updated_at": "2026-11-12T02:44:59Z"
     },
     {
       "id": 1332399543,
@@ -92,7 +136,7 @@
       "stars": 454,
       "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-13T11:36:54Z",
+      "pushed_at": "2026-11-13T18:45:18Z",
       "updated_at": "2026-11-13T11:37:07Z"
     },
     {
@@ -100,77 +144,33 @@
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 402,
+      "stars": 405,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-11-13T11:40:13Z",
-      "updated_at": "2026-11-13T10:25:23Z"
+      "pushed_at": "2026-11-13T19:07:09Z",
+      "updated_at": "2026-11-13T13:42:19Z"
     },
     {
-      "id": 1391654489,
-      "full_name": "mattabate/life-distributable",
-      "html_url": "https://github.com/mattabate/life-distributable",
-      "description": "A personal agent that works on your life around the clock, on a Mac you own. One sentence to Claude Code installs it.",
-      "stars": 386,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-11-13T10:47:40Z",
-      "updated_at": "2026-11-13T03:07:49Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, on-device AI dictation and meeting notes for macOS. Sub-second dictation with Parakeet and Whisper on Apple Silicon, plus optional AI polish. EnviousMeet (Beta): record calls with no bot, get who-said-what transcripts and AI summaries on your Mac. No account, no subscription, open source. Your audio never leaves your Mac.",
-      "stars": 221,
-      "forks": 18,
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 250,
+      "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-13T11:15:45Z",
-      "updated_at": "2026-11-13T11:42:31Z"
-    },
-    {
-      "id": 1319670891,
-      "full_name": "qeude/Defi",
-      "html_url": "https://github.com/qeude/Defi",
-      "description": "A fast, native scrollable-tiling window manager for macOS, inspired by Niri.",
-      "stars": 182,
-      "forks": 9,
-      "language": "Swift",
-      "pushed_at": "2026-11-13T11:02:01Z",
-      "updated_at": "2026-11-13T07:32:12Z"
-    },
-    {
-      "id": 1436056460,
-      "full_name": "SumirSeth/wisp",
-      "html_url": "https://github.com/SumirSeth/wisp",
-      "description": "A dock and a launcher for Windows. Replaces the taskbar. Alt+Space grows the dock into a launcher. Rust and Win32, one ~1.5 MB exe.",
-      "stars": 161,
-      "forks": 10,
-      "language": "Rust",
-      "pushed_at": "2026-11-13T10:46:33Z",
-      "updated_at": "2026-11-13T09:45:09Z"
-    },
-    {
-      "id": 1281865940,
-      "full_name": "william-jin-cmu/cetus",
-      "html_url": "https://github.com/william-jin-cmu/cetus",
-      "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
-      "stars": 151,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-13T10:50:57Z",
-      "updated_at": "2026-11-12T09:31:40Z"
+      "pushed_at": "2026-11-13T19:00:33Z",
+      "updated_at": "2026-11-13T10:32:59Z"
     },
     {
       "id": 1443910681,
       "full_name": "TixXin/Fuyu",
       "html_url": "https://github.com/TixXin/Fuyu",
       "description": "浮屿：Windows 上的轻量灵动岛。在屏幕顶部汇总 QQ、微信和邮件通知，查看 Claude Code / Codex 的运行状态并直接在岛上审批，还有剪贴板历史、快捷翻译、音乐与歌词、待办、日历和文件中转，支持插件扩展。",
-      "stars": 130,
-      "forks": 0,
+      "stars": 148,
+      "forks": 1,
       "language": "TypeScript",
-      "pushed_at": "2026-11-13T11:51:35Z",
-      "updated_at": "2026-11-13T11:09:31Z"
+      "pushed_at": "2026-11-13T18:52:45Z",
+      "updated_at": "2026-11-13T19:00:22Z"
     }
   ]
 }
