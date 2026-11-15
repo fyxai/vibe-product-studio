@@ -5,8 +5,30 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1312,
+  "total_found": 1315,
   "items": [
+    {
+      "id": 15315789,
+      "full_name": "Wox-launcher/Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "stars": 27642,
+      "forks": 2448,
+      "language": "Go",
+      "pushed_at": "2026-11-15T03:13:22Z",
+      "updated_at": "2026-11-15T04:26:43Z"
+    },
+    {
+      "id": 665613753,
+      "full_name": "elie222/inbox-zero",
+      "html_url": "https://github.com/elie222/inbox-zero",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 13028,
+      "forks": 1674,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-15T04:27:16Z",
+      "updated_at": "2026-11-15T01:16:41Z"
+    },
     {
       "id": 189829392,
       "full_name": "ever-co/ever-gauzy",
@@ -15,7 +37,7 @@
       "stars": 8832,
       "forks": 1345,
       "language": "TypeScript",
-      "pushed_at": "2026-11-14T23:03:27Z",
+      "pushed_at": "2026-11-15T04:04:27Z",
       "updated_at": "2026-11-14T23:08:28Z"
     },
     {
@@ -23,33 +45,22 @@
       "full_name": "InukaAsith/TwinDesk",
       "html_url": "https://github.com/InukaAsith/TwinDesk",
       "description": " All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux , Android, Web and ios / ipados . Free and open source. No account, no cloud, and no shared network needed.",
-      "stars": 4065,
+      "stars": 4071,
       "forks": 314,
       "language": "JavaScript",
-      "pushed_at": "2026-11-14T23:23:22Z",
-      "updated_at": "2026-11-14T23:26:20Z"
+      "pushed_at": "2026-11-15T04:46:10Z",
+      "updated_at": "2026-11-15T04:42:40Z"
     },
     {
-      "id": 1412610162,
-      "full_name": "SaarthurR/atticus-mac",
-      "html_url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 775,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-11-14T22:27:11Z",
-      "updated_at": "2026-11-14T22:00:22Z"
-    },
-    {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command installs them into the tool you already use.",
-      "stars": 632,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-11-14T21:54:59Z",
-      "updated_at": "2026-11-14T21:57:36Z"
+      "id": 1368167244,
+      "full_name": "DayuanJiang/PecoFence",
+      "html_url": "https://github.com/DayuanJiang/PecoFence",
+      "description": "A free, open-source Stardock Fences alternative for Windows 11 and 10. Glass fences, live folders, tabs, Peek. Rust, a few MB of RAM at rest, 11 languages, portable.",
+      "stars": 938,
+      "forks": 54,
+      "language": "Rust",
+      "pushed_at": "2026-11-15T04:17:36Z",
+      "updated_at": "2026-11-15T04:53:04Z"
     },
     {
       "id": 549694131,
@@ -59,107 +70,85 @@
       "stars": 606,
       "forks": 115,
       "language": "TypeScript",
-      "pushed_at": "2026-11-14T23:33:27Z",
+      "pushed_at": "2026-11-15T03:39:09Z",
       "updated_at": "2026-11-12T17:00:02Z"
     },
     {
-      "id": 1163671946,
-      "full_name": "chrisblattman/claudeblattman",
-      "html_url": "https://github.com/chrisblattman/claudeblattman",
-      "description": "Claude Code for professionals who don't code — Skills, agents, and setup guides",
-      "stars": 481,
-      "forks": 79,
-      "language": "Python",
-      "pushed_at": "2026-11-14T21:55:13Z",
-      "updated_at": "2026-11-13T16:51:14Z"
-    },
-    {
-      "id": 1412617976,
-      "full_name": "OpenTodoApp/OpenTodo",
-      "html_url": "https://github.com/OpenTodoApp/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 415,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-14T23:30:00Z",
-      "updated_at": "2026-11-14T23:10:43Z"
-    },
-    {
-      "id": 1351541578,
-      "full_name": "ysalitrynskyi/stedding-browser",
-      "html_url": "https://github.com/ysalitrynskyi/stedding-browser",
-      "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry.",
-      "stars": 212,
-      "forks": 8,
-      "language": "HTML",
-      "pushed_at": "2026-11-14T22:49:02Z",
-      "updated_at": "2026-11-14T21:24:39Z"
-    },
-    {
-      "id": 1133644268,
-      "full_name": "LayerNorm/overlay-web",
-      "html_url": "https://github.com/LayerNorm/overlay-web",
-      "description": "The control plane for your AI employees",
-      "stars": 196,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-14T22:51:00Z",
-      "updated_at": "2026-11-12T14:52:37Z"
-    },
-    {
-      "id": 1443910681,
-      "full_name": "TixXin/Fuyu",
-      "html_url": "https://github.com/TixXin/Fuyu",
-      "description": "浮屿：Windows 和 macOS 上的轻量灵动岛。在屏幕顶部汇总 QQ、微信和邮件通知，查看 Claude Code / Codex 的运行状态并直接在岛上审批，还有剪贴板历史、快捷翻译、音乐与歌词、待办、日历和文件中转，支持插件扩展。",
-      "stars": 185,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-14T23:27:35Z",
-      "updated_at": "2026-11-14T22:54:00Z"
-    },
-    {
-      "id": 1319670891,
-      "full_name": "qeude/Defi",
-      "html_url": "https://github.com/qeude/Defi",
-      "description": "A fast, native scrollable-tiling window manager for macOS, inspired by Niri.",
-      "stars": 184,
-      "forks": 9,
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "Open-source AI Agent for iOS, iPadOS and Android, designed primarily for iPadOS. On-device Linux, 3D/CAD, Notes, Office, Canvas, Python/Node.js, terminal, Git, voice and Skill Hub. BYOK AI; supported local models and native 3D editing on iOS. 开源设备端 AI 工作台，以 iPadOS 体验为核心。",
+      "stars": 455,
+      "forks": 61,
       "language": "Swift",
-      "pushed_at": "2026-11-14T23:11:15Z",
-      "updated_at": "2026-11-14T16:56:27Z"
+      "pushed_at": "2026-11-15T04:19:49Z",
+      "updated_at": "2026-11-14T01:20:26Z"
     },
     {
-      "id": 1286830182,
-      "full_name": "Loxonl/vPaste-desktop",
-      "html_url": "https://github.com/Loxonl/vPaste-desktop",
-      "description": "An open-source clipboard manager for Windows and macOS, with searchable history for text, images, links, colors, and files",
-      "stars": 183,
-      "forks": 10,
-      "language": "Rust",
-      "pushed_at": "2026-11-14T22:40:34Z",
-      "updated_at": "2026-11-14T23:02:41Z"
+      "id": 1133241492,
+      "full_name": "gnoviawan/troupe",
+      "html_url": "https://github.com/gnoviawan/troupe",
+      "description": "Troupe any Agents in one UI for Claude, ChatGPT, Antigravity and 30+ more",
+      "stars": 322,
+      "forks": 62,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-15T04:09:31Z",
+      "updated_at": "2026-11-15T03:03:48Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 251,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-11-15T04:16:39Z",
+      "updated_at": "2026-11-13T20:04:34Z"
+    },
+    {
+      "id": 1181994538,
+      "full_name": "Lethe044/hermes-life-os",
+      "html_url": "https://github.com/Lethe044/hermes-life-os",
+      "description": "Local-first personal OS: mood, sleep, habits, tasks, day planning and a memory that connects the dots. Works with Ollama, OpenAI, Anthropic and OpenRouter.",
+      "stars": 241,
+      "forks": 16,
+      "language": "Python",
+      "pushed_at": "2026-11-15T04:26:28Z",
+      "updated_at": "2026-11-13T06:54:05Z"
+    },
+    {
+      "id": 1458203461,
+      "full_name": "angela-frost/microsoft-office-pro-desktop",
+      "html_url": "https://github.com/angela-frost/microsoft-office-pro-desktop",
+      "description": "Microsoft Office Pro 2026 desktop setup with document authoring, spreadsheet engine and presentation assembly bundled into one offline x64 package for Windows 11.",
+      "stars": 191,
+      "forks": 0,
+      "language": "C++",
+      "pushed_at": "2026-11-15T04:10:53Z",
+      "updated_at": "2026-11-15T04:54:50Z"
+    },
+    {
+      "id": 1458203382,
+      "full_name": "cam-gardner/microsoft-office-desktop",
+      "html_url": "https://github.com/cam-gardner/microsoft-office-desktop",
+      "description": "Microsoft Office 2026 desktop setup with document authoring, spreadsheet engine, presentation module and bundled multilingual interface for Windows 11",
+      "stars": 191,
+      "forks": 0,
+      "language": "C++",
+      "pushed_at": "2026-11-15T03:50:28Z",
+      "updated_at": "2026-11-15T04:54:17Z"
     },
     {
       "id": 1423627652,
       "full_name": "AlienTechSoftware/notecraft",
       "html_url": "https://github.com/AlienTechSoftware/notecraft",
       "description": "Note taking and organization; an open-source, clean-room reimplementation of Microsoft OneNote, rebuilt in pure Rust",
-      "stars": 171,
+      "stars": 174,
       "forks": 20,
       "language": "Rust",
-      "pushed_at": "2026-11-14T23:06:30Z",
-      "updated_at": "2026-11-14T22:43:28Z"
-    },
-    {
-      "id": 1287996949,
-      "full_name": "riponcm/GemType",
-      "html_url": "https://github.com/riponcm/GemType",
-      "description": "Free, open-source Grammarly alternative for Chrome & Safari — AI grammar checker and text rewriter for any website, powered by your own free Google Gemini API key. No account, no tracking, no subscription.",
-      "stars": 163,
-      "forks": 10,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-14T22:20:57Z",
-      "updated_at": "2026-11-13T08:46:17Z"
+      "pushed_at": "2026-11-15T03:19:24Z",
+      "updated_at": "2026-11-15T04:48:02Z"
     },
     {
       "id": 1165269890,
@@ -169,8 +158,19 @@
       "stars": 140,
       "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-11-14T23:37:13Z",
+      "pushed_at": "2026-11-15T04:54:43Z",
       "updated_at": "2026-11-12T16:02:40Z"
+    },
+    {
+      "id": 1227957944,
+      "full_name": "Mikedev115/Aetox-Harness",
+      "html_url": "https://github.com/Mikedev115/Aetox-Harness",
+      "description": "Aetox harness: a local-first Windows AI environment - model, skills, team and memory as one system. Two doors - an Assistant that adapts to your work and drives a real browser; and a Developer that names each weakness before writing, checks the project's security, runs the project's tests before saying done, and remembers what this project decided.",
+      "stars": 124,
+      "forks": 24,
+      "language": "Go",
+      "pushed_at": "2026-11-15T03:53:00Z",
+      "updated_at": "2026-11-12T08:02:40Z"
     }
   ]
 }
