@@ -8,83 +8,6 @@
   "total_found": 1334,
   "items": [
     {
-      "id": 1136590548,
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 307255,
-      "forks": 45227,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-19T22:51:25Z",
-      "updated_at": "2026-11-19T22:51:34Z"
-    },
-    {
-      "id": 1139971460,
-      "full_name": "rtk-ai/rtk",
-      "html_url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 87192,
-      "forks": 5606,
-      "language": "Rust",
-      "pushed_at": "2026-11-19T22:48:01Z",
-      "updated_at": "2026-11-19T22:46:40Z"
-    },
-    {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24498,
-      "forks": 2347,
-      "language": "Python",
-      "pushed_at": "2026-11-19T21:30:46Z",
-      "updated_at": "2026-11-19T19:52:40Z"
-    },
-    {
-      "id": 78243781,
-      "full_name": "super-productivity/super-productivity",
-      "html_url": "https://github.com/super-productivity/super-productivity",
-      "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "stars": 23847,
-      "forks": 2403,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-19T22:44:48Z",
-      "updated_at": "2026-11-19T22:14:58Z"
-    },
-    {
-      "id": 189829392,
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 8868,
-      "forks": 1349,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-19T21:37:17Z",
-      "updated_at": "2026-11-19T16:59:05Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5771,
-      "forks": 681,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-19T21:58:45Z",
-      "updated_at": "2026-11-19T21:02:24Z"
-    },
-    {
-      "id": 323279421,
-      "full_name": "LinwoodDev/Butterfly",
-      "html_url": "https://github.com/LinwoodDev/Butterfly",
-      "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
-      "stars": 2111,
-      "forks": 162,
-      "language": "Dart",
-      "pushed_at": "2026-11-19T22:53:46Z",
-      "updated_at": "2026-11-19T22:04:30Z"
-    },
-    {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
@@ -92,8 +15,30 @@
       "stars": 1812,
       "forks": 74,
       "language": "Rust",
-      "pushed_at": "2026-11-19T22:48:38Z",
+      "pushed_at": "2026-11-20T03:52:14Z",
       "updated_at": "2026-11-19T21:42:29Z"
+    },
+    {
+      "id": 1443805845,
+      "full_name": "Renly1994/xiaotang-daozai",
+      "html_url": "https://github.com/Renly1994/xiaotang-daozai",
+      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "stars": 1526,
+      "forks": 262,
+      "language": "Rust",
+      "pushed_at": "2026-11-20T04:11:56Z",
+      "updated_at": "2026-11-20T05:42:21Z"
+    },
+    {
+      "id": 1183931176,
+      "full_name": "ifer47/markeron",
+      "html_url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "stars": 1223,
+      "forks": 82,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-20T03:40:07Z",
+      "updated_at": "2026-11-19T16:50:00Z"
     },
     {
       "id": 591995344,
@@ -103,41 +48,52 @@
       "stars": 912,
       "forks": 94,
       "language": "Python",
-      "pushed_at": "2026-11-19T22:32:23Z",
+      "pushed_at": "2026-11-20T04:39:29Z",
       "updated_at": "2026-11-19T22:48:10Z"
     },
     {
-      "id": 590023059,
-      "full_name": "RARgames/4gaBoards",
-      "html_url": "https://github.com/RARgames/4gaBoards",
-      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
-      "stars": 741,
-      "forks": 135,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-19T22:50:52Z",
-      "updated_at": "2026-11-19T22:47:51Z"
+      "id": 1412610162,
+      "full_name": "SaarthurR/atticus-mac",
+      "html_url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "stars": 816,
+      "forks": 92,
+      "language": "Python",
+      "pushed_at": "2026-11-20T05:25:01Z",
+      "updated_at": "2026-11-20T02:04:06Z"
     },
     {
-      "id": 511356686,
-      "full_name": "ConvoyPanel/panel",
-      "html_url": "https://github.com/ConvoyPanel/panel",
-      "description": "A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per node per month for commercial use, and completely free for personal and non-profit endeavors.",
-      "stars": 528,
-      "forks": 88,
-      "language": "PHP",
-      "pushed_at": "2026-11-19T22:18:20Z",
-      "updated_at": "2026-11-19T22:37:34Z"
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 609,
+      "forks": 115,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-20T05:06:55Z",
+      "updated_at": "2026-11-18T20:30:42Z"
     },
     {
-      "id": 1443910681,
-      "full_name": "TixXin/Fuyu",
-      "html_url": "https://github.com/TixXin/Fuyu",
-      "description": "Fuyu (浮屿) — a lightweight dynamic island for Windows & macOS: message alerts from Telegram, Discord, WhatsApp, QQ and WeChat, Claude Code / Codex status and approvals with alerts to your phone, clipboard history, translation, lyrics, todos and plugins.",
-      "stars": 427,
-      "forks": 3,
-      "language": "HTML",
-      "pushed_at": "2026-11-19T22:39:37Z",
-      "updated_at": "2026-11-19T17:16:20Z"
+      "id": 1412617976,
+      "full_name": "OpenTodoApp/OpenTodo",
+      "html_url": "https://github.com/OpenTodoApp/OpenTodo",
+      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
+      "stars": 594,
+      "forks": 63,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-20T05:28:41Z",
+      "updated_at": "2026-11-20T05:14:35Z"
+    },
+    {
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 359,
+      "forks": 26,
+      "language": "Kotlin",
+      "pushed_at": "2026-11-20T04:08:42Z",
+      "updated_at": "2026-11-20T03:08:02Z"
     },
     {
       "id": 1133241492,
@@ -147,8 +103,19 @@
       "stars": 331,
       "forks": 64,
       "language": "TypeScript",
-      "pushed_at": "2026-11-19T22:10:51Z",
+      "pushed_at": "2026-11-20T05:31:19Z",
       "updated_at": "2026-11-18T02:48:17Z"
+    },
+    {
+      "id": 1338000115,
+      "full_name": "MuQY1818/OpenYoink",
+      "html_url": "https://github.com/MuQY1818/OpenYoink",
+      "description": "A free, open-source macOS drag-and-drop shelf and Dynamic Island for files, images, text and links. Built with SwiftUI + AppKit.",
+      "stars": 273,
+      "forks": 8,
+      "language": "Swift",
+      "pushed_at": "2026-11-20T04:35:25Z",
+      "updated_at": "2026-11-20T05:14:25Z"
     },
     {
       "id": 1161274003,
@@ -158,19 +125,52 @@
       "stars": 224,
       "forks": 18,
       "language": "Swift",
-      "pushed_at": "2026-11-19T21:46:34Z",
+      "pushed_at": "2026-11-20T05:46:43Z",
       "updated_at": "2026-11-19T08:31:16Z"
     },
     {
-      "id": 1423627652,
-      "full_name": "AlienTechSoftware/notecraft",
-      "html_url": "https://github.com/AlienTechSoftware/notecraft",
-      "description": "Note taking and organization; an open-source, clean-room reimplementation of Microsoft OneNote, rebuilt in pure Rust",
-      "stars": 201,
-      "forks": 24,
-      "language": "Rust",
-      "pushed_at": "2026-11-19T22:51:24Z",
-      "updated_at": "2026-11-19T22:30:24Z"
+      "id": 945556397,
+      "full_name": "ronynn/karui",
+      "html_url": "https://github.com/ronynn/karui",
+      "description": "Karui (軽い) is a offline only aesthetically pleasing, sync supported google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's a 145kb apk that allows you to take notes from status bar and from other apps with support for homescreen widgets! Made with ❤️ and Vue",
+      "stars": 156,
+      "forks": 7,
+      "language": "Vue",
+      "pushed_at": "2026-11-20T04:43:26Z",
+      "updated_at": "2026-11-13T00:36:20Z"
+    },
+    {
+      "id": 1165269890,
+      "full_name": "EvanZhang008/open-walnut",
+      "html_url": "https://github.com/EvanZhang008/open-walnut",
+      "description": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+      "stars": 140,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-20T05:48:18Z",
+      "updated_at": "2026-11-12T16:02:40Z"
+    },
+    {
+      "id": 1227957944,
+      "full_name": "Mikedev115/Aetox-Harness",
+      "html_url": "https://github.com/Mikedev115/Aetox-Harness",
+      "description": "Aetox harness: a local-first Windows AI environment - model, skills, team and memory as one system. Two doors - an Assistant that adapts to your work and drives a real browser; and a Developer that names each weakness before writing, checks the project's security, runs the project's tests before saying done, and remembers what this project decided.",
+      "stars": 126,
+      "forks": 25,
+      "language": "Go",
+      "pushed_at": "2026-11-20T05:39:07Z",
+      "updated_at": "2026-11-19T09:51:12Z"
+    },
+    {
+      "id": 1152501328,
+      "full_name": "JunWeiUp/Clipy",
+      "html_url": "https://github.com/JunWeiUp/Clipy",
+      "description": "Open-source clipboard manager for macOS, Windows & Android: clipboard history, encrypted LAN sync, file transfer. macOS screenshots/OCR, snippets, AI token usage, Keep Awake. 开源跨平台剪贴板管理、局域网同步、截图与防休眠。",
+      "stars": 120,
+      "forks": 2,
+      "language": "Swift",
+      "pushed_at": "2026-11-20T03:56:50Z",
+      "updated_at": "2026-11-16T12:39:55Z"
     }
   ]
 }
