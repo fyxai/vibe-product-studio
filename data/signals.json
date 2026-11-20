@@ -5,139 +5,161 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1334,
+  "total_found": 1336,
   "items": [
+    {
+      "id": 343078060,
+      "full_name": "lissy93/dashy",
+      "html_url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "stars": 27033,
+      "forks": 1968,
+      "language": "Vue",
+      "pushed_at": "2026-11-20T15:54:24Z",
+      "updated_at": "2026-11-20T16:10:19Z"
+    },
+    {
+      "id": 1110782890,
+      "full_name": "YishenTu/claudian",
+      "html_url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.",
+      "stars": 16039,
+      "forks": 1102,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-20T15:58:20Z",
+      "updated_at": "2026-11-20T15:27:26Z"
+    },
+    {
+      "id": 1079924730,
+      "full_name": "OmniNull/OmniWM",
+      "html_url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "stars": 3665,
+      "forks": 183,
+      "language": "Swift",
+      "pushed_at": "2026-11-20T16:23:42Z",
+      "updated_at": "2026-11-20T16:39:04Z"
+    },
     {
       "id": 1148683593,
       "full_name": "eval-exec/neomacs",
       "html_url": "https://github.com/eval-exec/neomacs",
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
-      "stars": 1812,
+      "stars": 1813,
       "forks": 74,
       "language": "Rust",
-      "pushed_at": "2026-11-20T03:52:14Z",
-      "updated_at": "2026-11-19T21:42:29Z"
+      "pushed_at": "2026-11-20T16:06:33Z",
+      "updated_at": "2026-11-20T16:33:08Z"
     },
     {
       "id": 1443805845,
       "full_name": "Renly1994/xiaotang-daozai",
       "html_url": "https://github.com/Renly1994/xiaotang-daozai",
       "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "stars": 1526,
-      "forks": 262,
+      "stars": 1558,
+      "forks": 266,
       "language": "Rust",
-      "pushed_at": "2026-11-20T04:11:56Z",
-      "updated_at": "2026-11-20T05:42:21Z"
+      "pushed_at": "2026-11-20T16:40:57Z",
+      "updated_at": "2026-11-20T16:36:14Z"
     },
     {
       "id": 1183931176,
       "full_name": "ifer47/markeron",
       "html_url": "https://github.com/ifer47/markeron",
       "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
-      "stars": 1223,
+      "stars": 1224,
       "forks": 82,
       "language": "TypeScript",
-      "pushed_at": "2026-11-20T03:40:07Z",
-      "updated_at": "2026-11-19T16:50:00Z"
+      "pushed_at": "2026-11-20T16:39:43Z",
+      "updated_at": "2026-11-20T12:35:35Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom, Open-Source Governed AI Agent Platform for Self-Hosted Trained Agents For Your Business",
-      "stars": 912,
-      "forks": 94,
-      "language": "Python",
-      "pushed_at": "2026-11-20T04:39:29Z",
-      "updated_at": "2026-11-19T22:48:10Z"
+      "id": 1368167244,
+      "full_name": "DayuanJiang/PecoFence",
+      "html_url": "https://github.com/DayuanJiang/PecoFence",
+      "description": "A free, open-source Stardock Fences alternative for Windows 11 and 10. Glass fences, live folders, tabs, Peek. Rust, a few MB of RAM at rest, 11 languages, portable.",
+      "stars": 1005,
+      "forks": 63,
+      "language": "Rust",
+      "pushed_at": "2026-11-20T16:16:45Z",
+      "updated_at": "2026-11-20T16:03:48Z"
     },
     {
-      "id": 1412610162,
-      "full_name": "SaarthurR/atticus-mac",
-      "html_url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
-      "stars": 816,
-      "forks": 92,
-      "language": "Python",
-      "pushed_at": "2026-11-20T05:25:01Z",
-      "updated_at": "2026-11-20T02:04:06Z"
-    },
-    {
-      "id": 549694131,
-      "full_name": "ever-co/ever-teams",
-      "html_url": "https://github.com/ever-co/ever-teams",
-      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
-      "stars": 609,
-      "forks": 115,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-20T05:06:55Z",
-      "updated_at": "2026-11-18T20:30:42Z"
+      "id": 869263252,
+      "full_name": "awaseem/foqos",
+      "html_url": "https://github.com/awaseem/foqos",
+      "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Scrolly, Blok and more!",
+      "stars": 939,
+      "forks": 174,
+      "language": "Swift",
+      "pushed_at": "2026-11-20T15:27:40Z",
+      "updated_at": "2026-11-19T23:22:38Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 594,
-      "forks": 63,
+      "stars": 609,
+      "forks": 65,
       "language": "TypeScript",
-      "pushed_at": "2026-11-20T05:28:41Z",
-      "updated_at": "2026-11-20T05:14:35Z"
+      "pushed_at": "2026-11-20T16:42:04Z",
+      "updated_at": "2026-11-20T16:19:16Z"
     },
     {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 359,
-      "forks": 26,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-20T04:08:42Z",
-      "updated_at": "2026-11-20T03:08:02Z"
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "Open-source AI Agent for iOS, iPadOS and Android, designed primarily for iPadOS. On-device Linux, 3D/CAD, Notes, Office, Canvas, Python/Node.js, terminal, Git, voice and Skill Hub. BYOK AI; supported local models and native 3D editing on iOS. 开源设备端 AI 工作台，以 iPadOS 体验为核心。",
+      "stars": 457,
+      "forks": 63,
+      "language": "Swift",
+      "pushed_at": "2026-11-20T16:23:07Z",
+      "updated_at": "2026-11-17T00:04:54Z"
     },
     {
       "id": 1133241492,
       "full_name": "gnoviawan/troupe",
       "html_url": "https://github.com/gnoviawan/troupe",
       "description": "Troupe any Agents in one UI for Claude, ChatGPT, Antigravity and 30+ more",
-      "stars": 331,
+      "stars": 333,
       "forks": 64,
       "language": "TypeScript",
-      "pushed_at": "2026-11-20T05:31:19Z",
-      "updated_at": "2026-11-18T02:48:17Z"
+      "pushed_at": "2026-11-20T16:24:17Z",
+      "updated_at": "2026-11-20T14:19:10Z"
     },
     {
-      "id": 1338000115,
-      "full_name": "MuQY1818/OpenYoink",
-      "html_url": "https://github.com/MuQY1818/OpenYoink",
-      "description": "A free, open-source macOS drag-and-drop shelf and Dynamic Island for files, images, text and links. Built with SwiftUI + AppKit.",
-      "stars": 273,
+      "id": 1221180063,
+      "full_name": "coco-research/coco",
+      "html_url": "https://github.com/coco-research/coco",
+      "description": "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command installs them into the tool you already use.",
+      "stars": 327,
+      "forks": 15,
+      "language": "Python",
+      "pushed_at": "2026-11-20T16:39:16Z",
+      "updated_at": "2026-11-20T03:37:25Z"
+    },
+    {
+      "id": 1288180765,
+      "full_name": "KiwiCanopy/KiwiDesk",
+      "html_url": "https://github.com/KiwiCanopy/KiwiDesk",
+      "description": "Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP.",
+      "stars": 260,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-20T04:35:25Z",
-      "updated_at": "2026-11-20T05:14:25Z"
+      "pushed_at": "2026-11-20T15:31:46Z",
+      "updated_at": "2026-11-19T13:03:15Z"
     },
     {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, on-device AI dictation and meeting notes for macOS. Sub-second dictation with Parakeet and Whisper on Apple Silicon, plus optional AI polish. EnviousMeet (Beta): record calls with no bot, get who-said-what transcripts and AI summaries on your Mac. No account, no subscription, open source. Your audio never leaves your Mac.",
-      "stars": 224,
-      "forks": 18,
-      "language": "Swift",
-      "pushed_at": "2026-11-20T05:46:43Z",
-      "updated_at": "2026-11-19T08:31:16Z"
-    },
-    {
-      "id": 945556397,
-      "full_name": "ronynn/karui",
-      "html_url": "https://github.com/ronynn/karui",
-      "description": "Karui (軽い) is a offline only aesthetically pleasing, sync supported google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's a 145kb apk that allows you to take notes from status bar and from other apps with support for homescreen widgets! Made with ❤️ and Vue",
-      "stars": 156,
-      "forks": 7,
-      "language": "Vue",
-      "pushed_at": "2026-11-20T04:43:26Z",
-      "updated_at": "2026-11-13T00:36:20Z"
+      "id": 1423627652,
+      "full_name": "AlienTechSoftware/notecraft",
+      "html_url": "https://github.com/AlienTechSoftware/notecraft",
+      "description": "Note taking and organization; an open-source, clean-room reimplementation of Microsoft OneNote, rebuilt in pure Rust",
+      "stars": 206,
+      "forks": 24,
+      "language": "Rust",
+      "pushed_at": "2026-11-20T16:18:14Z",
+      "updated_at": "2026-11-20T14:58:01Z"
     },
     {
       "id": 1165269890,
@@ -147,30 +169,8 @@
       "stars": 140,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-20T05:48:18Z",
+      "pushed_at": "2026-11-20T16:40:33Z",
       "updated_at": "2026-11-12T16:02:40Z"
-    },
-    {
-      "id": 1227957944,
-      "full_name": "Mikedev115/Aetox-Harness",
-      "html_url": "https://github.com/Mikedev115/Aetox-Harness",
-      "description": "Aetox harness: a local-first Windows AI environment - model, skills, team and memory as one system. Two doors - an Assistant that adapts to your work and drives a real browser; and a Developer that names each weakness before writing, checks the project's security, runs the project's tests before saying done, and remembers what this project decided.",
-      "stars": 126,
-      "forks": 25,
-      "language": "Go",
-      "pushed_at": "2026-11-20T05:39:07Z",
-      "updated_at": "2026-11-19T09:51:12Z"
-    },
-    {
-      "id": 1152501328,
-      "full_name": "JunWeiUp/Clipy",
-      "html_url": "https://github.com/JunWeiUp/Clipy",
-      "description": "Open-source clipboard manager for macOS, Windows & Android: clipboard history, encrypted LAN sync, file transfer. macOS screenshots/OCR, snippets, AI token usage, Keep Awake. 开源跨平台剪贴板管理、局域网同步、截图与防休眠。",
-      "stars": 120,
-      "forks": 2,
-      "language": "Swift",
-      "pushed_at": "2026-11-20T03:56:50Z",
-      "updated_at": "2026-11-16T12:39:55Z"
     }
   ]
 }
