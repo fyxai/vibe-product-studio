@@ -5,73 +5,106 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1809,
+  "total_found": 1810,
   "items": [
+    {
+      "id": 33702544,
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "stars": 24506,
+      "forks": 2352,
+      "language": "Python",
+      "pushed_at": "2026-11-26T17:29:59Z",
+      "updated_at": "2026-11-26T17:01:25Z"
+    },
+    {
+      "id": 257526212,
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+      "stars": 16104,
+      "forks": 691,
+      "language": "C#",
+      "pushed_at": "2026-11-26T17:04:05Z",
+      "updated_at": "2026-11-26T17:41:04Z"
+    },
+    {
+      "id": 115446081,
+      "full_name": "Zettlr/Zettlr",
+      "html_url": "https://github.com/Zettlr/Zettlr",
+      "description": "Your One-Stop Publication Workbench",
+      "stars": 13965,
+      "forks": 875,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-26T16:59:33Z",
+      "updated_at": "2026-11-26T14:38:37Z"
+    },
     {
       "id": 939207877,
       "full_name": "mg-chao/snow-shot",
       "html_url": "https://github.com/mg-chao/snow-shot",
       "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
-      "stars": 7495,
+      "stars": 7512,
       "forks": 516,
       "language": "C++",
-      "pushed_at": "2026-11-26T07:21:30Z",
-      "updated_at": "2026-11-26T07:29:16Z"
+      "pushed_at": "2026-11-26T17:21:06Z",
+      "updated_at": "2026-11-26T17:01:27Z"
     },
     {
-      "id": 1079924730,
-      "full_name": "OmniNull/OmniWM",
-      "html_url": "https://github.com/OmniNull/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "stars": 3723,
-      "forks": 192,
-      "language": "Swift",
-      "pushed_at": "2026-11-26T07:02:10Z",
-      "updated_at": "2026-11-26T06:03:27Z"
+      "id": 11512043,
+      "full_name": "tasks/tasks",
+      "html_url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5808,
+      "forks": 692,
+      "language": "Kotlin",
+      "pushed_at": "2026-11-26T17:41:43Z",
+      "updated_at": "2026-11-26T17:50:03Z"
     },
     {
-      "id": 1409660690,
-      "full_name": "LingCore/WinShun",
-      "html_url": "https://github.com/LingCore/WinShun",
-      "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
-      "stars": 1250,
-      "forks": 85,
-      "language": "C++",
-      "pushed_at": "2026-11-26T07:07:21Z",
-      "updated_at": "2026-11-26T07:18:46Z"
+      "id": 897595329,
+      "full_name": "basicmachines-co/basic-memory",
+      "html_url": "https://github.com/basicmachines-co/basic-memory",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "stars": 4719,
+      "forks": 376,
+      "language": "Python",
+      "pushed_at": "2026-11-26T17:18:29Z",
+      "updated_at": "2026-11-26T18:08:11Z"
+    },
+    {
+      "id": 1187304686,
+      "full_name": "westpoint-io/mimik",
+      "html_url": "https://github.com/westpoint-io/mimik",
+      "description": "🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖",
+      "stars": 1943,
+      "forks": 227,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-26T17:21:50Z",
+      "updated_at": "2026-11-26T14:00:15Z"
+    },
+    {
+      "id": 1144946140,
+      "full_name": "mohitagw15856/pm-claude-skills",
+      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "1,310 professional Agent Skills for Claude, Claude Duet, ChatGPT, Gemini, Cursor & Codex: PRDs, postmortems, leases, medical bills, payroll checks, morning briefs. 21 skills built for always-on agents like Claude Duet. Plain markdown, MIT, in Anthropic's plugin directory. Free in-browser or npx pm-claude-skills add.",
+      "stars": 1608,
+      "forks": 290,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-26T18:16:41Z",
+      "updated_at": "2026-11-26T13:08:27Z"
     },
     {
       "id": 1412617976,
       "full_name": "OpenTodoApp/OpenTodo",
       "html_url": "https://github.com/OpenTodoApp/OpenTodo",
       "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 735,
+      "stars": 750,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T07:28:14Z",
-      "updated_at": "2026-11-26T07:57:05Z"
-    },
-    {
-      "id": 1449695486,
-      "full_name": "gelenmedya/rustyfiles",
-      "html_url": "https://github.com/gelenmedya/rustyfiles",
-      "description": "A fast file manager for Windows and macOS that never freezes: tabs, dual panes, archives as folders, Quick Look-style previews. A File Explorer and Finder alternative written in Rust.",
-      "stars": 611,
-      "forks": 40,
-      "language": "Rust",
-      "pushed_at": "2026-11-26T07:47:28Z",
-      "updated_at": "2026-11-26T07:45:49Z"
-    },
-    {
-      "id": 1281898617,
-      "full_name": "qpst4/XGesture",
-      "html_url": "https://github.com/qpst4/XGesture",
-      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
-      "stars": 385,
-      "forks": 29,
-      "language": "Kotlin",
-      "pushed_at": "2026-11-26T07:41:59Z",
-      "updated_at": "2026-11-25T03:35:59Z"
+      "pushed_at": "2026-11-26T18:17:27Z",
+      "updated_at": "2026-11-26T17:40:14Z"
     },
     {
       "id": 1221180063,
@@ -81,7 +114,7 @@
       "stars": 326,
       "forks": 16,
       "language": "Python",
-      "pushed_at": "2026-11-26T07:46:48Z",
+      "pushed_at": "2026-11-26T18:14:34Z",
       "updated_at": "2026-11-24T04:14:52Z"
     },
     {
@@ -92,52 +125,41 @@
       "stars": 291,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-26T07:49:58Z",
+      "pushed_at": "2026-11-26T18:19:34Z",
       "updated_at": "2026-11-26T05:07:08Z"
     },
     {
-      "id": 1338262606,
-      "full_name": "Clockoli/clockoli",
-      "html_url": "https://github.com/Clockoli/clockoli",
-      "description": "The Git-native time tracker for teams. Free forever, open-source, serverless. Your GitHub repo is your database. No subscriptions, no seat limits, no vendor lock-in.",
-      "stars": 257,
-      "forks": 26,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-26T07:09:52Z",
-      "updated_at": "2026-11-26T07:26:53Z"
-    },
-    {
-      "id": 1161274003,
-      "full_name": "saurabhav88/EnviousWispr",
-      "html_url": "https://github.com/saurabhav88/EnviousWispr",
-      "description": "Free, on-device AI dictation and meeting notes for macOS. Sub-second dictation with Parakeet and Whisper on Apple Silicon, plus optional AI polish. EnviousMeet (Beta): record calls with no bot, get who-said-what transcripts and AI summaries on your Mac. No account, no subscription, open source. Your audio never leaves your Mac.",
-      "stars": 231,
-      "forks": 18,
-      "language": "Swift",
-      "pushed_at": "2026-11-26T07:53:18Z",
-      "updated_at": "2026-11-26T05:30:37Z"
-    },
-    {
-      "id": 1318362226,
-      "full_name": "prapaa-ai/agav",
-      "html_url": "https://github.com/prapaa-ai/agav",
-      "description": "Terminal-native AI coding assistant for real repositories. Inspect code, edit files, run tests, and verify changes from the CLI.",
-      "stars": 204,
-      "forks": 90,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-26T06:26:34Z",
-      "updated_at": "2026-11-26T06:29:27Z"
+      "id": 1274193533,
+      "full_name": "yuan278501381/Tools3000",
+      "html_url": "https://github.com/yuan278501381/Tools3000",
+      "description": "Native C++20/Rust 13-in-1 Windows suite (~15MB idle, 0 Electron): instant NTFS/app/bookmark/content search (+ 350KB MCP server), persistent clipboard, Text Expander, Listary dialog jump, File Locksmith, 8-lang offline OCR & 1:1 translation, auto-zoom recorder, mouse gestures & <2MB Picasa viewer.",
+      "stars": 192,
+      "forks": 24,
+      "language": "C++",
+      "pushed_at": "2026-11-26T17:01:48Z",
+      "updated_at": "2026-11-26T13:44:27Z"
     },
     {
       "id": 1427352205,
       "full_name": "KettuAI/Kettu",
       "html_url": "https://github.com/KettuAI/Kettu",
       "description": "Beauty is productivity. Claude Code, Codex, OpenCode, Pi and 40+ more coding agents, side by side in one window.",
-      "stars": 176,
-      "forks": 20,
+      "stars": 188,
+      "forks": 21,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T07:57:13Z",
-      "updated_at": "2026-11-26T07:50:56Z"
+      "pushed_at": "2026-11-26T18:17:24Z",
+      "updated_at": "2026-11-26T17:32:26Z"
+    },
+    {
+      "id": 1324408393,
+      "full_name": "ycl-2004/Orbit",
+      "html_url": "https://github.com/ycl-2004/Orbit",
+      "description": "A native macOS app switcher for people who want faster window switching — radial, gesture-first, fully on-device.",
+      "stars": 177,
+      "forks": 0,
+      "language": "Swift",
+      "pushed_at": "2026-11-26T18:13:39Z",
+      "updated_at": "2026-11-18T15:11:33Z"
     },
     {
       "id": 1165269890,
@@ -147,30 +169,8 @@
       "stars": 142,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T07:58:04Z",
+      "pushed_at": "2026-11-26T18:18:56Z",
       "updated_at": "2026-11-22T06:32:42Z"
-    },
-    {
-      "id": 1357826583,
-      "full_name": "edrisranjbar/lifeos",
-      "html_url": "https://github.com/edrisranjbar/lifeos",
-      "description": "Self-hosted life OS: habits, goals, Kanban, finance and focus, with an MCP server for AI.",
-      "stars": 128,
-      "forks": 17,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-26T06:59:13Z",
-      "updated_at": "2026-11-25T20:31:16Z"
-    },
-    {
-      "id": 1241483596,
-      "full_name": "rawsun007/claude-notch",
-      "html_url": "https://github.com/rawsun007/claude-notch",
-      "description": "Approve Claude Code from your Mac's notch. A native SwiftUI menu-bar app that surfaces Claude Code permission prompts, questions, cost and context usage, no tabbing back to the terminal.",
-      "stars": 113,
-      "forks": 4,
-      "language": "Swift",
-      "pushed_at": "2026-11-26T06:47:16Z",
-      "updated_at": "2026-11-26T05:35:17Z"
     }
   ]
 }
