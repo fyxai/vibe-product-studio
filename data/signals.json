@@ -5,117 +5,51 @@
     "type": "github-search",
     "query": "topic:productivity stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1810,
+  "total_found": 1804,
   "items": [
     {
-      "id": 33702544,
-      "full_name": "plotly/dash",
-      "html_url": "https://github.com/plotly/dash",
-      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-      "stars": 24506,
-      "forks": 2352,
-      "language": "Python",
-      "pushed_at": "2026-11-26T17:29:59Z",
-      "updated_at": "2026-11-26T17:01:25Z"
+      "id": 1284153858,
+      "full_name": "abue-ammar/tinycast",
+      "html_url": "https://github.com/abue-ammar/tinycast",
+      "description": "A native macOS launcher built for productivity. Fast, lightweight, and open source.",
+      "stars": 9850,
+      "forks": 628,
+      "language": "Swift",
+      "pushed_at": "2026-11-27T01:07:53Z",
+      "updated_at": "2026-11-27T02:25:16Z"
     },
     {
-      "id": 257526212,
-      "full_name": "Flow-Launcher/Flow.Launcher",
-      "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
-      "stars": 16104,
-      "forks": 691,
-      "language": "C#",
-      "pushed_at": "2026-11-26T17:04:05Z",
-      "updated_at": "2026-11-26T17:41:04Z"
-    },
-    {
-      "id": 115446081,
-      "full_name": "Zettlr/Zettlr",
-      "html_url": "https://github.com/Zettlr/Zettlr",
-      "description": "Your One-Stop Publication Workbench",
-      "stars": 13965,
-      "forks": 875,
+      "id": 549694131,
+      "full_name": "ever-co/ever-teams",
+      "html_url": "https://github.com/ever-co/ever-teams",
+      "description": "Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team",
+      "stars": 610,
+      "forks": 115,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T16:59:33Z",
-      "updated_at": "2026-11-26T14:38:37Z"
+      "pushed_at": "2026-11-27T02:35:57Z",
+      "updated_at": "2026-11-21T02:27:11Z"
     },
     {
-      "id": 939207877,
-      "full_name": "mg-chao/snow-shot",
-      "html_url": "https://github.com/mg-chao/snow-shot",
-      "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
-      "stars": 7512,
-      "forks": 516,
-      "language": "C++",
-      "pushed_at": "2026-11-26T17:21:06Z",
-      "updated_at": "2026-11-26T17:01:27Z"
-    },
-    {
-      "id": 11512043,
-      "full_name": "tasks/tasks",
-      "html_url": "https://github.com/tasks/tasks",
-      "description": "Bringing Astrid Tasks back from the dead",
-      "stars": 5808,
-      "forks": 692,
+      "id": 1281898617,
+      "full_name": "qpst4/XGesture",
+      "html_url": "https://github.com/qpst4/XGesture",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "stars": 387,
+      "forks": 29,
       "language": "Kotlin",
-      "pushed_at": "2026-11-26T17:41:43Z",
-      "updated_at": "2026-11-26T17:50:03Z"
+      "pushed_at": "2026-11-27T01:35:10Z",
+      "updated_at": "2026-11-26T19:17:26Z"
     },
     {
-      "id": 897595329,
-      "full_name": "basicmachines-co/basic-memory",
-      "html_url": "https://github.com/basicmachines-co/basic-memory",
-      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
-      "stars": 4719,
-      "forks": 376,
-      "language": "Python",
-      "pushed_at": "2026-11-26T17:18:29Z",
-      "updated_at": "2026-11-26T18:08:11Z"
-    },
-    {
-      "id": 1187304686,
-      "full_name": "westpoint-io/mimik",
-      "html_url": "https://github.com/westpoint-io/mimik",
-      "description": "🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖",
-      "stars": 1943,
-      "forks": 227,
+      "id": 1133241492,
+      "full_name": "gnoviawan/troupe",
+      "html_url": "https://github.com/gnoviawan/troupe",
+      "description": "Troupe any Agents in one UI for Claude, ChatGPT, Antigravity and 30+ more",
+      "stars": 370,
+      "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T17:21:50Z",
-      "updated_at": "2026-11-26T14:00:15Z"
-    },
-    {
-      "id": 1144946140,
-      "full_name": "mohitagw15856/pm-claude-skills",
-      "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1,310 professional Agent Skills for Claude, Claude Duet, ChatGPT, Gemini, Cursor & Codex: PRDs, postmortems, leases, medical bills, payroll checks, morning briefs. 21 skills built for always-on agents like Claude Duet. Plain markdown, MIT, in Anthropic's plugin directory. Free in-browser or npx pm-claude-skills add.",
-      "stars": 1608,
-      "forks": 290,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-26T18:16:41Z",
-      "updated_at": "2026-11-26T13:08:27Z"
-    },
-    {
-      "id": 1412617976,
-      "full_name": "OpenTodoApp/OpenTodo",
-      "html_url": "https://github.com/OpenTodoApp/OpenTodo",
-      "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
-      "stars": 750,
-      "forks": 74,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-26T18:17:27Z",
-      "updated_at": "2026-11-26T17:40:14Z"
-    },
-    {
-      "id": 1221180063,
-      "full_name": "coco-research/coco",
-      "html_url": "https://github.com/coco-research/coco",
-      "description": "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command installs them into the tool you already use.",
-      "stars": 326,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-11-26T18:14:34Z",
-      "updated_at": "2026-11-24T04:14:52Z"
+      "pushed_at": "2026-11-27T02:29:52Z",
+      "updated_at": "2026-11-27T02:08:11Z"
     },
     {
       "id": 1288180765,
@@ -125,41 +59,85 @@
       "stars": 291,
       "forks": 8,
       "language": "Swift",
-      "pushed_at": "2026-11-26T18:19:34Z",
+      "pushed_at": "2026-11-27T02:35:46Z",
       "updated_at": "2026-11-26T05:07:08Z"
+    },
+    {
+      "id": 1108054886,
+      "full_name": "ReKindleOS/ReKindle",
+      "html_url": "https://github.com/ReKindleOS/ReKindle",
+      "description": "Your Kindle Upgraded",
+      "stars": 210,
+      "forks": 25,
+      "language": "HTML",
+      "pushed_at": "2026-11-27T01:44:39Z",
+      "updated_at": "2026-11-25T17:25:00Z"
+    },
+    {
+      "id": 1458203382,
+      "full_name": "cam-gardner/microsoft-office-desktop",
+      "html_url": "https://github.com/cam-gardner/microsoft-office-desktop",
+      "description": "Microsoft Office 2026 desktop setup with document authoring, spreadsheet engine, presentation module and bundled multilingual interface for Windows 11",
+      "stars": 209,
+      "forks": 0,
+      "language": "C++",
+      "pushed_at": "2026-11-27T00:53:12Z",
+      "updated_at": "2026-11-20T20:39:26Z"
     },
     {
       "id": 1274193533,
       "full_name": "yuan278501381/Tools3000",
       "html_url": "https://github.com/yuan278501381/Tools3000",
       "description": "Native C++20/Rust 13-in-1 Windows suite (~15MB idle, 0 Electron): instant NTFS/app/bookmark/content search (+ 350KB MCP server), persistent clipboard, Text Expander, Listary dialog jump, File Locksmith, 8-lang offline OCR & 1:1 translation, auto-zoom recorder, mouse gestures & <2MB Picasa viewer.",
-      "stars": 192,
+      "stars": 202,
       "forks": 24,
       "language": "C++",
-      "pushed_at": "2026-11-26T17:01:48Z",
-      "updated_at": "2026-11-26T13:44:27Z"
+      "pushed_at": "2026-11-27T02:05:01Z",
+      "updated_at": "2026-11-27T02:20:48Z"
+    },
+    {
+      "id": 1318161506,
+      "full_name": "ximizhou/convenient_window_free",
+      "html_url": "https://github.com/ximizhou/convenient_window_free",
+      "description": "Windows 11 window tools for hot corners, edge hiding, mouse gestures and layouts. Available as a standalone desktop app and a DeepSeek Harness (DSH) plugin.",
+      "stars": 200,
+      "forks": 8,
+      "language": "Rust",
+      "pushed_at": "2026-11-27T01:58:03Z",
+      "updated_at": "2026-11-24T06:44:10Z"
+    },
+    {
+      "id": 1140929355,
+      "full_name": "krelltunez/dayGLANCE",
+      "html_url": "https://github.com/krelltunez/dayGLANCE",
+      "description": "Your day, at a glance",
+      "stars": 192,
+      "forks": 24,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-27T01:42:31Z",
+      "updated_at": "2026-11-24T11:53:18Z"
     },
     {
       "id": 1427352205,
       "full_name": "KettuAI/Kettu",
       "html_url": "https://github.com/KettuAI/Kettu",
       "description": "Beauty is productivity. Claude Code, Codex, OpenCode, Pi and 40+ more coding agents, side by side in one window.",
-      "stars": 188,
+      "stars": 190,
       "forks": 21,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T18:17:24Z",
-      "updated_at": "2026-11-26T17:32:26Z"
+      "pushed_at": "2026-11-27T00:57:33Z",
+      "updated_at": "2026-11-27T02:28:45Z"
     },
     {
-      "id": 1324408393,
-      "full_name": "ycl-2004/Orbit",
-      "html_url": "https://github.com/ycl-2004/Orbit",
-      "description": "A native macOS app switcher for people who want faster window switching — radial, gesture-first, fully on-device.",
-      "stars": 177,
-      "forks": 0,
-      "language": "Swift",
-      "pushed_at": "2026-11-26T18:13:39Z",
-      "updated_at": "2026-11-18T15:11:33Z"
+      "id": 1427636888,
+      "full_name": "liimalim/Poni",
+      "html_url": "https://github.com/liimalim/Poni",
+      "description": "An interactive notch for Windows, like Dynamic Island, with a Mac-style Dock (Beta for Mac and Linux). Music with lyrics, calendar, notifications, to-dos, AI chat and a 3D buddy at the top of your screen. Free, no ads.",
+      "stars": 189,
+      "forks": 23,
+      "language": "Unknown",
+      "pushed_at": "2026-11-27T00:52:34Z",
+      "updated_at": "2026-11-27T02:32:06Z"
     },
     {
       "id": 1165269890,
@@ -169,8 +147,30 @@
       "stars": 142,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T18:18:56Z",
+      "pushed_at": "2026-11-27T02:38:34Z",
       "updated_at": "2026-11-22T06:32:42Z"
+    },
+    {
+      "id": 993148803,
+      "full_name": "Dpro-at/Girru",
+      "html_url": "https://github.com/Dpro-at/Girru",
+      "description": "Open-source AI desktop assistant — run local or remote LLMs with privacy-first design and zero setup required.",
+      "stars": 119,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-27T02:04:03Z",
+      "updated_at": "2026-11-26T22:37:39Z"
+    },
+    {
+      "id": 899559464,
+      "full_name": "VeteranBoLuo/light-note",
+      "html_url": "https://github.com/VeteranBoLuo/light-note",
+      "description": "轻笺 - 免费的书签、笔记与云文件管理平台，内置 AI 助手，支持跨设备同步｜Free bookmark, note and cloud file manager.",
+      "stars": 112,
+      "forks": 15,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-27T01:53:15Z",
+      "updated_at": "2026-11-27T02:36:35Z"
     }
   ]
 }
